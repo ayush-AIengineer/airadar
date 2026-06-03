@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -rf airadar.db qdrant_data)",
+      "Bash(uv run *)",
+      "Bash(grep -Ev \"INFO|^$\")"
+    ]
+  }
+}

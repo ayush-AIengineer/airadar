@@ -133,6 +133,9 @@ class Tool(Base):
     confidence_score: Mapped[float | None] = mapped_column(Float)
     quality_score: Mapped[int | None] = mapped_column(Integer)  # 0–100
     is_duplicate_of_id: Mapped[uuid.UUID | None] = mapped_column(ForeignKey("tools.id"))
+    # Curator/Dedup audit (Architecture §4.4): why this tool was kept/collapsed/scored.
+    decision_reason: Mapped[str | None] = mapped_column(Text)
+    curated_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True))
     first_seen_at: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), nullable=False, server_default=func.now()
     )

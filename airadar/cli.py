@@ -12,6 +12,7 @@ import asyncio
 import typer
 from loguru import logger
 
+from airadar.agents.curator import run_curator
 from airadar.agents.discovery import run_discovery
 from airadar.agents.enrichment import run_enrichment
 from airadar.agents.scraper import run_scraper
@@ -87,11 +88,20 @@ def pipeline_once_cmd(
             f"skipped={r.skipped} fields_blanked={r.fields_blanked}"
         )
 
+    async def _curate() -> None:
+        async with session_scope() as session:
+            r = await run_curator(session, limit=limit)
+        typer.echo(
+            f"  curate:    curated={r.curated} duplicates={r.duplicates} "
+            f"published={r.published}"
+        )
+
     logger.info("pipeline-once starting for source={}", source)
     typer.echo(f"pipeline-once [{source}]:")
     asyncio.run(_discover())
     asyncio.run(_scrape())
     asyncio.run(_enrich())
+    asyncio.run(_curate())
 
 
 if __name__ == "__main__":

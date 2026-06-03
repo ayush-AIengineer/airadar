@@ -34,8 +34,15 @@ class Settings(BaseSettings):
 
     # ── LLM ──────────────────────────────────────────────────────────────────
     anthropic_api_key: str = ""
+    openai_api_key: str = ""  # used for embeddings (text-embedding-3-small)
     enrichment_model: str = "claude-sonnet-4-6"
     classifier_model: str = "claude-haiku-4-5-20251001"
+
+    # ── Dedup / Curator (Architecture §4.4) ──────────────────────────────────
+    # Local Qdrant on disk (no Docker). Set a server URL in Phase 2 prod.
+    qdrant_path: str = "./qdrant_data"
+    dedup_similarity_threshold: float = Field(default=0.88, ge=0.0, le=1.0)
+    dedup_lookback_days: int = Field(default=90, gt=0)
 
     # ── Pipeline tuning (mirrors Architecture §11 cost discipline) ───────────
     discovery_signal_threshold: float = Field(default=0.6, ge=0.0, le=1.0)

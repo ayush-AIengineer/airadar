@@ -8,6 +8,7 @@ from datetime import date, datetime
 
 from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
+from sqlalchemy.orm import selectinload
 
 from airadar.db.models import Category as CategoryRow
 from airadar.db.models import Tool, ToolEvidence
@@ -22,6 +23,32 @@ async def exists_by_hash(session: AsyncSession, url_hash: str) -> bool:
         select(Tool.id).where(Tool.canonical_url_hash == url_hash)
     )
     return existing is not None
+
+
+async def get_uncurated(session: AsyncSession, limit: int = 200) -> list[Tool]:
+    """Tools not yet processed by the curator (curated_at IS NULL), oldest first."""
+    result = await session.scalars(
+        select(Tool)
+        .where(Tool.curated_at.is_(None))
+        .order_by(Tool.first_seen_at)
+        .limit(limit)
+        .options(selectinload(Tool.categories))  # eager-load for async access
+    )
+    return list(result)
+
+
+async def list_curated_canonicals(
+    session: AsyncSession, since: datetime
+) -> list[Tool]:
+    """Non-duplicate tools curated since `since` — used for domain/name-fuzzy matching."""
+    result = await session.scalars(
+        select(Tool).where(
+            Tool.is_duplicate_of_id.is_(None),
+            Tool.curated_at.is_not(None),
+            Tool.first_seen_at >= since,
+        )
+    )
+    return list(result)
 
 
 async def get_or_create_category(session: AsyncSession, slug: str) -> CategoryRow:
