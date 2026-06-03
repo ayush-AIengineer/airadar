@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# Local datastores (Phase 1 SQLite)
+*.db
+*.db-journal
+*.sqlite3
+
+# Build / artifacts
+dist/
+build/
+screenshots/
+data/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node (frontend, added in Phase 2)
+node_modules/
+.next/

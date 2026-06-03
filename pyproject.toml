@@ -1,0 +1,94 @@
+[project]
+name = "airadar"
+version = "0.1.0"
+description = "Multi-agent system that discovers, enriches, deduplicates, and delivers daily AI-tool intelligence."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+authors = [{ name = "AIRadar" }]
+
+# Core dependencies needed for the Phase 1 walking skeleton (scaffold + DB + discovery + CLI).
+# Heavy/optional deps (scraping, LLM, vector, delivery) live in dependency-groups below so the
+# base environment always installs cleanly.
+dependencies = [
+    "sqlalchemy>=2.0,<3.0",
+    "alembic>=1.13",
+    "pydantic>=2.7",
+    "pydantic-settings>=2.3",
+    "httpx>=0.27",
+    "tenacity>=8.4",
+    "loguru>=0.7",
+    "typer>=0.12",          # CLI runner
+    "python-dotenv>=1.0",
+    "tldextract>=5.1",
+    "pycountry>=24.0",
+    "rapidfuzz>=3.9",
+]
+
+[project.scripts]
+airadar = "airadar.cli:app"
+
+[dependency-groups]
+# Lightweight Phase-1 scraper: article extraction with no browser download.
+# The full crawl4ai/playwright tiers (below) land in Phase 3 robustness work.
+scraping-lite = [
+    "trafilatura>=1.10",
+    "selectolax>=0.3",
+]
+# Installed on demand as each pipeline stage lands. Kept out of the base set so `uv sync`
+# never blocks the skeleton on a heavy/finicky wheel (crawl4ai, playwright, etc.).
+scraping = [
+    "crawl4ai>=0.3",
+    "playwright>=1.45",
+    "trafilatura>=1.10",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.2",
+    "selectolax>=0.3",
+    "feedparser>=6.0",
+]
+llm = [
+    "anthropic>=0.34",
+    "instructor>=1.4",
+    "litellm>=1.42",
+]
+vector = [
+    "qdrant-client>=1.10",
+]
+sources = [
+    "praw>=7.7",
+    "PyGithub>=2.3",
+]
+dev = [
+    "ruff>=0.5",
+    "mypy>=1.10",
+    "pytest>=8.2",
+    "pytest-asyncio>=0.23",
+    "vcrpy>=6.0",
+    "aiosqlite>=0.20",      # async SQLite driver for the walking skeleton
+]
+
+[tool.uv]
+default-groups = ["dev"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "ASYNC"]
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+plugins = ["pydantic.mypy"]
+ignore_missing_imports = true
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["airadar"]
