@@ -33,17 +33,28 @@ jobs:
         run: uv sync
 
       - name: Build DB and run the pipeline
+        env:
+          # The auto-provided Actions token raises GitHub's Search API limit (10→30/min),
+          # which fixes the unauthenticated 403 on CI runners. No secret to configure.
+          AIRADAR_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           uv run alembic upgrade head
           uv run airadar seed-sources
-          uv run airadar pipeline-once --source hackernews --lookback-hours 96 --limit 50
-          uv run airadar pipeline-once --source github --lookback-hours 168 --limit 50
+          # A single flaky source must not abort the whole refresh.
+          uv run airadar pipeline-once --source hackernews --lookback-hours 96 --limit 50 || echo "::warning::hackernews source failed"
+          uv run airadar pipeline-once --source github --lookback-hours 168 --limit 50 || echo "::warning::github source failed"
 
       - name: Export public snapshot
         run: uv run python scripts/export_tools_json.py
 
-      - name: Commit snapshot if it changed
+      - name: Commit snapshot if it changed (and is non-empty)
         run: |
+          COUNT=$(uv run python -c "import json; print(json.load(open('frontend/public/data/tools.json'))['count'])")
+          echo "Snapshot has $COUNT tools."
+          if [ "$COUNT" -lt 3 ]; then
+            echo "Too few tools ($COUNT) — keeping the previous snapshot to avoid publishing an empty feed."
+            exit 0
+          fi
           git config user.name "airadar-bot"
           git config user.email "bot@users.noreply.github.com"
           if git diff --quiet -- frontend/public/data/tools.json; then
