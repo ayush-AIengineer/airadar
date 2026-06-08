@@ -9,7 +9,7 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from airadar.db.models import Source
 
-# The Phase 1 seed set (Architecture §5.1, Tier A). Product Hunt / GitHub land next.
+# The seed set (Architecture §5.1, Tier A). Product Hunt lands next (needs an API token).
 SEED_SOURCES: list[dict[str, object]] = [
     {
         "slug": "hackernews",
@@ -17,6 +17,13 @@ SEED_SOURCES: list[dict[str, object]] = [
         "adapter_class": "HackerNewsAdapter",
         "tier": "A",
         "rate_limit_rpm": 60,
+    },
+    {
+        "slug": "github",
+        "name": "GitHub",
+        "adapter_class": "GitHubAdapter",
+        "tier": "A",
+        "rate_limit_rpm": 10,
     },
 ]
 

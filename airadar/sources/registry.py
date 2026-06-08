@@ -7,11 +7,13 @@ adapter for each enabled source row.
 from __future__ import annotations
 
 from airadar.sources.base import SourceAdapter
+from airadar.sources.github import GitHubAdapter
 from airadar.sources.hackernews import HackerNewsAdapter
 
 # adapter_class name -> adapter type
 _REGISTRY: dict[str, type] = {
     "HackerNewsAdapter": HackerNewsAdapter,
+    "GitHubAdapter": GitHubAdapter,
 }
 
 

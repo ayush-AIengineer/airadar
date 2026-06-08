@@ -57,6 +57,14 @@ _NEWS_CONTENT_RE = re.compile(
 )
 
 
+def _mostly_english(text: str) -> bool:
+    """True if the text is predominantly Latin/ASCII (the UI is English-only v1, §2.2)."""
+    if not text:
+        return False
+    ascii_chars = sum(1 for c in text if c.isascii())
+    return ascii_chars / len(text) >= 0.85
+
+
 def _is_publishable(t: Tool) -> bool:
     """Hard quality gate for the public snapshot. When unsure, exclude (R15: protect trust)."""
     name = (t.name or "").strip()
@@ -66,6 +74,8 @@ def _is_publishable(t: Tool) -> bool:
         return False
     # A real product has a usable one-liner that doesn't read like finance/news prose.
     if len(one_liner) < 24:
+        return False
+    if not _mostly_english(one_liner):
         return False
     if _NEWS_CONTENT_RE.search(f"{name} {one_liner}"):
         return False

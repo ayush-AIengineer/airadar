@@ -37,6 +37,7 @@ jobs:
           uv run alembic upgrade head
           uv run airadar seed-sources
           uv run airadar pipeline-once --source hackernews --lookback-hours 96 --limit 50
+          uv run airadar pipeline-once --source github --lookback-hours 168 --limit 50
 
       - name: Export public snapshot
         run: uv run python scripts/export_tools_json.py
