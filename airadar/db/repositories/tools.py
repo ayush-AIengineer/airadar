@@ -51,6 +51,29 @@ async def list_curated_canonicals(
     return list(result)
 
 
+async def list_feed_candidates(
+    session: AsyncSession, since: datetime, min_quality: int = 0
+) -> list[Tool]:
+    """Published tools eligible for delivery: non-duplicate, curated, recent.
+
+    Returns the union across all users (quality filtered loosely here, then per-user
+    filtering happens in the Delivery agent). Ordered best-first by quality score.
+    """
+    result = await session.scalars(
+        select(Tool)
+        .where(
+            Tool.is_duplicate_of_id.is_(None),
+            Tool.curated_at.is_not(None),
+            Tool.quality_score.is_not(None),
+            Tool.quality_score >= min_quality,
+            Tool.first_seen_at >= since,
+        )
+        .order_by(Tool.quality_score.desc())
+        .options(selectinload(Tool.categories))
+    )
+    return list(result)
+
+
 async def get_or_create_category(session: AsyncSession, slug: str) -> CategoryRow:
     row = await session.scalar(select(CategoryRow).where(CategoryRow.slug == slug))
     if row is None:

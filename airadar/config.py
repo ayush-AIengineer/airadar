@@ -53,6 +53,21 @@ class Settings(BaseSettings):
     producthunt_token: str = ""
     github_token: str = ""
 
+    # ── Delivery (Architecture §4.5) ─────────────────────────────────────────
+    # No key → ConsoleEmailSender writes rendered digests to ``delivery_outbox_dir``
+    # so the stage runs fully offline. Set a Resend key to send for real (Phase 2+).
+    resend_api_key: str = ""
+    email_from: str = "AIRadar <digest@airadar.example>"
+    delivery_outbox_dir: str = "./outbox"
+    digest_lookback_hours: int = Field(default=24, gt=0)
+    digest_max_tools: int = Field(default=30, gt=0)  # hard UX cap per digest (R5)
+    digest_min_tools: int = Field(default=3, ge=0)  # widen filters below this, never empty
+
+    # ── Scheduler (Architecture §3.2, R9) ────────────────────────────────────
+    # How often the scheduler wakes to check which users are due for their digest.
+    # Per-user time-of-day comes from each user's digest_cron in their own timezone.
+    scheduler_tick_minutes: int = Field(default=15, gt=0)
+
     @property
     def is_sqlite(self) -> bool:
         return self.database_url.startswith("sqlite")

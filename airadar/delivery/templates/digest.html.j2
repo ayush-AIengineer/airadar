@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+  <body style="font-family: -apple-system, Segoe UI, Roboto, sans-serif; color: #1a1a1a;">
+    <h1 style="font-size: 20px;">Your AIRadar digest</h1>
+    <p style="color: #666;">{{ count }} new AI tool{{ 's' if count != 1 else '' }} today.</p>
+    {% if widened %}
+    <p style="color: #b45309; font-size: 13px;">
+      Few tools matched your filters today, so we widened them one step to include
+      lower-signal launches.
+    </p>
+    {% endif %}
+    {% for tool in items %}
+    <div style="margin: 16px 0; padding-bottom: 12px; border-bottom: 1px solid #eee;">
+      <a href="{{ tool.canonical_url }}" style="font-size: 16px; font-weight: 600; color: #2563eb; text-decoration: none;">{{ tool.name }}</a>
+      <span style="font-size: 12px; color: #999;"> · score {{ tool.quality_score }}</span>
+      {% if tool.one_liner %}<p style="margin: 4px 0; color: #333;">{{ tool.one_liner }}</p>{% endif %}
+      <p style="margin: 4px 0; font-size: 12px; color: #777;">
+        {% if tool.categories %}{{ tool.categories | join(', ') }}{% endif %}
+        {% if tool.pricing_model %} · {{ tool.pricing_model }}{% endif %}
+        {% if tool.country_hq %} · {{ tool.country_hq }}{% endif %}
+      </p>
+    </div>
+    {% endfor %}
+    <p style="font-size: 11px; color: #aaa;">Delivered by AIRadar.</p>
+  </body>
+</html>

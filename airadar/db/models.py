@@ -8,8 +8,8 @@ Postgres in Phase 2 with no model changes:
 - ``DateTime(tz)``    → ``timestamptz`` on PG, ISO text on SQLite
 - ``JSON``            → ``jsonb`` on PG (via variant), ``json`` text on SQLite
 
-Phase 2 tables (users, user_preferences, digest_log) are intentionally deferred — they
-land with the Delivery stage (R5).
+The Delivery stage tables (users, user_preferences, digest_log) live at the bottom of
+this file (R5 / Architecture §4.5, §7).
 """
 
 from __future__ import annotations
@@ -21,6 +21,7 @@ from sqlalchemy import (
     JSON,
     Boolean,
     CheckConstraint,
+    Date,
     DateTime,
     Float,
     ForeignKey,
@@ -217,3 +218,92 @@ class PipelineRun(Base):
     items_out: Mapped[int | None] = mapped_column(Integer)
     error_message: Mapped[str | None] = mapped_column(Text)
     cost_usd: Mapped[float | None] = mapped_column(Numeric(10, 4))
+
+
+# ── Delivery stage (Architecture §4.5, §7) ───────────────────────────────────
+#
+# Deviations from §7, made deliberately for the SQLite walking skeleton (swap-safe to
+# Postgres in Phase 2 — see R0/R16 standard on documented deviations):
+#   • List columns use JSONType (json on SQLite / jsonb on PG) instead of native PG
+#     arrays, matching how ``Source.config_jsonb`` is already handled here.
+#   • Category preferences are keyed by category *slug* (consistent with how enrichment
+#     and the curator address categories), not the INT[] category ids in §7.
+#   • Idempotency uses a dedicated ``sent_on`` Date column + unique constraint rather
+#     than a ``DATE(sent_at)`` functional index — portable across SQLite and Postgres.
+
+
+class User(Base):
+    """A subscriber who receives personalized digests."""
+
+    __tablename__ = "users"
+
+    id: Mapped[uuid.UUID] = _uuid_pk()
+    email: Mapped[str] = mapped_column(String, unique=True, nullable=False)
+    timezone: Mapped[str] = mapped_column(String, nullable=False, default="UTC")
+    created_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), nullable=False, server_default=func.now()
+    )
+    verified_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True))
+
+    preferences: Mapped[UserPreference | None] = relationship(
+        back_populates="user", cascade="all, delete-orphan", uselist=False
+    )
+
+    __table_args__ = (UniqueConstraint("email", name="uq_users_email"),)
+
+
+class UserPreference(Base):
+    """Per-user delivery filters and channels (Architecture §4.5)."""
+
+    __tablename__ = "user_preferences"
+
+    user_id: Mapped[uuid.UUID] = mapped_column(
+        ForeignKey("users.id", ondelete="CASCADE"), primary_key=True
+    )
+    include_categories: Mapped[list[str]] = mapped_column(
+        JSONType, nullable=False, default=list
+    )
+    exclude_categories: Mapped[list[str]] = mapped_column(
+        JSONType, nullable=False, default=list
+    )
+    include_countries: Mapped[list[str]] = mapped_column(  # ISO 3166-1 alpha-2
+        JSONType, nullable=False, default=list
+    )
+    exclude_countries: Mapped[list[str]] = mapped_column(
+        JSONType, nullable=False, default=list
+    )
+    pricing_allow: Mapped[list[str]] = mapped_column(JSONType, nullable=False, default=list)
+    min_quality_score: Mapped[int] = mapped_column(Integer, nullable=False, default=30)
+    channels: Mapped[list[str]] = mapped_column(
+        JSONType, nullable=False, default=lambda: ["email"]
+    )
+    digest_cron: Mapped[str] = mapped_column(String, nullable=False, default="0 8 * * *")
+    updated_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), nullable=False, server_default=func.now(), onupdate=func.now()
+    )
+
+    user: Mapped[User] = relationship(back_populates="preferences")
+
+
+class DigestLog(Base):
+    """Delivery audit + idempotency record — one row per user/channel/day."""
+
+    __tablename__ = "digest_log"
+
+    id: Mapped[uuid.UUID] = _uuid_pk()
+    user_id: Mapped[uuid.UUID] = mapped_column(
+        ForeignKey("users.id", ondelete="CASCADE"), nullable=False
+    )
+    channel: Mapped[str] = mapped_column(String, nullable=False)
+    tool_ids: Mapped[list[str]] = mapped_column(JSONType, nullable=False, default=list)
+    sent_on: Mapped[date] = mapped_column(Date, nullable=False)  # calendar day, for idempotency
+    sent_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True), nullable=False, server_default=func.now()
+    )
+    delivery_status: Mapped[str] = mapped_column(String, nullable=False)
+
+    __table_args__ = (
+        UniqueConstraint(
+            "user_id", "channel", "sent_on", name="uq_digest_log_user_channel_day"
+        ),
+    )

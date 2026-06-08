@@ -13,11 +13,14 @@ import typer
 from loguru import logger
 
 from airadar.agents.curator import run_curator
+from airadar.agents.delivery import run_delivery
 from airadar.agents.discovery import run_discovery
 from airadar.agents.enrichment import run_enrichment
 from airadar.agents.scraper import run_scraper
 from airadar.db.repositories import sources as source_repo
+from airadar.db.repositories import users as users_repo
 from airadar.db.session import session_scope
+from airadar.scheduler.jobs import run_scheduler
 from airadar.sources.registry import get_adapter
 
 app = typer.Typer(add_completion=False, help="AIRadar pipeline CLI.")
@@ -102,6 +105,59 @@ def pipeline_once_cmd(
     asyncio.run(_scrape())
     asyncio.run(_enrich())
     asyncio.run(_curate())
+
+
+@app.command("add-user")
+def add_user_cmd(
+    email: str = typer.Option(..., help="Subscriber email address."),
+    timezone: str = typer.Option("UTC", help="IANA timezone, e.g. Asia/Kolkata."),
+    categories: str = typer.Option(
+        "", help="Comma-separated category slugs to include (empty = all)."
+    ),
+    min_score: int = typer.Option(30, help="Minimum quality score for the feed."),
+) -> None:
+    """Create a subscriber with default delivery preferences (Phase 2 internal testing)."""
+
+    async def _run() -> str:
+        include = [c.strip() for c in categories.split(",") if c.strip()]
+        async with session_scope() as session:
+            if await users_repo.get_by_email(session, email) is not None:
+                return f"User {email} already exists."
+            await users_repo.create_user(
+                session,
+                email=email,
+                timezone=timezone,
+                include_categories=include,
+                min_quality_score=min_score,
+            )
+            return f"Created user {email}."
+
+    typer.echo(asyncio.run(_run()))
+
+
+@app.command("deliver")
+def deliver_cmd(
+    limit: int = typer.Option(None, help="Optional cap on subscribers processed."),
+) -> None:
+    """Run the Delivery stage once: build and send each subscriber's digest."""
+
+    async def _run() -> None:
+        async with session_scope() as session:
+            r = await run_delivery(session, limit=limit)
+        typer.echo(
+            f"deliver: users={r.users} digests_sent={r.digests_sent} "
+            f"tools_delivered={r.tools_delivered} widened={r.widened} "
+            f"skipped_idempotent={r.skipped_idempotent} skipped_empty={r.skipped_empty}"
+        )
+
+    logger.info("deliver starting")
+    asyncio.run(_run())
+
+
+@app.command("run-scheduler")
+def run_scheduler_cmd() -> None:
+    """Start the blocking scheduler: deliver each user's digest at their local cron time."""
+    run_scheduler()
 
 
 if __name__ == "__main__":

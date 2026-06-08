@@ -24,6 +24,15 @@ cp .env.example .env        # SQLite default works out of the box
 uv run alembic upgrade head # create the schema   (make migrate)
 uv run airadar seed-sources # load the source registry   (make seed)
 uv run airadar pipeline-once --source hackernews   # (make pipeline-once SOURCE=hackernews)
+
+# Delivery stage (Stage 5): add a subscriber, then build + send their digest.
+# With no AIRADAR_RESEND_API_KEY set, rendered digests are written to ./outbox/.
+uv run airadar add-user --email you@example.com --min-score 0
+uv run airadar deliver                # send once, now, to all subscribers
+
+# Or run the scheduler: it wakes every 15 min and delivers each user's digest at
+# their own digest_cron time (in their timezone), idempotently — one per local day.
+uv run airadar run-scheduler
 ```
 
 ## Layout

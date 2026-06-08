@@ -1,0 +1,54 @@
+name: Refresh tool data
+
+# Regenerates the public snapshot (frontend/public/data/tools.json) on a schedule and
+# commits it. The commit triggers a Vercel redeploy, so the live site refreshes itself —
+# fully free (GitHub Actions free minutes) and with no servers to keep running.
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # 06:00 UTC daily
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv (+ Python 3.12)
+        uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.12"
+
+      # Default dependency groups are enough for the offline pipeline (no LLM keys needed);
+      # this avoids pulling the heavy crawl4ai/playwright/llm groups in CI.
+      - name: Sync dependencies
+        run: uv sync
+
+      - name: Build DB and run the pipeline
+        run: |
+          uv run alembic upgrade head
+          uv run airadar seed-sources
+          uv run airadar pipeline-once --source hackernews --lookback-hours 96 --limit 50
+
+      - name: Export public snapshot
+        run: uv run python scripts/export_tools_json.py
+
+      - name: Commit snapshot if it changed
+        run: |
+          git config user.name "airadar-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if git diff --quiet -- frontend/public/data/tools.json; then
+            echo "No data changes — skipping commit."
+          else
+            git add frontend/public/data/tools.json
+            git commit -m "chore(data): refresh tool snapshot [skip ci]"
+            git push
+          fi

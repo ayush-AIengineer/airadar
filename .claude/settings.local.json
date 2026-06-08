@@ -3,7 +3,10 @@
     "allow": [
       "Bash(rm -rf airadar.db qdrant_data)",
       "Bash(uv run *)",
-      "Bash(grep -Ev \"INFO|^$\")"
+      "Bash(grep -Ev \"INFO|^$\")",
+      "Bash(git check-ignore *)",
+      "Bash(npm run *)",
+      "Bash(curl -s -o /dev/null -w \"HTTP %{http_code}\\\\n\" http://localhost:3000)"
     ]
   }
 }

@@ -40,7 +40,7 @@ _LAUNCH_TERMS = (
     "open source",
     "open-source",
 )
-# Anti-signals: listicles / commentary that pass the AI filter but aren't launches.
+# Anti-signals: listicles / news / commentary that pass the AI filter but aren't launches.
 _NOISE_TERMS = (
     "top 10",
     "best ai tools",
@@ -48,6 +48,18 @@ _NOISE_TERMS = (
     "a guide to",
     "vs ",
     "how to use",
+    # news / policy / commentary — not a product launch
+    "executive order",
+    "signs ",
+    "announces",
+    "report:",
+    "study finds",
+    "opinion",
+    "why ai",
+    "the future of",
+    "lawsuit",
+    "raises $",
+    "funding round",
 )
 
 

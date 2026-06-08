@@ -18,11 +18,17 @@ __pycache__/
 *.sqlite3
 qdrant_data/
 
+# Delivery outbox (ConsoleEmailSender writes rendered digests here offline)
+outbox/
+
+# Generated static dashboard preview (scripts/build_dashboard.py)
+preview/
+
 # Build / artifacts
 dist/
 build/
 screenshots/
-data/
+/data/          # root-level scratch data only (anchored, so frontend/public/data/ ships)
 
 # OS / editor
 .DS_Store

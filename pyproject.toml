@@ -53,6 +53,18 @@ llm = [
 vector = [
     "qdrant-client>=1.10",
 ]
+# Delivery stage (R5). jinja2 is light + pure-python (kept in default-groups so the
+# stage renders offline); resend is only used when AIRADAR_RESEND_API_KEY is set.
+delivery = [
+    "jinja2>=3.1",
+    "resend>=2.0",
+]
+# Scheduler (R9). Both are light + pure-python, so they stay in default-groups: the
+# per-user due-check (croniter) is unit-tested and APScheduler drives the tick loop.
+scheduler = [
+    "apscheduler>=3.10",
+    "croniter>=2.0",
+]
 sources = [
     "praw>=7.7",
     "PyGithub>=2.3",
@@ -69,7 +81,7 @@ dev = [
 [tool.uv]
 # Lightweight, always-installed groups for Phase 1–2 dev. The heavy `scraping`
 # (crawl4ai/playwright) and `llm`/`sources` groups stay opt-in.
-default-groups = ["dev", "scraping-lite", "vector"]
+default-groups = ["dev", "scraping-lite", "vector", "delivery", "scheduler"]
 
 [tool.ruff]
 line-length = 100

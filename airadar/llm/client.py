@@ -63,20 +63,43 @@ _SENTENCE_RE = re.compile(r"[^.!?\n]+[.!?]")
 
 def _strip_prefix(title: str) -> str:
     title = re.sub(r"^\s*Show HN:\s*", "", title, flags=re.IGNORECASE)
-    # Cut at the first separator so "Foo — does X" → "Foo".
-    return re.split(r"\s[—–\-|:]\s", title, maxsplit=1)[0].strip() or title.strip()
+    # Cut the product name from its tagline: "Foo: does X", "Foo — does X", "Foo, the X".
+    # Colon/dash/pipe may be tight ("VibeOS:") or spaced; comma needs a trailing space.
+    return re.split(r"\s*[—–|:]\s+|\s+[-]\s+|,\s+", title, maxsplit=1)[0].strip() or title.strip()
 
 
-def _first_sentence(text: str, fallback: str) -> str:
-    match = _SENTENCE_RE.search(text)
-    sentence = match.group(0).strip() if match else text.strip()
-    return (sentence or fallback)[:200]
+def _best_one_liner(text: str, fallback: str) -> str:
+    """First *substantial* sentence (≥4 words, ≥24 chars) — skips fragments like 'persist.'."""
+    for sentence in _SENTENCE_RE.findall(text):
+        s: str = sentence.strip()
+        if len(s) >= 24 and len(s.split()) >= 4:
+            return s[:180]
+    clean = fallback.strip()
+    return (clean if len(clean) >= 12 else text.strip()[:180]) or "An AI tool."
 
 
-def _detect_categories(text: str) -> list[Category]:
-    low = text.lower()
-    found = [cat for cat, kws in _CATEGORY_KEYWORDS.items() if any(k in low for k in kws)]
-    return found[:4] or [Category.other]
+def _detect_categories(title: str, text: str) -> list[Category]:
+    """Weighted category tagging: title hits count heavily; a lone body mention isn't enough.
+
+    Avoids the over-tagging where any stray keyword in the page body slapped a category on
+    everything. A category needs a title hit (weight 3) or ≥2 body mentions to qualify.
+    """
+    title_low = title.lower()
+    body_low = text.lower()
+    scores: dict[Category, int] = {}
+    for cat, kws in _CATEGORY_KEYWORDS.items():
+        score = 0
+        for kw in kws:
+            if kw in title_low:
+                score += 3
+            score += min(body_low.count(kw), 2)
+        if score:
+            scores[cat] = score
+    ranked = sorted(scores, key=lambda c: scores[c], reverse=True)
+    qualified = [c for c in ranked if scores[c] >= 2][:3]
+    if qualified:
+        return qualified
+    return ranked[:1] or [Category.other]
 
 
 def _detect_pricing(text: str) -> tuple[PricingModel, str | None, float | None]:
@@ -121,9 +144,9 @@ class StubExtractor:
         return ToolEnrichment(
             name=name,
             canonical_url=url,
-            one_liner=_first_sentence(text, fallback=title),
+            one_liner=_best_one_liner(text, fallback=title),
             description=text.strip()[:1200],
-            categories=_detect_categories(f"{title} {text}"),
+            categories=_detect_categories(title, text),
             pricing_model=pricing,
             pricing_evidence_quote=pricing_quote,
             starting_price_usd_monthly=price if pricing is PricingModel.paid else None,

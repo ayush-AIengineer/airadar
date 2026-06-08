@@ -1,0 +1,12 @@
+Your AIRadar digest — {{ count }} new AI tool{{ 's' if count != 1 else '' }} today.
+{% if widened %}
+(Few tools matched your filters, so we widened them one step to include lower-signal launches.)
+{% endif %}
+{% for tool in items %}
+- {{ tool.name }} [score {{ tool.quality_score }}]
+  {% if tool.one_liner %}{{ tool.one_liner }}
+  {% endif %}{{ tool.canonical_url }}
+  {% if tool.categories %}{{ tool.categories | join(', ') }}{% endif %}{% if tool.pricing_model %} · {{ tool.pricing_model }}{% endif %}{% if tool.country_hq %} · {{ tool.country_hq }}{% endif %}
+{% endfor %}
+
+Delivered by AIRadar.

@@ -98,6 +98,10 @@ dependencies = [
 ]
 
 [package.dev-dependencies]
+delivery = [
+    { name = "jinja2" },
+    { name = "resend" },
+]
 dev = [
     { name = "aiosqlite" },
     { name = "mypy" },
@@ -110,6 +114,10 @@ llm = [
     { name = "anthropic" },
     { name = "instructor" },
     { name = "litellm" },
+]
+scheduler = [
+    { name = "apscheduler" },
+    { name = "croniter" },
 ]
 scraping = [
     { name = "beautifulsoup4" },
@@ -149,6 +157,10 @@ requires-dist = [
 ]
 
 [package.metadata.requires-dev]
+delivery = [
+    { name = "jinja2", specifier = ">=3.1" },
+    { name = "resend", specifier = ">=2.0" },
+]
 dev = [
     { name = "aiosqlite", specifier = ">=0.20" },
     { name = "mypy", specifier = ">=1.10" },
@@ -161,6 +173,10 @@ llm = [
     { name = "anthropic", specifier = ">=0.34" },
     { name = "instructor", specifier = ">=1.4" },
     { name = "litellm", specifier = ">=1.42" },
+]
+scheduler = [
+    { name = "apscheduler", specifier = ">=3.10" },
+    { name = "croniter", specifier = ">=2.0" },
 ]
 scraping = [
     { name = "beautifulsoup4", specifier = ">=4.12" },
@@ -262,6 +278,18 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/19/14/2c5dd9f512b66549ae92767a9c7b330ae88e1932ca57876909410251fe13/anyio-4.13.0.tar.gz", hash = "sha256:334b70e641fd2221c1505b3890c69882fe4a2df910cba14d97019b90b24439dc", size = 231622, upload-time = "2026-03-24T12:59:09.671Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/da/42/e921fccf5015463e32a3cf6ee7f980a6ed0f395ceeaa45060b61d86486c2/anyio-4.13.0-py3-none-any.whl", hash = "sha256:08b310f9e24a9594186fd75b4f73f4a4152069e3853f1ed8bfbf58369f4ad708", size = 114353, upload-time = "2026-03-24T12:59:08.246Z" },
+]
+
+[[package]]
+name = "apscheduler"
+version = "3.11.2"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "tzlocal" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/07/12/3e4389e5920b4c1763390c6d371162f3784f86f85cd6d6c1bfe68eef14e2/apscheduler-3.11.2.tar.gz", hash = "sha256:2a9966b052ec805f020c8c4c3ae6e6a06e24b1bf19f2e11d91d8cca0473eef41", size = 108683, upload-time = "2025-12-22T00:39:34.884Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/9f/64/2e54428beba8d9992aa478bb8f6de9e4ecaa5f8f513bcfd567ed7fb0262d/apscheduler-3.11.2-py3-none-any.whl", hash = "sha256:ce005177f741409db4e4dd40a7431b76feb856b9dd69d57e0da49d6715bfd26d", size = 64439, upload-time = "2025-12-22T00:39:33.303Z" },
 ]
 
 [[package]]
@@ -498,6 +526,18 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/ca/88/e69eb33cf818a94c1419b8b537ac1c08d8d4c88e0e234c4325ae069d0e6e/crawl4ai-0.8.7.tar.gz", hash = "sha256:25f4e67d6ed95d08a145a544c686620d579b1608c2bcb154a8c0ffd664e0305f", size = 606384, upload-time = "2026-06-01T14:24:23.7Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/af/4e/029a12cf2287337340c5c3d1aaf4d32c6e0a4cdc0a37c5d937740b396902/crawl4ai-0.8.7-py3-none-any.whl", hash = "sha256:4be81b0f04332e6a9501baa7d854ebc32ce3fc627c6f00ce6ea5034b91d40ddc", size = 515784, upload-time = "2026-06-01T14:24:21.773Z" },
+]
+
+[[package]]
+name = "croniter"
+version = "6.2.2"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "python-dateutil" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/df/de/5832661ed55107b8a09af3f0a2e71e0957226a59eb1dcf0a445cce6daf20/croniter-6.2.2.tar.gz", hash = "sha256:ba60832a5ec8e12e51b8691c3309a113d1cf6526bdf1a48150ce8ec7a532d0ab", size = 113762, upload-time = "2026-03-15T08:43:48.112Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/d0/39/783980e78cb92c2d7bdb1fc7dbc86e94ccc6d58224d76a7f1f51b6c51e30/croniter-6.2.2-py3-none-any.whl", hash = "sha256:a5d17b1060974d36251ea4faf388233eca8acf0d09cbd92d35f4c4ac8f279960", size = 45422, upload-time = "2026-03-15T08:43:46.626Z" },
 ]
 
 [[package]]
@@ -1809,6 +1849,19 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/3c/f8/5dc70102e4d337063452c82e1f0d95e39abfe67aa222ed8a5ddeb9df8de8/requests_file-3.0.1.tar.gz", hash = "sha256:f14243d7796c588f3521bd423c5dea2ee4cc730e54a3cac9574d78aca1272576", size = 6967, upload-time = "2025-10-20T18:56:42.279Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/e1/d5/de8f089119205a09da657ed4784c584ede8381a0ce6821212a6d4ca47054/requests_file-3.0.1-py2.py3-none-any.whl", hash = "sha256:d0f5eb94353986d998f80ac63c7f146a307728be051d4d1cd390dbdb59c10fa2", size = 4514, upload-time = "2025-10-20T18:56:41.184Z" },
+]
+
+[[package]]
+name = "resend"
+version = "2.30.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "requests" },
+    { name = "typing-extensions" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/80/c7/b4c5bee252a2690cadb41063f280f4c09aac663e050e4425df545d28403d/resend-2.30.1.tar.gz", hash = "sha256:a529a019e83be285d855ecf135475dc6a6b9fa1c24f9b710686988e021a535ec", size = 43216, upload-time = "2026-05-13T15:39:18.172Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/a7/46/f2f5da31f7359dd39672a279f654e6eb86fb1a27aa9c90d0d9efbb962ebb/resend-2.30.1-py2.py3-none-any.whl", hash = "sha256:45da25b86940307e130f8a44d2bac889574362400843e9cd98b49b79a7b3db63", size = 68393, upload-time = "2026-05-13T15:39:17.114Z" },
 ]
 
 [[package]]

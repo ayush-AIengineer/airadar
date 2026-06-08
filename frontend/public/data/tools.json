@@ -1,0 +1,108 @@
+{
+  "generatedAt": "2026-06-08T05:18:22.813304+00:00",
+  "count": 6,
+  "tools": [
+    {
+      "id": "e21f0b6d-47cc-44f9-8e8e-223573d76803",
+      "name": "Avibe",
+      "url": "https://github.com/avibe-bot/avibe",
+      "oneLiner": "Claude Code, Codex, OpenCode are incredible.",
+      "description": "Claude Code, Codex, OpenCode are incredible. But:\n- 🖥️ Trapped on one machine. Your agent lives in a terminal. Close the laptop and it stops.\n- 📵 Out of reach. Away from your desk, you can't see what it's doing — let alone steer it.\n- 🔒 Locked in. Every tool wants to be the whole stack: its app, its cloud, its subscription, your code uploaded to someone else's box.\nOne command turns your own machi",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "4f558950-1700-4a75-9db3-a5999bbe4d67",
+      "name": "CodeSage Pro",
+      "url": "https://chromewebstore.google.com/detail/codesage-pro-â-universal/cbkkghdedpjamcicmnfpihehmgjemmhi",
+      "oneLiner": "AI coding assistant for every website.",
+      "description": "Overview\nAI coding assistant for every website. Finds bugs, explains code & reviews security. 25 free AI calls/month.\nCodeSage Pro – AI Coding Assistant for Developers CodeSage Pro is a powerful AI coding assistant that works directly in your browser. Analyze coding challenges, generate complete working solutions, debug errors, review security issues, explain complex code, and improve development ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "security",
+        "data"
+      ]
+    },
+    {
+      "id": "6c8979ef-429d-46f3-8779-fc878b179ab0",
+      "name": "Omni",
+      "url": "https://github.com/hanxiao/omni-macos/",
+      "oneLiner": "Semantic search over your local files, running entirely on-device.",
+      "description": "Semantic search over your local files, running entirely on-device.\nOmni indexes your files and lets you search them by meaning instead of filename. A\ntext query finds matching documents, code, PDFs, images, audio, and video together,\nbecause everything is embedded into one shared vector space. The model runs in-process\non Apple GPUs via a native MLX-Swift port of jina-embeddings-v5-omni\n, in two s",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "rag",
+        "search"
+      ]
+    },
+    {
+      "id": "3ef91a67-9637-4236-b061-16ae3e3fa8e7",
+      "name": "Nightwatch",
+      "url": "https://github.com/ninoxAI/nightwatch",
+      "oneLiner": "The open-source, read-only AI SRE.",
+      "description": "The open-source, read-only AI SRE.\nninoxAI turns alert storms into incidents, investigates root cause over your live systems, and proposes human-approved fixes — without ever touching production.\nQuickstart · AI SRE · Demo lab · Docs · Discord\nYour monitoring tells you something broke. It pages you at 3am with fifty alerts for one outage and leaves the hard part to you:\nninoxAI is a thin, local-fi",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "db809065-7e63-4b83-89d4-a423c03c71ea",
+      "name": "VibeOS",
+      "url": "https://vibeos.sh/",
+      "oneLiner": "First ever AI-native operating system.",
+      "description": "First ever AI-native operating system. From hardware to UI –\nClaude Code controls everything on your computer\nWatch how vibeOS transforms your ideas into reality. From simple prompts to fully functional applications - everything happens instantly on your screen.\nNo coding required. Just tell vibeOS what you want to build, and watch the magic happen.\nBest in class coding/acting agent powered by Ant",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "777f9d1c-5869-48b0-9129-239a81d2909c",
+      "name": "Preseason.ai",
+      "url": "https://www.preseason.ai",
+      "oneLiner": "We track what tools AI models pick across a frozen panel of vibe-coding prompts at every level, from beginners to expert engineers.",
+      "description": "We track what tools AI models pick across a frozen panel of vibe-coding prompts at every level, from beginners to expert engineers.\n“Build a production-grade AI support platform with authenticated admin users, a customer-facing support agent, retrieval-backed answers, escalation to human operators, and searchable knowledge assets. Model users, conversations, retrieved context, tool invocations, fe",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "data"
+      ]
+    }
+  ]
+}
