@@ -21,6 +21,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # full history so the pre-push rebase is reliable
 
       - name: Install uv (+ Python 3.12)
         uses: astral-sh/setup-uv@v5
@@ -62,5 +64,7 @@ jobs:
           else
             git add frontend/public/data/tools.json
             git commit -m "chore(data): refresh tool snapshot"
-            git push
+            # Rebase onto any commits that landed since checkout, then push (avoids races).
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
