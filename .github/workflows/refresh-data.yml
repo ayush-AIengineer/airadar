@@ -49,6 +49,6 @@ jobs:
             echo "No data changes — skipping commit."
           else
             git add frontend/public/data/tools.json
-            git commit -m "chore(data): refresh tool snapshot [skip ci]"
+            git commit -m "chore(data): refresh tool snapshot"
             git push
           fi
