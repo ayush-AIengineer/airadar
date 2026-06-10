@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-09T09:49:45.652337+00:00",
-  "count": 26,
+  "generatedAt": "2026-06-10T10:03:23.582776+00:00",
+  "count": 22,
   "tools": [
     {
-      "id": "07850f47-3c9e-4131-8b6e-a44b36f91692",
+      "id": "b265b8c2-a2e4-47bd-910b-c24ae9273ab6",
       "name": "agentgraphed",
       "url": "https://github.com/sudomichael/agentgraphed",
-      "oneLiner": "The Claude Code usage monitor.",
-      "description": "The Claude Code usage monitor. Local-first analytics dashboard for Claude Code & Codex CLI sessions.\nSee every session, every project, every dollar — across your whole machine. No login. No cloud. Nothing leaves your computer.\n🌐 Official site: https://agentgraphed.com · 📦 npm: https://www.npmjs.com/package/agentgraphed\nnpx agentgraphed\nThat's the whole install. No clone, no signup, no config file.",
+      "oneLiner": "Local-first history, search, and analytics for Claude Code and Codex.",
+      "description": "Local-first history, search, and analytics for Claude Code and Codex.\nFind old sessions, resume unfinished work, search past conversations, and see usage across every AI coding project on your machine.\nNo login. No cloud. Nothing leaves your computer.\n🌐 Site: https://agentgraphed.com · 📦 npm: https://www.npmjs.com/package/agentgraphed\nAgentGraphed automatically indexes every Claude Code and Codex ",
       "pricing": "paid",
       "country": null,
       "quality": 25,
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "id": "8beced36-7ad9-4ebb-a157-444bb099fd35",
+      "id": "0d07f79b-76d7-4c58-85db-2577bea7f527",
       "name": "Council",
       "url": "https://github.com/albertofettucini/Council",
       "oneLiner": "A roundtable of AI minds.",
@@ -32,12 +32,46 @@
       "githubUrl": "https://github.com/albertofettucini/Council.git",
       "categories": [
         "code",
-        "security",
-        "image"
+        "image",
+        "security"
       ]
     },
     {
-      "id": "ac70d703-b295-4898-9120-65712691555a",
+      "id": "4d161b69-a4a4-4bde-ab0c-ec9a44b808ca",
+      "name": "TokenBar",
+      "url": "https://github.com/Nanako0129/TokenBar",
+      "oneLiner": "AI token usage monitor for the macOS menu bar.",
+      "description": "AI token usage monitor for the macOS menu bar.\nTokenBar is a local-first AI token usage monitor for the macOS menu bar. It sits in the menu bar — no Dock icon, no telemetry, no account — and reads your local AI coding session logs on-device to show what you're spending across 25+ AI coding agents (Claude Code, Codex CLI, Cursor, OpenCode, Gemini CLI, Copilot CLI, Amp, Droid, Hermes, Goose, Kilo/Ki",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "18d42601-1d89-43dd-b8b0-43d762cb1cd4",
+      "name": "duepocket",
+      "url": "https://github.com/Jiaye1998/duepocket",
+      "oneLiner": "AI-powered local-first renewal and app-wallet radar.",
+      "description": "AI-powered local-first renewal and app-wallet radar.\nDuePocket helps users catch upcoming subscriptions, trial conversions, and low app-wallet balances before money leaves.\nIt is designed as a privacy-first AI product engineering demo: no account, no bank sync, local IndexedDB storage, AI extraction candidates, human confirmation, and a bilingual evaluation harness.\n- 30-day renewal radar for subs",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "rag"
+      ]
+    },
+    {
+      "id": "cc016695-bcfd-467f-834e-338ec8b97d26",
       "name": "ai-shortVideo-pipeline",
       "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
       "oneLiner": "An end-to-end automated short-video production pipeline.",
@@ -54,56 +88,24 @@
       ]
     },
     {
-      "id": "eda7cc85-e895-4718-a538-6223edbadcad",
-      "name": "sandboxd",
-      "url": "https://github.com/tastyeffectco/sandboxd",
-      "oneLiner": "The open-source engine for AI app-builder products.",
-      "description": "The open-source engine for AI app-builder products.\nGive every user an isolated cloud dev environment, a built-in coding agent,\nand a live preview URL — self-hosted, on one machine, in one command.\nThink of the apps where you type \"build me a todo app\" and seconds later a working website appears at its own link — like Lovable, Bolt, v0, or Replit. sandboxd is the open-source backend that makes tha",
+      "id": "879ed5a6-0a58-446f-979a-793bbee8c98f",
+      "name": "ApeironCode",
+      "url": "https://github.com/poolanithinreddy/ApeironCode",
+      "oneLiner": "Open-source, local-first AI coding agent for developers who want control.",
+      "description": "Open-source, local-first AI coding agent for developers who want control.\nUse any model. See every action. Keep your code under your rules.\nEarly alpha, CLI-only public release. The VS Code extension is not part of this public alpha. APIs and commands may change, but writes and commands remain approval-gated.\nThe package and one-line installer are not published yet. Install the current alpha from ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/tastyeffectco/sandboxd.git",
+      "githubUrl": "https://github.com/poolanithinreddy/ApeironCode.git",
       "categories": [
         "code",
         "design",
-        "data"
+        "security"
       ]
     },
     {
-      "id": "cb77b45b-7641-46c6-88b8-c635f19d1f40",
-      "name": "job_pilot",
-      "url": "https://github.com/adrianhajdin/job_pilot",
-      "oneLiner": "This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, JavaScript Mastery.",
-      "description": "- ✨ Introduction\n- ⚙️ Tech Stack\n- 🔋 Features\n- 🤸 Quick Start\n- 🔗 Assets\n- 🚀 More\nThis repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, JavaScript Mastery.\nIf you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!\nJobPilot is an au",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/adrianhajdin/job_pilot.git",
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "19652c53-71e1-406c-8ba1-a2ccae4ebca5",
-      "name": "north",
-      "url": "https://github.com/HannsWorld/north",
-      "oneLiner": "North helps teams understand and review code faster.",
-      "description": "North helps teams understand and review code faster.\nIt adds a clear, structured layer on top of pull requests so reviewers can focus on what matters instead of reading everything line by line.\n- Summarises pull requests in plain language\n- Classifies changes automatically\n- Highlights risk areas before review\n- Suggests what to focus on\n- Adds structured context to PRs\nMost code reviews fail on:\n",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "97a2c0f9-6a1b-4569-bd33-a6e47430575a",
+      "id": "ac21fb5c-ca02-4a21-a067-ccca10c5ac1f",
       "name": "AI-Website-Audit-CLI",
       "url": "https://github.com/Tools2U/AI-Website-Audit-CLI",
       "oneLiner": "Open-source CLI for deterministic website audits and OpenAI-powered strategy reports using the modern Responses API.",
@@ -120,92 +122,41 @@
       ]
     },
     {
-      "id": "1a9a1497-d808-4442-8eb8-475476ae66b0",
-      "name": "Knowcast",
-      "url": "https://www.knowcast.app/en",
-      "oneLiner": "Create clear educational videos, history explainers, science breakdowns, and short documentary-style content from a single idea.",
-      "description": "YouTube explainer videos\nCreate clear educational videos, history explainers, science breakdowns, and short documentary-style content from a single idea.\nTurn any topic, article, or lesson into a visual explainer video.\nVisualize knowledge and information with explainer videos. Use infographics and visual storytelling to make ideas easy to understand.\nClone your voice through a natural, conversati",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "video"
-      ]
-    },
-    {
-      "id": "9e068dc9-658c-406a-a284-5ed7db9f63ad",
-      "name": "Open-source",
-      "url": "https://github.com/rohasnagpal/AI-Blueprint",
-      "oneLiner": "A local-first legal AI workspace for document-grounded chat, live voice assistance, legal drafting, contract review, preparation workflows, translation, email drafting, and matter ",
-      "description": "A local-first legal AI workspace for document-grounded chat, live voice assistance, legal drafting, contract review, preparation workflows, translation, email drafting, and matter document management.\nAI Blueprint is built for lawyers, firms, legal teams, and legal operations teams that need AI to work with confidential documents, matter context, source grounding, review workflows, and auditabilit",
+      "id": "9f119fb5-43ce-4778-a94e-f54e37475d89",
+      "name": "Plug and AI",
+      "url": "https://plugand.ai/",
+      "oneLiner": "Teams usually search for AI in Slack by outcome, not by model name.",
+      "description": "Teams usually search for AI in Slack by outcome, not by model name. These are the highest-intent entry points we should own.\nWhat teams actually need from AI in Slack: multi-model access, shared billing, free-plan support, and answers that stay inside Slack.\nSummarize channels and threads, catch up on decisions, and answer questions across channels the bot can access.\nRoll out AI to the whole work",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/rohasnagpal/AI-Blueprint.git",
-      "categories": [
-        "code",
-        "data",
-        "rag"
-      ]
-    },
-    {
-      "id": "b4e33295-0c08-4c76-8318-191b879e3855",
-      "name": "CalmSEO",
-      "url": "https://calmseo.com/",
-      "oneLiner": "Your Search Console data.",
-      "description": "Your Search Console data.\nConnect Google Search Console to query your own clicks, impressions, CTR, and position by query, page, country, or device.\n- pricing1.4K3.2\n- onboarding9805.7\n- docs api6128.1\nOne MCP endpoint exposes your Google Search Console data, live SERPs, keyword volumes, and on-page audits to Claude, ChatGPT, Cursor, Codex, and any MCP-compatible agent.\nYour agent can call any of ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "code",
         "search",
-        "marketing"
+        "image"
       ]
     },
     {
-      "id": "6b891664-9a31-4126-a9b5-304cb4f9a0a7",
-      "name": "HeadlessTracker",
-      "url": "https://github.com/tamasPetki/HeadlessTracker",
-      "oneLiner": "🤖 This project is being developed and maintained autonomously by Hex, an AI dev agent.",
-      "description": "🤖 This project is being developed and maintained autonomously by Hex, an AI dev agent. Decisions log: decisions.md · Daily build log: daily-log.md · Solo team. No human in the dev loop.\n⚠️ Not financial advice. HeadlessTracker is a portfolio data aggregation tool. For informational purposes only. See DISCLAIMER.md for full text.\nMCP server for portfolio tracking across crypto exchanges, on-chain w",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/tamasPetki/HeadlessTracker.git",
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "22200a77-21de-4645-9295-1546e98955dc",
-      "name": "Built software to orchestrate AI and human loops",
-      "url": "https://github.com/sparckix/cognitive-firm",
-      "oneLiner": "You signed in with another tab or window.",
-      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\ncognitive-firm lets one principal coordinate persistent AI agents under\ntyped mandates, budget caps, human approval and work surfaces, and a tenant\noverlay patter",
+      "id": "67f4da03-d373-4579-ae51-7a5e85d750fe",
+      "name": "Loom",
+      "url": "https://github.com/valkor-ai/loom",
+      "oneLiner": "Dynamic workflows for agentic software delivery.",
+      "description": "Dynamic workflows for agentic software delivery.\nAn open delivery harness that turns Claude Code, Codex, OpenCode and other coding agents into repeatable software delivery systems.\nSimplified Chinese · Why a Harness? · Use Cases · Quick Start · How to Use · FAQ\nLoom is an open-source delivery harness for existing coding agents. It does not replace the model or editor you already use; it turns each",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/sparckix/cognitive-firm",
+      "githubUrl": "https://github.com/valkor-ai/loom.git",
       "categories": [
         "code",
-        "design",
-        "research"
+        "agents",
+        "design"
       ]
     },
     {
-      "id": "2ecdd38f-e1dd-4946-bfa1-86d413defe83",
+      "id": "197ca27b-e859-45fd-89b9-3c6ff2882491",
       "name": "ai-wallet-extension",
       "url": "https://github.com/SFzxc/ai-wallet-extension",
       "oneLiner": "AI Wallet is a Chrome MV3 extension that lets websites request user-approved AI model access without receiving the user's API keys.",
@@ -222,7 +173,7 @@
       ]
     },
     {
-      "id": "4237a80f-f168-463f-834b-72bfe4f1acb9",
+      "id": "ac3100e9-26f6-4c39-8353-ebd9c338069c",
       "name": "lightnovel-studio",
       "url": "https://github.com/mmlong818/lightnovel-studio",
       "oneLiner": "An AI-powered light-novel writing studio.",
@@ -238,7 +189,7 @@
       ]
     },
     {
-      "id": "e5bc5a66-3062-4f1e-88fe-6afede5f4f83",
+      "id": "04113a72-f441-498b-9e42-1f1c0a748ed1",
       "name": "engineering-os",
       "url": "https://github.com/engineering-os/engineering-os",
       "oneLiner": "Your AI finally remembers your codebase.",
@@ -255,7 +206,7 @@
       ]
     },
     {
-      "id": "80131764-08c8-400d-851e-acf04f3cc3ae",
+      "id": "2c1876cf-13a6-4f9b-bf08-a52ed00190e5",
       "name": "guard-skills",
       "url": "https://github.com/amElnagdy/guard-skills",
       "oneLiner": "Focused guard skills for coding agents: second-pass quality gates that catch the systematic failure modes of AI-generated code, tests, and docs before they ship.",
@@ -267,33 +218,33 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "writing",
+        "data",
+        "writing"
+      ]
+    },
+    {
+      "id": "3056139d-1d41-40d5-b591-7e17b228bbfe",
+      "name": "MCPify",
+      "url": "https://github.com/amarnath3003/MCPify",
+      "oneLiner": "Compile software into AI-operable systems.",
+      "description": "Compile software into AI-operable systems.\nMCPify is the AI Enablement Compiler. Transform applications, APIs, frontends, workflows, and databases into AI-native systems for autonomous agents.\nOverview · Features · Getting Started · CLI · Architecture\nModern software is built for humans, not agents. The useful actions are scattered across frontend interactions, backend services, APIs, databases, a",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/amarnath3003/MCPify.git",
+      "categories": [
+        "productivity",
+        "code",
         "data"
       ]
     },
     {
-      "id": "4fcb2232-7160-4817-b5a1-e1a381acabbe",
-      "name": "TokenBar",
-      "url": "https://github.com/Nanako0129/TokenBar",
-      "oneLiner": "AI token usage monitor for the macOS menu bar.",
-      "description": "AI token usage monitor for the macOS menu bar.\nTokenBar is a local-first AI token usage monitor for the macOS menu bar. It sits in the menu bar — no Dock icon, no telemetry, no account — and reads your local AI coding session logs on-device to show what you're spending across 25+ AI coding agents (Claude Code, Codex CLI, Cursor, OpenCode, Gemini CLI, Copilot CLI, Amp, Droid, Hermes, Goose, Kilo/Ki",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "7af5b217-330c-4a65-a781-8898000c445b",
+      "id": "977589d6-d320-471a-8865-6a5bf724e63a",
       "name": "rainman",
       "url": "https://github.com/yan-yanko/rainman",
       "oneLiner": "Context-aware project memory for AI coding tools.",
-      "description": "Context-aware project memory for AI coding tools. Remembers what you've built, what failed, what works — and surfaces it when your AI assistant needs it.\nZero LLM. Zero tokens. Zero external dependencies. Runs locally.\nWe were debugging a systematic voting bias in an election predictor. The AI assistant (Claude Code) declared the problem \"unfixable by prompt engineering\" and spent hours exploring ",
+      "description": "Context-aware project memory for AI coding tools. Remembers what you've built, what failed, what works — and surfaces it when your AI assistant needs it.\nZero LLM calls. Zero external dependencies. Runs locally.\nNo embeddings, no API calls — zero tokens to store and rank memory. Recalled memories are injected as ordinary context (the relevant slice, not your whole history), so they cost normal inp",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -302,11 +253,61 @@
       "categories": [
         "code",
         "agents",
-        "marketing"
+        "rag"
       ]
     },
     {
-      "id": "31396c0b-98ef-47a0-ac5b-dc7343dbf927",
+      "id": "87c82b68-0775-4936-9412-4b6bd8880177",
+      "name": "Noesis",
+      "url": "https://github.com/Sheep1433/Noesis",
+      "oneLiner": "cd backend && uv run app.",
+      "description": "Noesis 是一个基于 Vue 3 + FastAPI + LangGraph 的全栈 AI 对话平台，面向多场景智能体协作：通用问答、故障运维、深度研究与测试用例生成。前端通过 SSE 流式展示推理与工具调用过程；后端统一 Agent 运行时、知识库检索与消息持久化。\nAgent 自主加载 Skills、创建研究目录、联网检索，并通过 SSE 流式展示推理与工具调用过程。\n基于需求文档分阶段生成测试场景与测试点，支持脑图可视化与人工勾选确认后批量产出用例。\n- 前端：Vue 3、Vite、TypeScript、Naive UI\n- 后端：FastAPI、LangChain、LangGraph\n- 存储：MySQL（会话与消息）、Qdrant（向量检索）\n- 模型：DashScope / OpenAI 兼容接口；可选 Langfuse 观测\n┌──────────── 前端（Vue 3）",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "agents"
+      ]
+    },
+    {
+      "id": "895e9a0c-a70f-4f63-9a90-895a3ba7de6a",
+      "name": "GardenGuardian",
+      "url": "https://github.com/tarraschk/GardenGuardian",
+      "oneLiner": "Système anti pigeon assisté par IA.",
+      "description": "Système anti pigeon assisté par IA.\nL'outil repose sur une caméra dont les images sont analysées par IA, avec un pistolet à eau automatique contrôlé par un relai. Cette approche permet de déclencher un tir d'eau sur les cibles détectées (ici, des pigeons).\nInspiré du thread Reddit r/SideProject (nov. 2025).\nPhase actuelle : prototype fonctionnel (pas de boîtier étanche).\nProchaines étapes si intér",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "image"
+      ]
+    },
+    {
+      "id": "5d30b5ca-5950-4a34-ad3d-74d0c37baa0b",
+      "name": "benchmark-harnesses",
+      "url": "https://github.com/strands-labs/benchmark-harnesses",
+      "oneLiner": "A repository for Strands-based agents and harnesses for agentic benchmarks.",
+      "description": "A repository for Strands-based agents and harnesses for agentic benchmarks. It is a uv workspace: the repository root coordinates one or more member packages. Setup, configuration, and usage live in each agent's README.\nA lean autonomous-coding agent achieving state-of-the-art performance across software engineering benchmarks.\nFor a summary of the work, see the post on Amazon-Science.\nSimple Stra",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/strands-labs/benchmark-harnesses.git",
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "e5af507c-4738-487e-95de-8e72fb1a74c3",
       "name": "dash-p",
       "url": "https://github.com/ybouane/dash-p",
       "oneLiner": "Follow me on X @ybouane — I'm building in public.",
@@ -318,12 +319,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "agents"
+        "agents",
+        "design"
       ]
     },
     {
-      "id": "e3827194-ccc1-47b5-b98b-15205384ad30",
+      "id": "3827df84-7571-46a8-8c9a-02a185dd7a76",
       "name": "axocoatl",
       "url": "https://github.com/axocoatl/axocoatl",
       "oneLiner": "The Rust runtime for self-coordinating multi-agent systems.",
@@ -335,109 +336,42 @@
       "githubUrl": "https://github.com/axocoatl/axocoatl",
       "categories": [
         "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "fef0a671-56bb-4bd4-b01d-0270a31fbc96",
-      "name": "anti-ai-slop-cz",
-      "url": "https://github.com/nowork-ai/anti-ai-slop-cz",
-      "oneLiner": "Pravidla, díky kterým AI píše český text jako člověk a nikoliv jako AI generátor.",
-      "description": "Pravidla, díky kterým AI píše český text jako člověk a nikoliv jako AI generátor. Funguje ve dvou režimech: jako krátký prompt do AI chatu (ChatGPT, Claude, Gemini, Copilot) a jako skill pro AI agenty (Claude Code, Codex, Cursor, Gemini CLI).\nInspirováno jalaalrd/anti-ai-slop-writing, přepracováno pro češtinu a běžné firemní použití.\nAI slop je text, který vypadá správně, ale nic neříká. Zní unive",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "agents"
-      ]
-    },
-    {
-      "id": "395c6913-68f1-4ff7-88ec-df92303ed8c3",
-      "name": "align-dev",
-      "url": "https://github.com/razr001/align-dev",
-      "oneLiner": "Frontend conventions generator for the AI coding era · Generate team standards and SKILL.",
-      "description": "Frontend conventions generator for the AI coding era · Generate team standards and SKILL.md in one flow\nBuild with AI. Ship with standards.\nA 7-step visual wizard that generates a complete Markdown standards document and a SKILL.md\nthat Claude Code, Cursor, GitHub Copilot, and other coding agents can read directly.\nAlignDev is a frontend conventions generator built for the AI coding era.\nWhen team",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "98af048e-cbc9-4c96-afde-97575cf4ce50",
-      "name": "tabyAgent",
-      "url": "https://github.com/gpdir16/tabyAgent",
-      "oneLiner": "A lighter, easier alternative to OpenClaw/Hermes.",
-      "description": "English | 한국어\nA lighter, easier alternative to OpenClaw/Hermes.\nRuns autonomously inside Docker and chats with you through Telegram.\n- Daily chat — Send messages and get replies right in Telegram. Supports text, images, and files.\n- Connect your inference provider — Works with OpenAI, OpenRouter, or any custom API endpoint.\n- Skills, MCP — Add capabilities like web browsing, scheduled tasks, and m",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/gpdir16/tabyAgent.git",
-      "categories": [
-        "code",
         "agents",
-        "image"
+        "design"
       ]
     },
     {
-      "id": "a4d7930a-33c8-4b49-810f-f4ebd3eebb76",
-      "name": "scholar-ppt-cn",
-      "url": "https://github.com/deathcats4/scholar-ppt-cn",
-      "oneLiner": "is an AI academic PPT workflow skill for Codex / ChatGPT.",
-      "description": "一个用于 ChatGPT / Codex 的中文学术 PPT Skill。\n它把“从论文到可编辑组会 PPT”的流程拆成：\n- 生产规划表\n- mockup family + variants\n- image model 样板页\n- 可编辑 PPTX 重建\n- montage QA\nscholar-ppt-cn\nis an AI academic PPT workflow skill for Codex / ChatGPT. It helps turn papers, theses, reports, figures, notes, reference templates, screenshots, or visual mockups into planned academic presentations and editable PowerPoint decks.\nThe reposit",
+      "id": "395d64c5-d716-42b2-8e51-0c39f983a8c0",
+      "name": "OpenClaw and Hermes Agent call each other via XMPP",
+      "url": "https://github.com/ai-sns/openclaw-hermes-agent-network",
+      "oneLiner": "🌍 An open, distributed network united by Agent, governed by Agent — They run locally but collaborate and compete with others across the world.",
+      "description": "🌍 An open, distributed network united by Agent, governed by Agent — They run locally but collaborate and compete with others across the world.\nYou can think of it as a global-scale Stanford Town for AI Agents — a vibrant, distributed community where Agents live, explore, collaborate, and compete across the world on a real-time Google WebGL 3D map.\n🌐 Website: ai-sns.org | 💬 Discord: Join Now | 🐦 X:",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
+        "data",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "874be90b-09ea-4be9-a92d-2cba1e7e2439",
+      "name": "Master",
+      "url": "https://bookbag.ai/blog/i-built-master-because-i-missed-rails",
+      "oneLiner": "A few years ago, building web apps felt simpler.",
+      "description": "A few years ago, building web apps felt simpler.\nYou had an idea. You generated a model. You generated a controller. You added a few routes. You connected a database. You shipped something.\nIt was not always perfect, but there was a feeling that the framework was trying to help you move.\nLately, building full-stack JavaScript apps has started to feel different. The ecosystem is incredibly powerful",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
         "productivity",
-        "image"
-      ]
-    },
-    {
-      "id": "01c0b595-f9f3-4eef-a2ce-67128d266618",
-      "name": "An open-source aircraft identification library in Python",
-      "url": "https://github.com/xuhao1/pyAircraftIden",
-      "oneLiner": "This project stand for system identification for aircraft or other system.",
-      "description": "This project stand for system identification for aircraft or other system.\nFor frequency identification\nsimo_iden = FreqIdenSIMO(time_seq_source, omega_min, omega_max, a_seq, data1_seq, data2_seq ..., win_num=None)\nsimo_iden.plt_bode_plot(0)\ntime_seq_source is the time series, a_seq is your input data, data1_seq, data2_seq ... are your output data omega_min, omega_max are your min and max angular ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
         "code",
         "data"
-      ]
-    },
-    {
-      "id": "11c8987b-1616-42a4-a1f4-7f6326af4605",
-      "name": "Deep Memory",
-      "url": "https://github.com/TjWheeler/deep-memory",
-      "oneLiner": "A vocabulary-driven graph memory library for AI agents.",
-      "description": "A vocabulary-driven graph memory library for AI agents. Give your AI structured, persistent memory that it can read, write, and traverse with zero friction.\nAI agents working with knowledge graphs face a cold-start problem: before storing a single fact, they need to understand what entity types exist, what properties each type has, what relationship types connect them, and what constraints apply. ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "agents"
       ]
     }
   ]
