@@ -72,6 +72,9 @@ export function Dashboard({ tools, featured = [] }: { tools: Tool[]; featured?: 
             <a href="#tools" className="hidden transition hover:text-slate-100 sm:inline">
               Tools
             </a>
+            <a href="/trends" className="hidden transition hover:text-slate-100 sm:inline">
+              Trends
+            </a>
             <a href="#how" className="hidden transition hover:text-slate-100 sm:inline">
               How it works
             </a>
