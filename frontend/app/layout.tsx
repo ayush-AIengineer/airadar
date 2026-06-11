@@ -54,6 +54,9 @@ export const metadata: Metadata = {
     description: DESCRIPTION,
   },
   robots: { index: true, follow: true },
+  alternates: {
+    types: { "application/rss+xml": [{ url: "/feed.xml", title: "AIRadar RSS" }] },
+  },
 };
 
 export default function RootLayout({
