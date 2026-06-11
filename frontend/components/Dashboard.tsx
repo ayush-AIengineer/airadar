@@ -8,6 +8,7 @@ import { FilterSidebar, type FilterState } from "@/components/FilterSidebar";
 import { RadarHero } from "@/components/RadarHero";
 import { Scene3DBackground } from "@/components/Scene3DBackground";
 import { StatCard } from "@/components/StatCard";
+import { SubscribeForm } from "@/components/SubscribeForm";
 import { ToolCard } from "@/components/ToolCard";
 import type { Pricing, Tool } from "@/lib/types";
 
@@ -157,6 +158,32 @@ export function Dashboard({ tools }: { tools: Tool[] }) {
             </div>
           )}
         </div>
+      </section>
+
+      {/* ── Email capture (audience engine) ── */}
+      <section className="mx-auto w-full max-w-[1920px] px-6 pb-16 lg:px-12">
+        <motion.div
+          initial={{ opacity: 0, y: 24 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, margin: "-80px" }}
+          transition={{ duration: 0.5 }}
+          className="glass relative overflow-hidden rounded-3xl px-6 py-12 text-center sm:px-12"
+        >
+          <div className="pointer-events-none absolute -top-1/2 left-1/2 h-[40vmax] w-[40vmax] -translate-x-1/2 rounded-full bg-brand-500/15 blur-[100px]" />
+          <div className="relative">
+            <span className="inline-flex items-center gap-2 rounded-full border border-white/12 bg-white/5 px-3 py-1 text-xs text-slate-300">
+              <span className="h-2 w-2 rounded-full bg-brand-500" /> Daily digest
+            </span>
+            <h2 className="mt-4 text-2xl font-bold sm:text-3xl">Never miss a launch</h2>
+            <p className="mx-auto mt-2 max-w-md text-slate-400">
+              The freshest AI tools, ranked and deduplicated, delivered to your inbox. One
+              email a day — skip the noise.
+            </p>
+            <div className="mt-6">
+              <SubscribeForm />
+            </div>
+          </div>
+        </motion.div>
       </section>
 
       {/* ── Footer ── */}
