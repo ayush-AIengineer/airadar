@@ -8,11 +8,12 @@ import { FilterSidebar, type FilterState } from "@/components/FilterSidebar";
 import { RadarHero } from "@/components/RadarHero";
 import { Scene3DBackground } from "@/components/Scene3DBackground";
 import { StatCard } from "@/components/StatCard";
+import { SubmitToolForm } from "@/components/SubmitToolForm";
 import { SubscribeForm } from "@/components/SubscribeForm";
 import { ToolCard } from "@/components/ToolCard";
 import type { Pricing, Tool } from "@/lib/types";
 
-export function Dashboard({ tools }: { tools: Tool[] }) {
+export function Dashboard({ tools, featured = [] }: { tools: Tool[]; featured?: Tool[] }) {
   const [filters, setFilters] = useState<FilterState>({
     query: "",
     categories: new Set(),
@@ -67,12 +68,18 @@ export function Dashboard({ tools }: { tools: Tool[] }) {
             </span>
             <span className="font-display text-lg font-semibold tracking-tight">AIRadar</span>
           </a>
-          <nav className="flex items-center gap-6 text-sm text-slate-400">
-            <a href="#tools" className="transition hover:text-slate-100">
+          <nav className="flex items-center gap-4 text-sm text-slate-400 sm:gap-6">
+            <a href="#tools" className="hidden transition hover:text-slate-100 sm:inline">
               Tools
             </a>
-            <a href="#how" className="transition hover:text-slate-100">
+            <a href="#how" className="hidden transition hover:text-slate-100 sm:inline">
               How it works
+            </a>
+            <a
+              href="#submit"
+              className="rounded-full border border-brand-400/40 bg-brand-500/15 px-3.5 py-1.5 font-medium text-brand-200 transition hover:bg-brand-500/25"
+            >
+              Submit a tool
             </a>
           </nav>
         </div>
@@ -121,6 +128,24 @@ export function Dashboard({ tools }: { tools: Tool[] }) {
         <StatCard label="Categories" value={categoryCounts.length} delay={0.2} />
         <StatCard label="Sources live" value={1} delay={0.3} />
       </section>
+
+      {/* ── Featured (sponsored) ── */}
+      {featured.length > 0 && (
+        <section className="mx-auto mt-10 w-full max-w-[1920px] px-6 lg:px-12">
+          <div className="mb-4 flex items-center gap-2">
+            <span className="text-brand-300">✦</span>
+            <h2 className="text-lg font-semibold">Featured</h2>
+            <span className="ml-auto text-xs uppercase tracking-wide text-slate-500">
+              Sponsored
+            </span>
+          </div>
+          <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 2xl:grid-cols-3">
+            {featured.map((tool, i) => (
+              <ToolCard key={`f-${tool.id}`} tool={tool} index={i} featured />
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* ── Catalog ── */}
       <section
@@ -184,6 +209,28 @@ export function Dashboard({ tools }: { tools: Tool[] }) {
             </div>
           </div>
         </motion.div>
+      </section>
+
+      {/* ── Submit / Get featured (revenue funnel) ── */}
+      <section
+        id="submit"
+        className="mx-auto w-full max-w-[1920px] scroll-mt-20 px-6 pb-20 lg:px-12"
+      >
+        <div className="glass rounded-3xl px-6 py-12 text-center sm:px-12">
+          <span className="inline-flex items-center gap-2 rounded-full border border-brand-400/40 bg-brand-500/15 px-3 py-1 text-xs font-medium text-brand-200">
+            ✦ Get featured
+          </span>
+          <h2 className="mt-4 text-2xl font-bold sm:text-3xl">
+            Built an AI tool? Get it in front of thousands.
+          </h2>
+          <p className="mx-auto mt-2 max-w-md text-slate-400">
+            Submit your tool for a free listing review — or grab a Featured slot at the top
+            of the radar.
+          </p>
+          <div className="mt-6">
+            <SubmitToolForm />
+          </div>
+        </div>
       </section>
 
       {/* ── Footer ── */}

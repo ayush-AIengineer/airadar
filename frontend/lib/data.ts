@@ -1,5 +1,6 @@
+import featuredPayload from "@/public/data/featured.json";
 import payload from "@/public/data/tools.json";
-import type { ToolsPayload } from "./types";
+import type { Tool, ToolsPayload } from "./types";
 
 /**
  * Loads the exported tool catalog. Today this reads a static JSON snapshot produced by
@@ -8,4 +9,13 @@ import type { ToolsPayload } from "./types";
  */
 export function getTools(): ToolsPayload {
   return payload as unknown as ToolsPayload;
+}
+
+/**
+ * Owner-curated sponsored/featured tools (paid placements). Lives in its own file so the
+ * nightly auto-refresh (which only rewrites tools.json) never wipes paid slots. To add a
+ * sponsor, append a Tool object to `public/data/featured.json` and commit.
+ */
+export function getFeatured(): Tool[] {
+  return (featuredPayload as unknown as { featured: Tool[] }).featured ?? [];
 }

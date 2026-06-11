@@ -6,7 +6,15 @@ import { Tilt3D } from "@/components/Tilt3D";
 import type { Tool } from "@/lib/types";
 import { cn, countryFlag, PRICING_LABELS, PRICING_STYLES, scoreColor } from "@/lib/utils";
 
-export function ToolCard({ tool, index }: { tool: Tool; index: number }) {
+export function ToolCard({
+  tool,
+  index,
+  featured = false,
+}: {
+  tool: Tool;
+  index: number;
+  featured?: boolean;
+}) {
   const ring = scoreColor(tool.quality);
 
   return (
@@ -22,8 +30,19 @@ export function ToolCard({ tool, index }: { tool: Tool; index: number }) {
           target="_blank"
           rel="noreferrer"
           style={{ transformStyle: "preserve-3d" }}
-          className="glass glass-hover relative block h-full rounded-2xl p-5"
+          className={cn(
+            "glass glass-hover relative block h-full rounded-2xl p-5",
+            featured && "border-brand-400/40 ring-1 ring-brand-500/30"
+          )}
         >
+          {featured && (
+            <span
+              className="relative mb-2 inline-flex items-center gap-1 rounded-full border border-brand-400/40 bg-brand-500/15 px-2 py-0.5 text-[11px] font-medium text-brand-200"
+              style={{ transform: "translateZ(44px)" }}
+            >
+              ✦ Featured
+            </span>
+          )}
           <div
             className="relative flex items-start justify-between gap-3"
             style={{ transform: "translateZ(40px)" }}
