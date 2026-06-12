@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-06-11T10:27:39.104579+00:00",
-  "count": 25,
+  "generatedAt": "2026-06-12T10:15:46.054164+00:00",
+  "count": 17,
   "tools": [
     {
-      "id": "52c290de-c5b6-4287-a76f-2df32156263d",
+      "id": "fac0ea72-804f-49a5-b092-678c3b11bf1b",
+      "name": "testsprite-cli",
+      "url": "https://github.com/TestSprite/testsprite-cli",
+      "oneLiner": "AI ships code in minutes — verifying it hasn't.",
+      "description": "AI ships code in minutes — verifying it hasn't. testsprite\nopens your live app, uses it like a real user, and shows your coding agent exactly what broke — so it fixes its own work before a bug ever reaches you.\nProof, in public: verification beats model size. With this CLI in the loop, the cheapest model in the field shipped the most correct app on an open leaderboard — 89%, at half the cost of th",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/TestSprite/testsprite-cli.git",
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "4392cf04-f4c8-4fa2-8bc4-d0dff9cdb88c",
       "name": "agentgraphed",
       "url": "https://github.com/sudomichael/agentgraphed",
       "oneLiner": "Local-first history, search, and analytics for Claude Code and Codex.",
@@ -20,7 +37,7 @@
       ]
     },
     {
-      "id": "1d15948e-3dcf-4d92-b72e-8eb9d966c31f",
+      "id": "c11f88be-b33b-4f65-b9b3-4c3d5e510e39",
       "name": "Council",
       "url": "https://github.com/albertofettucini/Council",
       "oneLiner": "A roundtable of AI minds.",
@@ -31,47 +48,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/albertofettucini/Council.git",
       "categories": [
-        "image",
+        "security",
         "code",
-        "security"
+        "design"
       ]
     },
     {
-      "id": "3ed58a7f-dd71-413b-be14-bf6816bcec15",
-      "name": "TokenBar",
-      "url": "https://github.com/Nanako0129/TokenBar",
-      "oneLiner": "AI token usage monitor for the macOS menu bar.",
-      "description": "AI token usage monitor for the macOS menu bar.\nTokenBar is a local-first AI token usage monitor for the macOS menu bar. It sits in the menu bar — no Dock icon, no telemetry, no account — and reads your local AI coding session logs on-device to show what you're spending across 25+ AI coding agents (Claude Code, Codex CLI, Cursor, OpenCode, Gemini CLI, Copilot CLI, Amp, Droid, Hermes, Goose, Kilo/Ki",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "69a31be8-fa52-4512-8a54-1b666612d30d",
-      "name": "duepocket",
-      "url": "https://github.com/Jiaye1998/duepocket",
-      "oneLiner": "AI-powered local-first renewal and app-wallet radar.",
-      "description": "AI-powered local-first renewal and app-wallet radar.\nDuePocket helps users catch upcoming subscriptions, trial conversions, and low app-wallet balances before money leaves.\nIt is designed as a privacy-first AI product engineering demo: no account, no bank sync, local IndexedDB storage, AI extraction candidates, human confirmation, and a bilingual evaluation harness.\n- 30-day renewal radar for subs",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "rag"
-      ]
-    },
-    {
-      "id": "6a300959-7e5f-4ce6-874b-9583d0109f29",
+      "id": "bea8fea5-bf75-4d87-8ccc-5b576d058f69",
       "name": "DeepInterview",
       "url": "https://github.com/ngoanpv/DeepInterview",
       "oneLiner": "UI in English + Tiếng Việt · voice interviews in 7 languages incl.",
@@ -83,29 +66,12 @@
       "githubUrl": "https://github.com/ngoanpv/DeepInterview.git",
       "categories": [
         "code",
-        "voice",
-        "rag"
+        "rag",
+        "voice"
       ]
     },
     {
-      "id": "d1ecf54e-54f6-489e-97aa-c0a007374610",
-      "name": "ApeironCode",
-      "url": "https://github.com/poolanithinreddy/ApeironCode",
-      "oneLiner": "Open-source, local-first AI coding agent for developers who want control.",
-      "description": "Open-source, local-first AI coding agent for developers who want control.\nUse any model. See every action. Keep your code under your rules.\nEarly alpha, CLI-only public release. The VS Code extension is not part of this public alpha. APIs and commands may change, but writes and commands remain approval-gated.\nThe package and one-line installer are not published yet. Install the current alpha from ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/poolanithinreddy/ApeironCode.git",
-      "categories": [
-        "design",
-        "code",
-        "security"
-      ]
-    },
-    {
-      "id": "81450d87-f585-4149-a821-a56873e74922",
+      "id": "eec6ab69-058d-4786-89b4-9604a8559d11",
       "name": "polyhelper",
       "url": "https://github.com/PolyHelper/polyhelper",
       "oneLiner": "An industrial-grade engineering machine that helps people think, decide, and act in high-stakes environments.",
@@ -122,7 +88,7 @@
       ]
     },
     {
-      "id": "720d995f-83f1-41f7-befc-9cad9e8268b5",
+      "id": "d19fdded-cd00-4768-81ed-0c2000438f11",
       "name": "AI-Website-Audit-CLI",
       "url": "https://github.com/Tools2U/AI-Website-Audit-CLI",
       "oneLiner": "Open-source CLI for deterministic website audits and OpenAI-powered strategy reports using the modern Responses API.",
@@ -133,79 +99,45 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/your-username/ai-website-audit-cli.git",
       "categories": [
-        "design",
+        "security",
         "code",
-        "security"
+        "design"
       ]
     },
     {
-      "id": "312325e7-4fd5-4299-9639-64fbbf00fc8f",
-      "name": "ATS Glyph",
-      "url": "https://github.com/ste1v0/atsglyph",
-      "oneLiner": "Local-first ATS resume checker for job seekers.",
-      "description": "Local-first ATS resume checker for job seekers.\nATS Glyph helps you check a PDF CV against a job description, see what an ATS-style parser can read, get a practical fit score, and generate focused improvement suggestions using your own AI key.\nNo account. No database. No subscription. Local-first and free.\n- a PDF CV\n- a job description\n- your AI key — a free Gemini key works too\n- a quick 0–100 f",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ste1v0/atsglyph.git",
-      "categories": [
-        "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "2d7d59e9-f1d6-457b-8685-024abbb9111f",
-      "name": "SynCodeLive",
-      "url": "https://syncodelive.com/",
-      "oneLiner": "+Is SyncodeLive really free?",
-      "description": "+Is SyncodeLive really free?\nYes. SyncodeLive is free with no credit card, no trial, and no paid tier. Every feature, including voice chat, the AI reviewer, read-only sharing, the share-with-LLM flow, and execution across 26 languages, is available to every user at no cost.\n+Does SyncodeLive require a signup or account?\nNo. Click new session and you get a shareable URL immediately. No email, no pa",
+      "id": "ab376de0-e865-4d66-af26-0cb9ea432b05",
+      "name": "Spoiler-Free Website for UFC",
+      "url": "https://eventclock.org",
+      "oneLiner": "Show HN: Spoiler-Free Website for UFC, FIFA World Cup, Formula 1",
+      "description": "Spoiler-free information\nUFC, Formula 1, and FIFA World Cup 2026\nFIFA World Cup 2026USA · Mexico · Canada\nUp Next\nKapevs.Horiguchi 2\n•UFC Fight NightMeta APEXLas Vegas, Nevada, United States\nAustrian Grand Prix\nRed Bull RingSpielberg\nFizievvs.Torres\n•UFC Fight NightNational Gymnastics ArenaBaku, Azerbaijan\nBritish Grand Prix\nSilverstone CircuitSilverstone\nMcGregorvs.Holloway 2\n•UFC 329T-Mobile Are",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "code",
-        "voice"
+        "design"
       ]
     },
     {
-      "id": "28a44b0c-ae3c-4482-be86-f5367ecfc245",
-      "name": "Phantomix",
-      "url": "https://github.com/dimitrisdimitrov5-blip/Phantomix",
-      "oneLiner": "Phantomix lets Claude control your browser and do things for you automatically.",
-      "description": "Phantomix lets Claude control your browser and do things for you automatically. Browse, scrape, fill forms, book appointments, shop online — all via Telegram or a web dashboard.\n- 🆓 100% free and open-source — self-host in minutes\n- 🤖 Claude-powered — best AI model for reasoning and tasks\n- 📱 Control via Telegram — send tasks from your phone anywhere\n- 🌐 Web dashboard — visual interface to monitor",
+      "id": "62374d00-af05-4301-959f-75f1b4bcad57",
+      "name": "MandoCode",
+      "url": "https://github.com/DevMando/MandoCode",
+      "oneLiner": "Your AI coding assistant — run locally or in the cloud with Ollama.",
+      "description": "Your AI coding assistant — run locally or in the cloud with Ollama.\nNo API keys required. Just you and your code.\nMandoCode is an AI coding assistant built on RazorConsole, powered by Semantic Kernel and Ollama. RazorConsole makes the entire terminal UI possible — Razor components, a virtual DOM, and Spectre.Console rendering all running in the console.\nRun locally or connect to Ollama cloud — no ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/dimitrisdimitrov5-blip/Phantomix",
+      "githubUrl": "https://github.com/DevMando/MandoCode.git",
       "categories": [
-        "agents"
+        "agents",
+        "code",
+        "audio"
       ]
     },
     {
-      "id": "af385e09-aead-4537-b635-ec8f329d06d2",
-      "name": "AI Coloring Page Generator",
-      "url": "https://aicoloringpagegenerator.org/",
-      "oneLiner": "Create printable, age-safe coloring worksheets with words, letters, numbers, and classroom themes.",
-      "description": "Letter B Line Art\nPrompt: Large letter B with a butterfly and ball, thick black outline, simple K-2 coloring page\nKindergarten · Beginning sounds\nAI coloring page generator for teachers\nCreate printable, age-safe coloring worksheets with words, letters, numbers, and classroom themes. Built for K-2 teachers and homeschool parents who need a worksheet now. Keep each prompt focused on one lesson goal",
-      "pricing": "free_trial",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "audio",
-        "productivity"
-      ]
-    },
-    {
-      "id": "dc26cef5-fed0-4178-928c-99c9878eb4cc",
+      "id": "7f383c54-d586-4e41-a56d-3ca154795c39",
       "name": "zhuanglema",
       "url": "https://github.com/liyupi/zhuanglema",
       "oneLiner": "pip install -r requirements.",
@@ -221,23 +153,7 @@
       ]
     },
     {
-      "id": "428ba5f5-1ded-4e8d-9a9f-a76d516070cd",
-      "name": "coreai-model-zoo",
-      "url": "https://github.com/john-rocky/coreai-model-zoo",
-      "oneLiner": "LLMs converted to Apple Core AI (.",
-      "description": "LLMs converted to Apple Core AI (.aimodel\n, iOS 27 / macOS 27) — downloadable, verified\non-device, with the conversion code and a knowledge base. Successor to\nCoreML-Models\n.\nMeasured on the iOS 27 / macOS 27 beta, all on Apple's coreai-pipelined\nGPU engine (zero\ncustom kernels) except the ANE column. Per-model configurations, prefill numbers, sizes, and\ncaveats: zoo/\n. The Gemma 4 QAT rows are re",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code"
-      ]
-    },
-    {
-      "id": "bcf5e232-a22d-4919-b0d1-792a632681c1",
+      "id": "3fb61736-46aa-47d8-82f2-a503acfa1e32",
       "name": "ai-wallet-extension",
       "url": "https://github.com/SFzxc/ai-wallet-extension",
       "oneLiner": "AI Wallet is a Chrome MV3 extension that lets websites request user-approved AI model access without receiving the user's API keys.",
@@ -248,13 +164,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "video"
       ]
     },
     {
-      "id": "c471301c-0414-4990-b240-4e9798b4c336",
+      "id": "effd69b2-d9f2-4aaf-8fb8-27ba611a9ed2",
       "name": "lightnovel-studio",
       "url": "https://github.com/mmlong818/lightnovel-studio",
       "oneLiner": "An AI-powered light-novel writing studio.",
@@ -270,7 +186,7 @@
       ]
     },
     {
-      "id": "aeb7e6d8-041d-42c9-8fc3-1e00c006563b",
+      "id": "3bd916a1-80bb-418d-b629-a9025e7092d2",
       "name": "engineering-os",
       "url": "https://github.com/engineering-os/engineering-os",
       "oneLiner": "Your AI finally remembers your codebase.",
@@ -281,13 +197,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
+        "security",
         "code",
-        "security"
+        "design"
       ]
     },
     {
-      "id": "3241d664-9e1a-435c-a406-b44d46d17be9",
+      "id": "0cfadeeb-fb4d-4fa5-bd30-ea6744fd8d94",
       "name": "guard-skills",
       "url": "https://github.com/amElnagdy/guard-skills",
       "oneLiner": "Focused guard skills for coding agents: second-pass quality gates that catch the systematic failure modes of AI-generated code, tests, and docs before they ship.",
@@ -298,13 +214,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "writing",
         "code",
+        "writing",
         "data"
       ]
     },
     {
-      "id": "77e9e77f-b444-4ebb-af4b-ab82d0766ee4",
+      "id": "a5d73b0b-8d02-485c-a5d3-db4f2bab5023",
       "name": "MCPify",
       "url": "https://github.com/amarnath3003/MCPify",
       "oneLiner": "Compile software into AI-operable systems.",
@@ -315,110 +231,59 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/amarnath3003/MCPify.git",
       "categories": [
-        "productivity",
         "code",
+        "data",
+        "productivity"
+      ]
+    },
+    {
+      "id": "0e5ec78e-916c-4105-ab65-60c9c631c4b2",
+      "name": "claude-fable-5-prompt-optimizer",
+      "url": "https://github.com/CheswickDEV/claude-fable-5-prompt-optimizer",
+      "oneLiner": ") — Anthropic's Mythos-class model above the Opus tier.",
+      "description": "A claude.ai Project that rewrites raw prompts for Claude Fable 5 (claude-fable-5\n) — Anthropic's Mythos-class model above the Opus tier. Type prompt: <anything>\nand get back an optimized prompt, a change log citing the exact rule behind every edit, and (for API use) a parameter recommendation. All 43 rules trace to official Anthropic documentation.\n- ⚡ Before & After\n- 🚀 Quick Start\n- 🎯 The\nprompt",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "writing"
+      ]
+    },
+    {
+      "id": "2638d622-2e75-468e-9fd5-f06edda961ff",
+      "name": "The Normalization of Deviance in AI",
+      "url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
+      "oneLiner": "The AI industry risks repeating the same cultural failures that contributed to the Space Shuttle Challenger disaster: Quietly normalizing warning signs while progress marches forwa",
+      "description": "The Normalization of Deviance in AI\nThe AI industry risks repeating the same cultural failures that contributed to the Space Shuttle Challenger disaster: Quietly normalizing warning signs while progress marches forward.\nThe original term Normalization of Deviance comes from the American sociologist Diane Vaughan, who describes it as the process in which deviance from correct or proper behavior or ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "79b2418e-61e1-4ca7-8316-177b7206d83e",
-      "name": "mind-agency",
-      "url": "https://github.com/Toufumind/mind-agency",
-      "oneLiner": "Mind Agency is a locally-run multi-AI collaboration platform.",
-      "description": "Mind Agency is a locally-run multi-AI collaboration platform.\nYou create AI Agents — or let Agents create each other. Give them roles and personalities, put them in groups, define workflows. Hit \"run\" — and they collaborate automatically, like a real team.\nNot an API wrapper. Not a prompt template. A full collaboration system: Agents communicate via group chat and email, make decisions through vot",
+      "id": "11bc3c8e-b4ee-4d9d-b694-b5cca48f13c7",
+      "name": "LinkedIn Unfiltered",
+      "url": "https://github.com/kjhq/linkedin-unfiltered",
+      "oneLiner": "chrome extension that translates linkedin posts into what people actually mean.",
+      "description": "chrome extension that translates linkedin posts into what people actually mean.\nscroll linkedin, see a post full of corporate buzzwords and engagement bait, hit unfilter. an ai translates it into honest, blunt text. for entertainment only.\nfeatures:\n- instant translate — one click on any post\n- personalities — blunt, sarcastic, corporate, gen z\n- substance score — 0-10 rating of how much is actual",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Toufumind/mind-agency.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "agents",
-        "code",
-        "research"
-      ]
-    },
-    {
-      "id": "975bc59b-362c-4480-a4d8-df816701d426",
-      "name": "rainman",
-      "url": "https://github.com/yan-yanko/rainman",
-      "oneLiner": "Context-aware project memory for AI coding tools.",
-      "description": "Context-aware project memory for AI coding tools. Remembers what you've built, what failed, what works — and surfaces it when your AI assistant needs it.\nZero LLM calls. Zero external dependencies. Runs locally.\nNo embeddings, no API calls — zero tokens to store and rank memory. Recalled memories are injected as ordinary context (the relevant slice, not your whole history), so they cost normal inp",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/yan-yanko/rainman.git",
-      "categories": [
-        "agents",
         "code",
         "rag"
-      ]
-    },
-    {
-      "id": "68990bc9-5e0f-4245-b778-cb021c2083f3",
-      "name": "Noesis",
-      "url": "https://github.com/Sheep1433/Noesis",
-      "oneLiner": "cd backend && uv run app.",
-      "description": "Noesis 是一个基于 Vue 3 + FastAPI + LangGraph 的全栈 AI 对话平台，面向多场景智能体协作：通用问答、故障运维、深度研究与测试用例生成。前端通过 SSE 流式展示推理与工具调用过程；后端统一 Agent 运行时、知识库检索与消息持久化。\nAgent 自主加载 Skills、创建研究目录、联网检索，并通过 SSE 流式展示推理与工具调用过程。\n基于需求文档分阶段生成测试场景与测试点，支持脑图可视化与人工勾选确认后批量产出用例。\n- 前端：Vue 3、Vite、TypeScript、Naive UI\n- 后端：FastAPI、LangChain、LangGraph\n- 存储：MySQL（会话与消息）、Qdrant（向量检索）\n- 模型：DashScope / OpenAI 兼容接口；可选 Langfuse 观测\n┌──────────── 前端（Vue 3）",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "3434ccf3-c877-4032-a503-f550821bc4a3",
-      "name": "Tail Panic",
-      "url": "https://tailpanic.com",
-      "oneLiner": "and return one action string per frame.",
-      "description": "Write scripts to compete\nImplement chooseSkills\n, init\n, onFrame\nand return one action string per frame.\nYour logic runs in a sandbox and drives every step on the grid.\nTail Panic · Code-Driven Battle Arena\n25×25 map, 150 logic frames, one command per frame. Your\nonFrame(state)\nis the character's entire playbook.\nTail Panic is a code-driven grid strategy battle. Chasers catch evaders; evaders surv",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "c1816ba6-e34a-4ec7-bd87-e8ef44650692",
-      "name": "SpadeBox",
-      "url": "https://github.com/CharlyCst/spadebox",
-      "oneLiner": "SpadeBox is a set of sandboxed tools and a JS runtime for AI agents, written in Rust with JavaScript and Python bindings.",
-      "description": "SpadeBox is a set of sandboxed tools and a JS runtime for AI agents, written in Rust with JavaScript and Python bindings. Focus on your domain-specific tools and harness — give your agent SpadeBox for the rest.\n- Lightweight sandboxing: SpadeBox uses the\ncap-std\ncrate for file system sandboxing, and domain allowlisting for HTTP requests. The JS engine is based on boa, and uses the same sandboxing ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "50eefd6a-4e37-4cbf-967e-f94a72b7bec9",
-      "name": "Remove Anything",
-      "url": "https://www.remove-anything.com",
-      "oneLiner": "Start with one image, clean it up fast, and export a result you can actually use.",
-      "description": "Remove Unwanted Elements from Photos with AI\nStart with one image, clean it up fast, and export a result you can actually use.\nRemove unwanted objects, backgrounds, and watermarks from images with one AI workspace built for clean exports, transparent PNGs, and batch-ready follow-up tools.\nQuick Access\nChoose the feature you need and start using it immediately\nConnect background editing and batch i",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "image",
-        "writing"
       ]
     }
   ]
