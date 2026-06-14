@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-06-13T09:18:29.127108+00:00",
-  "count": 23,
+  "generatedAt": "2026-06-14T09:37:03.011486+00:00",
+  "count": 25,
   "tools": [
     {
-      "id": "8359db86-57ad-4839-8363-0e0ce6cfc42e",
+      "id": "240c0951-aa69-418f-a41b-ea54aa871056",
+      "name": "react-native-nsfw-detector",
+      "url": "https://github.com/watadarkstar/react-native-nsfw-detector",
+      "oneLiner": "to detect nudity and unsafe visual content in images.",
+      "description": "A fast on device AI image safety detector for React Native / Expo using a CoreML model\nto detect nudity and unsafe visual content in images.\nNeed help building your React Native app? Connect with Adrian on X\n- React Native 0.70+\n- iOS 13+\n- CoreML enabled environment\n- Xcode 10+ Because the model was trained with CreateML, you need Xcode 10 and above to compile the project\n- Physical iOS device st",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "image"
+      ]
+    },
+    {
+      "id": "e55e800a-0b3a-4981-ad5d-8ffb73fcde08",
       "name": "Third-Eye",
       "url": "https://github.com/eli-labz/Third-Eye",
       "oneLiner": "A real-time global intelligence dashboard that aggregates live flight tracking, CCTV networks, earthquake monitoring, conflict zone mapping, and 24/7 news feeds into a single GPU-a",
@@ -15,12 +32,12 @@
       "githubUrl": "https://github.com/eli-labz/Third-Eye.git",
       "categories": [
         "code",
-        "data",
-        "productivity"
+        "productivity",
+        "data"
       ]
     },
     {
-      "id": "3072a1ef-1cf8-4d2d-a1e9-04e3fb6c52ea",
+      "id": "cd454a1e-3df9-414e-939b-6e5aae3f573f",
       "name": "comcom",
       "url": "https://github.com/eric248550/comcom",
       "oneLiner": "The AI communication tool for Gmail and Slack.",
@@ -37,7 +54,7 @@
       ]
     },
     {
-      "id": "c79eb3c9-fbe2-4065-828a-7c0a026f8599",
+      "id": "a2563598-f39f-4b4a-acf5-76f74eb4289e",
       "name": "aipath",
       "url": "https://github.com/buynao/aipath",
       "oneLiner": "↑ The homepage hero (Lesson 15 · the next-token game): an LLM guesses one token at a time — turn the temperature and watch its top-5 candidates reshape, from focused to “wild.",
@@ -48,13 +65,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "rag"
       ]
     },
     {
-      "id": "1cc16087-54f6-42e6-806e-268e401ac9e4",
+      "id": "2316bc22-cbef-4d1b-84d7-1bf1a98704ec",
       "name": "lychee",
       "url": "https://github.com/MD-Mushfiqur123/lychee",
       "oneLiner": "Lychee extends Ollama with features the upstream doesn't have: multi-model pipelines, structured output with auto-retry, persistent conversation memory, and multi-instance load bal",
@@ -65,13 +82,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/MD-Mushfiqur123/lychee.git",
       "categories": [
-        "design",
+        "agents",
         "code",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "1acc48e7-c990-473c-864d-a389747cbe5f",
+      "id": "ce524b0a-e162-4db5-b602-96e3cb06ec5e",
       "name": "testsprite-cli",
       "url": "https://github.com/TestSprite/testsprite-cli",
       "oneLiner": "AI ships code in minutes — verifying it hasn't.",
@@ -82,30 +99,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/TestSprite/testsprite-cli.git",
       "categories": [
-        "design",
+        "agents",
         "code",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "50241cdb-53de-4340-ac9d-f09841045a07",
-      "name": "honey-ai",
-      "url": "https://github.com/martidu4/honey-ai",
-      "oneLiner": "One process, every protocol.",
-      "description": "All-in-one AI-powered honeypot. One process, every protocol.\nReplaces Cowrie · Galah · OpenCanary · Endlessh — with a single Node.js service driven by a local LLM.\nHoneyAI is a proactive, AI-driven honeypot that intercepts attackers across every common protocol and responds with dynamically generated, fully convincing deceptive content — powered by a local LLM running via Ollama.\nInstead of static",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/martidu4/honey-ai.git",
-      "categories": [
-        "code",
-        "data",
-        "writing"
-      ]
-    },
-    {
-      "id": "6e0d7310-c88d-4075-9ab4-32e7474b66aa",
+      "id": "4403dab0-7252-4d36-860e-3838afed7e92",
       "name": "AurixAgent",
       "url": "https://github.com/DekaPrayoga/AurixAgent",
       "oneLiner": "Open-source terminal AI agent that codes, researches, browses, and solves — with real hands.",
@@ -116,13 +116,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/DekaPrayoga/AurixAgent.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "2ccbb66f-5622-492c-83d5-2474646d510c",
+      "id": "0bbd07a9-ac0f-4e99-b30b-77db13032612",
       "name": "vibeclip",
       "url": "https://github.com/oktaydbk54/vibeclip",
       "oneLiner": "Drop in a long video — podcast, interview, talk, stream — and VibeClip cuts it into vertical, captioned, ready-to-post shorts.",
@@ -139,75 +139,40 @@
       ]
     },
     {
-      "id": "a495b633-bff0-459b-9143-629b8cdfcfbc",
+      "id": "5fd1ea71-cb8f-4a71-8957-bb7b9fa6b4b2",
       "name": "polyhelper",
       "url": "https://github.com/PolyHelper/polyhelper",
       "oneLiner": "In 2023, the founder's son was hit by a car — skull fractures, brain hemorrhage, surgery with metal implants.",
       "description": "In 2023, the founder's son was hit by a car — skull fractures, brain hemorrhage, surgery with metal implants. When it became clear that ordinary human capability is not enough, this exoskeleton was born — amplifying what a person can do when it matters most.\nThe son, a designer who couldn't work after the injury, put on this exoskeleton — and now designs this platform. The father, with no lawyer a",
-      "pricing": "paid",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
+      "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "research"
       ]
     },
     {
-      "id": "a35f0d9c-c266-4b35-961e-7b848be5d774",
-      "name": "AI-Website-Audit-CLI",
-      "url": "https://github.com/Tools2U/AI-Website-Audit-CLI",
-      "oneLiner": "Open-source CLI for deterministic website audits and OpenAI-powered strategy reports using the modern Responses API.",
-      "description": "Open-source CLI for deterministic website audits and OpenAI-powered strategy reports using the modern Responses API.\nQuick start · OpenAI integration · Features · CLI reference · OpenAI docs · Contributing\nai-website-audit-cli\nturns a public website URL into a structured audit package:\n- Extraction JSON with the facts the tool found on the page.\n- Deterministic audit JSON with transparent rule-bas",
-      "pricing": "open_source",
+      "id": "0e604441-80db-427b-bbef-bd6fb8476859",
+      "name": "AI-Voice-Changer-Real-Time-Desktop",
+      "url": "https://github.com/amplitudesoldierheed/AI-Voice-Changer-Real-Time-Desktop",
+      "oneLiner": "AI Voice-Changer Real-Time lets streamers, podcasters, and gamers instantly morph their voice into diverse characters, offering low‑latency, high‑quality transformations that boost",
+      "description": "██ ██ ██████ ██ ██████ ███████ ██████ ██ ██ █████ ███ ██ ██████ ███████ ██████\n██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ████ ██ ██ ██ ██ ██\n██ ██ ██ ██ ██ ██ █████ █████ ██ ███████ ███████ ██ ██ ██ ██ ███ █████ ██████\n██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██\n████ ██████ ██ ██████ ███████ ██████ ██ ██ ██ ██ ██ ████ ██████ ███████ ██ ██\nAI Voice-Changer Real-Time lets streamers, podcas",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/your-username/ai-website-audit-cli.git",
-      "categories": [
-        "design",
-        "code",
-        "security"
-      ]
-    },
-    {
-      "id": "42341015-7e18-457d-b8de-4127676e4edc",
-      "name": "SentinelMCP",
-      "url": "https://github.com/technosiveuk-ui/SentinelMCP",
-      "oneLiner": "Built by Technosive Ltd.",
-      "description": "The Open-Source MCP Security Gateway for AI Agents\nBuilt by Technosive Ltd.\n⚠️ Alpha Software — v0.1SentinelMCP is currently in Alpha. The project is under active development and APIs, configuration formats, and graph behaviors may change in future releases without advance notice.\nProduction warning: This software is provided as-is. While we strive for security, an Alpha-stage proxy should not be ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "08da2b8d-f046-4136-b131-885f855c6364",
-      "name": "AccInt",
-      "url": "https://accint.xyz/",
-      "oneLiner": "Memory gives agents context.",
-      "description": "Memory gives agents context. Observability gives traces. Orchestration moves tasks. AccInt settles what happened against reality: what the agent expected, what it did, who approved it, what came back, and which path deserves reuse — all on hardware you control.\nagent commits\naction is recorded reality settles it the Work Model updatesa commitment settling — Tuesday, 9:14:\nAccInt is running while y",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
+      "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "data"
+        "voice"
       ]
     },
     {
-      "id": "a248cf26-f3cc-4d05-9694-b0bc9aa3a7c5",
+      "id": "a0d28fff-766d-4d35-984d-202f7b0d9e33",
       "name": "awesome-ai-game",
       "url": "https://github.com/bowen-aigame/awesome-ai-game",
       "oneLiner": "You signed in with another tab or window.",
@@ -222,7 +187,7 @@
       ]
     },
     {
-      "id": "ef34f240-f17a-4383-830e-ab0acbe44f25",
+      "id": "f561466e-c5cb-4ad1-84fd-6b2580a0885a",
       "name": "cardputer-ai",
       "url": "https://github.com/therezor/cardputer-ai",
       "oneLiner": "A fully local, offline chatbot running on the M5Stack Cardputer ADV (ESP32-S3FN8, 512 KB SRAM, 8 MB flash, no PSRAM).",
@@ -233,13 +198,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "image"
       ]
     },
     {
-      "id": "07eff248-5c03-4297-b982-371279ef12be",
+      "id": "3c8f2ca7-91a0-45fd-b7c9-823d5c308488",
+      "name": "treetrace",
+      "url": "https://github.com/Tree-Trace/treetrace",
+      "oneLiner": "The corrections you make to an AI agent are the highest-signal data in the session, and they vanish when it ends.",
+      "description": "The corrections you make to an AI agent are the highest-signal data in the session, and they vanish when it ends. TreeTrace captures them locally as deterministic regression and eval data, with no LLM judge.\nInstall · Why · Security · Outputs · MCP · Examples · treetrace.dev\ncd your-project\nnpx treetrace\nNode.js 18 or newer. TreeTrace ships with no runtime dependencies, so npx treetrace\nneeds noth",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "ea8705b7-8258-4f97-81e0-c59b32a46b7a",
       "name": "keybearer",
       "url": "https://github.com/HeZeBang/keybearer",
       "oneLiner": "keybearer agent -a /tmp/my-agent.",
@@ -250,13 +232,28 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/HeZeBang/keybearer.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "writing"
       ]
     },
     {
-      "id": "0b24df49-3ff3-4ab6-90da-5d14a008b530",
+      "id": "1ce493b6-4309-41aa-a4b9-729a1cb29952",
+      "name": "improv-os",
+      "url": "https://github.com/Fzhiyu1/improv-os",
+      "oneLiner": "ImprovOS — a web \"operating system\" where every app is improvised by AI, live, the moment you open it.",
+      "description": "一台不预装任何软件的电脑。你打开的每一个应用，都是 AI 当场现编的。\nImprovOS — a web \"operating system\" where every app is improvised by AI, live, the moment you open it.\n🖥️ 在线体验：os.fzhiyu.dev（电脑 / 手机均可，免登录）\n一个发到互联网上博大家一笑的体验项目：macOS 风格的网页\"操作系统\"。桌面、菜单栏、Dock、窗口管理、Spotlight 是手写的真代码——除此之外，系统里没有任何应用。\n点开 Dock 上的计算器，它不是被\"打开\"，而是被 AI 现场写出来（约 2.5 秒，全程代码瀑布直播）。再点一次？重写一个，长得和上次不一样。永不重样是核心笑点。\n- Dock 应用：点开即生成、永不缓存，每次都是新的\n- Spotlight 搜索：搜任何东西——\"",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Fzhiyu1/improv-os",
+      "categories": [
+        "agents"
+      ]
+    },
+    {
+      "id": "dec77fdb-3373-49f5-bb9f-c3e59b70fe3e",
       "name": "dupehound",
       "url": "https://github.com/Rafaelpta/dupehound",
       "oneLiner": "dupehound is a duplicate-code detector built for codebases where agents write most of the code.",
@@ -267,13 +264,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
+        "agents",
         "code",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "c0bde1a4-4a0b-43c3-a9dd-8b9701f61cdd",
+      "id": "94e42b89-2514-4f4c-b09b-c280597bda3f",
       "name": "zhuanglema",
       "url": "https://github.com/liyupi/zhuanglema",
       "oneLiner": "pip install -r requirements.",
@@ -289,11 +286,28 @@
       ]
     },
     {
-      "id": "59fd232a-57b6-46b6-8164-2d41f2f935b3",
+      "id": "1218d4bc-6dca-4a5d-a1fa-4baf655d48d5",
+      "name": "civitai-gen-skill",
+      "url": "https://github.com/civitai/civitai-gen-skill",
+      "oneLiner": "An agent skill that generates images, videos, audio, and more through Civitai's orchestration Workflow API.",
+      "description": "An agent skill that generates images, videos, audio, and more through Civitai's orchestration Workflow API. Every generation type — text-to-image, video, text-to-speech, music, transcription — shares one async lifecycle: submit → poll → download.\nWorks with any skills-compatible agent runtime (Claude Code, OpenClaw, Cursor, Codex, and others). It's a self-contained Node.js CLI with zero npm depend",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/civitai/civitai-gen-skill",
+      "categories": [
+        "code",
+        "voice",
+        "image"
+      ]
+    },
+    {
+      "id": "f3bb5413-fc43-49af-9e45-a95f3b2d813d",
       "name": "coreai-model-zoo",
       "url": "https://github.com/john-rocky/coreai-model-zoo",
-      "oneLiner": "LLMs converted to Apple Core AI (.",
-      "description": "LLMs converted to Apple Core AI (.aimodel\n, iOS 27 / macOS 27) — downloadable, verified\non-device, with the conversion code and a knowledge base. Successor to\nCoreML-Models\n.\nMeasured on the iOS 27 / macOS 27 beta, Apple's coreai-pipelined\nGPU engine, zero custom\nkernels (ANE column + † excepted). † = MoE bundle using the custom\ngather_qmm\nMetal kernel (reads only the routed\nexperts). Prefill, siz",
+      "oneLiner": "You signed in with another tab or window.",
+      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nLLMs converted to Apple Core AI (.aimodel, iOS 27 / macOS 27) — downloadable, verified\non-device, with the conversion code and a knowledge base. Successor to\nCore",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -301,11 +315,29 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "marketing"
+        "design",
+        "rag"
       ]
     },
     {
-      "id": "8412e2d6-e4ca-4ec9-baf6-aacbe9b77bdd",
+      "id": "d69fd005-dd6e-48a2-97b8-96522afa8b81",
+      "name": "ghostwork",
+      "url": "https://github.com/hvardhan878/ghostwork",
+      "oneLiner": "The first agent you don't prompt.",
+      "description": "The first agent you don't prompt.\nGhostwork runs silently in the background, learns how you work from observation alone, and gradually takes repetitive tasks off your hands — without you ever writing a prompt or setting up an integration.\nGhostwork watches every interaction across every app on your Mac (via Screenpipe), builds a rich memory of your work patterns, and surfaces automations the momen",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/your-org/ghostwork",
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "68002ad5-a8c3-4be4-8817-50bac4039069",
       "name": "aipocket",
       "url": "https://github.com/SFzxc/aipocket",
       "oneLiner": "AIPocket is a Chrome MV3 AI access wallet that lets websites request user-approved model access without receiving your provider API keys.",
@@ -316,13 +348,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "video"
       ]
     },
     {
-      "id": "e024b342-3f16-428e-bb06-5d2ab72943d6",
+      "id": "4cb51a43-6a4f-4e2a-8cc8-3412e228ba69",
+      "name": "Core-AI-Framework-Lab",
+      "url": "https://github.com/rudrankriyam/Core-AI-Framework-Lab",
+      "oneLiner": "An early lab for Apple's new CoreAI.",
+      "description": "An early lab for Apple's new CoreAI.framework\nin Xcode 27 beta.\nThis repository is intentionally compiler-first. It verifies the public SDK surface, documents the new framework shape, and gives us a small SwiftUI app, Core AI Lab, that can grow into real model examples once compatible Core AI model assets and iOS 27 runtime devices/simulators are available.\nCoreAI currently looks like a lower-leve",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "image"
+      ]
+    },
+    {
+      "id": "92b460df-5af1-45db-a8d6-8d4c210aac10",
       "name": "lightnovel-studio",
       "url": "https://github.com/mmlong818/lightnovel-studio",
       "oneLiner": "An AI-powered light-novel writing studio.",
@@ -338,50 +387,37 @@
       ]
     },
     {
-      "id": "87c6e870-4bd1-4b48-b48c-1c10e8b2ae21",
-      "name": "llmtrim",
-      "url": "https://github.com/fkiene/llmtrim",
-      "oneLiner": "Cut ~66% off your LLM bill: input, output, and cache, with zero extra model calls.",
-      "description": "Cut ~66% off your LLM bill: input, output, and cache, with zero extra model calls.\nNumbers • Before / after • Get started • Works with • Compared to • Benchmark • Security • Issues\nA drop-in HTTPS proxy that compresses every LLM request and reply. Works with any provider, with no model in the loop. Quality holds, A/B-checked live on every benchmark case.\nA request bleeds tokens in three places. ll",
+      "id": "796b1c41-cea9-4e95-906a-c06cbb3d7732",
+      "name": "Memoriq",
+      "url": "https://github.com/memoriqme/memoriq",
+      "oneLiner": "Memoriq is a private AI memory vault for saving useful conversations from ChatGPT, Claude, Gemini, and Grok.",
+      "description": "Memoriq is a private AI memory vault for saving useful conversations from ChatGPT, Claude, Gemini, and Grok.\nThe goal is simple: when an AI gives you something worth keeping, you should be able to save it, search it later, organize it into projects, export it, and delete it without handing the plaintext to another SaaS database.\nThis repository contains the Memoriq web app.\nChrome extension: Chrom",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/fkiene/scoop-bucket",
+      "githubUrl": "https://github.com/memoriqme/memoriq.git",
       "categories": [
+        "design",
+        "data",
+        "search"
+      ]
+    },
+    {
+      "id": "1639a392-ba88-45aa-8286-0829f1f81fb6",
+      "name": "Agent Gate",
+      "url": "https://github.com/sjh9714/Agent-Gate",
+      "oneLiner": "No AI PR gets merged without proof.",
+      "description": "No AI PR gets merged without proof.\nAgent Gate is a deterministic CI firewall for AI-generated pull requests. It checks PR contracts, risky paths, agent instruction drift, workflow permissions, and test evidence before merge.\nThe Action uses no checkout of PR code, no runtime LLM calls, no repository script execution, and no policy loaded from an untrusted PR head. The same analyzer also powers lo",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
         "code",
-        "security",
-        "rag"
-      ]
-    },
-    {
-      "id": "d82a0efc-9fe5-4821-a1df-3a47cbadce67",
-      "name": "Shepherd's Dog",
-      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-      "oneLiner": "A few days ago, Anthropic released the model that was supposedly too dangerous for the world to see.",
-      "description": "Shepherd's Dog: A Game by the World's Most Dangerous AI\nJune 12, 2026\n1 min read\nA few days ago, Anthropic released the model that was supposedly too dangerous for the world to see. I wanted to give it a try using my personal benchmark: can it build a game idea I've had for years, in a single shot?\nThe model started with a very long reasoning session, and after 45 minutes and more than €20 worth o",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "cb8447a8-1e62-4abe-bd72-e33ef398dc93",
-      "name": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "oneLiner": "If intelligence becomes something people can only rent from a few closed institutions, the public does not just lose software freedom.",
-      "description": "Opensource AI Must Win\nIf intelligence becomes something people can only rent from a few closed institutions, the public does not just lose software freedom. It loses operational freedom.\nThe ability to study, build, repair, deploy, audit, adapt, teach, preserve, and run intelligence systems without asking permission is of existential importance.\nAI is a civilizational infrastructure for work, edu",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design"
+        "productivity"
       ]
     }
   ]
