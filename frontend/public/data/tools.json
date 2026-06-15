@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-14T09:37:03.011486+00:00",
-  "count": 25,
+  "generatedAt": "2026-06-15T12:17:12.931691+00:00",
+  "count": 29,
   "tools": [
     {
-      "id": "240c0951-aa69-418f-a41b-ea54aa871056",
+      "id": "4f56ad9e-ccfe-45cb-918c-c2f7128bc09c",
       "name": "react-native-nsfw-detector",
       "url": "https://github.com/watadarkstar/react-native-nsfw-detector",
       "oneLiner": "to detect nudity and unsafe visual content in images.",
@@ -15,12 +15,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "image"
+        "image",
+        "design"
       ]
     },
     {
-      "id": "e55e800a-0b3a-4981-ad5d-8ffb73fcde08",
+      "id": "e5fada73-ef36-4ac5-9670-7d6da1ec3aef",
       "name": "Third-Eye",
       "url": "https://github.com/eli-labz/Third-Eye",
       "oneLiner": "A real-time global intelligence dashboard that aggregates live flight tracking, CCTV networks, earthquake monitoring, conflict zone mapping, and 24/7 news feeds into a single GPU-a",
@@ -32,16 +32,16 @@
       "githubUrl": "https://github.com/eli-labz/Third-Eye.git",
       "categories": [
         "code",
-        "productivity",
-        "data"
+        "data",
+        "productivity"
       ]
     },
     {
-      "id": "cd454a1e-3df9-414e-939b-6e5aae3f573f",
+      "id": "f69ed2c5-ab3b-4a93-bab7-17f8cc7fd6b4",
       "name": "comcom",
       "url": "https://github.com/eric248550/comcom",
       "oneLiner": "The AI communication tool for Gmail and Slack.",
-      "description": "The AI communication tool for Gmail and Slack.\n🚀 Try the Dashboard · If this project helps you, consider giving it a ⭐\nA self-hostable Chrome Extension + SaaS monorepo that injects an AI communication toolbar into Gmail and Slack. Select text → pick a rewrite mode → done. Supports custom prompt templates per user/org, streaming responses, and a full writing history.\n- Gmail toolbar — select text i",
+      "description": "The AI communication tool for Gmail and Slack.\n🚀 Try the Dashboard · 🧩 Install Chrome Extension · If this project helps you, consider giving it a ⭐\nA self-hostable Chrome Extension + SaaS monorepo that injects an AI communication toolbar into Gmail and Slack. Select text → pick a rewrite mode → done. Supports custom prompt templates per user/org, streaming responses, and a full writing history.\n- ",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -49,12 +49,12 @@
       "githubUrl": "https://github.com/eric248550/comcom.git",
       "categories": [
         "code",
-        "data",
-        "writing"
+        "writing",
+        "data"
       ]
     },
     {
-      "id": "a2563598-f39f-4b4a-acf5-76f74eb4289e",
+      "id": "b198a252-590f-43eb-8cf6-2f494aee6b3c",
       "name": "aipath",
       "url": "https://github.com/buynao/aipath",
       "oneLiner": "↑ The homepage hero (Lesson 15 · the next-token game): an LLM guesses one token at a time — turn the temperature and watch its top-5 candidates reshape, from focused to “wild.",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "id": "2316bc22-cbef-4d1b-84d7-1bf1a98704ec",
+      "id": "adae7d7a-621e-4d22-9c02-2da9889b62ce",
       "name": "lychee",
       "url": "https://github.com/MD-Mushfiqur123/lychee",
       "oneLiner": "Lychee extends Ollama with features the upstream doesn't have: multi-model pipelines, structured output with auto-retry, persistent conversation memory, and multi-instance load bal",
@@ -82,13 +82,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/MD-Mushfiqur123/lychee.git",
       "categories": [
-        "agents",
         "code",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "ce524b0a-e162-4db5-b602-96e3cb06ec5e",
+      "id": "ebb769c7-11de-4b2c-b504-6d14b653dff0",
       "name": "testsprite-cli",
       "url": "https://github.com/TestSprite/testsprite-cli",
       "oneLiner": "AI ships code in minutes — verifying it hasn't.",
@@ -99,13 +99,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/TestSprite/testsprite-cli.git",
       "categories": [
-        "agents",
         "code",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "4403dab0-7252-4d36-860e-3838afed7e92",
+      "id": "d9628360-e3a6-40c7-b06c-8f2f2459f97e",
       "name": "AurixAgent",
       "url": "https://github.com/DekaPrayoga/AurixAgent",
       "oneLiner": "Open-source terminal AI agent that codes, researches, browses, and solves — with real hands.",
@@ -116,13 +116,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/DekaPrayoga/AurixAgent.git",
       "categories": [
-        "agents",
         "code",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "0bbd07a9-ac0f-4e99-b30b-77db13032612",
+      "id": "940023e2-cb15-41d8-ae4a-d3619b286e27",
       "name": "vibeclip",
       "url": "https://github.com/oktaydbk54/vibeclip",
       "oneLiner": "Drop in a long video — podcast, interview, talk, stream — and VibeClip cuts it into vertical, captioned, ready-to-post shorts.",
@@ -139,24 +139,126 @@
       ]
     },
     {
-      "id": "5fd1ea71-cb8f-4a71-8957-bb7b9fa6b4b2",
-      "name": "polyhelper",
-      "url": "https://github.com/PolyHelper/polyhelper",
-      "oneLiner": "In 2023, the founder's son was hit by a car — skull fractures, brain hemorrhage, surgery with metal implants.",
-      "description": "In 2023, the founder's son was hit by a car — skull fractures, brain hemorrhage, surgery with metal implants. When it became clear that ordinary human capability is not enough, this exoskeleton was born — amplifying what a person can do when it matters most.\nThe son, a designer who couldn't work after the injury, put on this exoskeleton — and now designs this platform. The father, with no lawyer a",
-      "pricing": "open_source",
+      "id": "b06a75d7-9cc7-4900-a7a4-23cc68bea864",
+      "name": "Kster.ai",
+      "url": "https://kster.ai",
+      "oneLiner": "Make it a teammate that knows your product.",
+      "description": "AI builds with you now.Make it a teammate that knows your product.\nkster.ai gives you and your AI one shared, always-current picture of your product: the goals, the decisions, the why.\nThe whole team was human. Until now.\nEvery way teams build shared understanding rests on this assumption.\nHow it always worked\nShared understanding lived in people's heads. You talked, someone remembered, and everyo",
+      "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
-        "research"
+        "agents",
+        "marketing"
       ]
     },
     {
-      "id": "0e604441-80db-427b-bbef-bd6fb8476859",
+      "id": "429f0d21-8dba-485b-9f07-52012d887d7e",
+      "name": "StoryMotion",
+      "url": "https://storymotion.video",
+      "oneLiner": "Create animated visuals without the complexity of professional video editors.",
+      "description": "Create animated visuals without the complexity of professional video editors.\nDraw complex arrows, custom shapes, hand-drawn visuals, and detailed diagrams with ease.\nPlus, access thousands of ready-made components from the Excalidraw community library.\nEverything is fully editable — each element on canvas, the effects, and the timing of each motion effect.\nControl exactly when and how each elemen",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "video",
+        "writing"
+      ]
+    },
+    {
+      "id": "524ed725-5710-42d3-b7e5-68ca54b762fb",
+      "name": "VibeKnow",
+      "url": "https://vibeknow.ai/",
+      "oneLiner": "Drop a doc, PDF, or paste a link.",
+      "description": "Drop a doc, PDF, or paste a link.\nWe script it. We voice it. We edit it. You post it. three minutes\nWe handle the full production stack — not just one piece. You stay in the parts that need your taste; we handle the rest.\nA Google Doc, Notion page, blog URL, PDF — anything you've already written. Just drop it in.\nWe write the script, pick the voice, design every visual, add music, cut it tight. Li",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "video",
+        "writing"
+      ]
+    },
+    {
+      "id": "a4da0fb0-f7ab-46a8-9cf9-86c901de52fd",
+      "name": "AI-Survival-Guide",
+      "url": "https://github.com/sunnykgupta/AI-Survival-Guide",
+      "oneLiner": "A no-bullshit, role-by-role map for getting into the top 1% as AI commoditizes engineering work.",
+      "description": "A no-bullshit, role-by-role map for getting into the top 1% as AI commoditizes engineering work. Read it live:\nai-survival-guide.forbunnies.com\nThis is a single-page, statically generated website. The content lives in plain Markdown, so anyone can improve a role without touching HTML or CSS. Every push to main\nrebuilds and redeploys the site automatically via GitHub Actions and GitHub Pages.\nconte",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "edafb235-f615-433d-9eae-55e644d4c492",
+      "name": "openloops",
+      "url": "https://github.com/sholajegede/openloops",
+      "oneLiner": "Your browser records everything.",
+      "description": "Your browser records everything. It understands nothing.\nopenloops is the AI intelligence for your browser history — reconstructing what you were trying to do, and helping you finish it, entirely on your machine.\nopenloops is a local-only Chrome extension that turns raw browsing history into intent threads — the open loops you never closed.\nNot bookmarks. Not a reading list. Threads: an active dec",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/sholajegede/openloops.git",
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "7126e24f-e7cc-432f-bd60-f2aefc127f65",
+      "name": "perfectpixel-studio",
+      "url": "https://github.com/gykim80/perfectpixel-studio",
+      "oneLiner": "Turn a one-line character description into a base character, then auto-generate 100+ motion animations (walk, run, attack, magic, …) and complete 8-direction sprite sets — exported",
+      "description": "An AI-powered animation sprite generation studio\nTurn a one-line character description into a base character, then auto-generate 100+ motion animations (walk, run, attack, magic, …) and complete 8-direction sprite sets — exported in formats your game engine can import directly.\nEnglish · 한국어\nA power-up animation generated end-to-end by the actual pipeline (gemini-3-pro-image\n).\nPlenty of tools dra",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/gykim80/perfectpixel-studio.git",
+      "categories": [
+        "code",
+        "design",
+        "video"
+      ]
+    },
+    {
+      "id": "8480aba2-e60b-4513-ab45-e92c70aaa7ae",
+      "name": "bilibili_learning_bot",
+      "url": "https://github.com/xiaoyaya191/bilibili_learning_bot",
+      "oneLiner": "pip3 install -r requirements.",
+      "description": "⚠️ 免责声明：仅供学习参考！本项目仅供学习交流使用，请勿用于任何商业用途或违反平台规定的行为。使用者需自行承担一切风险与法律责任。\n🤔 你是否也在为刷视频、看B站，时间一晃就过去了却什么也没学到而感到烦恼？来看看这个项目吧！\n📖 完整教程：bot.bxya.top\n一个让 AI 全面接管你的 B 站账号的项目。AI 自己刷视频、智能点赞收藏评论、自我学习进化，还能自动回复私信和评论。\n- 🤖 自动浏览推荐流，像真人一样看视频、理解内容\n- 💬 智能评论互动：读取热门评论，AI 生成回复，分析评论图片\n- 📩 私信自动回复：管理私信上下文，AI 生成个性化回复\n- 🎬 深度视频理解：四种模式（纯文本/抽帧视觉/混合/智能），结合 ASR 语音识别\n- 🎭 弹幕互动：读取弹幕池、AI 生成弹幕、点赞有趣弹幕\n- 🧠 心理画像引擎：五层深度分析，主动内容推荐，防信息茧房\n- 📚 个人知识库：自",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/xiaoyaya191/bilibili_learning_bot.git",
+      "categories": [
+        "code",
+        "video",
+        "agents"
+      ]
+    },
+    {
+      "id": "c362ed7f-983b-4f80-9fdf-ced2d6610055",
       "name": "AI-Voice-Changer-Real-Time-Desktop",
       "url": "https://github.com/amplitudesoldierheed/AI-Voice-Changer-Real-Time-Desktop",
       "oneLiner": "AI Voice-Changer Real-Time lets streamers, podcasters, and gamers instantly morph their voice into diverse characters, offering low‑latency, high‑quality transformations that boost",
@@ -172,7 +274,7 @@
       ]
     },
     {
-      "id": "a0d28fff-766d-4d35-984d-202f7b0d9e33",
+      "id": "9235fa7d-73c7-4bc5-a9ac-c2e4a67bc40f",
       "name": "awesome-ai-game",
       "url": "https://github.com/bowen-aigame/awesome-ai-game",
       "oneLiner": "You signed in with another tab or window.",
@@ -187,7 +289,7 @@
       ]
     },
     {
-      "id": "f561466e-c5cb-4ad1-84fd-6b2580a0885a",
+      "id": "706f851c-71a2-4b3e-ae21-f1fabb84742d",
       "name": "cardputer-ai",
       "url": "https://github.com/therezor/cardputer-ai",
       "oneLiner": "A fully local, offline chatbot running on the M5Stack Cardputer ADV (ESP32-S3FN8, 512 KB SRAM, 8 MB flash, no PSRAM).",
@@ -199,12 +301,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "image"
+        "image",
+        "design"
       ]
     },
     {
-      "id": "3c8f2ca7-91a0-45fd-b7c9-823d5c308488",
+      "id": "70986bc2-cdaf-4ee0-ac15-ae66cf7626a2",
       "name": "treetrace",
       "url": "https://github.com/Tree-Trace/treetrace",
       "oneLiner": "The corrections you make to an AI agent are the highest-signal data in the session, and they vanish when it ends.",
@@ -221,7 +323,7 @@
       ]
     },
     {
-      "id": "ea8705b7-8258-4f97-81e0-c59b32a46b7a",
+      "id": "c32759d7-89d8-4bf3-919b-8a86641998cc",
       "name": "keybearer",
       "url": "https://github.com/HeZeBang/keybearer",
       "oneLiner": "keybearer agent -a /tmp/my-agent.",
@@ -232,13 +334,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/HeZeBang/keybearer.git",
       "categories": [
-        "agents",
         "code",
-        "writing"
+        "writing",
+        "agents"
       ]
     },
     {
-      "id": "1ce493b6-4309-41aa-a4b9-729a1cb29952",
+      "id": "9d578c24-996f-45e7-bc87-9296820b1239",
       "name": "improv-os",
       "url": "https://github.com/Fzhiyu1/improv-os",
       "oneLiner": "ImprovOS — a web \"operating system\" where every app is improvised by AI, live, the moment you open it.",
@@ -253,24 +355,24 @@
       ]
     },
     {
-      "id": "dec77fdb-3373-49f5-bb9f-c3e59b70fe3e",
+      "id": "8494c7eb-43fd-475e-a0b3-e0c3fa9aaa5b",
       "name": "dupehound",
       "url": "https://github.com/Rafaelpta/dupehound",
-      "oneLiner": "dupehound is a duplicate-code detector built for codebases where agents write most of the code.",
-      "description": "dupehound is a duplicate-code detector built for codebases where agents write most of the code. It finds functions that exist more than once, even after every identifier and literal has been renamed, because it fingerprints the structure of the code instead of its text.\ndupehound runs three commands: scan\nreports every duplicate cluster and a repo-level slop score, history\ncharts duplication acros",
+      "oneLiner": "Finds functions duplicated by AI, even after every identifier is renamed.",
+      "description": "Finds functions duplicated by AI, even after every identifier is renamed.\ndupehound is a duplicate-code detector built for codebases where agents write most of the code. It finds functions that exist more than once, even after every identifier and literal has been renamed, because it fingerprints the structure of the code instead of its text.\nEverything runs locally and deterministically (no netwo",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "94e42b89-2514-4f4c-b09b-c280597bda3f",
+      "id": "45eea3b1-ec0e-41c4-9433-a1c73ab38a44",
       "name": "zhuanglema",
       "url": "https://github.com/liyupi/zhuanglema",
       "oneLiner": "pip install -r requirements.",
@@ -286,7 +388,7 @@
       ]
     },
     {
-      "id": "1218d4bc-6dca-4a5d-a1fa-4baf655d48d5",
+      "id": "0febb555-0b2f-4f57-91b1-8c0c81b832c7",
       "name": "civitai-gen-skill",
       "url": "https://github.com/civitai/civitai-gen-skill",
       "oneLiner": "An agent skill that generates images, videos, audio, and more through Civitai's orchestration Workflow API.",
@@ -298,12 +400,12 @@
       "githubUrl": "https://github.com/civitai/civitai-gen-skill",
       "categories": [
         "code",
-        "voice",
-        "image"
+        "image",
+        "voice"
       ]
     },
     {
-      "id": "f3bb5413-fc43-49af-9e45-a95f3b2d813d",
+      "id": "3d663ce7-1f1a-4179-babb-e77e177c2f00",
       "name": "coreai-model-zoo",
       "url": "https://github.com/john-rocky/coreai-model-zoo",
       "oneLiner": "You signed in with another tab or window.",
@@ -320,7 +422,7 @@
       ]
     },
     {
-      "id": "d69fd005-dd6e-48a2-97b8-96522afa8b81",
+      "id": "bf9734f2-bc18-4cd5-986d-88825c0a652c",
       "name": "ghostwork",
       "url": "https://github.com/hvardhan878/ghostwork",
       "oneLiner": "The first agent you don't prompt.",
@@ -337,11 +439,11 @@
       ]
     },
     {
-      "id": "68002ad5-a8c3-4be4-8817-50bac4039069",
+      "id": "f49b5e55-d4c9-41ca-95b9-e9bfde79beb1",
       "name": "aipocket",
       "url": "https://github.com/SFzxc/aipocket",
       "oneLiner": "AIPocket is a Chrome MV3 AI access wallet that lets websites request user-approved model access without receiving your provider API keys.",
-      "description": "AIPocket is a Chrome MV3 AI access wallet that lets websites request user-approved model access without receiving your provider API keys.\nIt keeps provider credentials in the extension, lets websites request scoped permission, and streams approved model output back through the extension.\nMany AI-powered websites ask users to paste provider API keys directly into the web app. That gives the website",
+      "description": "AIPocket is a Chrome MV3 AI access wallet that lets websites request user-approved model access without receiving your provider API keys.\nIt keeps provider credentials in the extension, lets websites request scoped permission, and streams approved model output back through the extension.\nDemo video: https://www.youtube.com/watch?v=XxX6oH8E-Co\nMany AI-powered websites ask users to paste provider AP",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -354,11 +456,11 @@
       ]
     },
     {
-      "id": "4cb51a43-6a4f-4e2a-8cc8-3412e228ba69",
-      "name": "Core-AI-Framework-Lab",
-      "url": "https://github.com/rudrankriyam/Core-AI-Framework-Lab",
-      "oneLiner": "An early lab for Apple's new CoreAI.",
-      "description": "An early lab for Apple's new CoreAI.framework\nin Xcode 27 beta.\nThis repository is intentionally compiler-first. It verifies the public SDK surface, documents the new framework shape, and gives us a small SwiftUI app, Core AI Lab, that can grow into real model examples once compatible Core AI model assets and iOS 27 runtime devices/simulators are available.\nCoreAI currently looks like a lower-leve",
+      "id": "fdb526e1-9bb3-444b-8ac1-985dd5ec5409",
+      "name": "Comment Vibe",
+      "url": "https://chromewebstore.google.com/detail/comment-vibe/kibcnjcipaofjlbbnjdjaobbkoajiejp",
+      "oneLiner": "Check comment tone with Chrome's on-device AI.",
+      "description": "Overview\nCheck comment tone with Chrome's on-device AI. Get kinder rewrite suggestions before you post. Private — no data sent anywhere.\nComment Vibe uses Chrome's built-in AI (Gemini Nano) to analyse the tone of your comments in real time — before you hit Post. HOW IT WORKS Type a comment on LinkedIn, Twitter/X, YouTube, or any other site. A small badge appears near your text box showing the dete",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -367,15 +469,15 @@
       "categories": [
         "code",
         "design",
-        "image"
+        "data"
       ]
     },
     {
-      "id": "92b460df-5af1-45db-a8d6-8d4c210aac10",
-      "name": "lightnovel-studio",
-      "url": "https://github.com/mmlong818/lightnovel-studio",
-      "oneLiner": "An AI-powered light-novel writing studio.",
-      "description": "English | 简体中文\n一句话概念，AI 帮你写出整部轻小说：世界观 → 角色 → 章节大纲 → 逐章正文。 支持中文与日文，覆盖日式轻小说题材，多 AI 提供商可选，纯前端、数据留本机。\nAn AI-powered light-novel writing studio. From a one-line concept, it generates the world, cast, chapter outline, and full chapter text — in Chinese or Japanese, with your choice of AI provider. Fully client-side; your data stays in your browser.\n- 🎯 一句话生成全稿：输入一句概念，AI 依次生成世界观、角色群、章节大纲，并逐章写出正文\n- 🌏 中日双语",
+      "id": "356f137a-e00f-40bf-b3c0-c0d1c36b73e4",
+      "name": "Unique Gemstones for Your Strings",
+      "url": "https://seedstone.xyz/",
+      "oneLiner": "Type a username, wallet, company, or AI agent — Seedstone forges a unique 3D gem as its permanent visual identity.",
+      "description": "Give any string\nits own gemstone.\nType a username, wallet, company, or AI agent — Seedstone forges a unique 3D gem as its permanent visual identity. The same input always crystallizes the exact same stone.\nTwo lines to a gem\n$ npm install seedstone\nimport { SeedstoneRenderer } from 'seedstone'; new SeedstoneRenderer('alice', { container: document.getElementById('gem'), });\nHow it works\nType any st",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -383,41 +485,7 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "rag"
-      ]
-    },
-    {
-      "id": "796b1c41-cea9-4e95-906a-c06cbb3d7732",
-      "name": "Memoriq",
-      "url": "https://github.com/memoriqme/memoriq",
-      "oneLiner": "Memoriq is a private AI memory vault for saving useful conversations from ChatGPT, Claude, Gemini, and Grok.",
-      "description": "Memoriq is a private AI memory vault for saving useful conversations from ChatGPT, Claude, Gemini, and Grok.\nThe goal is simple: when an AI gives you something worth keeping, you should be able to save it, search it later, organize it into projects, export it, and delete it without handing the plaintext to another SaaS database.\nThis repository contains the Memoriq web app.\nChrome extension: Chrom",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/memoriqme/memoriq.git",
-      "categories": [
-        "design",
-        "data",
-        "search"
-      ]
-    },
-    {
-      "id": "1639a392-ba88-45aa-8286-0829f1f81fb6",
-      "name": "Agent Gate",
-      "url": "https://github.com/sjh9714/Agent-Gate",
-      "oneLiner": "No AI PR gets merged without proof.",
-      "description": "No AI PR gets merged without proof.\nAgent Gate is a deterministic CI firewall for AI-generated pull requests. It checks PR contracts, risky paths, agent instruction drift, workflow permissions, and test evidence before merge.\nThe Action uses no checkout of PR code, no runtime LLM calls, no repository script execution, and no policy loaded from an untrusted PR head. The same analyzer also powers lo",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "productivity"
+        "agents"
       ]
     }
   ]
