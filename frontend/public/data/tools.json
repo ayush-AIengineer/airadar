@@ -1,9 +1,60 @@
 {
-  "generatedAt": "2026-06-17T10:59:08.194183+00:00",
-  "count": 33,
+  "generatedAt": "2026-06-18T10:22:59.998635+00:00",
+  "count": 30,
   "tools": [
     {
-      "id": "f9343102-642e-46e3-ba17-21a678a5dec7",
+      "id": "69b60a30-8c63-4f04-87dd-c73ca09b6f55",
+      "name": "foreman",
+      "url": "https://github.com/VisionForge-OU/foreman",
+      "oneLiner": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.",
+      "description": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.\nplan → ADR/PRD → issues → TDD build → e2e\nWhy Foreman? · Demo · Quickstart · Guide · How it works · Roadmap · Contributing\n\"I don't prompt Claude anymore; I have loops that prompt Claude.\"\nForeman spawns the locally-installed claude\nCLI in headl",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "c236fa6e-e033-4cd1-8bc5-31634420d8b2",
+      "name": "presentation-design-prompts",
+      "url": "https://github.com/SlideSpeak/presentation-design-prompts",
+      "oneLiner": "AI chat tools write decent slide content.",
+      "description": "AI chat tools write decent slide content. Design is where they fall apart: clip-art, clashing colors, bullet walls. A sharper prompt fixes that.\nEach theme here is one prompt that carries a full design system: a color palette pinned to hex values, named Google Fonts, a layout grammar, and an avoid-list that stops the model from decorating. Paste it into ChatGPT or Claude, say what your talk covers",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "marketing"
+      ]
+    },
+    {
+      "id": "3e2980c7-57d5-4d04-bb3c-5e33d82d1769",
+      "name": "aftercode",
+      "url": "https://github.com/ron3899/aftercode",
+      "oneLiner": "Turn your daily AI coding sessions into personalized learning podcasts.",
+      "description": "Turn your daily AI coding sessions into personalized learning podcasts.\nAftercode connects to your coding-agent workflow (Claude Code, Codex, Cursor, …), figures out the deeper technical topics behind what you built and debugged that day, and generates a short two-speaker podcast episode — in Hebrew or English — that teaches you the concepts behind the code you shipped. Listen and browse them in a",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/ron3899/aftercode",
+      "categories": [
+        "data",
+        "code",
+        "voice"
+      ]
+    },
+    {
+      "id": "8fbc8182-ec93-498b-819d-0b676f107187",
       "name": "Bunny-AI-Agent",
       "url": "https://github.com/abdu6666/Bunny-AI-Agent",
       "oneLiner": "A calm, powerful coding agent — runs anywhere, ships everywhere.",
@@ -14,13 +65,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/abdu6666/Bunny-AI-Agent.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "design"
       ]
     },
     {
-      "id": "f6d395a1-e060-4261-aa7c-9023625d8f22",
+      "id": "1f642e7a-da71-4790-b3a3-745f2248154b",
+      "name": "axon",
+      "url": "https://github.com/danieltamas/axon",
+      "oneLiner": "Local, harness-agnostic observability for AI coding agents — one Rust binary, in your browser.",
+      "description": "Local, harness-agnostic observability for AI coding agents — one Rust binary, in your browser.\nAxon reads the logs your AI coding-agent harnesses already write — Claude Code, Codex, OpenCode — and shows which harness, project, agent, and model is working, how fast, at what cost, and how much code it's producing. The signature view is a live three.js \"brain\" of your models firing in real time; alon",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/danieltamas/axon",
+      "categories": [
+        "data",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "bf682b05-e6e2-46d9-b2bb-fad104f63871",
       "name": "c0",
       "url": "https://github.com/douglasjordan2/c0",
       "oneLiner": "An external memory for LLMs — a bi-temporal knowledge graph with hybrid (keyword + vector) retrieval and a self-improving reflection loop.",
@@ -31,13 +99,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "rag"
       ]
     },
     {
-      "id": "ecea5bb3-0648-4d79-a4bd-6aa9e48c74e6",
+      "id": "03e10f0e-af31-4ff8-9284-85f0ad08bee9",
       "name": "react-native-nsfw-detector",
       "url": "https://github.com/watadarkstar/react-native-nsfw-detector",
       "oneLiner": "to detect nudity and unsafe visual content in images.",
@@ -48,13 +116,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "image",
         "code",
-        "design"
+        "design",
+        "image"
       ]
     },
     {
-      "id": "eb7f4413-061b-4452-8a67-c72b15916bbe",
+      "id": "4d3b5c24-d233-4ff9-99a4-baa3b59e0470",
       "name": "Third-Eye",
       "url": "https://github.com/eli-labz/Third-Eye",
       "oneLiner": "A real-time global intelligence dashboard that aggregates live flight tracking, CCTV networks, earthquake monitoring, conflict zone mapping, and 24/7 news feeds into a single GPU-a",
@@ -65,29 +133,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/eli-labz/Third-Eye.git",
       "categories": [
-        "code",
         "data",
+        "code",
         "productivity"
       ]
     },
     {
-      "id": "52a0699f-f3e2-4df4-9768-54cf0e295675",
+      "id": "d1f01630-d2ba-4467-b133-b99aa80a89d3",
       "name": "Turbo-LLM",
       "url": "https://github.com/mohitsoni48/Turbo-LLM",
       "oneLiner": "and an OpenAI/Anthropic-compatible API.",
-      "description": "Run any local LLM engine, auto-tuned to your GPU — with a polished web UI\nand an OpenAI/Anthropic-compatible API.\nBring your own llama.cpp fork. No compiling. No Electron. No Python. Point Claude Code at\nyour own machine in one command — fully offline.\nnpx turbollm\nOne command starts a local daemon, opens a browser UI, and serves your models over an API any tool can talk to. TurboLLM is the perfor",
+      "description": "Run any local LLM engine, auto-tuned to your GPU — with a polished web UI\nand an OpenAI/Anthropic-compatible API.\nBring your own llama.cpp fork. No compiling. No Electron. No Python. Point Claude Code at\nyour own machine in one command — fully offline.\nnpx turbollm\nThat one command starts a local daemon, opens a browser UI, and serves your models over an API any tool can talk to. TurboLLM is the p",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "design"
+        "data",
+        "agents",
+        "code"
       ]
     },
     {
-      "id": "f72e1888-8cb6-4ab0-9f02-3e1d7e45735b",
+      "id": "86fa0eb6-6bec-4fcb-b979-918c1f09e7bb",
       "name": "comcom",
       "url": "https://github.com/eric248550/comcom",
       "oneLiner": "The AI communication tool for Gmail and Slack.",
@@ -98,13 +167,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/eric248550/comcom.git",
       "categories": [
-        "code",
         "data",
+        "code",
         "writing"
       ]
     },
     {
-      "id": "61f680ba-ecec-4277-8476-afbd50aa085d",
+      "id": "8e7edf72-2cd5-43b5-a3d1-a36aea15c08c",
       "name": "aipath",
       "url": "https://github.com/buynao/aipath",
       "oneLiner": "↑ The homepage hero (Lesson 15 · the next-token game): an LLM guesses one token at a time — turn the temperature and watch its top-5 candidates reshape, from focused to “wild.",
@@ -121,24 +190,24 @@
       ]
     },
     {
-      "id": "27201888-4b45-4d21-986b-fe0563b9ca2b",
-      "name": "testsprite-cli",
-      "url": "https://github.com/TestSprite/testsprite-cli",
-      "oneLiner": "AI ships code in minutes — verifying it hasn't.",
-      "description": "AI ships code in minutes — verifying it hasn't. testsprite\nopens your live app, uses it like a real user, and shows your coding agent exactly what broke — so it fixes its own work before a bug ever reaches you.\nProof, in public: verification beats model size. With this CLI in the loop, the cheapest model in the field shipped the most correct app on an open leaderboard — 89%, at half the cost of th",
-      "pricing": "free",
+      "id": "85c73876-9f0b-4db4-9e73-7681fdc28e35",
+      "name": "floe-guard",
+      "url": "https://github.com/Floe-Labs/floe-guard",
+      "oneLiner": "A local budget guardrail for AI agents.",
+      "description": "A local budget guardrail for AI agents. It hard-stops your agent before its next LLM call when it would cross a spend ceiling — so a runaway loop dies at $0.10 instead of $4,000. No account, no signup, no network. Runs in your process.\npip install floe-guard\nfrom floe_guard import BudgetGuard\nguard = BudgetGuard(limit_usd=5.00) # your ceiling\nguard.check() # before each LLM call — raises if it'd c",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/TestSprite/testsprite-cli.git",
+      "githubUrl": "https://github.com/Floe-Labs/floe-guard",
       "categories": [
-        "code",
         "agents",
+        "code",
         "design"
       ]
     },
     {
-      "id": "89fc7354-ed4f-4ff4-a085-cdabc4d1498b",
+      "id": "95689257-3ed5-4251-9ef7-672d30724f47",
       "name": "sunnatbeeCLI",
       "url": "https://github.com/SUNNATBEE/sunnatbeeCLI",
       "oneLiner": "deb yozing → ro'yxatdan tanlang → CLI avtomatik ishga tushadi.",
@@ -149,13 +218,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/SUNNATBEE/sunnatbeeCLI",
       "categories": [
-        "code",
         "agents",
+        "code",
         "video"
       ]
     },
     {
-      "id": "1f53efd5-d8a7-44d4-8fad-334bd96f625e",
+      "id": "222e61eb-4d32-4c8c-ae5b-600e23e8b413",
       "name": "Approxima-OSS",
       "url": "https://github.com/Approxima-AI/Approxima-OSS",
       "oneLiner": "Approxima is an open-source, agent-based platform for end-to-end testing web applications.",
@@ -166,114 +235,47 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
+        "data",
         "agents",
-        "data"
+        "code"
       ]
     },
     {
-      "id": "c30bdcd9-b87f-474e-8e7b-0ad2babf9eae",
-      "name": "vibeclip",
-      "url": "https://github.com/oktaydbk54/vibeclip",
-      "oneLiner": "Drop in a long video — podcast, interview, talk, stream — and VibeClip cuts it into vertical, captioned, ready-to-post shorts.",
-      "description": "Drop in a long video — podcast, interview, talk, stream — and VibeClip cuts it into vertical, captioned, ready-to-post shorts. Then you refine every clip by chatting: “make clip 2 punchier,” “bigger captions,” “add a zoom at 0:05,” “undo.”\nQuick start · Features · How it works · Bring your own key · Configuration · Contributing\nLeft: the raw clip. Right: after one sentence — “make it mrbeast style",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/oktaydbk54/vibeclip.git",
-      "categories": [
-        "code",
-        "voice",
-        "security"
-      ]
-    },
-    {
-      "id": "6f9f4912-bd6d-499b-9cc9-fb5b35b4eedc",
-      "name": "Practical-AI-engineering",
-      "url": "https://github.com/ruhaankumar2013-debug/Practical-AI-engineering",
-      "oneLiner": "⭐ If this helped you, star it — it helps others find it too.",
-      "description": "⭐ If this helped you, star it — it helps others find it too.\n🚀 Start Learning · 📚 All Modules · 🏗️ Projects · 🤝 Contribute · 💬 Community\nThere are hundreds of LLM tutorials out there. Most are either:\n- 🔴 Too shallow — \"just call the API and you're done\"\n- 🔴 Too academic — dense math, no runnable code\n- 🔴 Too opinionated — locked into one framework\n- 🔴 Outdated — written in 2023 and never touched ",
+      "id": "820e6db5-197f-4f68-95d2-8e891d989bb6",
+      "name": "Memharness",
+      "url": "https://github.com/las7/memharness",
+      "oneLiner": "A bi-temporal, provenance-carrying memory primitive for AI agents.",
+      "description": "A bi-temporal, provenance-carrying memory primitive for AI agents. One SQLite file. No LLM or network calls in the storage layer. Exposed to any agent via MCP.\nMost agent memory is a bag of strings. memharness stores facts, and combines three semantics that incumbents tend to split apart:\n- Bi-temporal: every fact records when it became true in the world\n(\nvalid_from\n/valid_to\n) separately from wh",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
+        "data",
         "agents",
-        "rag"
+        "code"
       ]
     },
     {
-      "id": "ce4608a0-5480-43c2-abc9-34b2ef2bff53",
-      "name": "Genesis AI launches Eno general-purpose robot",
-      "url": "https://www.therobotreport.com/genesis-ai-launches-eno-general-purpose-robot/",
-      "oneLiner": "Genesis AI today unveiled Eno, its general-purpose robot.",
-      "description": "Genesis AI today unveiled Eno, its general-purpose robot. Eno is powered by GENE, the company’s foundation model.\nTo build trust through transparency, Genesis is making Eno available with an optional screen version with a cognitive interface that can show what the robot is thinking and doing in real-time, as needed.\n“The only path to creating a robot that can truly deliver value to society and exc",
-      "pricing": "paid",
+      "id": "4ecfe469-7ea1-4fc1-ba16-1c4ab8486c86",
+      "name": "Valorant-Aim-Architecture-Overlay",
+      "url": "https://github.com/Codesammit/Valorant-Aim-Architecture-Overlay",
+      "oneLiner": "Architectural Clarity for Competitive Edge — A Kubernetes-powered overlay ecosystem for Valorant enthusiasts seeking intelligent crosshair analytics, DNS-optimized match routing, a",
+      "description": "Architectural Clarity for Competitive Edge — A Kubernetes-powered overlay ecosystem for Valorant enthusiasts seeking intelligent crosshair analytics, DNS-optimized match routing, and AI-driven attention mapping. This is not a modification; it is an educational rendering system designed to visualize game-state data through the lens of modern cloud infrastructure.\nImagine standing in a control room ",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
+      "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "data",
         "code",
         "design"
       ]
     },
     {
-      "id": "14f257bd-d34b-43cf-b79e-df6115593f21",
-      "name": "I built 184 free browser tools",
-      "url": "https://brevio.pro",
-      "oneLiner": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
-      "description": "brevio\nGuides\n🍺\nBuy me a beer\nFree · Private · Instant\nBrowser\ntools.\n162\nNo uploads. No signup. No tricks.\n162 TOOLS · 12 CATEGORIES\nMerge PDFs\nExtract PDF Pages\nRotate PDF\nAdd Page Numbers to PDF\nWatermark PDF\nSign PDF\nOrganize PDF Pages\nPassword Protect PDF\nUnlock PDF\nCompress PDF\nHEIC to JPG\nImage to PDF\nCompress Image\nImage Converter\nResize Image\nSVG to PNG Converter\nEXIF Remover\nCrop Image\nV",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "image",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "0b9a6ba6-aa06-426f-8ce7-9f44b43a8b43",
-      "name": "Loomcycle",
-      "url": "https://github.com/denn-gubsky/loomcycle",
-      "oneLiner": "The agentic runtime, in a sidecar.",
-      "description": "The agentic runtime, in a sidecar.\nOne Go binary alongside your application. Hardened agent loop, MCP on both sides, multi-replica HA. Apache-2.0.\n🌐 loomcycle.dev · 📝 Engineering blog · 📐 Architecture\n🌳 v1.0 is here. loomcycle 1.0 is released — the feature set is complete and the runtime is hardened and distribution-ready. The core primitives stabilised across the v0.8 → v0.23 line (multi-replica ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/denn-gubsky/loomcycle",
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "69a98470-2858-4837-860a-0542c650ac51",
-      "name": "SciFigureAI",
-      "url": "https://scifigureai.com",
-      "oneLiner": "Turn abstracts, mechanisms, and rough prompts into a first visual draft quickly, then iterate from the same project.",
-      "description": "Faster figure drafting\nTurn abstracts, mechanisms, and rough prompts into a first visual draft quickly, then iterate from the same project.\nUse this AI scientific figure maker to turn your research idea, paper abstract, or mechanism description into clean figure drafts for papers, posters, grants, and slides.\nEstimated 5 credits\nYour first draft appears here\nStart from the prompt, then continue de",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "research",
-        "search",
-        "image"
-      ]
-    },
-    {
-      "id": "56f53874-0cd1-4afa-98f5-883c5f263615",
+      "id": "fcd1fc3f-694b-4c76-8fc9-cd4be8519c3c",
       "name": "AI-Survival-Guide",
       "url": "https://github.com/sunnykgupta/AI-Survival-Guide",
       "oneLiner": "A no-bullshit, role-by-role map for getting into the top 1% as AI commoditizes engineering work.",
@@ -290,7 +292,7 @@
       ]
     },
     {
-      "id": "5387535c-4a52-4e7d-822d-c640f1ec1c51",
+      "id": "47be98cc-206e-4b58-a03c-35ac114ffb73",
       "name": "batchwork",
       "url": "https://github.com/haydenbleasel/batchwork",
       "oneLiner": "A unified batch API for AI providers.",
@@ -303,11 +305,11 @@
       "categories": [
         "code",
         "design",
-        "security"
+        "rag"
       ]
     },
     {
-      "id": "beea4049-0370-444a-bfc8-edb6edd37a92",
+      "id": "b8e4076e-dc21-4dcb-be2f-698420058344",
       "name": "openloops",
       "url": "https://github.com/sholajegede/openloops",
       "oneLiner": "Your browser records everything.",
@@ -318,30 +320,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/sholajegede/openloops.git",
       "categories": [
+        "data",
         "code",
-        "design",
-        "data"
+        "design"
       ]
     },
     {
-      "id": "d7aff5bc-97ad-4b40-a1f4-05883df35b59",
+      "id": "0da6bde9-8a52-4859-93a6-84895aa03279",
       "name": "OKFy",
       "url": "https://github.com/0dust/OKFy",
       "oneLiner": "Open Knowledge Format for AI agents.",
-      "description": "Open Knowledge Format for AI agents.\nTurn docs into agent-readable knowledge bundles.\nOKF bundles | MCP server | local-first | no LLM key | Git-diffable context\nUse with agents | Create a bundle | CLI install | Why OKF | More clients\nAgents are bad at reading docs when the only options are \"paste everything\" or \"trust a hidden vector index\".\nokfy\nconverts documentation websites and local Markdown ",
+      "description": "Open Knowledge Format for AI agents.\nTurn docs into agent-readable knowledge bundles.\nOKF bundles | MCP server | local-first | no LLM key | Git-diffable context\nUse with agents | Keep sources fresh | Create a bundle | CLI install | Why OKF | More clients\nAgents are bad at reading docs when the only options are \"paste everything\" or \"trust a hidden vector index\".\nokfy\nconverts documentation website",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
       "githubUrl": "https://github.com/0dust/OKFy.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "design"
       ]
     },
     {
-      "id": "94c8fe1d-f2d0-4da0-ae42-77edf880a51b",
+      "id": "dec7fc9f-3497-4447-82db-8e8649f29c9d",
       "name": "perfectpixel-studio",
       "url": "https://github.com/gykim80/perfectpixel-studio",
       "oneLiner": "Turn a one-line character description into a base character, then auto-generate 100+ motion animations (walk, run, attack, magic, …) and complete 8-direction sprite sets — exported",
@@ -358,7 +360,7 @@
       ]
     },
     {
-      "id": "490e4d88-b32d-47b9-b2bb-c15f3822d57e",
+      "id": "e7dde339-f6a6-40f3-b566-b63fe3469d65",
       "name": "bilibili_learning_bot",
       "url": "https://github.com/xiaoyaya191/bilibili_learning_bot",
       "oneLiner": "pip install -r requirements.",
@@ -369,13 +371,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "video"
       ]
     },
     {
-      "id": "65745cda-33c0-4094-8b5e-eea6e1f0592b",
+      "id": "d1561361-29f0-4939-b966-901552afa513",
       "name": "AI-Voice-Changer-Real-Time-Desktop",
       "url": "https://github.com/amplitudesoldierheed/AI-Voice-Changer-Real-Time-Desktop",
       "oneLiner": "AI Voice-Changer Real-Time lets streamers, podcasters, and gamers instantly morph their voice into diverse characters, offering low‑latency, high‑quality transformations that boost",
@@ -391,7 +393,24 @@
       ]
     },
     {
-      "id": "44fda62d-0597-48f6-849a-fdf140ffc0ab",
+      "id": "89863fba-b087-4096-a281-cdac2fa01c2c",
+      "name": "memoriq",
+      "url": "https://github.com/memoriqme/memoriq",
+      "oneLiner": "Memoriq is a private AI memory vault for saving useful conversations from ChatGPT, Claude, Gemini, and Grok.",
+      "description": "Memoriq is a private AI memory vault for saving useful conversations from ChatGPT, Claude, Gemini, and Grok.\nThe goal is simple: when an AI gives you something worth keeping, you should be able to save it, search it later, organize it into projects, export it, and delete it without handing the plaintext to another SaaS database.\nThis repository contains the Memoriq web app.\nChrome extension: Chrom",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/memoriqme/memoriq.git",
+      "categories": [
+        "data",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "bd04375b-8035-4f5f-a5ea-a3c7290148a5",
       "name": "awesome-ai-game",
       "url": "https://github.com/bowen-aigame/awesome-ai-game",
       "oneLiner": "You signed in with another tab or window.",
@@ -406,7 +425,7 @@
       ]
     },
     {
-      "id": "4fed0e5a-819d-45f4-b46c-b1ba39ff482f",
+      "id": "2dd6db4d-79e7-4dbc-b526-8ee94fef727e",
       "name": "cardputer-ai",
       "url": "https://github.com/therezor/cardputer-ai",
       "oneLiner": "A fully local, offline chatbot running on the M5Stack Cardputer ADV (ESP32-S3FN8, 512 KB SRAM, 8 MB flash, no PSRAM).",
@@ -417,13 +436,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "image",
         "code",
-        "design"
+        "design",
+        "image"
       ]
     },
     {
-      "id": "6b7061ab-5e18-405c-8cea-2436c3b00fc7",
+      "id": "86b82602-6f05-478c-a023-c887ad03160b",
       "name": "keybearer",
       "url": "https://github.com/HeZeBang/keybearer",
       "oneLiner": "keybearer agent -a /tmp/my-agent.",
@@ -434,124 +453,60 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/HeZeBang/keybearer.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "writing"
       ]
     },
     {
-      "id": "63ac5c22-ae03-40dc-967b-f0212e5d5f44",
-      "name": "improv-os",
-      "url": "https://github.com/Fzhiyu1/improv-os",
-      "oneLiner": "ImprovOS — a web \"operating system\" where every app is improvised by AI, live, the moment you open it.",
-      "description": "一台不预装任何软件的电脑。你打开的每一个应用，都是 AI 当场现编的。\nImprovOS — a web \"operating system\" where every app is improvised by AI, live, the moment you open it.\n🖥️ 在线体验：os.fzhiyu.dev（电脑 / 手机均可，免登录）\n一个发到互联网上博大家一笑的体验项目：macOS 风格的网页\"操作系统\"。桌面、菜单栏、Dock、窗口管理、Spotlight 是手写的真代码——除此之外，系统里没有任何应用。\n点开 Dock 上的计算器，它不是被\"打开\"，而是被 AI 现场写出来（约 2.5 秒，全程代码瀑布直播）。再点一次？重写一个，长得和上次不一样。永不重样是核心笑点。\n- Dock 应用：点开即生成、永不缓存，每次都是新的\n- Spotlight 搜索：搜任何东西——\"",
+      "id": "deba4388-68fc-4513-9192-2d6003195cc1",
+      "name": "Meeting Notes Sync",
+      "url": "https://community.obsidian.md/plugins/meeting-notes-sync",
+      "oneLiner": "Sync meeting transcripts, notes, and AI summaries from MacParakeet and Fellow into your vault.",
+      "description": "Sync meeting transcripts, notes, and AI summaries from MacParakeet and Fellow into your vault.\nObsidian plugin that syncs your meeting transcripts, notes, and AI summaries into your vault — from MacParakeet and Fellow, one folder per meeting. A meeting recorded by both sources merges into a single folder instead of duplicating.\nSummary (MacParakeet).md\n, Summary (Fellow).md\n), so a meeting capture",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Fzhiyu1/improv-os",
+      "githubUrl": "https://github.com/andreagrandi/obsidian-meeting-notes-sync",
       "categories": [
-        "agents"
+        "data",
+        "code",
+        "productivity"
       ]
     },
     {
-      "id": "9d386f63-4964-4eb9-8b06-bd96383cb3df",
-      "name": "dupehound",
-      "url": "https://github.com/Rafaelpta/dupehound",
-      "oneLiner": "Finds functions duplicated by AI, even after every identifier is renamed.",
-      "description": "Finds functions duplicated by AI, even after every identifier is renamed.\ndupehound is a duplicate-code detector built for codebases where agents write most of the code. It finds functions that exist more than once, even after every identifier and literal has been renamed, because it fingerprints the structure of the code instead of its text.\nEverything runs locally and deterministically (no netwo",
+      "id": "c866821d-fd91-4ead-a897-30d71d1a5334",
+      "name": "Gcontext",
+      "url": "https://github.com/bleak-ai/gcontext",
+      "oneLiner": "The main concept is a tree of llms.",
+      "description": "Context Magament System\nThe main concept is a tree of llms.txt that references either folders or files. The goal is to load in a conversation with an AI agent the right information at every time, and from this, be able to grow the context that the agent has access to and create a something analogous to a \"Live Memory\" or Live Record of things.\nThe problem is the same, but Gcontext is for users tha",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
+        "data",
         "agents",
         "design"
       ]
     },
     {
-      "id": "3a089625-6f59-4bc1-840f-81901d3e5444",
-      "name": "omnigent",
-      "url": "https://github.com/omnigent-ai/omnigent",
-      "oneLiner": "Omnigent provides a common layer over Claude Code, Codex, Cursor, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with polici",
-      "description": "Omnigent provides a common layer over Claude Code, Codex, Cursor, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.\nOmnigent lets you:\n-\n📱 Work with agents from any device, including your phone. Sessions follow you: start in your terminal, conti",
+      "id": "dc498312-6df3-4345-9533-ca143e033722",
+      "name": "Automatiq",
+      "url": "https://github.com/StoneSteel27/AutomatiQ",
+      "oneLiner": "Your activity, into automation.",
+      "description": "Your activity, into automation.\nNote\nAlpha ⟶ Things will break and change. Read VISION.md to understand why Automatiq exists and where it's headed.\nAutomatiQ watches you browse, then an AI agent reverse-engineers your session into a standalone Python automation/extraction script; no manual inspection needed.\n- Record (Browser Capture) ⟶ Chrome is launched with CDP instrumentation. Every network re",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/omnigent-ai/omnigent.git",
+      "githubUrl": "https://github.com/StoneSteel27/AutomatiQ.git",
       "categories": [
-        "code",
         "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "d7bdaaa6-da5d-4647-8f66-fb03a551acdc",
-      "name": "zhuanglema",
-      "url": "https://github.com/liyupi/zhuanglema",
-      "oneLiner": "pip install -r requirements.",
-      "description": "今天你装了吗？—— 帮学编程的同学一键安装软件。\n输入一句话（比如「我想装 MySQL」），AI 帮你提炼软件、挑好版本、生成带中文注释的安装脚本，还能在桌面 APP 里一键执行。装不上算我们的，装上了算你的 🎉\n- Python 3.10+、Node.js 18+\n- 复制\nserver/.env.example\n为server/.env\n并填写配置（OpenAI Chat Completions 兼容格式）：AI_API_KEY\n：API KeyAI_BASE_URL\n：Base URL（会自动规范化）AI_MODEL\n：模型名（默认deepseek-chat\n）ADMIN_PASSWORD\n：管理后台密码GITHUB_TOKEN\n（可选）：GitHub API 令牌，把版本查询限额从 60 次/小时提到 5000 次/小时（可用gh auth token\n获取）\ncd server\n",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
         "code",
-        "data"
-      ]
-    },
-    {
-      "id": "438ebaaa-a272-4495-b6d1-9959b956d6e6",
-      "name": "The founder's playbook",
-      "url": "https://claude.com/blog/the-founders-playbook",
-      "oneLiner": "We share how founders are using AI at every stage of the startup journey, with practical exercises, frameworks, and prompts for using Claude.",
-      "description": "The founder's playbook: Building an AI-native startup\nWe share how founders are using AI at every stage of the startup journey, with practical exercises, frameworks, and prompts for using Claude.\nWe share how founders are using AI at every stage of the startup journey, with practical exercises, frameworks, and prompts for using Claude.\nAI is reshaping how startups are being built. Founders who've ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "3000aa85-955b-486a-b8cf-e1f0588f49c7",
-      "name": "Fig0",
-      "url": "https://fig0.ai/",
-      "oneLiner": "Fig0 - Toward 0 Manual Sci Figure.",
-      "description": "Fig0 - Toward 0 Manual Sci Figure.\nFrom any input to publication-ready & editable vector illustrations.\nBuilt for scientific research, publishing, and education\nTrusted by 150K+ scientists from top education institutes\nALL INPUTS WELCOME\nFrom rough idea to publication-ready sci figure with 0 drawing, faster revision, and editable export\nPrompt, sketch, reference, or PDF.\nA clean figure, ready to r",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "research",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "972e6681-4ad7-485f-a087-655ae408138d",
-      "name": "Whissle Gateway",
-      "url": "https://whissle.ai/gateway",
-      "oneLiner": "ASR, TTS, voice calling, diarization, metadata, AI coaching — one Docker command.",
-      "description": "Run VoiceAI locally\nASR, TTS, voice calling, diarization, metadata, AI coaching — one Docker command.\nModels download automatically. No cloud dependency.\n$ docker run -d --name whissle \\\n-p 9000:9000 -p 8001:8001 -p 8003:8003 \\\n-v whissle-models:/models -v whissle-data:/data \\\n-e VARIANT=en-full \\\n-e ANTHROPIC_API_KEY=your-key \\\nwhissleasr/whissle-gateway:latest\nen-full · Downloads ~2 GB on first ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "voice",
-        "data"
+        "productivity"
       ]
     }
   ]
