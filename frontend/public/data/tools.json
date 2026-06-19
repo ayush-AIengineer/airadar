@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-18T10:22:59.998635+00:00",
-  "count": 30,
+  "generatedAt": "2026-06-19T10:28:12.449652+00:00",
+  "count": 28,
   "tools": [
     {
-      "id": "69b60a30-8c63-4f04-87dd-c73ca09b6f55",
+      "id": "43ed0542-523a-4034-b721-d0d2ae3ba96d",
       "name": "foreman",
       "url": "https://github.com/VisionForge-OU/foreman",
       "oneLiner": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.",
@@ -14,13 +14,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
         "code",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "c236fa6e-e033-4cd1-8bc5-31634420d8b2",
+      "id": "0b3c5658-1981-46d6-abac-caf5254471fc",
       "name": "presentation-design-prompts",
       "url": "https://github.com/SlideSpeak/presentation-design-prompts",
       "oneLiner": "AI chat tools write decent slide content.",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "id": "3e2980c7-57d5-4d04-bb3c-5e33d82d1769",
+      "id": "85a13de6-f52f-4f24-aeb0-99d735e10cbd",
       "name": "aftercode",
       "url": "https://github.com/ron3899/aftercode",
       "oneLiner": "Turn your daily AI coding sessions into personalized learning podcasts.",
@@ -48,13 +48,47 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/ron3899/aftercode",
       "categories": [
-        "data",
         "code",
+        "data",
         "voice"
       ]
     },
     {
-      "id": "8fbc8182-ec93-498b-819d-0b676f107187",
+      "id": "ccef1b0d-f72a-41d0-945e-a498050d9897",
+      "name": "figma-ai-bridge",
+      "url": "https://github.com/Kacep91/figma-ai-bridge",
+      "oneLiner": "Local Figma Desktop plugin + localhost bridge for AI-ready design handoff bundles.",
+      "description": "Local Figma Desktop plugin + localhost bridge for AI-ready design handoff bundles.\nРусский · English · Skill · Bundle contract\nFigma AI Bridge передает макеты из десктопной Figma напрямую ИИ-агентам. Не требует API Figma, Dev Mode MCP или токенов доступа.\nСырой JSON из Figma слишком тяжелый для контекста нейросети и содержит много мусора. Для верстки нужны только конкретные данные: внешний вид, те",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "productivity",
+        "agents"
+      ]
+    },
+    {
+      "id": "1cdb7666-6dbe-4928-8ece-7647c39501dc",
+      "name": "autoguardrails",
+      "url": "https://github.com/SantanderAI/autoguardrails",
+      "oneLiner": "Open source by Santander AI Lab.",
+      "description": "Open source by Santander AI Lab. An LLM / AI-safety guardrail research library / evaluation harness (autoresearch-style): it searches over a single mutable\npolicy.md\nsurface to minimize attack success rate (ASR) against a fixed evaluation suite, with a benign-pass floor.\nPart of Santander AI Open Source — open source AI projects from Banco Santander (santander.com).\nautoguardrails\nis a small align",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/SantanderAI/autoguardrails",
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "c3a37e2f-c37c-4dc9-9dc4-7e5a2e8fcb5f",
       "name": "Bunny-AI-Agent",
       "url": "https://github.com/abdu6666/Bunny-AI-Agent",
       "oneLiner": "A calm, powerful coding agent — runs anywhere, ships everywhere.",
@@ -65,13 +99,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/abdu6666/Bunny-AI-Agent.git",
       "categories": [
-        "agents",
         "code",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "1f642e7a-da71-4790-b3a3-745f2248154b",
+      "id": "e53a8b78-f45e-4012-b5dc-54f23b43656c",
       "name": "axon",
       "url": "https://github.com/danieltamas/axon",
       "oneLiner": "Local, harness-agnostic observability for AI coding agents — one Rust binary, in your browser.",
@@ -82,13 +116,47 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/danieltamas/axon",
       "categories": [
-        "data",
         "code",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "bf682b05-e6e2-46d9-b2bb-fad104f63871",
+      "id": "8e165aaa-b440-4d3e-b732-ce330f1dd2fd",
+      "name": "latent-gate",
+      "url": "https://github.com/KathanModh259/latent-gate",
+      "oneLiner": "A VL-JEPA-inspired pipeline that compresses images, text, conversations, and RAG documents locally via Ollama, then sends only compact semantic payloads to any LLM API — cutting to",
+      "description": "A VL-JEPA-inspired pipeline that compresses images, text, conversations, and RAG documents locally via Ollama, then sends only compact semantic payloads to any LLM API — cutting token costs by ~80%.\nQuick Start · AI Tool Integrations · Benchmarks · Contributing\nEvery time you send an image or long prompt to GPT-4o / Claude / Gemini, you are burning 1,000+ tokens on processing that could happen loc",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/KathanModh259/latent-gate",
+      "categories": [
+        "code",
+        "video",
+        "image"
+      ]
+    },
+    {
+      "id": "a5004289-b580-426a-aa5f-b58da9109ac4",
+      "name": "AFM-Studio",
+      "url": "https://github.com/Techopolis/AFM-Studio",
+      "oneLiner": "AFM Studio is an open-source Mac and iOS app for trying, comparing, and benchmarking language models through Apple's Foundation Models framework.",
+      "description": "AFM Studio is an open-source Mac and iOS app for trying, comparing, and benchmarking language models through Apple's Foundation Models framework.\nThe project is built for the OS 27 / Xcode 27 beta cycle. It focuses on the Apple Foundation Models path first: system models, Private Cloud Compute, and Core AI model bundles loaded through the Foundation Models provider support. MLX support is intentio",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "voice"
+      ]
+    },
+    {
+      "id": "ab5bd36a-4348-41db-8c97-b95112a77563",
       "name": "c0",
       "url": "https://github.com/douglasjordan2/c0",
       "oneLiner": "An external memory for LLMs — a bi-temporal knowledge graph with hybrid (keyword + vector) retrieval and a self-improving reflection loop.",
@@ -99,13 +167,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "rag"
       ]
     },
     {
-      "id": "03e10f0e-af31-4ff8-9284-85f0ad08bee9",
+      "id": "a9e3289e-1410-4286-94dd-83354b5919bb",
       "name": "react-native-nsfw-detector",
       "url": "https://github.com/watadarkstar/react-native-nsfw-detector",
       "oneLiner": "to detect nudity and unsafe visual content in images.",
@@ -122,7 +190,7 @@
       ]
     },
     {
-      "id": "4d3b5c24-d233-4ff9-99a4-baa3b59e0470",
+      "id": "131f9457-7be1-4912-bbe5-a751d3a65069",
       "name": "Third-Eye",
       "url": "https://github.com/eli-labz/Third-Eye",
       "oneLiner": "A real-time global intelligence dashboard that aggregates live flight tracking, CCTV networks, earthquake monitoring, conflict zone mapping, and 24/7 news feeds into a single GPU-a",
@@ -133,64 +201,29 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/eli-labz/Third-Eye.git",
       "categories": [
-        "data",
         "code",
+        "data",
         "productivity"
       ]
     },
     {
-      "id": "d1f01630-d2ba-4467-b133-b99aa80a89d3",
-      "name": "Turbo-LLM",
-      "url": "https://github.com/mohitsoni48/Turbo-LLM",
-      "oneLiner": "and an OpenAI/Anthropic-compatible API.",
-      "description": "Run any local LLM engine, auto-tuned to your GPU — with a polished web UI\nand an OpenAI/Anthropic-compatible API.\nBring your own llama.cpp fork. No compiling. No Electron. No Python. Point Claude Code at\nyour own machine in one command — fully offline.\nnpx turbollm\nThat one command starts a local daemon, opens a browser UI, and serves your models over an API any tool can talk to. TurboLLM is the p",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "data",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "86fa0eb6-6bec-4fcb-b979-918c1f09e7bb",
-      "name": "comcom",
-      "url": "https://github.com/eric248550/comcom",
-      "oneLiner": "The AI communication tool for Gmail and Slack.",
-      "description": "The AI communication tool for Gmail and Slack.\n🚀 Try the Dashboard · 🧩 Install Chrome Extension · If this project helps you, consider giving it a ⭐\nA self-hostable Chrome Extension + SaaS monorepo that injects an AI communication toolbar into Gmail and Slack. Select text → pick a rewrite mode → done. Supports custom prompt templates per user/org, streaming responses, and a full writing history.\n- ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/eric248550/comcom.git",
-      "categories": [
-        "data",
-        "code",
-        "writing"
-      ]
-    },
-    {
-      "id": "8e7edf72-2cd5-43b5-a3d1-a36aea15c08c",
-      "name": "aipath",
-      "url": "https://github.com/buynao/aipath",
-      "oneLiner": "↑ The homepage hero (Lesson 15 · the next-token game): an LLM guesses one token at a time — turn the temperature and watch its top-5 candidates reshape, from focused to “wild.",
-      "description": "English · 中文\n▶ Live site — aipath.buynao.com · no signup, every concept is playable\n↑ The homepage hero (Lesson 15 · the next-token game): an LLM guesses one token at a time — turn the temperature and watch its top-5 candidates reshape, from focused to “wild.”\nA from-scratch AI course designed for absolute beginners — 6 stages, 30 lessons. No piles of formulas, no jargon dumps. It packs the core p",
+      "id": "30286225-81d2-4213-90e8-a6e7dc8a1ef6",
+      "name": "text-humanizer",
+      "url": "https://github.com/anasu1/text-humanizer",
+      "oneLiner": "text-Humanizer is a completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline.",
+      "description": "English | 中文\ntext-Humanizer is a completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. By leveraging large language models for semantic-preserving text transformation, the system rewrites content with more natural sentence structures, varied linguistic patterns, and improved stylistic diversity while maintaining the origi",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/anasu1/text-humanizer.git",
       "categories": [
-        "code",
         "design",
-        "rag"
+        "writing"
       ]
     },
     {
-      "id": "85c73876-9f0b-4db4-9e73-7681fdc28e35",
+      "id": "da650fde-dec1-4aa2-8496-1b2ea38153d5",
       "name": "floe-guard",
       "url": "https://github.com/Floe-Labs/floe-guard",
       "oneLiner": "A local budget guardrail for AI agents.",
@@ -201,13 +234,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/Floe-Labs/floe-guard",
       "categories": [
-        "agents",
         "code",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "95689257-3ed5-4251-9ef7-672d30724f47",
+      "id": "b61e0313-8448-415a-89fc-c40fde89b9a9",
       "name": "sunnatbeeCLI",
       "url": "https://github.com/SUNNATBEE/sunnatbeeCLI",
       "oneLiner": "deb yozing → ro'yxatdan tanlang → CLI avtomatik ishga tushadi.",
@@ -218,47 +251,64 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/SUNNATBEE/sunnatbeeCLI",
       "categories": [
-        "agents",
         "code",
+        "agents",
         "video"
       ]
     },
     {
-      "id": "222e61eb-4d32-4c8c-ae5b-600e23e8b413",
-      "name": "Approxima-OSS",
-      "url": "https://github.com/Approxima-AI/Approxima-OSS",
-      "oneLiner": "Approxima is an open-source, agent-based platform for end-to-end testing web applications.",
-      "description": "Approxima is an open-source, agent-based platform for end-to-end testing web applications. Write test journeys in English and an LLM-driven browser agent runs them against your live app. No selectors to maintain, no scripts to babysit.\nSome cool features included in the platform:\n- Goal Mode: Agent generates the steps needed to accomplish a goal (goal also specified in English.)\n- Self-healing: Wi",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "data",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "820e6db5-197f-4f68-95d2-8e891d989bb6",
-      "name": "Memharness",
-      "url": "https://github.com/las7/memharness",
-      "oneLiner": "A bi-temporal, provenance-carrying memory primitive for AI agents.",
-      "description": "A bi-temporal, provenance-carrying memory primitive for AI agents. One SQLite file. No LLM or network calls in the storage layer. Exposed to any agent via MCP.\nMost agent memory is a bag of strings. memharness stores facts, and combines three semantics that incumbents tend to split apart:\n- Bi-temporal: every fact records when it became true in the world\n(\nvalid_from\n/valid_to\n) separately from wh",
+      "id": "90c80511-a6c3-4308-b103-675ed472ec2c",
+      "name": "One Model Won't Save You",
+      "url": "https://www.xelerate.tech/one-model-wont-save-you/",
+      "oneLiner": "I was grabbing coffee with a peer last week who was tearing his hair out trying to find the “perfect” AI platform for his entire company.",
+      "description": "Pedro Rocha\nCTO of xelerate.tech\nPorto, 4th of May 2026\nOne Model Won’t Save You: How We Actually Built Our AI Stack\nI was grabbing coffee with a peer last week who was tearing his hair out trying to find the “perfect” AI platform for his entire company. He wanted one contract, one interface, and one bill.\nI told him he was chasing a ghost.\nThe “one-size-fits-all” AI platform is a marketing myth. ",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
-        "agents",
-        "code"
+        "code",
+        "design",
+        "productivity"
       ]
     },
     {
-      "id": "4ecfe469-7ea1-4fc1-ba16-1c4ab8486c86",
+      "id": "2b5615b9-681e-405c-a813-e1095dad0976",
+      "name": "Appaca",
+      "url": "https://www.appaca.ai/index.html",
+      "oneLiner": "Build a custom CRM, internal tool, or workflow your team needs.",
+      "description": "Build business apps by chatting with AI\nBuild a custom CRM, internal tool, or workflow your team needs. Appaca builds and runs it all in one platform.\nTools that fit your business. Not the other way around\nEvery SaaS tool was built for a hypothetical business. Appaca builds for yours. Describe the tool your team needs and Appaca creates it, runs it, and makes it part of your workspace.\nBuild apps ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "productivity",
+        "marketing",
+        "agents"
+      ]
+    },
+    {
+      "id": "c38fcd05-4a71-4fbe-a822-89dc2e7ee488",
+      "name": "Sakha",
+      "url": "https://www.sakha.one",
+      "oneLiner": "Your new hire's first friend at the company.",
+      "description": "Your new hire's first friend at the company.\nSakha lives in your Slack, learns your company's knowledge, and guides every new hire from Day 1 to fully productive, automatically.\nWelcome back, Anklesh\nACTIVE ONBOARDINGS\n0\n+3 this week\nQUESTIONS ANSWERED\n0\n96% self-served\nSENIOR HOURS SAVED\n0 hrs\nthis month\nActive onboardings\nAlex Rivera\nDay 1 · 14%Maya Chen\nDay 4 · 58%Sam Okafor\nDay 6 · 86%Knowledg",
+      "pricing": "free_trial",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "db571523-4c55-4d5a-bb77-906624ef6daa",
       "name": "Valorant-Aim-Architecture-Overlay",
       "url": "https://github.com/Codesammit/Valorant-Aim-Architecture-Overlay",
       "oneLiner": "Architectural Clarity for Competitive Edge — A Kubernetes-powered overlay ecosystem for Valorant enthusiasts seeking intelligent crosshair analytics, DNS-optimized match routing, a",
@@ -269,13 +319,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
         "code",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "fcd1fc3f-694b-4c76-8fc9-cd4be8519c3c",
+      "id": "b3502633-cfdc-4fa6-9a96-edba33c6ac48",
       "name": "AI-Survival-Guide",
       "url": "https://github.com/sunnykgupta/AI-Survival-Guide",
       "oneLiner": "A no-bullshit, role-by-role map for getting into the top 1% as AI commoditizes engineering work.",
@@ -292,7 +342,7 @@
       ]
     },
     {
-      "id": "47be98cc-206e-4b58-a03c-35ac114ffb73",
+      "id": "bdb597fc-8e8e-454a-8d15-83f00eaa5456",
       "name": "batchwork",
       "url": "https://github.com/haydenbleasel/batchwork",
       "oneLiner": "A unified batch API for AI providers.",
@@ -309,7 +359,24 @@
       ]
     },
     {
-      "id": "b8e4076e-dc21-4dcb-be2f-698420058344",
+      "id": "1ab0e2f4-9a2b-474b-b8c9-a8aa5acd9537",
+      "name": "audit",
+      "url": "https://github.com/ali-master/audit",
+      "oneLiner": "An 8-stage AI vulnerability-discovery agent.",
+      "description": "An 8-stage AI vulnerability-discovery agent.\nMany narrow agents · deliberate disagreement · reachability as the gate.\naudit\nfinds real vulnerabilities in a codebase by running many narrow agents\nin parallel instead of one big \"find bugs here\" prompt. Each hunter looks for\nexactly one attack class; a different model then tries to disprove every\nfinding; and the stage that decides what ships asks th",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "a1c4597a-9355-447b-918a-1da8d5750a90",
       "name": "openloops",
       "url": "https://github.com/sholajegede/openloops",
       "oneLiner": "Your browser records everything.",
@@ -320,13 +387,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/sholajegede/openloops.git",
       "categories": [
-        "data",
         "code",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "0da6bde9-8a52-4859-93a6-84895aa03279",
+      "id": "ceb3ae84-c02c-4170-9c3b-c2d47f4a5d3f",
       "name": "OKFy",
       "url": "https://github.com/0dust/OKFy",
       "oneLiner": "Open Knowledge Format for AI agents.",
@@ -337,13 +404,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/0dust/OKFy.git",
       "categories": [
-        "agents",
         "code",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "dec7fc9f-3497-4447-82db-8e8649f29c9d",
+      "id": "95891c09-b085-4e27-ab07-491faf4cbce6",
       "name": "perfectpixel-studio",
       "url": "https://github.com/gykim80/perfectpixel-studio",
       "oneLiner": "Turn a one-line character description into a base character, then auto-generate 100+ motion animations (walk, run, attack, magic, …) and complete 8-direction sprite sets — exported",
@@ -360,7 +427,7 @@
       ]
     },
     {
-      "id": "e7dde339-f6a6-40f3-b566-b63fe3469d65",
+      "id": "a273e3aa-37b2-437a-a5c9-571300456a16",
       "name": "bilibili_learning_bot",
       "url": "https://github.com/xiaoyaya191/bilibili_learning_bot",
       "oneLiner": "pip install -r requirements.",
@@ -371,13 +438,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "video"
       ]
     },
     {
-      "id": "d1561361-29f0-4939-b966-901552afa513",
+      "id": "1a13f586-0da6-49c2-8905-8fc792fbb373",
       "name": "AI-Voice-Changer-Real-Time-Desktop",
       "url": "https://github.com/amplitudesoldierheed/AI-Voice-Changer-Real-Time-Desktop",
       "oneLiner": "AI Voice-Changer Real-Time lets streamers, podcasters, and gamers instantly morph their voice into diverse characters, offering low‑latency, high‑quality transformations that boost",
@@ -393,43 +460,11 @@
       ]
     },
     {
-      "id": "89863fba-b087-4096-a281-cdac2fa01c2c",
-      "name": "memoriq",
-      "url": "https://github.com/memoriqme/memoriq",
-      "oneLiner": "Memoriq is a private AI memory vault for saving useful conversations from ChatGPT, Claude, Gemini, and Grok.",
-      "description": "Memoriq is a private AI memory vault for saving useful conversations from ChatGPT, Claude, Gemini, and Grok.\nThe goal is simple: when an AI gives you something worth keeping, you should be able to save it, search it later, organize it into projects, export it, and delete it without handing the plaintext to another SaaS database.\nThis repository contains the Memoriq web app.\nChrome extension: Chrom",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/memoriqme/memoriq.git",
-      "categories": [
-        "data",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "bd04375b-8035-4f5f-a5ea-a3c7290148a5",
-      "name": "awesome-ai-game",
-      "url": "https://github.com/bowen-aigame/awesome-ai-game",
-      "oneLiner": "You signed in with another tab or window.",
-      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nA curated list of the hottest AI-powered games you can play right now.\nGames where artificial intelligence is not a buzzword — it is the gameplay.\nGaming has move",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design"
-      ]
-    },
-    {
-      "id": "2dd6db4d-79e7-4dbc-b526-8ee94fef727e",
-      "name": "cardputer-ai",
-      "url": "https://github.com/therezor/cardputer-ai",
-      "oneLiner": "A fully local, offline chatbot running on the M5Stack Cardputer ADV (ESP32-S3FN8, 512 KB SRAM, 8 MB flash, no PSRAM).",
-      "description": "A fully local, offline chatbot running on the M5Stack Cardputer ADV (ESP32-S3FN8, 512 KB SRAM, 8 MB flash, no PSRAM). It also runs on the original M5Stack Cardputer — the firmware ships both keyboard drivers (the ADV's TCA8418 and the original's IO matrix) and picks the right one at boot. No Wi-Fi, no API, no SD card — the LLM lives in the firmware and runs on the microcontroller itself. It makes ",
+      "id": "1c948b5e-f9ae-41cc-8ab7-f805670b53cc",
+      "name": "Generative AI Is Having Its Herbalife Moment",
+      "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
+      "oneLiner": "Over the past few weeks, I’ve noticed that TikTok has been serving me ads for Replit — one of the many vibe-coding startups that have emerged in the past couple of years, and that ",
+      "description": "Generative AI Is Having Its Herbalife Moment\nHow predatory vibe coding startups are selling false hope to young people\nOver the past few weeks, I’ve noticed that TikTok has been serving me ads for Replit — one of the many vibe-coding startups that have emerged in the past couple of years, and that serve as a glorified wrapper for models from Anthropic, OpenAI, and Google.\nNow, TikTok can be a weir",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -438,75 +473,7 @@
       "categories": [
         "code",
         "design",
-        "image"
-      ]
-    },
-    {
-      "id": "86b82602-6f05-478c-a023-c887ad03160b",
-      "name": "keybearer",
-      "url": "https://github.com/HeZeBang/keybearer",
-      "oneLiner": "keybearer agent -a /tmp/my-agent.",
-      "description": "害怕公共服务器上的 API Key 泄露？来使用 Keybearer！\nKeybearer 基于 SSH Agent Forwarding 的协议通道，通过 Seccomp hook 读取，实现安全的 API Key 传输通道。\nAPI Key 永远存储在本地宿主机的 ~/.config/keybearer/config.yaml\n中。运行时本地 keybearer agent\n通过 SSH agent forwarding 传递 credential query；远端 keybearer run\n只看到 forwarded SSH_AUTH_SOCK\n和按需生成的匿名 memfd，不修改远端配置文件、不进入远端 shell 历史。\n目标是在公用集群上避免其他人或 root 通过远端文件、环境变量、shell 历史、配置目录直接读取 API Key；注意，root 仍有可能观察或干预进程和",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/HeZeBang/keybearer.git",
-      "categories": [
-        "agents",
-        "code",
-        "writing"
-      ]
-    },
-    {
-      "id": "deba4388-68fc-4513-9192-2d6003195cc1",
-      "name": "Meeting Notes Sync",
-      "url": "https://community.obsidian.md/plugins/meeting-notes-sync",
-      "oneLiner": "Sync meeting transcripts, notes, and AI summaries from MacParakeet and Fellow into your vault.",
-      "description": "Sync meeting transcripts, notes, and AI summaries from MacParakeet and Fellow into your vault.\nObsidian plugin that syncs your meeting transcripts, notes, and AI summaries into your vault — from MacParakeet and Fellow, one folder per meeting. A meeting recorded by both sources merges into a single folder instead of duplicating.\nSummary (MacParakeet).md\n, Summary (Fellow).md\n), so a meeting capture",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/andreagrandi/obsidian-meeting-notes-sync",
-      "categories": [
-        "data",
-        "code",
-        "productivity"
-      ]
-    },
-    {
-      "id": "c866821d-fd91-4ead-a897-30d71d1a5334",
-      "name": "Gcontext",
-      "url": "https://github.com/bleak-ai/gcontext",
-      "oneLiner": "The main concept is a tree of llms.",
-      "description": "Context Magament System\nThe main concept is a tree of llms.txt that references either folders or files. The goal is to load in a conversation with an AI agent the right information at every time, and from this, be able to grow the context that the agent has access to and create a something analogous to a \"Live Memory\" or Live Record of things.\nThe problem is the same, but Gcontext is for users tha",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "data",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "dc498312-6df3-4345-9533-ca143e033722",
-      "name": "Automatiq",
-      "url": "https://github.com/StoneSteel27/AutomatiQ",
-      "oneLiner": "Your activity, into automation.",
-      "description": "Your activity, into automation.\nNote\nAlpha ⟶ Things will break and change. Read VISION.md to understand why Automatiq exists and where it's headed.\nAutomatiQ watches you browse, then an AI agent reverse-engineers your session into a standalone Python automation/extraction script; no manual inspection needed.\n- Record (Browser Capture) ⟶ Chrome is launched with CDP instrumentation. Every network re",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/StoneSteel27/AutomatiQ.git",
-      "categories": [
-        "agents",
-        "code",
-        "productivity"
+        "marketing"
       ]
     }
   ]
