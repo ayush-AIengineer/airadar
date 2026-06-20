@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-06-19T10:28:12.449652+00:00",
-  "count": 28,
+  "generatedAt": "2026-06-20T08:58:56.940968+00:00",
+  "count": 29,
   "tools": [
     {
-      "id": "43ed0542-523a-4034-b721-d0d2ae3ba96d",
+      "id": "a604d219-31f5-40a1-9f26-98a35f64183b",
+      "name": "blue-spec",
+      "url": "https://github.com/wellwelwel/blue-spec",
+      "oneLiner": "Blue Spec helps your AI agent make a project more secure.",
+      "description": "Blue Spec helps your AI agent make a project more secure. You point it at your code, and the agent figures out what your system actually does, then guides you through the security work that matters for it.\n- Blue Spec works with projects in any programming language and supports 37 agents ✨\n- 🌱 Get Started\n- 🧠 Available Skills\n- 🎓 Examples\n- 🤖 Supported Agents\n- 📦 Requirements\n- 🖖 Acknowledgements\n",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "47a08d66-d46f-412e-9d2c-0b90ece3584a",
       "name": "foreman",
       "url": "https://github.com/VisionForge-OU/foreman",
       "oneLiner": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.",
@@ -14,13 +31,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "0b3c5658-1981-46d6-abac-caf5254471fc",
+      "id": "9ad8cc52-33b4-4fa2-b655-e61df2f105bd",
       "name": "presentation-design-prompts",
       "url": "https://github.com/SlideSpeak/presentation-design-prompts",
       "oneLiner": "AI chat tools write decent slide content.",
@@ -31,13 +48,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "marketing"
       ]
     },
     {
-      "id": "85a13de6-f52f-4f24-aeb0-99d735e10cbd",
+      "id": "18cd3ca2-95a8-4671-83ab-ea572fcaab93",
       "name": "aftercode",
       "url": "https://github.com/ron3899/aftercode",
       "oneLiner": "Turn your daily AI coding sessions into personalized learning podcasts.",
@@ -54,7 +71,7 @@
       ]
     },
     {
-      "id": "ccef1b0d-f72a-41d0-945e-a498050d9897",
+      "id": "c6e4b0f6-dbd5-416e-a3ad-6ecd8bf650a6",
       "name": "figma-ai-bridge",
       "url": "https://github.com/Kacep91/figma-ai-bridge",
       "oneLiner": "Local Figma Desktop plugin + localhost bridge for AI-ready design handoff bundles.",
@@ -66,12 +83,12 @@
       "githubUrl": null,
       "categories": [
         "design",
-        "productivity",
-        "agents"
+        "agents",
+        "productivity"
       ]
     },
     {
-      "id": "1cdb7666-6dbe-4928-8ece-7647c39501dc",
+      "id": "40522067-9a8b-42fb-af3f-be17c48acdd6",
       "name": "autoguardrails",
       "url": "https://github.com/SantanderAI/autoguardrails",
       "oneLiner": "Open source by Santander AI Lab.",
@@ -82,13 +99,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/SantanderAI/autoguardrails",
       "categories": [
-        "code",
         "design",
+        "code",
         "security"
       ]
     },
     {
-      "id": "c3a37e2f-c37c-4dc9-9dc4-7e5a2e8fcb5f",
+      "id": "2686c56d-83a8-459c-88cb-7a0c793d4284",
       "name": "Bunny-AI-Agent",
       "url": "https://github.com/abdu6666/Bunny-AI-Agent",
       "oneLiner": "A calm, powerful coding agent — runs anywhere, ships everywhere.",
@@ -99,13 +116,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/abdu6666/Bunny-AI-Agent.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "agents"
       ]
     },
     {
-      "id": "e53a8b78-f45e-4012-b5dc-54f23b43656c",
+      "id": "2ec9fa7e-0519-4530-ae3c-d8c4d6a905e8",
       "name": "axon",
       "url": "https://github.com/danieltamas/axon",
       "oneLiner": "Local, harness-agnostic observability for AI coding agents — one Rust binary, in your browser.",
@@ -116,13 +133,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/danieltamas/axon",
       "categories": [
-        "code",
         "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "8e165aaa-b440-4d3e-b732-ce330f1dd2fd",
+      "id": "99c86276-fc51-41b5-83b1-11d7bd2b25b3",
       "name": "latent-gate",
       "url": "https://github.com/KathanModh259/latent-gate",
       "oneLiner": "A VL-JEPA-inspired pipeline that compresses images, text, conversations, and RAG documents locally via Ollama, then sends only compact semantic payloads to any LLM API — cutting to",
@@ -134,12 +151,12 @@
       "githubUrl": "https://github.com/KathanModh259/latent-gate",
       "categories": [
         "code",
-        "video",
-        "image"
+        "image",
+        "video"
       ]
     },
     {
-      "id": "a5004289-b580-426a-aa5f-b58da9109ac4",
+      "id": "6bcdaec2-55d9-4022-8982-18f22ada56f5",
       "name": "AFM-Studio",
       "url": "https://github.com/Techopolis/AFM-Studio",
       "oneLiner": "AFM Studio is an open-source Mac and iOS app for trying, comparing, and benchmarking language models through Apple's Foundation Models framework.",
@@ -150,13 +167,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "voice"
       ]
     },
     {
-      "id": "ab5bd36a-4348-41db-8c97-b95112a77563",
+      "id": "6e57aec3-292d-4493-9488-491f0819c2ca",
       "name": "c0",
       "url": "https://github.com/douglasjordan2/c0",
       "oneLiner": "An external memory for LLMs — a bi-temporal knowledge graph with hybrid (keyword + vector) retrieval and a self-improving reflection loop.",
@@ -173,41 +190,7 @@
       ]
     },
     {
-      "id": "a9e3289e-1410-4286-94dd-83354b5919bb",
-      "name": "react-native-nsfw-detector",
-      "url": "https://github.com/watadarkstar/react-native-nsfw-detector",
-      "oneLiner": "to detect nudity and unsafe visual content in images.",
-      "description": "A fast on device AI image safety detector for React Native / Expo using a CoreML model\nto detect nudity and unsafe visual content in images.\nNeed help building your React Native app? Connect with Adrian on X\n- React Native 0.70+\n- iOS 13+\n- CoreML enabled environment\n- Xcode 10+ Because the model was trained with CreateML, you need Xcode 10 and above to compile the project\n- Physical iOS device st",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "image"
-      ]
-    },
-    {
-      "id": "131f9457-7be1-4912-bbe5-a751d3a65069",
-      "name": "Third-Eye",
-      "url": "https://github.com/eli-labz/Third-Eye",
-      "oneLiner": "A real-time global intelligence dashboard that aggregates live flight tracking, CCTV networks, earthquake monitoring, conflict zone mapping, and 24/7 news feeds into a single GPU-a",
-      "description": "A real-time global intelligence dashboard that aggregates live flight tracking, CCTV networks, earthquake monitoring, conflict zone mapping, and 24/7 news feeds into a single GPU-accelerated interface.\n🌐 Live Demo · 🐛 Report Bug · ✨ Request Feature · ⭐ Star This Repo\nIf Third Eye is useful to you, please consider giving it a ⭐ — it helps the project grow and reach more people!\nThird Eye is a produ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/eli-labz/Third-Eye.git",
-      "categories": [
-        "code",
-        "data",
-        "productivity"
-      ]
-    },
-    {
-      "id": "30286225-81d2-4213-90e8-a6e7dc8a1ef6",
+      "id": "591677cd-1e74-4f32-8166-2a854ca93345",
       "name": "text-humanizer",
       "url": "https://github.com/anasu1/text-humanizer",
       "oneLiner": "text-Humanizer is a completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline.",
@@ -223,7 +206,7 @@
       ]
     },
     {
-      "id": "da650fde-dec1-4aa2-8496-1b2ea38153d5",
+      "id": "39d6cce9-d891-4c0b-8ef6-049f26c58adc",
       "name": "floe-guard",
       "url": "https://github.com/Floe-Labs/floe-guard",
       "oneLiner": "A local budget guardrail for AI agents.",
@@ -234,34 +217,34 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/Floe-Labs/floe-guard",
       "categories": [
-        "code",
         "design",
+        "code",
         "agents"
       ]
     },
     {
-      "id": "b61e0313-8448-415a-89fc-c40fde89b9a9",
-      "name": "sunnatbeeCLI",
-      "url": "https://github.com/SUNNATBEE/sunnatbeeCLI",
-      "oneLiner": "deb yozing → ro'yxatdan tanlang → CLI avtomatik ishga tushadi.",
-      "description": "aidevix\ndeb yozing → ro'yxatdan tanlang → CLI avtomatik ishga tushadi.\nO'rnatilmagan bo'lsa — o'zi o'rnatadi. 🪄\n🇺🇿 O'zbekcha · 🇬🇧 English\n▶ Jonli (animatsion) demoni yaratish: bash scripts/record-demo.sh\n→ assets/demo.gif\n⚡ Tezkor o'rnatish — Git Bash (Windows) yoki terminal (Linux/macOS)da:\ncurl -fsSL https://raw.githubusercontent.com/SUNNATBEE/sunnatbeeCLI/main/bootstrap.sh | bash\nSo'ng\nsource ~",
-      "pricing": "free",
+      "id": "c4278b76-7dd0-4b7f-9cc1-84716ee5d181",
+      "name": "Aikido Code Audit",
+      "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+      "oneLiner": "TL;DR: Aikido Code Audit fills the gap between SAST and pentesting by reasoning through your static codebases to surface multi-step, intent-dependent vulnerabilities before they sh",
+      "description": "TL;DR: Aikido Code Audit fills the gap between SAST and pentesting by reasoning through your static codebases to surface multi-step, intent-dependent vulnerabilities before they ship.\nLast week Anthropic released Claude Fable 5, a public version of their Mythos-class model, which was able to discover and chain zero-day exploits. Fable 5 ships with guardrails that block cybersecurity queries and fa",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/SUNNATBEE/sunnatbeeCLI",
+      "githubUrl": null,
       "categories": [
         "code",
         "agents",
-        "video"
+        "security"
       ]
     },
     {
-      "id": "90c80511-a6c3-4308-b103-675ed472ec2c",
-      "name": "One Model Won't Save You",
-      "url": "https://www.xelerate.tech/one-model-wont-save-you/",
-      "oneLiner": "I was grabbing coffee with a peer last week who was tearing his hair out trying to find the “perfect” AI platform for his entire company.",
-      "description": "Pedro Rocha\nCTO of xelerate.tech\nPorto, 4th of May 2026\nOne Model Won’t Save You: How We Actually Built Our AI Stack\nI was grabbing coffee with a peer last week who was tearing his hair out trying to find the “perfect” AI platform for his entire company. He wanted one contract, one interface, and one bill.\nI told him he was chasing a ghost.\nThe “one-size-fits-all” AI platform is a marketing myth. ",
+      "id": "b97eb876-16fb-4e3a-bffe-4d6214e7c8d8",
+      "name": "AI Voice Generator for Creators",
+      "url": "https://speakora.io/",
+      "oneLiner": "From YouTube shorts to product demos, create natural narration and brand audio in minutes.",
+      "description": "Turn scripts into studio-quality voiceovers\nFrom YouTube shorts to product demos, create natural narration and brand audio in minutes. No mic. No studio. No waiting for talent.\nThree tips that changed my editing. One: start with the hook, not the intro. Two: cut the dead air. Three: use a voice that sounds like you actually care. Because if you sound bored, they scroll.\nReal audio across three cre",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -269,46 +252,74 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "productivity"
+        "voice",
+        "audio"
       ]
     },
     {
-      "id": "2b5615b9-681e-405c-a813-e1095dad0976",
-      "name": "Appaca",
-      "url": "https://www.appaca.ai/index.html",
-      "oneLiner": "Build a custom CRM, internal tool, or workflow your team needs.",
-      "description": "Build business apps by chatting with AI\nBuild a custom CRM, internal tool, or workflow your team needs. Appaca builds and runs it all in one platform.\nTools that fit your business. Not the other way around\nEvery SaaS tool was built for a hypothetical business. Appaca builds for yours. Describe the tool your team needs and Appaca creates it, runs it, and makes it part of your workspace.\nBuild apps ",
-      "pricing": "free",
+      "id": "b4c972d3-4207-4837-9af8-a2964433aef9",
+      "name": "Ratchet",
+      "url": "https://github.com/jackulau/ratchet",
+      "oneLiner": "A hardware debug and flash-programming toolkit for CH341A and CH347 USB programmers.",
+      "description": "A hardware debug and flash-programming toolkit for CH341A and CH347 USB programmers.\nIts core is SPI flash programming and BIOS analysis, the path that drives live silicon end to end. Around it sits a unit-tested protocol layer (I2C, UART, 1-Wire, passive SPI sniff, JTAG, SWD, CAN), target-MCU programmers (AVR ISP, STK500 / Arduino bootloader, 24Cxx and 93xxx EEPROM, ESP32 / ESP8266, STM32 over SW",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "productivity",
-        "marketing",
-        "agents"
-      ]
-    },
-    {
-      "id": "c38fcd05-4a71-4fbe-a822-89dc2e7ee488",
-      "name": "Sakha",
-      "url": "https://www.sakha.one",
-      "oneLiner": "Your new hire's first friend at the company.",
-      "description": "Your new hire's first friend at the company.\nSakha lives in your Slack, learns your company's knowledge, and guides every new hire from Day 1 to fully productive, automatically.\nWelcome back, Anklesh\nACTIVE ONBOARDINGS\n0\n+3 this week\nQUESTIONS ANSWERED\n0\n96% self-served\nSENIOR HOURS SAVED\n0 hrs\nthis month\nActive onboardings\nAlex Rivera\nDay 1 · 14%Maya Chen\nDay 4 · 58%Sam Okafor\nDay 6 · 86%Knowledg",
-      "pricing": "free_trial",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/jackulau/ratchet",
       "categories": [
         "code",
-        "design",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "db571523-4c55-4d5a-bb77-906624ef6daa",
+      "id": "c393fd2b-3cde-4b2f-9b88-fa545b311dc5",
+      "name": "Timestamp and provenance records for AI-assisted creative work",
+      "url": "https://colossee.com",
+      "oneLiner": "the internet touches it.",
+      "description": "Prove your AI work\nwas yours before\nthe internet touches it.\nPublish, sell, or deliver AI-assisted work with a timestamped public record, ownership ID, and certificate page you can point to when the work is copied, questioned, or reused.\nBuilt for pre-publish proofMonthly proof creditsCertificate pages\nAI Ecosystem\nEvery AI tool. One registry.\nRegister content created or enhanced by any platform a",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "id": "17373003-ad5f-48d6-bfec-b0b8928d93b4",
+      "name": "llm-ledger",
+      "url": "https://github.com/verbio-labs/llm-ledger",
+      "oneLiner": "A verifiable, time-aware knowledge ledger your LLM keeps for you.",
+      "description": "by Verbio Labs\nA verifiable, time-aware knowledge ledger your LLM keeps for you.\nEnglish · 한국어\nA permanent markdown knowledge base that an LLM synthesizes and maintains for you — an evolution of Karpathy's \"LLM Wiki\" pattern, implemented on top of Claude Code.\nBut instead of accumulating prose pages like a wiki, it accumulates atomic \"claims\" — each with its sources, a confidence level, and a vali",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "d70fd47f-966d-40e1-b999-c2de8ceaf840",
+      "name": "fullstack-ai-agent-roadmap",
+      "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+      "oneLiner": "fullstack-ai-agent-roadmap",
+      "description": "从零基础到 AI 时代全栈工程师 —— 一份用 Obsidian 组织的、超过 58 万字 / 110 个详细教程的系统化学习路线。\n涵盖 Python · JavaScript · React · FastAPI · 数据库 · LLM · AI Agent · 毕业项目，每个知识点都附类比解释 + 完整代码 + 练习题 + GitHub 项目推荐。\n⭐ 觉得有用就点个 Star 吧 —— 是对维护者最大的鼓励\n不是一份链接清单。这是一套 \"零基础 → 能独立交付 AI Agent 产品\" 的完整教程包：\n- 📘 110 个 Markdown 文件 / 58 万字 —— 每个新概念都用日常类比讲清楚\n- 💻 完整可运行代码 —— 不是片段，是逐行注释 + 预期输出 + 练习答案\n- 🎯 30+ 个章节项目 —— 每章必做一个验收项目，没做完不算学完\n- ⭐ 400+ 精选 GitHub ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Karovia/fullstack-ai-agent-roadmap.git",
+      "categories": [
+        "agents"
+      ]
+    },
+    {
+      "id": "960791ff-9c6b-4c49-a276-802ed16953ec",
       "name": "Valorant-Aim-Architecture-Overlay",
       "url": "https://github.com/Codesammit/Valorant-Aim-Architecture-Overlay",
       "oneLiner": "Architectural Clarity for Competitive Edge — A Kubernetes-powered overlay ecosystem for Valorant enthusiasts seeking intelligent crosshair analytics, DNS-optimized match routing, a",
@@ -319,13 +330,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "b3502633-cfdc-4fa6-9a96-edba33c6ac48",
+      "id": "76226051-0353-447e-b90c-79cdfb2e1b17",
       "name": "AI-Survival-Guide",
       "url": "https://github.com/sunnykgupta/AI-Survival-Guide",
       "oneLiner": "A no-bullshit, role-by-role map for getting into the top 1% as AI commoditizes engineering work.",
@@ -336,13 +347,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "writing"
       ]
     },
     {
-      "id": "bdb597fc-8e8e-454a-8d15-83f00eaa5456",
+      "id": "ec0aff0e-e3cd-4350-85ae-5f88e84e332e",
       "name": "batchwork",
       "url": "https://github.com/haydenbleasel/batchwork",
       "oneLiner": "A unified batch API for AI providers.",
@@ -353,13 +364,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
-        "rag"
+        "code",
+        "image"
       ]
     },
     {
-      "id": "1ab0e2f4-9a2b-474b-b8c9-a8aa5acd9537",
+      "id": "3cdb33e0-6eaa-415a-abd2-8da44e3793f3",
       "name": "audit",
       "url": "https://github.com/ali-master/audit",
       "oneLiner": "An 8-stage AI vulnerability-discovery agent.",
@@ -370,13 +381,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "security"
       ]
     },
     {
-      "id": "a1c4597a-9355-447b-918a-1da8d5750a90",
+      "id": "ff78331a-7f96-40ff-a57d-469f7501d7c5",
       "name": "openloops",
       "url": "https://github.com/sholajegede/openloops",
       "oneLiner": "Your browser records everything.",
@@ -387,30 +398,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/sholajegede/openloops.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "ceb3ae84-c02c-4170-9c3b-c2d47f4a5d3f",
+      "id": "3db984cf-d328-4be3-a32b-7d3c3930401e",
       "name": "OKFy",
       "url": "https://github.com/0dust/OKFy",
       "oneLiner": "Open Knowledge Format for AI agents.",
-      "description": "Open Knowledge Format for AI agents.\nTurn docs into agent-readable knowledge bundles.\nOKF bundles | MCP server | local-first | no LLM key | Git-diffable context\nUse with agents | Keep sources fresh | Create a bundle | CLI install | Why OKF | More clients\nAgents are bad at reading docs when the only options are \"paste everything\" or \"trust a hidden vector index\".\nokfy\nconverts documentation website",
+      "description": "Open Knowledge Format for AI agents.\nTurn docs into agent-readable knowledge bundles.\nOKF bundles | MCP server | local-first | no LLM key | Git-diffable context\nUse with agents | Project stack workspaces | Keep sources fresh | Create a bundle | CLI install | Why OKF | More clients\nAgents are bad at reading docs when the only options are \"paste everything\" or \"trust a hidden vector index\".\nokfy\ncon",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
       "githubUrl": "https://github.com/0dust/OKFy.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "agents"
       ]
     },
     {
-      "id": "95891c09-b085-4e27-ab07-491faf4cbce6",
+      "id": "52102fe5-778e-429d-995a-b84d6cb44002",
       "name": "perfectpixel-studio",
       "url": "https://github.com/gykim80/perfectpixel-studio",
       "oneLiner": "Turn a one-line character description into a base character, then auto-generate 100+ motion animations (walk, run, attack, magic, …) and complete 8-direction sprite sets — exported",
@@ -421,59 +432,60 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/gykim80/perfectpixel-studio.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "video"
       ]
     },
     {
-      "id": "a273e3aa-37b2-437a-a5c9-571300456a16",
-      "name": "bilibili_learning_bot",
-      "url": "https://github.com/xiaoyaya191/bilibili_learning_bot",
-      "oneLiner": "pip install -r requirements.",
-      "description": "B站学习互动机器人 — 自动刷视频、学知识、互动评论、私信回复、自我进化\n代码量: ~26,000+ 行 Python | 31 个模块文件\n版本: 2.2.0 | License: MIT\n├── new_agent.py # 核心机器人 (~16,400行) AgentBrain + BiliClient\n├── web_panel.py # Flask Web 管理面板\n├── psycho_engine.py # 心理画像引擎 + 推荐系统\n├── json_utils.py # 线程安全JSON存储 + 导出脱敏工具\n├── core/\n│ └── config.py # 配置加载/保存\n├── services/\n│ ├── agent_service.py # Agent技能执行器\n│ ├── interaction_service.py # 互动服务\n│ ├── knowl",
+      "id": "3fbbdd57-15ef-4c81-86c3-711a0e85e777",
+      "name": "Autonomy",
+      "url": "https://autonomy-landing-page.vercel.app/",
+      "oneLiner": "Show HN: Autonomy – Self-Harness/Self-Directed AI Agent Core Under Development",
+      "description": "自導向代理人迴圈\nAgentLoop.run(goal, max_steps=12)\n啟動後完全自主執行，每步驟透過 run_turn()\n推進。支援互動模式（interactive=True\n）與批次模式，所有事件均以\nrun_id\n記錄於 AutonomyStore\n。\n每個執行回合（Turn）依固定五步驟推進，直到目標達成、被封鎖或超過步數上限\nAgentLoop 是 Autonomy 的核心驅動器——一個「自導向任務迴圈」，不需要人工介入即可從目標出發，自主選擇工具、執行行動並從結果中學習。\n每個 Turn 的執行流程：①從技能庫選取相關 ProcedureSkill\n，②由 LLM 提案 + RecipeEngine 產出候選動作路徑，③以 5 維評分排序（Beam\nWidth=3），④透過 ActionGateway\n受管執行，⑤評估結果並觸發學習。\n終止條件明確：ACHIEV",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "agents",
-        "video"
-      ]
-    },
-    {
-      "id": "1a13f586-0da6-49c2-8905-8fc792fbb373",
-      "name": "AI-Voice-Changer-Real-Time-Desktop",
-      "url": "https://github.com/amplitudesoldierheed/AI-Voice-Changer-Real-Time-Desktop",
-      "oneLiner": "AI Voice-Changer Real-Time lets streamers, podcasters, and gamers instantly morph their voice into diverse characters, offering low‑latency, high‑quality transformations that boost",
-      "description": "██ ██ ██████ ██ ██████ ███████ ██████ ██ ██ █████ ███ ██ ██████ ███████ ██████\n██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ████ ██ ██ ██ ██ ██\n██ ██ ██ ██ ██ ██ █████ █████ ██ ███████ ███████ ██ ██ ██ ██ ███ █████ ██████\n██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██\n████ ██████ ██ ██████ ███████ ██████ ██ ██ ██ ██ ██ ████ ██████ ███████ ██ ██\nAI Voice-Changer Real-Time lets streamers, podcas",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "voice"
-      ]
-    },
-    {
-      "id": "1c948b5e-f9ae-41cc-8ab7-f805670b53cc",
-      "name": "Generative AI Is Having Its Herbalife Moment",
-      "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
-      "oneLiner": "Over the past few weeks, I’ve noticed that TikTok has been serving me ads for Replit — one of the many vibe-coding startups that have emerged in the past couple of years, and that ",
-      "description": "Generative AI Is Having Its Herbalife Moment\nHow predatory vibe coding startups are selling false hope to young people\nOver the past few weeks, I’ve noticed that TikTok has been serving me ads for Replit — one of the many vibe-coding startups that have emerged in the past couple of years, and that serve as a glorified wrapper for models from Anthropic, OpenAI, and Google.\nNow, TikTok can be a weir",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "design",
-        "marketing"
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "b02cfeea-51d3-4b1e-a9c9-548645680ad9",
+      "name": "Juakali",
+      "url": "https://4dlab.xyz/juakali/",
+      "oneLiner": "Ships as a single self-contained Docker image.",
+      "description": "Generate\ndatasets to train\nartificial general engineer.\nShips as a single self-contained Docker image.\nOnly Docker is required. Everything else is pre-baked into the image.\nDownload the image archive and install script. All platforms use the same image.\nAll releases on github.com/qet-lab/juakali/releases ↗ · Download counts pulled live from the GitHub API.\nInstall Docker for your platform, then lo",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "data",
+        "image"
+      ]
+    },
+    {
+      "id": "82e321b5-b735-4b24-8466-19324283ba03",
+      "name": "Agentcard",
+      "url": "https://www.agentcard.sh",
+      "oneLiner": "You approve every card and every charge.",
+      "description": "“If Stripe was the company that was built for developers, maybe Agentcard is a company that's built for agents”\nYou approve every card and every charge. Your real card details are never shared.\nCards that self-destruct after a single use, so you never share your real card in chat.\nGet a notification every time your agent tries to create a card or make a payment.\nHey user :)\nDo you authorize this t",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "agents"
       ]
     }
   ]
