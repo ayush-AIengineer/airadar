@@ -1,43 +1,11 @@
 {
-  "generatedAt": "2026-06-21T09:52:12.467005+00:00",
-  "count": 32,
+  "generatedAt": "2026-06-22T11:57:16.034130+00:00",
+  "count": 14,
   "tools": [
     {
-      "id": "3dea1337-f13a-4562-b9af-20dbce2f47e8",
-      "name": "EatWise1",
-      "url": "https://github.com/qwepablo12/EatWise1",
-      "oneLiner": "EatWise is a calorie and macro tracker that acts as a dedicated \"Nutrition OS\" for athletes.",
-      "description": "EatWise is a calorie and macro tracker that acts as a dedicated \"Nutrition OS\" for athletes. Instead of complex manual logging, it uses advanced AI to parse free-form text input and instantly calculate precise nutritional breakdowns.\n- Frontend: React Native (Expo)\n- AI Engine: Google Gemini 2.5 Flash API (Structured Outputs)\n- Backend & Sync: Supabase Cloud Storage\n- Design Philosophy: Cyber-term",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design"
-      ]
-    },
-    {
-      "id": "93750483-5d65-4dc3-826b-a338401308f0",
-      "name": "heartmorrow",
-      "url": "https://github.com/HMDSimDev/heartmorrow",
-      "oneLiner": "Heartmorrow is a fully local dating + world simulator powered by your own language model.",
-      "description": "Heartmorrow is a fully local dating + world simulator powered by your own language model. You build the cast and the world they live in, then live a relationship sim in your browser: go on dates with streamed, in-character dialogue, text back and forth on an in-game phone, play minigames, shop for gifts, and watch relationships grow, drift, define themselves, or fall apart across a living in-game ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "data",
-        "image",
-        "voice"
-      ]
-    },
-    {
-      "id": "a33a0112-de28-4c0a-9040-3cf442adbc3b",
+      "id": "866ec3c2-af50-417c-a29c-cba94c7b7fb0",
       "name": "Windows-Copilot-API",
-      "url": "https://github.com/sumitgautam0101/Windows-Copilot-API",
+      "url": "https://github.com/sums001/Windows-Copilot-API",
       "oneLiner": "Using your own Microsoft Copilot account.",
       "description": "Using your own Microsoft Copilot account. No API key, no credits, no paid plan: it turns the free chat at copilot.microsoft.com into an API you can call from code.\nYou can use it in two ways:\n- 🐍 As a Python library: just call\nclient.chat(\"Hi\")\n. Supports streaming and multi-turn conversations. - 🔌 As a local OpenAI-compatible API: runs a server at\nhttp://localhost:8000/v1\nthat speaks the OpenAI f",
       "pricing": "free",
@@ -46,17 +14,34 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "writing"
       ]
     },
     {
-      "id": "915f777b-afa8-4219-a1f7-1a0d5659edeb",
-      "name": "ralph",
-      "url": "https://github.com/SantanderAI/ralph",
+      "id": "fbf17b1e-a91f-4f4c-80f8-1ff04b52a4e6",
+      "name": "llm_bridge",
+      "url": "https://github.com/SantanderAI/llm_bridge",
       "oneLiner": "Open source by Santander AI Lab.",
-      "description": "Open source by Santander AI Lab. A dependency-free Bash / PowerShell developer tool that runs an AI coding CLI / LLM agent in a loop, starting a fresh agent session on every iteration for long unattended runs.\nPart of Santander AI Open Source — open source AI projects from Banco Santander (santander.com).\nralph\nruns an AI coding CLI in a loop, starting a fresh session on every\niteration and feedin",
+      "description": "Open source by Santander AI Lab. A tiny, vendor-neutral LLM client library — one interface for OpenAI, AWS Bedrock and Google Gemini (or bring your own AI backend).\nPart of Santander AI Open Source — open source AI projects from Banco Santander (santander.com).\nA tiny, vendor-neutral wrapper for any LLM backend. One small interface,\npluggable providers. Write your application against LLMClient\nonc",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "02936a0f-46b4-4351-95bf-ab09f8b170ef",
+      "name": "sota-stressed-datasets",
+      "url": "https://github.com/SantanderAI/sota-stressed-datasets",
+      "oneLiner": "Open source by Santander AI Lab.",
+      "description": "Open source by Santander AI Lab. A benchmark dataset collection for evaluating the robustness of machine learning and LLM systems: well-known datasets republished in stressed form — controlled, documented input degradation (\"shocks\": noise, missingness, ambiguity, formatting changes, contradictions) applied to a subset of the records. We publish the stressed versions so the community can freely re",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -64,12 +49,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "productivity"
+        "data",
+        "security"
       ]
     },
     {
-      "id": "4cf16315-897b-4e97-b717-e578681759e0",
+      "id": "9fab5054-4783-48a0-bfb4-c55b2a7f632e",
       "name": "foreman",
       "url": "https://github.com/VisionForge-OU/foreman",
       "oneLiner": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.",
@@ -80,30 +65,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "e7367c89-c45c-455b-886c-3baa1f68ef53",
-      "name": "presentation-design-prompts",
-      "url": "https://github.com/SlideSpeak/presentation-design-prompts",
-      "oneLiner": "AI chat tools write decent slide content.",
-      "description": "AI chat tools write decent slide content. Design is where they fall apart: clip-art, clashing colors, bullet walls. A sharper prompt fixes that.\nEach theme here is one prompt that carries a full design system: a color palette pinned to hex values, named Google Fonts, a layout grammar, and an avoid-list that stops the model from decorating. Paste it into ChatGPT or Claude, say what your talk covers",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "marketing"
-      ]
-    },
-    {
-      "id": "e417f7aa-6dcb-4f51-8984-946f6fb9995f",
+      "id": "897d7a7f-4ede-41dd-ac69-696dbfcd74de",
       "name": "aftercode",
       "url": "https://github.com/ron3899/aftercode",
       "oneLiner": "Turn your daily AI coding sessions into personalized learning podcasts.",
@@ -120,109 +88,7 @@
       ]
     },
     {
-      "id": "e6efc1a6-6449-4800-ba98-734a2f2ce341",
-      "name": "figma-ai-bridge",
-      "url": "https://github.com/Kacep91/figma-ai-bridge",
-      "oneLiner": "Local Figma Desktop plugin + localhost bridge for AI-ready design handoff bundles.",
-      "description": "Local Figma Desktop plugin + localhost bridge for AI-ready design handoff bundles.\nРусский · English · Skill · Bundle contract\nFigma AI Bridge передает макеты из десктопной Figma напрямую ИИ-агентам. Не требует API Figma, Dev Mode MCP или токенов доступа.\nСырой JSON из Figma слишком тяжелый для контекста нейросети и содержит много мусора. Для верстки нужны только конкретные данные: внешний вид, те",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "design",
-        "productivity"
-      ]
-    },
-    {
-      "id": "1f9cc22a-a3a8-4872-bb86-fc27d7c8127c",
-      "name": "autoguardrails",
-      "url": "https://github.com/SantanderAI/autoguardrails",
-      "oneLiner": "Open source by Santander AI Lab.",
-      "description": "Open source by Santander AI Lab. An LLM / AI-safety guardrail research library / evaluation harness (autoresearch-style): it searches over a single mutable\npolicy.md\nsurface to minimize attack success rate (ASR) against a fixed evaluation suite, with a benign-pass floor.\nPart of Santander AI Open Source — open source AI projects from Banco Santander (santander.com).\nautoguardrails\nis a small align",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/SantanderAI/autoguardrails",
-      "categories": [
-        "code",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "0a097329-4845-48a2-8d25-3dd58e41fc43",
-      "name": "Bunny-AI-Agent",
-      "url": "https://github.com/abdu6666/Bunny-AI-Agent",
-      "oneLiner": "A calm, powerful coding agent — runs anywhere, ships everywhere.",
-      "description": "A calm, powerful coding agent — runs anywhere, ships everywhere.\nDaily driver CLI · AI SDK UI native · Remote sandbox in one command · Build your own Agent product\nQuick Start · Features · Remote Sandbox · Build Your Own Agent · Docs\nBunny Agent is a coding agent built on Pi Coding Agent — multi-model, harness-ready, and designed from the ground up for three jobs at once:\nIt outputs a native AI SD",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/abdu6666/Bunny-AI-Agent.git",
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "15bef8bf-e54f-44cc-bf96-1baf58bb1827",
-      "name": "axon",
-      "url": "https://github.com/danieltamas/axon",
-      "oneLiner": "Local, harness-agnostic observability for AI coding agents — one Rust binary, in your browser.",
-      "description": "Local, harness-agnostic observability for AI coding agents — one Rust binary, in your browser.\nAxon reads the logs your AI coding-agent harnesses already write — Claude Code, Codex, OpenCode — and shows which harness, project, agent, and model is working, how fast, at what cost, and how much code it's producing. The signature view is a live three.js \"brain\" of your models firing in real time; alon",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/danieltamas/axon",
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "e6b20137-0379-440b-9e4d-86fdef87b644",
-      "name": "latent-gate",
-      "url": "https://github.com/KathanModh259/latent-gate",
-      "oneLiner": "A VL-JEPA-inspired pipeline that compresses images, text, conversations, and RAG documents locally via Ollama, then sends only compact semantic payloads to any LLM API — cutting to",
-      "description": "A VL-JEPA-inspired pipeline that compresses images, text, conversations, and RAG documents locally via Ollama, then sends only compact semantic payloads to any LLM API — cutting token costs by ~80%.\nQuick Start · AI Tool Integrations · Benchmarks · Contributing\nEvery time you send an image or long prompt to GPT-4o / Claude / Gemini, you are burning 1,000+ tokens on processing that could happen loc",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/KathanModh259/latent-gate",
-      "categories": [
-        "code",
-        "image",
-        "video"
-      ]
-    },
-    {
-      "id": "f3584dd6-e1b3-435a-ab19-862517333912",
-      "name": "ai-memory-vault",
-      "url": "https://github.com/jaredrhod/ai-memory-vault",
-      "oneLiner": "Give your AI a real, persistent memory.",
-      "description": "Give your AI a real, persistent memory. This is the open-source system that turns an Obsidian vault into your AI's working memory, so it remembers everything across sessions, lives outside the model with no size ceiling, and pulls back exactly what it needs in one step. Free to use, share, and build on, just not to resell (see LICENSE).\n- ai-memory-vault.md: the build script. Run it inside Claude ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "productivity"
-      ]
-    },
-    {
-      "id": "14909bd3-330f-4672-a0b5-511fd103447e",
+      "id": "f977f72f-551e-4cb8-8c35-f308016cf684",
       "name": "text-humanizer",
       "url": "https://github.com/anasu1/text-humanizer",
       "oneLiner": "text-Humanizer is a completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline.",
@@ -238,109 +104,56 @@
       ]
     },
     {
-      "id": "c214105c-675f-48e4-8f48-261f9deb4c36",
-      "name": "Building reliable agentic AI systems",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "oneLiner": "This paper presents the Preclinical Information Center (PRINCE), a cloud-hosted platform developed by Bayer AG with Thoughtworks to address pharmaceutical industry challenges in dr",
-      "description": "Building Reliable Agentic AI Systems\nA Case Study in building production-ready agentic AI systems\nThis paper presents the Preclinical Information Center (PRINCE), a cloud-hosted platform developed by Bayer AG with Thoughtworks to address pharmaceutical industry challenges in drug development. PRINCE leverages Agentic Retrieval-Augmented Generation and Text-to-SQL to integrate decades of safety stu",
+      "id": "db6d77ce-6361-4304-a19c-c80cb4051cf0",
+      "name": "Lockin",
+      "url": "https://www.lockinmcp.com",
+      "oneLiner": "Let AI block distractions for you when you need to lock in.",
+      "description": "Stay focused. Lock in.\nLet AI block distractions for you when you need to lock in.\nWorks with the AI tools you already use — Poke, Claude, ChatGPT, Perplexity, Gemini, and more via MCP. One install, system-level blocks, and an assistant that keeps you on task.\nBlocked by LockIn\nRedirected via hosts file — no browser extension needed\nBlock distractions at the system level\nLockIn edits your hosts fi",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents"
+      ]
+    },
+    {
+      "id": "55fb62cb-7fe8-420f-8401-913be7ae4fc2",
+      "name": "Open source AI projects from Banco Santander",
+      "url": "https://github.com/SantanderAI",
+      "oneLiner": "We build and open source AI tools that advance small models, harness engineering, evolving agents, responsible AI, MLOps and graph machine learning for the financial services indus",
+      "description": "We build and open source AI tools that advance small models, harness engineering, evolving agents, responsible AI, MLOps and graph machine learning for the financial services industry. By contributing back to the open source ecosystem we help raise the bar for trustworthy AI in banking — and we give back to the community whose work powers our own innovation.\nAll projects use synthetic or anonymise",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "design",
-        "writing"
-      ]
-    },
-    {
-      "id": "5643c740-5aae-41c2-9cb6-b7243dfb36bd",
-      "name": "shared verified memory for AI agents",
-      "url": "https://kage-core.com/",
-      "oneLiner": "Your coding agent forgets everything.",
-      "description": "Your coding agent forgets everything. Kage gives it memory that's verified against your code.\nOpen, git-native memory your team's coding agents read and write together. Every lesson an agent learns becomes a file in your repo: versioned in git, reviewed in pull requests, shared across the whole team. Kage checks each one against your code, so deleted and stale citations get caught before they misl",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
         "code",
-        "agents",
-        "design"
+        "data"
       ]
     },
     {
-      "id": "234dc29c-c962-41dc-8391-c8579ba0121e",
-      "name": "Agent-historian",
-      "url": "https://github.com/adlternative/agent-historian",
-      "oneLiner": "Search and read your past AI coding-agent conversation history from the command line — so your agent can recover earlier research, commands, errors, and decisions instead of repeat",
-      "description": "English | 简体中文\nSearch and read your past AI coding-agent conversation history from the command line — so your agent can recover earlier research, commands, errors, and decisions instead of repeating work.\nShips a small CLI (ochist\n) and an Agent Skill so agents like\nOpenCode and Claude Code\ncan check history before doing fresh research.\n- Multi-agent. Reads OpenCode (\nopencode.db\n) and Claude Code",
+      "id": "b794664c-7ba0-4b4a-a13a-42778637d421",
+      "name": "MemoryOps",
+      "url": "https://github.com/patibandlavenkatamanideep/memoryops-ai",
+      "oneLiner": "MemoryOps AI is an enterprise-shaped, loop-engineered memory governance layer for AI assistants.",
+      "description": "MemoryOps AI is an enterprise-shaped, loop-engineered memory governance layer for AI assistants. It implements a ChatGPT-style memory lifecycle with capture, policy evaluation, typed storage, hybrid retrieval, controlled forgetting, auditability, and tenant isolation.\nMost demos treat memory as a vector database. MemoryOps AI treats memory as governed state.\nTagline: Enterprise memory governance f",
       "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/adlternative/agent-historian.git",
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "7fde0287-077c-40d7-ae28-212f8d946cf0",
-      "name": "Plotting AI model release cadence",
-      "url": "https://swiftalerts.trade/the-cadence-trade-hn",
-      "oneLiner": "Ethan Mollick made an offhand observation this month: if AI self-improvement is real, even weakly, then the labs that have it should ship faster over time, and the ones that don't ",
-      "description": "Plotting AI model release cadence: two labs are accelerating, three aren't\nPlotting frontier model release cadence, with methodology\nEthan Mollick made an offhand observation this month: if AI self-improvement is real, even weakly, then the labs that have it should ship faster over time, and the ones that don't should fall behind. He claimed this was already visible at Anthropic and OpenAI but now",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "68e2c094-6c3c-431a-9d03-2a371dafe5f6",
-      "name": "Callimachus",
-      "url": "https://github.com/BetaBots-LLC/callimachus",
-      "oneLiner": "Local index & search for your AI coding-agent threads — across 11 tools (Claude Code, Codex, Cursor, Gemini CLI, Qwen Code, Goose, OpenCode, Continue, Cline, Roo Code, Kilo Code) —",
-      "description": "Local index & search for your AI coding-agent threads — across 11 tools (Claude Code, Codex, Cursor, Gemini CLI, Qwen Code, Goose, OpenCode, Continue, Cline, Roo Code, Kilo Code) — plus a provider-agnostic chat, an MCP server, a CLI, and a VS Code / Cursor extension. Everything stays on your machine.\nNamed for Callimachus, who built the first catalogue of the Library of Alexandria.\nGrab the latest",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "agents",
-        "search"
+        "rag",
+        "code"
       ]
     },
     {
-      "id": "ec8191ce-465e-468f-9faa-c0b0e146e47c",
-      "name": "PiRanha",
-      "url": "https://github.com/h4ckologic/PiRanha",
-      "oneLiner": "A school of 53 specialized AI security agents + a deterministic engagement router that classify any target and strip it to the bone — in parallel.",
-      "description": "The Autonomous Bug-Hunting Swarm\nA school of 53 specialized AI security agents + a deterministic engagement router that classify any target and strip it to the bone — in parallel.\ncurl -fsSL https://raw.githubusercontent.com/h4ckologic/PiRanha/main/install.sh | sh\nor as a Pi package — pi install git:github.com/h4ckologic/PiRanha\nWhy PiRanha • Install • The Swarm • Architecture • Prompts • Contribu",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/h4ckologic/PiRanha.git",
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "0b308267-2424-4575-ac31-a12a7f87eedd",
+      "id": "983c3643-4065-4205-8392-fd3b6cb85d35",
       "name": "TensorFold",
       "url": "https://github.com/ashhart/TensorFold",
       "oneLiner": "TensorFold is an Apple Silicon / MLX-first local runtime for running sparse MoE language models under tight memory budgets.",
@@ -351,13 +164,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/ashhart/TensorFold.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "security"
       ]
     },
     {
-      "id": "df8044b3-77a5-4805-b17f-067f12df2028",
+      "id": "433081b6-9cd9-463b-b1fc-bbc4761974f5",
       "name": "neuralyzer",
       "url": "https://github.com/gintasz/neuralyzer",
       "oneLiner": "Watch the first minute of this video as an introduction.",
@@ -368,12 +181,12 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "agents"
+        "agents",
+        "code"
       ]
     },
     {
-      "id": "0f08707c-55f6-4ea4-858b-30b060620951",
+      "id": "9c7e43a8-a406-4d66-9eae-1d3999668cee",
       "name": "llm-ledger",
       "url": "https://github.com/verbio-labs/llm-ledger",
       "oneLiner": "A verifiable, time-aware knowledge ledger your LLM keeps for you.",
@@ -388,22 +201,7 @@
       ]
     },
     {
-      "id": "44162eeb-1f0a-4c1a-aaba-ce1df02e64f2",
-      "name": "fullstack-ai-agent-roadmap",
-      "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
-      "oneLiner": "fullstack-ai-agent-roadmap",
-      "description": "从零基础到 AI 时代全栈工程师 —— 一份用 Obsidian 组织的、超过 58 万字 / 110 个详细教程的系统化学习路线。\n涵盖 Python · JavaScript · React · FastAPI · 数据库 · LLM · AI Agent · 毕业项目，每个知识点都附类比解释 + 完整代码 + 练习题 + GitHub 项目推荐。\n⭐ 觉得有用就点个 Star 吧 —— 是对维护者最大的鼓励\n不是一份链接清单。这是一套 \"零基础 → 能独立交付 AI Agent 产品\" 的完整教程包：\n- 📘 110 个 Markdown 文件 / 58 万字 —— 每个新概念都用日常类比讲清楚\n- 💻 完整可运行代码 —— 不是片段，是逐行注释 + 预期输出 + 练习答案\n- 🎯 30+ 个章节项目 —— 每章必做一个验收项目，没做完不算学完\n- ⭐ 400+ 精选 GitHub ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Karovia/fullstack-ai-agent-roadmap.git",
-      "categories": [
-        "agents"
-      ]
-    },
-    {
-      "id": "08c258a5-5ac1-47fe-ba4c-f30701cb55e0",
+      "id": "53afb4f4-0c73-44c2-b705-31e3debea0d1",
       "name": "blue-spec",
       "url": "https://github.com/wellwelwel/blue-spec",
       "oneLiner": "Blue Spec helps your AI agent make a project more secure.",
@@ -414,67 +212,17 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "915fda26-e74f-4fdd-89d4-aaca58615b10",
-      "name": "Valorant-Aim-Architecture-Overlay",
-      "url": "https://github.com/Codesammit/Valorant-Aim-Architecture-Overlay",
-      "oneLiner": "Architectural Clarity for Competitive Edge — A Kubernetes-powered overlay ecosystem for Valorant enthusiasts seeking intelligent crosshair analytics, DNS-optimized match routing, a",
-      "description": "Architectural Clarity for Competitive Edge — A Kubernetes-powered overlay ecosystem for Valorant enthusiasts seeking intelligent crosshair analytics, DNS-optimized match routing, and AI-driven attention mapping. This is not a modification; it is an educational rendering system designed to visualize game-state data through the lens of modern cloud infrastructure.\nImagine standing in a control room ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "design",
-        "data"
-      ]
-    },
-    {
-      "id": "3f716358-d222-4c6a-afe9-4e58a57dabf7",
-      "name": "Public Service Announcement",
-      "url": "https://www.satisfice.com/blog/archives/488148",
-      "oneLiner": "But I’m getting ahead of myself already.",
-      "description": "…also don’t tell lies. But I’m getting ahead of myself already.\nI keep running into people online who openly say that they use AI to do their writing for them. Now, technically, they may say they use AI to “help” their writing. It doesn’t matter. The distinction is immediately lost on everyone who sees that assertion, because when AI writes for you it does a lot more than just “help,” and everyone",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "writing"
-      ]
-    },
-    {
-      "id": "b3c4cebb-d6e0-4ab2-b87d-84fdfac42074",
-      "name": "When I reject AI code even if it works",
-      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-      "oneLiner": "reviewing the volume of code generated by AI.",
-      "description": "When I reject AI code even if it works\nWith implementation getting faster and faster, the real bottleneck moves to\nreviewing the volume of code generated by AI. I’m not even talking about\nyour coworkers’ (and their agents’) PRs, but your own git diff\nafter your\ncoding agent has finished its job.\nEven when I follow good practices – like starting with the plan mode, dividing big tasks into phases, a",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "agents",
-        "design"
+        "code"
       ]
     },
     {
-      "id": "ad9b2cf4-500b-41b6-aa43-5e82e102a207",
-      "name": "Why Amazon hates 'human-in-the-loop' AI governance",
-      "url": "https://www.theregister.com/security/2026/06/20/why-amazon-hates-human-in-the-loop-ai-governance/5258639",
-      "oneLiner": "Humans tend to be “a little bit precious about humans,” according to Eric Brandwine, distinguished engineer and VP at Amazon Security.",
-      "description": "Humans tend to be “a little bit precious about humans,” according to Eric Brandwine, distinguished engineer and VP at Amazon Security.\nWe like to think we are all very good at our jobs, and we have high opinions of ourselves, he explained during a phone interview with The Register. “But when you actually get down to it, humans are not terribly consistent,” Brandwine said.\nHumans, like AI agents an",
+      "id": "229f9b2e-74b9-4fa9-8dda-4b4b4a719c46",
+      "name": "Posting Machine",
+      "url": "https://www.postingmachine.ai",
+      "oneLiner": "We help B2B SaaS founders create LinkedIn posts from real company context, then convert ICP engagement into warm outbound and booked meetings.",
+      "description": "Customer calls\nWhy the buyer chose now\nWe help B2B SaaS founders create LinkedIn posts from real company context, then convert ICP engagement into warm outbound and booked meetings.\nComposeReal company context becomes founder-led LinkedIn posts\nCreate draftsCompany context in · founder-led posts out\nTurn customer calls, meeting notes, Slack threads, and product updates into founder-led LinkedIn po",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -482,59 +230,8 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "0bb17d8a-b0eb-43e2-ae32-54cc23c7c180",
-      "name": "LBE",
-      "url": "https://github.com/Letterblack0306/LetterBlack-Sentinel",
-      "oneLiner": "LBE puts a local policy gate between what an AI agent proposes and what the system actually executes.",
-      "description": "LBE puts a local policy gate between what an AI agent proposes and what the system actually executes. Every action — file write, shell command, anything — is validated locally before it runs. No cloud service. No daemon.\nUsed in production: LBE is the safety engine inside Letterblack for After Effects — every AI-generated script and automation command passes through it before touching a live proje",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "986e113b-8f6b-4ac3-a6c9-7aaa78111c72",
-      "name": "Quikdown",
-      "url": "https://github.com/deftio/quikdown",
-      "oneLiner": "Quikdown is a small, safe, bidirectional Markdown parser with a drop-in editor for browser and Node.",
-      "description": "Quikdown is a small, safe, bidirectional Markdown parser with a drop-in editor for browser and Node.js apps — with rich fenced-block rendering, Markdown ↔ HTML round-tripping, undo/redo, headless APIs, MCP tools, and a standalone offline build.\nIt is useful anywhere Markdown needs to remain the source of truth while users edit either the source or rendered view: docs, dashboards, CMS fields, inter",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
+        "writing",
         "productivity"
-      ]
-    },
-    {
-      "id": "f6b51369-c5b1-4e6b-9837-9138b9e699b9",
-      "name": "Image Tools Hub",
-      "url": "https://imgtoolshub.com",
-      "oneLiner": "ImgToolsHub is a curated directory of AI image generators, editors, upscalers, background removers, and more.",
-      "description": "ImgToolsHub is a curated directory of AI image generators, editors, upscalers, background removers, and more.\nTools\nAI Image Tools for real creative workflows\nA dedicated overview to help you understand what are the best AI Image Tools in the market.\nWhy choose ImgToolsHub\nA curated directory that keeps AI Image Tools organized, comparable, and easy to test.\nAI Image Tools move fast, and new relea",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "image"
       ]
     }
   ]
