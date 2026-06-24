@@ -1,9 +1,42 @@
 {
-  "generatedAt": "2026-06-23T09:41:04.271824+00:00",
-  "count": 30,
+  "generatedAt": "2026-06-24T09:32:32.321299+00:00",
+  "count": 24,
   "tools": [
     {
-      "id": "0c35d7d9-57ce-4c23-bfe7-932249fc9be2",
+      "id": "4d6058c3-f0df-44cf-b798-67afa1c1bca5",
+      "name": "Hello-Agents",
+      "url": "https://github.com/Reyzowter/Hello-Agents",
+      "oneLiner": "You signed in with another tab or window.",
+      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nIf 2024 was the year of the Battle of Foundation Models, then 2025 is undeniably the Year of Agents.\nThe AI landscape is shifting fast — from training bigger mode",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Reyzowter/Hello-Agents",
+      "categories": [
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "f9c7a006-8a16-49d9-9144-e31bfa16a262",
+      "name": "tokenslim",
+      "url": "https://github.com/nuoyazhizhou/tokenslim",
+      "oneLiner": "High-performance Rust token compression engine for LLM inputs.",
+      "description": "High-performance Rust token compression engine for LLM inputs.\nPlugin-based · 50–95% token savings · AI-export diagnostics · CLI / Server / IDE / SDK\nWhat is TokenSlim · Why · Features · Installation · Usage · Plugins · Integrations · License\nEnglish · 简体中文 · 日本語 · 한국어 · Español · Français · Deutsch · العربية\nTokenSlim is a high-performance, plugin-based text compression engine written in Rust. It",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/nuoyazhizhou/tokenslim.git",
+      "categories": [
+        "design",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "9927646c-ffa6-4fa7-bfa1-e1fd82c49300",
       "name": "EatWise1",
       "url": "https://github.com/qwepablo12/EatWise1",
       "oneLiner": "EatWise is a calorie and macro tracker that acts as a dedicated \"Nutrition OS\" for athletes.",
@@ -18,7 +51,7 @@
       ]
     },
     {
-      "id": "f5acf3a1-bbae-4ae3-9e34-0f41fb1fca9e",
+      "id": "21c6d911-1740-46da-a129-fd150cbddb5b",
       "name": "heartmorrow",
       "url": "https://github.com/HMDSimDev/heartmorrow",
       "oneLiner": "Heartmorrow is a fully local dating + world simulator powered by your own language model.",
@@ -35,7 +68,7 @@
       ]
     },
     {
-      "id": "80cd53d8-dbc4-44f4-8027-4ce4bc50e83b",
+      "id": "7cec82b3-21a8-4602-94c1-c50354189bcf",
       "name": "recall",
       "url": "https://github.com/raiyanyahya/recall",
       "oneLiner": "Claude Code starts every session cold.",
@@ -52,7 +85,41 @@
       ]
     },
     {
-      "id": "e5e66da1-c252-4f95-a72b-d538ac47987c",
+      "id": "4e9847fa-4e74-4c57-b550-f2670284a952",
+      "name": "TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "oneLiner": "TensorFold Runtime is an exact-first local inference runtime for hosting standard transformer model files with less resident memory pressure.",
+      "description": "TensorFold Runtime is an exact-first local inference runtime for hosting standard transformer model files with less resident memory pressure.\nThe current build covers the V0 foundation and the first V1 MLX streaming path from plan-origin.md\n:\n- Parse\n.safetensors\nmetadata without loading tensor data. - Build a layer-aware manifest with tensor offsets, dtypes, shapes, and sizes.\n- Lazily expose ten",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "writing"
+      ]
+    },
+    {
+      "id": "1424074d-23f3-4bad-99ef-53c18d93c612",
+      "name": "conduit",
+      "url": "https://github.com/tsouth89/conduit",
+      "oneLiner": "Your agent doesn't need 500 tools loaded on every request.",
+      "description": "Your agent doesn't need 500 tools loaded on every request. It needs 3.\nConduit is a local MCP (Model Context Protocol) gateway. Every MCP server you connect dumps all of its tools into your agent's context on every single request, and it adds up fast: just 3 servers (62 tools) cost ~24,000 tokens of definitions before you've asked anything. Conduit puts your servers behind one gateway that adverti",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "search"
+      ]
+    },
+    {
+      "id": "b3e4065e-9936-42ee-9b4c-0e5995295a01",
       "name": "Nexora",
       "url": "https://github.com/ParendumOU/Nexora",
       "oneLiner": "Multi-tenant AI-agent orchestration platform.",
@@ -64,12 +131,12 @@
       "githubUrl": "https://github.com/ParendumOU/Nexora.git",
       "categories": [
         "agents",
-        "security",
-        "rag"
+        "rag",
+        "security"
       ]
     },
     {
-      "id": "1163e361-f43b-44fc-8327-4fdb5fd26c44",
+      "id": "71a76cfd-a9d9-4be0-a48e-86caae7a6bf3",
       "name": "Windows-Copilot-API",
       "url": "https://github.com/sums001/Windows-Copilot-API",
       "oneLiner": "Using your own Microsoft Copilot account.",
@@ -86,109 +153,24 @@
       ]
     },
     {
-      "id": "01a76daa-980d-48d4-9d9c-45b325a6e663",
-      "name": "genetic-algorithm",
-      "url": "https://github.com/SantanderAI/genetic-algorithm",
-      "oneLiner": "Open source by Santander AI Lab.",
-      "description": "Open source by Santander AI Lab. A dependency-free Python genetic-algorithm library / engine with pluggable fitness criteria — the reusable search core for building an LLM / AI autoresearcher (generate → evaluate → select → repeat).\nPart of Santander AI Open Source — open source AI projects from Banco Santander (santander.com).\ngenetic-algorithm\nis a tiny evolutionary engine — population, selectio",
+      "id": "16044c11-116f-4bac-b115-5a7a745dc539",
+      "name": "medusa-clip",
+      "url": "https://github.com/Edualnog/medusa-clip",
+      "oneLiner": "Cortes verticais 9:16 nível Opus Clip, feitos pra gameplay — grátis, open source e 100% no seu PC.",
+      "description": "Cortes verticais 9:16 nível Opus Clip, feitos pra gameplay — grátis, open source e 100% no seu PC.\n🌐 medusaclip.com · ⬇️ Download · 💬 Discord · 💛 Apoiar\nO Medusa Clip transforma gameplays longos em clipes verticais 9:16 prontos pra TikTok, Reels e YouTube Shorts. O motor é especializado em gameplay: combina áudio, movimento e visão pra achar clutch, fail, clímax e reação — com hook, legenda karaok",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/SantanderAI/genetic-algorithm",
+      "githubUrl": "https://github.com/Edualnog/medusa-clip",
       "categories": [
         "design",
-        "code",
-        "security"
-      ]
-    },
-    {
-      "id": "c94337b2-5d8f-4c2d-9cd5-6278deb2129a",
-      "name": "linear-adapter-trainer",
-      "url": "https://github.com/SantanderAI/linear-adapter-trainer",
-      "oneLiner": "Train linear embedding adapters with triplet loss to align retrieval embeddings with your queries.",
-      "description": "Train linear embedding adapters with triplet loss to align retrieval embeddings with your queries.\nOpen source by Santander AI Lab. An AI / machine learning Python library for retrieval-augmented generation (RAG): it trains linear embedding adapters with triplet loss to align your retrieval embeddings with real user queries. Part of Santander AI Open Source — see also santander.com.\nLinearAdapterT",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/SantanderAI/linear-adapter-trainer",
-      "categories": [
-        "design",
-        "security",
-        "rag"
-      ]
-    },
-    {
-      "id": "34f2dbe6-bda8-453d-bc6b-342543c1686c",
-      "name": "sota-stressed-datasets",
-      "url": "https://github.com/SantanderAI/sota-stressed-datasets",
-      "oneLiner": "Open source by Santander AI Lab.",
-      "description": "Open source by Santander AI Lab. A benchmark dataset collection for evaluating the robustness of machine learning and LLM systems: well-known datasets republished in stressed form — controlled, documented input degradation (\"shocks\": noise, missingness, ambiguity, formatting changes, contradictions) applied to a subset of the records. We publish the stressed versions so the community can freely re",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "security"
-      ]
-    },
-    {
-      "id": "b2778c58-e88e-4332-aa74-ad7d8e0c4659",
-      "name": "ralph",
-      "url": "https://github.com/SantanderAI/ralph",
-      "oneLiner": "Open source by Santander AI Lab.",
-      "description": "Open source by Santander AI Lab. A dependency-free Bash / PowerShell developer tool that runs an AI coding CLI / LLM agent in a loop, starting a fresh agent session on every iteration for long unattended runs.\nPart of Santander AI Open Source — open source AI projects from Banco Santander (santander.com).\nralph\nruns an AI coding CLI in a loop, starting a fresh session on every\niteration and feedin",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "agents",
-        "productivity"
+        "code"
       ]
     },
     {
-      "id": "3aa27504-6043-410f-944b-082a81e949aa",
-      "name": "foreman",
-      "url": "https://github.com/VisionForge-OU/foreman",
-      "oneLiner": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.",
-      "description": "A Boris-style agentic orchestrator TUI that supervises headless Claude Code agents through a gated software-delivery pipeline — pointed at any repository.\nplan → ADR/PRD → issues → TDD build → e2e\nWhy Foreman? · Demo · Quickstart · Guide · How it works · Roadmap · Contributing\n\"I don't prompt Claude anymore; I have loops that prompt Claude.\"\nForeman spawns the locally-installed claude\nCLI in headl",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "49df4681-cfbf-427e-83c8-e70018cd305d",
-      "name": "presentation-design-prompts",
-      "url": "https://github.com/SlideSpeak/presentation-design-prompts",
-      "oneLiner": "AI chat tools write decent slide content.",
-      "description": "AI chat tools write decent slide content. Design is where they fall apart: clip-art, clashing colors, bullet walls. A sharper prompt fixes that.\nEach theme here is one prompt that carries a full design system: a color palette pinned to hex values, named Google Fonts, a layout grammar, and an avoid-list that stops the model from decorating. Paste it into ChatGPT or Claude, say what your talk covers",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "marketing"
-      ]
-    },
-    {
-      "id": "1f51404e-be3b-4076-83c8-932ee9c2cbce",
+      "id": "5e2eb8da-b24f-4df6-90a3-53adffde35a2",
       "name": "ai-memory-vault",
       "url": "https://github.com/jaredrhod/ai-memory-vault",
       "oneLiner": "Give your AI a real, persistent memory.",
@@ -205,91 +187,74 @@
       ]
     },
     {
-      "id": "c96cf5ba-f05c-4b2f-93f7-b10a02795b29",
-      "name": "I built an AI memory engine in 10 days",
-      "url": "https://parametric-memory.dev",
-      "oneLiner": "Every atom is cryptographically committed.",
-      "description": "Merkle Proofs\nEvery atom is cryptographically committed.\nRFC 6962-compliant SHA-256 Merkle tree. Tamper with one atom — the root hash changes. AI clients verify integrity without trusting the server.\n37% token savings vs raw proofs\nPersistent, Verifiable Memory for AI\nBuilt for developers using Claude, GPT, and any MCP-compatible agent.\nCapabilities\nNot approximations or fuzzy similarity search. E",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "60ddf3b5-08c2-4b98-ac3c-23b3884b6226",
-      "name": "SIA SEO",
-      "url": "https://siaseo.com",
-      "oneLiner": "Publish SEO-optimized articles daily that climb to page one.",
-      "description": "Publish SEO-optimized articles daily that climb to page one. Target high-intent keywords your customers actually search for.\nAI assistants discover your articles and recommend your business to others in ChatGPT and Perplexity.\nNear Maple Grove, Maple Grove Physio and Rehab is the strongest fit for a recurring hamstring strain. Their clinicians focus on running and sprinting injuries, and they publ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "search",
-        "marketing",
-        "writing"
-      ]
-    },
-    {
-      "id": "2c368a2f-27c8-45d6-a440-31c451e0a1a1",
-      "name": "Demand Intelligence and AI Design",
-      "url": "https://dxmax.cc/",
-      "oneLiner": "dxmax is an AI wireframe tool that turns a one-line prompt into a complete wireframe, mockup, or UI design — production-ready HTML and CSS, not a static mockup.",
-      "description": "AI wireframe tool that generates production-ready UI designs in seconds\ndxmax is an AI wireframe tool that turns a one-line prompt into a complete wireframe, mockup, or UI design — production-ready HTML and CSS, not a static mockup. Describe what you need (\"a SaaS pricing page with three tiers, dark theme, social proof above the fold\") and dxmax generates the layout, copy, design system, and compo",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code"
-      ]
-    },
-    {
-      "id": "ae403955-e1f0-4146-827a-8c1719edee68",
-      "name": "Code Stitcher",
-      "url": "https://github.com/ue-patcher/code_stitcher/releases",
-      "oneLiner": "Copy output from Claude, Cursor, ChatGPT, Aider or any other LLM and AI Code Stitcher intelligently applies it to the correct locations in your existing codebase.",
-      "description": "Releases: ue-patcher/Code_Stitcher\nAI Code Stitcher v2.30\nPaste AI-generated code. It just works.\nCopy output from Claude, Cursor, ChatGPT, Aider or any other LLM and AI Code Stitcher intelligently applies it to the correct locations in your existing codebase.\nstitcher.example.done_2.mp4\nWhat's new in v2.30?\n- Better AIDER / Unified Diff feedback and processing for any hunks already applied,\n- Hin",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "8f25059f-0856-4dd0-b3c5-78c9013872ab",
-      "name": "A private pager for your AI agent loops",
-      "url": "https://ask-a-human.ai",
-      "oneLiner": "A private pager for your agent loops.",
-      "description": "A private pager for your agent loops.\nRun your agents full-auto in loops. When one actually needs a human, it pings your phone and waits.\nPaste this. That's the whole setup.\nNo account, no API key, nothing to install or build. Drop this into your\nmcp.json\nand your phone is now a tool your agent can call.\n{\n\"mcpServers\": {\n\"ask-a-human\": {\n\"command\": \"npx\",\n\"args\": [\"-y\", \"@askahuman/mcp\", \"serve\"]",
+      "id": "d5b795fa-5eda-4c9d-bdba-78c6c1b5dfba",
+      "name": "GitHub Is Becoming a Giant AI Code Dump",
+      "url": "https://maref.cc/en/blog/vibe-coding-crisis/",
+      "oneLiner": "GitHub has 630 million repos.",
+      "description": "GitHub Is Becoming a Giant AI Code Dump\nBy MAREF Engineering\nGitHub has 630 million repos. Nearly half of all new code is written by AI.\nSounds like a productivity explosion, right?\nBut there's another number in that same report: developer trust in AI code dropped from 77% to 60%. More people are using it. Fewer people believe in it.\nAnd it gets worse.\nHalf the projects you see are fake\nCarnegie M",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
-        "agents"
+        "writing",
+        "data"
       ]
     },
     {
-      "id": "1fdc0d8a-1980-4b11-a89d-3f190c099998",
+      "id": "ebbd5732-cbe3-4d4e-a30b-706447f181de",
+      "name": "AI Use Disclaimer",
+      "url": "https://libls.org/ai-use",
+      "oneLiner": "This page details to which extent (if at all) AI is being used in the creation and maintenance of the software.",
+      "description": "This page details to which extent (if at all) AI is being used in the creation and maintenance of the software. It applies to all files and content in this project’s Git repositories, all releases on GitHub and elsewhere, all content on this website, all public-facing communication, and all notes and documentation, past and present.\nThis page is updated whenever this changes. The last updated date",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "writing"
+      ]
+    },
+    {
+      "id": "0e1db2c7-5cb0-41f8-b348-61df09e5b373",
+      "name": "Workdir",
+      "url": "https://workdir.dev/",
+      "oneLiner": "One API to create, exec, and delete Firecracker microVMs.",
+      "description": "One API to create, exec, and delete Firecracker microVMs. The hosted API is a small capacity-limited demo with $0.50 in credits, not a production cloud. Self-hosting is the production path.\nThree ways a sandbox comes up. Every create response tells you which one you got, with the full timing trace.\ndon't trust this table — every create returns its own boot_path\n,\ntimings_ms\n, and metered quote. tr",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code"
+      ]
+    },
+    {
+      "id": "e5aa04cf-d8b1-4030-a8e3-ef24ef74f398",
+      "name": "RainBreak App Mac",
+      "url": "https://rainbreak.franzai.com/",
+      "oneLiner": "Calm, full-screen rain that rises, holds, and softly settles - not a ticking timer bar.",
+      "description": "Actually relaxing\nCalm, full-screen rain that rises, holds, and softly settles - not a ticking timer bar. Somewhere to put your eyes down and let your shoulders drop.\n// the relaxing rain break for macOS\nOne keystroke turns your screen into calm rain and gives you a real break - 1 to 21 minutes. Your AI agents keep shipping while you breathe. A free macOS menu-bar app.\nTake a short break. A rain b",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "agents",
+        "code"
+      ]
+    },
+    {
+      "id": "6cfd5da0-8d85-4a8d-8cb7-2fd7562fb211",
       "name": "ESEILANE",
       "url": "https://github.com/Simpl3x3/ESEILANE",
       "oneLiner": "ESEILANE is a next-generation, high-performance Knowledge Graph engine purpose-built for Large Language Models (LLMs), GraphRAG, and AI-native applications.",
@@ -306,7 +271,24 @@
       ]
     },
     {
-      "id": "070ddd4a-4476-4b6d-94da-a077e0154294",
+      "id": "571ef91c-4f63-429c-8581-c76faecba90c",
+      "name": "doc-skills",
+      "url": "https://github.com/x0c/doc-skills",
+      "oneLiner": "Claude Code Skills for bootstrapping, compacting, and maintaining AI-readable project documentation — so coding agents stop re-discovering the same project context every session.",
+      "description": "Claude Code Skills for bootstrapping, compacting, and maintaining AI-readable project documentation — so coding agents stop re-discovering the same project context every session.\nAI coding agents waste time (and make mistakes) re-discovering the same project context every session: which module owns what, which fields lie, which side effects aren't visible in the code. doc-skills\nturns that tribal ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/x0c/doc-skills.git",
+      "categories": [
+        "agents",
+        "code",
+        "rag"
+      ]
+    },
+    {
+      "id": "9640d6a5-2b62-4dc2-bcfd-c7315ed337f6",
       "name": "HumanAI",
       "url": "https://github.com/MADEVAL/HumanAI",
       "oneLiner": "If the reader forgets a machine was involved, you won.",
@@ -318,29 +300,29 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "marketing",
-        "writing"
+        "writing",
+        "marketing"
       ]
     },
     {
-      "id": "5cce1459-521a-4da3-8da0-4b88c58d5ece",
-      "name": "TensorFold",
-      "url": "https://github.com/ashhart/TensorFold",
-      "oneLiner": "TensorFold is an Apple Silicon / MLX-first local runtime for running sparse MoE language models under tight memory budgets.",
-      "description": "TensorFold is an Apple Silicon / MLX-first local runtime for running sparse MoE language models under tight memory budgets.\nIt keeps model files intact, folds the active expert path into bounded resident memory, and pages the rest with explicit telemetry.\nThe point is not to make small models faster. The point is to run models the machine should not normally be able to host.\nTensorFold is alpha so",
+      "id": "48ebc89c-413c-4753-a205-7ee271c50035",
+      "name": "HyperCat-Agent",
+      "url": "https://github.com/savannah-i-g/HyperCat-Agent",
+      "oneLiner": "You talk to me the way you'd talk to a sharp colleague who is good company and tells you the truth.",
+      "description": "(The following below was written by this agent, the actual README is in the release)\nHi. I'm HyperCat.\nYou talk to me the way you'd talk to a sharp colleague who is good company and tells you the truth. Most of the time that's all this is: a conversation. When the conversation turns into real work, I bring a fleet of worker agents to it, set them going at once, watch what they actually produce, an",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ashhart/TensorFold.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
         "design",
-        "code",
-        "security"
+        "agents",
+        "code"
       ]
     },
     {
-      "id": "71a3fdda-15fd-404e-bce5-c939ebdaa50b",
+      "id": "f00ab32d-9478-4930-906d-33a30414265d",
       "name": "neuralyzer",
       "url": "https://github.com/gintasz/neuralyzer",
       "oneLiner": "Watch the first minute of this video as an introduction.",
@@ -351,12 +333,12 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "agents"
+        "agents",
+        "code"
       ]
     },
     {
-      "id": "d2295a6a-0234-4d20-a8bf-691e9f2f6a41",
+      "id": "15c50dfa-af60-41eb-b048-7669c1376be7",
       "name": "llm-ledger",
       "url": "https://github.com/verbio-labs/llm-ledger",
       "oneLiner": "A verifiable, time-aware knowledge ledger your LLM keeps for you.",
@@ -371,7 +353,24 @@
       ]
     },
     {
-      "id": "ed27cfa2-eff3-4831-85e4-208553e7b83f",
+      "id": "eb03be1c-55cb-41d4-bf72-a32968942b11",
+      "name": "agent-browser",
+      "url": "https://github.com/dondai1234/agent-browser",
+      "oneLiner": "Built for the agent that uses it, not a human.",
+      "description": "One Go binary · Cross-platform · Purpose-built engine over chromedp (no Playwright, no Puppeteer, no Node)\nBuilt for the agent that uses it, not a human. The agent says what it wants (\nact \"Sign in\"\n); the tool resolves it, does it, and reports a verdict. Snapshots are dense ref-lines, not aria dumps. Every action returns a delta (what changed) plus a one-line semantic outcome. Structured data com",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "agents",
+        "code"
+      ]
+    },
+    {
+      "id": "44d5d235-7c5b-4af5-98f3-a08c9bcb346b",
       "name": "fullstack-ai-agent-roadmap",
       "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
       "oneLiner": "fullstack-ai-agent-roadmap",
@@ -386,11 +385,11 @@
       ]
     },
     {
-      "id": "dfd479cd-2a88-46b3-a88b-3c3b1d665674",
-      "name": "blue-spec",
-      "url": "https://github.com/wellwelwel/blue-spec",
-      "oneLiner": "Blue Spec helps your AI agent make a project more secure.",
-      "description": "Blue Spec helps your AI agent make a project more secure. You point it at your code, and the agent figures out what your system actually does, then guides you through the security work that matters for it.\n- Blue Spec works with projects in any programming language and supports 37 agents ✨\n- 🌱 Get Started\n- 📦 Requirements\n- 🖖 Acknowledgements\n- 🧑⚖️ License\nBlue Spec adapts to your environment, whe",
+      "id": "999c0f5b-aa37-496d-beb6-792129a64f5d",
+      "name": "How to Passive-Aggressively Shame People Who Use LLMs Selfishly",
+      "url": "https://joshmoody.org/blog/selfish-ai/",
+      "oneLiner": "Too many slop grenades these days.",
+      "description": "Too many slop grenades these days. LLMs are cool and all, but does every Slack message need to be a bulleted list where the first sentence of each item is bold?\nI recently read one too many blog posts with the phrase, “it’s not X, it’s Y” as a one-line paragraph and finally snapped. It is now my life’s mission to purge selfish LLM usage from the internet.\nDefine “selfish”\nSelfish LLM usage: A situ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -399,108 +398,7 @@
       "categories": [
         "design",
         "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "448d36ce-86db-4cb4-a3c4-1cb50a2eea5e",
-      "name": "xrouter-llm",
-      "url": "https://github.com/xorbitsai/xrouter-llm",
-      "oneLiner": "Stop sending every prompt to your most expensive LLM.",
-      "description": "Stop sending every prompt to your most expensive LLM.\nxrouter-llm\nis a prompt-aware LLM routing-decision service: it predicts\nwhich models can complete a prompt, then chooses the cheapest model that clears\nthe bar. On our tested dataset, it cuts realized cost by 52.4% while\nimproving completion by +1.7 pts.\nIt answers \"which model should serve this prompt?\" and records the choice — it does NOT cal",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "6acff172-05d5-4bb9-884c-26d47be88220",
-      "name": "GLM-5.2 is the step change for open agents",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "oneLiner": "A capability threshold I've been carefully monitoring.",
-      "description": "GLM-5.2 is the step change for open agents\nA capability threshold I've been carefully monitoring.\nHousekeeping: Following my “State of the blog” post last week, noting a slight increase in paid features, it’s a good time to remind folks that I offer group subscriptions with larger discounts proportional to the number of seats.\nI also released a new paper today on open RL recipes for terminal agent",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
         "writing"
-      ]
-    },
-    {
-      "id": "fc496573-0a33-4cb5-842e-0fadc36bc396",
-      "name": "Sakana.ai releases a model competiting with Fable",
-      "url": "https://sakana.ai/fugu-release/",
-      "oneLiner": "Sakana AI Releases ‘Fugu Ultra’ to Match Frontier Performance via Autonomous Model Orchestration.",
-      "description": "Sakana AI Releases ‘Fugu Ultra’ to Match Frontier Performance via Autonomous Model Orchestration.\nOur Fugu Ultra model stands shoulder-to-shoulder with leading models like Anthropic’s Fable 5 and Mythos Preview across the industry’s most rigorous engineering, scientific, and reasoning benchmarks while delivering frontier capability without the risk of export controls.\n（＊日本語は英文の後に）\nWe are excited t",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "research"
-      ]
-    },
-    {
-      "id": "eb4ac9bf-9e97-4ec7-a331-175bb71d1a48",
-      "name": "AI Command Center",
-      "url": "https://www.invook.ai",
-      "oneLiner": "One place for your team's agents, connections, apps, and knowledge.",
-      "description": "Invook Beta\nOne place for your team's agents, connections, apps, and knowledge. Scale productivity without adding headcount.\nUse the browser to find LinkedIn leads that match our ICP, enrich each one with company context, and add a clean outreach list to HubSpot.\nWhen a prospect opens an outbound email, research their company, check CRM context, and draft a personalized follow-up I can approve.\nHa",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "marketing",
-        "productivity"
-      ]
-    },
-    {
-      "id": "80fb9053-d1b1-421e-bd1d-851ea4ff1c02",
-      "name": "LoomStack",
-      "url": "https://loomstack.co/",
-      "oneLiner": "Claude Code is how developers build.",
-      "description": "THE ORCHESTRATION LAYER FOR AI-NATIVE ENGINEERING\nAgentic engineering at scale\nClaude Code is how developers build. LoomStack is how organizations ship. Autonomous execution, aligned to your people, processes, and policies.\nAI makes engineers faster. It makes coordination harder.\nReviews don't scale\nAI multiplies engineering output. Review capacity doesn't.\nCoordination doesn't scale\nAgents move a",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "5a841562-2726-480b-9275-6ecbed9557f7",
-      "name": "AI Built a Nuke and Still Lost",
-      "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
-      "oneLiner": "I Gave an AI a Civilization to Run.",
-      "description": "I Gave an AI a Civilization to Run. It Built a Nuke.\nEither AI is ready to help run a country, or it can't be trusted with a board game. The honest answer is both.\nI gave an AI a civilisation to run. By the midgame it was winning: a trade network that dominated the map, alliances on every border, a diplomatic victory within reach. It had outbuilt, outearned, and outmanoeuvred every rival on the bo",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "research"
       ]
     }
   ]
