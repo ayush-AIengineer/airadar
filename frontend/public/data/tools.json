@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-06-24T09:32:32.321299+00:00",
-  "count": 24,
+  "generatedAt": "2026-06-25T09:23:42.273889+00:00",
+  "count": 29,
   "tools": [
     {
-      "id": "4d6058c3-f0df-44cf-b798-67afa1c1bca5",
+      "id": "381ca454-1d31-4c36-afce-75a15e29af16",
+      "name": "ShipGenAI",
+      "url": "https://github.com/benlamiro/ShipGenAI",
+      "oneLiner": "ShipGenAI is a curated collection of 50 complete, production-ready AI SaaS products you can launch under your own brand — this weekend.",
+      "description": "ShipGenAI is a curated collection of 50 complete, production-ready AI SaaS products you can launch under your own brand — this weekend.\nEach app ships with:\n- 💳 Stripe checkout + webhooks — credit-based billing, webhook confirmation, automatic credit deduction\n- 🔐 Google OAuth — zero auth to build or maintain\n- 🤖 100+ AI models via MuAPI — swap models without touching app code; handles async polli",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data",
+        "image"
+      ]
+    },
+    {
+      "id": "070aeefd-bb03-4519-8c2b-d3293991a55e",
       "name": "Hello-Agents",
       "url": "https://github.com/Reyzowter/Hello-Agents",
       "oneLiner": "You signed in with another tab or window.",
@@ -14,12 +31,29 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/Reyzowter/Hello-Agents",
       "categories": [
-        "design",
-        "agents"
+        "agents",
+        "design"
       ]
     },
     {
-      "id": "f9c7a006-8a16-49d9-9144-e31bfa16a262",
+      "id": "3dd34822-6b89-4ce1-943c-370ea4c9290b",
+      "name": "potato",
+      "url": "https://github.com/onism1767-creator/potato",
+      "oneLiner": "Not a crawler, not an \"AI-ranking truth detector\", not a recommendation engine.",
+      "description": "Not a crawler, not an \"AI-ranking truth detector\", not a recommendation engine. Potato is a reproducible proxy measurement — every result represents only this engine, under this exact config.\nPotato measures how visible your brand is inside Claude's web-search answers. It asks Claude a fixed set of frozen questions, collects every brand mention and source citation, then scores them with determinis",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "search"
+      ]
+    },
+    {
+      "id": "d8f07f9b-c81c-41d3-8f1c-a31dc09c931d",
       "name": "tokenslim",
       "url": "https://github.com/nuoyazhizhou/tokenslim",
       "oneLiner": "High-performance Rust token compression engine for LLM inputs.",
@@ -30,13 +64,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/nuoyazhizhou/tokenslim.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "9927646c-ffa6-4fa7-bfa1-e1fd82c49300",
+      "id": "a6dd5926-2cfe-4d67-8621-242f4143ab64",
       "name": "EatWise1",
       "url": "https://github.com/qwepablo12/EatWise1",
       "oneLiner": "EatWise is a calorie and macro tracker that acts as a dedicated \"Nutrition OS\" for athletes.",
@@ -51,7 +85,7 @@
       ]
     },
     {
-      "id": "21c6d911-1740-46da-a129-fd150cbddb5b",
+      "id": "17a3cd65-a35c-4b8d-a039-c0fb227ad1d5",
       "name": "heartmorrow",
       "url": "https://github.com/HMDSimDev/heartmorrow",
       "oneLiner": "Heartmorrow is a fully local dating + world simulator powered by your own language model.",
@@ -68,7 +102,7 @@
       ]
     },
     {
-      "id": "7cec82b3-21a8-4602-94c1-c50354189bcf",
+      "id": "cc6decea-cace-402b-821f-820bd6e5fadb",
       "name": "recall",
       "url": "https://github.com/raiyanyahya/recall",
       "oneLiner": "Claude Code starts every session cold.",
@@ -79,13 +113,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "security"
       ]
     },
     {
-      "id": "4e9847fa-4e74-4c57-b550-f2670284a952",
+      "id": "8842d4e9-dffb-4c3e-a7a6-3aa3a581bca3",
       "name": "TensorFold",
       "url": "https://github.com/ashhart/TensorFold",
       "oneLiner": "TensorFold Runtime is an exact-first local inference runtime for hosting standard transformer model files with less resident memory pressure.",
@@ -96,30 +130,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "writing"
       ]
     },
     {
-      "id": "1424074d-23f3-4bad-99ef-53c18d93c612",
-      "name": "conduit",
-      "url": "https://github.com/tsouth89/conduit",
-      "oneLiner": "Your agent doesn't need 500 tools loaded on every request.",
-      "description": "Your agent doesn't need 500 tools loaded on every request. It needs 3.\nConduit is a local MCP (Model Context Protocol) gateway. Every MCP server you connect dumps all of its tools into your agent's context on every single request, and it adds up fast: just 3 servers (62 tools) cost ~24,000 tokens of definitions before you've asked anything. Conduit puts your servers behind one gateway that adverti",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "search"
-      ]
-    },
-    {
-      "id": "b3e4065e-9936-42ee-9b4c-0e5995295a01",
+      "id": "d4f95953-4b22-4af9-a0e6-fc6dacb83cc6",
       "name": "Nexora",
       "url": "https://github.com/ParendumOU/Nexora",
       "oneLiner": "Multi-tenant AI-agent orchestration platform.",
@@ -131,12 +148,12 @@
       "githubUrl": "https://github.com/ParendumOU/Nexora.git",
       "categories": [
         "agents",
-        "rag",
-        "security"
+        "security",
+        "rag"
       ]
     },
     {
-      "id": "71a76cfd-a9d9-4be0-a48e-86caae7a6bf3",
+      "id": "4e515211-ce32-4618-9c59-514a5d3dcd82",
       "name": "Windows-Copilot-API",
       "url": "https://github.com/sums001/Windows-Copilot-API",
       "oneLiner": "Using your own Microsoft Copilot account.",
@@ -147,114 +164,130 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "writing"
       ]
     },
     {
-      "id": "16044c11-116f-4bac-b115-5a7a745dc539",
-      "name": "medusa-clip",
-      "url": "https://github.com/Edualnog/medusa-clip",
-      "oneLiner": "Cortes verticais 9:16 nível Opus Clip, feitos pra gameplay — grátis, open source e 100% no seu PC.",
-      "description": "Cortes verticais 9:16 nível Opus Clip, feitos pra gameplay — grátis, open source e 100% no seu PC.\n🌐 medusaclip.com · ⬇️ Download · 💬 Discord · 💛 Apoiar\nO Medusa Clip transforma gameplays longos em clipes verticais 9:16 prontos pra TikTok, Reels e YouTube Shorts. O motor é especializado em gameplay: combina áudio, movimento e visão pra achar clutch, fail, clímax e reação — com hook, legenda karaok",
+      "id": "6504be09-274f-4a82-9298-a44582af750e",
+      "name": "lemma-platform",
+      "url": "https://github.com/lemma-work/lemma-platform",
+      "oneLiner": "The open-source workspace where humans and AI agents work as one team.",
+      "description": "The open-source workspace where humans and AI agents work as one team.\nAgents hold roles, own tasks, and follow your permissions — right alongside your teammates. Their output lands as rows in your tables, not paragraphs in a chat scrollback.\nRuns on your machine — or on lemma.work when you'd rather not host. Powered by the Claude or ChatGPT subscription you already pay for, your own keys, or any ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Edualnog/medusa-clip",
+      "githubUrl": "https://github.com/lemma-work/lemma-platform.git",
       "categories": [
-        "design",
+        "code",
         "agents",
-        "code"
+        "design"
       ]
     },
     {
-      "id": "5e2eb8da-b24f-4df6-90a3-53adffde35a2",
-      "name": "ai-memory-vault",
-      "url": "https://github.com/jaredrhod/ai-memory-vault",
-      "oneLiner": "Give your AI a real, persistent memory.",
-      "description": "Give your AI a real, persistent memory. This is the open-source system that turns an Obsidian vault into your AI's working memory, so it remembers everything across sessions, lives outside the model with no size ceiling, and pulls back exactly what it needs in one step. Free to use, share, and build on, just not to resell (see LICENSE).\n- ai-memory-vault.md: the build script. Run it inside Claude ",
+      "id": "0764026f-9432-4317-9882-a58f762da819",
+      "name": "Best of AI is now open source",
+      "url": "https://bestofai.io/journal/best-of-ai-is-now-open-source/",
+      "oneLiner": "Best of AI is now open source!",
+      "description": "Best of AI is now open source!\nA year of handpicking AI tools — now the repo, leaderboard, and deploy pipeline are on GitHub for anyone to use.\nWe started Best of AI about a year ago as a curated list of AI tools worth using. Today the whole thing is open source on GitHub — data, site, scripts, CI. Community-driven from here on out.\nFlat files, no database\nEvery tool is a Markdown file in content/",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
+        "code",
         "design",
-        "code",
-        "productivity"
-      ]
-    },
-    {
-      "id": "d5b795fa-5eda-4c9d-bdba-78c6c1b5dfba",
-      "name": "GitHub Is Becoming a Giant AI Code Dump",
-      "url": "https://maref.cc/en/blog/vibe-coding-crisis/",
-      "oneLiner": "GitHub has 630 million repos.",
-      "description": "GitHub Is Becoming a Giant AI Code Dump\nBy MAREF Engineering\nGitHub has 630 million repos. Nearly half of all new code is written by AI.\nSounds like a productivity explosion, right?\nBut there's another number in that same report: developer trust in AI code dropped from 77% to 60%. More people are using it. Fewer people believe in it.\nAnd it gets worse.\nHalf the projects you see are fake\nCarnegie M",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "writing",
         "data"
       ]
     },
     {
-      "id": "ebbd5732-cbe3-4d4e-a30b-706447f181de",
-      "name": "AI Use Disclaimer",
-      "url": "https://libls.org/ai-use",
-      "oneLiner": "This page details to which extent (if at all) AI is being used in the creation and maintenance of the software.",
-      "description": "This page details to which extent (if at all) AI is being used in the creation and maintenance of the software. It applies to all files and content in this project’s Git repositories, all releases on GitHub and elsewhere, all content on this website, all public-facing communication, and all notes and documentation, past and present.\nThis page is updated whenever this changes. The last updated date",
+      "id": "f1efb0cb-7369-4b83-918e-9a4b14916d27",
+      "name": "Japanese Language AI Tutor in 3D classroom",
+      "url": "https://unihongo.com",
+      "oneLiner": "Practice real conversations with our AI teacher who adapts to your level and corrects you in real time.",
+      "description": "AI Speaking\nPractice real conversations with our AI teacher who adapts to your level and corrects you in real time.\nChoose from 48+ topics across daily life, travel, work, and more — from ordering at a restaurant to nailing a job interview.\nPick your favorite teacher personality — gentle, strict, funny, or relaxed — and enjoy an immersive 3D classroom experience.\nSkill Building\nPractice your Japan",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "code",
-        "writing"
+        "design"
       ]
     },
     {
-      "id": "0e1db2c7-5cb0-41f8-b348-61df09e5b373",
-      "name": "Workdir",
-      "url": "https://workdir.dev/",
-      "oneLiner": "One API to create, exec, and delete Firecracker microVMs.",
-      "description": "One API to create, exec, and delete Firecracker microVMs. The hosted API is a small capacity-limited demo with $0.50 in credits, not a production cloud. Self-hosting is the production path.\nThree ways a sandbox comes up. Every create response tells you which one you got, with the full timing trace.\ndon't trust this table — every create returns its own boot_path\n,\ntimings_ms\n, and metered quote. tr",
+      "id": "bcaa6cbf-a6c2-4cd4-8e19-41673835d997",
+      "name": "Turn any Next.js app AI native in 5 minutes",
+      "url": "https://www.betteragent.dev/",
+      "oneLiner": "The agent layer your SaaS is missing.",
+      "description": "The agent layer your SaaS is missing.\nPoint BetterAgent at your codebase. It reads your routes and server actions - and now your users get an agent that does real work inside the product you already shipped.\nRoutes, server actions, client actions. Same protocol.\nThree primitives in your code; two messages on the wire. The agent reads data through routes, mutates through server actions, and steers ",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
         "agents",
-        "code"
+        "marketing"
       ]
     },
     {
-      "id": "e5aa04cf-d8b1-4030-a8e3-ef24ef74f398",
-      "name": "RainBreak App Mac",
-      "url": "https://rainbreak.franzai.com/",
-      "oneLiner": "Calm, full-screen rain that rises, holds, and softly settles - not a ticking timer bar.",
-      "description": "Actually relaxing\nCalm, full-screen rain that rises, holds, and softly settles - not a ticking timer bar. Somewhere to put your eyes down and let your shoulders drop.\n// the relaxing rain break for macOS\nOne keystroke turns your screen into calm rain and gives you a real break - 1 to 21 minutes. Your AI agents keep shipping while you breathe. A free macOS menu-bar app.\nTake a short break. A rain b",
-      "pricing": "free",
+      "id": "5f3791c6-3124-4f2f-a1cd-1cf721dcee60",
+      "name": "Find where multi-agent AI systems break before production",
+      "url": "https://github.com/surajkumar811/swarm-test",
+      "oneLiner": "Find where your multi-agent AI system breaks — before production does.",
+      "description": "Find where your multi-agent AI system breaks — before production does.\nStatic reliability testing for CrewAI, LangGraph, AutoGen, and custom agent systems. No live LLM calls, no API cost.\nChain 14 agents at 95% reliability each and your system is ~49% reliable end-to-end (0.95^14\n). The failures aren't inside any single agent — they're in how they connect: silent cascade failures, hidden single po",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/surajkumar811/swarm-test",
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "228e4cb3-84c2-44df-84b8-767ff2e33d22",
+      "name": "TronBrowser is an open-source",
+      "url": "https://tronbrowser.dev/",
+      "oneLiner": "TronBrowser is an open-source, privacy-first, AI-native web browser built on Ungoogled Chromium.",
+      "description": "TronBrowser is an open-source, privacy-first, AI-native web browser built on Ungoogled Chromium. No telemetry, no ads, no sponsored tabs — with a built-in AI sidebar (bring your own keys) and an agent-friendly CLI. Free and open source under the MIT License.\ncurl -fsSL https://tronbrowser.dev/install.sh | sh\ntron\nCLI:tron <url>\nto open a URL ·\ntron upgrade\n·\ntron remove\n·\ntron version\nWindows & ma",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "1d00786c-40e8-461f-a968-897b67f66e8c",
+      "name": "dot-loom",
+      "url": "https://github.com/usedotai/dot-loom",
+      "oneLiner": "Dot Loom is a provider-pluggable orchestration runtime for multi-model inference.",
+      "description": "Dot Loom is a provider-pluggable orchestration runtime for multi-model inference.\nIt is not a new foundation model and it does not pretend to be one. It is a research and developer framework for composing existing models into role-based pipelines:\nrouter -> drafter -> critic/verifier -> finalizer\nThe goal is to make the orchestration layer observable, configurable, and portable. A user can run the",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
+        "code",
         "agents",
-        "code"
+        "design"
       ]
     },
     {
-      "id": "6cfd5da0-8d85-4a8d-8cb7-2fd7562fb211",
+      "id": "ad66ea5c-65d1-416e-b6a0-0dcb519875fc",
       "name": "ESEILANE",
       "url": "https://github.com/Simpl3x3/ESEILANE",
       "oneLiner": "ESEILANE is a next-generation, high-performance Knowledge Graph engine purpose-built for Large Language Models (LLMs), GraphRAG, and AI-native applications.",
@@ -265,13 +298,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "rag"
       ]
     },
     {
-      "id": "571ef91c-4f63-429c-8581-c76faecba90c",
+      "id": "bc85e480-89b9-4c0d-8716-57ac127cabc0",
       "name": "doc-skills",
       "url": "https://github.com/x0c/doc-skills",
       "oneLiner": "Claude Code Skills for bootstrapping, compacting, and maintaining AI-readable project documentation — so coding agents stop re-discovering the same project context every session.",
@@ -282,13 +315,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/x0c/doc-skills.git",
       "categories": [
-        "agents",
         "code",
+        "agents",
         "rag"
       ]
     },
     {
-      "id": "9640d6a5-2b62-4dc2-bcfd-c7315ed337f6",
+      "id": "655eb1d8-be03-4c3d-a3c2-3a899af671f7",
+      "name": "zero-drift",
+      "url": "https://github.com/obrenoalvim/zero-drift",
+      "oneLiner": "A Claude Code skill that keeps your AI grounded across long sessions.",
+      "description": "A Claude Code skill that keeps your AI grounded across long sessions. Two rules, applied from the first response to the last.\nLong sessions break down. The context window fills up, so you open a fresh Claude instance and burn ten minutes re-explaining what you were doing. By then the AI has started drifting: it invents work it never did and forgets decisions you already made.\nZero Drift gives you ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/obrenoalvim/zero-drift",
+      "categories": [
+        "code",
+        "design",
+        "marketing"
+      ]
+    },
+    {
+      "id": "391a52ae-ab74-44da-846d-00e933f96891",
       "name": "HumanAI",
       "url": "https://github.com/MADEVAL/HumanAI",
       "oneLiner": "If the reader forgets a machine was involved, you won.",
@@ -305,7 +355,7 @@
       ]
     },
     {
-      "id": "48ebc89c-413c-4753-a205-7ee271c50035",
+      "id": "650c4289-8d10-42e1-b7d0-f814951ff030",
       "name": "HyperCat-Agent",
       "url": "https://github.com/savannah-i-g/HyperCat-Agent",
       "oneLiner": "You talk to me the way you'd talk to a sharp colleague who is good company and tells you the truth.",
@@ -316,13 +366,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
+        "code",
         "agents",
-        "code"
+        "design"
       ]
     },
     {
-      "id": "f00ab32d-9478-4930-906d-33a30414265d",
+      "id": "1d71331d-f8b1-4041-b47d-a240bace3876",
       "name": "neuralyzer",
       "url": "https://github.com/gintasz/neuralyzer",
       "oneLiner": "Watch the first minute of this video as an introduction.",
@@ -333,12 +383,29 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "code"
+        "code",
+        "agents"
       ]
     },
     {
-      "id": "15c50dfa-af60-41eb-b048-7669c1376be7",
+      "id": "68c4c446-29de-421e-8330-17d75d42bcbf",
+      "name": "umadev",
+      "url": "https://github.com/umacloud/umadev",
+      "oneLiner": "umadev is a single command-line tool that drives an AI coding CLI you already have — Claude Code, Codex, or OpenCode — as one continuous session.",
+      "description": "umadev is a single command-line tool that drives an AI coding CLI you already have — Claude Code, Codex, or OpenCode — as one continuous session. It owns no model of its own: the model your base is connected to is the brain.\nYou describe what you want in plain language, and umadev drives the base to build it: it plans the work, writes the code, convenes a review team — product, architecture, desig",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/umacloud/umadev.git",
+      "categories": [
+        "code",
+        "design",
+        "rag"
+      ]
+    },
+    {
+      "id": "a049e0a2-607a-4d95-a509-a9084cc02f59",
       "name": "llm-ledger",
       "url": "https://github.com/verbio-labs/llm-ledger",
       "oneLiner": "A verifiable, time-aware knowledge ledger your LLM keeps for you.",
@@ -353,7 +420,7 @@
       ]
     },
     {
-      "id": "eb03be1c-55cb-41d4-bf72-a32968942b11",
+      "id": "01de164b-7b6d-4467-bbaa-5b1e837c806e",
       "name": "agent-browser",
       "url": "https://github.com/dondai1234/agent-browser",
       "oneLiner": "Built for the agent that uses it, not a human.",
@@ -364,13 +431,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
+        "code",
         "agents",
-        "code"
+        "design"
       ]
     },
     {
-      "id": "44d5d235-7c5b-4af5-98f3-a08c9bcb346b",
+      "id": "c8ebdddf-6dbf-47a5-b551-fb187a353aa3",
       "name": "fullstack-ai-agent-roadmap",
       "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
       "oneLiner": "fullstack-ai-agent-roadmap",
@@ -385,20 +452,37 @@
       ]
     },
     {
-      "id": "999c0f5b-aa37-496d-beb6-792129a64f5d",
-      "name": "How to Passive-Aggressively Shame People Who Use LLMs Selfishly",
-      "url": "https://joshmoody.org/blog/selfish-ai/",
-      "oneLiner": "Too many slop grenades these days.",
-      "description": "Too many slop grenades these days. LLMs are cool and all, but does every Slack message need to be a bulleted list where the first sentence of each item is bold?\nI recently read one too many blog posts with the phrase, “it’s not X, it’s Y” as a one-line paragraph and finally snapped. It is now my life’s mission to purge selfish LLM usage from the internet.\nDefine “selfish”\nSelfish LLM usage: A situ",
+      "id": "68730bbc-9779-491d-851e-d3ca99ced211",
+      "name": "Hezo",
+      "url": "https://hezo.ai",
+      "oneLiner": "Hezo hires AI agents, runs them, and ships their work — without ever handing them your keys.",
+      "description": "A whole AI workforce.\nAnd you're the boss.\nHezo hires AI agents, runs them, and ships their work — without ever handing them your keys.\nThree moves to a working team.\nCreate a project\nDescribe the work to the CEO. It scopes the project and provisions a team — each in its own container.\nSet the direction\nLay out the project plan, then hire or customize agents, tune their prompts, and give any agent",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
-        "writing"
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "d3862cd1-7e50-46b6-bba4-e2081da3d8ab",
+      "name": "Promptctl",
+      "url": "https://github.com/naya-ai/promptctl",
+      "oneLiner": "Git for your AI prompts.",
+      "description": "Git for your AI prompts.\nTrack, version, diff, and rollback your LLM prompts — just like you version your code.\n$ promptctl commit system --file prompts/system.txt -m \"initial\"\n✓ Committed prompt \"system\" as v1\n$ promptctl commit system --file prompts/system.txt -m \"added citation rule\"\n✓ Committed prompt \"system\" as v2\n$ promptctl diff system\n--- system v1 (2026-06-01 09:12)\n+++ system v2 (2026-0",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/naya-ai/promptctl.git",
+      "categories": [
+        "code",
+        "agents",
+        "design"
       ]
     }
   ]
