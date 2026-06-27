@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-26T09:29:12.991464+00:00",
-  "count": 20,
+  "generatedAt": "2026-06-27T08:37:30.358938+00:00",
+  "count": 26,
   "tools": [
     {
-      "id": "49e3f78d-5b71-4222-aa9b-6a216a413b6c",
+      "id": "c3352327-4189-4e92-8c39-bbf68ce177b9",
       "name": "ShipGenAI",
       "url": "https://github.com/benlamiro/ShipGenAI",
       "oneLiner": "ShipGenAI is a curated collection of 50 complete, production-ready AI SaaS products you can launch under your own brand — this weekend.",
@@ -15,12 +15,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "data",
-        "image"
+        "image",
+        "data"
       ]
     },
     {
-      "id": "0e5a1fd3-0df7-4f14-85ac-6d85b57b92cf",
+      "id": "d354f1d9-4b33-45fa-b903-a9e2e659585b",
       "name": "Hello-Agents",
       "url": "https://github.com/Reyzowter/Hello-Agents",
       "oneLiner": "You signed in with another tab or window.",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "id": "ac91ab4e-b97b-478c-a3aa-e8980c3ccd00",
+      "id": "ed8fbe8c-3103-466b-848f-bd82d959a294",
       "name": "potato",
       "url": "https://github.com/onism1767-creator/potato",
       "oneLiner": "Not a crawler, not an \"AI-ranking truth detector\", not a recommendation engine.",
@@ -47,13 +47,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "search"
       ]
     },
     {
-      "id": "9d69f1a7-4b8f-4757-8e88-36fdf2bc3e5c",
+      "id": "5ba45d7c-3228-47c0-9f77-0d676c95b72a",
       "name": "tokenslim",
       "url": "https://github.com/nuoyazhizhou/tokenslim",
       "oneLiner": "High-performance Rust token compression engine for LLM inputs.",
@@ -64,13 +64,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/nuoyazhizhou/tokenslim.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "6b728444-9ea2-48f2-b228-6a143f83270f",
+      "id": "06d245ba-4c84-44a3-9a4e-3a393d63efbf",
       "name": "EatWise1",
       "url": "https://github.com/qwepablo12/EatWise1",
       "oneLiner": "EatWise is a calorie and macro tracker that acts as a dedicated \"Nutrition OS\" for athletes.",
@@ -85,24 +85,24 @@
       ]
     },
     {
-      "id": "c2b51fe7-c38d-4681-8074-23dc28addccf",
-      "name": "heartmorrow",
-      "url": "https://github.com/HMDSimDev/heartmorrow",
-      "oneLiner": "Heartmorrow is a fully local dating + world simulator powered by your own language model.",
-      "description": "Heartmorrow is a fully local dating + world simulator powered by your own language model. You build the cast and the world they live in, then live a relationship sim in your browser: go on dates with streamed, in-character dialogue, text back and forth on an in-game phone, play minigames, shop for gifts, and watch relationships grow, drift, define themselves, or fall apart across a living in-game ",
-      "pricing": "free",
+      "id": "2b5357d9-3a45-4202-9989-c4520fe2490c",
+      "name": "squadcoder",
+      "url": "https://github.com/squadcodercom/squadcoder",
+      "oneLiner": "Other AI coding tools give you one assistant.",
+      "description": "____ _ ____ _ / ___| __ _ _ _ __ _ __| |/ ___|___ __| | ___ _ __ \\___ \\ / _` | | | |/ _` |/ _` | | / _ \\ / _` |/ _ \\ '__| ___) | (_| | |_| | (_| | (_| | |__| (_) | (_| | __/ | |____/ \\__, |\\__,_|\\__,_|\\__,_|\\____\\___/ \\__,_|\\___|_| |_|\nOther AI coding tools give you one assistant. SquadCoder gives you a whole company — an Architect, Developers, QA, Security, UI/UX, and a CTO quality gate — that pl",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/squadcodercom/squadcoder.git",
       "categories": [
-        "data",
-        "image",
-        "voice"
+        "code",
+        "agents",
+        "security"
       ]
     },
     {
-      "id": "2b537413-e5b1-4e1f-b73c-9756b6263cea",
+      "id": "f2763ee5-7266-410c-b570-722db14ab2fa",
       "name": "ai-coding-deals",
       "url": "https://github.com/codertesla/ai-coding-deals",
       "oneLiner": "You signed in with another tab or window.",
@@ -113,13 +113,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
+        "code",
         "design",
-        "agents",
-        "code"
+        "agents"
       ]
     },
     {
-      "id": "e6ce43c5-9e86-4d56-92b9-d8d2d4f3815e",
+      "id": "7bba9071-2a13-4e91-a588-8b0d2e6c09b1",
       "name": "lemma-platform",
       "url": "https://github.com/lemma-work/lemma-platform",
       "oneLiner": "The open-source workspace where humans and AI agents work as one team.",
@@ -130,47 +130,113 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/lemma-work/lemma-platform.git",
       "categories": [
+        "code",
         "design",
-        "agents",
-        "code"
+        "agents"
       ]
     },
     {
-      "id": "b27beecd-6ae3-438d-a0b5-afb9355d951c",
-      "name": "Why current LLM costs are not sustainable",
-      "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-      "oneLiner": "The solution that will emerge will be simpler than we expect.",
-      "description": "AI and Cloud Costs\nAI has a cost problem. The solution that will emerge will be simpler than we expect.\nA lot of companies are getting bitten by high AI costs. Uber burned through the entire year’s AI budget in just 4 months and Microsoft, Salesforce and Github are taking steps to reduce AI spend by employees.\nOn the other hand, AI is making many programming tasks very easy and also keeps helping ",
+      "id": "bed9876e-bd47-495a-a952-f6ee8d2c784e",
+      "name": "Brytlog",
+      "url": "https://github.com/Guy-Sela/brytlog",
+      "oneLiner": "Brytlog replaces raw logs with AI summary, thus saving developers time, trouble and money.",
+      "description": "Brytlog replaces raw logs with AI summary, thus saving developers time, trouble and money.\nIn agentic workflows brytlog acts as a cheap, fast pre-processor to the chief agent.\nFor example, Claude Opus 4.8 (chief agent) might run brytlog python run.py\n, rather than the plain python run.py\n. This way, instead of having to process the entire raw output on its own (slow, expensive, bloats context), it",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "6297c9fd-c4f2-4b49-9ce4-c7cdbbc534aa",
+      "name": "OpenClaw Launch",
+      "url": "https://openclawlaunch.com",
+      "oneLiner": "Your personal AI agent — no install, no Mac Mini, no command line.",
+      "description": "Your personal AI agent — no install, no Mac Mini, no command line. Just hit deploy, done.\nIntegrations\nYour AI agent can send emails, manage calendars, post to Slack, and more — no API keys or coding needed. Just connect and go.\nStart for $3. Scale when you need to. No hidden fees. Cancel anytime.\n30 minutes, no card required\n$6 then $6/mo\nBring Your Own Key\nAlready paying for ChatGPT Plus? Connec",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "d5e8ef9e-d146-430f-8634-661a99ab8b40",
+      "name": "Tested",
+      "url": "https://trytested.com",
+      "oneLiner": "We test the tools so the rankings can't be bought.",
+      "description": "292 tools agent-scored · 292 on the rack\nWe test the tools so the rankings can't be bought.\nMost “best AI tools” lists are paid placements. We score every tool with an independent panel of agents — Anthropic, OpenAI, Gemini & Grok — and publish every number. The ranking is the tool, not the budget.\nMost natural AI voice generation and cloning.\n- free tier\n- yes\n- from\n- $5/mo\n- category\n- AI Voice",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "image",
         "data"
       ]
     },
     {
-      "id": "638c5daf-1222-46b9-ab42-c3ff92703eef",
-      "name": "Shotlist",
-      "url": "https://github.com/varmabudharaju/shotlist",
-      "oneLiner": "Screenshots for your docs — as code.",
-      "description": "Screenshots for your docs — as code. One committed shot list captures your web pages, your real terminal windows, and stateful CLI sessions — and regenerates them all with a single command.\n- The problem\n- Quickstart\n- One shot list, four kinds of shot\n- Use cases\n- Proof reports & pipelines\n- Why shotlist, and not the others\n- How it works\n- Use with Claude\n- Commands\n- Develop\nDocumenting a feat",
-      "pricing": "free",
+      "id": "4c577485-39fb-4324-a4dc-64f68002d804",
+      "name": "I scanned 87 MCP servers for agent-authority hygiene",
+      "url": "https://capframe.ai/leaderboard",
+      "oneLiner": "The MCP security leaderboard.",
+      "description": "The MCP security leaderboard.\nEvery published MCP server, graded against the deterministic capframe rule engine. Score 100 is a clean surface; every Critical finding takes 10 points. High 4, Medium 2, Low 1. No black boxes — the formula is public, the rules are open-source.\n25Find-A-Domain MCPhttps://api.findadomain.dev/mcpA9821M\n- mediumTool `check_domain` accepts unconstrained string input· chec",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/varmabudharaju/shotlist",
+      "githubUrl": null,
       "categories": [
-        "design",
+        "code",
         "agents",
-        "code"
+        "security"
       ]
     },
     {
-      "id": "18e0e7fb-c447-4a5f-9479-5c2df0458689",
+      "id": "e19bb3f3-89e7-4d15-817c-d90e027eee4c",
+      "name": "semaphore",
+      "url": "https://github.com/lucianodiisouza/semaphore",
+      "oneLiner": "Floating traffic light for AI coding agents.",
+      "description": "Floating traffic light for AI coding agents. Shows when your agent is idle, thinking, or writing files, without switching windows or reading the terminal.\nSemaphore is a small always-on-top widget in the system tray. AI tools send activity updates through hooks, and Semaphore updates the light.\n- Download\n- Quick start\n- Using the app\n- Supported tools\n- semctl CLI\n- Configuration\n- How it works\n-",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "writing"
+      ]
+    },
+    {
+      "id": "417feb73-8a02-4958-8d69-0df013ddd6a0",
+      "name": "recoil",
+      "url": "https://github.com/EclipseElips/recoil",
+      "oneLiner": "Memory for AI coding agents.",
+      "description": "Memory for AI coding agents. It remembers the things that go wrong — a failed command, a revert, a correction — and reminds you when you're about to hit them again. One Go binary, a plain text file, no embeddings.\n- Remembers a lesson tied to the situation it happened in — the files, the error text, the keywords around it.\n- Brings that lesson back when you're in a similar situation again, matched",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "36a4193a-1dd0-4932-8b2d-fe5434b68fb1",
       "name": "GITVERSE",
       "url": "https://github.com/GraeLefix/GITVERSE",
       "oneLiner": "Reverse engineer any codebase into a build prompt.",
@@ -181,13 +247,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/GraeLefix/GITVERSE.git",
       "categories": [
-        "agents",
         "code",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "6a07cc53-6f65-4b0b-99f9-6a73ed06cd2f",
+      "id": "812fc0fd-a344-480a-ba01-b5f4da9a3177",
+      "name": "auto-paper-collecter",
+      "url": "https://github.com/PenghaoJiang/auto-paper-collecter",
+      "oneLiner": "venv/bin/activate # Windows: .",
+      "description": "2026-06-27 · 已上架 SkillHub 🎉\n本 skill 现已登陆 SkillHub，可在平台上直接浏览 / 获取与安装。\n2026-06-26 · Agent Skill 现可一键安装为 Claude Code 插件，并支持 Codex 🤖🔌\n除了网页版，本仓库内置一个 Claude Code / Codex 通用的 Agent Skill —— 一句话 「运行我的文献雷达」 就能跑完整条流水线、产出当日文献摘要，纯 Python 标准库、零依赖、免 AI API key。 一行命令安装：\n/plugin marketplace add PenghaoJiang/auto-paper-collecter\n→/plugin install auto-paper-collecter@auto-paper-collecter\n。 同时新增AGENTS.md\n，让 Codex / ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/PenghaoJiang/auto-paper-collecter.git",
+      "categories": [
+        "code",
+        "agents",
+        "research"
+      ]
+    },
+    {
+      "id": "ac887c38-506a-4a3c-a8f5-6b553e72b153",
       "name": "dot-loom",
       "url": "https://github.com/usedotai/dot-loom",
       "oneLiner": "Dot Loom is a provider-pluggable orchestration runtime for multi-model inference.",
@@ -198,13 +281,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
         "design",
-        "agents",
-        "code"
+        "agents"
       ]
     },
     {
-      "id": "445ae61d-88ca-4b75-8be0-7b1997f77929",
+      "id": "cd3d4d3f-0ea3-4302-ae81-20e159b5abb1",
       "name": "gke-sre-ai-agent",
       "url": "https://github.com/truongnh1992/gke-sre-ai-agent",
       "oneLiner": "CLI — an AI on-call SRE for Google Kubernetes Engine.",
@@ -215,13 +298,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/truongnh1992/gke-sre-ai-agent.git",
       "categories": [
+        "code",
         "design",
-        "agents",
-        "code"
+        "agents"
       ]
     },
     {
-      "id": "45d9db1a-4792-4742-b13f-58ed077c4cc9",
+      "id": "60bde43e-162c-4fcc-a4c5-ddbd9276bed7",
       "name": "ESEILANE",
       "url": "https://github.com/Simpl3x3/ESEILANE",
       "oneLiner": "ESEILANE is a next-generation, high-performance Knowledge Graph engine purpose-built for Large Language Models (LLMs), GraphRAG, and AI-native applications.",
@@ -232,13 +315,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "rag"
       ]
     },
     {
-      "id": "7fbad5c8-dce3-4040-886f-89a4822b951c",
+      "id": "e0cbc825-a538-4048-a4f0-d51d3e17d052",
       "name": "doc-skills",
       "url": "https://github.com/x0c/doc-skills",
       "oneLiner": "Claude Code Skills for bootstrapping, compacting, and maintaining AI-readable project documentation — so coding agents stop re-discovering the same project context every session.",
@@ -249,13 +332,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/x0c/doc-skills.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "writing"
       ]
     },
     {
-      "id": "1c3d141a-3529-41fa-8c4e-836bb956e2dc",
+      "id": "15a52a8d-22f2-4f8e-8b88-cfc1e3d13e32",
       "name": "zero-drift",
       "url": "https://github.com/obrenoalvim/zero-drift",
       "oneLiner": "A Claude Code skill that keeps your AI grounded across long sessions.",
@@ -266,13 +349,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/obrenoalvim/zero-drift",
       "categories": [
-        "design",
         "code",
+        "design",
         "marketing"
       ]
     },
     {
-      "id": "c255d054-248c-48fe-bd93-da4dceeda663",
+      "id": "63e1544c-0c0b-441a-8ac7-76d85c7ecaa4",
       "name": "HumanAI",
       "url": "https://github.com/MADEVAL/HumanAI",
       "oneLiner": "If the reader forgets a machine was involved, you won.",
@@ -284,46 +367,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "marketing",
-        "writing"
+        "writing",
+        "marketing"
       ]
     },
     {
-      "id": "ea2b1f3a-14a9-4fdd-9911-e329ec8e4544",
-      "name": "HyperCat-Agent",
-      "url": "https://github.com/savannah-i-g/HyperCat-Agent",
-      "oneLiner": "You talk to me the way you'd talk to a sharp colleague who is good company and tells you the truth.",
-      "description": "(The following below was written by this agent, the actual README is in the release)\nHi. I'm HyperCat.\nYou talk to me the way you'd talk to a sharp colleague who is good company and tells you the truth. Most of the time that's all this is: a conversation. When the conversation turns into real work, I bring a fleet of worker agents to it, set them going at once, watch what they actually produce, an",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "560c64c5-db31-4846-8fb6-954022f615e5",
-      "name": "agent-rigor",
-      "url": "https://github.com/MeherBhaskar/agent-rigor",
-      "oneLiner": "If you find Agent Rigor helpful for your workflows, we'd appreciate a star!",
-      "description": "If you find Agent Rigor helpful for your workflows, we'd appreciate a star!\nHelp your AI agent adopt software engineering best practices directly into its workflow.\nThe Problem • Quickstart • Core Philosophy • What's Inside • Evaluation\nAI coding agents often struggle not from a lack of intelligence, but from a lack of engineering discipline. Left to their own devices, agents typically:\n- Skip pla",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "4c021acc-c0b7-43d2-9a9f-d513f6164981",
+      "id": "b0ee1bf6-4943-47b9-8b39-b69eed6d83ee",
       "name": "ai-omni-skills",
       "url": "https://github.com/moatazhamada/ai-omni-skills",
       "oneLiner": "My skills scattered everywhere.",
@@ -334,8 +383,60 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
         "design",
-        "code"
+        "agents"
+      ]
+    },
+    {
+      "id": "d448134d-0000-45e6-8b9e-92642ae51358",
+      "name": "AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "oneLiner": "In the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.",
+      "description": "What it Means to Be a Mathematician When AI Does the Math\nResearchers debate motivation, purpose, and the field’s future\nIn the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.D. in applied mathematics. My research focused on simulating how special light waves interact in liquid crystals",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "research"
+      ]
+    },
+    {
+      "id": "708872de-6d50-4d36-b8ec-8bb3f52b25ff",
+      "name": "Boot a tiny app-making OS inside an AI chat",
+      "url": "https://hollingsworthd.github.io/RAu/",
+      "oneLiner": "Try BlueBookOS in ChatGPT.",
+      "description": "Try BlueBookOS in ChatGPT.\nOpen the GPT that runs this page’s BlueBookOS microkernel, then ask it to build a source-first RAu artifact in a live chat sandbox.\nPick your paste.\nTwo installation options. Both buttons copy a complete BlueBookOS boot packet. Pick the version that best matches the AI model you're using.\nLoading selected copy-pasta…\nBlueBookOS\nboots in your chat.\nBlueBookOS is a small s",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "a600a09a-ad4f-487b-b3ec-af179e4176b1",
+      "name": "Deskmate Live",
+      "url": "https://deskmatelive.com/",
+      "oneLiner": "Minimal desktop pet companion for voice, screen context, digital avatars, and quick everyday help that stays within reach.",
+      "description": "Deskmate v 0.1.0\nMinimal desktop pet companion for voice, screen context, digital avatars, and quick everyday help that stays within reach.\nmacOS build is coming soon. Sign up for the waitlist:A tiny companion that is one click away\nDeskmate Live gives you a lightweight voice assistant for everyday desktop work with quick voice controls, optional screen context, avatar reactions, and portal access",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "agents",
+        "voice"
       ]
     }
   ]
