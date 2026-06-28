@@ -1,9 +1,77 @@
 {
-  "generatedAt": "2026-06-27T08:37:30.358938+00:00",
-  "count": 26,
+  "generatedAt": "2026-06-28T08:53:33.760586+00:00",
+  "count": 29,
   "tools": [
     {
-      "id": "c3352327-4189-4e92-8c39-bbf68ce177b9",
+      "id": "c858ac37-f440-4fbe-8bf0-0732654bddef",
+      "name": "Deepseek-API",
+      "url": "https://github.com/sums001/Deepseek-API",
+      "oneLiner": "Using your own DeepSeek account.",
+      "description": "Using your own DeepSeek account. No API key, no credits, no paid plan: it turns the free chat at chat.deepseek.com into an API you can call from code.\nYou can use it in two ways:\n- 🐍 As a Python library: just call\nclient.chat(\"Hi\")\n. Supports streaming and multi-turn conversations. - 🔌 As a local OpenAI-compatible API: runs a server at\nhttp://localhost:8000/v1\nthat speaks the OpenAI format, so the",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "11882c53-854a-435b-b146-d4ccf96b31f0",
+      "name": "cursor-free-api",
+      "url": "https://github.com/xuweizhengo/cursor-free-api",
+      "oneLiner": "This project may have limited functionality.",
+      "description": "⚠️ As of 2026-04-01, Cursor Docs page only providesgemini-3-flash\n. This project may have limited functionality.\nA proxy service that converts Cursor Web Docs free AI API into Anthropic Messages API and OpenAI Chat Completions API, enabling use with Claude Code and Cursor IDE.\n📖 中文文档: README_CN.md\n┌─────────────┐ ┌──────────────┐ ┌──────────────┐\n│ Claude Code │────▶│ │────▶│ │\n│ (Anthropic) │ │ c",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/xuweizhengo/cursor-free-api.git",
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "fe4d5020-8076-444a-b998-bac92bb53190",
+      "name": "github-roast",
+      "url": "https://github.com/hikariming/github-roast",
+      "oneLiner": "Drop a GitHub handle and get, in 30 seconds, a 0–100 value & trust score, a four-tier verdict (🏆 Legend / 💪 Solid / 🫥 NPC / 💩 Cooked), and one brutally honest roast grounded in rea",
+      "description": "English · 中文\nLive: githubroast.dev\nDrop a GitHub handle and get, in 30 seconds, a 0–100 value & trust score, a four-tier verdict (🏆 Legend / 💪 Solid / 🫥 NPC / 💩 Cooked), and one brutally honest roast grounded in real data. Built to expose star-farmers, AI bots, fork-hoarders, and self-merge PR farmers.\nThe scoring core comes from the open-source Claude skill github-account-value\n— this site ports ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "db36af56-1e31-4ef2-9489-a58aa6e0570c",
+      "name": "qcue",
+      "url": "https://github.com/SparkyWen/qcue",
+      "oneLiner": "A capture-first “second brain” that turns fleeting thoughts into a living, linked knowledge wiki — powered by your own LLM keys.",
+      "description": "A capture-first “second brain” that turns fleeting thoughts into a living, linked knowledge wiki — powered by your own LLM keys.\nEnglish · 简体中文\nNote\nBYOK — bring your own key. QCue runs entirely against your own model-provider key. It never ships, brokers, or sees your credentials, and the whole product runs keyless and offline in stub mode so you can explore it in seconds.\nQCue is an open-source ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "351e33c3-911b-4336-8e4b-e97e069d5894",
       "name": "ShipGenAI",
       "url": "https://github.com/benlamiro/ShipGenAI",
       "oneLiner": "ShipGenAI is a curated collection of 50 complete, production-ready AI SaaS products you can launch under your own brand — this weekend.",
@@ -20,7 +88,7 @@
       ]
     },
     {
-      "id": "d354f1d9-4b33-45fa-b903-a9e2e659585b",
+      "id": "1a64f616-9d57-4275-ab40-a91558f4a439",
       "name": "Hello-Agents",
       "url": "https://github.com/Reyzowter/Hello-Agents",
       "oneLiner": "You signed in with another tab or window.",
@@ -36,7 +104,7 @@
       ]
     },
     {
-      "id": "ed8fbe8c-3103-466b-848f-bd82d959a294",
+      "id": "4ba8118b-d04d-40a0-9630-77f55f41e74f",
       "name": "potato",
       "url": "https://github.com/onism1767-creator/potato",
       "oneLiner": "Not a crawler, not an \"AI-ranking truth detector\", not a recommendation engine.",
@@ -53,7 +121,7 @@
       ]
     },
     {
-      "id": "5ba45d7c-3228-47c0-9f77-0d676c95b72a",
+      "id": "9c7c7a67-6c0c-4037-a482-76c59a8e478b",
       "name": "tokenslim",
       "url": "https://github.com/nuoyazhizhou/tokenslim",
       "oneLiner": "High-performance Rust token compression engine for LLM inputs.",
@@ -70,39 +138,24 @@
       ]
     },
     {
-      "id": "06d245ba-4c84-44a3-9a4e-3a393d63efbf",
-      "name": "EatWise1",
-      "url": "https://github.com/qwepablo12/EatWise1",
-      "oneLiner": "EatWise is a calorie and macro tracker that acts as a dedicated \"Nutrition OS\" for athletes.",
-      "description": "EatWise is a calorie and macro tracker that acts as a dedicated \"Nutrition OS\" for athletes. Instead of complex manual logging, it uses advanced AI to parse free-form text input and instantly calculate precise nutritional breakdowns.\n- Frontend: React Native (Expo)\n- AI Engine: Google Gemini 2.5 Flash API (Structured Outputs)\n- Backend & Sync: Supabase Cloud Storage\n- Design Philosophy: Cyber-term",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design"
-      ]
-    },
-    {
-      "id": "2b5357d9-3a45-4202-9989-c4520fe2490c",
-      "name": "squadcoder",
-      "url": "https://github.com/squadcodercom/squadcoder",
-      "oneLiner": "Other AI coding tools give you one assistant.",
-      "description": "____ _ ____ _ / ___| __ _ _ _ __ _ __| |/ ___|___ __| | ___ _ __ \\___ \\ / _` | | | |/ _` |/ _` | | / _ \\ / _` |/ _ \\ '__| ___) | (_| | |_| | (_| | (_| | |__| (_) | (_| | __/ | |____/ \\__, |\\__,_|\\__,_|\\__,_|\\____\\___/ \\__,_|\\___|_| |_|\nOther AI coding tools give you one assistant. SquadCoder gives you a whole company — an Architect, Developers, QA, Security, UI/UX, and a CTO quality gate — that pl",
+      "id": "9b5cfcf0-4c50-411e-814a-e7ed8bdf526e",
+      "name": "Godcoder",
+      "url": "https://github.com/eli-labz/Godcoder",
+      "oneLiner": "Your code never leaves your machine.",
+      "description": "Bring your own LLM key. Your code never leaves your machine.\nGodcoder is a local-first, fully open-source AI coding agent that runs as a native desktop app. Unlike cloud-based tools, your source code never transits a vendor backend — API requests go straight from your machine to whichever model provider you configure.\nYour Machine ──► Model Provider (OpenAI / Anthropic / Any OpenAI-compatible API)",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/squadcodercom/squadcoder.git",
+      "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "security"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "f2763ee5-7266-410c-b570-722db14ab2fa",
+      "id": "f3bc85c6-8c6c-48c7-9eb0-9bc856ad0061",
       "name": "ai-coding-deals",
       "url": "https://github.com/codertesla/ai-coding-deals",
       "oneLiner": "You signed in with another tab or window.",
@@ -119,7 +172,7 @@
       ]
     },
     {
-      "id": "7bba9071-2a13-4e91-a588-8b0d2e6c09b1",
+      "id": "48371728-5dce-4b3d-82c6-ee412cee19f1",
       "name": "lemma-platform",
       "url": "https://github.com/lemma-work/lemma-platform",
       "oneLiner": "The open-source workspace where humans and AI agents work as one team.",
@@ -136,11 +189,45 @@
       ]
     },
     {
-      "id": "bed9876e-bd47-495a-a952-f6ee8d2c784e",
-      "name": "Brytlog",
-      "url": "https://github.com/Guy-Sela/brytlog",
-      "oneLiner": "Brytlog replaces raw logs with AI summary, thus saving developers time, trouble and money.",
-      "description": "Brytlog replaces raw logs with AI summary, thus saving developers time, trouble and money.\nIn agentic workflows brytlog acts as a cheap, fast pre-processor to the chief agent.\nFor example, Claude Opus 4.8 (chief agent) might run brytlog python run.py\n, rather than the plain python run.py\n. This way, instead of having to process the entire raw output on its own (slow, expensive, bloats context), it",
+      "id": "9f20c226-b1c7-40f2-9f48-08fedd9d1104",
+      "name": "SpinnerRecruit",
+      "url": "https://www.spinnerrecruit.dev/",
+      "oneLiner": "Job ads in AI wait states.",
+      "description": "Job ads in AI wait states.\nYou keep 50%.\nA one-line ad next to your AI agent, targeted by what language you're writing in.\nCLI only — no browser, no extension. Needs tmux and Claude Code/Codex already installed.\nThinking… (12s · esc to interrupt)\nThinking… (12s · esc to interrupt)\n[ad] Vercel · Frontend Engineer · $180k · Remote\nLink your GitHub account on the next page to get your personal instal",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "marketing"
+      ]
+    },
+    {
+      "id": "aad1e7dd-6726-49f8-80c0-4d3f5be4bbc0",
+      "name": "Moumantai",
+      "url": "https://github.com/xiang-deng/moumantai",
+      "oneLiner": "Moumantai (冇問題 / no problem) is an open-source, self-hosted runtime for personal apps that can be owned, adapted, and used across the devices around you.",
+      "description": "Moumantai (冇問題 / no problem) is an open-source, self-hosted runtime for personal apps that can be owned, adapted, and used across the devices around you.\nDescribe an app once: its data, capabilities, and interfaces. The server holds the state and application logic, then projects the appropriate face onto the browser, phone, watch, or embedded display in front of you. Code defines the reliable beha",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/xiang-deng/moumantai.git",
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "2f886827-b86e-4f8f-8f1e-adbecc44de43",
+      "name": "Graphify",
+      "url": "https://graphify.net/index.html#features",
+      "oneLiner": "Graphify is an open-source skill that helps AI coding assistants understand multi-modal codebases by building a queryable knowledge graph from code, docs, papers and diagrams.",
+      "description": "Graphify — Knowledge Graphs\nfor AI Coding Assistants\nGraphify is an open-source skill that helps AI coding assistants understand multi-modal codebases by building a queryable knowledge graph from code, docs, papers and diagrams.\npip install graphifyy\nWhat is Graphify?\nGraphify is a multi-modal knowledge graph builder created for AI coding assistants such as Claude Code, OpenAI Codex and OpenCode. ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -153,57 +240,41 @@
       ]
     },
     {
-      "id": "6297c9fd-c4f2-4b49-9ce4-c7cdbbc534aa",
-      "name": "OpenClaw Launch",
-      "url": "https://openclawlaunch.com",
-      "oneLiner": "Your personal AI agent — no install, no Mac Mini, no command line.",
-      "description": "Your personal AI agent — no install, no Mac Mini, no command line. Just hit deploy, done.\nIntegrations\nYour AI agent can send emails, manage calendars, post to Slack, and more — no API keys or coding needed. Just connect and go.\nStart for $3. Scale when you need to. No hidden fees. Cancel anytime.\n30 minutes, no card required\n$6 then $6/mo\nBring Your Own Key\nAlready paying for ChatGPT Plus? Connec",
+      "id": "458610c7-0096-498f-a22c-01d9f85ad878",
+      "name": "I made a webcam motion detector",
+      "url": "https://camera10.com/",
+      "oneLiner": "Use your existing webcam or phone to detect motion, record footage, and get alerts.",
+      "description": "Turn Any Webcam Into a Smart Security System\nNo new hardware needed. Use your existing webcam or phone to detect motion, record footage, and get alerts. Keep this page open and active for recording.\nFree\n$0/mo\n- Motion detection\n- Local storage for last 3 days\n- Image size up to 100 KB\n- No account required\nPaid Plan\n$10/mo plus taxes and fees\n- Motion detection\n- Local storage for last 3 days\n- I",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "agents"
+        "design",
+        "rag",
+        "image"
       ]
     },
     {
-      "id": "d5e8ef9e-d146-430f-8634-661a99ab8b40",
-      "name": "Tested",
-      "url": "https://trytested.com",
-      "oneLiner": "We test the tools so the rankings can't be bought.",
-      "description": "292 tools agent-scored · 292 on the rack\nWe test the tools so the rankings can't be bought.\nMost “best AI tools” lists are paid placements. We score every tool with an independent panel of agents — Anthropic, OpenAI, Gemini & Grok — and publish every number. The ranking is the tool, not the budget.\nMost natural AI voice generation and cloning.\n- free tier\n- yes\n- from\n- $5/mo\n- category\n- AI Voice",
-      "pricing": "open_source",
+      "id": "bd5c7408-c2bc-4faf-b0ac-12f7cbe31346",
+      "name": "E3d-pod2vid",
+      "url": "https://github.com/spacepacket1/e3d-pod2vid",
+      "oneLiner": "pip install -r requirements.",
+      "description": "AI-powered podcast-to-video pipeline. Converts a diarized audio file (NotebookLM, podcast, interview) into a YouTube-ready MP4 with:\n- Semantically matched Pexels B-roll per utterance (GPT-4o-mini picks the clip)\n- Burned-in subtitles (no ffmpeg libass required — pure Pillow)\n- Optional OpenAI TTS voice replacement (swap out NotebookLM / AI voices)\n- YouTube upload + description/thumbnail update\n-",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/spacepacket1/e3d-pod2vid.git",
       "categories": [
         "code",
-        "image",
-        "data"
+        "video",
+        "design"
       ]
     },
     {
-      "id": "4c577485-39fb-4324-a4dc-64f68002d804",
-      "name": "I scanned 87 MCP servers for agent-authority hygiene",
-      "url": "https://capframe.ai/leaderboard",
-      "oneLiner": "The MCP security leaderboard.",
-      "description": "The MCP security leaderboard.\nEvery published MCP server, graded against the deterministic capframe rule engine. Score 100 is a clean surface; every Critical finding takes 10 points. High 4, Medium 2, Low 1. No black boxes — the formula is public, the rules are open-source.\n25Find-A-Domain MCPhttps://api.findadomain.dev/mcpA9821M\n- mediumTool `check_domain` accepts unconstrained string input· chec",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "security"
-      ]
-    },
-    {
-      "id": "e19bb3f3-89e7-4d15-817c-d90e027eee4c",
+      "id": "bf38a7ec-8e18-47d7-b65c-d6fbfa5d54c9",
       "name": "semaphore",
       "url": "https://github.com/lucianodiisouza/semaphore",
       "oneLiner": "Floating traffic light for AI coding agents.",
@@ -220,7 +291,7 @@
       ]
     },
     {
-      "id": "417feb73-8a02-4958-8d69-0df013ddd6a0",
+      "id": "a02da5eb-eb30-4acc-aff6-b4e9390c60ff",
       "name": "recoil",
       "url": "https://github.com/EclipseElips/recoil",
       "oneLiner": "Memory for AI coding agents.",
@@ -236,7 +307,7 @@
       ]
     },
     {
-      "id": "36a4193a-1dd0-4932-8b2d-fe5434b68fb1",
+      "id": "5200a028-30e6-4ff3-bf61-5298fc0f0764",
       "name": "GITVERSE",
       "url": "https://github.com/GraeLefix/GITVERSE",
       "oneLiner": "Reverse engineer any codebase into a build prompt.",
@@ -253,9 +324,26 @@
       ]
     },
     {
-      "id": "812fc0fd-a344-480a-ba01-b5f4da9a3177",
+      "id": "4e5a2b96-3a54-4b11-9f25-a7343642cdef",
+      "name": "behest",
+      "url": "https://github.com/lazhenyi/behest",
+      "oneLiner": "provides provider-neutral contracts for chat, streaming, tool calling, embeddings, runtime execution, storage, queues, RAG, observability, and optional gRPC serving.",
+      "description": "behest\nprovides provider-neutral contracts for chat, streaming, tool calling, embeddings, runtime execution, storage, queues, RAG, observability, and optional gRPC serving.\nIt is designed for systems that need explicit control over model providers, tool execution, persistence, and operational boundaries — instead of opaque \"agent framework\" magic.\nStatus: early foundation crate. Public APIs are in",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "48555ce8-0349-4d96-9a36-59d161b6b408",
       "name": "auto-paper-collecter",
-      "url": "https://github.com/PenghaoJiang/auto-paper-collecter",
+      "url": "https://github.com/OvOhao/auto-paper-collecter",
       "oneLiner": "venv/bin/activate # Windows: .",
       "description": "2026-06-27 · 已上架 SkillHub 🎉\n本 skill 现已登陆 SkillHub，可在平台上直接浏览 / 获取与安装。\n2026-06-26 · Agent Skill 现可一键安装为 Claude Code 插件，并支持 Codex 🤖🔌\n除了网页版，本仓库内置一个 Claude Code / Codex 通用的 Agent Skill —— 一句话 「运行我的文献雷达」 就能跑完整条流水线、产出当日文献摘要，纯 Python 标准库、零依赖、免 AI API key。 一行命令安装：\n/plugin marketplace add PenghaoJiang/auto-paper-collecter\n→/plugin install auto-paper-collecter@auto-paper-collecter\n。 同时新增AGENTS.md\n，让 Codex / ",
       "pricing": "unknown",
@@ -264,13 +352,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/PenghaoJiang/auto-paper-collecter.git",
       "categories": [
-        "code",
         "agents",
+        "data",
         "research"
       ]
     },
     {
-      "id": "ac887c38-506a-4a3c-a8f5-6b553e72b153",
+      "id": "3114ee7a-fcbb-48ab-89ba-8a9fea31eb52",
+      "name": "waveloom",
+      "url": "https://github.com/Menfre01/waveloom",
+      "oneLiner": "local/bin && curl -fsSL https://github.",
+      "description": "English · 简体中文\nWaveloom 是为 DeepSeek 前缀缓存定制的终端 Code Agent（纯 Go）。通过固定 System Prompt 起点、跨轮累积消息和不可变压缩策略，将上下文缓存命中率推高到 95-99%，输入 Token 成本降至未命中的 1/50 ~ 1/120。\n你用自然语言描述需求，Agent 在终端里读取代码、分析逻辑、编辑文件、执行命令——每一次写入和命令执行都先征求你的同意。首推 deepseek-v4-pro\n，同时兼容 deepseek-v4-flash\n和 OpenAI 接口。\nImportant\n安全透明：Agent 写文件和执行命令前必须经过你确认，不会静默操作。需要 API Key：前往 DeepSeek 获取，然后运行 wvl setup\n完成配置。\n依赖：DeepSeek API Key。\nmacOS\nApple Silico",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Menfre01/waveloom",
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "114ca8d7-b019-4313-82d2-8b935c3c0033",
       "name": "dot-loom",
       "url": "https://github.com/usedotai/dot-loom",
       "oneLiner": "Dot Loom is a provider-pluggable orchestration runtime for multi-model inference.",
@@ -287,7 +392,7 @@
       ]
     },
     {
-      "id": "cd3d4d3f-0ea3-4302-ae81-20e159b5abb1",
+      "id": "5f33f7e4-5133-4f46-9300-ee929f2f96cb",
       "name": "gke-sre-ai-agent",
       "url": "https://github.com/truongnh1992/gke-sre-ai-agent",
       "oneLiner": "CLI — an AI on-call SRE for Google Kubernetes Engine.",
@@ -304,7 +409,7 @@
       ]
     },
     {
-      "id": "60bde43e-162c-4fcc-a4c5-ddbd9276bed7",
+      "id": "325167da-7cc1-41a2-9895-caa1eaf85984",
       "name": "ESEILANE",
       "url": "https://github.com/Simpl3x3/ESEILANE",
       "oneLiner": "ESEILANE is a next-generation, high-performance Knowledge Graph engine purpose-built for Large Language Models (LLMs), GraphRAG, and AI-native applications.",
@@ -321,7 +426,7 @@
       ]
     },
     {
-      "id": "e0cbc825-a538-4048-a4f0-d51d3e17d052",
+      "id": "3f41cb62-e53d-489b-9f27-111290aef7c3",
       "name": "doc-skills",
       "url": "https://github.com/x0c/doc-skills",
       "oneLiner": "Claude Code Skills for bootstrapping, compacting, and maintaining AI-readable project documentation — so coding agents stop re-discovering the same project context every session.",
@@ -338,7 +443,7 @@
       ]
     },
     {
-      "id": "15a52a8d-22f2-4f8e-8b88-cfc1e3d13e32",
+      "id": "22d5fed1-dab3-4323-b47e-1476c9fd538c",
       "name": "zero-drift",
       "url": "https://github.com/obrenoalvim/zero-drift",
       "oneLiner": "A Claude Code skill that keeps your AI grounded across long sessions.",
@@ -355,45 +460,27 @@
       ]
     },
     {
-      "id": "63e1544c-0c0b-441a-8ac7-76d85c7ecaa4",
-      "name": "HumanAI",
-      "url": "https://github.com/MADEVAL/HumanAI",
-      "oneLiner": "If the reader forgets a machine was involved, you won.",
-      "description": "[ English | Русский ]\nIf the reader forgets a machine was involved, you won.\nAn AI skill system that rewrites machine-generated text to sound human-written - across 9 languages. Detects and removes AI fingerprints through a 5-stage pipeline.\nHUMAN-AI is a system prompt (skill) for any LLM - GPT, Claude, Gemini, DeepSeek, or any capable model. It transforms AI-generated text that \"smells like AI\" i",
+      "id": "7fad26c4-9ecf-4f54-9a4e-c7f4b0ee8490",
+      "name": "Ford hired AI and sacked humans. It backfired badly",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "oneLiner": "Ford hired AI and sacked humans.",
+      "description": "Ford hired AI and sacked humans. It backfired badly\n‘We didn’t pay as much attention as we should have to the experience of our most knowledgeable engineers,’ says automaker\n- Bookmark\n- CommentsGo to comments\nFord has admitted to rehiring hundreds of human workers after its aggressive AI adoption strategy backfired.\nThe US automaker hired over 350 veteran engineers, referred to internally as “gra",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "writing",
-        "marketing"
-      ]
-    },
-    {
-      "id": "b0ee1bf6-4943-47b9-8b39-b69eed6d83ee",
-      "name": "ai-omni-skills",
-      "url": "https://github.com/moatazhamada/ai-omni-skills",
-      "oneLiner": "My skills scattered everywhere.",
-      "description": "I try every AI tool. My skills scattered everywhere. This unifies them.\n🎉 v1.4.0 is out — native binaries for macOS, Linux, and Windows; Homebrew and Winget support; and a skill compiler pipeline. Read the announcement →\nA CLI + MCP server that takes the skills you've collected across all your AI coding tools and unifies them into a single canonical store. Then it syncs them into every tool you us",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "design",
-        "agents"
+        "productivity"
       ]
     },
     {
-      "id": "d448134d-0000-45e6-8b9e-92642ae51358",
-      "name": "AI in mathematics is forcing big questions",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "oneLiner": "In the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.",
-      "description": "What it Means to Be a Mathematician When AI Does the Math\nResearchers debate motivation, purpose, and the field’s future\nIn the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.D. in applied mathematics. My research focused on simulating how special light waves interact in liquid crystals",
+      "id": "516e37e2-2ec2-477f-ad81-9a8679e886da",
+      "name": "Git-temp",
+      "url": "https://github.com/sebmellen/git-temp",
+      "oneLiner": "Purpose: create a local AI scratchpad inside a Git repo without committing it.",
+      "description": "Purpose: create a local AI scratchpad inside a Git repo without committing it.\ngit-temp\nmakes a temp/\nfolder, adds it to .git/info/exclude\n, and keeps it visible to editors and AI tools. That means no noisy git status\n, no accidental commits, and no .gitignore\nrule that hides files from indexing or @\ntagging.\nnpx git-temp # creates temp/\nnpx git-temp notes # creates notes/\nnpx git-temp status # sh",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -402,41 +489,7 @@
       "categories": [
         "code",
         "agents",
-        "research"
-      ]
-    },
-    {
-      "id": "708872de-6d50-4d36-b8ec-8bb3f52b25ff",
-      "name": "Boot a tiny app-making OS inside an AI chat",
-      "url": "https://hollingsworthd.github.io/RAu/",
-      "oneLiner": "Try BlueBookOS in ChatGPT.",
-      "description": "Try BlueBookOS in ChatGPT.\nOpen the GPT that runs this page’s BlueBookOS microkernel, then ask it to build a source-first RAu artifact in a live chat sandbox.\nPick your paste.\nTwo installation options. Both buttons copy a complete BlueBookOS boot packet. Pick the version that best matches the AI model you're using.\nLoading selected copy-pasta…\nBlueBookOS\nboots in your chat.\nBlueBookOS is a small s",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "a600a09a-ad4f-487b-b3ec-af179e4176b1",
-      "name": "Deskmate Live",
-      "url": "https://deskmatelive.com/",
-      "oneLiner": "Minimal desktop pet companion for voice, screen context, digital avatars, and quick everyday help that stays within reach.",
-      "description": "Deskmate v 0.1.0\nMinimal desktop pet companion for voice, screen context, digital avatars, and quick everyday help that stays within reach.\nmacOS build is coming soon. Sign up for the waitlist:A tiny companion that is one click away\nDeskmate Live gives you a lightweight voice assistant for everyday desktop work with quick voice controls, optional screen context, avatar reactions, and portal access",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents",
-        "voice"
+        "writing"
       ]
     }
   ]
