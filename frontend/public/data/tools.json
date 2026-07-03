@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-02T08:58:10.887237+00:00",
-  "count": 35,
+  "generatedAt": "2026-07-03T09:19:47.374882+00:00",
+  "count": 28,
   "tools": [
     {
-      "id": "ffa834ef-a454-4a64-b699-834ad960593c",
+      "id": "502010aa-7eff-4538-8313-174643503ff3",
       "name": "EKAM_",
       "url": "https://github.com/neha23jk/EKAM_",
       "oneLiner": "EKAM is an AI-driven event operating system.",
@@ -14,13 +14,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
+        "data",
         "code",
-        "data"
+        "design"
       ]
     },
     {
-      "id": "d454223d-87de-42ae-a2a7-f1ddb9858bb7",
+      "id": "a8e7e498-e729-4f3a-a9a8-61f487733a5b",
       "name": "wyrd-ecs-core",
       "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
       "oneLiner": "Imagine a map that redraws itself with every footstep you take, not as a static overlay but as a breathing, sentient representation of the world around you.",
@@ -31,13 +31,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
+        "data",
         "code",
-        "data"
+        "design"
       ]
     },
     {
-      "id": "f9e6f9c0-2b44-43dc-a45d-1cda3d21e9b5",
+      "id": "3e76155d-b6b8-4598-95e5-6007e14799cf",
       "name": "world-forge-ai",
       "url": "https://github.com/gunawan1996/world-forge-ai",
       "oneLiner": "Where words become worlds, and worlds grow stories on their own.",
@@ -48,13 +48,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "writing"
       ]
     },
     {
-      "id": "d8b67c6a-e3fd-48d0-838a-5a9172576272",
+      "id": "94508b29-7056-4679-8844-a75cd541c86f",
       "name": "reality-engine",
       "url": "https://github.com/grandgaming9321-prog/reality-engine",
       "oneLiner": "Welcome to Chronos Engine — a groundbreaking temporal simulation platform that empowers researchers, storytellers, game developers, and futurists to construct, explore, and manipul",
@@ -65,13 +65,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "code",
         "design",
-        "code"
+        "agents"
       ]
     },
     {
-      "id": "c25c891c-6443-4cd1-a87b-b6f3131b94cc",
+      "id": "61f01218-da83-45bf-8a6a-316d30275f7f",
       "name": "picsart-genai-composer-sdk",
       "url": "https://github.com/AkshayPatil9370/picsart-genai-composer-sdk",
       "oneLiner": "VisualSynth Engine is a Python-native framework for orchestrating programmable image pipelines and generative AI workflows.",
@@ -82,13 +82,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/visualsynth-engine/discussions",
       "categories": [
-        "design",
         "code",
+        "design",
         "image"
       ]
     },
     {
-      "id": "ab64ecf8-1ec4-49d9-a9f6-7fb8b6597159",
+      "id": "764f1c00-70bb-4e35-9736-75e71ce8ba63",
       "name": "PhantomCrowd-Simulacra",
       "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
       "oneLiner": "Social Sentient Simulation Engine: Predict narrative drift before your message gets lost in the noise.",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "id": "6dfe2b57-4a8a-44de-8bc1-ac4f40d937da",
+      "id": "3b3fa0bc-4a3b-41de-ae0d-8494484e206e",
       "name": "heoster-jarvis-ai-assistant",
       "url": "https://github.com/LTripleP/heoster-jarvis-ai-assistant",
       "oneLiner": "Heoster's original vision of a personal AI assistant hinted at a future where intelligence is not merely reactive but deeply integrated.",
@@ -116,13 +116,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "code",
         "design",
-        "code"
+        "agents"
       ]
     },
     {
-      "id": "c30dbb5e-127b-4bdc-9b3c-1664a9ac31c7",
+      "id": "ecb0a35a-8fc5-43cf-9f41-c96a23ddafe7",
       "name": "cli-llm-mesh",
       "url": "https://github.com/vishalGitthub/cli-llm-mesh",
       "oneLiner": "⚡ Unified AI gateway connecting xAI, OpenRouter, Mistral, and DeepSeek models through a single, blazing-fast command-line interface.",
@@ -133,13 +133,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "writing"
       ]
     },
     {
-      "id": "585bb5c5-e7ab-4f1b-a223-e430f5430d28",
+      "id": "9563e317-f17a-483e-8961-c78df7a9ec89",
       "name": "gitlab-duo-provisioning-blueprint",
       "url": "https://github.com/7sense/gitlab-duo-provisioning-blueprint",
       "oneLiner": "A revolutionary developer environment orchestration platform that transforms how teams provision, manage, and scale their development toolchains across multiple cloud providers.",
@@ -150,13 +150,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "data",
+        "code",
         "security"
       ]
     },
     {
-      "id": "412f18d7-e22f-497d-949a-f0ffe2cb78ba",
+      "id": "644fd6c2-f283-4784-ad59-cdf9633c9c22",
       "name": "local-ai-code-assistant",
       "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
       "oneLiner": "Weave together the intelligence of multiple open-source language models — Mistral, Llama, Phi, and more — into a single, cohesive desktop coding environment.",
@@ -167,13 +167,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "code",
         "design",
-        "code"
+        "agents"
       ]
     },
     {
-      "id": "b83ae0ae-872e-4587-8b37-09dae6283825",
+      "id": "af479e96-e50c-43d0-83c2-e30eb57bccd1",
       "name": "Arena-of-Autonomous-Threads",
       "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
       "oneLiner": "Build a distributed, self-moderating discourse garden where synthetic minds debate, collaborate, and evolve - a multi-model thought arena for testing emergent reasoning, agentic ne",
@@ -184,13 +184,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "data",
         "code",
-        "data"
+        "agents"
       ]
     },
     {
-      "id": "fe0ffa8a-1533-4130-9f98-28ce4104480b",
+      "id": "45a4e06d-a733-40c0-85c6-95c3963eb762",
       "name": "ai-cortex-hub",
       "url": "https://github.com/Fabiojvv/ai-cortex-hub",
       "oneLiner": "The next evolution in intelligent tool discovery — a self-curating, community-powered AI ecosystem that learns what matters to you.",
@@ -201,13 +201,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "data",
+        "code",
         "search"
       ]
     },
     {
-      "id": "ab377470-3642-4fa3-beca-d3a90b1114ea",
+      "id": "4047d1c6-4f98-4192-a523-5a9590027e14",
       "name": "FreeAI-Desktop",
       "url": "https://github.com/Hunteryawatch/FreeAI-Desktop",
       "oneLiner": "FreeAI Desktop is a completely free, offline AI chat application for Windows.",
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "id": "b6014af0-8b71-4ddf-a1b3-ee76dabaece3",
+      "id": "1c3aba02-228f-4ab3-bdb6-f16a47cf2c74",
       "name": "bwen",
       "url": "https://github.com/wanglinsaputra/bwen",
       "oneLiner": "CLI automation bot that registers Qwen Cloud accounts via the Gmail dot trick, solves slider captchas for free, and scrapes API keys.",
@@ -234,12 +234,12 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/wanglinsaputra/bwen.git",
       "categories": [
-        "design",
-        "code"
+        "code",
+        "design"
       ]
     },
     {
-      "id": "bbc2ba29-f2ad-4a3b-b0ad-d45ad243cc9d",
+      "id": "81d22b4c-23cf-4f38-ae6f-7df1dc9aabe0",
       "name": "Deepseek-API",
       "url": "https://github.com/sums001/Deepseek-API",
       "oneLiner": "Using your own DeepSeek account.",
@@ -250,13 +250,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/sums001/Deepseek-API.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "writing"
       ]
     },
     {
-      "id": "5b4e7234-e6a9-4011-822a-c2d3b2dc31dd",
+      "id": "107ea93f-9a34-4699-89d9-e1b0672c317b",
       "name": "cursor-free-api",
       "url": "https://github.com/xuweizhengo/cursor-free-api",
       "oneLiner": "This project may have limited functionality.",
@@ -267,47 +267,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/xuweizhengo/cursor-free-api.git",
       "categories": [
-        "agents",
-        "design",
-        "code"
-      ]
-    },
-    {
-      "id": "9616b1f9-fb37-4d2f-b1cb-9797c83842a0",
-      "name": "github-roast",
-      "url": "https://github.com/hikariming/github-roast",
-      "oneLiner": "An evidence-based GitHub developer assessment, discovery, and showcase platform.",
-      "description": "An evidence-based GitHub developer assessment, discovery, and showcase platform.\nTurn any public GitHub profile into a 0–100 value & trust score, an honest roast, and a shareable developer card — then explore noteworthy builders, like-minded peers, and worthy rivals across the community.\nEnglish · 中文\n🔥 Roast a GitHub profile · 🏆 Explore developers · ⭐ View source\nEnter a GitHub handle to get a 0–1",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "design",
         "code",
-        "data"
-      ]
-    },
-    {
-      "id": "19801cc7-5bbf-4b37-bced-ede1a06d9d1b",
-      "name": "qcue",
-      "url": "https://github.com/SparkyWen/qcue",
-      "oneLiner": "A capture-first “second brain” that turns fleeting thoughts into a living, linked knowledge wiki — powered by your own LLM keys.",
-      "description": "A capture-first “second brain” that turns fleeting thoughts into a living, linked knowledge wiki — powered by your own LLM keys.\nEnglish · 简体中文\nNote\nBYOK — bring your own key. QCue runs entirely against your own model-provider key. It never ships, brokers, or sees your credentials, and the whole product runs keyless and offline in stub mode so you can explore it in seconds.\nQCue is an open-source ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
         "design",
-        "code",
-        "data"
+        "agents"
       ]
     },
     {
-      "id": "9e748abc-b857-43e4-ba1b-e294a56d68a1",
+      "id": "4204a196-871e-4126-bbed-0c112f2037c1",
       "name": "Godcoder",
       "url": "https://github.com/eli-labz/Godcoder",
       "oneLiner": "Your code never leaves your machine.",
@@ -318,115 +284,64 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "design",
-        "code"
-      ]
-    },
-    {
-      "id": "852e9c86-c5bd-45f8-bab8-14617d617cf8",
-      "name": "MyWritingTwin",
-      "url": "https://www.mywritingtwin.com",
-      "oneLiner": "All in Your Voice — Not the AI's.",
-      "description": "Your Emails. Your Reports. Your LinkedIn.All in Your Voice — Not the AI's.\nExecutives and professionals spend hours fixing AI drafts that don't sound like them. A Writing Profile captures your exact style across formats and languages — then deploys it on ChatGPT, Claude, Gemini, or any AI tool you already use.\nOne profile. Every AI tool. No monthly fee.\n“I send it to every AI I use. My team can't ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "audio",
-        "writing"
-      ]
-    },
-    {
-      "id": "6735c611-eb65-4e3d-8d30-c4caad44cb0e",
-      "name": "Noter",
-      "url": "https://noterai.tech",
-      "oneLiner": "Keep thinking while they code.",
-      "description": "Keep thinking while they code.\nnoter is the new layer for collaborating with coding agents without outsourcing your thinking. You plan in real time while the agent executes.\n// 01 — Mission Control\nFour panels. One loop.\nThink, suggest, observe, dispatch. Mission Control is the working surface where planning and execution stay visible side by side.\n// click a panel to see the feature\n// 02 — Bluep",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
         "code",
-        "productivity"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "3fe8e602-5ec8-4477-b406-cc3e86cb1d1a",
-      "name": "Scalable AI Management Platform",
-      "url": "https://github.com/metadist/synaplan/",
-      "oneLiner": "AI-powered knowledge management with RAG, chat widgets, and multi-channel integration.",
-      "description": "AI-powered knowledge management with RAG, chat widgets, and multi-channel integration.\nLive instance: web.synaplan.com | Docs: docs.synaplan.com | API: Swagger UI\n- Docker + Docker Compose v2 (Docker Desktop on macOS/Windows, or Docker Engine + the Compose plugin on Linux)\n- Git\n- 8 GB RAM minimum (16 GB recommended for the local-AI standard install)\n- ~9 GB free disk for the standard install (~5 ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/metadist/synaplan.git",
-      "categories": [
-        "code",
-        "voice",
-        "image"
-      ]
-    },
-    {
-      "id": "c28b10ac-48f2-443e-b978-42ec66935cb9",
-      "name": "More AI",
-      "url": "https://github.com/DougTrier/MoreAI",
-      "oneLiner": "The BYOB of AI: bring your own model, backend, cloud key, or local runtime.",
-      "description": "The BYOB of AI: bring your own model, backend, cloud key, or local runtime. More AI keeps it governed, traceable, and under your control.\nMore AI is a free, open-source Windows desktop application for people who want one serious AI workspace without surrendering choice. Chat with cloud APIs, run local LLMs, code with tool agents, create music, images, video, documents, and workflows, orchestrate s",
+      "id": "69d9b430-edd8-4f84-aa90-33e2f2771567",
+      "name": "Scopewalker",
+      "url": "https://github.com/timohaa/scopewalker-mcp",
+      "oneLiner": "AI agents will happily create 1000+ line source files and add a 20th parameter to a function call, even if there's a rule file telling them not to.",
+      "description": "AI agents will happily create 1000+ line source files and add a 20th parameter to a function call, even if there's a rule file telling them not to. Scopewalker exists to enforce stricter codebase standards.\nIt's a local MCP server (open source, runs over stdio, makes no network calls) that exposes 8 read-only tools:\nget_line_counts\n- per-file line counts (total, code, blank, comment) with sorting,",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/DougTrier/MoreAI.git",
+      "githubUrl": null,
       "categories": [
-        "agents",
+        "code",
         "design",
-        "code"
+        "agents"
       ]
     },
     {
-      "id": "b070b0a7-5839-4e4a-b4d3-a849ad7201bd",
-      "name": "Open-source Deterministic Guardrails Against AI Duplicated Code",
-      "url": "https://github.com/Rafaelpta/dupehound",
-      "oneLiner": "Finds functions duplicated by AI, even after every identifier is renamed.",
-      "description": "Finds functions duplicated by AI, even after every identifier is renamed.\ndupehound is a duplicate-code detector built for codebases where agents write most of the code. It finds functions that exist more than once, even after every identifier and literal has been renamed, because it fingerprints the structure of the code instead of its text.\nEverything runs locally and deterministically (no netwo",
+      "id": "64e4f8b6-34f2-46cd-99c4-cd5e6410b4cd",
+      "name": "Opplic AI growth employees for web agencies",
+      "url": "https://opplic.com",
+      "oneLiner": "AI Growth hire for^Web Agencies,Results that Scale.",
+      "description": "AI Growth hire for^Web Agencies,Results that Scale.\nNo code required.\nNothing goes live until you approve it.\nYour AI growth team\nthat works 24/7 for every client\nOpplicturnseveryclientwebsiteintoacompoundinggrowthengine,learningthebusiness,findingmisseddemand,openingapproval-readyGrowthPRs,thenshippingwebsitecampaignimprovementsonlyafteryousayyes.\nFive steps.You stay in controlof all of them.\nopp",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "code",
         "design",
-        "code"
+        "marketing"
       ]
     },
     {
-      "id": "3015e592-df79-4728-905a-f552baf1c5c6",
-      "name": "MarketFish",
-      "url": "https://github.com/Key-wxh/market-fish",
-      "oneLiner": "Before you launch, let hundreds of AI consumers vote with their wallets.",
-      "description": "Don't guess. Simulate.\nBefore you launch, let hundreds of AI consumers vote with their wallets.\nMarketFish is a multi-agent market simulation engine. Instead of asking one LLM \"will this product succeed?\", it builds a digital market with 128+ AI consumers — each with their own identity, budget, emotions, and biases — and lets them shop across 30 rounds. Their purchase decisions, churn patterns, an",
-      "pricing": "paid",
+      "id": "c07abbda-24cc-49cb-bf5d-48db6865a3f9",
+      "name": "Napaxi",
+      "url": "https://github.com/antgroup/Napaxi",
+      "oneLiner": "A mobile-native SDK for embedding agent experiences in your app.",
+      "description": "A mobile-native SDK for embedding agent experiences in your app.\n简体中文 · English\nNapaxi is a mobile-native SDK for embedding agent experiences in your app.\nIt gives app teams a shared Rust agent runtime, thin mobile SDK adapters, and a demo app that exercises the public API surface. Host apps keep ownership of UI, accounts, model configuration, permissions, and product policy. Napaxi owns the reusa",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Key-wxh/market-fish.git",
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "agents",
+        "code",
         "design",
-        "code"
+        "productivity"
       ]
     },
     {
-      "id": "2891a753-2c64-493e-914c-5369e6761fc0",
+      "id": "c045c016-38c4-4283-a153-c6879f21cdee",
       "name": "Fundamental-Ava",
       "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
       "oneLiner": "Fundamental Research Labs is building the next frontier of digital beings.",
@@ -437,13 +352,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/TianhangZhuzth/Fundamental-Ava.git",
       "categories": [
-        "agents",
         "design",
+        "agents",
         "rag"
       ]
     },
     {
-      "id": "8cc89b00-2808-4e3c-898d-8517886cfd57",
+      "id": "e959ca8c-3fb8-4c25-a3ff-2d3549733d14",
       "name": "ai-sticker-pack",
       "url": "https://github.com/Lumenocturne/ai-sticker-pack",
       "oneLiner": "const MARK = /\\[sticker[:：]\\s*([^\\]\\n]+?",
@@ -460,7 +375,7 @@
       ]
     },
     {
-      "id": "37c93d38-f360-4f51-8831-ebe2618ff81c",
+      "id": "b8a37549-bc83-43ea-918e-daf248bdcdb5",
       "name": "ironclaw-ai-vision",
       "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
       "oneLiner": "Born from the same Iron Mike methodology that forged IronClaw, ReflexForge shifts the battlefield from the gym to the mind.",
@@ -471,13 +386,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "image"
       ]
     },
     {
-      "id": "324a90a6-e201-4898-bc05-c81c12ea1805",
+      "id": "e9c0eb60-4ae2-40fe-b8b6-32c84cdf7941",
       "name": "foxl-orchestrator",
       "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
       "oneLiner": "Welcome to Foxl – your tireless, ever-present digital companion designed to work alongside you around the clock.",
@@ -488,13 +403,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "productivity"
       ]
     },
     {
-      "id": "63ac9f8a-e3a4-4596-a0fd-5376c3a7bf6f",
+      "id": "2456619b-7502-48b1-a0ba-d929828a4675",
       "name": "ESEILANE",
       "url": "https://github.com/Aliu-AiRobot/ESEILANE",
       "oneLiner": "ESEILANE is a next-generation, high-performance Knowledge Graph engine purpose-built for Large Language Models (LLMs), GraphRAG, and AI-native applications.",
@@ -510,7 +425,7 @@
       ]
     },
     {
-      "id": "ce1c47d2-b279-42ec-930b-79c026b3913a",
+      "id": "aff6b05a-2fca-428a-9fc4-b20e6607632c",
       "name": "Local-Agent-Studio",
       "url": "https://github.com/CrazyDashTool/Local-Agent-Studio",
       "oneLiner": "Local-first Agent Mode for Windows, Linux, and macOS.",
@@ -521,51 +436,34 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "data",
         "code",
-        "data"
+        "agents"
       ]
     },
     {
-      "id": "5dd405bf-0fd1-4bde-82c1-e8e163e10684",
-      "name": "semaphore",
-      "url": "https://github.com/lucianodiisouza/semaphore",
-      "oneLiner": "Floating traffic light for AI coding agents.",
-      "description": "Floating traffic light for AI coding agents. Shows when your agent is idle, thinking, or writing files, without switching windows or reading the terminal.\nSemaphore is a small always-on-top widget in the system tray. AI tools send activity updates through hooks, and Semaphore updates the light.\n- Download\n- Quick start\n- Using the app\n- Supported tools\n- semctl CLI\n- Configuration\n- How it works\n-",
+      "id": "2e65361c-410e-4a1d-b43d-5540794f705f",
+      "name": "skills",
+      "url": "https://github.com/hankunpeng/skills",
+      "oneLiner": "A collection of custom AI agent skills for improving daily work efficiency.",
+      "description": "English | 简体中文\nA collection of custom AI agent skills for improving daily work efficiency.\nThis repository contains the following skills:\n- Description: Downloads YouTube subtitles and summarizes the video content using Gemini models while filtering out sponsor promotions.\n- Installation:\nnpx skills add hankunpeng/skills --skill yt-summarize\n- Description: Posts content (text and up to 4 images) t",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "image",
         "writing"
       ]
     },
     {
-      "id": "7a511778-10b9-4c13-bd27-3b902fb2c718",
-      "name": "Margarita",
-      "url": "https://www.margarita.run",
-      "oneLiner": "Margarita introduces a deterministic scripting extension to Markdown that keeps your agents predictable.",
-      "description": "Margarita introduces a deterministic scripting extension to Markdown that keeps your agents predictable. No more fighting with your prompt to make it follow your workflow steps.\nMargarita is for people that are looking for repeatable scripts that add in the dynamic abilities of LLMs where it makes sense.\nUse the right tool for the job. Write code-like logic where you need consistency. Bring in a c",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "productivity"
-      ]
-    },
-    {
-      "id": "288bc565-81b1-4e9a-b6b7-71ea33a8e2d8",
-      "name": "A complete AI agency at your fingertips",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "oneLiner": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers.",
-      "description": "🎭 The Agency: AI Specialists Ready to Transform Your Workflow\nA complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\nAgency Agents is a native app for macOS, Linux & Windows that browses the entire roster and installs it into Claud",
+      "id": "6faa97d6-d1e7-48d5-93cf-caf5af2b08aa",
+      "name": "Imagent",
+      "url": "https://github.com/unliftedq/imagent",
+      "oneLiner": "Imagent means Imagine agent: it gives AI agents the ability to generate images, video, and speech as a first-class step in their workflows, behind a single interface that hides the",
+      "description": "English · 简体中文\nImagent means Imagine agent: it gives AI agents the ability to generate images, video, and speech as a first-class step in their workflows, behind a single interface that hides the differences between providers and models — and it keeps every generated asset organized for reuse instead of throwing it away.\nIt ships as a command-line tool and a desktop application. All surfaces share",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -573,25 +471,8 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "data",
-        "marketing"
-      ]
-    },
-    {
-      "id": "164bfb0a-9d07-4c5c-9cd8-86e9e54c23f9",
-      "name": "Senior SWE-Bench",
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "oneLiner": "We treat agents like senior engineers, so why evaluate them like junior engineers?",
-      "description": "Senior SWE-Bench\nWe treat agents like senior engineers, so why evaluate them like junior engineers?\nSenior engineers build features without over-specified requirements\nSenior SWE-Bench feature tasks have realistic instructions that read like natural language messages rather than over-specified requirements. To reliably evaluate these tasks, we introduce a validation agent which uses expert-designe",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "design",
-        "code"
+        "image",
+        "agents"
       ]
     }
   ]
