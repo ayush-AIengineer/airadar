@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-07-03T09:19:47.374882+00:00",
-  "count": 28,
+  "generatedAt": "2026-07-04T08:38:27.878382+00:00",
+  "count": 27,
   "tools": [
     {
-      "id": "502010aa-7eff-4538-8313-174643503ff3",
+      "id": "1f66babd-b074-4f65-aa4f-736d13d7a2f7",
+      "name": "brain0",
+      "url": "https://github.com/Brain0-ai/brain0",
+      "oneLiner": "The black box for AI-written code.",
+      "description": "The black box for AI-written code.\ngit\ntells you what changed. brain0 tells you why: which prompt wrote it,\nwhat the agent read to write it, and whether you can trust it.\nQuickstart · What it answers · Give your agent memory · How it works · Comparison · Docs\nCoding agents now write most of the diff: continuously, in parallel, and opaquely. brain0 passively builds a decision graph of your reposito",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data",
+        "rag"
+      ]
+    },
+    {
+      "id": "475507e8-7e34-44ff-9064-1546c94f8e7f",
       "name": "EKAM_",
       "url": "https://github.com/neha23jk/EKAM_",
       "oneLiner": "EKAM is an AI-driven event operating system.",
@@ -14,13 +31,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
+        "design",
         "code",
-        "design"
+        "data"
       ]
     },
     {
-      "id": "a8e7e498-e729-4f3a-a9a8-61f487733a5b",
+      "id": "de35fdb3-5601-4140-931a-d47d47a22b54",
       "name": "wyrd-ecs-core",
       "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
       "oneLiner": "Imagine a map that redraws itself with every footstep you take, not as a static overlay but as a breathing, sentient representation of the world around you.",
@@ -31,13 +48,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "data",
+        "design",
         "code",
-        "design"
+        "data"
       ]
     },
     {
-      "id": "3e76155d-b6b8-4598-95e5-6007e14799cf",
+      "id": "641bd866-a12a-4743-b4d1-1e57d5ac1e0e",
       "name": "world-forge-ai",
       "url": "https://github.com/gunawan1996/world-forge-ai",
       "oneLiner": "Where words become worlds, and worlds grow stories on their own.",
@@ -48,13 +65,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "writing"
       ]
     },
     {
-      "id": "94508b29-7056-4679-8844-a75cd541c86f",
+      "id": "d0fffcb9-69f8-4484-9481-6525209d3a53",
       "name": "reality-engine",
       "url": "https://github.com/grandgaming9321-prog/reality-engine",
       "oneLiner": "Welcome to Chronos Engine — a groundbreaking temporal simulation platform that empowers researchers, storytellers, game developers, and futurists to construct, explore, and manipul",
@@ -65,13 +82,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "agents"
       ]
     },
     {
-      "id": "61f01218-da83-45bf-8a6a-316d30275f7f",
+      "id": "a705c6af-9cd9-4ec8-8a86-7e1f5f9eb39b",
       "name": "picsart-genai-composer-sdk",
       "url": "https://github.com/AkshayPatil9370/picsart-genai-composer-sdk",
       "oneLiner": "VisualSynth Engine is a Python-native framework for orchestrating programmable image pipelines and generative AI workflows.",
@@ -82,13 +99,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/visualsynth-engine/discussions",
       "categories": [
-        "code",
         "design",
+        "code",
         "image"
       ]
     },
     {
-      "id": "764f1c00-70bb-4e35-9736-75e71ce8ba63",
+      "id": "718a9439-863d-4c64-a693-33ee5fd9fb75",
       "name": "PhantomCrowd-Simulacra",
       "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
       "oneLiner": "Social Sentient Simulation Engine: Predict narrative drift before your message gets lost in the noise.",
@@ -105,7 +122,7 @@
       ]
     },
     {
-      "id": "3b3fa0bc-4a3b-41de-ae0d-8494484e206e",
+      "id": "0f72a4ec-ac06-4c62-a9c0-1836e8320906",
       "name": "heoster-jarvis-ai-assistant",
       "url": "https://github.com/LTripleP/heoster-jarvis-ai-assistant",
       "oneLiner": "Heoster's original vision of a personal AI assistant hinted at a future where intelligence is not merely reactive but deeply integrated.",
@@ -116,13 +133,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "agents"
       ]
     },
     {
-      "id": "ecb0a35a-8fc5-43cf-9f41-c96a23ddafe7",
+      "id": "f2090c66-d987-4f96-9446-2618adf92213",
       "name": "cli-llm-mesh",
       "url": "https://github.com/vishalGitthub/cli-llm-mesh",
       "oneLiner": "⚡ Unified AI gateway connecting xAI, OpenRouter, Mistral, and DeepSeek models through a single, blazing-fast command-line interface.",
@@ -133,13 +150,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "writing"
       ]
     },
     {
-      "id": "9563e317-f17a-483e-8961-c78df7a9ec89",
+      "id": "0a3ccad7-79e6-47c7-b78e-0680c9a54e66",
       "name": "gitlab-duo-provisioning-blueprint",
       "url": "https://github.com/7sense/gitlab-duo-provisioning-blueprint",
       "oneLiner": "A revolutionary developer environment orchestration platform that transforms how teams provision, manage, and scale their development toolchains across multiple cloud providers.",
@@ -150,13 +167,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
         "code",
+        "data",
         "security"
       ]
     },
     {
-      "id": "644fd6c2-f283-4784-ad59-cdf9633c9c22",
+      "id": "17d6780f-5786-4d1f-b67e-6584f085fc9e",
       "name": "local-ai-code-assistant",
       "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
       "oneLiner": "Weave together the intelligence of multiple open-source language models — Mistral, Llama, Phi, and more — into a single, cohesive desktop coding environment.",
@@ -167,13 +184,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "agents"
       ]
     },
     {
-      "id": "af479e96-e50c-43d0-83c2-e30eb57bccd1",
+      "id": "10ee3f2a-b047-466d-8a13-ee76cab8c765",
       "name": "Arena-of-Autonomous-Threads",
       "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
       "oneLiner": "Build a distributed, self-moderating discourse garden where synthetic minds debate, collaborate, and evolve - a multi-model thought arena for testing emergent reasoning, agentic ne",
@@ -184,13 +201,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
         "code",
+        "data",
         "agents"
       ]
     },
     {
-      "id": "45a4e06d-a733-40c0-85c6-95c3963eb762",
+      "id": "b5577b08-ab5f-42d9-8993-55df0093ba2a",
       "name": "ai-cortex-hub",
       "url": "https://github.com/Fabiojvv/ai-cortex-hub",
       "oneLiner": "The next evolution in intelligent tool discovery — a self-curating, community-powered AI ecosystem that learns what matters to you.",
@@ -201,13 +218,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "data",
+        "search",
         "code",
-        "search"
+        "data"
       ]
     },
     {
-      "id": "4047d1c6-4f98-4192-a523-5a9590027e14",
+      "id": "389edaba-6660-4054-93f3-b65adc16a16c",
       "name": "FreeAI-Desktop",
       "url": "https://github.com/Hunteryawatch/FreeAI-Desktop",
       "oneLiner": "FreeAI Desktop is a completely free, offline AI chat application for Windows.",
@@ -223,61 +240,28 @@
       ]
     },
     {
-      "id": "1c3aba02-228f-4ab3-bdb6-f16a47cf2c74",
-      "name": "bwen",
-      "url": "https://github.com/wanglinsaputra/bwen",
-      "oneLiner": "CLI automation bot that registers Qwen Cloud accounts via the Gmail dot trick, solves slider captchas for free, and scrapes API keys.",
-      "description": "CLI automation bot that registers Qwen Cloud accounts via the Gmail dot trick, solves slider captchas for free, and scrapes API keys.\n- Automated Account Creation: Automatically registers accounts on Qwen Cloud.\n- Gmail Dot Trick: Uses the Gmail dot trick to generate multiple aliases from a single Gmail address.\n- Email Verification: Automatically reads your Gmail using IMAP to retrieve verificati",
-      "pricing": "free",
+      "id": "ad1d888a-92a3-4534-b55c-d4dc58a7b953",
+      "name": "Agentic coding notes from Galapagos Island",
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+      "oneLiner": "I've been using AI fairly heavily since last November and the whole thing is a funny experience.",
+      "description": "I've been using AI fairly heavily since last November and the whole thing is a funny experience. An agent will do something that, if a human did it, you'd immediately fire them. My reaction, of course, is to act as if this is great and spin up a thousand agents so they can do even more of that.\nMid-last year, I had GPT (maybe 5.0 or 5.1) try to find the source of a bug. Naturally, this code didn't",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/wanglinsaputra/bwen.git",
+      "githubUrl": "https://github.com/cestpasphoto/alpha-zero-general",
       "categories": [
         "code",
-        "design"
-      ]
-    },
-    {
-      "id": "81d22b4c-23cf-4f38-ae6f-7df1dc9aabe0",
-      "name": "Deepseek-API",
-      "url": "https://github.com/sums001/Deepseek-API",
-      "oneLiner": "Using your own DeepSeek account.",
-      "description": "Using your own DeepSeek account. No API key, no credits, no paid plan: it turns the free chat at chat.deepseek.com into an API you can call from code.\nYou can use it in two ways:\n- 🐍 As a Python library: just call\nclient.chat(\"Hi\")\n. Supports streaming and multi-turn conversations. - 🔌 As a local OpenAI-compatible API: runs a server at\nhttp://localhost:8000/v1\nthat speaks the OpenAI format, so the",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/sums001/Deepseek-API.git",
-      "categories": [
-        "code",
-        "design",
-        "writing"
-      ]
-    },
-    {
-      "id": "107ea93f-9a34-4699-89d9-e1b0672c317b",
-      "name": "cursor-free-api",
-      "url": "https://github.com/xuweizhengo/cursor-free-api",
-      "oneLiner": "This project may have limited functionality.",
-      "description": "⚠️ As of 2026-04-01, Cursor Docs page only providesgemini-3-flash\n. This project may have limited functionality.\nA proxy service that converts Cursor Web Docs free AI API into Anthropic Messages API and OpenAI Chat Completions API, enabling use with Claude Code and Cursor IDE.\n📖 中文文档: README_CN.md\n┌─────────────┐ ┌──────────────┐ ┌──────────────┐\n│ Claude Code │────▶│ │────▶│ │\n│ (Anthropic) │ │ c",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/xuweizhengo/cursor-free-api.git",
-      "categories": [
-        "code",
-        "design",
+        "productivity",
         "agents"
       ]
     },
     {
-      "id": "4204a196-871e-4126-bbed-0c112f2037c1",
-      "name": "Godcoder",
-      "url": "https://github.com/eli-labz/Godcoder",
-      "oneLiner": "Your code never leaves your machine.",
-      "description": "Bring your own LLM key. Your code never leaves your machine.\nGodcoder is a local-first, fully open-source AI coding agent that runs as a native desktop app. Unlike cloud-based tools, your source code never transits a vendor backend — API requests go straight from your machine to whichever model provider you configure.\nIt goes beyond editing code: Godcoder can build and continuously improve its own",
+      "id": "51e5ce67-3ff1-49e3-99d6-6c33dd1db1d4",
+      "name": "Coding without AI",
+      "url": "https://isaaclyman.com/blog/posts/coding-without-ai/",
+      "oneLiner": "For the last 20 years or so I’ve been trying out a new way of programming, one that (surprisingly) doesn’t use any LLMs or AI coding agents at all.",
+      "description": "Technology\nCoding without AI: a revolutionary new way to work\nFor the last 20 years or so I’ve been trying out a new way of programming, one that (surprisingly) doesn’t use any LLMs or AI coding agents at all. It’s just me, a keyboard, and an IDE or text editor, writing code line by line—literally typing things like functions and curly braces.\nI realize this sounds eccentric. What am I, some kind ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -285,46 +269,75 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "agents"
+        "data",
+        "audio"
       ]
     },
     {
-      "id": "69d9b430-edd8-4f84-aa90-33e2f2771567",
-      "name": "Scopewalker",
-      "url": "https://github.com/timohaa/scopewalker-mcp",
-      "oneLiner": "AI agents will happily create 1000+ line source files and add a 20th parameter to a function call, even if there's a rule file telling them not to.",
-      "description": "AI agents will happily create 1000+ line source files and add a 20th parameter to a function call, even if there's a rule file telling them not to. Scopewalker exists to enforce stricter codebase standards.\nIt's a local MCP server (open source, runs over stdio, makes no network calls) that exposes 8 read-only tools:\nget_line_counts\n- per-file line counts (total, code, blank, comment) with sorting,",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "64e4f8b6-34f2-46cd-99c4-cd5e6410b4cd",
-      "name": "Opplic AI growth employees for web agencies",
-      "url": "https://opplic.com",
-      "oneLiner": "AI Growth hire for^Web Agencies,Results that Scale.",
-      "description": "AI Growth hire for^Web Agencies,Results that Scale.\nNo code required.\nNothing goes live until you approve it.\nYour AI growth team\nthat works 24/7 for every client\nOpplicturnseveryclientwebsiteintoacompoundinggrowthengine,learningthebusiness,findingmisseddemand,openingapproval-readyGrowthPRs,thenshippingwebsitecampaignimprovementsonlyafteryousayyes.\nFive steps.You stay in controlof all of them.\nopp",
+      "id": "2034e83d-d1ad-47af-b2cb-72dde74909ab",
+      "name": "StayThere.ai",
+      "url": "https://staythere.ai/",
+      "oneLiner": "StayThere is the Zillow of short-term rental direct booking.",
+      "description": "StayThere is the Zillow of short-term rental direct booking. We index 95,000+ vacation rentals from independent host sites onto one searchable map — find your stay here, then book straight with the host. No middleman, no Airbnb service fee, no surprise charges at checkout.\nOnline travel agencies like Airbnb and VRBO charge guests a service fee that averages around 14% of the booking subtotal — on ",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "design",
-        "marketing"
+        "search"
       ]
     },
     {
-      "id": "c07abbda-24cc-49cb-bf5d-48db6865a3f9",
+      "id": "cf320d6e-f6dc-4350-b745-fdc14f6bf7ec",
+      "name": "Updated my landing page with Fable (retro pixel style)",
+      "url": "https://www.tryguildly.com/",
+      "oneLiner": "Guildly gives you a small team that plans, builds, and ships together.",
+      "description": "Guildly gives you a small team that plans, builds, and ships together. You set the direction and approve what matters.\nFREE · MAC / LINUX / WINDOWS\nStop switching between terminals and tabs. Every agent gets a role and its own job, all in one workspace sharing the same context.\nRight now that means a dozen windows and you as the human switchboard. Not anymore.\nThey should share one brain, not a pi",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "id": "9d7c1e53-7001-4e17-bf8e-ebdd9fff7b7d",
+      "name": "T3MP3ST",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "oneLiner": "A multi-agent offensive-security framework, built to turn the AI coding agent you already run into a zero-day hunter.",
+      "description": "▄▄▄█████▓▓█████ ███▄ ▄███▓ ██▓███ ▓█████ ██████ ▄▄▄█████▓\n▓ ██▒ ▓▒▓█ ▀ ▓██▒▀█▀ ██▒▓██░ ██▒▓█ ▀ ▒██ ▒ ▓ ██▒ ▓▒\n▒ ▓██░ ▒░▒███ ▓██ ▓██░▓██░ ██▓▒▒███ ░ ▓██▄ ▒ ▓██░ ▒░\n░ ▓██▓ ░ ▒▓█ ▄ ▒██ ▒██ ▒██▄█▓▒ ▒▒▓█ ▄ ▒ ██▒░ ▓██▓ ░\n▒██▒ ░ ░▒████▒▒██▒ ░██▒▒██▒ ░ ░░▒████▒▒██████▒▒ ▒██▒ ░\n▒ ░░ ░░ ▒░ ░░ ▒░ ░ ░▒▓▒░ ░ ░░░ ▒░ ░▒ ▒▓▒ ▒ ░ ▒ ░░\n░ ░ ░ ░░ ░ ░░▒ ░ ░ ░ ░░ ░▒ ░ ░ ░\n░ ░ ░ ░ ░░ ░ ░ ░ ░ ░\n░ ░ ░ ░ ░ ░\nA multi-agent ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "93f5b2cb-89f8-4bc4-8348-f4f4531568de",
+      "name": "Talos",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "oneLiner": "Share your GPU with the Talos network and earn.",
+      "description": "Share your GPU with the Talos network and earn. This is the downloadable\nclient (intended to live in its own public GitHub repo, talos-worker\n). It\npairs with your Talos account using a code, then serves open-model inference\njobs from the network via your local Ollama, reporting\nuptime and earning a share of real usage revenue.\nThe Talos web app never imports this repo. The two only talk over the ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code"
+      ]
+    },
+    {
+      "id": "fccfa519-c148-4af9-9efa-48e7e24eadd0",
       "name": "Napaxi",
       "url": "https://github.com/antgroup/Napaxi",
       "oneLiner": "A mobile-native SDK for embedding agent experiences in your app.",
@@ -335,13 +348,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "productivity"
       ]
     },
     {
-      "id": "c045c016-38c4-4283-a153-c6879f21cdee",
+      "id": "39d236b0-1b86-40bd-a9d8-383f7e1e4a35",
       "name": "Fundamental-Ava",
       "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
       "oneLiner": "Fundamental Research Labs is building the next frontier of digital beings.",
@@ -358,7 +371,7 @@
       ]
     },
     {
-      "id": "e959ca8c-3fb8-4c25-a3ff-2d3549733d14",
+      "id": "85cb3954-ad62-4cae-b2b9-8bcdc6a92b60",
       "name": "ai-sticker-pack",
       "url": "https://github.com/Lumenocturne/ai-sticker-pack",
       "oneLiner": "const MARK = /\\[sticker[:：]\\s*([^\\]\\n]+?",
@@ -370,12 +383,12 @@
       "githubUrl": null,
       "categories": [
         "data",
-        "image",
-        "writing"
+        "writing",
+        "image"
       ]
     },
     {
-      "id": "b8a37549-bc83-43ea-918e-daf248bdcdb5",
+      "id": "3cf267a7-a19d-408e-a6bd-24f583432890",
       "name": "ironclaw-ai-vision",
       "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
       "oneLiner": "Born from the same Iron Mike methodology that forged IronClaw, ReflexForge shifts the battlefield from the gym to the mind.",
@@ -386,13 +399,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "image"
       ]
     },
     {
-      "id": "e9c0eb60-4ae2-40fe-b8b6-32c84cdf7941",
+      "id": "9d27f6b8-e1ff-485f-a7c6-c8ed2ccc4680",
       "name": "foxl-orchestrator",
       "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
       "oneLiner": "Welcome to Foxl – your tireless, ever-present digital companion designed to work alongside you around the clock.",
@@ -403,13 +416,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "productivity"
       ]
     },
     {
-      "id": "2456619b-7502-48b1-a0ba-d929828a4675",
+      "id": "a9963a0e-fb2f-4cd6-b3bd-9ccafe6feae0",
       "name": "ESEILANE",
       "url": "https://github.com/Aliu-AiRobot/ESEILANE",
       "oneLiner": "ESEILANE is a next-generation, high-performance Knowledge Graph engine purpose-built for Large Language Models (LLMs), GraphRAG, and AI-native applications.",
@@ -425,54 +438,19 @@
       ]
     },
     {
-      "id": "aff6b05a-2fca-428a-9fc4-b20e6607632c",
-      "name": "Local-Agent-Studio",
-      "url": "https://github.com/CrazyDashTool/Local-Agent-Studio",
-      "oneLiner": "Local-first Agent Mode for Windows, Linux, and macOS.",
-      "description": "Local-first Agent Mode for Windows, Linux, and macOS.\nA ChatGPT/Claude-style desktop app that connects your local and API-powered tools: Ollama, ComfyUI, web search providers, workspace files, local databases, and sandbox commands.\nLocal Agent Studio is built for people who want a normal chatbot interface, but with tools they control locally or through their own API keys.\n- Chatbot UI inspired by ",
+      "id": "444d0060-37a7-4442-8931-c74f2d20e4c2",
+      "name": "The bottleneck might be the air in the room",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "oneLiner": "You gather your most expensive people into a room to make your most important decisions.",
+      "description": "You gather your most expensive people into a room to make your most important decisions. Then, somewhere in the second hour, the room quietly gets worse at making them. Not the people. The room.\nI now travel with a portable CO2 monitor. Outdoors it reads around 400 parts per million. In a closed meeting room with a handful of people in it, I have watched it climb past 2,000. The photo here is a re",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "2e65361c-410e-4a1d-b43d-5540794f705f",
-      "name": "skills",
-      "url": "https://github.com/hankunpeng/skills",
-      "oneLiner": "A collection of custom AI agent skills for improving daily work efficiency.",
-      "description": "English | 简体中文\nA collection of custom AI agent skills for improving daily work efficiency.\nThis repository contains the following skills:\n- Description: Downloads YouTube subtitles and summarizes the video content using Gemini models while filtering out sponsor promotions.\n- Installation:\nnpx skills add hankunpeng/skills --skill yt-summarize\n- Description: Posts content (text and up to 4 images) t",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "image",
-        "writing"
-      ]
-    },
-    {
-      "id": "6faa97d6-d1e7-48d5-93cf-caf5af2b08aa",
-      "name": "Imagent",
-      "url": "https://github.com/unliftedq/imagent",
-      "oneLiner": "Imagent means Imagine agent: it gives AI agents the ability to generate images, video, and speech as a first-class step in their workflows, behind a single interface that hides the",
-      "description": "English · 简体中文\nImagent means Imagine agent: it gives AI agents the ability to generate images, video, and speech as a first-class step in their workflows, behind a single interface that hides the differences between providers and models — and it keeps every generated asset organized for reuse instead of throwing it away.\nIt ships as a command-line tool and a desktop application. All surfaces share",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "image",
-        "agents"
+        "design",
+        "code"
       ]
     }
   ]
