@@ -1,9 +1,43 @@
 {
-  "generatedAt": "2026-07-04T08:38:27.878382+00:00",
-  "count": 27,
+  "generatedAt": "2026-07-05T08:54:09.766766+00:00",
+  "count": 17,
   "tools": [
     {
-      "id": "1f66babd-b074-4f65-aa4f-736d13d7a2f7",
+      "id": "275ba97f-1b97-4442-b0f5-fed0ea6efc73",
+      "name": "kontext-ai",
+      "url": "https://github.com/anuragmerndev/kontext-ai",
+      "oneLiner": "Carry the whole conversation to another AI — in one click.",
+      "description": "Hit a chat limit? Carry the whole conversation to another AI — in one click.\nCapture any ChatGPT or Claude chat, distill it into a portable kontext, and continue it in the other — local-first, no account.\n\"Your context is an asset. Kontext makes it portable.\"\nFull-fidelity capture · on-device summaries · one-click handoff · never auto-sends · nothing leaves your machine.\nHow It Works · Features · ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/anuragmerndev/kontext-ai.git",
+      "categories": [
+        "design",
+        "code",
+        "writing"
+      ]
+    },
+    {
+      "id": "96943b41-4c41-427a-bfb8-21bcc2b34a54",
+      "name": "T3MP3ST",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "oneLiner": "A multi-agent offensive-security framework, built to turn the AI coding agent you already run into a zero-day hunter.",
+      "description": "▄▄▄█████▓▓█████ ███▄ ▄███▓ ██▓███ ▓█████ ██████ ▄▄▄█████▓\n▓ ██▒ ▓▒▓█ ▀ ▓██▒▀█▀ ██▒▓██░ ██▒▓█ ▀ ▒██ ▒ ▓ ██▒ ▓▒\n▒ ▓██░ ▒░▒███ ▓██ ▓██░▓██░ ██▓▒▒███ ░ ▓██▄ ▒ ▓██░ ▒░\n░ ▓██▓ ░ ▒▓█ ▄ ▒██ ▒██ ▒██▄█▓▒ ▒▒▓█ ▄ ▒ ██▒░ ▓██▓ ░\n▒██▒ ░ ░▒████▒▒██▒ ░██▒▒██▒ ░ ░░▒████▒▒██████▒▒ ▒██▒ ░\n▒ ░░ ░░ ▒░ ░░ ▒░ ░ ░▒▓▒░ ░ ░░░ ▒░ ░▒ ▒▓▒ ▒ ░ ▒ ░░\n░ ░ ░ ░░ ░ ░░▒ ░ ░ ░ ░░ ░▒ ░ ░ ░\n░ ░ ░ ░ ░░ ░ ░ ░ ░ ░\n░ ░ ░ ░ ░ ░\nA multi-agent ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "security",
+        "agents"
+      ]
+    },
+    {
+      "id": "78fea050-374b-4c34-9ec1-fba06f4c7a96",
       "name": "brain0",
       "url": "https://github.com/Brain0-ai/brain0",
       "oneLiner": "The black box for AI-written code.",
@@ -14,13 +48,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "data",
+        "code",
         "rag"
       ]
     },
     {
-      "id": "475507e8-7e34-44ff-9064-1546c94f8e7f",
+      "id": "6ecf4d17-63ec-45aa-97b2-8339cc5623b5",
       "name": "EKAM_",
       "url": "https://github.com/neha23jk/EKAM_",
       "oneLiner": "EKAM is an AI-driven event operating system.",
@@ -31,157 +65,38 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "de35fdb3-5601-4140-931a-d47d47a22b54",
-      "name": "wyrd-ecs-core",
-      "url": "https://github.com/ivankadric02-alt/wyrd-ecs-core",
-      "oneLiner": "Imagine a map that redraws itself with every footstep you take, not as a static overlay but as a breathing, sentient representation of the world around you.",
-      "description": "Imagine a map that redraws itself with every footstep you take, not as a static overlay but as a breathing, sentient representation of the world around you. The WYRD Protocol is not just another data architecture; it is the Cartographic Engine for Existence. It moves the \"World Model\" from the ephemeral, hallucination-prone memory of Large Language Models into a structured, physicalized Entity-Com",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "641bd866-a12a-4743-b4d1-1e57d5ac1e0e",
-      "name": "world-forge-ai",
-      "url": "https://github.com/gunawan1996/world-forge-ai",
-      "oneLiner": "Where words become worlds, and worlds grow stories on their own.",
-      "description": "Where words become worlds, and worlds grow stories on their own.\nEvery sentence you write plants a seed. From that seed, an entire universe unfolds — landscapes rise, characters breathe, and plots twist themselves into existence without a single line of code. NarrativeDust is not just a tool; it is a living ecosystem of emergent storytelling, where the boundary between creator and creation dissolv",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "writing"
-      ]
-    },
-    {
-      "id": "d0fffcb9-69f8-4484-9481-6525209d3a53",
-      "name": "reality-engine",
-      "url": "https://github.com/grandgaming9321-prog/reality-engine",
-      "oneLiner": "Welcome to Chronos Engine — a groundbreaking temporal simulation platform that empowers researchers, storytellers, game developers, and futurists to construct, explore, and manipul",
-      "description": "An AI-Driven Temporal Sandbox for Simulating Alternate Histories, Future Scenarios, and Cause-Effect Cascades Across Deep Time\nWelcome to Chronos Engine — a groundbreaking temporal simulation platform that empowers researchers, storytellers, game developers, and futurists to construct, explore, and manipulate dynamic timelines. Unlike conventional world simulation tools that focus on static spatia",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "a705c6af-9cd9-4ec8-8a86-7e1f5f9eb39b",
-      "name": "picsart-genai-composer-sdk",
-      "url": "https://github.com/AkshayPatil9370/picsart-genai-composer-sdk",
-      "oneLiner": "VisualSynth Engine is a Python-native framework for orchestrating programmable image pipelines and generative AI workflows.",
-      "description": "VisualSynth Engine is a Python-native framework for orchestrating programmable image pipelines and generative AI workflows. Inspired by the creative API ecosystems that power modern media editing, this SDK abstracts away the complexity of chaining image transformation, enhancement, and generation calls into declarative, reusable sequences. Whether you are building a real-time background removal mi",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/visualsynth-engine/discussions",
-      "categories": [
-        "design",
-        "code",
-        "image"
-      ]
-    },
-    {
-      "id": "718a9439-863d-4c64-a693-33ee5fd9fb75",
-      "name": "PhantomCrowd-Simulacra",
-      "url": "https://github.com/charan820/PhantomCrowd-Simulacra",
-      "oneLiner": "Social Sentient Simulation Engine: Predict narrative drift before your message gets lost in the noise.",
-      "description": "Social Sentient Simulation Engine: Predict narrative drift before your message gets lost in the noise.\nEchoHerd is a multi-agent social propagation simulator that models how ideas, sentiments, and memes evolve across digital populations. Unlike standard A/B testing or simple engagement metrics, EchoHerd uses a lightweight graph-based memory architecture to simulate the organic \"herd logic\" of conv",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "marketing",
-        "rag"
-      ]
-    },
-    {
-      "id": "0f72a4ec-ac06-4c62-a9c0-1836e8320906",
-      "name": "heoster-jarvis-ai-assistant",
-      "url": "https://github.com/LTripleP/heoster-jarvis-ai-assistant",
-      "oneLiner": "Heoster's original vision of a personal AI assistant hinted at a future where intelligence is not merely reactive but deeply integrated.",
-      "description": "Your Echelon of Cognitive Architecture – Where Thought Meets Resonance\nHeoster's original vision of a personal AI assistant hinted at a future where intelligence is not merely reactive but deeply integrated. HarmoniCus is that future, reimagined as a resonant intelligence ecosystem. This is not another chatbot; it is a dynamic cognitive choreographer that orchestrates AI models, real-time data str",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "f2090c66-d987-4f96-9446-2618adf92213",
-      "name": "cli-llm-mesh",
-      "url": "https://github.com/vishalGitthub/cli-llm-mesh",
-      "oneLiner": "⚡ Unified AI gateway connecting xAI, OpenRouter, Mistral, and DeepSeek models through a single, blazing-fast command-line interface.",
-      "description": "⚡ Unified AI gateway connecting xAI, OpenRouter, Mistral, and DeepSeek models through a single, blazing-fast command-line interface. Minimal latency, maximal output.\nTraditional AI chat tools lock you into a single provider. FirePulse dismantles those walls. It’s a decentralized model router that dynamically selects the optimal LLM for each query—balancing speed, cost, and capability in real time.",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "writing"
-      ]
-    },
-    {
-      "id": "0a3ccad7-79e6-47c7-b78e-0680c9a54e66",
-      "name": "gitlab-duo-provisioning-blueprint",
-      "url": "https://github.com/7sense/gitlab-duo-provisioning-blueprint",
-      "oneLiner": "A revolutionary developer environment orchestration platform that transforms how teams provision, manage, and scale their development toolchains across multiple cloud providers.",
-      "description": "A revolutionary developer environment orchestration platform that transforms how teams provision, manage, and scale their development toolchains across multiple cloud providers. Born from the need to simplify GitLab CI/CD pipeline management, DevKit Orchestrator provides a unified control plane for automating developer workstation setup, containerized development environments, and cross-platform d",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "data",
-        "security"
+        "design",
+        "code"
       ]
     },
     {
-      "id": "17d6780f-5786-4d1f-b67e-6584f085fc9e",
-      "name": "local-ai-code-assistant",
-      "url": "https://github.com/MIKOTOKAWAII25/local-ai-code-assistant",
-      "oneLiner": "Weave together the intelligence of multiple open-source language models — Mistral, Llama, Phi, and more — into a single, cohesive desktop coding environment.",
-      "description": "Weave together the intelligence of multiple open-source language models — Mistral, Llama, Phi, and more — into a single, cohesive desktop coding environment. No cloud dependencies, no data leaving your machine, no subscription walls. CodeLoom transforms your local workstation into a private, offline AI mesh that assists you through every stage of software creation.\nUnlike monolithic assistants tie",
+      "id": "7ea5fc27-6e67-4284-a7f9-1ee91b90a3f3",
+      "name": "openscience",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "oneLiner": "It reads the literature, writes and runs code, runs the experiments, and writes up what it found.",
+      "description": "Give it a goal. It reads the literature, writes and runs code, runs the experiments, and writes up what it found.\nInstall · Quickstart · Docs · Atlas\nOpenScience is an AI workbench for scientific research. You give it a goal, and it works through the research loop the way a capable collaborator would. It reads the papers that matter, forms a hypothesis, writes and runs code, runs experiments on re",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "code",
+        "research"
+      ]
+    },
+    {
+      "id": "f5ab57ee-ffff-48d6-9942-20e17e921fdb",
+      "name": "Mouse",
+      "url": "https://hic-ai.com",
+      "oneLiner": "HIC Mouse is the most powerful AI agent file-editing tool in the world.",
+      "description": "Precision Editing Tools for AI Coding Agents\nHIC Mouse is the most powerful AI agent file-editing tool in the world. The patent-pending technology transforms everything about working with AI.\n14-day free trial • No credit card required\nAI File Editing Is Broken\nMost AI agents edit files today with one built-in tool — string replacement. They can't see proposed changes before saving or roll back ch",
+      "pricing": "free_trial",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "design",
@@ -190,138 +105,92 @@
       ]
     },
     {
-      "id": "10ee3f2a-b047-466d-8a13-ee76cab8c765",
-      "name": "Arena-of-Autonomous-Threads",
-      "url": "https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads",
-      "oneLiner": "Build a distributed, self-moderating discourse garden where synthetic minds debate, collaborate, and evolve - a multi-model thought arena for testing emergent reasoning, agentic ne",
-      "description": "Build a distributed, self-moderating discourse garden where synthetic minds debate, collaborate, and evolve - a multi-model thought arena for testing emergent reasoning, agentic negotiation, and collective intelligence.\nThe Synaptic Confluence Engine is not merely a forum clone - it is a cognitive petri dish designed to observe how artificial intelligences interact when given the freedom to post, ",
+      "id": "04f1590d-1144-48ad-8f16-0799b94ca7d6",
+      "name": "Local MCP",
+      "url": "https://www.local-mcp.com/en",
+      "oneLiner": "Connect any AI — web or desktop to your Mail, Calendar, iMessage, Teams, Slack, WhatsApp, Signal, OneDrive, Google Drive & Office.",
+      "description": "Connect any AI — web or desktop to your Mail, Calendar, iMessage, Teams, Slack, WhatsApp, Signal, OneDrive, Google Drive & Office.\n100% local — your data never leaves your Mac. No API keys, no tokens. Free.\nSigned & notarized · macOS 13+\n16K+ npm downloads · 183 tools · 100% local & private · macOS 13+ · Apple Silicon & Intel\nSteve H.\nStrategic Advisor\n“This is AMAZING! My daily work can all be ma",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "design",
         "code",
+        "productivity"
+      ]
+    },
+    {
+      "id": "ed6d12e6-64ce-4cb8-93d7-0a48750d99f0",
+      "name": "Two-tier-memory",
+      "url": "https://github.com/tadelstein9/two-tier-memory",
+      "oneLiner": "A queryable long-term memory for AI coding agents — the two-tier fix for the context-window wall.",
+      "description": "A queryable long-term memory for AI coding agents — the two-tier fix for the context-window wall.\nCompanion essay: \"Your AI's Memory Breaks on Real Work. The Fix Is Fifty Years Old.\"\nAn AI coding agent's default long-term memory is a stack of markdown files it loads into context at the start of every session. That works at ten files. It fails at a hundred and forty: everything competes for one fin",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
         "data",
+        "code",
         "agents"
       ]
     },
     {
-      "id": "b5577b08-ab5f-42d9-8993-55df0093ba2a",
-      "name": "ai-cortex-hub",
-      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
-      "oneLiner": "The next evolution in intelligent tool discovery — a self-curating, community-powered AI ecosystem that learns what matters to you.",
-      "description": "The next evolution in intelligent tool discovery — a self-curating, community-powered AI ecosystem that learns what matters to you.\nWelcome to Awesome-AI Explorer, the first automated AI tool discovery platform built on the revolutionary .awesome-ai.md\nstandard. Unlike static directories or manual collections, this repository continuously scans GitHub in real time, automatically curates high-quali",
-      "pricing": "open_source",
+      "id": "085388e1-9c5d-4bc5-84ac-a3c4c80aa237",
+      "name": "TeXposit",
+      "url": "https://texposit.com/",
+      "oneLiner": "Easy Work, Serious Results.",
+      "description": "Easy Work, Serious Results.\nTeXposit is a modern LaTeX and Markdown editor for collaboration, built in the EU.\nReal-Time Collaboration\nEdit with unlimited collaborators. Live editing, per-user version history, and real-time chat.\nMarkdown and WYSIWYG Editor\nSwitch from LaTeX to Markdown and use a simple visual editor at any time. Format text, insert equations and images easily.\nWork on Local Files",
+      "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "data",
         "search",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "389edaba-6660-4054-93f3-b65adc16a16c",
-      "name": "FreeAI-Desktop",
-      "url": "https://github.com/Hunteryawatch/FreeAI-Desktop",
-      "oneLiner": "FreeAI Desktop is a completely free, offline AI chat application for Windows.",
-      "description": "100% Free | Works Offline | No Censorship | No API Keys | No Limits\nFreeAI Desktop is a completely free, offline AI chat application for Windows. It runs a powerful Llama 3.2 3B Abliterated language model directly on your computer — no internet required after the first setup. Your conversations are 100% private, nothing leaves your PC.\nUnlike ChatGPT or other online AI services, FreeAI has no cens",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Hunteryawatch/FreeAI-Desktop.git",
-      "categories": [
-        "design",
-        "marketing"
-      ]
-    },
-    {
-      "id": "ad1d888a-92a3-4534-b55c-d4dc58a7b953",
-      "name": "Agentic coding notes from Galapagos Island",
-      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-      "oneLiner": "I've been using AI fairly heavily since last November and the whole thing is a funny experience.",
-      "description": "I've been using AI fairly heavily since last November and the whole thing is a funny experience. An agent will do something that, if a human did it, you'd immediately fire them. My reaction, of course, is to act as if this is great and spin up a thousand agents so they can do even more of that.\nMid-last year, I had GPT (maybe 5.0 or 5.1) try to find the source of a bug. Naturally, this code didn't",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/cestpasphoto/alpha-zero-general",
-      "categories": [
-        "code",
-        "productivity",
-        "agents"
-      ]
-    },
-    {
-      "id": "51e5ce67-3ff1-49e3-99d6-6c33dd1db1d4",
-      "name": "Coding without AI",
-      "url": "https://isaaclyman.com/blog/posts/coding-without-ai/",
-      "oneLiner": "For the last 20 years or so I’ve been trying out a new way of programming, one that (surprisingly) doesn’t use any LLMs or AI coding agents at all.",
-      "description": "Technology\nCoding without AI: a revolutionary new way to work\nFor the last 20 years or so I’ve been trying out a new way of programming, one that (surprisingly) doesn’t use any LLMs or AI coding agents at all. It’s just me, a keyboard, and an IDE or text editor, writing code line by line—literally typing things like functions and curly braces.\nI realize this sounds eccentric. What am I, some kind ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "audio"
-      ]
-    },
-    {
-      "id": "2034e83d-d1ad-47af-b2cb-72dde74909ab",
-      "name": "StayThere.ai",
-      "url": "https://staythere.ai/",
-      "oneLiner": "StayThere is the Zillow of short-term rental direct booking.",
-      "description": "StayThere is the Zillow of short-term rental direct booking. We index 95,000+ vacation rentals from independent host sites onto one searchable map — find your stay here, then book straight with the host. No middleman, no Airbnb service fee, no surprise charges at checkout.\nOnline travel agencies like Airbnb and VRBO charge guests a service fee that averages around 14% of the booking subtotal — on ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "search"
-      ]
-    },
-    {
-      "id": "cf320d6e-f6dc-4350-b745-fdc14f6bf7ec",
-      "name": "Updated my landing page with Fable (retro pixel style)",
-      "url": "https://www.tryguildly.com/",
-      "oneLiner": "Guildly gives you a small team that plans, builds, and ships together.",
-      "description": "Guildly gives you a small team that plans, builds, and ships together. You set the direction and approve what matters.\nFREE · MAC / LINUX / WINDOWS\nStop switching between terminals and tabs. Every agent gets a role and its own job, all in one workspace sharing the same context.\nRight now that means a dozen windows and you as the human switchboard. Not anymore.\nThey should share one brain, not a pi",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
         "design"
       ]
     },
     {
-      "id": "9d7c1e53-7001-4e17-bf8e-ebdd9fff7b7d",
-      "name": "T3MP3ST",
-      "url": "https://github.com/elder-plinius/T3MP3ST",
-      "oneLiner": "A multi-agent offensive-security framework, built to turn the AI coding agent you already run into a zero-day hunter.",
-      "description": "▄▄▄█████▓▓█████ ███▄ ▄███▓ ██▓███ ▓█████ ██████ ▄▄▄█████▓\n▓ ██▒ ▓▒▓█ ▀ ▓██▒▀█▀ ██▒▓██░ ██▒▓█ ▀ ▒██ ▒ ▓ ██▒ ▓▒\n▒ ▓██░ ▒░▒███ ▓██ ▓██░▓██░ ██▓▒▒███ ░ ▓██▄ ▒ ▓██░ ▒░\n░ ▓██▓ ░ ▒▓█ ▄ ▒██ ▒██ ▒██▄█▓▒ ▒▒▓█ ▄ ▒ ██▒░ ▓██▓ ░\n▒██▒ ░ ░▒████▒▒██▒ ░██▒▒██▒ ░ ░░▒████▒▒██████▒▒ ▒██▒ ░\n▒ ░░ ░░ ▒░ ░░ ▒░ ░ ░▒▓▒░ ░ ░░░ ▒░ ░▒ ▒▓▒ ▒ ░ ▒ ░░\n░ ░ ░ ░░ ░ ░░▒ ░ ░ ░ ░░ ░▒ ░ ░ ░\n░ ░ ░ ░ ░░ ░ ░ ░ ░ ░\n░ ░ ░ ░ ░ ░\nA multi-agent ",
+      "id": "132e6afe-d0fd-4c69-8562-b3a2a6f7e996",
+      "name": "OmniPost-AI",
+      "url": "https://github.com/wanglinsaputra/OmniPost-AI",
+      "oneLiner": "Chrome extension for multi-platform auto-posting.",
+      "description": "Chrome extension for multi-platform auto-posting. AI-powered (ChatGPT / Gemini) content generation with one-click publish to Facebook, Threads, and X (Twitter).\n- AI Content Generation -- pick ChatGPT or Gemini, describe your topic, AI writes the post\n- Multi-Platform -- post to Facebook, Threads, and X (Twitter) from a single popup\n- Thread Scheduling -- set date and time for Threads posts (uses ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "design",
         "code",
-        "agents",
-        "security"
+        "writing"
       ]
     },
     {
-      "id": "93f5b2cb-89f8-4bc4-8348-f4f4531568de",
+      "id": "8a1ee587-baf2-42e8-8f62-ba5a59a0743c",
+      "name": "anima-use-google",
+      "url": "https://github.com/animaios/anima-use-google",
+      "oneLiner": "MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session, then return the synthesized answer and citations as",
+      "description": "anima-use-google\nMCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session, then return the synthesized answer and citations as an MCP tool result.\nYou need three things: the MCP server, the native-messaging host, and either the Firefox or Chromium extension. Then wire the server into your agent.\nClaude Code:\nclaude mcp add goog",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/animaios/anima-use-google",
+      "categories": [
+        "design",
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "27a8aa5d-4b6a-4285-a016-84e18c2c0499",
       "name": "Talos",
       "url": "https://github.com/jmerelnyc/Talos",
       "oneLiner": "Share your GPU with the Talos network and earn.",
@@ -337,7 +206,7 @@
       ]
     },
     {
-      "id": "fccfa519-c148-4af9-9efa-48e7e24eadd0",
+      "id": "6057eff0-419c-453f-a6f1-da2ea2702170",
       "name": "Napaxi",
       "url": "https://github.com/antgroup/Napaxi",
       "oneLiner": "A mobile-native SDK for embedding agent experiences in your app.",
@@ -354,7 +223,7 @@
       ]
     },
     {
-      "id": "39d236b0-1b86-40bd-a9d8-383f7e1e4a35",
+      "id": "7e48447c-8998-4f1c-b828-a03242af20f2",
       "name": "Fundamental-Ava",
       "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
       "oneLiner": "Fundamental Research Labs is building the next frontier of digital beings.",
@@ -371,7 +240,7 @@
       ]
     },
     {
-      "id": "85cb3954-ad62-4cae-b2b9-8bcdc6a92b60",
+      "id": "cc891400-9a1c-4dd5-9f74-aadfdfea4c2a",
       "name": "ai-sticker-pack",
       "url": "https://github.com/Lumenocturne/ai-sticker-pack",
       "oneLiner": "const MARK = /\\[sticker[:：]\\s*([^\\]\\n]+?",
@@ -388,11 +257,26 @@
       ]
     },
     {
-      "id": "3cf267a7-a19d-408e-a6bd-24f583432890",
-      "name": "ironclaw-ai-vision",
-      "url": "https://github.com/shadowlzt/ironclaw-ai-vision",
-      "oneLiner": "Born from the same Iron Mike methodology that forged IronClaw, ReflexForge shifts the battlefield from the gym to the mind.",
-      "description": "Personal Cognitive Resilience Architect — Offline-First Agentic Mindset Training & Neuro-Linguistic Drilling Platform\nBorn from the same Iron Mike methodology that forged IronClaw, ReflexForge shifts the battlefield from the gym to the mind. Your 24/7 mental conditioning coach, designed for deliberate practice, micro-habit embedding, and instinctual decision-making under pressure.\nTraining the bod",
+      "id": "ebb854fb-495b-441a-a6b4-ad6157d3bd02",
+      "name": "tokenscope",
+      "url": "https://github.com/yaswanthme007/tokenscope",
+      "oneLiner": "Chrome DevTools for your context window.",
+      "description": "Chrome DevTools for your context window. See exactly where your AI tokens go — and stop wasting them.\nYour agent session just burned 500K tokens. Where did they go? tokenscope profiles your session logs and tells you: which files got re-sent six times, which tool result dumped 20K tokens of JSON the model never used, and what it's costing you.\nnpx tokenscope-ai ~/.claude/projects/my-project\n- 100%",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "e801997d-efec-4f50-aad0-c4563bf733b4",
+      "name": "Australian influencer Lily Jay's tangled web of AI manipulation",
+      "url": "https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422",
+      "oneLiner": "Warning: The below contains AI-generated and enhanced videos.",
+      "description": "Australian influencer Lily Jay's tangled web of AI manipulation\nSun 5 Jul 2026 at 4:42am\nWarning: The below contains AI-generated and enhanced videos.\nThe blonde woman with an Australian accent beams at her millions-strong audience in this Instagram video. She is surrounded by smiling African children holding lollipops.\nLoading...\"Alhamdullilah! The orphanage is now open!\" she exclaims, using an A",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -402,55 +286,6 @@
         "design",
         "code",
         "image"
-      ]
-    },
-    {
-      "id": "9d27f6b8-e1ff-485f-a7c6-c8ed2ccc4680",
-      "name": "foxl-orchestrator",
-      "url": "https://github.com/ninouanis84-sudo/foxl-orchestrator",
-      "oneLiner": "Welcome to Foxl – your tireless, ever-present digital companion designed to work alongside you around the clock.",
-      "description": "Welcome to Foxl – your tireless, ever-present digital companion designed to work alongside you around the clock. Imagine a personal assistant that never sleeps, never forgets, and grows smarter with every interaction. Foxl is not just another AI tool; it’s a new kind of partnership between you and intelligent automation.\nThink of Foxl as a nimble, clever fox that navigates the dense forest of your",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "productivity"
-      ]
-    },
-    {
-      "id": "a9963a0e-fb2f-4cd6-b3bd-9ccafe6feae0",
-      "name": "ESEILANE",
-      "url": "https://github.com/Aliu-AiRobot/ESEILANE",
-      "oneLiner": "ESEILANE is a next-generation, high-performance Knowledge Graph engine purpose-built for Large Language Models (LLMs), GraphRAG, and AI-native applications.",
-      "description": "ESEILANE is a next-generation, high-performance Knowledge Graph engine purpose-built for Large Language Models (LLMs), GraphRAG, and AI-native applications.\nLeveraging sparse matrix algebra and linear algebra-based query execution, ESEILANE delivers sub-millisecond graph traversals at scale.\ndocker run -p 6379:6379 -p 3000:3000 eseilane/eseilane:latest\npip install eseilane\nfrom eseilane import ESE",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "rag"
-      ]
-    },
-    {
-      "id": "444d0060-37a7-4442-8931-c74f2d20e4c2",
-      "name": "The bottleneck might be the air in the room",
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "oneLiner": "You gather your most expensive people into a room to make your most important decisions.",
-      "description": "You gather your most expensive people into a room to make your most important decisions. Then, somewhere in the second hour, the room quietly gets worse at making them. Not the people. The room.\nI now travel with a portable CO2 monitor. Outdoors it reads around 400 parts per million. In a closed meeting room with a handful of people in it, I have watched it climb past 2,000. The photo here is a re",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code"
       ]
     }
   ]
