@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-05T08:54:09.766766+00:00",
-  "count": 17,
+  "generatedAt": "2026-07-06T10:24:11.250518+00:00",
+  "count": 23,
   "tools": [
     {
-      "id": "275ba97f-1b97-4442-b0f5-fed0ea6efc73",
+      "id": "dfb88800-7615-4e61-ae26-512a79ca86db",
       "name": "kontext-ai",
       "url": "https://github.com/anuragmerndev/kontext-ai",
       "oneLiner": "Carry the whole conversation to another AI — in one click.",
@@ -14,13 +14,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/anuragmerndev/kontext-ai.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "writing"
       ]
     },
     {
-      "id": "96943b41-4c41-427a-bfb8-21bcc2b34a54",
+      "id": "6e1e987b-5b86-415b-8567-31424aab2457",
+      "name": "prompt-warrior",
+      "url": "https://github.com/timoncool/prompt-warrior",
+      "oneLiner": "Prompt Warrior is an agent skill that reads your local session logs — Claude Code out of the box; Codex CLI, OpenCode, Gemini CLI and Copilot via documented log formats — and turns",
+      "description": "Prompt Warrior is an agent skill that reads your local session logs — Claude Code out of the box; Codex CLI, OpenCode, Gemini CLI and Copilot via documented log formats — and turns them into something between a psychological profile and an RPG character sheet: real numbers on a fixed scale, a title you didn't choose but absolutely deserve, and achievements you've been grinding for months without k",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/timoncool/prompt-warrior",
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "df05f8ca-33f5-4cef-9dda-75235cb06998",
       "name": "T3MP3ST",
       "url": "https://github.com/elder-plinius/T3MP3ST",
       "oneLiner": "A multi-agent offensive-security framework, built to turn the AI coding agent you already run into a zero-day hunter.",
@@ -32,12 +49,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "security",
-        "agents"
+        "agents",
+        "security"
       ]
     },
     {
-      "id": "78fea050-374b-4c34-9ec1-fba06f4c7a96",
+      "id": "4f28e0b3-88be-457f-8d8a-3fab95080abd",
       "name": "brain0",
       "url": "https://github.com/Brain0-ai/brain0",
       "oneLiner": "The black box for AI-written code.",
@@ -54,28 +71,45 @@
       ]
     },
     {
-      "id": "6ecf4d17-63ec-45aa-97b2-8339cc5623b5",
-      "name": "EKAM_",
-      "url": "https://github.com/neha23jk/EKAM_",
-      "oneLiner": "EKAM is an AI-driven event operating system.",
-      "description": "EKAM is an AI-driven event operating system. An organizer describes a competition in plain English; EKAM turns that into a structured Universal Blueprint, asks for what's missing, and — after the organizer approves — builds and runs the whole event end-to-end.\nThe key idea: EKAM is format-agnostic. The same engine runs a hackathon, an ideathon, a case competition, a coding contest / CTF, a quiz, a",
+      "id": "6bd4ebcf-03f0-4118-a3d6-49eed5e6afb1",
+      "name": "ESC-Emotional-Self-Correction",
+      "url": "https://github.com/GenAI4E/ESC-Emotional-Self-Correction",
+      "oneLiner": "\"AI models can have feelings too.",
+      "description": "\"AI models can have feelings too.\" — Geoffrey Hinton, 2024\nTL;DR • The Question • ESC Framework • Results • Qualitative • Quick Start • Citation\nESC is a training-free, plug-and-play framework that makes VLMs more reliable — by making them a little sad. 😢 A verifier flags a shaky answer, ESC injects an emotional cue (\"I'm feeling really sad and disappointed...\"), and the model slows down and self-",
       "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/genai4e/ESC.git",
       "categories": [
-        "data",
-        "design",
-        "code"
+        "research",
+        "code",
+        "design"
       ]
     },
     {
-      "id": "7ea5fc27-6e67-4284-a7f9-1ee91b90a3f3",
-      "name": "openscience",
-      "url": "https://github.com/synthetic-sciences/openscience",
-      "oneLiner": "It reads the literature, writes and runs code, runs the experiments, and writes up what it found.",
-      "description": "Give it a goal. It reads the literature, writes and runs code, runs the experiments, and writes up what it found.\nInstall · Quickstart · Docs · Atlas\nOpenScience is an AI workbench for scientific research. You give it a goal, and it works through the research loop the way a capable collaborator would. It reads the papers that matter, forms a hypothesis, writes and runs code, runs experiments on re",
+      "id": "0652358e-ae71-43a4-9448-b7ad279f7049",
+      "name": "openvoice-ai",
+      "url": "https://github.com/nikpottbecker/openvoice-ai",
+      "oneLiner": "The Open-Source AI Communication Platform.",
+      "description": "The Open-Source AI Communication Platform.\nOpenVoice AI is a self-hosted communication platform that connects phone calls, email, calendars, automations, dashboards and AI providers in one modular system.\nThe current release focuses on a German AI phone agent with Asterisk, local speech-to-text, local text-to-speech, AI call summaries, email drafts and a protected web dashboard. The long-term goal",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/nikpottbecker/openvoice-ai.git",
+      "categories": [
+        "productivity",
+        "design",
+        "voice"
+      ]
+    },
+    {
+      "id": "0738c9f0-3d1f-418b-9c81-302dabee8b7b",
+      "name": "When AI Costs More Than the Engineer",
+      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+      "oneLiner": "3x its payroll on compute.",
+      "description": "Anthropic spends 2.3x its payroll on compute.1 With ~5,000 employees & roughly $10b in inference & training spend in 2026, that works out to about $2m of compute per employee per year against a likely all-in comp of $500k+.2\nThe rest of the software market trails. The top 1% of companies spend $89k per engineer per year on AI, 40% of a fully-loaded $224k senior engineer salary3.4 The median spends",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -83,80 +117,129 @@
       "githubUrl": null,
       "categories": [
         "data",
-        "code",
-        "research"
-      ]
-    },
-    {
-      "id": "f5ab57ee-ffff-48d6-9942-20e17e921fdb",
-      "name": "Mouse",
-      "url": "https://hic-ai.com",
-      "oneLiner": "HIC Mouse is the most powerful AI agent file-editing tool in the world.",
-      "description": "Precision Editing Tools for AI Coding Agents\nHIC Mouse is the most powerful AI agent file-editing tool in the world. The patent-pending technology transforms everything about working with AI.\n14-day free trial • No credit card required\nAI File Editing Is Broken\nMost AI agents edit files today with one built-in tool — string replacement. They can't see proposed changes before saving or roll back ch",
-      "pricing": "free_trial",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
+        "rag",
         "agents"
       ]
     },
     {
-      "id": "04f1590d-1144-48ad-8f16-0799b94ca7d6",
-      "name": "Local MCP",
-      "url": "https://www.local-mcp.com/en",
-      "oneLiner": "Connect any AI — web or desktop to your Mail, Calendar, iMessage, Teams, Slack, WhatsApp, Signal, OneDrive, Google Drive & Office.",
-      "description": "Connect any AI — web or desktop to your Mail, Calendar, iMessage, Teams, Slack, WhatsApp, Signal, OneDrive, Google Drive & Office.\n100% local — your data never leaves your Mac. No API keys, no tokens. Free.\nSigned & notarized · macOS 13+\n16K+ npm downloads · 183 tools · 100% local & private · macOS 13+ · Apple Silicon & Intel\nSteve H.\nStrategic Advisor\n“This is AMAZING! My daily work can all be ma",
-      "pricing": "free",
+      "id": "d5396d1a-c6e4-446a-96b3-5508d9cf6b08",
+      "name": "PAI",
+      "url": "https://www.whitematterlabs.ai/",
+      "oneLiner": "Meet PAI, your personal AI assistant.",
+      "description": "Your always-on\nalways buddy.\nMeet PAI, your personal AI assistant. It can do everything you do on your computer. It learns from your actions and maintains your digital life, always anticipating your needs and thinking one step ahead.\nSafe. Local. Runs on your machine. Free and open source.\nYour personal assistant, running on your own machine.\nBecause PAI remembers your context and lives in the app",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
+      "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
-        "code",
-        "productivity"
-      ]
-    },
-    {
-      "id": "ed6d12e6-64ce-4cb8-93d7-0a48750d99f0",
-      "name": "Two-tier-memory",
-      "url": "https://github.com/tadelstein9/two-tier-memory",
-      "oneLiner": "A queryable long-term memory for AI coding agents — the two-tier fix for the context-window wall.",
-      "description": "A queryable long-term memory for AI coding agents — the two-tier fix for the context-window wall.\nCompanion essay: \"Your AI's Memory Breaks on Real Work. The Fix Is Fifty Years Old.\"\nAn AI coding agent's default long-term memory is a stack of markdown files it loads into context at the start of every session. That works at ten files. It fails at a hundred and forty: everything competes for one fin",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "data",
-        "code",
         "agents"
       ]
     },
     {
-      "id": "085388e1-9c5d-4bc5-84ac-a3c4c80aa237",
-      "name": "TeXposit",
-      "url": "https://texposit.com/",
-      "oneLiner": "Easy Work, Serious Results.",
-      "description": "Easy Work, Serious Results.\nTeXposit is a modern LaTeX and Markdown editor for collaboration, built in the EU.\nReal-Time Collaboration\nEdit with unlimited collaborators. Live editing, per-user version history, and real-time chat.\nMarkdown and WYSIWYG Editor\nSwitch from LaTeX to Markdown and use a simple visual editor at any time. Format text, insert equations and images easily.\nWork on Local Files",
-      "pricing": "free",
+      "id": "67c1d18a-6497-41ee-9c68-904ffae90928",
+      "name": "Excalibur. The open-source AI coding agent for product engineers",
+      "url": "https://getexcalibur.dev",
+      "oneLiner": "The AI coding agent for product engineers.",
+      "description": "The AI coding agent for product engineers.\nMost agents write code. Excalibur knows the whole product cycle — discover, build, verify, ship.\nWith Excalibur you can:\nExcalibur enables you to build like never before.\nFive capabilities built right into the engine — the moats that hold up against any other AI coding tool.\nTime-travel your work\nEvery run is an immutable, append-only event log — so you s",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "search"
+      ]
+    },
+    {
+      "id": "133c4fff-da1c-4839-9342-a6a3e2c2caf5",
+      "name": "Clone. Swap your products in any viral reel",
+      "url": "https://quinn.live/clone/",
+      "oneLiner": "The internet already tested your next ad.",
+      "description": "The internet already tested your next ad.\nSwap your products in any viral reel.\nClone rebuilds the viral reel with your products, shot for shot.\n$10 a video. 15 minutes. No subscription.\n$200 credit pack ≈ 20 videoscredits never expirefailed clones: fixed free or refunded\nWatch the clones.\nLeft: a reel that already won the internet. Right: the same reel wearing our customers' clothes — same cuts, ",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
-        "search",
+        "code",
+        "video",
+        "marketing"
+      ]
+    },
+    {
+      "id": "4a14d3fc-e226-4dc3-9b21-8b4c953733f6",
+      "name": "Open Science",
+      "url": "https://github.com/ai4s-research/open-science",
+      "oneLiner": "An open AI workbench for scientists.",
+      "description": "An open AI workbench for scientists. Your research partner for rigorous science.\nAn open-source, local-first, model-agnostic, reproducible AI research workbench — an open alternative to Claude Science and similar AI-for-science products. Not a chat box: a workbench that ties literature, code, figures, reports, and review into one auditable, reproducible workflow.\nEnglish · 中文\n- ✨ Why it is differe",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/ai4s-research/open-science",
+      "categories": [
+        "research",
+        "code",
         "design"
       ]
     },
     {
-      "id": "132e6afe-d0fd-4c69-8562-b3a2a6f7e996",
+      "id": "7242e5ea-00fc-4360-abf9-9dde3f8a3809",
+      "name": "An unmetered LLM API–$6/month",
+      "url": "https://yolo-auto.com/",
+      "oneLiner": "shape your tools already use.",
+      "description": "Yolo-auto gives me fast, consistent access to quality inference at a fraction of the cost of any other provider I’ve seen\nUnlimited Qwen3.6-35B.\nOne flat $6/month API.\nRun Qwen3.6-35B-A3B through the same OpenAI-compatible /v1\nshape your tools already use. No per-token meter, no surprise bills, no prompt storage.\n- 13.9Btokens served\n- 356.5Krequests handled\nWorks with Cursor · LangChain · pi · Cl",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "productivity",
+        "rag"
+      ]
+    },
+    {
+      "id": "b37a1a5f-b6ea-4992-9cb0-0122fec47245",
+      "name": "AI Notebook for Data Science",
+      "url": "https://www.clusy.io",
+      "oneLiner": "Describe the outcome you want.",
+      "description": "Describe the outcome you want. Clusy helps source data, inspect it, select architecture and compute, then execute end-to-end.\nBacked byFounders, Inc.\nTestimonials\nProduct\nA compact case study: ask Clusy to finetune a model, queue a follow-up while it works, then watch the notebook execute and return a result.\nFAQ\nClusy is an agent-native notebook platform for machine learning and data science. You",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "research",
+        "code"
+      ]
+    },
+    {
+      "id": "0df00b1f-e7c6-4edd-bddf-4ebcb6a8b7b2",
+      "name": "bike4mind",
+      "url": "https://github.com/Bike4Mind/bike4mind",
+      "oneLiner": "Your bicycle for the mind in the age of AI.",
+      "description": "Your bicycle for the mind in the age of AI.\nAn open-core AI knowledge platform — a multi-model workspace where notebooks, autonomous agents, and a RAG knowledge engine work together to augment any cognitive task.\nBike4Mind is an AI-powered knowledge platform that wires a superset of AI technologies together behind one workspace. Bring your own models, keep your data, and let agents do the heavy li",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "image"
+      ]
+    },
+    {
+      "id": "70a6dd56-eb11-440b-a120-666ebb99a2a1",
       "name": "OmniPost-AI",
       "url": "https://github.com/wanglinsaputra/OmniPost-AI",
       "oneLiner": "Chrome extension for multi-platform auto-posting.",
@@ -167,30 +250,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "writing"
       ]
     },
     {
-      "id": "8a1ee587-baf2-42e8-8f62-ba5a59a0743c",
+      "id": "9b8481e5-6179-49bd-b7d1-4892786abbcc",
       "name": "anima-use-google",
       "url": "https://github.com/animaios/anima-use-google",
       "oneLiner": "MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session, then return the synthesized answer and citations as",
-      "description": "anima-use-google\nMCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session, then return the synthesized answer and citations as an MCP tool result.\nYou need three things: the MCP server, the native-messaging host, and either the Firefox or Chromium extension. Then wire the server into your agent.\nClaude Code:\nclaude mcp add goog",
+      "description": "anima-use-google\nMCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session, then return the synthesized answer and citations as an MCP tool result.\nYou need three things: the MCP server, the native-messaging host, and either the Firefox or Chromium extension. Then wire the server into your agent.\nThe stable npm release is 0.1.6\n",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
       "githubUrl": "https://github.com/animaios/anima-use-google",
       "categories": [
-        "design",
         "code",
+        "design",
         "agents"
       ]
     },
     {
-      "id": "27a8aa5d-4b6a-4285-a016-84e18c2c0499",
+      "id": "4b4f21d6-f652-44b4-bc82-679f15090fee",
       "name": "Talos",
       "url": "https://github.com/jmerelnyc/Talos",
       "oneLiner": "Share your GPU with the Talos network and earn.",
@@ -201,12 +284,29 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "code"
+        "code",
+        "design"
       ]
     },
     {
-      "id": "6057eff0-419c-453f-a6f1-da2ea2702170",
+      "id": "457ee276-8da6-49f5-be03-2f05aac7b2b8",
+      "name": "qwen-lora-finetune",
+      "url": "https://github.com/chrisipanaque/qwen-lora-finetune",
+      "oneLiner": "5-Coder for code generation on your own dataset.",
+      "description": "Fine-tune Qwen2.5-Coder for code generation on your own dataset.\nOff-the-shelf code models are trained on general data. If you work with a niche language, proprietary frameworks, or domain-specific patterns, the base model doesn't know your conventions.\nThis project fine-tunes Qwen2.5-Coder-1.5B on your own instruction-response pairs using QLoRA (4-bit quantization + Low-Rank Adaptation). The outp",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "9231a028-e8d7-411f-9d2c-84f668abd8dc",
       "name": "Napaxi",
       "url": "https://github.com/antgroup/Napaxi",
       "oneLiner": "A mobile-native SDK for embedding agent experiences in your app.",
@@ -217,13 +317,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
-        "productivity"
+        "productivity",
+        "design"
       ]
     },
     {
-      "id": "7e48447c-8998-4f1c-b828-a03242af20f2",
+      "id": "3239a2e1-737b-4ff6-bcd6-1e0061f1921f",
       "name": "Fundamental-Ava",
       "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
       "oneLiner": "Fundamental Research Labs is building the next frontier of digital beings.",
@@ -234,30 +334,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/TianhangZhuzth/Fundamental-Ava.git",
       "categories": [
+        "rag",
         "design",
-        "agents",
-        "rag"
+        "agents"
       ]
     },
     {
-      "id": "cc891400-9a1c-4dd5-9f74-aadfdfea4c2a",
-      "name": "ai-sticker-pack",
-      "url": "https://github.com/Lumenocturne/ai-sticker-pack",
-      "oneLiner": "const MARK = /\\[sticker[:：]\\s*([^\\]\\n]+?",
-      "description": "给任意聊天机器人（bot / AI 助手 / 自动回复）加一套会按场景自己挑、自己发的表情包能力。 核心只有一句：\n上传那一刻让视觉模型看一眼图、自动写好「名字 + 描述」存起来；之后机器人只读这段文字来挑表情，永远不再看图。\n这样\"挑表情\"几乎不花 token（不走视觉），而你扩充表情库无痛——传张图、AI 自动配描述、入库，完事。\n⚡ 这是一份「思路」教程，不是即插即用的成品。 能搬走的是这套架构和踩过的坑。你的后端用什么语言、机器人在哪个平台（网页 / Telegram / Discord…）、用哪个视觉模型——都按你自己的来。下面的代码片段全是示例，照着改成你自己的就行。当灵感看，别当模板。\n想让机器人会发表情包，有两个天然难点：\n- 机器人\"看不懂\"图。 一堆抽象梗图（尤其带文字的中文表情包），机器人不知道每张啥意思、啥时候该发。\n- 每次都让它\"看图\"太贵也太慢。 如果每条消息",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "data",
-        "writing",
-        "image"
-      ]
-    },
-    {
-      "id": "ebb854fb-495b-441a-a6b4-ad6157d3bd02",
+      "id": "56e65d95-5d5e-4283-af03-30fd08848048",
       "name": "tokenscope",
       "url": "https://github.com/yaswanthme007/tokenscope",
       "oneLiner": "Chrome DevTools for your context window.",
@@ -272,20 +355,37 @@
       ]
     },
     {
-      "id": "e801997d-efec-4f50-aad0-c4563bf733b4",
-      "name": "Australian influencer Lily Jay's tangled web of AI manipulation",
-      "url": "https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422",
-      "oneLiner": "Warning: The below contains AI-generated and enhanced videos.",
-      "description": "Australian influencer Lily Jay's tangled web of AI manipulation\nSun 5 Jul 2026 at 4:42am\nWarning: The below contains AI-generated and enhanced videos.\nThe blonde woman with an Australian accent beams at her millions-strong audience in this Instagram video. She is surrounded by smiling African children holding lollipops.\nLoading...\"Alhamdullilah! The orphanage is now open!\" she exclaims, using an A",
+      "id": "b22b9811-c09e-4f70-be35-4f2b16e0f372",
+      "name": "People Who Will Thrive in the AI Age",
+      "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
+      "oneLiner": "What will differentiate people is not how smart they are but their relationship to mental effort.",
+      "description": "The People Who Will Thrive in the AI Age\nWhat will differentiate people is not how smart they are but their relationship to mental effort.\nThis article was featured in the One Story to Read Today newsletter. Sign up for it here.\nRemember when AI was going to take away our jobs and leave humans with nothing to do? So far, that doesn’t seem to be happening. Researchers from ActivTrak analyzed the di",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "research",
         "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "b133c138-3d7a-44ab-aa50-39db1f380949",
+      "name": "AI block chain running on GPT2",
+      "url": "https://github.com/raphaelwkago69-create/GLYPH",
+      "oneLiner": "Every claim in this repo is a runnable script.",
+      "description": "Every claim in this repo is a runnable script. Don't believe me — attack it.\nResearch written and developed by Claude Fable 5, from an original compression algorithm by the Glyph founder. This is a blockchain where the proof-of-work is neural network inference: miners run a pinned open-weights transformer on salted prompts, the model's attention distributions are compressed into a discrete fingerp",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "research",
         "code",
-        "image"
+        "design"
       ]
     }
   ]
