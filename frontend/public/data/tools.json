@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-07-06T10:24:11.250518+00:00",
+  "generatedAt": "2026-07-07T09:42:58.252656+00:00",
   "count": 23,
   "tools": [
     {
-      "id": "dfb88800-7615-4e61-ae26-512a79ca86db",
+      "id": "16e58412-d22b-4bfb-9c68-ae90c2b775f3",
+      "name": "opencode-failover",
+      "url": "https://github.com/bulutmuf/opencode-failover",
+      "oneLiner": "OpenCode plugin for automatic API-key failover and rotation across multiple provider keys.",
+      "description": "OpenCode plugin for automatic API-key failover and rotation across multiple provider keys.\nopencode-failover is a OpenCode plugin that automatically rotates API keys across multiple provider credentials. When a key hits a rate limit, the plugin quarantines it and switches to the next available key -- zero downtime, zero manual intervention.\n- Multiple keys per provider with weighted round-robin di",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/bulutmuf/opencode-failover.git",
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "dd43927c-387f-4bd4-a151-ab30d4229934",
       "name": "kontext-ai",
       "url": "https://github.com/anuragmerndev/kontext-ai",
       "oneLiner": "Carry the whole conversation to another AI — in one click.",
@@ -20,7 +37,7 @@
       ]
     },
     {
-      "id": "6e1e987b-5b86-415b-8567-31424aab2457",
+      "id": "624154ca-ca06-4d4b-ab89-cf01a8e1f620",
       "name": "prompt-warrior",
       "url": "https://github.com/timoncool/prompt-warrior",
       "oneLiner": "Prompt Warrior is an agent skill that reads your local session logs — Claude Code out of the box; Codex CLI, OpenCode, Gemini CLI and Copilot via documented log formats — and turns",
@@ -37,7 +54,24 @@
       ]
     },
     {
-      "id": "df05f8ca-33f5-4cef-9dda-75235cb06998",
+      "id": "05e24d00-1727-462c-a025-a5f479974f38",
+      "name": "contextrot",
+      "url": "https://github.com/Priyanshu-byte-coder/contextrot",
+      "oneLiner": "Your coding agent gets worse as its context fills.",
+      "description": "Your coding agent gets worse as its context fills.\ncontextrot proves it on your own sessions — and tells you exactly what to change.\nuvx contextrot\nor, with plain pip (Python 3.9+ — including the stock python3 on macOS):\npip3 install contextrot\ncontextrot\ncontextrot: command not found\nafter pip install? Your Python scripts directory isn't onPATH\n(common with the stock macOSpython3\n). Either useuvx",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "research"
+      ]
+    },
+    {
+      "id": "4f497c5d-9b6e-4ec0-95e0-5a054311939f",
       "name": "T3MP3ST",
       "url": "https://github.com/elder-plinius/T3MP3ST",
       "oneLiner": "A multi-agent offensive-security framework, built to turn the AI coding agent you already run into a zero-day hunter.",
@@ -54,7 +88,7 @@
       ]
     },
     {
-      "id": "4f28e0b3-88be-457f-8d8a-3fab95080abd",
+      "id": "d40f60cb-0d1b-4cec-b323-dabe09290047",
       "name": "brain0",
       "url": "https://github.com/Brain0-ai/brain0",
       "oneLiner": "The black box for AI-written code.",
@@ -65,13 +99,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "data",
         "code",
+        "data",
         "rag"
       ]
     },
     {
-      "id": "6bd4ebcf-03f0-4118-a3d6-49eed5e6afb1",
+      "id": "48cf5c0c-9583-438f-97b8-6e808adfa6af",
       "name": "ESC-Emotional-Self-Correction",
       "url": "https://github.com/GenAI4E/ESC-Emotional-Self-Correction",
       "oneLiner": "\"AI models can have feelings too.",
@@ -82,66 +116,33 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/genai4e/ESC.git",
       "categories": [
-        "research",
         "code",
-        "design"
-      ]
-    },
-    {
-      "id": "0652358e-ae71-43a4-9448-b7ad279f7049",
-      "name": "openvoice-ai",
-      "url": "https://github.com/nikpottbecker/openvoice-ai",
-      "oneLiner": "The Open-Source AI Communication Platform.",
-      "description": "The Open-Source AI Communication Platform.\nOpenVoice AI is a self-hosted communication platform that connects phone calls, email, calendars, automations, dashboards and AI providers in one modular system.\nThe current release focuses on a German AI phone agent with Asterisk, local speech-to-text, local text-to-speech, AI call summaries, email drafts and a protected web dashboard. The long-term goal",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/nikpottbecker/openvoice-ai.git",
-      "categories": [
-        "productivity",
         "design",
-        "voice"
+        "research"
       ]
     },
     {
-      "id": "0738c9f0-3d1f-418b-9c81-302dabee8b7b",
-      "name": "When AI Costs More Than the Engineer",
-      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
-      "oneLiner": "3x its payroll on compute.",
-      "description": "Anthropic spends 2.3x its payroll on compute.1 With ~5,000 employees & roughly $10b in inference & training spend in 2026, that works out to about $2m of compute per employee per year against a likely all-in comp of $500k+.2\nThe rest of the software market trails. The top 1% of companies spend $89k per engineer per year on AI, 40% of a fully-loaded $224k senior engineer salary3.4 The median spends",
+      "id": "d015a48c-9acc-44b0-ac87-38cdeefc4997",
+      "name": "AstraLife",
+      "url": "https://github.com/marky1flag/AstraLife",
+      "oneLiner": "AstraLife is an open-source AI civilization simulator where autonomous agents live, work, and interact in a persistent village.",
+      "description": "AstraLife is an open-source AI civilization simulator where autonomous agents live, work, and interact in a persistent village. Each AI villager has their own memory, goals, personality, and relationships — creating a dynamic mini-world that evolves over time.\n- 🧠 Real AI reasoning — Each villager's decisions are powered by Claude (Anthropic), not random scripts\n- 💾 Memory — Villagers remember pas",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/marky1flag/AstraLife.git",
       "categories": [
-        "data",
-        "rag",
+        "code",
         "agents"
       ]
     },
     {
-      "id": "d5396d1a-c6e4-446a-96b3-5508d9cf6b08",
-      "name": "PAI",
-      "url": "https://www.whitematterlabs.ai/",
-      "oneLiner": "Meet PAI, your personal AI assistant.",
-      "description": "Your always-on\nalways buddy.\nMeet PAI, your personal AI assistant. It can do everything you do on your computer. It learns from your actions and maintains your digital life, always anticipating your needs and thinking one step ahead.\nSafe. Local. Runs on your machine. Free and open source.\nYour personal assistant, running on your own machine.\nBecause PAI remembers your context and lives in the app",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "agents"
-      ]
-    },
-    {
-      "id": "67c1d18a-6497-41ee-9c68-904ffae90928",
-      "name": "Excalibur. The open-source AI coding agent for product engineers",
-      "url": "https://getexcalibur.dev",
-      "oneLiner": "The AI coding agent for product engineers.",
-      "description": "The AI coding agent for product engineers.\nMost agents write code. Excalibur knows the whole product cycle — discover, build, verify, ship.\nWith Excalibur you can:\nExcalibur enables you to build like never before.\nFive capabilities built right into the engine — the moats that hold up against any other AI coding tool.\nTime-travel your work\nEvery run is an immutable, append-only event log — so you s",
+      "id": "bef02dff-0dff-4dc7-bdb1-74d649ca42db",
+      "name": "openscience",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "oneLiner": "It reads the literature, writes and runs code, runs the experiments, and writes up what it found.",
+      "description": "Give it a goal. It reads the literature, writes and runs code, runs the experiments, and writes up what it found.\nInstall · Quickstart · Docs · Atlas\nOpenScience is an AI workbench for scientific research. You give it a goal, and it works through the research loop the way a capable collaborator would. It reads the papers that matter, forms a hypothesis, writes and runs code, runs experiments on re",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -149,80 +150,61 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "search"
-      ]
-    },
-    {
-      "id": "133c4fff-da1c-4839-9342-a6a3e2c2caf5",
-      "name": "Clone. Swap your products in any viral reel",
-      "url": "https://quinn.live/clone/",
-      "oneLiner": "The internet already tested your next ad.",
-      "description": "The internet already tested your next ad.\nSwap your products in any viral reel.\nClone rebuilds the viral reel with your products, shot for shot.\n$10 a video. 15 minutes. No subscription.\n$200 credit pack ≈ 20 videoscredits never expirefailed clones: fixed free or refunded\nWatch the clones.\nLeft: a reel that already won the internet. Right: the same reel wearing our customers' clothes — same cuts, ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "video",
-        "marketing"
-      ]
-    },
-    {
-      "id": "4a14d3fc-e226-4dc3-9b21-8b4c953733f6",
-      "name": "Open Science",
-      "url": "https://github.com/ai4s-research/open-science",
-      "oneLiner": "An open AI workbench for scientists.",
-      "description": "An open AI workbench for scientists. Your research partner for rigorous science.\nAn open-source, local-first, model-agnostic, reproducible AI research workbench — an open alternative to Claude Science and similar AI-for-science products. Not a chat box: a workbench that ties literature, code, figures, reports, and review into one auditable, reproducible workflow.\nEnglish · 中文\n- ✨ Why it is differe",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ai4s-research/open-science",
-      "categories": [
-        "research",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "7242e5ea-00fc-4360-abf9-9dde3f8a3809",
-      "name": "An unmetered LLM API–$6/month",
-      "url": "https://yolo-auto.com/",
-      "oneLiner": "shape your tools already use.",
-      "description": "Yolo-auto gives me fast, consistent access to quality inference at a fraction of the cost of any other provider I’ve seen\nUnlimited Qwen3.6-35B.\nOne flat $6/month API.\nRun Qwen3.6-35B-A3B through the same OpenAI-compatible /v1\nshape your tools already use. No per-token meter, no surprise bills, no prompt storage.\n- 13.9Btokens served\n- 356.5Krequests handled\nWorks with Cursor · LangChain · pi · Cl",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "productivity",
-        "rag"
-      ]
-    },
-    {
-      "id": "b37a1a5f-b6ea-4992-9cb0-0122fec47245",
-      "name": "AI Notebook for Data Science",
-      "url": "https://www.clusy.io",
-      "oneLiner": "Describe the outcome you want.",
-      "description": "Describe the outcome you want. Clusy helps source data, inspect it, select architecture and compute, then execute end-to-end.\nBacked byFounders, Inc.\nTestimonials\nProduct\nA compact case study: ask Clusy to finetune a model, queue a follow-up while it works, then watch the notebook execute and return a result.\nFAQ\nClusy is an agent-native notebook platform for machine learning and data science. You",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
         "data",
-        "research",
+        "research"
+      ]
+    },
+    {
+      "id": "985264dd-491a-4840-b20f-8263096fc037",
+      "name": "FaultFixer",
+      "url": "https://faultfixer.com/",
+      "oneLiner": "For websites & apps to self-heal themselves.",
+      "description": "For websites & apps to self-heal themselves.\nPaste one line of code. FaultFixer detects every front-end and back-end error, diagnoses the root cause with AI, and hands it straight to your AI coding tool.\nOne snippet · one-minute setup\n<!-- Paste once. That's the whole install. --> <script src=\"https://ingest.faultfixer.com/sdk/v1.js?key=YOUR_KEY\" async></script>\nMCP for all your AI tools.\nConnect ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
         "code"
       ]
     },
     {
-      "id": "0df00b1f-e7c6-4edd-bddf-4ebcb6a8b7b2",
+      "id": "0db893c0-3950-43d7-84ae-bffc87d4713b",
+      "name": "A free",
+      "url": "https://bupticybee.github.io/texassolver_gpu_page/",
+      "oneLiner": "Built on GPU computing, TexasSolver GPU reaches results faster than the solver workflows players were used to before.",
+      "description": "Faster Than Previous Solvers\nBuilt on GPU computing, TexasSolver GPU reaches results faster than the solver workflows players were used to before.\nCompletely free for personal use\nTexasSolver GPU is built for faster solving, quick spot entry, batch analysis, node locking, and strategy training in one focused workspace.\nOverview\nBuilt on GPU computing, TexasSolver GPU is faster than the solver work",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "design",
+        "productivity"
+      ]
+    },
+    {
+      "id": "bf1896fa-ce00-42a5-82a0-cada3fd56376",
+      "name": "Brunelly AI Native Platform v26.06",
+      "url": "https://brunelly.com/",
+      "oneLiner": "Your teams are using AI.",
+      "description": "Your teams are using AI. Your pipeline is still fragmented. Brunelly is the AI software development platform that connects every stage into one governed, auditable delivery system your engineering organisation has always needed.\nOne AI delivery platform. Planning, code, testing, reviews, and security orchestrated\nend to end. Governed, auditable, and built for engineering teams scaling without losi",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "145050eb-2d8a-4b86-9f50-0cb63b37f7c1",
       "name": "bike4mind",
       "url": "https://github.com/Bike4Mind/bike4mind",
       "oneLiner": "Your bicycle for the mind in the age of AI.",
@@ -239,7 +221,7 @@
       ]
     },
     {
-      "id": "70a6dd56-eb11-440b-a120-666ebb99a2a1",
+      "id": "92a9f457-b5a0-4420-bb03-1a4d283c2537",
       "name": "OmniPost-AI",
       "url": "https://github.com/wanglinsaputra/OmniPost-AI",
       "oneLiner": "Chrome extension for multi-platform auto-posting.",
@@ -256,7 +238,7 @@
       ]
     },
     {
-      "id": "9b8481e5-6179-49bd-b7d1-4892786abbcc",
+      "id": "78df6fc2-5336-4bd8-81b4-627a3b77c10e",
       "name": "anima-use-google",
       "url": "https://github.com/animaios/anima-use-google",
       "oneLiner": "MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session, then return the synthesized answer and citations as",
@@ -273,7 +255,24 @@
       ]
     },
     {
-      "id": "4b4f21d6-f652-44b4-bc82-679f15090fee",
+      "id": "c0dd3bdd-ee43-4147-8013-bf17a1677f49",
+      "name": "9router-v2",
+      "url": "https://github.com/ahwanulm/9router-v2",
+      "oneLiner": "A self-hosted AI gateway — one endpoint, many providers, auto-fallback.",
+      "description": "A self-hosted AI gateway — one endpoint, many providers, auto-fallback.\n9Router v2 is a decoupled rewrite of 9Router with a clean separation between a dedicated Express backend and a Vite + React frontend. It exposes an OpenAI-compatible REST API that proxies requests across dozens of AI providers with automatic load balancing, fallback, and key rotation.\n- OpenAI-compatible API — works with any c",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/ahwanulm/9router-v2.git",
+      "categories": [
+        "code",
+        "data",
+        "agents"
+      ]
+    },
+    {
+      "id": "aa48cf15-5ad1-493c-a3f3-6ce5a55e99f7",
       "name": "Talos",
       "url": "https://github.com/jmerelnyc/Talos",
       "oneLiner": "Share your GPU with the Talos network and earn.",
@@ -289,7 +288,7 @@
       ]
     },
     {
-      "id": "457ee276-8da6-49f5-be03-2f05aac7b2b8",
+      "id": "e706a13d-0ee9-40d1-9153-c0aeb4b7c5b1",
       "name": "qwen-lora-finetune",
       "url": "https://github.com/chrisipanaque/qwen-lora-finetune",
       "oneLiner": "5-Coder for code generation on your own dataset.",
@@ -300,13 +299,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
         "code",
+        "data",
         "design"
       ]
     },
     {
-      "id": "9231a028-e8d7-411f-9d2c-84f668abd8dc",
+      "id": "5392975e-ba57-4960-9909-15870b164a5e",
       "name": "Napaxi",
       "url": "https://github.com/antgroup/Napaxi",
       "oneLiner": "A mobile-native SDK for embedding agent experiences in your app.",
@@ -318,29 +317,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "productivity",
-        "design"
-      ]
-    },
-    {
-      "id": "3239a2e1-737b-4ff6-bcd6-1e0061f1921f",
-      "name": "Fundamental-Ava",
-      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "oneLiner": "Fundamental Research Labs is building the next frontier of digital beings.",
-      "description": "Fundamental Research Labs is building the next frontier of digital beings.\nBuild digital human beings — autonomous, collaborative, and socially intelligent agents that think, remember, form relationships, and act in the world. Not chatbots. Not assistants. Beings.\nCompletely autonomous. Powered by $AVA.\nAva\nruns large populations of autonomous agents — each with its\nown memory, belief system, and ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TianhangZhuzth/Fundamental-Ava.git",
-      "categories": [
-        "rag",
         "design",
-        "agents"
+        "productivity"
       ]
     },
     {
-      "id": "56e65d95-5d5e-4283-af03-30fd08848048",
+      "id": "43310bdd-85e7-408d-80fe-343bfb3b0d41",
       "name": "tokenscope",
       "url": "https://github.com/yaswanthme007/tokenscope",
       "oneLiner": "Chrome DevTools for your context window.",
@@ -355,36 +337,53 @@
       ]
     },
     {
-      "id": "b22b9811-c09e-4f70-be35-4f2b16e0f372",
-      "name": "People Who Will Thrive in the AI Age",
-      "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
-      "oneLiner": "What will differentiate people is not how smart they are but their relationship to mental effort.",
-      "description": "The People Who Will Thrive in the AI Age\nWhat will differentiate people is not how smart they are but their relationship to mental effort.\nThis article was featured in the One Story to Read Today newsletter. Sign up for it here.\nRemember when AI was going to take away our jobs and leave humans with nothing to do? So far, that doesn’t seem to be happening. Researchers from ActivTrak analyzed the di",
+      "id": "7753a7e6-d21e-4e11-a993-bcf10558435f",
+      "name": "Graphenium",
+      "url": "https://github.com/lambda-alpha-labs/Graphenium",
+      "oneLiner": "Graphenium is the local trust and verification layer for AI coding agents.",
+      "description": "Graphenium is the local trust and verification layer for AI coding agents.\nIt turns a repository into a provenance-aware architecture graph so agents can plan code changes, inspect blast radius, follow source-backed relationships, and verify edits before they land.\nMost developer tools help people search files. Graphenium helps AI agents avoid unsafe edits.\nWithout Graphenium With Graphenium\n-----",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "research",
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "090a6fde-eb6d-4f66-980c-c5478f558ce8",
+      "name": "Slidown",
+      "url": "https://github.com/Songmu/slidown",
+      "oneLiner": "is a tool for creating PowerPoint (.",
+      "description": "slidown\nis a tool for creating PowerPoint (.pptx\n) presentations from Markdown.\nIt is a sibling project of k1LoW/deck\n, a\nMarkdown → Google Slides tool by @k1LoW. slidown\nshares deck\n's philosophy of Markdown for content, slide tooling for design,\nand adopts the same Markdown format and element mapping. The difference is the\noutput target: slidown\nwrites standalone .pptx\nfiles via a pure-Go OOXML\n",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
         "design",
         "writing"
       ]
     },
     {
-      "id": "b133c138-3d7a-44ab-aa50-39db1f380949",
-      "name": "AI block chain running on GPT2",
-      "url": "https://github.com/raphaelwkago69-create/GLYPH",
-      "oneLiner": "Every claim in this repo is a runnable script.",
-      "description": "Every claim in this repo is a runnable script. Don't believe me — attack it.\nResearch written and developed by Claude Fable 5, from an original compression algorithm by the Glyph founder. This is a blockchain where the proof-of-work is neural network inference: miners run a pinned open-weights transformer on salted prompts, the model's attention distributions are compressed into a discrete fingerp",
+      "id": "c3945cc0-8001-4742-b3ec-9c9ede05eb98",
+      "name": "Foundation",
+      "url": "https://github.com/nmxmxh/foundation",
+      "oneLiner": "I built Foundation to bridge the massive deficit between raw hardware speed and typical software stacks, collapse the translation layers between the database and the browser, and c",
+      "description": "I built Foundation to bridge the massive deficit between raw hardware speed and typical software stacks, collapse the translation layers between the database and the browser, and create an agent-native workspace where AI and humans can build production systems without regression.\nEvery modern system wastes millions of CPU cycles translating the same piece of state: SQL rows get parsed into Go stru",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "research",
         "code",
+        "data",
         "design"
       ]
     }
