@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-07-08T08:29:45.302859+00:00",
+  "generatedAt": "2026-07-09T09:40:48.429935+00:00",
   "count": 19,
   "tools": [
     {
-      "id": "350976c2-58f6-4b52-8090-2b262456eebf",
+      "id": "d8aabeaf-f651-4060-adcf-493500dd2f8e",
+      "name": "fintech-advisor",
+      "url": "https://github.com/KORAYTEACHER/fintech-advisor",
+      "oneLiner": "A net worth tracking app with an AI-powered financial advisor that helps you make smarter decisions about your portfolio.",
+      "description": "A net worth tracking app with an AI-powered financial advisor that helps you make smarter decisions about your portfolio. Foliofox is not a budgeting or an expense tracking app.\n- Interactive portfolio visualization - See your wealth grow with engaging charts and tables, not boring spreadsheets\n- AI-powered financial insights - Get personalized advice, not generic market data\n- Multi-currency supp",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/KORAYTEACHER/fintech-advisor.git",
+      "categories": [
+        "code",
+        "data",
+        "design"
+      ]
+    },
+    {
+      "id": "accf87b6-f920-43ec-9b16-f165ff58bd68",
       "name": "opencode-failover",
       "url": "https://github.com/bulutmuf/opencode-failover",
       "oneLiner": "OpenCode plugin for automatic API-key failover and rotation across multiple provider keys.",
@@ -20,7 +37,7 @@
       ]
     },
     {
-      "id": "37386ddd-bc0f-4dcb-a3fb-b98163485a2c",
+      "id": "c7b0c7d6-ead9-4f6e-ae8a-3362b34279da",
       "name": "kontext-ai",
       "url": "https://github.com/anuragmerndev/kontext-ai",
       "oneLiner": "Carry the whole conversation to another AI — in one click.",
@@ -31,13 +48,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/anuragmerndev/kontext-ai.git",
       "categories": [
+        "writing",
         "code",
-        "design",
-        "writing"
+        "design"
       ]
     },
     {
-      "id": "34ba2c1a-ccd8-4914-b98a-c4a1235df8ba",
+      "id": "c3cf05e0-7347-4046-8da5-2c03ff7ac496",
       "name": "prompt-warrior",
       "url": "https://github.com/timoncool/prompt-warrior",
       "oneLiner": "Prompt Warrior is an agent skill that reads your local session logs — Claude Code out of the box; Codex CLI, OpenCode, Gemini CLI and Copilot via documented log formats — and turns",
@@ -49,63 +66,12 @@
       "githubUrl": "https://github.com/timoncool/prompt-warrior",
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "40b8edb6-b7c4-492a-868a-9757aa0923a9",
-      "name": "contextrot",
-      "url": "https://github.com/Priyanshu-byte-coder/contextrot",
-      "oneLiner": "Your coding agent gets worse as its context fills.",
-      "description": "Your coding agent gets worse as its context fills.\ncontextrot proves it on your own sessions — and tells you exactly what to change.\nuvx contextrot\nor, with plain pip (Python 3.9+ — including the stock python3 on macOS):\npip3 install contextrot\ncontextrot\ncontextrot: command not found\nafter pip install? Your Python scripts directory isn't onPATH\n(common with the stock macOSpython3\n). Either useuvx",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "research"
-      ]
-    },
-    {
-      "id": "75dec42b-5d2a-41ad-9aaf-4668b3e6bcc1",
-      "name": "T3MP3ST",
-      "url": "https://github.com/elder-plinius/T3MP3ST",
-      "oneLiner": "A multi-agent offensive-security framework, built to turn the AI coding agent you already run into a zero-day hunter.",
-      "description": "▄▄▄█████▓▓█████ ███▄ ▄███▓ ██▓███ ▓█████ ██████ ▄▄▄█████▓\n▓ ██▒ ▓▒▓█ ▀ ▓██▒▀█▀ ██▒▓██░ ██▒▓█ ▀ ▒██ ▒ ▓ ██▒ ▓▒\n▒ ▓██░ ▒░▒███ ▓██ ▓██░▓██░ ██▓▒▒███ ░ ▓██▄ ▒ ▓██░ ▒░\n░ ▓██▓ ░ ▒▓█ ▄ ▒██ ▒██ ▒██▄█▓▒ ▒▒▓█ ▄ ▒ ██▒░ ▓██▓ ░\n▒██▒ ░ ░▒████▒▒██▒ ░██▒▒██▒ ░ ░░▒████▒▒██████▒▒ ▒██▒ ░\n▒ ░░ ░░ ▒░ ░░ ▒░ ░ ░▒▓▒░ ░ ░░░ ▒░ ░▒ ▒▓▒ ▒ ░ ▒ ░░\n░ ░ ░ ░░ ░ ░░▒ ░ ░ ░ ░░ ░▒ ░ ░ ░\n░ ░ ░ ░ ░░ ░ ░ ░ ░ ░\n░ ░ ░ ░ ░ ░\nA multi-agent ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "security"
-      ]
-    },
-    {
-      "id": "71c65b77-2165-495c-9e8c-40982567afc4",
-      "name": "brain0",
-      "url": "https://github.com/Brain0-ai/brain0",
-      "oneLiner": "The black box for AI-written code.",
-      "description": "The black box for AI-written code.\ngit\ntells you what changed. brain0 tells you why: which prompt wrote it,\nwhat the agent read to write it, and whether you can trust it.\nQuickstart · What it answers · Give your agent memory · How it works · Comparison · Docs\nCoding agents now write most of the diff: continuously, in parallel, and opaquely. brain0 passively builds a decision graph of your reposito",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "data",
-        "code",
-        "rag"
-      ]
-    },
-    {
-      "id": "cd056b73-8c8b-4bb3-ab16-53a2ff271a0b",
+      "id": "dafc8ce1-3075-485b-b386-349af8c7e137",
       "name": "openscience",
       "url": "https://github.com/synthetic-sciences/openscience",
       "oneLiner": "It reads the literature, writes and runs code, runs the experiments, and writes up what it found.",
@@ -116,47 +82,98 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "data",
         "code",
+        "data",
         "research"
       ]
     },
     {
-      "id": "5c0b79de-7083-4d36-89d7-41e5230adab8",
-      "name": "An AI Agent that automates workflows on your Mobile",
-      "url": "https://mobilerun.ai/",
-      "oneLiner": "Plug Claude, Hermes, OpenClaw, or Mobilerun VA into a real mobile device to automate any app and receive SMS.",
-      "description": "Plug Claude, Hermes, OpenClaw, or Mobilerun VA into a real mobile device to automate any app and receive SMS.\nOpen Stripe and export this week's payouts\nReal phones in the cloud. Agents run apps end to end. A profile that holds up to real-world checks.\nProvision real Android and iOS devices on demand. Parallel execution, fleet sync, webhooks.\nExplore devices →Reads the screen. Taps, swipes, types.",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "productivity",
-        "marketing"
-      ]
-    },
-    {
-      "id": "493f6a01-7c91-45ba-8477-13a76db65952",
-      "name": "FactIQ",
-      "url": "https://github.com/defog-ai/factiq-plugin",
-      "oneLiner": "Turn your agent into a finance and economy analyst.",
-      "description": "Turn your agent into a finance and economy analyst. This plugin for Claude Code and Codex gives the agent direct access to FactIQ's warehouse of official statistics — SEC filings, US, China, India, Korea, IMF, World Bank, and more — plus live market data and earnings-call intelligence. The agent discovers series, runs read-only SQL on FactIQ's database, computes derived metrics, and publishes the ",
-      "pricing": "free",
+      "id": "c4e72ac0-8f0a-4041-b344-31d4db830db0",
+      "name": "What's slowing down the AI buildout",
+      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+      "oneLiner": "America has the electricity to power its data centers; the problem is getting it where it's needed.",
+      "description": "What's really slowing down the AI buildout\nAmerica has the electricity to power its data centers; the problem is getting it where it's needed.\nIssue 24 of Works in Progress has now arrived with subscribers. Sign up here to receive this issue, plus another every two months – straight to your door.\nOne of the most expensive projects in history is under construction in Abilene, Texas. This joint vent",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
+        "design",
+        "voice"
+      ]
+    },
+    {
+      "id": "7096a799-2551-4fdc-bbb7-4bacff131349",
+      "name": "What founders should evaluate before launching an AI-built app",
+      "url": "https://geekyants.com/blog/what-founders-must-evaluate-before-launching-an-ai-built-app",
+      "oneLiner": "What founders need to check before launching an AI-built app: code ownership, build limits, data security, and why a pre-launch technical review matters.",
+      "description": "Jul 2, 2026\nWhat Founders Must Evaluate Before Launching an AI-Built App\nWhat founders need to check before launching an AI-built app: code ownership, build limits, data security, and why a pre-launch technical review matters.\nAuthor\nBook a call\nTable of Contents\nIn May 2025 Builder.ai filed for bankruptcy after raising $450 million from Microsoft, SoftBank and other investors. The company had pro",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
         "data",
+        "design"
+      ]
+    },
+    {
+      "id": "9934bebb-4f89-4a9b-9f05-1d96ed030c12",
+      "name": "ditto",
+      "url": "https://github.com/ohad6k/ditto",
+      "oneLiner": "Your AI agents act like they just met you.",
+      "description": "Your AI agents act like they just met you. Ditto fixes that.\nYou have months of chat logs with Claude / Codex / Cursor sitting on your disk.\nIt is the most honest record of how you actually think, and you are deleting it.\nDitto mines it into a you.md\nyour agents read before every task.\nMemory is what you explicitly told the model.\nDitto mines what your work already proved about you: what you rejec",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/ohad6k/ditto",
+      "categories": [
+        "writing",
         "code",
         "agents"
       ]
     },
     {
-      "id": "3bbd2b88-8fea-496c-8131-28f962b603f0",
+      "id": "43968600-e66d-409e-97c1-5c09a2c458ca",
+      "name": "lingo",
+      "url": "https://github.com/pascalorg/lingo",
+      "oneLiner": "Make forms easier, LLM tools safer.",
+      "description": "lingo-intro-music.mp4\nMake forms easier, LLM tools safer.\nPeople type fast and loose: 180cm\n, 5ft 11\n, 1.5 cups\n, 90 min\n,\nnext friday\n, 1,5 kg\n, typos included. Models emit fluent, over-formatted\nstrings: \"5'11\\\"\"\n, \"1½ cups\"\n, \"twenty-five kg\"\n, \"3pm EST\"\n,\n\"1,234 kg\"\n. Your database wants canonical values: one number in one unit,\none ISO date. The library is the layer in between: natural-langua",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data",
+        "design"
+      ]
+    },
+    {
+      "id": "895e9283-c3bc-41b2-9b1b-39b3b6180e50",
+      "name": "feature-track",
+      "url": "https://github.com/JunsW/feature-track",
+      "oneLiner": "Lightweight, repo-native shared memory for AI coding agents.",
+      "description": "Lightweight, repo-native shared memory for AI coding agents.\nFeature Track keeps Codex, Claude Code, and other AI coding tools aligned on each long-lived feature: its status, source-of-truth docs, decisions, risks, and recent changes.\nSpec frameworks help agents plan the next change. Feature Track helps agents remember the feature.\nIt is not chat-history search, an opaque memory database, or a ful",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "productivity"
+      ]
+    },
+    {
+      "id": "96d22525-7870-4b56-9bca-f3849cfef80e",
       "name": "bike4mind",
       "url": "https://github.com/Bike4Mind/bike4mind",
       "oneLiner": "Your bicycle for the mind in the age of AI.",
@@ -168,12 +185,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "image"
+        "image",
+        "agents"
       ]
     },
     {
-      "id": "b8dde61f-69e7-4190-b092-c1853566bb1e",
+      "id": "b9556db7-1870-4855-b873-74adf32724cb",
       "name": "atrophy",
       "url": "https://github.com/ashutosh-rath02/atrophy",
       "oneLiner": "Are you getting worse at coding without AI?",
@@ -184,13 +201,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/ashutosh-rath02/atrophy.git",
       "categories": [
-        "data",
         "code",
+        "data",
         "design"
       ]
     },
     {
-      "id": "be801a9e-8d65-494f-9adc-49a2d2e6de49",
+      "id": "ce1329b1-ebe8-4377-a975-02ffb3e63794",
       "name": "OmniPost-AI",
       "url": "https://github.com/wanglinsaputra/OmniPost-AI",
       "oneLiner": "Chrome extension for multi-platform auto-posting.",
@@ -201,13 +218,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "writing",
         "code",
-        "design",
-        "writing"
+        "design"
       ]
     },
     {
-      "id": "7ce61f3c-d7d3-4894-b5aa-f4191be7df27",
+      "id": "f73ce3fb-10fc-4d46-ad67-c3a7a90221bc",
       "name": "anima-use-google",
       "url": "https://github.com/animaios/anima-use-google",
       "oneLiner": "MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session, then return the synthesized answer and citations as",
@@ -219,62 +236,46 @@
       "githubUrl": "https://github.com/animaios/anima-use-google",
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "3a38f541-7137-465e-a1e2-caed647d2a3a",
-      "name": "9router-v2",
-      "url": "https://github.com/ahwanulm/9router-v2",
+      "id": "5ae39473-d224-4f5e-ac35-5787f60dff34",
+      "name": "WOPR_TUI_2026",
+      "url": "https://github.com/ankurCES/WOPR_TUI_2026",
+      "oneLiner": "In the 1983 film WarGames, a young hacker accidentally connects to WOPR (War Operation Plan Response) — a U.",
+      "description": "In the 1983 film WarGames, a young hacker accidentally connects to WOPR (War Operation Plan Response) — a U.S. military supercomputer running nuclear war simulations at NORAD's Cheyenne Mountain complex. Thinking it's a game, he starts a simulation of Global Thermonuclear War that nearly triggers World War III. The computer, unable to distinguish simulation from reality, begins the countdown to la",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/ankurCES/WOPR_TUI_2026.git",
+      "categories": [
+        "code",
+        "design",
+        "video"
+      ]
+    },
+    {
+      "id": "b8716cdb-9d07-41a8-ab27-0372d1c3f96b",
+      "name": "AMRouter",
+      "url": "https://github.com/ahwanulm/AMRouter",
       "oneLiner": "A self-hosted AI gateway — one endpoint, many providers, auto-fallback.",
       "description": "A self-hosted AI gateway — one endpoint, many providers, auto-fallback.\n9Router v2 is a decoupled rewrite of 9Router with a clean separation between a dedicated Express backend and a Vite + React frontend. It exposes an OpenAI-compatible REST API that proxies requests across dozens of AI providers with automatic load balancing, fallback, and key rotation.\n- OpenAI-compatible API — works with any c",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/ahwanulm/9router-v2.git",
+      "githubUrl": "https://github.com/ahwanulm/AMRouter.git",
       "categories": [
-        "data",
         "code",
+        "data",
         "agents"
       ]
     },
     {
-      "id": "fdbedf72-76c8-42bc-9437-5a2060f829d5",
-      "name": "Talos",
-      "url": "https://github.com/jmerelnyc/Talos",
-      "oneLiner": "Share your GPU with the Talos network and earn.",
-      "description": "Share your GPU with the Talos network and earn. This is the downloadable\nclient (intended to live in its own public GitHub repo, talos-worker\n). It\npairs with your Talos account using a code, then serves open-model inference\njobs from the network via your local Ollama, reporting\nuptime and earning a share of real usage revenue.\nThe Talos web app never imports this repo. The two only talk over the ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "43164a5e-c3f9-4d4e-bc7f-ab22502c2b89",
-      "name": "qwen-lora-finetune",
-      "url": "https://github.com/chrisipanaque/qwen-lora-finetune",
-      "oneLiner": "5-Coder for code generation on your own dataset.",
-      "description": "Fine-tune Qwen2.5-Coder for code generation on your own dataset.\nOff-the-shelf code models are trained on general data. If you work with a niche language, proprietary frameworks, or domain-specific patterns, the base model doesn't know your conventions.\nThis project fine-tunes Qwen2.5-Coder-1.5B on your own instruction-response pairs using QLoRA (4-bit quantization + Low-Rank Adaptation). The outp",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "data",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "f38f256d-1b8b-463d-ae66-e7d203b4d483",
+      "id": "c08a3959-4e7f-4493-a099-0e85c6e0b09c",
       "name": "tokenscope",
       "url": "https://github.com/yaswanthme007/tokenscope",
       "oneLiner": "Chrome DevTools for your context window.",
@@ -289,37 +290,36 @@
       ]
     },
     {
-      "id": "fc017733-e1f2-40a9-bd7e-99307b8d6216",
-      "name": "GitLost",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "oneLiner": "TL;DR: Noma Labs discovered a critical prompt injection vulnerability within GitHub’s new Agentic Workflows, allowing an unauthenticated attacker to silently pull data from private",
-      "description": "TL;DR: Noma Labs discovered a critical prompt injection vulnerability within GitHub’s new Agentic Workflows, allowing an unauthenticated attacker to silently pull data from private repositories by posting a crafted GitHub Issue in a public repository belonging to the same organization as the private repositories. Noma Labs named the vulnerability GitLost.\nIntroduction\nGitHub recently launched GitH",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/sasinomalabs/poc",
-      "categories": [
-        "code",
-        "agents",
-        "productivity"
-      ]
-    },
-    {
-      "id": "6e3e730e-a093-4f2c-8f6b-65f37bdb337a",
-      "name": "Honey",
-      "url": "https://www.bona-books.com/news/we-bought-an-ai-story",
-      "oneLiner": "This post discusses suspected AI-generated fiction submissions, author verification, and their impact on small presses.",
-      "description": "Honey, We Bought an AI Story\nThis post discusses suspected AI-generated fiction submissions, author verification, and their impact on small presses.\nYou can also read and download our full report: The Machines Are Coming for Your Masthead\nAre you worried about AI?\nWe were asked this question on a small-publishers panel at the World Fantasy Convention in 2025. Our Managing Editor, C.L., remembers a",
+      "id": "ffd6b9d2-3aa4-40ea-9fd6-7779abe8dbad",
+      "name": "AI changes the economics of software rewrites",
+      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+      "oneLiner": "AI slop starts with the codebase itself.",
+      "description": "AI slop starts with the codebase itself.\nAI changes rewrite economics because codebases with clear, common patterns get more leverage than proprietary or inconsistent systems.\nMy view on software rewrites has changed because of AI.\nThe quality of AI output isn't determined solely by your prompt.\nIt's determined by what the model already knows from training data, and the context you give it to work",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
+        "code",
+        "productivity"
+      ]
+    },
+    {
+      "id": "b0bff626-029e-44f7-885f-4545dae5270b",
+      "name": "SlopWatch",
+      "url": "https://chromewebstore.google.com/detail/slopwatch-the-online-watc/nihlmmcfkabobchdpjimenhcfmaoglkj",
+      "oneLiner": "A community tool to detect the use of AI-generated content on the internet through polling.",
+      "description": "SlopWatch - The online watch for AI-generated content\nOverview\nA community tool to detect the use of AI-generated content on the internet through polling.\nABOUT: AI-generated content is rising (often dubbed \"slop\"). And while there's debate as to how much space AI content should share with human-made content, people have a right to know what they're consuming. If you've ever felt like there's just",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
         "writing",
-        "research"
+        "code",
+        "data"
       ]
     }
   ]
