@@ -1,9 +1,43 @@
 {
-  "generatedAt": "2026-07-09T09:40:48.429935+00:00",
-  "count": 19,
+  "generatedAt": "2026-07-10T09:36:56.438423+00:00",
+  "count": 24,
   "tools": [
     {
-      "id": "d8aabeaf-f651-4060-adcf-493500dd2f8e",
+      "id": "f5674b7f-af90-475e-8632-93bff0a0c76c",
+      "name": "laurel.dev",
+      "url": "https://github.com/laureldev/laurel.dev",
+      "oneLiner": "A tiny, self-hostable web-context API for LLM agents.",
+      "description": "A tiny, self-hostable web-context API for LLM agents. Two endpoints:\nPOST /search\n— find relevant links for a queryPOST /fetch\n— download a page and get back clean Markdown\nThat's the whole idea: let an agent search for sources, read the snippets, then fetch only the pages worth reading. This repo is the minimal open core of laurel.dev — the same shape as what we run, stripped down to the essentia",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "b6ace6a0-34dd-460c-a8b5-5898f1aa2c1b",
+      "name": "prompt-mac",
+      "url": "https://github.com/dunglas/prompt-mac",
+      "oneLiner": "Turn a fresh Mac into a modern, agent-first development powerhouse with a single command.",
+      "description": "Turn a fresh Mac into a modern, agent-first development powerhouse with a single command.\n/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/dunglas/prompt-mac/main/install.sh)\"\nHey, I'm Kévin Dunglas (creator of FrankenPHP, Mercure, API Platform, and core maintainer of Caddy, Symfony, and PHP). Over the years, I've dedicated my career to building open-source tools that make developer wo",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/dunglas/prompt-mac.git",
+      "categories": [
+        "design",
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "825dee1a-8a73-4a0c-a0c6-b56d688fe850",
       "name": "fintech-advisor",
       "url": "https://github.com/KORAYTEACHER/fintech-advisor",
       "oneLiner": "A net worth tracking app with an AI-powered financial advisor that helps you make smarter decisions about your portfolio.",
@@ -14,13 +48,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/KORAYTEACHER/fintech-advisor.git",
       "categories": [
+        "design",
         "code",
-        "data",
-        "design"
+        "data"
       ]
     },
     {
-      "id": "accf87b6-f920-43ec-9b16-f165ff58bd68",
+      "id": "43ae8c74-33e0-407b-8a61-9ffa205e9ad6",
+      "name": "Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "oneLiner": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.\nHighlights · Overview · Core Technology · Features · Quick Start · Contents\nEnglish · 中文\nOctop is an open-source, self-hosted AI assistant. It's not just a tool — it's a digital life form that can operate in parallel. Through its multi-agent architecture, it builds an intelligent environment that is both independent and collaborative f",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "security",
+        "data"
+      ]
+    },
+    {
+      "id": "16df95e4-9418-4256-bb90-3654ba37b36b",
       "name": "opencode-failover",
       "url": "https://github.com/bulutmuf/opencode-failover",
       "oneLiner": "OpenCode plugin for automatic API-key failover and rotation across multiple provider keys.",
@@ -31,98 +82,114 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/bulutmuf/opencode-failover.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "security"
       ]
     },
     {
-      "id": "c7b0c7d6-ead9-4f6e-ae8a-3362b34279da",
-      "name": "kontext-ai",
-      "url": "https://github.com/anuragmerndev/kontext-ai",
-      "oneLiner": "Carry the whole conversation to another AI — in one click.",
-      "description": "Hit a chat limit? Carry the whole conversation to another AI — in one click.\nCapture any ChatGPT or Claude chat, distill it into a portable kontext, and continue it in the other — local-first, no account.\n\"Your context is an asset. Kontext makes it portable.\"\nFull-fidelity capture · on-device summaries · one-click handoff · never auto-sends · nothing leaves your machine.\nHow It Works · Features · ",
+      "id": "0df92799-29cf-4ae6-8d93-932ae576dcd8",
+      "name": "R3",
+      "url": "https://github.com/hyperlogue/r3",
+      "oneLiner": "r3 is a review tool for the diffs and docs produced by your coding agents, running locally with a web interface.",
+      "description": "r3 is a review tool for the diffs and docs produced by your coding agents, running locally with a web interface. You leave feedback pinned to the exact line or quote it's about, and track each comment to resolution.\nr3 fills a gap the chat box can't. Say your agent writes a long planning doc and you want to fix a handful of things. In a chat you copy-paste each passage to quote it, type your feedb",
       "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/anuragmerndev/kontext-ai.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "writing",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "c3cf05e0-7347-4046-8da5-2c03ff7ac496",
-      "name": "prompt-warrior",
-      "url": "https://github.com/timoncool/prompt-warrior",
-      "oneLiner": "Prompt Warrior is an agent skill that reads your local session logs — Claude Code out of the box; Codex CLI, OpenCode, Gemini CLI and Copilot via documented log formats — and turns",
-      "description": "Prompt Warrior is an agent skill that reads your local session logs — Claude Code out of the box; Codex CLI, OpenCode, Gemini CLI and Copilot via documented log formats — and turns them into something between a psychological profile and an RPG character sheet: real numbers on a fixed scale, a title you didn't choose but absolutely deserve, and achievements you've been grinding for months without k",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/timoncool/prompt-warrior",
-      "categories": [
-        "code",
         "design",
+        "code",
         "agents"
       ]
     },
     {
-      "id": "dafc8ce1-3075-485b-b386-349af8c7e137",
-      "name": "openscience",
-      "url": "https://github.com/synthetic-sciences/openscience",
-      "oneLiner": "It reads the literature, writes and runs code, runs the experiments, and writes up what it found.",
-      "description": "Give it a goal. It reads the literature, writes and runs code, runs the experiments, and writes up what it found.\nInstall · Quickstart · Docs · Atlas\nOpenScience is an AI workbench for scientific research. You give it a goal, and it works through the research loop the way a capable collaborator would. It reads the papers that matter, forms a hypothesis, writes and runs code, runs experiments on re",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "research"
-      ]
-    },
-    {
-      "id": "c4e72ac0-8f0a-4041-b344-31d4db830db0",
-      "name": "What's slowing down the AI buildout",
-      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-      "oneLiner": "America has the electricity to power its data centers; the problem is getting it where it's needed.",
-      "description": "What's really slowing down the AI buildout\nAmerica has the electricity to power its data centers; the problem is getting it where it's needed.\nIssue 24 of Works in Progress has now arrived with subscribers. Sign up here to receive this issue, plus another every two months – straight to your door.\nOne of the most expensive projects in history is under construction in Abilene, Texas. This joint vent",
-      "pricing": "paid",
+      "id": "36e926f8-bd3b-42f9-9ccf-1fe097032272",
+      "name": "FOMO",
+      "url": "https://usefomo.co",
+      "oneLiner": "Your team knows more than it realizes.",
+      "description": "Your team knows more than it realizes.\nCreate a private FOMO for any project. As everyone researches normally, FOMO connects their findings, flags contradictions, and shows the team what to resolve next.\nFree forever. Anonymous by design. Zero extra work.\nShorter meetings.\nOpen it at the start of the call. Nobody spends the first ten minutes catching everyone up, the team already knows what everyo",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "design",
-        "voice"
-      ]
-    },
-    {
-      "id": "7096a799-2551-4fdc-bbb7-4bacff131349",
-      "name": "What founders should evaluate before launching an AI-built app",
-      "url": "https://geekyants.com/blog/what-founders-must-evaluate-before-launching-an-ai-built-app",
-      "oneLiner": "What founders need to check before launching an AI-built app: code ownership, build limits, data security, and why a pre-launch technical review matters.",
-      "description": "Jul 2, 2026\nWhat Founders Must Evaluate Before Launching an AI-Built App\nWhat founders need to check before launching an AI-built app: code ownership, build limits, data security, and why a pre-launch technical review matters.\nAuthor\nBook a call\nTable of Contents\nIn May 2025 Builder.ai filed for bankruptcy after raising $450 million from Microsoft, SoftBank and other investors. The company had pro",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
+        "search",
+        "research",
         "design"
       ]
     },
     {
-      "id": "9934bebb-4f89-4a9b-9f05-1d96ed030c12",
+      "id": "af755bcf-88e5-4b89-ad63-aacf3ee8a355",
+      "name": "100-days-of-ai",
+      "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
+      "oneLiner": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
+      "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.\nPrepared and maintained by the Founder of Outcome School: Amit Shekhar\nThe rules are simple:\n- Learn one concept every day. Each day maps to one blog - read it, understand it, and take your time with the examples.\n- Spend 30 to 60 minutes a day. That is all it takes",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "rag"
+      ]
+    },
+    {
+      "id": "75481d7d-ea7b-46c4-9aed-d5d97b1de50c",
+      "name": "photoshop-ai-smart-enhance",
+      "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
+      "oneLiner": "photoshop-ai-smart-enhance is a machine learning extension that automates image quality improvements.",
+      "description": "photoshop-ai-smart-enhance is a machine learning extension that automates image quality improvements. Smart exposure correction, intelligent contrast adjustment, adaptive color enhancement, and automated noise reduction. Built for photographers, designers, and production teams using Photoshop CC 2024+.\nProcess images with adaptive AI algorithms that learn from your edits.\nVersion: 1.8.5 (CC 2024+)",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "image"
+      ]
+    },
+    {
+      "id": "8b4947ca-0bde-4971-a1aa-4e73b082700f",
+      "name": "ai-market-pulse",
+      "url": "https://github.com/SilentFleetKK/ai-market-pulse",
+      "oneLiner": "market-pulse init --telegram-token .",
+      "description": "这是什么 · 60 秒体验完整产品 · 产品界面 · 核心能力 · 快速开始 · 数据源 · 启用 AI 总结 · 发布 · 风险提示\nAI Market Pulse 是一个 AI + 量化交易研究驾驶舱，用于自选股筛选、交易信号复盘、基准对比、组合归因、风险控制、自动报告和静态发布。\n它不只是一个定时脚本，也不是只服务一类人：\n本项目是原创实现，灵感来自\"AI 股票每日分析工具\"的真实需求，不是 fork，也不是复制其他仓库。\n运行离线 demo。它使用确定性的示例数据，不需要行情 API、新闻 API 或 LLM Key。\npip install -e \".[dev]\"\nmarket-pulse demo --output demo\n然后打开：\ndemo/site/index.html\ndemo/reports/dashboard.html\ndemo/reports/market-pu",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/SilentFleetKK/ai-market-pulse.git",
+      "categories": [
+        "code",
+        "data",
+        "productivity"
+      ]
+    },
+    {
+      "id": "2bde084b-3283-4dc3-a22c-744e7d620d56",
+      "name": "Claus-AI",
+      "url": "https://github.com/Clausia-lab/Claus-AI",
+      "oneLiner": "Welcome to the official repository of Claus AI.",
+      "description": "Welcome to the official repository of Claus AI. This is a high-potential, serious AI project engineered to make history in the field of artificial intelligence. Our ultimate goal and dream is to officially launch this AI globally with a dedicated independent website.\nIf you believe in the future of Claus AI and want to help us make history, please leave a Star (⭐) on the top right of this reposito",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code"
+      ]
+    },
+    {
+      "id": "10530679-19b2-4e41-8f35-99548f5b52af",
       "name": "ditto",
       "url": "https://github.com/ohad6k/ditto",
       "oneLiner": "Your AI agents act like they just met you.",
@@ -133,13 +200,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/ohad6k/ditto",
       "categories": [
-        "writing",
+        "design",
         "code",
-        "agents"
+        "writing"
       ]
     },
     {
-      "id": "43968600-e66d-409e-97c1-5c09a2c458ca",
+      "id": "64d5c046-2301-4aba-92e1-a4960d4b40af",
+      "name": "lapian-notes",
+      "url": "https://github.com/bkingfilm/lapian-notes",
+      "oneLiner": "English: Lapian Notes turns a film into an editable shot-by-shot study notebook — local frame extraction, AI-assisted structure analysis (bring your own AI, no API key), story-line",
+      "description": "把一部电影变成一份可编辑的拉片笔记：本地抽帧、自动配字幕、一键生成 AI 分析包，把 AI 返回的结果导回来，得到剧情泳道时间轴、结构树和观众情绪曲线。\n为想系统学习电影叙事的创作者设计。全程本地运行，影片和笔记数据不上传任何服务器。\nEnglish: Lapian Notes turns a film into an editable shot-by-shot study notebook — local frame extraction, AI-assisted structure analysis (bring your own AI, no API key), story-line swimlanes, structure tree and audience-emotion curve. UI is currently Chinese-only; everything runs l",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "video",
+        "productivity"
+      ]
+    },
+    {
+      "id": "4f156330-00c7-491c-a191-32072b5988fd",
       "name": "lingo",
       "url": "https://github.com/pascalorg/lingo",
       "oneLiner": "Make forms easier, LLM tools safer.",
@@ -150,13 +234,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "design",
         "code",
-        "data",
-        "design"
+        "data"
       ]
     },
     {
-      "id": "895e9283-c3bc-41b2-9b1b-39b3b6180e50",
+      "id": "9e0b13a8-f04b-453d-947f-54c8ab2cb5bc",
       "name": "feature-track",
       "url": "https://github.com/JunsW/feature-track",
       "oneLiner": "Lightweight, repo-native shared memory for AI coding agents.",
@@ -167,13 +251,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "productivity"
       ]
     },
     {
-      "id": "96d22525-7870-4b56-9bca-f3849cfef80e",
+      "id": "56951603-7c4d-470e-b30e-cbe40a5d1cdf",
       "name": "bike4mind",
       "url": "https://github.com/Bike4Mind/bike4mind",
       "oneLiner": "Your bicycle for the mind in the age of AI.",
@@ -185,12 +269,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "image",
-        "agents"
+        "agents",
+        "image"
       ]
     },
     {
-      "id": "b9556db7-1870-4855-b873-74adf32724cb",
+      "id": "5fa29320-84b0-4d53-b695-bf15c36b5973",
       "name": "atrophy",
       "url": "https://github.com/ashutosh-rath02/atrophy",
       "oneLiner": "Are you getting worse at coding without AI?",
@@ -201,30 +285,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/ashutosh-rath02/atrophy.git",
       "categories": [
+        "design",
         "code",
-        "data",
-        "design"
+        "data"
       ]
     },
     {
-      "id": "ce1329b1-ebe8-4377-a975-02ffb3e63794",
+      "id": "f4cec4d8-4042-4f51-8818-8469b59de626",
       "name": "OmniPost-AI",
       "url": "https://github.com/wanglinsaputra/OmniPost-AI",
       "oneLiner": "Chrome extension for multi-platform auto-posting.",
-      "description": "Chrome extension for multi-platform auto-posting. AI-powered (ChatGPT / Gemini) content generation with one-click publish to Facebook, Threads, and X (Twitter).\n- AI Content Generation -- pick ChatGPT or Gemini, describe your topic, AI writes the post\n- Multi-Platform -- post to Facebook, Threads, and X (Twitter) from a single popup\n- Thread Scheduling -- set date and time for Threads posts (uses ",
+      "description": "Chrome extension for multi-platform auto-posting. AI-powered (ChatGPT / Gemini) content generation with one-click publish to Facebook, Threads, and X (Twitter).\n- AI Content Generation -- pick ChatGPT, Claude, or Gemini, describe your topic, AI writes the post\n- Multi-Platform -- post to Facebook, Threads, and X (Twitter) from a single popup\n- Thread Scheduling -- set date and time for Threads pos",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "design",
         "writing",
-        "code",
-        "design"
+        "rag"
       ]
     },
     {
-      "id": "f73ce3fb-10fc-4d46-ad67-c3a7a90221bc",
+      "id": "f72e9496-a6f7-4b29-87f8-919981ed896c",
       "name": "anima-use-google",
       "url": "https://github.com/animaios/anima-use-google",
       "oneLiner": "MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session, then return the synthesized answer and citations as",
@@ -235,13 +319,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/animaios/anima-use-google",
       "categories": [
-        "code",
         "design",
+        "code",
         "agents"
       ]
     },
     {
-      "id": "5ae39473-d224-4f5e-ac35-5787f60dff34",
+      "id": "16076049-abe5-4e5f-88d7-428910bbc63e",
       "name": "WOPR_TUI_2026",
       "url": "https://github.com/ankurCES/WOPR_TUI_2026",
       "oneLiner": "In the 1983 film WarGames, a young hacker accidentally connects to WOPR (War Operation Plan Response) — a U.",
@@ -252,74 +336,77 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/ankurCES/WOPR_TUI_2026.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "video"
       ]
     },
     {
-      "id": "b8716cdb-9d07-41a8-ab27-0372d1c3f96b",
-      "name": "AMRouter",
-      "url": "https://github.com/ahwanulm/AMRouter",
-      "oneLiner": "A self-hosted AI gateway — one endpoint, many providers, auto-fallback.",
-      "description": "A self-hosted AI gateway — one endpoint, many providers, auto-fallback.\n9Router v2 is a decoupled rewrite of 9Router with a clean separation between a dedicated Express backend and a Vite + React frontend. It exposes an OpenAI-compatible REST API that proxies requests across dozens of AI providers with automatic load balancing, fallback, and key rotation.\n- OpenAI-compatible API — works with any c",
+      "id": "f1e91ceb-cb74-43d6-8520-168e6ea99b4b",
+      "name": "OptiQra",
+      "url": "https://github.com/armin5872/OptiQra",
+      "oneLiner": "js website auditing experience for spotting SEO, performance, accessibility, security, and conversion issues.",
+      "description": "OptiQra is a Next.js website auditing experience for spotting SEO, performance, accessibility, security, and conversion issues. Paste a URL, run a diagnostic, and review a structured report with actionable findings.\n- Scans a target URL and produces a multi-category audit report\n- Checks SEO metadata, structured data, robots files, and sitemaps\n- Evaluates performance-related HTML and response cha",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "image"
+      ]
+    },
+    {
+      "id": "d05de8bc-d8f5-4749-ae86-6d9268239663",
+      "name": "AI Humanizer",
+      "url": "https://ai-humanizer.space/",
+      "oneLiner": "Humanize AI-generated text from any LLM or writing tool.",
+      "description": "AI Humanizer — Humanize AI Text & AI Content Rewriter\nHumanize AI-generated text from any LLM or writing tool. Built for blogs, emails, social media, and creative writing.\nWhy Humanize\nWhy Humanize AI Text?\nAI-generated content is fast, but it is not always ready to publish. Humanizing bridges the gap between machine efficiency and human quality.\nAI Humanizer That Writes Naturally\nTurn robotic AI ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "writing",
+        "audio"
+      ]
+    },
+    {
+      "id": "fea5b42a-8a16-4837-9f1b-f942c101dfc6",
+      "name": "TensorSharp",
+      "url": "https://tensorsharp.ai/",
+      "oneLiner": "NET LLM inference engine for GGUF models — with a command-line tool, a browser chat server, and Ollama- & OpenAI-compatible APIs for programmatic access.",
+      "description": "TensorSharp\nA native .NET LLM inference engine for GGUF models — with a command-line tool, a browser chat server, and Ollama- & OpenAI-compatible APIs for programmatic access.\nEverything runs on your own hardware: your laptop, workstation, or server. No data leaves the machine, there are no per-token fees, and the same engine powers a quick command-line test, a shared internal chatbot, and a produ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/ahwanulm/AMRouter.git",
+      "githubUrl": "https://github.com/zhongkaifu/TensorSharp.git",
       "categories": [
         "code",
-        "data",
+        "marketing",
+        "image"
+      ]
+    },
+    {
+      "id": "75dcbc7c-8e6c-4dbe-86b7-5ccf95697656",
+      "name": "Debloat Slack",
+      "url": "https://github.com/benri-ai/slack-debloat",
+      "oneLiner": "De-bloat the native Slack app on macOS with your own CSS and JS — like uBlock Origin + Tampermonkey, but for the desktop app.",
+      "description": "De-bloat the native Slack app on macOS with your own CSS and JS — like uBlock Origin + Tampermonkey, but for the desktop app.\nSlack's macOS app is Electron, i.e. a Chromium rendering the same web app as your browser — you just normally can't put extensions in it. slack-debloat launches Slack with its Chrome DevTools Protocol port open (localhost-only) and runs a tiny zero-dependency injector that ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/benri-ai/slack-debloat.git",
+      "categories": [
+        "design",
+        "code",
         "agents"
-      ]
-    },
-    {
-      "id": "c08a3959-4e7f-4493-a099-0e85c6e0b09c",
-      "name": "tokenscope",
-      "url": "https://github.com/yaswanthme007/tokenscope",
-      "oneLiner": "Chrome DevTools for your context window.",
-      "description": "Chrome DevTools for your context window. See exactly where your AI tokens go — and stop wasting them.\nYour agent session just burned 500K tokens. Where did they go? tokenscope profiles your session logs and tells you: which files got re-sent six times, which tool result dumped 20K tokens of JSON the model never used, and what it's costing you.\nnpx tokenscope-ai ~/.claude/projects/my-project\n- 100%",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "ffd6b9d2-3aa4-40ea-9fd6-7779abe8dbad",
-      "name": "AI changes the economics of software rewrites",
-      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
-      "oneLiner": "AI slop starts with the codebase itself.",
-      "description": "AI slop starts with the codebase itself.\nAI changes rewrite economics because codebases with clear, common patterns get more leverage than proprietary or inconsistent systems.\nMy view on software rewrites has changed because of AI.\nThe quality of AI output isn't determined solely by your prompt.\nIt's determined by what the model already knows from training data, and the context you give it to work",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "productivity"
-      ]
-    },
-    {
-      "id": "b0bff626-029e-44f7-885f-4545dae5270b",
-      "name": "SlopWatch",
-      "url": "https://chromewebstore.google.com/detail/slopwatch-the-online-watc/nihlmmcfkabobchdpjimenhcfmaoglkj",
-      "oneLiner": "A community tool to detect the use of AI-generated content on the internet through polling.",
-      "description": "SlopWatch - The online watch for AI-generated content\nOverview\nA community tool to detect the use of AI-generated content on the internet through polling.\nABOUT: AI-generated content is rising (often dubbed \"slop\"). And while there's debate as to how much space AI content should share with human-made content, people have a right to know what they're consuming. If you've ever felt like there's just",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "writing",
-        "code",
-        "data"
       ]
     }
   ]
