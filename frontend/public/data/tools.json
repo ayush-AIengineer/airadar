@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-11T07:57:44.413449+00:00",
-  "count": 29,
+  "generatedAt": "2026-07-12T08:19:31.995506+00:00",
+  "count": 33,
   "tools": [
     {
-      "id": "4092d40f-3d9e-43d3-b3cb-d4ecdcb7d2ea",
+      "id": "23885b1e-5459-4bec-8027-9c35480eb0ea",
       "name": "laurel.dev",
       "url": "https://github.com/laureldev/laurel.dev",
       "oneLiner": "A tiny, self-hostable web-context API for LLM agents.",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "id": "1b6c37be-a881-46d0-8307-0a3e85dba4fd",
+      "id": "53b04aff-deb1-4ace-8379-014589a5a102",
       "name": "prompt-mac",
       "url": "https://github.com/dunglas/prompt-mac",
       "oneLiner": "Turn a fresh Mac into a modern, agent-first development powerhouse with a single command.",
@@ -37,24 +37,24 @@
       ]
     },
     {
-      "id": "b81bc601-0388-4143-a233-13b0b57a99d6",
+      "id": "45c613bc-0c1f-4ad4-902d-b60c0cad1016",
       "name": "local-vuln-research-pipeline",
       "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-      "oneLiner": "Exhaustive LLM-driven whitebox vulnerability research pipeline that finds every single vulnerability in any source code.",
-      "description": "Exhaustive LLM-driven whitebox vulnerability research pipeline that finds every single vulnerability in any source code. Built on a code graph + LLM hybrid architecture that enumerates and validates all source-to-sink paths.\nScales from small scripts to enterprise codebases: Linux Kernel, VSCode, Microsoft Agent Framework, GitHub Desktop.\nFinds every valid vulnerability in source code through exha",
+      "oneLiner": "Exhaustive LLM-driven whitebox vulnerability research pipeline that finds vulnerabilities in any source code.",
+      "description": "Exhaustive LLM-driven whitebox vulnerability research pipeline that finds vulnerabilities in any source code. Built on a code graph + LLM hybrid architecture that enumerates and validates all source-to-sink paths.\nScales from small scripts to enterprise codebases: Linux Kernel, VSCode, Microsoft Agent Framework, GitHub Desktop.\nFinds every valid vulnerability in source code through exhaustive enum",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": "https://github.com/gadievron/raptor",
       "categories": [
-        "code",
         "data",
+        "code",
         "search"
       ]
     },
     {
-      "id": "fde6f1cd-3504-4864-84da-5ce033c6de95",
+      "id": "f32f53d3-6c23-44bd-89b7-08c5b2559bbf",
       "name": "fintech-advisor",
       "url": "https://github.com/KORAYTEACHER/fintech-advisor",
       "oneLiner": "A net worth tracking app with an AI-powered financial advisor that helps you make smarter decisions about your portfolio.",
@@ -65,13 +65,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/KORAYTEACHER/fintech-advisor.git",
       "categories": [
+        "data",
         "code",
-        "design",
-        "data"
+        "design"
       ]
     },
     {
-      "id": "28b28491-48cf-4f0b-a843-447ee52016d5",
+      "id": "2c8ada5d-6391-48bc-ae73-bdb33e68683e",
       "name": "Octop",
       "url": "https://github.com/TencentCloud/Octop",
       "oneLiner": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
@@ -82,13 +82,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
+        "data",
         "code",
-        "security",
-        "data"
+        "security"
       ]
     },
     {
-      "id": "111d7ebc-5eb0-4f93-ab55-66b0728792ca",
+      "id": "25606661-6959-4be9-b573-5e5a7dee6d9f",
       "name": "Maestro",
       "url": "https://github.com/Blizaine/Maestro",
       "oneLiner": "A one-click AI video, image, and audio studio for creators.",
@@ -100,12 +100,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "voice",
-        "video"
+        "video",
+        "voice"
       ]
     },
     {
-      "id": "023f4705-7178-46d1-82c4-2b9bb2a7d683",
+      "id": "28ee853f-16e5-4383-92d3-3899ed885d29",
       "name": "exxperts",
       "url": "https://github.com/EXXETA/exxperts",
       "oneLiner": "exxperts gives you persistent AI rooms with governed, approval-gated memory: agents that remember you and your work across sessions, with every memory write approved by you.",
@@ -122,41 +122,159 @@
       ]
     },
     {
-      "id": "21623338-186e-4964-8c26-c6e3dca24270",
-      "name": "Krbn",
-      "url": "https://github.com/vpalos/Krbn",
-      "oneLiner": "I call it \"Carbon\", with the vowels sketched out.",
-      "description": "I call it \"Carbon\", with the vowels sketched out. A web engine for non-photorealistic, pencil-style rendering of abstract and technical scenes — math and physics constructions today, medical/organic illustration on the roadmap.\nBuilding something? See API.md — a short guide to using Krbn to build scenes and animations.\nSee the full example gallery → — multiple annotated renders, real STL/OBJ impor",
+      "id": "6f6dd935-3877-4a51-9d60-e04b946af5fc",
+      "name": "Wealthy AI workers send San Francisco house prices soaring",
+      "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
+      "oneLiner": "On a tree-lined street in the affluent Duboce Triangle residential neighbourhood of San Francisco, the top half of a white, Edwardian-era, detached house was drawing visitors from ",
+      "description": "Wealthy AI workers send San Francisco house prices soaring\nOn a tree-lined street in the affluent Duboce Triangle residential neighbourhood of San Francisco, the top half of a white, Edwardian-era, detached house was drawing visitors from prospective buyers.\nThe opulently renovated three-bedroom apartment was on the market for almost $3m (£2.3m). And it had been attracting increased attention due ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "c951fea7-9cac-4d71-a11a-68ebd3ee37b5",
+      "name": "Inkfold",
+      "url": "https://www.inkfold.app/",
+      "oneLiner": "For people who pay for more than one AI — keep your memory and context as you move between ChatGPT, Claude, Gemini, Grok, and the rest.",
+      "description": "For people who pay for more than one AI — keep your memory and context as you move between ChatGPT, Claude, Gemini, Grok, and the rest. Stop re-explaining yourself every time you switch tools.\nInkfold indexes your conversation history, builds structured context, and injects the right signal into every new chat — on any vendor, on any device.\nImport existing chats from ChatGPT, Claude, DeepSeek, Ge",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "a224464b-5db9-4141-bc23-3576c0baf8ab",
+      "name": "AgentTransfer",
+      "url": "https://github.com/shehryarsaroya/agenttransfer",
+      "oneLiner": "dev — hosted instance, open signup · llms.",
+      "description": "agenttransfer.dev — hosted instance, open signup · llms.txt ·\nOpen-source file transfer for AI agents. One API call — just a name — and an agent has its own identity, a folder, an inbox, and an API key. No human, no approval, no credit card, no SDK. From that first second it can send files up to 5 GB each to other agents, find peers by what they do, and run a whole fleet in shared spaces. Reaching",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/shehryarsaroya/agenttransfer",
+      "categories": [
+        "data",
+        "agents",
+        "code"
+      ]
+    },
+    {
+      "id": "92380610-424d-4346-94a0-81af2692ba89",
+      "name": "Token Time",
+      "url": "https://tokentime.bar",
+      "oneLiner": "Token Time meters every token your AI agents burn and taps you on the shoulder when it's time to take a break.",
+      "description": "Token Time meters every token your AI agents burn and taps you on the shoulder when it's time to take a break.\nLaunch price · macOS 13+ · Apple Silicon\nA full-screen reminder appears every time today's usage passes another 100M tokens. It auto-dismisses after 10s.\nYour live token count and today's spend, always one glance away in the macOS menu bar. No dashboard to open.\nSee tokens by the hour acr",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "agents",
+        "marketing"
+      ]
+    },
+    {
+      "id": "f79a84fb-77bd-4a67-9321-94c5ae45ce1a",
+      "name": "BoundFlow",
+      "url": "https://github.com/boundflow/boundflow",
+      "oneLiner": "The operational layer for the LLM agents and workflows you run unattended — cost caps, approval gates, and self-healing policy, enforced by a control plane.",
+      "description": "The operational layer for the LLM agents and workflows you run unattended — cost caps, approval gates, and self-healing policy, enforced by a control plane.\nImportant\nPublic preview (pre-1.0). The engine is complete and covered by Go, mock-LLM, and live-LLM test suites, but it hasn't yet been run in production with external users. APIs — including the gRPC protobufs — may change before 1.0. We're ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "design",
-        "research"
+        "design"
       ]
     },
     {
-      "id": "aee19c88-f6aa-4019-8cb3-08b1f1a6724f",
-      "name": "NoiseRemover.ai",
-      "url": "https://noiseremover.ai/",
-      "oneLiner": "Drop in any recording, hear the before & after in seconds.",
-      "description": "Remove background noise from audio with AI\nDrop in any recording, hear the before & after in seconds. Free, no signup.\nFree demo cleans short clips. Sign in for full-length files, all formats and every tool.\n✓ No install, works in your browser\n✓ Keeps your voice natural\n✓ Files deleted automatically\n29\ndedicated tools\n< 60s\ntypical clean time\n100+\nlanguages supported\n8+\naudio & video formats\nPopul",
+      "id": "5c06ba47-9654-46cc-8249-abdb1fbf42ac",
+      "name": "I built TradingSpy",
+      "url": "https://github.com/mrhustlex/TradingSpy-TradingAgentService",
+      "oneLiner": "You signed in with another tab or window.",
+      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nLocal-first AI trading research: market heatmaps, news catalysts, strategy generation, Backtrader backtests, and transparent agent runs in one Docker app.\nTrading",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/mrhustlex/TradingSpy-TradingAgentService.git",
       "categories": [
+        "agents",
         "code",
-        "audio",
-        "voice"
+        "design"
       ]
     },
     {
-      "id": "14376929-6230-47e4-a1be-c582620b1780",
+      "id": "6ca552aa-5803-4e96-aaee-c9d37f78be66",
+      "name": "awesome-gemini-cli-subagents",
+      "url": "https://github.com/JosephHampton/awesome-gemini-cli-subagents",
+      "oneLiner": "A curated collection of production-ready subagents for Gemini CLI.",
+      "description": "A curated collection of production-ready subagents for Gemini CLI.\n51 specialist subagents across 9 domains — drop them into .gemini/agents/\nand let Gemini CLI delegate the right expert for the job.\nGemini CLI supports subagents: focused, specialist AI assistants that the main agent can delegate to. Each subagent has its own system prompt, its own tools, and its own context window, so it stays sha",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/JosephHampton/awesome-gemini-cli-subagents.git",
+      "categories": [
+        "data",
+        "agents",
+        "code"
+      ]
+    },
+    {
+      "id": "7663bdc8-e58b-45c0-84a6-7ea0f1e4a11b",
+      "name": "atrio",
+      "url": "https://github.com/29-Cu/atrio",
+      "oneLiner": "A small, self-hosted guest lounge for your AI persona — friends chat with your AI through one-time links, and you only ever see the AI-written visit summary.",
+      "description": "A small, self-hosted guest lounge for your AI persona — friends chat with your AI through one-time links, and you only ever see the AI-written visit summary. 一个小而干净、可自托管的 AI 人格「会客厅」——朋友凭一次性链接和你的 AI 聊天，你只看得到 AI 写的到访摘要。\nAtrio is Italian/Spanish for \"atrium, entrance hall\" — the first room a guest steps into. （atrio 是意大利语/西语的「中庭、门厅」——客人进屋先到的地方。）\nA small, self-hosted guest lounge for your AI persona.\n",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "c1d35650-2d98-43d6-981a-ecdaeec5d332",
+      "name": "generative-media-skills",
+      "url": "https://github.com/calesthio/generative-media-skills",
+      "oneLiner": "Give your coding agent a media production department, not a folder of prompts.",
+      "description": "Give your coding agent a media production department, not a folder of prompts.\nGenerative Media Skills is an agent-native production system for creating, directing, validating, and delivering image, video, audio, voice, music, 3D, avatar, and interactive media. It combines researched operating knowledge with executable guardrails so agents can move from a creative brief to a usable deliverable wit",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "voice",
+        "audio"
+      ]
+    },
+    {
+      "id": "dbe92ad8-6996-44a0-889c-e78f8d5c73a3",
       "name": "vox-director",
       "url": "https://github.com/Alisa0808/vox-director",
       "oneLiner": "Turn one topic into a finished Vox-style paper-collage explainer / ad video — script, collage keyframes, motion, voice-over, music and captions, all automated.",
@@ -168,12 +286,29 @@
       "githubUrl": "https://github.com/Alisa0808/vox-director.git",
       "categories": [
         "code",
-        "voice",
-        "video"
+        "video",
+        "voice"
       ]
     },
     {
-      "id": "4753a1f9-9acc-4a11-9591-eea010b4ba18",
+      "id": "7cad9d51-269b-4c62-8be9-d863120ea9f3",
+      "name": "qr-ai-chat",
+      "url": "https://github.com/agarwalpranav0711/qr-ai-chat",
+      "oneLiner": "You're not opening a link — the whole interface was inside that square.",
+      "description": "Scan it. You're not opening a link — the whole interface was inside that square.\n👆 scan this right now with your phone camera\nMost \"AI QR codes\" are just a sticker with a link on it — scan it, get redirected to a normal hosted webpage. This isn't that. The entire chat interface — HTML, CSS, JavaScript, the AI's personal context — is minified, gzip-compressed, base64-encoded, and packed directly in",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "ac384698-9f78-443c-ab2a-578fddedf077",
       "name": "100-days-of-ai",
       "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
       "oneLiner": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
@@ -190,7 +325,7 @@
       ]
     },
     {
-      "id": "cef35923-9e9b-43e3-af5c-345647ad3fd9",
+      "id": "e30d4abb-b09a-4ff4-aadd-25fbfaaf61f9",
       "name": "photoshop-ai-smart-enhance",
       "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
       "oneLiner": "photoshop-ai-smart-enhance is a machine learning extension that automates image quality improvements.",
@@ -207,7 +342,7 @@
       ]
     },
     {
-      "id": "89f0296b-6400-4e59-80df-73f471f0376e",
+      "id": "5035c5d5-1b69-4ce4-b960-aecd7c5e1385",
       "name": "ai-market-pulse",
       "url": "https://github.com/SilentFleetKK/ai-market-pulse",
       "oneLiner": "An AI + quant trading research cockpit for watchlist screening, portfolio risk, automated reports, and static publishing.",
@@ -224,7 +359,7 @@
       ]
     },
     {
-      "id": "2d5f7355-d289-4b88-95ba-88e50170ed34",
+      "id": "15ca66c5-2aed-4816-82d0-68ed42e6f786",
       "name": "ai-openclaw-cli",
       "url": "https://github.com/wikidjon/ai-openclaw-cli",
       "oneLiner": "Research · strategy · backtest · paper trade — ship a complete quant workflow from a single natural-language prompt, inside Claude Code, Cursor, and 20+ AI agents.",
@@ -241,7 +376,7 @@
       ]
     },
     {
-      "id": "4e883dd5-e6b0-479f-a256-7599a8de565c",
+      "id": "312a35cf-8824-478b-9864-cda08b28ad5c",
       "name": "Claus-AI",
       "url": "https://github.com/Clausia-lab/Claus-AI",
       "oneLiner": "Welcome to the official repository of Claus AI.",
@@ -257,16 +392,16 @@
       ]
     },
     {
-      "id": "9fae0117-b3c4-44ff-9299-7ef7300a5b21",
+      "id": "7fb6723c-9040-4ba4-bb50-d854983125f3",
       "name": "ditto",
       "url": "https://github.com/ohad6k/ditto",
       "oneLiner": "Your AI agents act like they just met you.",
-      "description": "Your AI agents act like they just met you. Ditto fixes that.\nYou have months of chat logs with Claude / Codex / Cursor sitting on your disk.\nIt is the most honest record of how you actually think, and you are deleting it.\nDitto mines it into a you.md\nyour agents read before every task.\nMemory is what you explicitly told the model.\nDitto mines what your work already proved about you: what you rejec",
+      "description": "Your AI agents act like they just met you. Ditto fixes that.\nYour real coding-agent sessions already contain the rules you never wrote down: what “done” means, what you reject on sight, how you debug, how you design UI, and how you write when you are actually working.\nDitto mines selected evidence from those sessions — Claude Code, Codex, and Copilot CLI logs out of the box — into a private workin",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ohad6k/ditto",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
         "code",
         "design",
@@ -274,11 +409,11 @@
       ]
     },
     {
-      "id": "b0535a44-0fb3-4c26-a14b-14e2c6c15ddb",
+      "id": "91eb5ba5-b8dc-40c3-8b28-4ef84a3839ac",
       "name": "lapian-notes",
       "url": "https://github.com/bkingfilm/lapian-notes",
-      "oneLiner": "English: Lapian Notes turns a film into an editable shot-by-shot study notebook — local frame extraction, AI-assisted structure analysis (bring your own AI, no API key), story-line",
-      "description": "把一部电影变成一份可编辑的拉片笔记：本地抽帧、自动配字幕、一键生成 AI 分析包，把 AI 返回的结果导回来，得到剧情泳道时间轴、结构树和观众情绪曲线。\n为想系统学习电影叙事的创作者设计。全程本地运行，影片和笔记数据不上传任何服务器。\nEnglish: Lapian Notes turns a film into an editable shot-by-shot study notebook — local frame extraction, AI-assisted structure analysis (bring your own AI, no API key), story-line swimlanes, structure tree and audience-emotion curve. UI is currently Chinese-only; everything runs l",
+      "oneLiner": "English: Full English README → Lapian Notes turns a film into an editable shot-by-shot study notebook — local frame extraction, AI-assisted structure analysis (bring your own AI, n",
+      "description": "把一部电影变成一份可编辑的拉片笔记：本地抽帧、自动配字幕、一键生成 AI 分析包，把 AI 返回的结果导回来，得到剧情泳道时间轴、结构树和观众情绪曲线。\n为想系统学习电影叙事的创作者设计。全程本地运行，影片和笔记数据不上传任何服务器。\nEnglish: Full English README → Lapian Notes turns a film into an editable shot-by-shot study notebook — local frame extraction, AI-assisted structure analysis (bring your own AI, no API key), story-line swimlanes, structure tree and audience-emotion curve. UI is currently Chinese-o",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -291,7 +426,7 @@
       ]
     },
     {
-      "id": "c562936f-5017-4284-840f-c6cd3a3d561e",
+      "id": "731b0fe1-730b-4097-bc45-1caf6c826d7c",
       "name": "lingo",
       "url": "https://github.com/pascalorg/lingo",
       "oneLiner": "Make forms easier, LLM tools safer.",
@@ -302,13 +437,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "data",
         "code",
-        "design",
-        "data"
+        "design"
       ]
     },
     {
-      "id": "74819470-984c-4adf-9a04-a5fb96e52bf5",
+      "id": "3c7b2a58-d55d-44a2-9fd8-b1f8588264f0",
+      "name": "ZethCode",
+      "url": "https://github.com/ZethRise/ZethCode",
+      "oneLiner": "Terminal-native AI coding assistant for local developer workflows.",
+      "description": "Terminal-native AI coding assistant for local developer workflows.\nEnglish | فارسی\nZeth Code is a fork of MiMo Code, adapted under the ZethRise namespace with Windows release builds and the zeth\ncommand. It keeps the terminal-first agent workflow: read and edit code, run commands, manage Git, preserve project memory across sessions, and connect to OpenAI-compatible model providers.\nMiMo Code is bu",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/ZethRise/ZethCode.git",
+      "categories": [
+        "agents",
+        "code",
+        "productivity"
+      ]
+    },
+    {
+      "id": "f4f3a36d-6169-4b96-89dd-e970d92d61af",
       "name": "Inka",
       "url": "https://github.com/BoltAI/Inka",
       "oneLiner": "Hi, I'm Daniel, and I build AI apps.",
@@ -319,13 +471,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "data",
         "code",
-        "design",
-        "data"
+        "design"
       ]
     },
     {
-      "id": "0b96713b-c475-40a9-9155-8a32e74ecf24",
+      "id": "7d2fc686-cb9c-47d6-bd5d-461579fdca60",
       "name": "feature-track",
       "url": "https://github.com/JunsW/feature-track",
       "oneLiner": "Lightweight, repo-native shared memory for AI coding agents.",
@@ -342,92 +494,7 @@
       ]
     },
     {
-      "id": "98d1bd33-a28d-4193-8a7f-fbd98850c334",
-      "name": "bike4mind",
-      "url": "https://github.com/Bike4Mind/bike4mind",
-      "oneLiner": "Your bicycle for the mind in the age of AI.",
-      "description": "Your bicycle for the mind in the age of AI.\nAn open-core AI knowledge platform — a multi-model workspace where notebooks, autonomous agents, and a RAG knowledge engine work together to augment any cognitive task.\nBike4Mind is an AI-powered knowledge platform that wires a superset of AI technologies together behind one workspace. Bring your own models, keep your data, and let agents do the heavy li",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "image"
-      ]
-    },
-    {
-      "id": "17a5a57e-b193-4ffd-b99c-307fc4fdf7dd",
-      "name": "atrophy",
-      "url": "https://github.com/ashutosh-rath02/atrophy",
-      "oneLiner": "Are you getting worse at coding without AI?",
-      "description": "Are you getting worse at coding without AI? Atrophy tells you - with a number.\nAtrophy is a command-line app that regularly hands you a small coding exercise to solve without any AI help - no Copilot, no chat, just you and your editor. It grades your solution automatically, keeps a skill rating for you (like a chess Elo), and charts how that rating moves over the weeks. If AI assistance is quietly",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ashutosh-rath02/atrophy.git",
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "731a628c-f399-48c5-87dd-91a1dc39c1cf",
-      "name": "OmniPost-AI",
-      "url": "https://github.com/wanglinsaputra/OmniPost-AI",
-      "oneLiner": "Chrome extension for multi-platform auto-posting.",
-      "description": "Chrome extension for multi-platform auto-posting. AI-powered (ChatGPT / Gemini) content generation with one-click publish to Facebook, Threads, and X (Twitter).\n- AI Content Generation -- pick ChatGPT, Claude, or Gemini, describe your topic, AI writes the post\n- Multi-Platform -- post to Facebook, Threads, and X (Twitter) from a single popup\n- Thread Scheduling -- set date and time for Threads pos",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "rag",
-        "writing"
-      ]
-    },
-    {
-      "id": "7c788259-9307-4e3f-a320-8dc7351e1665",
-      "name": "anima-use-google",
-      "url": "https://github.com/animaios/anima-use-google",
-      "oneLiner": "MCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session, then return the synthesized answer and citations as",
-      "description": "anima-use-google\nMCP server + browser sidecar extension that lets AI agents run Google AI Mode searches using your own logged-in browser session, then return the synthesized answer and citations as an MCP tool result.\nYou need three things: the MCP server, the native-messaging host, and either the Firefox or Chromium extension. Then wire the server into your agent.\nThe stable npm release is 0.1.6\n",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/animaios/anima-use-google",
-      "categories": [
-        "agents",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "c524fbb1-748c-41db-824f-5671f886da71",
-      "name": "Cli-launcher",
-      "url": "https://github.com/MadBlast0/Cli-launcher",
-      "oneLiner": "Cross-platform desktop launcher for AI coding CLIs.",
-      "description": "Cross-platform desktop launcher for AI coding CLIs. Install, update, uninstall, and launch 32 terminal AI agents — all from one mac-style panel.\n- 32 AI coding CLIs — manage all major terminal AI agents (Claude Code, OpenCode, Gemini CLI, GitHub Copilot, Aider, and more) in one place.\n- Install / Update / Uninstall / Repair — per-CLI actions with real-time progress feedback. Each CLI gets its own ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/MadBlast0/Cli-launcher.git",
-      "categories": [
-        "agents",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "9278f357-fd51-4923-9a40-1f869595dbd9",
+      "id": "68fa5e67-69c7-477a-a345-52c325bd19ce",
       "name": "OptiQra",
       "url": "https://github.com/armin5872/OptiQra",
       "oneLiner": "OptiQra is an AI optimized SEO crawling analyzer that crawls analyzes every page associated with the url the user inputs and creates visual tree and scores based on its SEO of the ",
@@ -444,28 +511,11 @@
       ]
     },
     {
-      "id": "9bea7f3b-ad5c-4b17-8678-bdd28757c0ba",
-      "name": "Meta removes AI feature on Instagram after global backlash",
-      "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
-      "oneLiner": "Meta has backed down on a controversial feature that allowed people's public Instagram posts to be used by anyone for AI generation.",
-      "description": "Meta has backed down on a controversial feature that allowed people's public Instagram posts to be used by anyone for AI generation.\nThe Muse Image function announced earlier this week was automatically being turned on for Instagram accounts, with Meta calling it \"image generation built for your world\".\nHowever, after strong negative feedback on the feature and coverage in media such as RNZ, BBC, ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "image",
-        "writing"
-      ]
-    },
-    {
-      "id": "ef4a899b-8977-4380-9a31-843a0f9f9b91",
-      "name": "Choosing the Right AI Agent Memory Strategy",
-      "url": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
-      "oneLiner": "In this article, you will learn how to choose the right memory strategy for an AI agent by working through a simple decision tree, one category of information at a time.",
-      "description": "In this article, you will learn how to choose the right memory strategy for an AI agent by working through a simple decision tree, one category of information at a time.\nTopics we will cover include:\n- The four types of agent memory — working, semantic, episodic, and procedural — and what each one assumes about the information it holds.\n- A five-question decision tree that classifies what a given ",
+      "id": "e8f9ed6e-35da-49d1-bb1c-55d518ee5cf7",
+      "name": "Mesh LLM",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "oneLiner": "by Rae McKelveyWhen people picture running a large language model, they picture a data center.",
+      "description": "Mesh LLM: distributed AI computing on iroh\nby Rae McKelveyWhen people picture running a large language model, they picture a data center. Racks of GPUs that belong to someone else, a metered API, and a bill that grows every month you succeed. You send your prompts off to a black box and hope the price, the model, and the privacy policy all stay the way they were when you signed up.\nFor a lot of te",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -474,24 +524,41 @@
       "categories": [
         "agents",
         "code",
-        "rag"
+        "security"
       ]
     },
     {
-      "id": "2bd92c58-59f9-4b5a-bc06-42cf76eaf390",
-      "name": "I run my agency's 10 AI agents from launchd",
-      "url": "https://github.com/Botfather90/digiton-agent-fleet",
-      "oneLiner": "Ten scheduled AI agents run my agency's operations: lead research, PR outreach, reply triage, pipeline sync, inbox monitoring, daily briefings.",
-      "description": "Ten scheduled AI agents run my agency's operations: lead research, PR outreach, reply triage, pipeline sync, inbox monitoring, daily briefings. No n8n, no framework, no queue, no Docker. Each agent is one Node file on a launchd timer, and every irreversible action passes a unit-tested guardrail before it happens. This repo is that harness, extracted clean as a template.\nThe numbers:\n- 10 agents in",
+      "id": "b8071b2a-4672-4dbd-acf5-a46e92934625",
+      "name": "Zero Trust Boundary for Agents",
+      "url": "https://github.com/Open-AGS/attestor",
+      "oneLiner": "Badges point to repository evidence.",
+      "description": "📄 Read the Technical Whitepaper\nBadges point to repository evidence.\nHow Attestor connects to existing systems\nControl infrastructure for high-risk AI-driven operations.\nAttestor sits between an AI-prepared operation and the system that would execute it. Prompts can guide behavior, but they cannot enforce it or stop an unsafe, unauthorized, or out-of-scope service call.\nUnsafe requests can come fr",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Botfather90/digiton-agent-fleet",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
+        "data",
         "agents",
-        "design",
-        "data"
+        "security"
+      ]
+    },
+    {
+      "id": "c67faaf3-ef10-4616-ae82-03cb43679f6f",
+      "name": "Sqlsure",
+      "url": "https://github.com/sqlsure/sqlsure",
+      "oneLiner": "sqlsure makes sure it's right.",
+      "description": "AI writes your SQL. sqlsure makes sure it's right.\nA query can be perfectly valid, run without error, and return a number that's silently wrong — revenue double-counted by a join, an average summed, a patient identifier exposed. Databases don't catch this. Linters don't catch this. LLMs reviewing their own SQL don't catch this.\nsqlsure does — deterministically, in 0.1 ms, before the query runs.\nPr",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "agents",
+        "code"
       ]
     }
   ]
