@@ -1,13 +1,63 @@
 {
-  "generatedAt": "2026-07-15T08:11:38.478901+00:00",
-  "count": 25,
+  "generatedAt": "2026-07-16T08:15:18.502906+00:00",
+  "count": 31,
   "tools": [
     {
-      "id": "8051d13e-fa6a-496c-be74-fdabd1ce9994",
+      "id": "afebc1ee-7d78-4d24-96c2-0cec8a65b288",
+      "name": "claude-arbitrage-bot",
+      "url": "https://github.com/alexafinode/claude-arbitrage-bot",
+      "oneLiner": "An arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance.",
+      "description": "An arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance. Below is a step-by-step guide on how to deploy your bot and get it running without a single manual call.\nAn arbitrage bot is a smart contract connected to an external automation script that controls its operation.\nexecuteArbitrage()\n— the main fu",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "rag"
+      ]
+    },
+    {
+      "id": "ab992a58-8e3d-4e1a-b43f-790bb7743bfa",
+      "name": "penecho",
+      "url": "https://github.com/erickong/penecho",
+      "oneLiner": "Think with AI beyond the chat box.",
+      "description": "Think with AI beyond the chat box.\nPenEcho is a shared canvas where handwriting, equations, diagrams, and spatial context become part of the conversation.\nPut a question, equation, diagram, or half-formed idea anywhere on the canvas and pause. PenEcho reads your marks and their spatial relationships, then answers beside them. You can work through a problem without translating every step into a cha",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "9ffe4750-d666-4fee-a9c5-f2da09f06f52",
+      "name": "10-ai-careers-roadmap",
+      "url": "https://github.com/Moh4696/10-ai-careers-roadmap",
+      "oneLiner": "A structured, free library of learning resources for 10 AI & tech careers quietly paying $135K–$1M+ in 2026.",
+      "description": "A structured, free library of learning resources for 10 AI & tech careers quietly paying $135K–$1M+ in 2026. No paywalls, no fluff. Every link below is a genuinely free way to start (some offer optional paid certificates).\nThis repo is the companion resource library to the article \"10 AI Careers Quietly Paying $135K–$1M+ in 2026 (Full Resources)\" → read it on X (@exploraX_).\nThe goal is simple: pi",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "fd82438e-c1c1-4ddd-8cab-8ac575a1fb0b",
       "name": "J-Wash",
       "url": "https://github.com/Extraltodeus/J-Wash",
       "oneLiner": "Reshape a model's identity and behavior by editing token directions, then bake those edits into a real checkpoint you can run anywhere.",
-      "description": "Reshape a model's identity and behavior by editing token directions, then bake those edits into a real checkpoint you can run anywhere. No training, no dataset, no fine-tuning.\nJ-Wash is a local studio (FastAPI + React) for exploring and editing the J-space\nof any Hugging Face decoder LLM. You chat with a model while a live Jacobian lens\nshows what each layer is \"reading,\" pin and inspect concepts",
+      "description": "Reshape a model's identity and behavior by editing token directions, then bake those edits into a real checkpoint you can run anywhere. No training, no dataset, no fine-tuning.\nJ-Wash is a local studio (FastAPI + React) for exploring, editing the J-space of any Hugging Face LLM, and export a usable checkpoint.\nYou chat with a model while a live Jacobian lens\nshows what each layer is \"reading,\" pin",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -15,12 +65,12 @@
       "githubUrl": "https://github.com/extraltodeus/j-wash.git",
       "categories": [
         "code",
-        "design",
-        "data"
+        "data",
+        "image"
       ]
     },
     {
-      "id": "f9dea02d-1234-4b31-a43a-839639e08577",
+      "id": "61f9d311-00d7-46ef-a457-6d4ab733b8fe",
       "name": "p2ptokens",
       "url": "https://github.com/pur4v/p2ptokens",
       "oneLiner": "Distributed, decentralized LLM inference across a peer-to-peer swarm — one binary that both serves and consumes completions.",
@@ -37,7 +87,24 @@
       ]
     },
     {
-      "id": "ca9ad580-b27f-4e7e-a789-d991312a943d",
+      "id": "c024c107-e69d-49b7-9584-8733c966ae2e",
+      "name": "ally-agent",
+      "url": "https://github.com/Bronya0/ally-agent",
+      "oneLiner": "A desktop AI coding assistant that works with your local projects.",
+      "description": "A desktop AI coding assistant that works with your local projects. Ally helps you understand code, edit files, search a workspace, manage tasks, and complete development work through conversation.\nDownload packages for Windows, macOS, and Linux from the Releases page.\n- Work with local projects through natural-language conversations, attachments, and persistent sessions\n- Read, search, create, edi",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "df5c1f9c-e05f-43f2-8bad-d8f1a9a9e737",
       "name": "NexBench",
       "url": "https://github.com/Nexis-AI/NexBench",
       "oneLiner": "The reproducible benchmark for autonomous Web3 agents.",
@@ -54,7 +121,7 @@
       ]
     },
     {
-      "id": "01fcc1ff-e23c-4014-ad90-e8c9a83947ab",
+      "id": "476bbeeb-61bb-4c21-8dde-0e7fd6682c72",
       "name": "agent-pulse",
       "url": "https://github.com/barretlee/agent-pulse",
       "oneLiner": "Evidence-backed AI industry intelligence for people who need to decide, not just keep up.",
@@ -66,12 +133,12 @@
       "githubUrl": "https://github.com/barretlee/agent-pulse.git",
       "categories": [
         "code",
-        "data",
-        "agents"
+        "agents",
+        "data"
       ]
     },
     {
-      "id": "b9f06d5c-5f65-48da-bd5d-1e37210bb860",
+      "id": "3dae030a-818c-4be4-912c-1d7388aa2278",
       "name": "memraw",
       "url": "https://github.com/TetiAI/memraw",
       "oneLiner": "An open experiment in memory for AI agents — the whole memory, always in the prompt.",
@@ -88,11 +155,28 @@
       ]
     },
     {
-      "id": "16af6040-314a-4809-9633-340d27a383d6",
+      "id": "c08569bb-04d4-4e50-8d1f-232b58187c17",
+      "name": "PunamIDE",
+      "url": "https://github.com/mandaloriantrader/PunamIDE",
+      "oneLiner": "A native AI-powered code editor built with Tauri 2, React 19, and Monaco Editor.",
+      "description": "A native AI-powered code editor built with Tauri 2, React 19, and Monaco Editor.\nMulti-provider AI, agentic tool-calling, technical debt analysis, and a full IDE experience — all running locally on your machine.\nPunamIDE is an open-source desktop IDE , it's a full desktop IDE with a native Rust backend, real terminal, Git integration, GitHub management, DAP debugger, local embeddings, architecture",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/mandaloriantrader/punamIDe-v2.0-full-update.git",
+      "categories": [
+        "code",
+        "agents",
+        "rag"
+      ]
+    },
+    {
+      "id": "17f8288c-dabf-4bd7-bc15-09b88276e381",
       "name": "Flawless",
       "url": "https://github.com/William-Lu-stack/Flawless",
       "oneLiner": "Your infrastructure can explain itself, heal safely, and prove it recovered.",
-      "description": "Your infrastructure can explain itself, heal safely, and prove it recovered.\n让基础设施自己解释故障、安全完成修复，并证明它真的恢复了。\nFlawless is the open engineering foundation of the COSCOAI SRE platform: an AI-native SRE control plane for Kubernetes and cloud infrastructure. It connects alerts, evidence, topology, human approval, controlled remediation, and recovery verification in one auditable AgenticOps loop.\n它不是另一个只会",
+      "description": "Your infrastructure can explain itself, heal safely, and prove it recovered.\n让基础设施自己解释故障、安全完成修复，并证明它真的恢复了。\nFlawless is an AI-native SRE control plane for Kubernetes and cloud infrastructure. It connects alerts, evidence, topology, human approval, controlled remediation, and recovery verification in one auditable AgenticOps loop.\n它不是另一个只会给建议的运维聊天框。Flawless 将“发现问题、收集证据、生成预演、人工授权、执行变更、恢复验证、经验沉淀”连接成一个",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -105,109 +189,142 @@
       ]
     },
     {
-      "id": "6910ff4f-f9fe-47d3-a1c9-da73c6b11984",
-      "name": "prompt-mac",
-      "url": "https://github.com/dunglas/prompt-mac",
-      "oneLiner": "Turn a fresh Mac into a modern, agent-first development powerhouse with a single command.",
-      "description": "Turn a fresh Mac into a modern, agent-first development powerhouse with a single command.\n/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/dunglas/prompt-mac/main/install.sh)\"\nHey, I'm Kévin Dunglas (creator of FrankenPHP, Mercure, API Platform, and core maintainer of Caddy, Symfony, and PHP). Over the years, I've dedicated my career to building open-source tools that make developer wo",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/dunglas/prompt-mac.git",
-      "categories": [
-        "security",
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "f43416a5-b410-45a0-8059-28403b32f225",
-      "name": "local-vuln-research-pipeline",
-      "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
-      "oneLiner": "Exhaustive LLM-driven whitebox vulnerability research pipeline that finds vulnerabilities in any source code.",
-      "description": "Exhaustive LLM-driven whitebox vulnerability research pipeline that finds vulnerabilities in any source code. Built on a code graph + LLM hybrid architecture that enumerates and validates all source-to-sink paths.\nScales from small scripts to enterprise codebases: Linux Kernel, VSCode, Microsoft Agent Framework, GitHub Desktop.\nFinds every valid vulnerability in source code through exhaustive enum",
+      "id": "9623403f-739a-419d-80e3-e194c6d4f5f6",
+      "name": "zabt-ai",
+      "url": "https://github.com/afeef/zabt-ai",
+      "oneLiner": "Self-hosted AI meeting intelligence.",
+      "description": "Self-hosted AI meeting intelligence. zabt.ai transcribes, diarizes, and summarizes your meetings on infrastructure you control — a self-hosted alternative to Otter.ai and Fireflies where your audio and transcripts never leave your machines. Upload a recording (or let the bot join a call), and get an accurate, speaker-labeled transcript and an LLM-written summary, powered by faster-whisper, pyannot",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/gadievron/raptor",
+      "githubUrl": "https://github.com/afeef/zabt-ai.git",
       "categories": [
-        "code",
-        "data",
-        "search"
+        "voice",
+        "security",
+        "code"
       ]
     },
     {
-      "id": "6ca31070-81a2-4412-a606-c00b66002fa6",
-      "name": "fintech-advisor",
-      "url": "https://github.com/KORAYTEACHER/fintech-advisor",
-      "oneLiner": "A net worth tracking app with an AI-powered financial advisor that helps you make smarter decisions about your portfolio.",
-      "description": "A net worth tracking app with an AI-powered financial advisor that helps you make smarter decisions about your portfolio. Foliofox is not a budgeting or an expense tracking app.\n- Interactive portfolio visualization - See your wealth grow with engaging charts and tables, not boring spreadsheets\n- AI-powered financial insights - Get personalized advice, not generic market data\n- Multi-currency supp",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/KORAYTEACHER/fintech-advisor.git",
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "c7026ed1-9be1-4b3b-9ea8-2cbe5a275cbf",
-      "name": "PixFinder",
-      "url": "https://pixfinder.app/",
-      "oneLiner": "PixFinder searches and organizes your entire image collection with OCR text recognition and AI visual search.",
-      "description": "PixFinder searches and organizes your entire image collection with OCR text recognition and AI visual search. A meme, a receipt, or that screenshot from three years ago — without remembering the filename.\nInstantly find images by describing them. Type \"beach with white sand\", \"blue sneaker mockup,\" or \"boarding pass\" and get the photo, design, or travel doc.\nSearch any image by the text it contain",
+      "id": "7c951803-936f-4b97-a1d1-b1014cdf96b2",
+      "name": "Free Ollama AI Trading Desktop App",
+      "url": "https://www.vaultcharts.com/",
+      "oneLiner": "Fetch, scan, rank, confirm — like a co-trader on your desk.",
+      "description": "VaultCharts·desktop charts·AI when you want it\nFetch, scan, rank, confirm — like a co-trader on your desk.\nIndicators, patterns, and chart tools on your desktop — or ask the AI to pull the numbers. You stay in control. Free to start.\nChart like TradingView.\nAnalyze with AI when you want to.\nTwo ways to work the same market data. Run indicators, patterns, and strategies on the chart yourself — or a",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "image",
-        "search"
-      ]
-    },
-    {
-      "id": "8b6b36ed-cc3a-4018-8594-f1d500393c60",
-      "name": "TormentNexus",
-      "url": "https://github.com/MDMAtk/TormentNexus",
-      "oneLiner": "Local-first, open-source AI control plane with persistent multi-tier memory, MCP tool orchestration across 20,000+ servers, multi-agent swarm coordination, and corporate-grade secu",
-      "description": "One-command install:\nnpx @tormentnexus/install\nLocal-first, open-source AI control plane with persistent multi-tier memory, MCP tool orchestration across 20,000+ servers, multi-agent swarm coordination, and corporate-grade security — all running on your machine.\nscripts\\install.bat\npython3 scripts/install-client-support.py\npython3 scripts/install-gui.py\nThe installer detects and configures Torment",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/MDMAtk/TormentNexus.git",
-      "categories": [
         "code",
-        "rag",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "7bc2253e-1a68-4bf5-83cf-a227a77e84be",
-      "name": "White House launches AI cybersecurity clearinghouse",
-      "url": "https://www.cnn.com/2026/07/14/tech/ai-cybersecurity-clearing-house-white-house",
-      "oneLiner": "The White House is establishing a new AI cybersecurity clearinghouse to help coordinate cybersecurity defenses across critical infrastructure.",
-      "description": "The White House is establishing a new AI cybersecurity clearinghouse to help coordinate cybersecurity defenses across critical infrastructure.\nIndustries and critical infrastructure are racing to catch up with new AI models with increasingly advanced abilities that can find and exploit (but also defend against) cybersecurity vulnerabilities. Some AI companies have even held off widely releasing th",
+      "id": "c90e832a-386e-4591-9e59-e967c720293f",
+      "name": "AI Starter Templates in NextJS and OpenAI",
+      "url": "https://suhasbhairav.com/ai-templates",
+      "oneLiner": "An analytics insight agent starter for KPI summaries, anomaly notes, and executive takeaways.",
+      "description": "AI Analytics Insight Agent\nAn analytics insight agent starter for KPI summaries, anomaly notes, and executive takeaways.\nA curated open-source gallery for builders searching for Next.js AI templates, Next.js AI chatbot starters, ChatGPT clone apps, RAG chatbot templates, document Q&A apps, OpenAI embeddings examples, OpenAI Agents SDK starter projects, OpenRouter chatbot templates, voice AI agents",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "security",
         "code",
-        "design"
+        "rag",
+        "productivity"
       ]
     },
     {
-      "id": "3b586a94-75b7-47e8-9ac0-94a820a94869",
+      "id": "ab5b038c-cace-46bb-92e2-a71c37b87504",
+      "name": "Launching cdbx.ai with 50% off Pro Plans",
+      "url": "https://cdbx.ai/",
+      "oneLiner": "What will you build today?",
+      "description": "What will you build today?\nYou describe it. cdbx builds it.\nAlready have an account?\nBuilt for everyone\nWhether you code or not,\ncdbx works for you.\nA real IDE.\nIn your browser.\nEverything you'd expect from a desktop IDE — without the setup. Open a tab and start building.\n- Full Monaco editor — same engine as VS Code\n- Real terminal with streaming output\n- AI pair programmer that reads and writes ",
+      "pricing": "free_trial",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "a9325e2b-2f28-4b04-ab41-7f3cbe008ad4",
+      "name": "Claude-Skills-collection",
+      "url": "https://github.com/nimadorostkar/Claude-Skills-collection",
+      "oneLiner": "A curated library of 137 production-grade skills for Claude and other AI coding agents.",
+      "description": "A curated library of 137 production-grade skills for Claude and other AI coding agents.\nEvery skill follows one structure, speaks with one voice, and earns its place by changing what the agent does.\nA skill is a Markdown file that an agent loads when it becomes relevant — a compact briefing that changes how the agent approaches a task. This repository contains 137 of them, spanning engineering, in",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/nimadorostkar/claude-skills.git",
+      "categories": [
+        "code",
+        "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "4bc69cd8-fe0d-4e77-bbed-b3f7f2020d8d",
+      "name": "AI-Project-Workflow",
+      "url": "https://github.com/AlanHuang168/AI-Project-Workflow",
+      "oneLiner": "A universal, AI-native software delivery workflow for Cursor, Claude Code, Codex, Qoder, CodeBuddy, CatPaw, TRAE, and other AI coding assistants.",
+      "description": "A universal, AI-native software delivery workflow for Cursor, Claude Code, Codex, Qoder, CodeBuddy, CatPaw, TRAE, and other AI coding assistants. One canonical core/\nsource, lightweight adapters per tool, a state file that tracks progress, and a CLI that installs and validates everything.\nAI coding agents rush into implementation while requirements, architecture, design, and tests are still unclea",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "productivity"
+      ]
+    },
+    {
+      "id": "2165df30-2229-4e45-9e49-1390e5bf054d",
+      "name": "deadskills",
+      "url": "https://github.com/anandsaini18/deadskills",
+      "oneLiner": "Every installed skill adds its name and description to every prompt you send.",
+      "description": "Every installed skill adds its name and description to every prompt you send. That cost is paid on every message, whether the skill gets used or not. deadskills\nreads your local transcripts and shows which skills earn their seat, and which ones are probably safe to remove.\nRequires Node 18+. Auto detects Claude Code (~/.claude\n) and Codex (~/.codex\n) when those directories exist. No config, no log",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/anandsaini18/deadskills",
+      "categories": [
+        "code",
+        "design",
+        "marketing"
+      ]
+    },
+    {
+      "id": "e7952b37-1573-4f71-b39b-6fe1f386f2c7",
+      "name": "humanizer-zh-next",
+      "url": "https://github.com/Hyacehila/humanizer-zh-next",
+      "oneLiner": "npx skills add https://github.",
+      "description": "声明：\n- 本项目继承并参考了 op7418/humanizer-zh 的中文语境、安装说明和早期 Skill 形态。\n- 本项目吸收了 blader/humanizer\n2.8.2\n的规则结构、维护思路和最新检测模式。- 本项目吸收了 hardikpandya/stop-slop 中适合中文语境的结构套路、快速检查和质量自检思路。\n- 本项目参考了 Wikipedia 的 Signs of AI writing 与 WikiProject AI Cleanup 相关资料。\nHumanizer-zh-next 是 中文 AI 写作去痕 Skill。用于编辑、审阅和改写中文文本，帮助你将 AI 生成的内容改写得更自然、更像人类书写的文本。\n本项目以 op7418/humanizer-zh\n为基础，吸收 blader/humanizer\n英文版持续更新的规则。考虑到 blader/humani",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Hyacehila/humanizer-zh-next",
+      "categories": [
+        "agents",
+        "writing"
+      ]
+    },
+    {
+      "id": "09e41e9f-9cb5-439b-ad15-a604223fc6a4",
       "name": "Local-Recall",
       "url": "https://github.com/anshupriyan/Local-Recall",
       "oneLiner": "This repository is an early proof-of-concept and is under active development.",
@@ -224,7 +341,7 @@
       ]
     },
     {
-      "id": "82dd3fcb-d2b3-408d-b4d8-922240312665",
+      "id": "9aedb6ba-54e4-4279-9dd6-47528284cb96",
       "name": "workbuddian",
       "url": "https://github.com/jiang198012/workbuddian",
       "oneLiner": "Turn the local WorkBuddy / CodeBuddy CLI into an AI agent that lives inside your Obsidian vault.",
@@ -236,12 +353,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "search",
-        "agents"
+        "agents",
+        "search"
       ]
     },
     {
-      "id": "fcdfd288-92b2-47ee-8144-be2d0a5b631a",
+      "id": "25cb3a81-8deb-4d6c-a028-76ce77d4faf9",
       "name": "Liyuan",
       "url": "https://github.com/weidu12123/Liyuan",
       "oneLiner": "# 装好后填 Key：nano /opt/liyuan/liyuan.",
@@ -252,13 +369,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/weidu12123/Liyuan.git",
       "categories": [
+        "voice",
         "code",
-        "agents",
-        "voice"
+        "agents"
       ]
     },
     {
-      "id": "8723f825-4d74-4812-9d3f-036926b86f9a",
+      "id": "11a3801e-f6a9-4a04-b151-6ec9806ae9d2",
       "name": "awesome-gemini-cli-subagents",
       "url": "https://github.com/JosephHampton/awesome-gemini-cli-subagents",
       "oneLiner": "A curated collection of production-ready subagents for Gemini CLI.",
@@ -270,12 +387,12 @@
       "githubUrl": "https://github.com/JosephHampton/awesome-gemini-cli-subagents.git",
       "categories": [
         "code",
-        "data",
-        "agents"
+        "agents",
+        "data"
       ]
     },
     {
-      "id": "e701a9e4-b6ff-4ece-8256-1109dfd5086b",
+      "id": "05dc4f6a-891d-4a92-bdcc-996b8c793362",
       "name": "atrio",
       "url": "https://github.com/29-Cu/atrio",
       "oneLiner": "A small, self-hosted guest lounge for your AI persona — friends chat with your AI through one-time links, and you only ever see the AI-written visit summary.",
@@ -292,7 +409,7 @@
       ]
     },
     {
-      "id": "d9ef3641-0531-4fa5-b9b4-6103613cab2f",
+      "id": "9a6c362a-392e-484a-b855-140607408381",
       "name": "generative-media-skills",
       "url": "https://github.com/calesthio/generative-media-skills",
       "oneLiner": "150+ research-backed skills across 25 categories for creating, directing, validating, and delivering image, video, audio, voice, music, 3D, avatar, and interactive media.",
@@ -303,13 +420,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "voice",
         "code",
-        "audio",
-        "voice"
+        "audio"
       ]
     },
     {
-      "id": "447fd813-2170-4899-907a-5df8a5750832",
+      "id": "2c5c1edc-0d0d-429e-9299-843a8a09f936",
       "name": "Zer0Fit",
       "url": "https://github.com/porespellar/Zer0Fit",
       "oneLiner": "Zer0Fit exposes Google's TimesFM 2.",
@@ -326,7 +443,7 @@
       ]
     },
     {
-      "id": "c4cc044c-778e-4fac-95be-97351a6f4ab1",
+      "id": "ba4f33e9-8c66-4ed3-9856-f0fcb6c9b520",
       "name": "vox-director",
       "url": "https://github.com/Alisa0808/vox-director",
       "oneLiner": "Turn one topic into a finished Vox-style paper-collage explainer / ad video — script, collage keyframes, motion, voice-over, music and captions, all automated.",
@@ -337,13 +454,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/Alisa0808/vox-director.git",
       "categories": [
+        "voice",
         "code",
-        "video",
-        "voice"
+        "video"
       ]
     },
     {
-      "id": "47e9e10d-835a-4d1b-b8ea-5dbd2c5705f3",
+      "id": "970fde96-c32f-4fca-a293-db2cc9c8d33f",
       "name": "100-days-of-ai",
       "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
       "oneLiner": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
@@ -355,33 +472,33 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "rag",
-        "agents"
+        "agents",
+        "rag"
       ]
     },
     {
-      "id": "cf37b732-f480-4082-931c-05495e1ad3c7",
-      "name": "photoshop-ai-smart-enhance",
-      "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
-      "oneLiner": "photoshop-ai-smart-enhance is a machine learning extension that automates image quality improvements.",
-      "description": "photoshop-ai-smart-enhance is a machine learning extension that automates image quality improvements. Smart exposure correction, intelligent contrast adjustment, adaptive color enhancement, and automated noise reduction. Built for photographers, designers, and production teams using Photoshop CC 2024+.\nProcess images with adaptive AI algorithms that learn from your edits.\nVersion: 1.8.5 (CC 2024+)",
+      "id": "2b5b4236-7520-4a04-8144-2b97584819e3",
+      "name": "My Throw Decides My Aim",
+      "url": "https://thegustafson.com/blog/my-throw-decides-my-aim",
+      "oneLiner": "I have been listening to Naked (But Still Stripping) by D-A-D on repeat.",
+      "description": "My Throw Decides My Aim\nI have been listening to Naked (But Still Stripping) by D-A-D on repeat.\nPartly because it is a good song. It fits my style. But mostly because I currently have a mild, self-diagnosed case of AI psychosis, and therefore every piece of art I encounter eventually becomes about artificial intelligence.\nThis one hooked me right away when my algorithm (ironic?) presented it to m",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "voice",
         "code",
-        "design",
         "image"
       ]
     },
     {
-      "id": "46ce9dd9-ee4c-4472-bb6b-258cd5a62c0e",
-      "name": "ai-market-pulse",
-      "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-      "oneLiner": "An AI + quant trading research cockpit for watchlist screening, portfolio risk, automated reports, and static publishing.",
-      "description": "An AI + quant trading research cockpit for watchlist screening, portfolio risk, automated reports, and static publishing.\n中文 · English\nAI Market Pulse is not just a scheduled stock script. It turns daily market data into a quant-oriented research product: technical factors, rule-based signals, benchmark-relative strength, portfolio attribution, risk findings, Markdown/HTML/JSON reports, a web dash",
+      "id": "e0089c83-8583-4a5d-b5d2-9a92b3175003",
+      "name": "Forall",
+      "url": "https://github.com/astrio-labs/forall",
+      "oneLiner": "Forall is a coding agent from Astrio that helps developers build correct software by generating spec-driven code alongside machine-checkable proofs.",
+      "description": "Forall is a coding agent from Astrio that helps developers build correct software by generating spec-driven code alongside machine-checkable proofs.\nFull coding agent — specs, proofs, and workflow in your terminal.\ncurl -fsSL https://forall.astrio.app/install.sh | bash\nforall\nAdd ~/.local/bin\nto your PATH\nif needed, then run forall --version\n.\nOn first launch, sign in with a Forall account (API ke",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -389,42 +506,24 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "productivity"
+        "agents"
       ]
     },
     {
-      "id": "1f3e8348-5db1-418e-84c3-d21363646931",
-      "name": "ai-openclaw-cli",
-      "url": "https://github.com/wikidjon/ai-openclaw-cli",
-      "oneLiner": "Research · strategy · backtest · paper trade — ship a complete quant workflow from a single natural-language prompt, inside Claude Code, Cursor, and 20+ AI agents.",
-      "description": "Research · strategy · backtest · paper trade — ship a complete quant workflow from a single natural-language prompt, inside Claude Code, Cursor, and 20+ AI agents.\nRun a full research → strategy → backtest loop in your browser. No install, no API key, real market data.\nQuick Start · Example Prompts · Community · Platforms · vs. other tools\nLive output from openfinclaw deepagent research\n— one prom",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/mirror29/openfinclaw-cli.git",
-      "categories": [
-        "code",
-        "design",
-        "research"
-      ]
-    },
-    {
-      "id": "e1076b83-8853-4a48-ab52-1575f95d0067",
-      "name": "Lean64",
-      "url": "https://github.com/aouxwoux/lean64",
-      "oneLiner": "A barebones, windowed 3D first-person game implemented in Lean 4.",
-      "description": "A barebones, windowed 3D first-person game implemented in Lean 4. This is a clean-room Doom-style experiment, not a source port of Doom64EX and not a replacement for the copyrighted Doom 64 data files.\nWatch the 5-second 1080p60 gameplay clip with audio\nInstall elan, then:\nlake build\nlake exe lean64\nFor the deterministic five-second 60 FPS highlight loop with synchronized audio:\nlake build lean64d",
+      "id": "b943031c-7509-400a-bfcf-a19f687d7791",
+      "name": "Open Source",
+      "url": "https://github.com/PrestigePvP/Voicebox",
+      "oneLiner": "Voice-to-text tool that captures speech, transcribes it via Whisper, and formats the output with an LLM.",
+      "description": "Voice-to-text tool that captures speech, transcribes it via Whisper, and formats the output with an LLM. Press a hotkey, speak, release — formatted text lands in your clipboard and is auto-pasted into whatever you were typing in.\n┌──────────────────────┐ PCM chunks ┌──────────────────────────────────┐ formatted\n│ Wails Desktop App │ ──WebSocket──▶ │ Cloudflare Worker (Durable Obj) │ ──text────▶ Cl",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "marketing",
-        "video",
-        "audio"
+        "voice",
+        "security",
+        "code"
       ]
     }
   ]
