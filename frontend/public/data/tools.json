@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-07-16T08:15:18.502906+00:00",
-  "count": 31,
+  "generatedAt": "2026-07-17T08:11:26.610868+00:00",
+  "count": 30,
   "tools": [
     {
-      "id": "afebc1ee-7d78-4d24-96c2-0cec8a65b288",
-      "name": "claude-arbitrage-bot",
-      "url": "https://github.com/alexafinode/claude-arbitrage-bot",
-      "oneLiner": "An arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance.",
-      "description": "An arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance. Below is a step-by-step guide on how to deploy your bot and get it running without a single manual call.\nAn arbitrage bot is a smart contract connected to an external automation script that controls its operation.\nexecuteArbitrage()\n— the main fu",
-      "pricing": "paid",
+      "id": "3fbdf974-1277-49b4-82bc-8daa2befc184",
+      "name": "memmy-agent",
+      "url": "https://github.com/MemTensor/memmy-agent",
+      "oneLiner": "Memmy is your personal memory hub — and a dedicated Agent that knows you best.",
+      "description": "Memmy is your personal memory hub — and a dedicated Agent that knows you best.\nOne unified memory layer for every AI you use. Evolving together through collaboration.\nIt distills your knowledge, preferences, and project experience into personal memory, and share the same context across every Agents — Cursor, Claude Code, Codex, OpenClaw 🦞, and more.\nAvailable as a desktop app, CLI, and API. You ca",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/MemTensor/memmy-agent.git",
       "categories": [
+        "agents",
         "code",
-        "design",
-        "rag"
+        "data"
       ]
     },
     {
-      "id": "ab992a58-8e3d-4e1a-b43f-790bb7743bfa",
+      "id": "e6d3fa8f-cd73-466d-a42e-029d5a628403",
       "name": "penecho",
       "url": "https://github.com/erickong/penecho",
       "oneLiner": "Think with AI beyond the chat box.",
@@ -32,12 +32,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "writing"
+        "writing",
+        "design"
       ]
     },
     {
-      "id": "9ffe4750-d666-4fee-a9c5-f2da09f06f52",
+      "id": "4ddebf6f-0e6c-4443-87a7-0adb96287d6d",
       "name": "10-ai-careers-roadmap",
       "url": "https://github.com/Moh4696/10-ai-careers-roadmap",
       "oneLiner": "A structured, free library of learning resources for 10 AI & tech careers quietly paying $135K–$1M+ in 2026.",
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "id": "fd82438e-c1c1-4ddd-8cab-8ac575a1fb0b",
+      "id": "5f982818-9c1b-468a-8e36-0a95406835e4",
       "name": "J-Wash",
       "url": "https://github.com/Extraltodeus/J-Wash",
       "oneLiner": "Reshape a model's identity and behavior by editing token directions, then bake those edits into a real checkpoint you can run anywhere.",
@@ -70,7 +70,24 @@
       ]
     },
     {
-      "id": "61f9d311-00d7-46ef-a457-6d4ab733b8fe",
+      "id": "c6d8b38e-8654-4730-8570-a4f292fa7ecb",
+      "name": "mcptrustchecker",
+      "url": "https://github.com/illiahaidar/mcptrustchecker",
+      "oneLiner": "Know whether a Model Context Protocol server is safe before you connect it to your data.",
+      "description": "Know whether a Model Context Protocol server is safe before you connect it to your data.\nnpx mcptrustchecker # 🔍 scan every MCP server you already have installed — zero config\n· offline · deterministic · no account · OAuth browser login for protected servers · one novel core ·\nThe Capability-Flow Trust Model (methodology mcptrustchecker-1.0\n) is an original algorithm designed from scratch for this",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "9a49d757-d862-4806-813c-d4cf8519bf4b",
       "name": "p2ptokens",
       "url": "https://github.com/pur4v/p2ptokens",
       "oneLiner": "Distributed, decentralized LLM inference across a peer-to-peer swarm — one binary that both serves and consumes completions.",
@@ -81,13 +98,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/pur4v/p2ptokens",
       "categories": [
-        "security",
         "design",
-        "data"
+        "data",
+        "security"
       ]
     },
     {
-      "id": "c024c107-e69d-49b7-9584-8733c966ae2e",
+      "id": "bafe1a28-2da8-40df-aa0d-abe2f0c432d4",
       "name": "ally-agent",
       "url": "https://github.com/Bronya0/ally-agent",
       "oneLiner": "A desktop AI coding assistant that works with your local projects.",
@@ -98,13 +115,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "design",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "df5c1f9c-e05f-43f2-8bad-d8f1a9a9e737",
+      "id": "d55a5933-76de-4c83-baec-a71e340880ec",
       "name": "NexBench",
       "url": "https://github.com/Nexis-AI/NexBench",
       "oneLiner": "The reproducible benchmark for autonomous Web3 agents.",
@@ -115,13 +132,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "design",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "476bbeeb-61bb-4c21-8dde-0e7fd6682c72",
+      "id": "7ee2e5a8-d8c3-4b59-9313-6c5f94e73352",
       "name": "agent-pulse",
       "url": "https://github.com/barretlee/agent-pulse",
       "oneLiner": "Evidence-backed AI industry intelligence for people who need to decide, not just keep up.",
@@ -132,64 +149,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/barretlee/agent-pulse.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "3dae030a-818c-4be4-912c-1d7388aa2278",
-      "name": "memraw",
-      "url": "https://github.com/TetiAI/memraw",
-      "oneLiner": "An open experiment in memory for AI agents — the whole memory, always in the prompt.",
-      "description": "An open experiment in memory for AI agents — the whole memory, always in the prompt.\nMost memory systems assume context is scarce, so they embed, rank and retrieve. memraw bets the other way: windows keep growing and prompt caching keeps getting cheaper, so maybe you can skip retrieval entirely. Conversations get distilled into dense, importance-scored fact lines; when the memory fills up, the lea",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "rag"
-      ]
-    },
-    {
-      "id": "c08569bb-04d4-4e50-8d1f-232b58187c17",
-      "name": "PunamIDE",
-      "url": "https://github.com/mandaloriantrader/PunamIDE",
-      "oneLiner": "A native AI-powered code editor built with Tauri 2, React 19, and Monaco Editor.",
-      "description": "A native AI-powered code editor built with Tauri 2, React 19, and Monaco Editor.\nMulti-provider AI, agentic tool-calling, technical debt analysis, and a full IDE experience — all running locally on your machine.\nPunamIDE is an open-source desktop IDE , it's a full desktop IDE with a native Rust backend, real terminal, Git integration, GitHub management, DAP debugger, local embeddings, architecture",
+      "id": "6d63e3ca-27b3-45e8-ab54-7f76b5d018a1",
+      "name": "bbarit-agent-oss",
+      "url": "https://github.com/bbarit/bbarit-agent-oss",
+      "oneLiner": "An open-source AI coding agent for your terminal — written in Rust, one binary, 15+ LLM providers, 1,000+ models.",
+      "description": "An open-source AI coding agent for your terminal — written in Rust, one binary, 15+ LLM providers, 1,000+ models.\nWhat bbarit-oss is, in one line. Pi's simplicity + qwen-code's memory + a project wiki + Rust + Pi's gaps closed (auto-loads Claude Code & Codex MCP servers and skills) + agent personas.\n한 줄 요약. Pi의 단순함 + qwen-code의 메모리 + 프로젝트 위키 + Rust + Pi 단점 보완(Claude·Codex의 MCP 서버·스킬 자동 로드) + 에이전트 ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/mandaloriantrader/punamIDe-v2.0-full-update.git",
+      "githubUrl": "https://github.com/bbarit/bbarit-agent-oss",
       "categories": [
-        "code",
         "agents",
-        "rag"
-      ]
-    },
-    {
-      "id": "17f8288c-dabf-4bd7-bc15-09b88276e381",
-      "name": "Flawless",
-      "url": "https://github.com/William-Lu-stack/Flawless",
-      "oneLiner": "Your infrastructure can explain itself, heal safely, and prove it recovered.",
-      "description": "Your infrastructure can explain itself, heal safely, and prove it recovered.\n让基础设施自己解释故障、安全完成修复，并证明它真的恢复了。\nFlawless is an AI-native SRE control plane for Kubernetes and cloud infrastructure. It connects alerts, evidence, topology, human approval, controlled remediation, and recovery verification in one auditable AgenticOps loop.\n它不是另一个只会给建议的运维聊天框。Flawless 将“发现问题、收集证据、生成预演、人工授权、执行变更、恢复验证、经验沉淀”连接成一个",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/William-Lu-stack/Flawless.git",
-      "categories": [
         "code",
-        "design",
-        "data"
+        "design"
       ]
     },
     {
-      "id": "9623403f-739a-419d-80e3-e194c6d4f5f6",
+      "id": "206be0fc-5916-4105-908d-226fc464fb03",
       "name": "zabt-ai",
       "url": "https://github.com/afeef/zabt-ai",
       "oneLiner": "Self-hosted AI meeting intelligence.",
@@ -200,34 +183,51 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/afeef/zabt-ai.git",
       "categories": [
-        "voice",
+        "code",
         "security",
-        "code"
+        "voice"
       ]
     },
     {
-      "id": "7c951803-936f-4b97-a1d1-b1014cdf96b2",
-      "name": "Free Ollama AI Trading Desktop App",
-      "url": "https://www.vaultcharts.com/",
-      "oneLiner": "Fetch, scan, rank, confirm — like a co-trader on your desk.",
-      "description": "VaultCharts·desktop charts·AI when you want it\nFetch, scan, rank, confirm — like a co-trader on your desk.\nIndicators, patterns, and chart tools on your desktop — or ask the AI to pull the numbers. You stay in control. Free to start.\nChart like TradingView.\nAnalyze with AI when you want to.\nTwo ways to work the same market data. Run indicators, patterns, and strategies on the chart yourself — or a",
-      "pricing": "free",
+      "id": "f04a537a-a74b-4d9f-a232-ea404952ada9",
+      "name": "UIUC AI Teaching Assistant",
+      "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+      "oneLiner": "We're live on HuggingFace: 👉 https://huggingface.",
+      "description": "We're live on HuggingFace: 👉 https://huggingface.co/spaces/kastan/ai-teaching-assistant 👈\nOur system runs 11 separate models in parallel for text/image retrieval, generation, moderation and ranking and still achieves a median 2-second response time.\nWe use data from textbooks, lecture videos, and student QA forums (ordered, subjuctively, by importance). None of this data is currently available pub",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "bd66a9ef-8752-41bc-8e76-91369b11f6e2",
+      "name": "Scribe",
+      "url": "https://getscribe.dev/",
+      "oneLiner": "writes a handshake block into both ~/.",
+      "description": "Context-aware agents\nscribe init\nwrites a handshake block into both ~/.claude/CLAUDE.md\nand ~/.codex/AGENTS.md\n, so every session in every project queries your KB before recommending a library or proposing an architecture.\nscribe reads your git history, your Claude Code & Codex sessions, and self-sent URLs, then writes the wiki for you — so the next agent session already knows what you decided and",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
-        "data"
+        "code",
+        "rag"
       ]
     },
     {
-      "id": "c90e832a-386e-4591-9e59-e967c720293f",
-      "name": "AI Starter Templates in NextJS and OpenAI",
-      "url": "https://suhasbhairav.com/ai-templates",
-      "oneLiner": "An analytics insight agent starter for KPI summaries, anomaly notes, and executive takeaways.",
-      "description": "AI Analytics Insight Agent\nAn analytics insight agent starter for KPI summaries, anomaly notes, and executive takeaways.\nA curated open-source gallery for builders searching for Next.js AI templates, Next.js AI chatbot starters, ChatGPT clone apps, RAG chatbot templates, document Q&A apps, OpenAI embeddings examples, OpenAI Agents SDK starter projects, OpenRouter chatbot templates, voice AI agents",
+      "id": "66b5e145-c23e-44f0-b38f-08e977b5dcd3",
+      "name": "No AI",
+      "url": "https://jam-py-v7.github.io/jam-py-v7/",
+      "oneLiner": "The only open-source Python framework that generates a full Bootstrap 5 UI directly from your database.",
+      "description": "The only open-source Python framework that generates a full Bootstrap 5 UI directly from your database. No boilerplate. No UI debt. Just clean code.\nPainless connection to SQLite, PostgreSQL, MySQL, MSSQL, Oracle and SQLcipher. Map your business logic directly to your data.\nBeautiful Bootstrap 5 forms, data-grids, filters, and menus generated instantly. Mobile-ready out of the box.\nNo black boxes.",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -235,29 +235,62 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "rag",
-        "productivity"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "ab5b038c-cace-46bb-92e2-a71c37b87504",
-      "name": "Launching cdbx.ai with 50% off Pro Plans",
-      "url": "https://cdbx.ai/",
-      "oneLiner": "What will you build today?",
-      "description": "What will you build today?\nYou describe it. cdbx builds it.\nAlready have an account?\nBuilt for everyone\nWhether you code or not,\ncdbx works for you.\nA real IDE.\nIn your browser.\nEverything you'd expect from a desktop IDE — without the setup. Open a tab and start building.\n- Full Monaco editor — same engine as VS Code\n- Real terminal with streaming output\n- AI pair programmer that reads and writes ",
-      "pricing": "free_trial",
+      "id": "9b32ac18-9a06-4059-9293-9e4d7ed79a47",
+      "name": "Icop",
+      "url": "https://github.com/asayed18/icop",
+      "oneLiner": "An open-source, privacy-first VLC plugin for local AI sensitive-content detection and frame blocking with ONNX Runtime.",
+      "description": "An open-source, privacy-first VLC plugin for local AI sensitive-content detection and frame blocking with ONNX Runtime.\nImportant\nicop is a best-effort content filter. Detection models can produce false positives and false negatives, so test your configuration before relying on it for child-safety or accessibility needs.\nicop is an open-source AI content filtering plugin for VLC media player. It u",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
+      "isOpenSource": true,
       "githubUrl": null,
       "categories": [
         "code",
         "design",
-        "agents"
+        "security"
       ]
     },
     {
-      "id": "a9325e2b-2f28-4b04-ab41-7f3cbe008ad4",
+      "id": "3457ca18-9533-4917-b435-334331877c65",
+      "name": "SAM",
+      "url": "https://github.com/richhabits/sam",
+      "oneLiner": "A free, private team of AI agents that lives on your computer, remembers everything, and actually does the work.",
+      "description": "A free, private team of AI agents that lives on your computer, remembers everything, and actually does the work. No subscription, no cost — runs on free cloud AI tiers by default, or 100% offline on Ollama.\nNot a chatbot. A doer — with a crew. SAM researches, remembers, and takes real action on your computer (web, files, terminal, email, calls, GitHub), and when a job's big it assembles a team of ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/richhabits/sam.git",
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "de1beee2-5900-44fb-92a5-051b7ff23989",
+      "name": "restaurant-digitalization-blueprint",
+      "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
+      "oneLiner": "restaurant-digitalization-blueprint",
+      "description": "我们是 原串(一家真实运营中的平价烤串连锁品牌,官网 ycbbq.cn),用「1 个人 + AI」建成了覆盖订货、库存、生产、财务、门店运营、拓店招商的全链路数字化系统。 这个仓库不放代码,放的是比代码更值钱的东西:架构决策、业务口径、踩坑实录,以及能让 AI 直接替你施工的复刻指令。\n适合谁:想做数字化的餐饮连锁创始人、IT 负责人、被老板拉来搭系统的工程师——以及你们手里的 AI 编程助手。\n是:\n- 一套经过真实门店验证的连锁数字化整体方案,全部用自然语言写成\n- 每个业务模块的流程、领域模型设计、口径红线\n- 我们踩过、你可以直接跳过的坑(症状 → 根因 → 铁律)\n- 一组可以按顺序直接喂给 AI 编程助手的施工指令(见 05 层)\n不是 / 不包含:\n- ❌ 源代码——方案与技术栈解耦;AI 时代照蓝图重建,比读别人的老代码更快\n- ❌ 任何配方、原料用量、工艺参数(只讲研发/",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "6bd04ccb-6df5-4569-8afe-c4c4808c45b5",
       "name": "Claude-Skills-collection",
       "url": "https://github.com/nimadorostkar/Claude-Skills-collection",
       "oneLiner": "A curated library of 137 production-grade skills for Claude and other AI coding agents.",
@@ -269,12 +302,12 @@
       "githubUrl": "https://github.com/nimadorostkar/claude-skills.git",
       "categories": [
         "code",
-        "design",
-        "writing"
+        "writing",
+        "design"
       ]
     },
     {
-      "id": "4bc69cd8-fe0d-4e77-bbed-b3f7f2020d8d",
+      "id": "62aff01d-334e-4049-af63-96ad7966d2ee",
       "name": "AI-Project-Workflow",
       "url": "https://github.com/AlanHuang168/AI-Project-Workflow",
       "oneLiner": "A universal, AI-native software delivery workflow for Cursor, Claude Code, Codex, Qoder, CodeBuddy, CatPaw, TRAE, and other AI coding assistants.",
@@ -291,7 +324,7 @@
       ]
     },
     {
-      "id": "2165df30-2229-4e45-9e49-1390e5bf054d",
+      "id": "365b7aea-3de4-4af7-9b85-2ee7ab06335e",
       "name": "deadskills",
       "url": "https://github.com/anandsaini18/deadskills",
       "oneLiner": "Every installed skill adds its name and description to every prompt you send.",
@@ -308,7 +341,7 @@
       ]
     },
     {
-      "id": "e7952b37-1573-4f71-b39b-6fe1f386f2c7",
+      "id": "fd0a425d-f50a-49bc-94d4-cc3e4e7fab08",
       "name": "humanizer-zh-next",
       "url": "https://github.com/Hyacehila/humanizer-zh-next",
       "oneLiner": "npx skills add https://github.",
@@ -324,11 +357,11 @@
       ]
     },
     {
-      "id": "09e41e9f-9cb5-439b-ad15-a604223fc6a4",
+      "id": "426525f9-5590-413a-8304-0456e29bb145",
       "name": "Local-Recall",
       "url": "https://github.com/anshupriyan/Local-Recall",
-      "oneLiner": "This repository is an early proof-of-concept and is under active development.",
-      "description": "Warning\nProject Status: Early Prototype under Active Development\nThis repository is an early proof-of-concept and is under active development. APIs, database schemas, and workflows are subject to change.\nLocal Recall is a fully local, privacy-first alternative to Microsoft Recall. It runs entirely on your own machine, capturing screen snapshots, extracting text, generating vector embeddings, and a",
+      "oneLiner": "A 100% local, privacy-first alternative to Windows Recall — captures your screen, OCRs it, and lets you semantically search and chat with your history using a local LLM.",
+      "description": "A 100% local, privacy-first alternative to Windows Recall — captures your screen, OCRs it, and lets you semantically search and chat with your history using a local LLM. Zero cloud, zero data leakage.\nProject Status: Early Prototype under Active Development This repository is an early proof-of-concept and is under active development. APIs, database schemas, and workflows are subject to change.\nLoc",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -336,12 +369,29 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "rag",
-        "data"
+        "data",
+        "rag"
       ]
     },
     {
-      "id": "9aedb6ba-54e4-4279-9dd6-47528284cb96",
+      "id": "5f9b5b52-ab8e-4fff-8ee3-e7bb02261a16",
+      "name": "led-cube-agent-monitor",
+      "url": "https://github.com/pirate/led-cube-agent-monitor",
+      "oneLiner": "A tiny macOS daemon that shows live Codex and Claude session states on a 5×5×5 WLED cube.",
+      "description": "A tiny macOS daemon that shows live Codex and Claude session states on a 5×5×5 WLED cube. Five vertical planes display five iTerm panes in visual left-to-right order. WLED is driven directly over DDP; Home Assistant is not required.\nImplemented in a single file agent_cube.py\nfor macOS, using only the Python standard library.\nMade for this LED cube, but can be easily modified to work with any WLED-",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/pirate/led-cube-agent-monitor",
+      "categories": [
+        "agents",
+        "code",
+        "video"
+      ]
+    },
+    {
+      "id": "2cee93a1-1981-44cb-b1e1-470d57bfc75a",
       "name": "workbuddian",
       "url": "https://github.com/jiang198012/workbuddian",
       "oneLiner": "Turn the local WorkBuddy / CodeBuddy CLI into an AI agent that lives inside your Obsidian vault.",
@@ -352,13 +402,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "search"
       ]
     },
     {
-      "id": "25cb3a81-8deb-4d6c-a028-76ce77d4faf9",
+      "id": "fb0a8c9a-d078-425c-bfaa-c04adcbb806a",
       "name": "Liyuan",
       "url": "https://github.com/weidu12123/Liyuan",
       "oneLiner": "# 装好后填 Key：nano /opt/liyuan/liyuan.",
@@ -369,13 +419,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/weidu12123/Liyuan.git",
       "categories": [
-        "voice",
+        "agents",
         "code",
-        "agents"
+        "voice"
       ]
     },
     {
-      "id": "11a3801e-f6a9-4a04-b151-6ec9806ae9d2",
+      "id": "c083e3d3-606b-4ad4-b6ea-38252d4220ce",
       "name": "awesome-gemini-cli-subagents",
       "url": "https://github.com/JosephHampton/awesome-gemini-cli-subagents",
       "oneLiner": "A curated collection of production-ready subagents for Gemini CLI.",
@@ -386,13 +436,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/JosephHampton/awesome-gemini-cli-subagents.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "05dc4f6a-891d-4a92-bdcc-996b8c793362",
+      "id": "e8ef6982-d814-48ad-8bff-0e8fbf9e785e",
       "name": "atrio",
       "url": "https://github.com/29-Cu/atrio",
       "oneLiner": "A small, self-hosted guest lounge for your AI persona — friends chat with your AI through one-time links, and you only ever see the AI-written visit summary.",
@@ -403,13 +453,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "design",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "9a6c362a-392e-484a-b855-140607408381",
+      "id": "833e70ed-73ed-4855-b488-8b468197a29a",
       "name": "generative-media-skills",
       "url": "https://github.com/calesthio/generative-media-skills",
       "oneLiner": "150+ research-backed skills across 25 categories for creating, directing, validating, and delivering image, video, audio, voice, music, 3D, avatar, and interactive media.",
@@ -420,85 +470,34 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "voice",
         "code",
+        "voice",
         "audio"
       ]
     },
     {
-      "id": "2c5c1edc-0d0d-429e-9299-843a8a09f936",
-      "name": "Zer0Fit",
-      "url": "https://github.com/porespellar/Zer0Fit",
-      "oneLiner": "Zer0Fit exposes Google's TimesFM 2.",
-      "description": "Zer0Fit exposes Google's TimesFM 2.5 (time-series forecasting) and TabFM v1.0.0 (tabular classification/regression) foundation models to AI assistants via the Model Context Protocol (SSE/Streamable HTTP).\nZero-shot means no training required — just connect the MCP to a chat client / harness + LLM of your choice, attach a CSV, and describe what you want to predict. No ML expertise, no hyperparamete",
+      "id": "e9a75dff-385e-41cd-8e65-1999421b66bd",
+      "name": "PocketVeto is a Bluetooth-only AI agent remote control",
+      "url": "https://github.com/pocket-veto/pocket-veto",
+      "oneLiner": "Local-only, Bluetooth-mediated approval gate and live progress dashboard for AI coding agents.",
+      "description": "Local-only, Bluetooth-mediated approval gate and live progress dashboard for AI coding agents.\nYou are away from the PC, screen off or busy. Your AI coding agents want to run risky tools (shell commands, file writes, MCP calls) and you want to approve or deny them from your phone. PocketVeto does that over Bluetooth Classic, with no internet and no LAN routing, so it keeps working under WiFi AP is",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/porespellar/Zer0Fit.git",
+      "githubUrl": "https://github.com/pocket-veto/pocket-veto",
       "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "ba4f33e9-8c66-4ed3-9856-f0fcb6c9b520",
-      "name": "vox-director",
-      "url": "https://github.com/Alisa0808/vox-director",
-      "oneLiner": "Turn one topic into a finished Vox-style paper-collage explainer / ad video — script, collage keyframes, motion, voice-over, music and captions, all automated.",
-      "description": "English · 简体中文\nTurn one topic into a finished Vox-style paper-collage explainer / ad video — script, collage keyframes, motion, voice-over, music and captions, all automated.\nAn agent skill that runs end to end on the Atlas Cloud API + local ffmpeg\n, usable by any coding agent (Claude Code, Codex, etc.). You give it a one-line topic; it gives you an mp4\n.\nshowcase-tang.mp4\n▶ \"The evolution of Chin",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Alisa0808/vox-director.git",
-      "categories": [
-        "voice",
-        "code",
-        "video"
-      ]
-    },
-    {
-      "id": "970fde96-c32f-4fca-a293-db2cc9c8d33f",
-      "name": "100-days-of-ai",
-      "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
-      "oneLiner": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
-      "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.\nPrepared and maintained by the Founder of Outcome School: Amit Shekhar\nThe rules are simple:\n- Learn one concept every day. Each day maps to one blog - read it, understand it, and take your time with the examples.\n- Spend 30 to 60 minutes a day. That is all it takes",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "agents",
-        "rag"
-      ]
-    },
-    {
-      "id": "2b5b4236-7520-4a04-8144-2b97584819e3",
-      "name": "My Throw Decides My Aim",
-      "url": "https://thegustafson.com/blog/my-throw-decides-my-aim",
-      "oneLiner": "I have been listening to Naked (But Still Stripping) by D-A-D on repeat.",
-      "description": "My Throw Decides My Aim\nI have been listening to Naked (But Still Stripping) by D-A-D on repeat.\nPartly because it is a good song. It fits my style. But mostly because I currently have a mild, self-diagnosed case of AI psychosis, and therefore every piece of art I encounter eventually becomes about artificial intelligence.\nThis one hooked me right away when my algorithm (ironic?) presented it to m",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "voice",
         "code",
-        "image"
+        "design"
       ]
     },
     {
-      "id": "e0089c83-8583-4a5d-b5d2-9a92b3175003",
-      "name": "Forall",
-      "url": "https://github.com/astrio-labs/forall",
-      "oneLiner": "Forall is a coding agent from Astrio that helps developers build correct software by generating spec-driven code alongside machine-checkable proofs.",
-      "description": "Forall is a coding agent from Astrio that helps developers build correct software by generating spec-driven code alongside machine-checkable proofs.\nFull coding agent — specs, proofs, and workflow in your terminal.\ncurl -fsSL https://forall.astrio.app/install.sh | bash\nforall\nAdd ~/.local/bin\nto your PATH\nif needed, then run forall --version\n.\nOn first launch, sign in with a Forall account (API ke",
+      "id": "c7e27f69-3d3d-4e53-a632-e4d9df519beb",
+      "name": "KV-Cache Grafting",
+      "url": "https://arxiv.org/abs/2607.14431",
+      "oneLiner": "View PDF HTML (experimental)Abstract:We report a way to make a frozen small language model both more capable and dramatically cheaper at once, without changing any weights.",
+      "description": "Computer Science > Computation and Language\n[Submitted on 15 Jul 2026]\nTitle:Smarter and Cheaper at Once: Byte-Exact KV-Cache Grafting Turns a Frozen Small Model into a Verified-Knowledge Flywheel\nView PDF HTML (experimental)Abstract:We report a way to make a frozen small language model both more capable and dramatically cheaper at once, without changing any weights. Verified knowledge is deposite",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -506,24 +505,8 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "b943031c-7509-400a-bfcf-a19f687d7791",
-      "name": "Open Source",
-      "url": "https://github.com/PrestigePvP/Voicebox",
-      "oneLiner": "Voice-to-text tool that captures speech, transcribes it via Whisper, and formats the output with an LLM.",
-      "description": "Voice-to-text tool that captures speech, transcribes it via Whisper, and formats the output with an LLM. Press a hotkey, speak, release — formatted text lands in your clipboard and is auto-pasted into whatever you were typing in.\n┌──────────────────────┐ PCM chunks ┌──────────────────────────────────┐ formatted\n│ Wails Desktop App │ ──WebSocket──▶ │ Cloudflare Worker (Durable Obj) │ ──text────▶ Cl",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "voice",
-        "security",
-        "code"
+        "research",
+        "data"
       ]
     }
   ]
