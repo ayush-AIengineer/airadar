@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-19T08:20:48.317323+00:00",
-  "count": 29,
+  "generatedAt": "2026-07-20T09:15:23.139874+00:00",
+  "count": 23,
   "tools": [
     {
-      "id": "cb3fac8e-fd54-436c-9eca-954305ee878e",
+      "id": "db401551-c431-44b6-aad1-ceeafcdc3b47",
       "name": "copybrainapp",
       "url": "https://github.com/copybrainapp/copybrainapp",
       "oneLiner": "Never lose a copied text again.",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "id": "a1d7623f-d0aa-4582-b45c-f8aecabd38e5",
+      "id": "a179ee7e-6c3f-49b0-84d8-c0caede6f611",
       "name": "ai-agent-architecture",
       "url": "https://github.com/Drobiazkin/ai-agent-architecture",
       "oneLiner": "An engineering book on building LLM systems you actually control — free, open, and written for engineers who ship.",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "id": "f6907fea-cdae-4fc2-98e8-70b3fdc122dc",
+      "id": "5cca33c5-9f64-4799-b3e2-e1db00cfcc16",
       "name": "Trading-Bot",
       "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
       "oneLiner": "An arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance.",
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "id": "4e52d9d8-c9ec-4ca2-91e5-545c4832c2db",
+      "id": "eeb383ce-8be7-4799-81dc-24c7e0afd92d",
       "name": "awesome-eve-agents",
       "url": "https://github.com/bergside/awesome-eve-agents",
       "oneLiner": "A curated collection of 21 open-source agents for Eve, covering engineering, product, analytics, support, marketing, finance, research, and more.",
@@ -65,13 +65,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "data",
+        "agents",
         "productivity"
       ]
     },
     {
-      "id": "3b8ecdcb-b103-452d-9008-e4ea38c32292",
+      "id": "254244dd-0548-48e1-8d38-05abbbebda89",
       "name": "memmy-agent",
       "url": "https://github.com/MemTensor/memmy-agent",
       "oneLiner": "Memmy is your personal memory hub — and a dedicated Agent that knows you best.",
@@ -82,13 +82,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/MemTensor/memmy-agent.git",
       "categories": [
-        "agents",
         "code",
-        "data"
+        "data",
+        "agents"
       ]
     },
     {
-      "id": "bf331293-f7f3-4a3f-87bd-10963f9fbaeb",
+      "id": "8455a9d0-48fc-424b-a815-b6f7faf32c56",
       "name": "codesteward",
       "url": "https://github.com/Codesteward/codesteward",
       "oneLiner": "Agentic code review that knows your graph.",
@@ -100,12 +100,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "security",
-        "data"
+        "data",
+        "security"
       ]
     },
     {
-      "id": "aeff438d-456b-45e0-9e23-dd02c17adf58",
+      "id": "69a3c834-8244-44b4-8fda-b175c386307e",
       "name": "penecho",
       "url": "https://github.com/erickong/penecho",
       "oneLiner": "Think with AI beyond the chat box.",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "id": "71354e19-d6ef-4cab-9962-fb70bb526948",
+      "id": "eecbd3da-962c-4900-b33e-b8fc9365fec3",
       "name": "scout",
       "url": "https://github.com/tester-army/scout",
       "oneLiner": "Scout is an OpenAPI-driven API testing CLI built for AI agents.",
@@ -133,13 +133,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "design"
       ]
     },
     {
-      "id": "239c6b6a-f788-4535-908e-95fab2a70fb8",
+      "id": "d7c6e2b7-5892-49e8-af14-caf4a05ceaab",
       "name": "10-ai-careers-roadmap",
       "url": "https://github.com/Moh4696/10-ai-careers-roadmap",
       "oneLiner": "A structured, free library of learning resources for 10 AI & tech careers quietly paying $135K–$1M+ in 2026.",
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "id": "0c1f15f8-5d0d-4e62-a161-e1019ac4c4d7",
+      "id": "b1a09a7d-e72b-4d40-98cb-ab256765e687",
       "name": "ns_t3af",
       "url": "https://github.com/nitsan-technologies/ns_t3af",
       "oneLiner": "AI Foundation gives TYPO3 CMS a built-in MCP server, 100+ AI tools and multi-LLM management to connect Claude, Cursor, n8n and other AI agents while controlling providers, prompts,",
@@ -167,46 +167,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "70a62d39-e83d-4d3b-a774-f38df47df43f",
-      "name": "J-Wash",
-      "url": "https://github.com/Extraltodeus/J-Wash",
-      "oneLiner": "Reshape a model's identity and behavior by editing token directions, then bake those edits into a real checkpoint you can run anywhere.",
-      "description": "Reshape a model's identity and behavior by editing token directions, then bake those edits into a real checkpoint you can run anywhere. No training, no dataset, no fine-tuning.\nJ-Wash is a local studio (FastAPI + React) for exploring, editing the J-space of any Hugging Face LLM, and export a usable checkpoint.\nYou chat with a model while a live Jacobian lens\nshows what each layer is \"reading,\" pin",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/extraltodeus/j-wash.git",
-      "categories": [
-        "code",
         "data",
-        "image"
-      ]
-    },
-    {
-      "id": "27e603c7-19f4-4227-a575-72c2b4d3ccce",
-      "name": "mcptrustchecker",
-      "url": "https://github.com/illiahaidar/mcptrustchecker",
-      "oneLiner": "Know whether a Model Context Protocol server is safe before you connect it to your data.",
-      "description": "Know whether a Model Context Protocol server is safe before you connect it to your data.\nnpx mcptrustchecker # 🔍 scan every MCP server you already have installed — zero config\n· offline · deterministic · no account · OAuth browser login for protected servers · one novel core ·\nThe Capability-Flow Trust Model (methodology mcptrustchecker-1.0\n) is an original algorithm designed from scratch for this",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "security",
         "design"
       ]
     },
     {
-      "id": "97d93837-89c5-48a3-97c2-7780d572c0b7",
+      "id": "7438242d-adeb-4909-9dc0-ef92a114775c",
       "name": "klaatcode",
       "url": "https://github.com/KlaatAI/klaatcode",
       "oneLiner": "The terminal-native AI coding agent, powered by Klaatu smart model routing.",
@@ -223,7 +189,7 @@
       ]
     },
     {
-      "id": "0a030b48-6bdc-4b81-8674-520bad8b1d98",
+      "id": "59e0778c-2da2-48ca-8d45-f6612e0f66ac",
       "name": "bbarit-agent-oss",
       "url": "https://github.com/bbarit/bbarit-agent-oss",
       "oneLiner": "An open-source AI coding agent for your terminal — written in Rust, one binary, 15+ LLM providers, 1,000+ models.",
@@ -234,62 +200,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/bbarit/bbarit-agent-oss",
       "categories": [
-        "agents",
         "code",
+        "agents",
         "design"
       ]
     },
     {
-      "id": "38a01577-6cb9-4288-9be3-435e9028106d",
-      "name": "LLM-Integrated Multivariable Calculus Course",
-      "url": "https://calculus.academa.ai/",
-      "oneLiner": "LLM-Integrated Multivariable Calculus Course",
-      "description": "Academa\nMultivariable Calculus\n🇺🇸\nEnglish\nVectors and the Geometry of the Space\n25:29\nLecture 1\nVectors\n33:47\nLecture 2\nDot Product\n26:17\nLecture 3\nVector Projections and Determinants\n20:07\nLecture 4\nCross Product\n37:06\nLecture 5\nPlanes and Lines\n30:02\nLecture 6\nPlanes and Lines (cont.)\nVector Functions\n28:26\nLecture 7\nParametric Curves\n28:39\nLecture 8\nParametric Curves (cont.)\nPartial Derivatives",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "4219c08f-6a47-4b3f-8d7a-872ef7cd35a1",
-      "name": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-      "oneLiner": "By Nikhil Suresh onI strongly believe there are entire companies right now under heavy AI psychosis and it’s impossible to have rational conversations with them about it.",
-      "description": "AI Mania Is Eviscerating Global Decision-Making\nBy Nikhil Suresh onI strongly believe there are entire companies right now under heavy AI psychosis and it’s impossible to have rational conversations with them about it. I can’t name any specific people because they include personal friends I deeply respect, but I worry about how this plays out.\nMitchell Hashimoto, of HashiCorp and Ghostty fame\nOver",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "writing",
-        "data"
-      ]
-    },
-    {
-      "id": "60a3ea09-18b7-4d45-bc92-e9528b5b106d",
-      "name": "Flightwake",
-      "url": "https://github.com/kaiwutech-TW/flightwake",
-      "oneLiner": "Records are the contrail your work naturally leaves behind — not a flight plan you must file before takeoff.",
-      "description": "Records are the contrail your work naturally leaves behind — not a flight plan you must file before takeoff.\nAn ultra-lightweight work-recording framework for strong AI coding agents (Claude Fable 5 generation and beyond). Zero runtime dependencies, pure Markdown, everything lives in git.\ncd your-repo\nnpx flightwake init # English by default; 繁體中文: --lang=zh-TW\nnpx flightwake update # upgrade an e",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "9a1f24e7-7156-44be-8e2c-02083a682ba0",
+      "id": "3473780b-a1ab-4c35-9c5b-2bccdaa7ca7b",
       "name": "One-Chat",
       "url": "https://github.com/ImMrShervin/One-Chat",
       "oneLiner": "One Chat is a lightweight AI chat interface designed to work with both local models and cloud AI services.",
@@ -306,7 +223,7 @@
       ]
     },
     {
-      "id": "b9731ec9-24f6-455e-9e09-2fe0d58b3b34",
+      "id": "4798b7f1-e886-4a7f-82c5-1671baa9e5bc",
       "name": "awesome-OpenPrice",
       "url": "https://github.com/bytedoger/awesome-OpenPrice",
       "oneLiner": "pip install -r requirements.",
@@ -317,12 +234,12 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "data"
+        "data",
+        "design"
       ]
     },
     {
-      "id": "48023ad6-6e86-4aac-8297-b2c218a9229d",
+      "id": "4c4c9e2b-b6f1-4352-abb3-8494062f3530",
       "name": "restaurant-digitalization-blueprint",
       "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
       "oneLiner": "restaurant-digitalization-blueprint",
@@ -337,7 +254,7 @@
       ]
     },
     {
-      "id": "3d71ec3c-b496-4415-8e5a-08f790c5978a",
+      "id": "f4eab900-5de3-484b-b18f-f3125b287248",
       "name": "opsail",
       "url": "https://github.com/lencx/opsail",
       "oneLiner": "Opsail is a modular Rust CLI for small, composable actions used by software agents.",
@@ -348,13 +265,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "security"
       ]
     },
     {
-      "id": "acb82539-4a0f-43b0-aa0e-294098afe848",
+      "id": "4e87a2ee-b1d7-4eba-a0ab-1b0026880d1e",
       "name": "nightaudit",
       "url": "https://github.com/kishormorol/nightaudit",
       "oneLiner": "An audit doesn't change the books.",
@@ -370,7 +287,7 @@
       ]
     },
     {
-      "id": "d7c4a6cd-909f-4e3b-a993-d20b259ec496",
+      "id": "779ae0bb-9421-486b-8e7e-68e9b5315621",
       "name": "Claude-Skills-collection",
       "url": "https://github.com/nimadorostkar/Claude-Skills-collection",
       "oneLiner": "A curated library of 137 production-grade skills for Claude and other AI coding agents.",
@@ -387,7 +304,7 @@
       ]
     },
     {
-      "id": "18f5548c-e2ca-4a01-870d-682662882c37",
+      "id": "0048dc01-2e55-4717-b8cd-c02daf3ba435",
       "name": "AI-Project-Workflow",
       "url": "https://github.com/AlanHuang168/AI-Project-Workflow",
       "oneLiner": "A universal, AI-native software delivery workflow for Cursor, Claude Code, Codex, Qoder, CodeBuddy, CatPaw, TRAE, and other AI coding assistants.",
@@ -404,7 +321,7 @@
       ]
     },
     {
-      "id": "2f3a8401-e487-4447-9503-8b0ac3aa0fe5",
+      "id": "4b4b5eda-eb7f-4994-8968-8c0725af0cac",
       "name": "deadskills",
       "url": "https://github.com/anandsaini18/deadskills",
       "oneLiner": "Every installed skill adds its name and description to every prompt you send.",
@@ -416,75 +333,59 @@
       "githubUrl": "https://github.com/anandsaini18/deadskills",
       "categories": [
         "code",
-        "design",
-        "marketing"
+        "marketing",
+        "design"
       ]
     },
     {
-      "id": "de1ac4ae-e36a-4b36-ae9f-045e0e7be166",
-      "name": "humanizer-zh-next",
-      "url": "https://github.com/Hyacehila/humanizer-zh-next",
-      "oneLiner": "npx skills add https://github.",
-      "description": "声明：\n- 本项目继承并参考了 op7418/humanizer-zh 的中文语境、安装说明和早期 Skill 形态。\n- 本项目吸收了 blader/humanizer\n2.8.2\n的规则结构、维护思路和最新检测模式。- 本项目吸收了 hardikpandya/stop-slop 中适合中文语境的结构套路、快速检查和质量自检思路。\n- 本项目参考了 Wikipedia 的 Signs of AI writing 与 WikiProject AI Cleanup 相关资料。\nHumanizer-zh-next 是 中文 AI 写作去痕 Skill。用于编辑、审阅和改写中文文本，帮助你将 AI 生成的内容改写得更自然、更像人类书写的文本。\n本项目以 op7418/humanizer-zh\n为基础，吸收 blader/humanizer\n英文版持续更新的规则。考虑到 blader/humani",
+      "id": "56e6caa5-ac39-4cc0-a10f-1e3da135e7f0",
+      "name": "Li-Translate",
+      "url": "https://github.com/AliAkrami1375/Li-Translate",
+      "oneLiner": "Extract audio in the browser, transcribe it with a Whisper-class model, translate it into any language, and fine-tune every cue in a full timeline editor — all from a single page.",
+      "description": "Extract audio in the browser, transcribe it with a Whisper-class model, translate it into any language, and fine-tune every cue in a full timeline editor — all from a single page.\nLiTranslate turns any video or audio file into clean, time-aligned subtitles and then localizes them into other languages. The heavy lifting is split between two focused AI agents — one that listens, one that writes.\nThe",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Hyacehila/humanizer-zh-next",
+      "githubUrl": "https://github.com/AliAkrami1375/Li-Translate.git",
       "categories": [
-        "agents",
-        "writing"
-      ]
-    },
-    {
-      "id": "27032c65-9734-46c7-ac6e-0c62f5fe134e",
-      "name": "Local-Recall",
-      "url": "https://github.com/anshupriyan/Local-Recall",
-      "oneLiner": "A 100% local, privacy-first alternative to Windows Recall — captures your screen, OCRs it, and lets you semantically search and chat with your history using a local LLM.",
-      "description": "A 100% local, privacy-first alternative to Windows Recall — captures your screen, OCRs it, and lets you semantically search and chat with your history using a local LLM. Zero cloud, zero data leakage.\nProject Status: Early Prototype under Active Development This repository is an early proof-of-concept and is under active development. APIs, database schemas, and workflows are subject to change.\nLoc",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "data",
-        "rag"
+        "agents",
+        "voice"
       ]
     },
     {
-      "id": "830ab7aa-0837-499e-901e-5d33f56e61ae",
-      "name": "SafeAI",
-      "url": "https://github.com/ikaruscareer/SafeAI",
-      "oneLiner": "SafeAI is a static analysis tool that scans AI application source code for security risks, capability exposure, and governance gaps.",
-      "description": "SafeAI is a static analysis tool that scans AI application source code for security risks, capability exposure, and governance gaps. It runs entirely offline, never executes agents or calls LLMs, and integrates into CI/CD pipelines.\n🌐 safeai-analyzer.ikaruscareer.com — project landing page\nTraditional application security tools (SAST, SCA, IaC scanning) are not designed for AI agent systems. AI ap",
+      "id": "93f99078-c24f-4da3-9c1d-48665b4b9d8f",
+      "name": "reverseloom",
+      "url": "https://github.com/KuiChi-x/reverseloom",
+      "oneLiner": "🕸️ Hand the whole browser to an LLM — it gets in, reverses the protocol, and writes a crawler that runs without a browser.",
+      "description": "🕸️ Hand the whole browser to an LLM — it gets in, reverses the protocol, and writes a crawler that runs without a browser.\nIt just beat Akamai Bot Manager, hands-off, end-to-end. See the run ↓\n中文 · English · Three walls · Full power · Quick start · Capabilities\nOne prompt — \"write me a price crawler for this site\" — on a target behind Akamai Bot Manager.\n① Detects that a missing bm-telemetry\nheade",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/ikaruscareer/SafeAI.git",
+      "githubUrl": "https://github.com/KuiChi-x/reverseloom.git",
       "categories": [
-        "agents",
         "code",
-        "security"
+        "agents",
+        "image"
       ]
     },
     {
-      "id": "f0f0b807-d47a-483f-b07c-c6ed1f7c5745",
-      "name": "Graph Context Engine for Reliable AI",
-      "url": "https://kritama.com",
-      "oneLiner": "Build digital assistants that are accurate, efficient, and maintainable at scale.",
-      "description": "Build digital assistants that are accurate, efficient, and maintainable at scale.\nProduct walkthrough\nA closer look at how Kritama structures context, keeps model behavior observable, and turns reusable intelligence into production assistants.\nThe Intelligence layer you can control\nDynamic Context Switching\nRelevant context moves in and out as the task changes, keeping the model focused on the pro",
+      "id": "506a75de-f767-4126-a751-d8ce979be393",
+      "name": "Headroom",
+      "url": "https://ar5en1c.github.io/headroom/",
+      "oneLiner": "A 30-second test of your device's true memory-bandwidth ceiling for local AI: the number that decides your tokens/s.",
+      "description": "A 30-second test of your device's true memory-bandwidth ceiling for local AI: the number that decides your tokens/s. It also checks your driver for the subgroup bug that makes some in-browser LLMs produce garbage.\nNo model download, no account, no telemetry. Synthetic weights, FP64-checked. One outbound request: ~0.4 MB of public model metadata to derive bytes per token, no run data attached. Your",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
-        "video"
+        "marketing",
+        "data"
       ]
     }
   ]
