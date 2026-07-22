@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T08:30:32.498875+00:00",
-  "count": 29,
+  "generatedAt": "2026-07-22T08:30:42.508585+00:00",
+  "count": 26,
   "tools": [
     {
-      "id": "6421c9b6-df2c-4261-a8e1-47b872668700",
+      "id": "a0e1272a-cb41-4344-be59-b679b9d4490c",
       "name": "open-kritt",
       "url": "https://github.com/Kritt-ai/open-kritt",
       "oneLiner": "Orchestrate AI agents to find real vulnerabilities in code.",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "id": "1da2b2fb-33ec-44f4-9e51-a25ac2a4cacb",
+      "id": "c140b779-4af8-4fb6-945e-28053dbdbd4b",
       "name": "abigail",
       "url": "https://github.com/iqbalmh18/abigail",
       "oneLiner": "interface - with SSE streaming, per-model round-robin, cross-model and cross-provider fallback, per-call proxy, automatic retry, provider failover with a circuit breaker, and error",
@@ -32,29 +32,45 @@
       "githubUrl": "https://github.com/iqbalmh18/abigail.git",
       "categories": [
         "code",
-        "image",
-        "writing"
+        "writing",
+        "image"
       ]
     },
     {
-      "id": "ba54ce21-fccd-4cf9-bf01-93e1948b079f",
+      "id": "7cd65f50-82c4-4420-a6c0-989f4bb941f1",
       "name": "penguin-harness",
       "url": "https://github.com/Prism-Shadow/penguin-harness",
-      "oneLiner": "Open-source, local-first infrastructure that builds AI agents for you — from automatic agent construction to recursive self-improvement.",
-      "description": "Efficient Self-Improving Harness for Everyone\nOpen-source, local-first infrastructure that builds AI agents for you — from automatic agent construction to recursive self-improvement.\nEnglish | 简体中文 · Website · Docs · Blog\n- Simplest Is the Best — a deliberately minimal toolset over clean low-level interfaces: fewer tool calls, fewer tokens, complex tasks done efficiently.\n- Harness for Building Ag",
-      "pricing": "open_source",
+      "oneLiner": "With LangChain, you build agents by hand — at 1× speed.",
+      "description": "With LangChain, you build agents by hand — at 1× speed.\nWith PenguinHarness, agents build agents — at 100×.\nA zero-code Harness CLI and Web UI, connected to 1000+ models.\nEnglish | 简体中文\nThree reasons, in deliberate order — from task quality, to how agents get built, to how they keep improving.\nA deliberately minimal toolset over clean low-level interfaces: fewer tool calls, fewer tokens — deeply t",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Prism-Shadow/penguin-harness",
+      "githubUrl": "https://github.com/ericbuess/claude-code-docs",
       "categories": [
-        "agents",
+        "code",
         "design",
-        "data"
+        "rag"
       ]
     },
     {
-      "id": "cf9b849b-f307-427a-8570-3d2eecb6da80",
+      "id": "6482b5ae-181a-49dd-aa90-e3a3176e3cbf",
+      "name": "livetennisapi-mcp",
+      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+      "oneLiner": "MCP server for the Live Tennis API.",
+      "description": "MCP server for the Live Tennis API.\nGive Claude, Cursor, Zed or any MCP client live tennis scores, players, odds and model win-probability — for ATP, WTA, Challenger and ITF.\nClaude Code\nclaude mcp add livetennis -e LIVETENNISAPI_KEY=twjp_… -- npx -y livetennisapi-mcp\nClaude Desktop — add to claude_desktop_config.json\n:\n{\n\"mcpServers\": {\n\"livetennis\": {\n\"command\": \"npx\",\n\"args\": [\"-y\", \"livetennis",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "b1f49d83-146c-4b56-a236-4398a354d38a",
       "name": "copybrainapp",
       "url": "https://github.com/copybrainapp/copybrainapp",
       "oneLiner": "Never lose a copied text again.",
@@ -66,16 +82,33 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "data"
+        "data",
+        "design"
       ]
     },
     {
-      "id": "e5bd1054-c897-45fc-a94f-d8b9d720e1d6",
+      "id": "16edefcb-72cf-4fd5-8eaa-31ac72a27909",
+      "name": "inklish",
+      "url": "https://github.com/fahreziadh/inklish",
+      "oneLiner": "Practice English where you write it.",
+      "description": "Practice English where you write it. Inklish gives you low-stakes reps in the real formats: email a project manager, reply to an open-source maintainer, keep up in a busy group chat.\nInstead of flashcards or generic chatbot windows, you practice inside rooms that look and feel like the real thing: email threads, Slack, GitHub issues, WhatsApp, Telegram, Discord, Teams, LinkedIn, and customer suppo",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data",
+        "design"
+      ]
+    },
+    {
+      "id": "2a6e036e-0236-413b-8020-80301c9cc117",
       "name": "awesome-ai-tokenomics",
       "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics",
       "oneLiner": "A map of what AI tokens actually cost, and where they're wasted vs.",
-      "description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent.\n\"I feel nervous when I have subscription left over. That just means I haven't maximized my token throughput.\"\nAndrej Karpathy, No Priors (2026)\nAs of 2026-07: 177 entries across five areas, 8 practices, 10 concepts, 8 claims, and 7 copy-paste setups.\nTopics: Caching · Compression · Context engineering · Memory · Routin",
+      "description": "A map of what AI tokens actually cost, and where they're wasted vs. well spent.\n\"I feel nervous when I have subscription left over. That just means I haven't maximized my token throughput.\"\nAndrej Karpathy, No Priors (2026)\nAs of 2026-07: 190 entries across five areas, 8 practices, 10 concepts, 8 claims, and 7 copy-paste setups.\n- Where to start\n- Legend\n- Monitor\n- Optimize\n- Govern\n- Understand\n",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -88,7 +121,7 @@
       ]
     },
     {
-      "id": "d85fbedc-f663-4ec6-a49a-b09c8387c980",
+      "id": "95e960ff-3286-40b9-a919-e038cd08af9c",
       "name": "ai-agent-architecture",
       "url": "https://github.com/Drobiazkin/ai-agent-architecture",
       "oneLiner": "An engineering book on building LLM systems you actually control — free, open, and written for engineers who ship.",
@@ -105,11 +138,28 @@
       ]
     },
     {
-      "id": "6a1f0442-3d6a-40d7-9ecf-798c05998499",
-      "name": "Trading-Bot",
-      "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-      "oneLiner": "An arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance.",
-      "description": "An arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance. Below is a step-by-step guide on how to deploy your bot and get it running without a single manual call.\nAn arbitrage bot is a smart contract connected to an external automation script that controls its operation.\nexecuteArbitrage()\n— the main fu",
+      "id": "11179606-4711-4166-967b-02ae1cf2b7bf",
+      "name": "tokentab",
+      "url": "https://github.com/sequilade/tokentab",
+      "oneLiner": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, an",
+      "description": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, and by the kind of work each session was doing. It runs entirely locally: no account, no API key, nothing leaves your machine.\nClone the repo and install it into your environment:\ngit clone https://github.com/sequilade/tok",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/sequilade/tokentab",
+      "categories": [
+        "code",
+        "data",
+        "design"
+      ]
+    },
+    {
+      "id": "a8c66f2a-91fd-4625-b144-63ea2e501a6e",
+      "name": "MEV-Arbitrage-Bot",
+      "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+      "oneLiner": "MEV Arbitrage Bot for Ethereum — Smart Contract + Python Automation.",
+      "description": "MEV Arbitrage Bot for Ethereum — Smart Contract + Python Automation. Finds and executes arbitrage between Uniswap pools and routers.\nAn arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance. Below is a step-by-step guide on how to deploy your bot and get it running without a single manual call.\nAn arbit",
       "pricing": "paid",
       "country": null,
       "quality": 25,
@@ -122,7 +172,7 @@
       ]
     },
     {
-      "id": "689e63d2-b84f-4883-9b06-a717ead1ca51",
+      "id": "3e1b4ba8-5251-41f2-9e78-35738c7df704",
       "name": "awesome-eve-agents",
       "url": "https://github.com/bergside/awesome-eve-agents",
       "oneLiner": "A curated collection of 21 open-source agents for Eve, covering engineering, product, analytics, support, marketing, finance, research, and more.",
@@ -133,13 +183,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
+        "data",
         "agents",
-        "productivity",
-        "data"
+        "productivity"
       ]
     },
     {
-      "id": "40085a05-052e-4457-8b84-297c85085220",
+      "id": "9a20f1b6-f0ac-41a7-a46c-6aa375972466",
       "name": "memmy-agent",
       "url": "https://github.com/MemTensor/memmy-agent",
       "oneLiner": "Memmy is your personal memory hub — and a dedicated Agent that knows you best.",
@@ -151,12 +201,12 @@
       "githubUrl": "https://github.com/MemTensor/memmy-agent.git",
       "categories": [
         "code",
-        "agents",
-        "data"
+        "data",
+        "agents"
       ]
     },
     {
-      "id": "16388f3f-9dd7-4f1a-bb1d-5a66dbb1bb35",
+      "id": "40184845-faf6-4976-a200-c9aff1c515f1",
       "name": "collective-intelligence",
       "url": "https://github.com/ailinone/collective-intelligence",
       "oneLiner": "Thousands of AI models coordinate inside one collective model.",
@@ -168,12 +218,12 @@
       "githubUrl": "https://github.com/ailinone/collective-intelligence.git",
       "categories": [
         "code",
-        "search",
-        "design"
+        "design",
+        "search"
       ]
     },
     {
-      "id": "6b85be52-1796-4d79-af75-bcfaabe47487",
+      "id": "85d9c19a-96b0-43cc-8d1c-4a7ce3cf2c98",
       "name": "klaatcode",
       "url": "https://github.com/KlaatAI/klaatcode",
       "oneLiner": "The terminal-native AI coding agent, powered by Klaatu smart model routing.",
@@ -190,7 +240,7 @@
       ]
     },
     {
-      "id": "b698492e-ee50-4c9a-8ece-6072ca05d27d",
+      "id": "5e94236f-6bf9-4bf2-bcbd-33f9a1e031c1",
       "name": "bbarit-agent-oss",
       "url": "https://github.com/bbarit/bbarit-agent-oss",
       "oneLiner": "An open-source AI coding agent for your terminal — written in Rust, one binary, 15+ LLM providers, 1,000+ models.",
@@ -207,139 +257,41 @@
       ]
     },
     {
-      "id": "a3501537-c17f-4bd8-8b7b-a0f95b62f145",
-      "name": "SteerPlane",
-      "url": "https://github.com/vijaym2k6/SteerPlane",
-      "oneLiner": "Runtime guardrails for autonomous AI agents.",
-      "description": "Runtime guardrails for autonomous AI agents.\nCost limits · Loop detection · Dual enforcement (Kill/Alert) · Streaming gateway · Policy engine · Human-in-the-loop · CLI · Docker · 4 framework integrations\npip install steerplane\n· npm install steerplane\n🌐 steerplane.com\nAI agents can call APIs, execute code, browse the web, and make real-world decisions. Without guardrails:\n- 🔄 A single misconfigure",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/vijaym2k6/SteerPlane.git",
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "341966df-48f3-425b-8490-5e489391b5b5",
-      "name": "Calyxa",
-      "url": "https://calyxa.app",
-      "oneLiner": "Your Adaptive AI tutor that teaches directly on any homework, website, or PDF.",
-      "description": "Stop copying. Start learning.\nYour Adaptive AI tutor that teaches directly on any homework, website, or PDF.\nAdd to Chrome — freeWorks on Khan Academy, Canvas, Google Classroom & more.\nscripted demo — the real calyxa floats over your actual homework tab\ngetting unstuck\nSkip the copy-paste loop.\n“hey calyxa — I'm stuck on 2b.”\none session\nEverything a tutor does, in one session.\nlabeled marks and a",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "id": "89f67e16-3fb8-4ccd-94c9-7b95dda16e87",
-      "name": "Turn casual photos into professional headshots with AI",
-      "url": "https://portraify.app",
-      "oneLiner": "Upload 1–3 everyday photos and get a studio-quality headshot in seconds.",
-      "description": "Upload 1–3 everyday photos and get a studio-quality headshot in seconds. Perfect for LinkedIn, resumes, and company directories.\nUpload 1–3 clear, front-facing photos. Selfies work great.\nGemini AI analyzes your features and generates a polished professional portrait.\nHigh-resolution output ready for LinkedIn, your resume, or company badge.\nNo queue, no waiting. Your headshot is generated on the s",
+      "id": "cc0a8c33-8500-492c-a982-750b5f70b438",
+      "name": "How an AI Anime Is Created",
+      "url": "https://www.aventos.dev/our-process?view=blog",
+      "oneLiner": "Everything else gets cut.",
+      "description": "We find the one thing that made readers keep scrolling, then build a tight 20 minute\nepisode around it. Everything else gets cut. We don't use LLMs for any of the\nwriting. It's bad writing every time we've tried.\nPrimary toolsWriters' room, no AI\nBuilt forGen Z · Gen Alpha audiences\n02\n02 / 04\nDirectingHuman\nDirecting\nEvery shot a painting\nA beat sheet locks the action, the shot angle, and the pac",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "writing",
+        "video",
+        "audio"
+      ]
+    },
+    {
+      "id": "2147b575-e055-4bea-8daa-aa03e479eb04",
+      "name": "nova",
+      "url": "https://github.com/weed33834/nova",
+      "oneLiner": "An AI-powered multi-agent classroom that turns any topic into an interactive learning experience.",
+      "description": "An AI-powered multi-agent classroom that turns any topic into an interactive learning experience.\nFeatures · Quick Start · Architecture · Testing · Structure · Contributing\nNova is a multi-agent teaching platform. Give it a topic and an AI teacher generates a structured course outline, produces slides, writes narration scripts, and delivers the lesson in a virtual classroom. Multiple AI agents col",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/weed33834/nova.git",
+      "categories": [
+        "agents",
         "design",
-        "marketing",
-        "image"
-      ]
-    },
-    {
-      "id": "8737bedf-2392-483b-85ac-d97c6f8e4c20",
-      "name": "Envy",
-      "url": "https://envynote.app",
-      "oneLiner": "Fast, frictionless, flexible notes.",
-      "description": "Fast, frictionless, flexible notes.\nYour thoughts are your own. Your notes should be, too. Ownership is disappearing, but it doesn’t have to be that way. With Envy, a single box searches, creates, opens, and filters your thoughts. Everything lives locally on device, in plain .md\nfiles. There’s no account, no sync service, no subscription, and no lock‑in. Oh, and it’s free.\nAs it was always meant t",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "productivity",
-        "data"
-      ]
-    },
-    {
-      "id": "46432c7f-f953-4eda-bba5-ab2ac2a41fde",
-      "name": "Shackle",
-      "url": "https://github.com/Fame510/SHACKLE",
-      "oneLiner": "The runtime governance layer — and the SP/1.",
-      "description": "The runtime governance layer — and the SP/1.0 conformance standard — for autonomous AI agents. SHACKLE mediates every agent tool call in real time: runaway token loops, unhandled tool cascades, and budget overruns are stopped before the next call fires. It is live, it runs today, and its reference implementation provably passes its own conformance suite. This is not a proposal or a prototype — it ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Fame510/SHACKLE.git",
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "5ac47136-c58a-4202-a32b-a2f195337d1e",
-      "name": "AI meeting notes",
-      "url": "https://getaiassist.app/",
-      "oneLiner": "Live captions, proactive insights citing your own files, and ask-any-question grounded in the folders you've permissioned.",
-      "description": "Live captions, proactive insights citing your own files, and ask-any-question grounded in the folders you've permissioned. Your keys, your machine. $3 one-time.\nBoth pieces are required · 14-day free trial · No bot joins your call\n~$225/yr cheaper than Otter Business — you pay Anthropic + OpenAI direct, no per-seat markup.\nOn Windows or ChromeOS? Get notified when it ships →\nYou pay Anthropic for ",
-      "pricing": "free_trial",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "productivity",
-        "marketing",
         "voice"
       ]
     },
     {
-      "id": "237cbbb8-da58-4d83-8d48-818af6a0113b",
-      "name": "Agent Search Engine",
-      "url": "https://agentsearchengine.app",
-      "oneLiner": "A technical index for choosing agents, MCP servers, frameworks, and the infrastructure underneath them.",
-      "description": "The signal observatory · 247 live records\nAgent\nSearch\nEngine\nA technical index for choosing agents, MCP servers, frameworks, and the infrastructure underneath them. Ranked by maintained adoption — never by sponsorship.\nField readout · live\n247\n11\n3.4M\n149\n01 · Navigate the field\nNot a directory. An atlas of the agent economy.\nEvery territory is a distinct product class, not a search-keyword bucke",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "search"
-      ]
-    },
-    {
-      "id": "41873fb6-81fb-4123-ba79-676f0027923c",
-      "name": "Ekko",
-      "url": "https://useekko.app/",
-      "oneLiner": "Claim your handle once, link your socials, and add friends everywhere.",
-      "description": "@you, everywhere\nClaim your handle once, link your socials, and add friends everywhere. They find your public key automatically. Every app you share becomes a sealed channel.\nPost-quantum encryption, right where you already type. No new messenger, and nobody to talk into switching.\nAcross all your messengers. In your browser today. In your keyboard next.\nHOW IT WORKS\n1\nKeys are generated on your d",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "ecb16568-9553-4178-b3dc-c013e1176246",
+      "id": "fd72a1f0-d8f6-409c-87aa-a55694b0f21b",
       "name": "One-Chat",
       "url": "https://github.com/ImMrShervin/One-Chat",
       "oneLiner": "One Chat is a lightweight AI chat interface designed to work with both local models and cloud AI services.",
@@ -356,23 +308,40 @@
       ]
     },
     {
-      "id": "fdb08ded-bbf9-4417-a942-7e5e50964f68",
+      "id": "2315d7f9-8a42-4d46-b01c-9abb23700a4b",
+      "name": "flatkey-cli",
+      "url": "https://github.com/flatkey-ai/flatkey-cli",
+      "oneLiner": "Creative generation from the terminal for media teams and AI agents.",
+      "description": "Creative generation from the terminal for media teams and AI agents. Generate images, videos, audio, and text through one Flatkey credit balance.\nLanguages: English | 简体中文 | 日本語\nWebsite: flatkey.ai\nnpm install -g @flatkey-ai/cli\nexport FLATKEY_API_KEY=<your-flatkey-api-key>\nflatkey image generate --prompt \"editorial cover, neon city at dawn\" -o cover.png\nflatkey video generate --prompt \"cinematic ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/flatkey-ai/flatkey-cli.git",
+      "categories": [
+        "code",
+        "audio",
+        "voice"
+      ]
+    },
+    {
+      "id": "e623e5b2-5e16-44ea-9ff6-9634d2b9ce79",
       "name": "awesome-OpenPrice",
       "url": "https://github.com/bytedoger/awesome-OpenPrice",
       "oneLiner": "pip install -r requirements.",
-      "description": "💖 如果这个项目对您有帮助，请在右上角帮我们点个 Star ⭐！ 您的支持是我们持续开源更新的最大动力！请关注项目后续的新功能发布，接下来我们将接入更多类型的渠道 ，敬请期待！\nopen price ，就是开放价格的意思。所以这是一个开源的收录全网卡网渠道各种AI订阅价格的项目。我们的目的只有一个，打破信息茧房，让大家能方便挑选价格最低、品质最优的 AI 订阅服务。我们不提供 AI 产品，只是 AI 订阅产品的搬运工。\n- 🛒 查看全网 AI 订阅最新底价\n- 🏪 卡网商家一键免费收录\n- 🚀 快速开始部署指南\n⚠️ 免责声明\n如今大家对 AI 订阅如 Claude、chatgpt 有着很大的需求，虽然市面上有着非常多高性价比的产品，但它们往往分散在各个不同的渠道中，例如链动小铺、独角卡网、二次元发卡、微信群、QQ群、闲鱼、淘宝等。这种信息不对称导致了两个主要问题：\n- 对于买家（普通用户",
+      "description": "💖 如果这个项目对您有帮助，请在右上角帮我们点个 Star ⭐！ 您的支持是我们持续开源更新的最大动力！请关注项目后续的新功能发布，接下来我们将接入更多类型的渠道 ，敬请期待！\nopen price,就是开放价格的意思。所以这是一个开源的收录全网卡网渠道各种AI订阅价格的项目。项目的目的只有一个，打破信息茧房，让友友们能方便挑选价格更低、更更低的 AI 订阅服务。本项目不提供 AI 服务，只是 AI 订阅产品的搬运工。\n- 🛒 查看全网 AI 订阅最新底价\n- 🏪 卡网商家一键免费收录\n- 🚀 快速开始部署指南\n⚠️ 免责声明\n如今大家对 AI 订阅如 Claude、chatgpt 有着很大的需求，虽然市面上有着非常多高性价比的产品，但它们往往分散在各个不同的渠道中，例如链动小铺、独角卡网、二次元发卡、微信群、QQ群、闲鱼、淘宝等。这种信息不对称导致了两个主要问题：\n- 对于买家（普通用户",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "data"
+        "data",
+        "design"
       ]
     },
     {
-      "id": "d946e3c2-2b9f-480c-8d5e-47bbb774a84a",
+      "id": "f874db06-71c4-4243-8c00-945e51bd67be",
       "name": "restaurant-digitalization-blueprint",
       "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
       "oneLiner": "restaurant-digitalization-blueprint",
@@ -387,40 +356,22 @@
       ]
     },
     {
-      "id": "7f8bfd2b-1dfb-4c10-b308-87dde8745ca5",
-      "name": "opsail",
-      "url": "https://github.com/lencx/opsail",
-      "oneLiner": "Opsail is a modular Rust CLI for small, composable actions used by software agents.",
-      "description": "English | 简体中文\nOpsail is a modular Rust CLI for small, composable actions used by software agents. Its first action, read\n, turns static HTML from an HTTP(S) URL, a local file, or standard input into readable Markdown, sanitized HTML, or versioned JSON.\nOpsail extracts the HTML it receives; it does not execute JavaScript, maintain a browser session, authenticate to sites, crawl links, or interact ",
+      "id": "24137eb3-ed5a-49ca-875b-528ca8372656",
+      "name": "dashiai-ppt-skill",
+      "url": "https://github.com/mujingquan835/dashiai-ppt-skill",
+      "oneLiner": "npx skills add https://github.",
+      "description": "一个真正适合职场人的 PPT Skill。把文档丢给你的 AI Agent，每一页都自带编辑控制台的 PPT Skill——不满意的地方直接在浏览器里改，改完还能一键导出成真实的、可编辑的 PPTX。\n作者与维护者：@大师的AI小灶 · GitHub mujingquan835\n这是由 @大师的AI小灶 持续设计与维护的公开增强版，基于 chuspeeism/dashi-ppt-skill 开发。本版新增与修改部分归增强版作者，上游原始代码及专有导出引擎保留其原版权和许可声明。演示素材继续引用上游 Release 资源。\n- 12 套视觉主题\n- 1020 个版式页面\n- 8576 个可调控件\n- 从 12 套主题中智能匹配 9 套并生成九宫格供确认\n- 支持对已有大师 PPT / DashiAI PPT 做带快照、最小差异的安全返工\n- 内嵌 OPPO Sans 4.0，并支持全局与单段",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/mujingquan835/dashiai-ppt-skill",
       "categories": [
-        "code",
-        "agents",
-        "security"
+        "agents"
       ]
     },
     {
-      "id": "c60679a1-483a-492a-a713-2773ffca2689",
-      "name": "nightaudit",
-      "url": "https://github.com/kishormorol/nightaudit",
-      "oneLiner": "An audit doesn't change the books.",
-      "description": "An audit doesn't change the books.\nPut your idle Claude Code or Codex subscription to work — read-only reviews of your projects while you're busy, one digest every morning.\nYou already pay for Claude Code or ChatGPT. That subscription sits idle most of the day, and definitely all night. nightaudit spends that idle time reviewing the projects you point it at, and leaves the results in one Markdown ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "a62767f5-e412-427b-9d2f-04ee32298d1e",
+      "id": "3daf4ac5-4e17-4dc2-b0c7-3ae979a6f563",
       "name": "Li-Translate",
       "url": "https://github.com/AliAkrami1375/Li-Translate",
       "oneLiner": "Extract audio in the browser, transcribe it with a Whisper-class model, translate it into any language, and fine-tune every cue in a full timeline editor — all from a single page.",
@@ -431,13 +382,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/AliAkrami1375/Li-Translate.git",
       "categories": [
+        "data",
         "agents",
-        "voice",
-        "data"
+        "voice"
       ]
     },
     {
-      "id": "986d3c40-1180-4066-b832-367f711725bb",
+      "id": "4d2ee538-d0d6-488f-bc2a-31613c58cb7e",
       "name": "reverseloom",
       "url": "https://github.com/KuiChi-x/reverseloom",
       "oneLiner": "🕸️ Hand the whole browser to an LLM — it gets in, reverses the protocol, and writes a crawler that runs without a browser.",
@@ -454,11 +405,11 @@
       ]
     },
     {
-      "id": "32afe750-6fe4-41cc-ac93-3dcf36afcdad",
-      "name": "Qscreen",
-      "url": "https://github.com/dualface/qscreen",
-      "oneLiner": "style alternative for Windows, Linux, and macOS.",
-      "description": "qscreen\nis a lightweight, cross-platform terminal session manager — a simple\ntmux\n/ GNU screen\nstyle alternative for Windows, Linux, and macOS. It keeps\nshell sessions alive in a background daemon, lets you detach and reattach at any\ntime (persistent sessions survive closing the terminal window), and provides a\nsmall tmux\n-style command set through the qscn\nexecutable. On Windows it uses\nConPTY an",
+      "id": "45746903-8e33-4fa5-bb8b-d7a0bba11057",
+      "name": "RunKit",
+      "url": "https://github.com/sahil87/run-kit",
+      "oneLiner": "Part of the shll toolkit — see all projects there.",
+      "description": "Part of the shll toolkit — see all projects there.\nYour tmux, in the browser and on your phone. run-kit is a remote console for the machine you actually work on — every tmux session and pane as a live terminal, in a sidebar, from your desk or your couch. It's the modern, terminal-native answer to the old server web-console: nothing to configure, no database, state read straight from tmux.\nWhat mak",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -466,25 +417,23 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
+        "data",
         "design"
       ]
     },
     {
-      "id": "a96ce6e3-0a71-4ce3-a4f1-13e114eec0b9",
-      "name": "AI Secretary",
-      "url": "https://github.com/mathigatti/telegram-ai-secretary",
-      "oneLiner": "Keep Telegram muted without missing what matters.",
-      "description": "Keep Telegram muted without missing what matters.\nTelegram AI Secretary is a self-hosted AI notification filter for Telegram. It listens to a Telegram user account with Telethon, filters noisy chats, asks an LLM when context matters, and sends only important alerts to your phone through ntfy.\nIt is designed for people who want notifications off by default without missing urgent messages, calls, sa",
+      "id": "256c37fa-41d3-425d-818a-a227d9ddd663",
+      "name": "A new kind of FPS aim trainer",
+      "url": "https://openaim.pramit.gg/",
+      "oneLiner": "Aim trainer that systematically improves mouse coordination and control.",
+      "description": "Aim trainer that systematically improves mouse coordination and control.\nEsc aborts a run\nAnonymous drill summaries are contributed by default to train the shared, science-based player model everyone starts from and that renormalizes your ratings to real peers. No raw mouse traces, no identity, no device info — and you can opt out or revoke below anytime. Raw replays and the public leaderboard sta",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/mathigatti/telegram-ai-secretary.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "code",
-        "audio",
-        "design"
+        "code"
       ]
     }
   ]
