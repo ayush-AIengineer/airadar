@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-07-24T08:28:30.878605+00:00",
-  "count": 25,
+  "generatedAt": "2026-07-25T08:07:10.673664+00:00",
+  "count": 22,
   "tools": [
     {
-      "id": "2efab85a-f29a-4fa9-ac05-c27cc15fe430",
+      "id": "d3e9d83b-a927-4ac4-aaac-e5e380b5d464",
+      "name": "gamemaker-mcp",
+      "url": "https://github.com/yearningss/gamemaker-mcp",
+      "oneLiner": "You signed in with another tab or window.",
+      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nA project-aware local MCP server for GameMaker Studio. It gives an MCP client structured access to a .yyp project: inspection, static analysis, guarded editing, o",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "audio"
+      ]
+    },
+    {
+      "id": "aa80a416-b2c5-4b70-bb32-d30eb0e1d089",
       "name": "open-kritt",
       "url": "https://github.com/Kritt-ai/open-kritt",
       "oneLiner": "Orchestrate AI agents to find real vulnerabilities in code.",
@@ -20,7 +37,7 @@
       ]
     },
     {
-      "id": "d7685bbd-28f2-42d5-bfac-43933d715a12",
+      "id": "65290f32-dd1a-4ab4-a1d0-c2ecfb788c2e",
       "name": "abigail",
       "url": "https://github.com/iqbalmh18/abigail",
       "oneLiner": "Abigail is a powerful Command-Line Interface (CLI) tool and Python library for accessing free web AI services (chat models & image generation) directly from your terminal or Python",
@@ -32,12 +49,12 @@
       "githubUrl": "https://github.com/iqbalmh18/abigail.git",
       "categories": [
         "code",
-        "image",
-        "writing"
+        "writing",
+        "image"
       ]
     },
     {
-      "id": "eb0511f7-4558-4447-91fa-ec0ebd2e0919",
+      "id": "3ecb208f-9334-4c5a-af92-b35a9e7fed58",
       "name": "generative-mui",
       "url": "https://github.com/yessGlory17/generative-mui",
       "oneLiner": "Write a sentence — get real, working Material UI, in your own theme.",
@@ -48,13 +65,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "design"
       ]
     },
     {
-      "id": "ec171e88-5d2a-4e85-bd89-8efc8268a334",
+      "id": "1849443c-da9e-4125-8a11-24de9b5f7834",
       "name": "awesome-cyber-ai-arsenal",
       "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
       "oneLiner": "For authorized security testing and education only.",
@@ -65,13 +82,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "453aad0b-f3f8-422c-bb41-b74353c290d2",
+      "id": "00cde462-d509-4bb3-acdb-86065ccc2fff",
       "name": "penguin-harness",
       "url": "https://github.com/Prism-Shadow/penguin-harness",
       "oneLiner": "Your automated agent builder lives on your desktop, connected to 1,000+ models.",
@@ -88,58 +105,7 @@
       ]
     },
     {
-      "id": "10f89ecd-beca-4d6f-b19e-16ae04129105",
-      "name": "livetennisapi-mcp",
-      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
-      "oneLiner": "MCP server for the Live Tennis API.",
-      "description": "MCP server for the Live Tennis API.\nGive Claude, Cursor, Zed or any MCP client live tennis scores, players and fixtures — for ATP, WTA, Challenger and ITF. Odds and model win-probability tools are included, and require the PRO and ULTRA plans.\nClaude Code\nclaude mcp add livetennis -e LIVETENNISAPI_KEY=twjp_… -- npx -y livetennisapi-mcp\nClaude Desktop — add to claude_desktop_config.json\n:\n{\n\"mcpSer",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "security",
-        "design"
-      ]
-    },
-    {
-      "id": "70c2de0c-55c4-4d90-a532-f49b4c17cf55",
-      "name": "copybrainapp",
-      "url": "https://github.com/copybrainapp/copybrainapp",
-      "oneLiner": "Never lose a copied text again.",
-      "description": "Never lose a copied text again.\nCopyBrain is a modern clipboard timeline application for Windows, macOS, and Linux. Unlike typical clipboard managers that only keep the last few items, CopyBrain automatically archives your entire clipboard history into a searchable timeline — find anything you copied yesterday, last week, last month, or even years ago.\nCopyBrain is open source and MIT-licensed. Si",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "43cc238a-13a9-4572-87c6-88c39e96f864",
-      "name": "inklish",
-      "url": "https://github.com/fahreziadh/inklish",
-      "oneLiner": "Practice English where you write it.",
-      "description": "Practice English where you write it. Inklish gives you low-stakes reps in the real formats: email a project manager, reply to an open-source maintainer, keep up in a busy group chat.\nInstead of flashcards or generic chatbot windows, you practice inside rooms that look and feel like the real thing: email threads, Slack, GitHub issues, WhatsApp, Telegram, Discord, Teams, LinkedIn, and customer suppo",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "8dd14d55-0dfe-4bc2-b67f-cc0f377f1336",
+      "id": "eccbaedb-42a2-40a5-b556-905b782e9769",
       "name": "free-llm-router",
       "url": "https://github.com/Pr0fess0rOP/free-llm-router",
       "oneLiner": "Bring your own LLM API keys and route OpenAI Chat Completions, OpenAI Responses/Codex, and Claude Code through one gateway with a beautiful, self-hosted dashboard.",
@@ -151,29 +117,46 @@
       "githubUrl": "https://github.com/your-username/free-llm-router.git",
       "categories": [
         "code",
-        "security",
-        "design"
+        "design",
+        "security"
       ]
     },
     {
-      "id": "de38e477-44d5-4aed-a16c-b758e1d2de90",
-      "name": "OpenPaw",
-      "url": "https://github.com/sucxay/OpenPaw",
-      "oneLiner": "OpenPaw is an open-source AI coding assistant for your terminal, inspired by tools like Claude Code, Gemini CLI, and Aider.",
-      "description": "Chat. Explain. Configure. Build.\nOpenPaw is an open-source AI coding assistant for your terminal, inspired by tools like Claude Code, Gemini CLI, and Aider.\nIt works with any OpenAI-compatible API endpoint, allowing you to use local or hosted models with a simple and developer-friendly command-line experience.\nWhether you're chatting with your favorite model, explaining unfamiliar code, or managin",
+      "id": "f91ea93c-0e11-49eb-b2d6-9aab60ac90e4",
+      "name": "habibi",
+      "url": "https://github.com/moaljumaa/habibi",
+      "oneLiner": "Open-source, self-hosted tracking for how your brand shows up in AI answers — a free alternative to Peec AI, Promptwatch, and MentionDesk.",
+      "description": "Open-source, self-hosted tracking for how your brand shows up in AI answers — a free alternative to Peec AI, Promptwatch, and MentionDesk.\nEveryone's asking the same thing in the AEO/GEO communities: how do I track LLM citations without paying $90–500/mo for tools that mostly run a cron job and an API call? The paid tools aren't magic — the core loop is:\na set of prompts × a set of engines, run da",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/sucxay/OpenPaw.git",
+      "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "data",
         "design"
       ]
     },
     {
-      "id": "8a51b88e-e98d-4fc1-a0bd-b7c8984e148b",
+      "id": "74bcae1f-6cc7-412c-b8ff-9d4a369a4147",
+      "name": "studio-foundation",
+      "url": "https://github.com/lxsolutions/studio-foundation",
+      "oneLiner": "An AI-native, open-source game-dev toolkit — with a Godot 4.",
+      "description": "An AI-native, open-source game-dev toolkit — with a Godot 4.7.1 WebGPU browser backend that actually renders 3D.\nOfficial Godot is the base and stays the upstream. On top of it sits a WebGPU export path maintained as an ordered, SHA-256-locked patch series, plus the MCP server, agent workflows, and asset pipeline that make the whole thing drivable by AI assistants. WebGL 2 remains the supported fa",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/lxsolutions/studio-foundation.git",
+      "categories": [
+        "code",
+        "agents",
+        "productivity"
+      ]
+    },
+    {
+      "id": "5a3b21a6-e017-4909-a556-b13f6f362751",
       "name": "collective-intelligence",
       "url": "https://github.com/ailinone/collective-intelligence",
       "oneLiner": "TL;DR: Ailin¹ makes 76,636 AI models collaborate inside one collective model, coordinated through 32 strategies instead of routed to a single one.",
@@ -190,11 +173,28 @@
       ]
     },
     {
-      "id": "69580038-ce95-49c3-8079-f48ce8ddcd87",
-      "name": "atelier-cms",
-      "url": "https://github.com/aincient-labs/atelier-cms",
-      "oneLiner": "The AI-native CMS, by AIncient Labs.",
-      "description": "The AI-native CMS, by AIncient Labs. Create, find, update, and publish content through an AI operator console — no admin forms, no jargon, no SaaS login.\nQuick start · See it work · Publish anywhere · Why Atelier · Whats inside · License\nOne sentence → a real page. Watch the full ~2-minute demo →\nOn macOS or Linux, the smoothest path is the atelier\nCLI —\none Homebrew install gives you a managed ap",
+      "id": "d5496121-a74e-4b3a-8f34-5f1e964f90eb",
+      "name": "Open Weights and American AI Leadership",
+      "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+      "oneLiner": "In the 1980s, early open-source software pioneers challenged the prevailing belief that software would advance only if companies kept tight control over their code.",
+      "description": "Open Weights and American AI Leadership\nJuly 24, 2026\nIn the 1980s, early open-source software pioneers challenged the prevailing belief that software would advance only if companies kept tight control over their code. This movement pushed for a transparent ecosystem where developers around the world could study, modify, and improve software. Software developed by the open-source community now sup",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data",
+        "design"
+      ]
+    },
+    {
+      "id": "f25e90c8-4242-4d4b-8a5f-a5e7e865a27f",
+      "name": "WhipDesk",
+      "url": "https://github.com/BinaryBananaLLC/WhipDesk",
+      "oneLiner": "WhipDesk is a remote access tool for developers who need to monitor and control AI coding agents running on their dev machines—directly from their phones.",
+      "description": "WhipDesk.com · Security · Install · Features · How it works · FAQ\nWhipDesk is a remote access tool for developers who need to monitor and control AI coding agents running on their dev machines—directly from their phones.\nThe agent you install on your dev machine and the controller that runs in your browser are both open source, and the connection between them is end-to-end encrypted. You get the w",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -203,147 +203,27 @@
       "categories": [
         "code",
         "design",
-        "data"
-      ]
-    },
-    {
-      "id": "7b2aca70-93f4-4dfd-ae29-436b76c82154",
-      "name": "Jharu",
-      "url": "https://github.com/riponcm/Jharu",
-      "oneLiner": "Jharu finds and safely removes the gigabytes that development tools leave behind: machine learning model caches, package manager caches, Docker data, leftovers from uninstalled app",
-      "description": "Free, open source disk cleaner and storage analyzer for developers — macOS and Windows\nJharu finds and safely removes the gigabytes that development tools leave behind: machine learning model caches, package manager caches, Docker data, leftovers from uninstalled apps, and forgotten junk files — all from one professional dashboard.\nmacOS installer is universal (Apple Silicon and Intel). Windows in",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/riponcm/Jharu.git",
-      "categories": [
-        "code",
-        "security",
-        "rag"
-      ]
-    },
-    {
-      "id": "1e3eb294-7fcd-4c86-a2f1-857cf34f31b1",
-      "name": "Continuum",
-      "url": "https://github.com/AnasNafees1802/continuum",
-      "oneLiner": "Cross-agent session continuity for AI coding agents.",
-      "description": "Cross-agent session continuity for AI coding agents.\nWebsite · Install · v2.0.0 · MIT\nSwitch from Codex to Claude to Antigravity, or come back tomorrow after hitting a usage limit - and your agent already knows what you're building, where you are, and what's next. No re-explaining.\nYou're building with one AI coding agent. You ship a couple of features, then the daily limit hits and it stops. You ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/AnasNafees1802/continuum",
-      "categories": [
-        "agents",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "52886017-3e16-42df-80c2-c1e6eb80e8bf",
-      "name": "Codex Slides",
-      "url": "https://github.com/nexu-io/codex-slides",
-      "oneLiner": "The open-source AI slide studio that lives inside Codex.",
-      "description": "The open-source AI slide studio that lives inside Codex.\nTurn a prompt, a repo, or a pile of files into a beautiful, presentation-ready deck — without leaving your coding agent.\n⚡ 10+ high-quality slides in ~4–5 minutes — Fast mode renders every page in parallel, not one by one\n45 deck templates · 73 community styles · 24 guided scenarios → production-ready PPTX / PDF · Browser-first · zero separa",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/nexu-io/codex-slides.git",
-      "categories": [
-        "code",
-        "design",
-        "productivity"
-      ]
-    },
-    {
-      "id": "df1c0cf3-7c0d-4075-93da-adfbe35395de",
-      "name": "Generous free tier for SERP and AI web scraping",
-      "url": "https://cloro.dev/",
-      "oneLiner": "One API for every AI search engine and Google.",
-      "description": "The search API for the AI era\nOne API for every AI search engine and Google. Real-time, structured JSON.\nOne API for every AI search engine and Google. Real-time, structured JSON.\nCovers the main SEO and AI SEO providers,\nat any scale and across regions.\nDirect LLM API integration has hidden costs and difficult scalability.\nDirect provider APIs don't give the tools to influence SEO.\nEach provider ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "dc9cab72-2db6-4f94-b7c8-0f25d687d0c1",
-      "name": "Bohay",
-      "url": "https://bohay.dev/",
-      "oneLiner": "One place to run, watch, resume, and orchestrate every coding agent.",
-      "description": "One place to run, watch, resume, and orchestrate every coding agent.\ncurl -fsSL https://bohay.dev/install.sh | sh\nor brew install RizRiyz/bohay/bohay\n· cargo install bohay\n·\nWindows & more\nOne terminal that watches every agent, keeps your work safe, and ships your code without switching windows.\nOne sidebar shows what each agent is doing right now: waiting on you, working, finished, or resting. St",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "77043b99-8a24-4132-8479-9b521f371294",
-      "name": "Tuziyo",
-      "url": "https://tuziyo.com/",
-      "oneLiner": "Start from a short idea, a product direction, or a reference frame.",
-      "description": "Prompt\nStart from a short idea, a product direction, or a reference frame.\nA cinematic creative workspace for generating images and videos, editing pictures, and preparing polished assets for every project.\n10 free credits for every new account. No credit card required.\nMove from idea to finished asset with AI image creation and practical finishing tools in one focused workflow.\nGenerate the direc",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "image",
-        "video"
-      ]
-    },
-    {
-      "id": "c21f0c3c-3542-44e3-b772-ef0150de1d41",
-      "name": "PDFly",
-      "url": "https://pdfly.uk/",
-      "oneLiner": "Merge, convert, edit, and chat with your PDFs — processed entirely on your device.",
-      "description": "Merge, convert, edit, and chat with your PDFs — processed entirely on your device. No server uploads, no watermarks, no account required.\nDrop a file, or click to browse\nWe'll suggest the right tool automatically\n2.4M+\nFiles processed\n56\nFree tools\n0\nFiles stored on our servers\n4.9/5\nAverage rating\nTrusted by teams who deal with documents all day\nWhat you need, organized\nEvery tool runs the same w",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "image",
-        "design"
-      ]
-    },
-    {
-      "id": "10e7aa31-b1bb-48a9-930c-de211b996679",
-      "name": "Turo",
-      "url": "https://github.com/kdeps/turo",
-      "oneLiner": "introduce any regressions in the existing behavior.",
-      "description": "Point more. Token less.\nA real instruction block — 138 tokens (cl100k):\nWhen you are reviewing a pull request, please make sure that you carefully\nexamine each of the changed files and verify that the new code does not\nintroduce any regressions in the existing behavior. It is really important that\nyou check whether the author has added appropriate tests for the new\nfunctionality, because untested ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
         "security"
       ]
     },
     {
-      "id": "e1dcb9f8-98ec-4cf8-9f4e-c164f9f234ac",
+      "id": "6b6dc57e-9aee-4815-92ec-ed0a5ba24496",
+      "name": "Kalytera",
+      "url": "https://kalytera.dev",
+      "oneLiner": "Evaluate every step automatically, surface the patterns behind failures, and get a plain-English root cause — without digging through traces.",
+      "description": "Evaluate every step automatically, surface the patterns behind failures, and get a plain-English root cause — without digging through traces.\nOne line to add. Works with LangChain, CrewAI, AutoGen, or any custom framework. Free for 10K sessions/month.\nAI agents fail differently than normal software. You need a different kind of observability to catch it — one that watches every step, not just the ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "productivity"
+      ]
+    },
+    {
+      "id": "3891c564-c44a-4b94-bf68-234f8694c5f4",
       "name": "handoff-skill",
       "url": "https://github.com/ToolMonsters/handoff-skill",
       "oneLiner": "A Claude skill that generates a complete handoff document of your current conversation, so another LLM (ChatGPT, a fresh Claude session, Gemini, anything) can pick up exactly where",
@@ -358,7 +238,7 @@
       ]
     },
     {
-      "id": "ef617fd4-6643-45d6-837b-61cf33466f7e",
+      "id": "c4e4b1be-f279-4ba6-a3fb-d84e235af1ca",
       "name": "sigbound",
       "url": "https://github.com/surya-koritala/sigbound",
       "oneLiner": "Run multiple AI coding agents on one repository in parallel, and merge their work automatically — landing only changes that build and pass your tests.",
@@ -369,13 +249,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/surya-koritala/sigbound",
       "categories": [
-        "agents",
         "code",
+        "agents",
         "design"
       ]
     },
     {
-      "id": "27c1b336-d8db-4189-954b-d9fedca66df8",
+      "id": "a21febc6-fd32-4595-9d6d-a50dbd70e0cf",
       "name": "nova",
       "url": "https://github.com/weed33834/nova",
       "oneLiner": "A multi-agent AI classroom that turns any topic into an interactive learning experience.",
@@ -387,12 +267,12 @@
       "githubUrl": "https://github.com/weed33834/nova.git",
       "categories": [
         "agents",
-        "design",
-        "voice"
+        "voice",
+        "design"
       ]
     },
     {
-      "id": "0bf8ac50-0425-43ef-8703-8b4712082238",
+      "id": "5ea0f922-e0be-412a-99e0-befef05b5894",
       "name": "anthropometer",
       "url": "https://github.com/arian-shamaei/anthropometer",
       "oneLiner": "A btop-style, real-time diagnostic instrument for Claude Code sessions.",
@@ -403,26 +283,92 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/arian-shamaei/anthropometer",
       "categories": [
-        "agents",
         "code",
+        "agents",
         "search"
       ]
     },
     {
-      "id": "7ad73699-f95f-4e29-b82b-b352985398bc",
-      "name": "GlossaryPage",
-      "url": "https://glossarypage.com/",
-      "oneLiner": "GlossaryPage helps marketing teams turn customer questions into structured knowledge pages designed for AI search visibility.",
-      "description": "Turn Customer Questions into AI Search Visibility\nGlossaryPage helps marketing teams turn customer questions into structured knowledge pages designed for AI search visibility.\nWhat is AEO?\nOptimizing content to be understood, cited, and surfaced by AI answer engines.\nProduct Preview\nGlossaryPage helps your team draft, review, and publish pages to a public-facing site, which is hosted by us and bra",
+      "id": "f2c4fce2-093a-46e9-b905-1b750a1644fa",
+      "name": "AIs don't do what you want. This is bad",
+      "url": "https://rewardhacking.org",
+      "oneLiner": "Your AIs don’t do what you want.",
+      "description": "Your AIs don’t do what you want. This is really bad\n3,607user-reported incidents of AI agents misbehaving\nSearch the corpus\nloading…\nThe numbers\nIncidents are multi-label (one report can be both a destructive action and overeagerness), so the category counts sum to more than the 3,607 total.\nHow bad were they\n- negligibleno real damage1,468\n- minorrecoverable loss1,373\n- significantreal cost to re",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "a966a2b9-1d19-4aa4-957e-ab7dcec5663a",
+      "name": "AI Meter",
+      "url": "https://ai-meter.app",
+      "oneLiner": "Codex, Claude Code, Cursor, OpenCode, and Gemini CLI token counts are read from local records, deduplicated, and combined on your Mac.",
+      "description": "Provider-reported tokens\nCodex, Claude Code, Cursor, OpenCode, and Gemini CLI token counts are read from local records, deduplicated, and combined on your Mac.\nAI Meter measures token usage across your local coding agents and estimates the associated electricity and direct cooling-water use. No accounts. No usage data leaves your Mac.\n$ curl -fsSL https://ai-meter.app/install.sh | sh\nReads local p",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "1c44f15c-5997-4588-8f2f-efcade07ea5f",
+      "name": "OneWayInterview",
+      "url": "https://onewayinterview.com/",
+      "oneLiner": "- Type a job title and questions draft themselves.",
+      "description": "- Type a job title and questions draft themselves. Edit, delete, or accept as-is.\n- Candidates record answers on their own time, via a link you send.\n- You open a ranked list. The top candidates are already sorted to the top.\nThe only one-way video interview software made for small businesses\nHiring software for small business: screen without scheduling, see who you hire, use 100+ pre-built tests,",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
         "design",
-        "writing",
-        "search"
+        "video"
+      ]
+    },
+    {
+      "id": "11057c8e-b1db-44fc-b6e4-09853ee23cf1",
+      "name": "Evidence Graph",
+      "url": "https://github.com/samchon/lint-plugin-evidence",
+      "oneLiner": "The evidence graph for the AI coding era: the guardrail for goal mode.",
+      "description": "The evidence graph for the AI coding era: the guardrail for goal mode.\nYour spec is now a compile error.\nWhen Claude Code or Codex works unattended, it can skip a requirement and still report \"done.\" Evidence Graph makes every configured requirement demand an explicit acknowledgement from the code, test, or document that claims to satisfy it.\nEvery acknowledgement names the exact target and states",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "voice"
+      ]
+    },
+    {
+      "id": "0090c905-b8fd-4894-9a4a-8422b2ed3e60",
+      "name": "Fractal",
+      "url": "https://github.com/plasma-ai/fractal",
+      "oneLiner": "Hierarchical agent loops with recursive self-organization.",
+      "description": "Hierarchical agent loops with recursive self-organization.\nIn a fractal, autonomous agent loops arrange themselves into a tree: a node\niterates toward a goal in its own git worktree\nand spawns child nodes for\nseparable subtasks, so the tree grows to fit the problem rather than a fixed\nplan. Hard caps (iterations, depth, children, cost, time) keep each loop\nbounded, and an operator can steer or sto",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/plasma-ai/fractal",
+      "categories": [
+        "code",
+        "agents",
+        "data"
       ]
     }
   ]
