@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-07-25T08:07:10.673664+00:00",
-  "count": 22,
+  "generatedAt": "2026-07-26T08:27:28.654930+00:00",
+  "count": 23,
   "tools": [
     {
-      "id": "d3e9d83b-a927-4ac4-aaac-e5e380b5d464",
+      "id": "1c46f05c-9fb3-46df-a60e-9db2648e874b",
+      "name": "approving",
+      "url": "https://github.com/cocofhu/approving",
+      "oneLiner": "Agent workflows that advance with humans — a new paradigm for multi-agent collaboration.",
+      "description": "Agent workflows that advance with humans — a new paradigm for multi-agent collaboration.\nApproving turns coding agents into workflows you can trust: visual orchestration, sandboxed execution, and human Approve at critical nodes before continuing. Open-source and self-hostable, with rollback and human gates. See the Site — This project was built with this workflow.\nSecurity scans (CodeQL, web npm a",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "a64b88f8-fac9-45db-ac78-bed741dc92f6",
       "name": "gamemaker-mcp",
       "url": "https://github.com/yearningss/gamemaker-mcp",
       "oneLiner": "You signed in with another tab or window.",
@@ -20,7 +37,7 @@
       ]
     },
     {
-      "id": "aa80a416-b2c5-4b70-bb32-d30eb0e1d089",
+      "id": "d5905fdb-8859-475f-a1c1-43e0e8c05944",
       "name": "open-kritt",
       "url": "https://github.com/Kritt-ai/open-kritt",
       "oneLiner": "Orchestrate AI agents to find real vulnerabilities in code.",
@@ -37,11 +54,11 @@
       ]
     },
     {
-      "id": "65290f32-dd1a-4ab4-a1d0-c2ecfb788c2e",
+      "id": "d281d641-ecc4-4c1f-91f4-54c6974f2be1",
       "name": "abigail",
       "url": "https://github.com/iqbalmh18/abigail",
-      "oneLiner": "Abigail is a powerful Command-Line Interface (CLI) tool and Python library for accessing free web AI services (chat models & image generation) directly from your terminal or Python",
-      "description": "Abigail is a powerful Command-Line Interface (CLI) tool and Python library for accessing free web AI services (chat models & image generation) directly from your terminal or Python code-with zero API keys required.\nLanguage: English · Bahasa Indonesia\nCaution\nDisclaimer: This package accesses third-party public web AI interfaces. Please use it responsibly and in accordance with each service's Term",
+      "oneLiner": "Abigail is a powerful Command-Line Interface (CLI) tool and Python library for accessing free web AI services (chat models, image & video generation) directly from your terminal or",
+      "description": "Abigail is a powerful Command-Line Interface (CLI) tool and Python library for accessing free web AI services (chat models, image & video generation) directly from your terminal or Python code-with zero API keys required.\nLanguage: English · Bahasa Indonesia\nCaution\nDisclaimer: This package accesses third-party public web AI interfaces. Please use it responsibly and in accordance with each service",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -54,7 +71,7 @@
       ]
     },
     {
-      "id": "3ecb208f-9334-4c5a-af92-b35a9e7fed58",
+      "id": "9b382970-2e36-431c-a162-7f6d4be68a51",
       "name": "generative-mui",
       "url": "https://github.com/yessGlory17/generative-mui",
       "oneLiner": "Write a sentence — get real, working Material UI, in your own theme.",
@@ -66,46 +83,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "1849443c-da9e-4125-8a11-24de9b5f7834",
-      "name": "awesome-cyber-ai-arsenal",
-      "url": "https://github.com/pazo01/awesome-cyber-ai-arsenal",
-      "oneLiner": "For authorized security testing and education only.",
-      "description": "Warning\nFor authorized security testing and education only. Every tool listed here must be used only against systems you own or have explicit written permission to test. Unauthorized access is illegal. See the Disclaimer .\n🔴 Offensive Security (Red Team)\nReconnaissance — Subdomain / DNS / ASN\nTool\nDescription\nsubfinder\nFast passive subdomain enumeration.\nAmass\nIn-depth attack-surface mapping and a",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "00cde462-d509-4bb3-acdb-86065ccc2fff",
-      "name": "penguin-harness",
-      "url": "https://github.com/Prism-Shadow/penguin-harness",
-      "oneLiner": "Your automated agent builder lives on your desktop, connected to 1,000+ models.",
-      "description": "Your automated agent builder lives on your desktop, connected to 1,000+ models.\nEnglish | 简体中文\nWith LangChain, you build agents by hand — at 1× speed.\nWith PenguinHarness, agents build agents — at 100×.\nThree reasons, in deliberate order — from task quality, to how agents get built, to how they keep improving.\nA deliberately minimal toolset over clean low-level interfaces: fewer tool calls, fewer ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ericbuess/claude-code-docs",
-      "categories": [
-        "code",
         "design",
-        "rag"
+        "agents"
       ]
     },
     {
-      "id": "eccbaedb-42a2-40a5-b556-905b782e9769",
+      "id": "c2e78392-e3d5-4e2f-b06b-007043444d7c",
       "name": "free-llm-router",
       "url": "https://github.com/Pr0fess0rOP/free-llm-router",
       "oneLiner": "Bring your own LLM API keys and route OpenAI Chat Completions, OpenAI Responses/Codex, and Claude Code through one gateway with a beautiful, self-hosted dashboard.",
@@ -122,7 +105,7 @@
       ]
     },
     {
-      "id": "f91ea93c-0e11-49eb-b2d6-9aab60ac90e4",
+      "id": "88079104-b79e-4d2e-9c99-026464626cdb",
       "name": "habibi",
       "url": "https://github.com/moaljumaa/habibi",
       "oneLiner": "Open-source, self-hosted tracking for how your brand shows up in AI answers — a free alternative to Peec AI, Promptwatch, and MentionDesk.",
@@ -134,12 +117,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "data",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "74bcae1f-6cc7-412c-b8ff-9d4a369a4147",
+      "id": "295a6147-4f53-4eae-a501-ccf6d77601b3",
       "name": "studio-foundation",
       "url": "https://github.com/lxsolutions/studio-foundation",
       "oneLiner": "An AI-native, open-source game-dev toolkit — with a Godot 4.",
@@ -156,74 +139,109 @@
       ]
     },
     {
-      "id": "5a3b21a6-e017-4909-a556-b13f6f362751",
-      "name": "collective-intelligence",
-      "url": "https://github.com/ailinone/collective-intelligence",
-      "oneLiner": "TL;DR: Ailin¹ makes 76,636 AI models collaborate inside one collective model, coordinated through 32 strategies instead of routed to a single one.",
-      "description": "⭐ Star the repo and back a new, more collective and collaborative era of AI\nTL;DR: Ailin¹ makes 76,636 AI models collaborate inside one collective model, coordinated through 32 strategies instead of routed to a single one. Structured diversity, independent reasoning, and a full decision audit trail on every request: more reliable, resilient, and auditable than any single-model integration, and pro",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ailinone/collective-intelligence.git",
-      "categories": [
-        "code",
-        "design",
-        "search"
-      ]
-    },
-    {
-      "id": "d5496121-a74e-4b3a-8f34-5f1e964f90eb",
-      "name": "Open Weights and American AI Leadership",
-      "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
-      "oneLiner": "In the 1980s, early open-source software pioneers challenged the prevailing belief that software would advance only if companies kept tight control over their code.",
-      "description": "Open Weights and American AI Leadership\nJuly 24, 2026\nIn the 1980s, early open-source software pioneers challenged the prevailing belief that software would advance only if companies kept tight control over their code. This movement pushed for a transparent ecosystem where developers around the world could study, modify, and improve software. Software developed by the open-source community now sup",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "design"
-      ]
-    },
-    {
-      "id": "f25e90c8-4242-4d4b-8a5f-a5e7e865a27f",
-      "name": "WhipDesk",
-      "url": "https://github.com/BinaryBananaLLC/WhipDesk",
-      "oneLiner": "WhipDesk is a remote access tool for developers who need to monitor and control AI coding agents running on their dev machines—directly from their phones.",
-      "description": "WhipDesk.com · Security · Install · Features · How it works · FAQ\nWhipDesk is a remote access tool for developers who need to monitor and control AI coding agents running on their dev machines—directly from their phones.\nThe agent you install on your dev machine and the controller that runs in your browser are both open source, and the connection between them is end-to-end encrypted. You get the w",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "6b6dc57e-9aee-4815-92ec-ed0a5ba24496",
-      "name": "Kalytera",
-      "url": "https://kalytera.dev",
-      "oneLiner": "Evaluate every step automatically, surface the patterns behind failures, and get a plain-English root cause — without digging through traces.",
-      "description": "Evaluate every step automatically, surface the patterns behind failures, and get a plain-English root cause — without digging through traces.\nOne line to add. Works with LangChain, CrewAI, AutoGen, or any custom framework. Free for 10K sessions/month.\nAI agents fail differently than normal software. You need a different kind of observability to catch it — one that watches every step, not just the ",
-      "pricing": "free",
+      "id": "9112c284-f1b0-4fab-883b-aeb57987bbd3",
+      "name": "MIT to become hotbed of AI video surveillance",
+      "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
+      "oneLiner": "According to information obtained by The Tech, MIT is spending over $3 million on more than 500 AI surveillance cameras in academic buildings, residence halls, and outdoor areas al",
+      "description": "MIT to Become Hotbed of AI Video Surveillance\nIt’s a lot:\nAccording to information obtained by The Tech, MIT is spending over $3 million on more than 500 AI surveillance cameras in academic buildings, residence halls, and outdoor areas along Memorial Drive. Installation of the new cameras, along with the wiring and infrastructure that will support them, began November 2025 and will likely continue",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
+        "data",
+        "video"
+      ]
+    },
+    {
+      "id": "497f8a95-5f77-43f2-99bd-b3d9bd63d2e8",
+      "name": "Agentic test processes",
+      "url": "https://danluu.com/ai-coding/",
+      "oneLiner": "I've been using AI fairly heavily since last November and the whole thing is a funny experience.",
+      "description": "I've been using AI fairly heavily since last November and the whole thing is a funny experience. An agent will do something that, if a human did it, you'd immediately fire them. My reaction, of course, is to act as if this is great and spin up a thousand agents so they can do even more of that.\nMid-last year, I had GPT (maybe 5.0 or 5.1) try to find the source of a bug. Naturally, this code didn't",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/cestpasphoto/alpha-zero-general",
+      "categories": [
+        "code",
         "agents",
         "productivity"
       ]
     },
     {
-      "id": "3891c564-c44a-4b94-bf68-234f8694c5f4",
+      "id": "e3a11726-bce7-49e3-8912-06c930cf3daf",
+      "name": "Integrate any CLI agent into any terminal",
+      "url": "https://terminai.app",
+      "oneLiner": "Use your terminal any way you want, then press Ctrl+Space to open Codex, Claude Code, or your own agent in an overlay with read and approval-gated write access to your terminal.",
+      "description": "Wrap your terminal for on-demand access to AI\nTerminai\nUse your terminal any way you want, then press Ctrl+Space to open Codex, Claude Code, or your own agent in an overlay with read and approval-gated write access to your terminal.\nHow it feels\nA shell that can explain itself\nTerminai stays out of the way until you need help. The overlay is a real terminal running the agent you already use, with ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/emosenkis/terminai.git",
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "98dcd7e9-36dd-48ad-8149-11857b6e8bbf",
+      "name": "Hydra",
+      "url": "https://hydra.uvansa.com/",
+      "oneLiner": "The local-first Trust Control Plane for AI.",
+      "description": "local-first · provider-neutral · trust control plane\nHYDRA — the local-first Trust Control Plane: multi-model AI orchestration CLI\nOne Cortex · Many Heads\nThe local-first Trust Control Plane for AI. Hydra discovers every model on your machine — CLI agents, API keys, local servers — and routes each task to the cheapest head that clears your target confidence.\nWhere we fit in the universethe unconte",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "marketing"
+      ]
+    },
+    {
+      "id": "266c2f70-f919-4ff1-aa8d-882fe4186e90",
+      "name": "ActionRail",
+      "url": "https://github.com/ToolJet/ActionRail/",
+      "oneLiner": "ActionRail is an open-source project by ToolJet.",
+      "description": "ActionRail is an open-source project by ToolJet.\nRelease status: ActionRail is currently in public beta. Interfaces may evolve before ActionRail v1, which is planned for August 2026.\nIntegration support: Any Python application can use the framework-neutral\nActionRuntime\n. LangGraph also has automatic tool discovery and wrapping; additional automatic framework adapters are planned.\nAn agent's tool ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "73b23e61-4a10-42e7-b7b2-dc91abfab3a8",
+      "name": "Drift",
+      "url": "https://github.com/kylepelham/Drift",
+      "oneLiner": "A focused Windows desktop for coding with AI agents.",
+      "description": "A focused Windows desktop for coding with AI agents.\nOpen your projects, keep long-running threads close, and let Drift manage the engine.\nInstall | Features | Development | Documentation\nDrift packages the OpenCode agent engine as a managed sidecar and gives it a native-feeling desktop home. One app handles the engine lifecycle, project navigation, persistent thread metadata, updates, and Windows",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/kylepelham/Drift.git",
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "9133179a-e5cc-4bb1-9a47-3e79a6ea90c1",
       "name": "handoff-skill",
       "url": "https://github.com/ToolMonsters/handoff-skill",
       "oneLiner": "A Claude skill that generates a complete handoff document of your current conversation, so another LLM (ChatGPT, a fresh Claude session, Gemini, anything) can pick up exactly where",
@@ -238,7 +256,7 @@
       ]
     },
     {
-      "id": "c4e4b1be-f279-4ba6-a3fb-d84e235af1ca",
+      "id": "fd01eacf-d1df-417c-821c-a7a9af3a3aac",
       "name": "sigbound",
       "url": "https://github.com/surya-koritala/sigbound",
       "oneLiner": "Run multiple AI coding agents on one repository in parallel, and merge their work automatically — landing only changes that build and pass your tests.",
@@ -250,12 +268,12 @@
       "githubUrl": "https://github.com/surya-koritala/sigbound",
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "a21febc6-fd32-4595-9d6d-a50dbd70e0cf",
+      "id": "8a7eba86-8579-4911-8916-fa67a46620d4",
       "name": "nova",
       "url": "https://github.com/weed33834/nova",
       "oneLiner": "A multi-agent AI classroom that turns any topic into an interactive learning experience.",
@@ -266,13 +284,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/weed33834/nova.git",
       "categories": [
+        "design",
         "agents",
-        "voice",
-        "design"
+        "voice"
       ]
     },
     {
-      "id": "5ea0f922-e0be-412a-99e0-befef05b5894",
+      "id": "eb1a24a6-1fc7-48a1-bfa6-dd051bc806ef",
       "name": "anthropometer",
       "url": "https://github.com/arian-shamaei/anthropometer",
       "oneLiner": "A btop-style, real-time diagnostic instrument for Claude Code sessions.",
@@ -289,43 +307,28 @@
       ]
     },
     {
-      "id": "f2c4fce2-093a-46e9-b905-1b750a1644fa",
-      "name": "AIs don't do what you want. This is bad",
-      "url": "https://rewardhacking.org",
-      "oneLiner": "Your AIs don’t do what you want.",
-      "description": "Your AIs don’t do what you want. This is really bad\n3,607user-reported incidents of AI agents misbehaving\nSearch the corpus\nloading…\nThe numbers\nIncidents are multi-label (one report can be both a destructive action and overeagerness), so the category counts sum to more than the 3,607 total.\nHow bad were they\n- negligibleno real damage1,468\n- minorrecoverable loss1,373\n- significantreal cost to re",
+      "id": "7c21f876-2e94-41e4-9c3a-8373835169f4",
+      "name": "korugan",
+      "url": "https://github.com/behramkendra/korugan",
+      "oneLiner": "Korugan (Turkish): a hardened bunker guarding a frontier — from the root koru-, \"to protect.",
+      "description": "Korugan (Turkish): a hardened bunker guarding a frontier — from the root koru-, \"to protect.\"\nKorugan connects to your edge providers — Cloudflare first — ingests traffic, security, DNS, SSL and cache signals, and puts an AI operations engineer on top: one that explains problems in plain language, drafts the exact fix, and applies it only when you approve.\nNot another dashboard. Dashboards show yo",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/behramkendra/korugan.git",
       "categories": [
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "a966a2b9-1d19-4aa4-957e-ab7dcec5663a",
-      "name": "AI Meter",
-      "url": "https://ai-meter.app",
-      "oneLiner": "Codex, Claude Code, Cursor, OpenCode, and Gemini CLI token counts are read from local records, deduplicated, and combined on your Mac.",
-      "description": "Provider-reported tokens\nCodex, Claude Code, Cursor, OpenCode, and Gemini CLI token counts are read from local records, deduplicated, and combined on your Mac.\nAI Meter measures token usage across your local coding agents and estimates the associated electricity and direct cooling-water use. No accounts. No usage data leaves your Mac.\n$ curl -fsSL https://ai-meter.app/install.sh | sh\nReads local p",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "1c44f15c-5997-4588-8f2f-efcade07ea5f",
-      "name": "OneWayInterview",
-      "url": "https://onewayinterview.com/",
-      "oneLiner": "- Type a job title and questions draft themselves.",
-      "description": "- Type a job title and questions draft themselves. Edit, delete, or accept as-is.\n- Candidates record answers on their own time, via a link you send.\n- You open a ranked list. The top candidates are already sorted to the top.\nThe only one-way video interview software made for small businesses\nHiring software for small business: screen without scheduling, see who you hire, use 100+ pre-built tests,",
+      "id": "0cc44f5c-3e43-4520-a1e6-4b87df14f874",
+      "name": "OpenPaw",
+      "url": "https://github.com/sucxay/OpenPaw",
+      "oneLiner": "A lightweight, modular, terminal-based AI coding assistant, in the spirit of Claude Code, Gemini CLI, and Aider — built to work against any OpenAI-compatible API endpoint, includin",
+      "description": "A lightweight, modular, terminal-based AI coding assistant, in the spirit of Claude Code, Gemini CLI, and Aider — built to work against any OpenAI-compatible API endpoint, including a locally-running FreeLLMAPI server.\nStatus: Phase 1. Core CLI, interactive chat, configuration management, model listing/switching, and history are fully implemented. Project review/fix,\nexplain\n,generate-readme\n,comm",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -334,41 +337,57 @@
       "categories": [
         "code",
         "design",
-        "video"
+        "agents"
       ]
     },
     {
-      "id": "11057c8e-b1db-44fc-b6e4-09853ee23cf1",
-      "name": "Evidence Graph",
-      "url": "https://github.com/samchon/lint-plugin-evidence",
-      "oneLiner": "The evidence graph for the AI coding era: the guardrail for goal mode.",
-      "description": "The evidence graph for the AI coding era: the guardrail for goal mode.\nYour spec is now a compile error.\nWhen Claude Code or Codex works unattended, it can skip a requirement and still report \"done.\" Evidence Graph makes every configured requirement demand an explicit acknowledgement from the code, test, or document that claims to satisfy it.\nEvery acknowledgement names the exact target and states",
+      "id": "84952169-92bd-4ae7-a4c8-c632deceb123",
+      "name": "'AI Mania Is Eviscerating Global Decision-Making'",
+      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+      "oneLiner": "WorkOS MCP: Manage your auth platform from any AI agent.",
+      "description": "By John Gruber\nWorkOS MCP: Manage your auth platform from any AI agent.\nFascinating essay by Nikhil Suresh:\nOn a trip overseas, I had the privilege of a meeting with one of the Fortune 500 executives mentioned at the beginning of the post, who will remain anonymous so that they are not executed by firing squad by their board. As we were chatting, it became clear that they were very switched-on and",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "agents",
-        "voice"
+        "writing",
+        "productivity"
       ]
     },
     {
-      "id": "0090c905-b8fd-4894-9a4a-8422b2ed3e60",
-      "name": "Fractal",
-      "url": "https://github.com/plasma-ai/fractal",
-      "oneLiner": "Hierarchical agent loops with recursive self-organization.",
-      "description": "Hierarchical agent loops with recursive self-organization.\nIn a fractal, autonomous agent loops arrange themselves into a tree: a node\niterates toward a goal in its own git worktree\nand spawns child nodes for\nseparable subtasks, so the tree grows to fit the problem rather than a fixed\nplan. Hard caps (iterations, depth, children, cost, time) keep each loop\nbounded, and an operator can steer or sto",
+      "id": "08864f43-1055-4116-abf0-9d0129800fb7",
+      "name": "ScreenFocus",
+      "url": "https://github.com/therohitdas/ScreenFocus",
+      "oneLiner": "A small native macOS utility that keeps keyboard focus aligned with the display containing your pointer.",
+      "description": "A small native macOS utility that keeps keyboard focus aligned with the display containing your pointer.\nRohit Das · macOS 14+ · Apple Silicon and Intel · SwiftUI + AppKit · No analytics\nScreenFocus lives in the menu bar. When your pointer crosses to another display, it immediately highlights that display and moves keyboard focus to the window under the pointer—without requiring a click.\nIf there ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/plasma-ai/fractal",
+      "githubUrl": "https://github.com/therohitdas/ScreenFocus.git",
       "categories": [
         "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "ad97c01b-35c5-4be6-8983-8ff590103dbd",
+      "name": "Axtary",
+      "url": "https://axtary.com",
+      "oneLiner": "Axtary checks the exact diff, message, query, or tool payload before a connector executes.",
+      "description": "Content\nauthorization\nfor AI agents.\nAxtary checks the exact diff, message, query, or tool payload before a connector executes. Routine actions follow policy; higher-risk actions require approval of that exact payload.\nIf an agent is mistaken or compromised, its authority remains limited to the approved action. Every attempt is recorded.\nTokens authorize channels. Axtary authorizes content.\nAxtary",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "writing",
         "agents",
-        "data"
+        "security"
       ]
     }
   ]
