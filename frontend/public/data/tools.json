@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-07-28T08:35:00.645034+00:00",
-  "count": 18,
+  "generatedAt": "2026-07-29T08:41:45.290502+00:00",
+  "count": 19,
   "tools": [
     {
-      "id": "1a2576bc-07da-4b06-b9e3-14c88ec32748",
+      "id": "24141ab4-e38a-4a07-bedf-89fcb7a9d656",
+      "name": "NIGHTRUN",
+      "url": "https://github.com/hardrave/NIGHTRUN",
+      "oneLiner": "A local LLM runtime that boots from USB and runs without a conventional operating system.",
+      "description": "A local LLM runtime that boots from USB and runs without a conventional operating system.\nReal boot, one cut: loading and prefill sped up, generation at actual speed (Llama 3.2 1B, QEMU/KVM, 8 cores).\nThis is weird software. It boots straight into an LLM.\nThere is no Linux userspace hiding underneath. Your machine's firmware starts NightRun directly, NightRun copies a quantized model into RAM, dra",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/hardrave/NIGHTRUN.git",
+      "categories": [
+        "code",
+        "image",
+        "rag"
+      ]
+    },
+    {
+      "id": "fe38c922-86c1-41e1-bdb2-c5c611de4423",
       "name": "watermark-remover-ai",
       "url": "https://github.com/nihannihu/watermark-remover-ai",
       "oneLiner": "Developed by Mohammed Nihan | contact@nihu.",
@@ -14,13 +31,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/nihannihu/watermark-remover-ai",
       "categories": [
-        "design",
         "code",
+        "design",
         "image"
       ]
     },
     {
-      "id": "3bc56bfa-bcb6-4576-9d78-c7d8c6d6cb9d",
+      "id": "62cba96b-78f2-4f54-8087-58e3da38d46a",
       "name": "awesome-ai-handbook",
       "url": "https://github.com/bestdeejay-design/awesome-ai-handbook",
       "oneLiner": "A practical guide to AI: from running your first local model to building your own agents.",
@@ -31,29 +48,64 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "agents"
       ]
     },
     {
-      "id": "774b86a5-49cd-409b-8791-2c6532b35020",
-      "name": "nyamuru-manga-name-studio",
-      "url": "https://github.com/sa-san10/nyamuru-manga-name-studio",
-      "oneLiner": "English: Nyamuru🐱 Manga Name Studio is an open-source PWA for creating and editing manga names — the Japanese term for manga storyboards / rough drafts (not \"names\" as in labels).",
-      "description": "English: Nyamuru🐱 Manga Name Studio is an open-source PWA for creating and editing manga names — the Japanese term for manga storyboards / rough drafts (not \"names\" as in labels).\n- Storyboards are written in Open Manga Name YAML (OMNY), a YAML representation of the Nyamuru Data Model (NDM).\n- You edit them through a paper-style page preview and structured forms.\n- Try it in your browser on GitHub",
+      "id": "f6bc8749-f0ea-41e0-a57c-a564e15a1b2d",
+      "name": "DevRadar",
+      "url": "https://github.com/bagusardin25/DevRadar",
+      "oneLiner": "Open-source developer opportunity intelligence — online hackathons & free AI offers, with multi-tier verification.",
+      "description": "Open-source developer opportunity intelligence — online hackathons & free AI offers, with multi-tier verification.\nDevRadar aggregates hackathons / challenges and AI free tiers / credits / promos, then tries to verify them against official pages when possible.\nThis is not a claim of perfect accuracy. Listings carry verification status (verified_active\n, likely_active\n, registration_closed\n, …) and",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/bagusardin25/DevRadar.git",
       "categories": [
-        "design",
-        "data"
+        "code",
+        "data",
+        "security"
       ]
     },
     {
-      "id": "a2165ba2-1182-4ee4-9186-be1621e4651d",
+      "id": "c2901890-89c0-4f0e-b319-2d55266fa3ba",
+      "name": "stil-ai-playground",
+      "url": "https://github.com/cedendahlkim/stil-ai-playground",
+      "oneLiner": "Describe a garment in plain language, get a professional design concept in seconds.",
+      "description": "Text-to-fashion-design AI. Describe a garment in plain language, get a professional design concept in seconds. Built with Azure OpenAI's image generation and Stripe for payments.\nBrowser (text input)\n│\n▼\nPOST /api/generate-outfit ── FastAPI (Python, port 3081)\n│\n├──► Azure OpenAI (gpt-image-2) ── image generation\n├──► Stripe API ── product + payment link\n│\n▼\n{ image_url, design_id, purchase_url, p",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/cedendahlkim/stil-ai-playground.git",
+      "categories": [
+        "code",
+        "design",
+        "image"
+      ]
+    },
+    {
+      "id": "6b96f178-f796-4788-8d28-73c786ee3644",
+      "name": "aster",
+      "url": "https://github.com/Zfinix/aster",
+      "oneLiner": "An open-source agent harness for software work.",
+      "description": "An open-source agent harness for software work.\nSelf-hostable, bring-your-own-model agents with controlled tools, durable context, and verification-first capabilities.\nBuilt by Instalog.\nStatus: early, building in the open. The agent runtime, chat, memory, skills, policy layer, and first verification capability have landed. See docs/.\nAster is the operating layer for agents that work in a codebase",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/zfinix/aster",
+      "categories": [
+        "code",
+        "design",
+        "productivity"
+      ]
+    },
+    {
+      "id": "aea7e594-f7b5-4a95-a09d-c96499f22373",
       "name": "free-llm-router",
       "url": "https://github.com/Pr0fess0rOP/free-llm-router",
       "oneLiner": "Bring your own LLM API keys and route OpenAI Chat Completions, OpenAI Responses/Codex, and Claude Code through one gateway with a beautiful, self-hosted dashboard.",
@@ -64,13 +116,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/your-username/free-llm-router.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "security"
       ]
     },
     {
-      "id": "f7b146dc-72e8-4d4f-9030-fe24d938de3b",
+      "id": "b993a994-b714-465f-b5ac-a071df6be636",
       "name": "deer-workflow",
       "url": "https://github.com/deerwork-ai/deer-workflow",
       "oneLiner": "An open-source Dynamic Workflow runtime for building observable, reusable Agent graphs.",
@@ -87,7 +139,7 @@
       ]
     },
     {
-      "id": "e1b761e2-3f65-4ab4-acca-b2c9c5b514f4",
+      "id": "b6840e25-a126-421b-be9d-e2ec83ff1171",
       "name": "approving",
       "url": "https://github.com/cocofhu/approving",
       "oneLiner": "Agent workflows that advance with humans — a new paradigm for multi-agent collaboration.",
@@ -98,13 +150,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/cocofhu/approving.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "security"
       ]
     },
     {
-      "id": "0502b9f0-801e-43e9-99c3-cdf4037c33ab",
+      "id": "27120f83-12e9-40b5-ac3d-2a6fb969b074",
       "name": "codian",
       "url": "https://github.com/BCS1037/codian",
       "oneLiner": "Codian is a multi-provider AI agent workspace for Obsidian.",
@@ -121,28 +173,11 @@
       ]
     },
     {
-      "id": "36a858b3-4bee-47b8-ae7f-58f76cd39740",
-      "name": "habibi",
-      "url": "https://github.com/moaljumaa/habibi",
-      "oneLiner": "Open-source, self-hosted tracking for how your brand shows up in AI answers — a free alternative to Peec AI, Promptwatch, and MentionDesk.",
-      "description": "Open-source, self-hosted tracking for how your brand shows up in AI answers — a free alternative to Peec AI, Promptwatch, and MentionDesk.\nEveryone's asking the same thing in the AEO/GEO communities: how do I track LLM citations without paying $90–500/mo for tools that mostly run a cron job and an API call? The paid tools aren't magic — the core loop is:\na set of prompts × a set of engines, run da",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "975a36be-76d4-4f57-9c74-475805cdce42",
-      "name": "Three certificates",
-      "url": "https://www.certpost.ai/blog/three-certificates-three-lost-launch-days",
-      "oneLiner": "This is a postmortem I cannot fully write, and that is the point.",
-      "description": "This is a postmortem I cannot fully write, and that is the point. It happened in the early days of Hypersend, a previous product of mine, before I monitored anything. I have no logs, no screenshots, and no timeline. What I have is the memory of losing three launch days to SSL certificates, and enough scar tissue to reconstruct how.\nHere is what I know for certain. It was launch week. Depending on ",
+      "id": "77d1a8e5-af77-492e-80b2-e9c656f3f64f",
+      "name": "Antics",
+      "url": "https://antics.gg/",
+      "oneLiner": "Silly multiplayer games to play with friends.",
+      "description": "NEW GAMES EVERY DAY · 2 MINUTES EACH · NO DIGNITY\nSilly multiplayer games to play with friends. Or make your own.\nI want to play\nFun games you've never heard of, new ones every day. 2mn to learn, and the group chat is yelling by round three.\n37 LANDED THIS WEEK. NOBODY ASKED FOR ANY OF THEM.\nPick a game →I want to make one\nSay the idea out loud, an AI writes every line — that's vibecodingvibecodin",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -150,32 +185,16 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "security"
-      ]
-    },
-    {
-      "id": "0ebbf217-dee1-4ef5-8eba-ecc2badd78ae",
-      "name": "Krate",
-      "url": "https://github.com/incyashraj/krate",
-      "oneLiner": "Share them like documents.",
-      "description": "Make apps with AI. Share them like documents.\nOne app file that opens on Mac, Windows, and Linux.\nThe user sees what it wants to access before it runs.\nWebsite · Try Notes · Make an app · Docs · Releases · Discussions\nAI can make useful small apps for one person or one team. Sharing those apps is still hard.\nA browser link cannot handle every local use case. A normal desktop app can, but it is tie",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/incyashraj/krate",
-      "categories": [
         "design",
-        "code",
-        "security"
+        "agents"
       ]
     },
     {
-      "id": "cfce0e16-0c92-4c10-859a-911bc61c429b",
-      "name": "_done",
-      "url": "https://underscoredone.com/",
-      "oneLiner": "Real-world tasks your agent can't do alone.",
-      "description": "Actions for AI. Real-world tasks your agent can't do alone.\nPay per use - no accounts. no logins. no keys.\nLook up the network operator, country, and address block behind any IP address or ASN number.\nGiven an internet address (IP) or a network identification number (ASN), this tool returns who operates that piece of the internet: the network number, the owner's name, the country it's registered i",
+      "id": "e48c2b28-1a0e-4b87-b2f4-6a7272cb3604",
+      "name": "Self-hosted AI gateway",
+      "url": "https://github.com/ilter-ai/ilter",
+      "oneLiner": "Deploying AI models to production brings critical operational challenges such as unpredictable costs, data privacy risks, and API outages.",
+      "description": "Deploying AI models to production brings critical operational challenges such as unpredictable costs, data privacy risks, and API outages. ILTER is an independent gateway that sits between your application and AI providers; transforming your entire AI traffic into a secure, optimized, and fully controlled infrastructure without requiring any architectural changes in your code.\n- 🧩 MCP Gateway & Ma",
       "pricing": "paid",
       "country": null,
       "quality": 25,
@@ -183,16 +202,16 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "marketing",
-        "agents"
+        "data",
+        "security"
       ]
     },
     {
-      "id": "ffeb0a92-f72e-413f-9c12-a0b98bb24aee",
-      "name": "PromptTrace",
-      "url": "https://prompttrace.airedlab.com",
-      "oneLiner": "Learn prompt injection through hands-on labs.",
-      "description": "FREE AI SECURITY TRAINING\nLearn prompt injection through hands-on labs.\nMaster LLM security through prompt injection, AI red teaming, RAG poisoning, and tool exploitation with real LLMs. Free, no experience required.\nUsed by security professionals from\n766 Learners · 52 Countries · 3,905 Challenges solved\nHow Does PromptTrace Work?\nSee\nInspect the assembled prompt layers with Context Trace: system",
+      "id": "bd502e72-96f9-460d-ac73-a484430f1963",
+      "name": "I run 30B 22tok/s",
+      "url": "https://github.com/FedericoTs/quantprobe",
+      "oneLiner": "Predicts how fast an LLM will run on your machine — before you download it — then hands you the exact llama.",
+      "description": "Predicts how fast an LLM will run on your machine — before you download it — then hands you the exact llama.cpp command. If nothing fits well enough, it builds a quantization tuned to your specific model and hardware.\nQuickstart · Browser version · Commands · The laws · When it won't help\npip install quantprobe\nquantprobe plan --model qwen3-30b\n[quantprobe] no hardware flags: auto-detected this ma",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -200,12 +219,62 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "rag",
-        "writing"
+        "design",
+        "rag"
       ]
     },
     {
-      "id": "702fbcc6-1fb6-4c53-86b4-b08130976f27",
+      "id": "9d68be4a-d1b9-47db-b1af-2c3cb9a9bc43",
+      "name": "MetrIQ",
+      "url": "https://metriq.fitness",
+      "oneLiner": "metrIQ is Sophia — a coach you talk to.",
+      "description": "metrIQ is Sophia — a coach you talk to. Tell her what you ate or how training went; she handles the targets, follows the trend, and sticks with you through the weeks that go sideways. All you have to do is show up.\n“I don't just count your calories. I pay attention — to your goal, your week, the days it gets hard — and I actually coach you through it.”\nShare what you're working toward. Sophia buil",
+      "pricing": "free_trial",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "37caf32b-25a2-4ddf-8f92-17e56547cb04",
+      "name": "Our Approach to Responsible Agentic Development in Open Source",
+      "url": "https://www.puppet.com/blog/ai-open-source",
+      "oneLiner": "The tech world has been building up towards the shift to a fully agentic development life cycle for a few years now.",
+      "description": "Blog\nJuly 24, 2026\nBuilding with AI: Our Approach to Responsible Agentic Development in Open Source\nCommunity & Open Source\nThe tech world has been building up towards the shift to a fully agentic development life cycle for a few years now. AI is changing how software gets built.\nAcross the Puppet ecosystem, we’re seeing a shift toward more agentic engineering workflows. AI helps generate code, sh",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "84b0acd0-5519-4de4-80da-800ca6cb1839",
+      "name": "AiTextToHandwriting]",
+      "url": "https://aitexttohandwriting.com/",
+      "oneLiner": "Typed study notes converted into handwritten pages on lined paper.",
+      "description": "Example: Study notes converted to handwriting\nTyped study notes converted into handwritten pages on lined paper.\nType or paste your text, choose a handwriting font and paper style, adjust the layout, and export handwritten pages as PDF or PNG.\nQuick guide: paste your text, choose a handwriting font and paper style, adjust the settings, then click Generate.\nClick Generate to preview your handwritte",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "writing",
+        "image"
+      ]
+    },
+    {
+      "id": "ed2229d6-9e01-48e9-895f-05d61f187c85",
       "name": "Drift",
       "url": "https://github.com/kylepelham/Drift",
       "oneLiner": "A focused Windows desktop for coding with AI agents.",
@@ -217,12 +286,12 @@
       "githubUrl": "https://github.com/kylepelham/Drift.git",
       "categories": [
         "code",
-        "agents",
-        "data"
+        "data",
+        "agents"
       ]
     },
     {
-      "id": "f5f226fb-1ad2-4846-9ce4-0fb8179f7eee",
+      "id": "45d28b38-5ac1-4669-afbc-a7b381f7dac4",
       "name": "neocursor.nvim",
       "url": "https://github.com/teocns/neocursor.nvim",
       "oneLiner": "Cursor's Tab — the real next-edit model — inside Neovim.",
@@ -233,28 +302,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/teocns/neocursor.nvim",
       "categories": [
-        "design",
         "code",
-        "data"
+        "data",
+        "design"
       ]
     },
     {
-      "id": "44ade0b9-7043-431c-8ef9-bbabb3fa9521",
-      "name": "handoff-skill",
-      "url": "https://github.com/ToolMonsters/handoff-skill",
-      "oneLiner": "A Claude skill that generates a complete handoff document of your current conversation, so another LLM (ChatGPT, a fresh Claude session, Gemini, anything) can pick up exactly where",
-      "description": "A Claude skill that generates a complete handoff document of your current conversation, so another LLM (ChatGPT, a fresh Claude session, Gemini, anything) can pick up exactly where this one left off.\nHitting the context limit mid-task is the worst moment to lose your work. This skill turns the whole session into one portable markdown document: the goal, every decision made, the exact current draft",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ToolMonsters/handoff-skill",
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "15b4468a-4844-49f3-b465-cfcfd9cc9ae3",
+      "id": "53554a0d-6464-4d7c-b7e7-671b3336a298",
       "name": "korugan",
       "url": "https://github.com/behramkendra/korugan",
       "oneLiner": "Korugan (Turkish): a hardened bunker guarding a frontier — from the root koru-, \"to protect.",
@@ -265,43 +319,9 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/behramkendra/korugan.git",
       "categories": [
-        "design",
         "code",
-        "data"
-      ]
-    },
-    {
-      "id": "60ff9d70-72f0-441e-8794-cc60bfc1098a",
-      "name": "OpsCat",
-      "url": "https://github.com/sumant1122/opscat",
-      "oneLiner": "Auto-discover microservices, visualize software architecture graphs, enforce compliance scorecards, and expose your catalog natively to AI coding agents.",
-      "description": "The Zero-Config, Single-Binary Software Catalog & MCP Platform Engine\nAuto-discover microservices, visualize software architecture graphs, enforce compliance scorecards, and expose your catalog natively to AI coding agents.\nLegacy developer portals (like Backstage) are notoriously heavy, requiring weeks of boilerplate TypeScript setup, complex yarn monorepos, and high memory footprints (>1GB RAM).",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/opscat/opscat.git",
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "7c8c78c4-ff09-42b9-822b-7fc10ca900a7",
-      "name": "AI Usage",
-      "url": "https://github.com/burakgon/ai-usage-menubar",
-      "oneLiner": "Claude Code and Codex limits, one click away.",
-      "description": "Claude Code and Codex limits, one click away.\nNative Liquid Glass. Measured at 0.0% CPU between scheduled refreshes.\nA real native menu bar popover — no Dock icon or persistent window.\nAI Usage shows the limits that matter and stays out of the way. No extra account, API key, local server, telemetry, usage history, or background log scanning.\nOpen the DMG, drag AI Usage to Applications, and launch ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/burakgon/ai-usage-menubar.git",
-      "categories": [
-        "design",
-        "code",
-        "security"
+        "data",
+        "design"
       ]
     }
   ]
