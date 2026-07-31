@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-30T08:27:48.094946+00:00",
-  "count": 17,
+  "generatedAt": "2026-07-31T08:50:32.008530+00:00",
+  "count": 15,
   "tools": [
     {
-      "id": "e7e58197-48a6-4746-8e2c-0e12d0590c14",
+      "id": "3149b3f7-9b22-446c-9b21-9d729059b9d0",
       "name": "llm-system-design",
       "url": "https://github.com/lamhotsiagian/llm-system-design",
       "oneLiner": "): A minimal, production-shaped LLM serving + RAG reference platform built in pure Python with zero heavy framework dependencies.",
@@ -14,13 +14,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "design",
+        "agents",
         "rag"
       ]
     },
     {
-      "id": "46ba865e-0bd7-4947-bc31-b970ac3f59a8",
+      "id": "9db07693-d771-405d-9b11-d3b5e89a3443",
       "name": "NIGHTRUN",
       "url": "https://github.com/hardrave/NIGHTRUN",
       "oneLiner": "A local LLM runtime that boots from USB and runs without a conventional operating system.",
@@ -37,24 +37,24 @@
       ]
     },
     {
-      "id": "f4a66e2f-2e1c-4327-b773-136f177f879d",
-      "name": "watermark-remover-ai",
-      "url": "https://github.com/nihannihu/watermark-remover-ai",
-      "oneLiner": "Developed by Mohammed Nihan | contact@nihu.",
-      "description": "Developed by Mohammed Nihan | contact@nihu.in Free & Unlimited AI-Powered Video and Image Watermark Remover Tool\n🇬🇧 English | 🇫🇷 Français | 🇨🇳 中文 | 🇯🇵 日本語 | 🇧🇷 Português | 🧠 Brainrot\nWatermarkRemover-AI\nis a 100% free, unlimited, and offline application that leverages AI models for precise watermark detection and seamless removal. Perfect for removing watermarks, logos, and text from AI-generated ",
-      "pricing": "free",
+      "id": "7be3d4e7-9c10-4446-86de-fcfa85630dd7",
+      "name": "OpenBcon",
+      "url": "https://github.com/adm73/OpenBcon",
+      "oneLiner": "Commercial licensing available for private deployments, closed-source modifications, white-label/OEM distribution, implementation services, and ongoing support.",
+      "description": "The Open Source AI Platform for Funding & Business Consultants\nOpenBcon helps consultants, advisors, incubators, and funding teams run the full workflow in one place:\n- discover funding programs\n- assess business readiness\n- manage company and client records\n- generate funding-ready business plans\n- organize applications, templates, resources, and reports\nCommunity edition:\nAGPL-3.0-or-later\nComme",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/nihannihu/watermark-remover-ai",
+      "githubUrl": null,
       "categories": [
-        "code",
         "design",
-        "image"
+        "data",
+        "writing"
       ]
     },
     {
-      "id": "267e5173-13bd-481b-86f0-2c71d7ed88de",
+      "id": "713434eb-ad55-4ca6-8d19-20554877f06c",
       "name": "deer-workflow",
       "url": "https://github.com/deerwork-ai/deer-workflow",
       "oneLiner": "An open-source Dynamic Workflow runtime for building observable, reusable Agent graphs.",
@@ -71,80 +71,29 @@
       ]
     },
     {
-      "id": "72a25692-63c1-4291-b447-8a13852a2b11",
-      "name": "aster",
-      "url": "https://github.com/Zfinix/aster",
-      "oneLiner": "An open-source agent harness for software work.",
-      "description": "An open-source agent harness for software work.\nSelf-hostable, bring-your-own-model agents with controlled tools, durable context, and verification-first capabilities.\nStatus: early, building in the open. The agent runtime, chat, memory, skills, policy layer, and first verification capability have landed. See docs/.\nAster is the operating layer for agents that work in a codebase. It combines a mod",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/zfinix/aster",
-      "categories": [
-        "code",
-        "design",
-        "productivity"
-      ]
-    },
-    {
-      "id": "7aa47436-8535-4674-bccb-edb4048f7649",
-      "name": "approving",
-      "url": "https://github.com/cocofhu/approving",
-      "oneLiner": "Agent workflows that advance with humans — a new paradigm for multi-agent collaboration.",
-      "description": "Agent workflows that advance with humans — a new paradigm for multi-agent collaboration.\nApproving is an open-source, self-hostable platform for turning coding agents into visual, reviewable, and recoverable delivery workflows. Agents run in real Docker sandboxes, exchange structured artifacts, and pause for human Approve at critical nodes.\nWebsite · Quick start · Contributing · Configuration · Ga",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/cocofhu/approving.git",
-      "categories": [
-        "code",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "57017c99-31ee-45d2-bf11-1ff9c8c37cda",
-      "name": "I Have Thoughts on the iPhone Air",
-      "url": "https://christianselig.com/2026/07/iphone-air-review/",
-      "oneLiner": "Hard to believe, but it’s been over 9 months since the current crop of iPhones came out, and I elected to grab the (apparently not super popular) iPhone Air, a new model of iPhone ",
-      "description": "I have thoughts on the iPhone Air\nJuly 7, 2026\nHard to believe, but it’s been over 9 months since the current crop of iPhones came out, and I elected to grab the (apparently not super popular) iPhone Air, a new model of iPhone introduced for the first time. Rumor season for the new iPhones is in full swing, so it seemed like a good time to jot down my thoughts on the current model.\nImmediately, it",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "audio"
-      ]
-    },
-    {
-      "id": "10c7201f-68e3-4320-bde2-f298e80a52ce",
-      "name": "A pharmacy chain in Vermont implemented AI for efficiency",
-      "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
-      "oneLiner": "In voicemails, spam folders and text messages across Vermont, an artificial intelligence tool is filing through years of pharmaceutical records, incoherently listing drugs and requ",
-      "description": "In voicemails, spam folders and text messages across Vermont, an artificial intelligence tool is filing through years of pharmaceutical records, incoherently listing drugs and requesting the wrong refills on sensitive medication.\nAnd customers often have no idea they agreed to it.\n“He calls you all the time, and he doesn’t say what the drug is,” said Kathy Callaghan, a Vermont customer of Kinney D",
+      "id": "c9fb4123-6514-4b44-be96-fd284ac9793f",
+      "name": "Dissecting the automation of a newspaper (Claude routine",
+      "url": "https://github.com/Lywald/zfrontpage/",
+      "oneLiner": "The Mouthpiece of Artificial Reason.",
+      "description": "The Mouthpiece of Artificial Reason.\nRead today's edition: https://lywald.github.io/zfrontpage/\nA daily broadsheet front page written, curated, argued and typeset entirely by an artificial intelligence — from real, same-day reporting it finds by searching the web. Not a feed. One page, one argument per day, one thing taught.\nmaster-prompt.md\n— the paper's constitution: charter, editorial process, ",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "security",
+        "design",
+        "productivity",
         "research"
       ]
     },
     {
-      "id": "7478e3bd-bf46-46b9-9f25-b9ce3af890d6",
-      "name": "Microsoft keeps capex unchanged",
-      "url": "https://www.businessinsider.com/microsoft-ai-capex-unchanged-data-centers-spending-tech-giants-2026-7",
-      "oneLiner": "Microsoft kept its capex forecast unchanged on Wednesday, becoming one of the first data center giants to hold the line on the industry's runaway AI spending spree.",
-      "description": "Microsoft kept its capex forecast unchanged on Wednesday, becoming one of the first data center giants to hold the line on the industry's runaway AI spending spree.\nThe stock surged about 8% on the news.\nEarlier this year, the company said it planned to spend $190 billion on capital expenditures this calendar year.\nOn Wednesday's earnings call, Microsoft kept this spending forecast steady. Due to ",
-      "pricing": "paid",
+      "id": "ce3b655f-fc42-4ae7-9030-ef649581e502",
+      "name": "Slaide",
+      "url": "https://getslaide.com/",
+      "oneLiner": "A slide language AI can actually write.",
+      "description": "Presentations,\nhanded to AI\nthe right way.\nA slide language AI can actually write. One plain-text .slaide\nfile becomes a polished web deck, a print-ready PDF, and editable PowerPoint - from the same source.\nYour model just needed\na better format.\nYou never needed a smarter model - AI already writes a great deck; the intelligence was never the bottleneck. The format is. Ask a model for a deck and i",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
@@ -152,11 +101,62 @@
       "categories": [
         "code",
         "design",
-        "data"
+        "video"
       ]
     },
     {
-      "id": "32be642b-371b-40e6-979d-97da6e4881cb",
+      "id": "834b0d0e-d193-43d0-9b53-c54a647dbc9d",
+      "name": "DMARC.quest SPF/DKIM/DMARC Demystified",
+      "url": "https://www.dmarc.quest",
+      "oneLiner": "the keys to your kingdom.",
+      "description": "Your domain name is\nthe keys to your kingdom.\nYou registered your name for a reason. So, two things worth knowing: anyone on the internet can send email signed with it — and whether your own messages reach inboxes or rot in spam folders depends on proving they're really yours. We'll read your records, explain them in plain English, and tell you exactly what to fix.\nTwo reasons to care,\neven if you",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "voice"
+      ]
+    },
+    {
+      "id": "0127749e-9943-430f-8522-a8dadbc5d030",
+      "name": "Prizm",
+      "url": "https://www.prizmkey.com",
+      "oneLiner": "Generate video, images, and voice from the best models — Veo, Kling, Nano Banana, ElevenLabs and more — on a simple prepaid balance.",
+      "description": "One key. Every model.\nVideo, images & voice.\nGenerate video, images, and voice from the best models — Veo, Kling, Nano Banana, ElevenLabs and more — on a simple prepaid balance. No subscriptions.\nWhy Prizm\nEverything you need for AI media generation, zero complexity.\nVeo 3, Kling, Seedance, Nano Banana, FLUX, ElevenLabs — no separate accounts, no per-provider API keys. Just one key.\nLoad your wall",
+      "pricing": "free_trial",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "voice",
+        "image"
+      ]
+    },
+    {
+      "id": "9e182d31-294c-4f9c-b42c-26896e7a381b",
+      "name": "Reclip",
+      "url": "https://www.reclip.io",
+      "oneLiner": "AI-powered tools to generate videos, create voiceovers, and more.",
+      "description": "Trusted by creators publishing to\nEverything you need to create\nviral content\nAI-powered tools to generate videos, create voiceovers, and more.\nAI Video Generator\nGenerate watermark-free videos from text or images with Google Omni, Veo 3.1 Fast, Kling 3.0, Grok Imagine, and Seedance 2.\nTry now →AI Ad Generator\nCreate AI video ads from a product image, an optional avatar, and your creative directio",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "voice",
+        "video"
+      ]
+    },
+    {
+      "id": "537366e1-4585-48a1-9791-7a03848dde7d",
       "name": "CozyClay",
       "url": "https://github.com/HaD0Yun/CozyClay",
       "oneLiner": "Direct Blender with an AI agent from your terminal.",
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "id": "b9ca1016-d28f-43d0-b998-3d36dec4e5f1",
+      "id": "4d03603b-ff3d-4d4a-a8fc-71c6bd8f4e25",
       "name": "ywcrew",
       "url": "https://github.com/yuwen-cool/ywcrew",
       "oneLiner": "\"evidence\": [{ \"file\": \"src/core/lock.",
@@ -185,33 +185,16 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "a23318ed-cf02-4657-92fa-1f4a007c6b31",
-      "name": "neocursor.nvim",
-      "url": "https://github.com/teocns/neocursor.nvim",
-      "oneLiner": "Cursor's Tab — the real next-edit model — inside Neovim.",
-      "description": "Cursor's Tab — the real next-edit model — inside Neovim.\nTyped def is_prime(n):\n— Cursor predicted the whole body.\n<Tab>\naccepts · <Tab>\nagain jumps to the next edit.\nNo API key. No model to choose. No account to create. If you're already signed\ninto Cursor, there is nothing else to set up — neocursor drives Cursor's own\nStreamCpp\nbackend with your existing login, so you get the same predictions,\n",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/teocns/neocursor.nvim",
-      "categories": [
-        "code",
         "design",
-        "marketing"
+        "agents"
       ]
     },
     {
-      "id": "4c19a3e1-179b-4ed9-81eb-4d15779379aa",
-      "name": "TalkWithMe",
-      "url": "https://github.com/scorbo2/TalkWithMe",
-      "oneLiner": "A local single-user chat web application that connects to a locally running llama.",
-      "description": "A local single-user chat web application that connects to a locally running llama.cpp server and supports multi-persona group chats with optional TTS playback.\nAs seen on YouTube!: https://www.youtube.com/watch?v=1VPydYNt4R8\n- Chat with one or more AI personas in a simulated group chat\n- Smart persona routing: let the LLM decide, pick randomly, or choose manually\n- Streaming responses rendered inc",
+      "id": "253a13ce-6ad3-482e-80a9-284237953e3b",
+      "name": "nurb",
+      "url": "https://github.com/Shpigford/nurb",
+      "oneLiner": "Agentic CAD for 3D printing.",
+      "description": "Agentic CAD for 3D printing. The user is a language model: your agent writes parts as Python functions, nurb builds them into real solids, checks them against print physics, and shows you the result live. You judge, drag sliders, download the STL.\ncurl -fsSL https://nurb.dev/install.sh | sh\nOne line, installs everything below: uv if you don't have it, nurb, and the skill. Prefer your own package m",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -220,32 +203,32 @@
       "categories": [
         "code",
         "design",
-        "voice"
+        "agents"
       ]
     },
     {
-      "id": "2f732d98-5fdc-4e6f-ae03-302e50c1b26a",
-      "name": "Drift",
-      "url": "https://github.com/kylepelham/Drift",
-      "oneLiner": "A focused Windows desktop for coding with AI agents.",
-      "description": "A focused Windows desktop for coding with AI agents.\nOpen your projects, keep long-running threads close, and let Drift manage the engine.\nInstall | Features | Development | Documentation\nDrift packages the OpenCode agent engine as a managed sidecar and gives it a native-feeling desktop home. One app handles the engine lifecycle, project navigation, persistent thread metadata, updates, and Windows",
+      "id": "c138468c-d4da-47e9-83c3-5682069a6d7c",
+      "name": "ZenResume",
+      "url": "https://www.zenresume.online/",
+      "oneLiner": "Build a recruiter-approved professional resume.",
+      "description": "Create an ATS-Friendly Resume in 5 Minutes\nBuild a recruiter-approved professional resume. Your details stay 100% private in your browser local cache—never saved to a server database.\nWhy Build With ZenResume?\nMagic AI Import\nUpload a messy resume PDF or copy-paste raw text. Our integrated Gemini AI automatically parses and pre-fills your layout fields in seconds.\n100% Data Privacy\nNo account sign",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/kylepelham/Drift.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
         "code",
-        "agents",
+        "design",
         "data"
       ]
     },
     {
-      "id": "a0a49acc-3c79-49ee-957a-a28bc0219ea9",
-      "name": "An AI Color Grader",
-      "url": "https://www.perbhat.com/pico",
-      "oneLiner": "Pico is a Claude harness for color correction.",
-      "description": "Pico\nPico is a Claude harness for color correction.\nInstead of empowering creators to realize their visions, most AI tools focus on automating production end-to-end.\nThe creative act is not something to be automated away. It is a moment of expression, where artists move from an idea in their heads to a story on a screen. Instead of automating away their agency, we should build tools to empower cre",
+      "id": "fd29fc2b-28d8-4384-bc9e-35631533d1e7",
+      "name": "[Target",
+      "url": "https://TargetCalamity.org",
+      "oneLiner": "This page is an interactive 3D globe and needs JavaScript and WebGL to run.",
+      "description": "Target: Calamity\nThis page is an interactive 3D globe and needs JavaScript and WebGL to run. What follows\nis a description of what it shows.\nWhat this is\nA map of the forces pushing the world toward crisis, and the ones pushing back. Every part\nof the globe is tinted by what is happening there: red where the evidence points toward\ndamage, blue where it points toward repair, purple where strong for",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -256,35 +239,20 @@
       ]
     },
     {
-      "id": "67af1e69-ca28-4330-9c7e-ce59374920ca",
-      "name": "Replicant Space",
-      "url": "https://replicant.space/",
-      "oneLiner": "Replicant Space runs in seasons.",
-      "description": "The story so far.\nReplicant Space runs in seasons. Each one has a galaxy-spanning objective with a deadline, and consequences. Season One saw the replicants build the Exodus Ark and fend off asteroids. Now Season Two, the Restoration Cycle, has begun.\n- May 17, 2133 Season One begins Replicants scatter across the galaxy.\n- May–June The Exodus Ark Riker tasks replicants with building a megastructur",
+      "id": "8412afbf-4115-4b91-acb9-8781238d9822",
+      "name": "ResiliReplay",
+      "url": "https://github.com/aliengineering-byte/resilireplay",
+      "oneLiner": "ResiliReplay crash-tests AI agents and MCP servers, replays failures deterministically, and converts broken traces into regression tests.",
+      "description": "ResiliReplay crash-tests AI agents and MCP servers, replays failures deterministically, and converts broken traces into regression tests.\nIt is a model-agnostic, local-first TypeScript toolkit: record versioned events, inject seed-controlled faults, score recovery from declared evidence, and compile the first causal failure into an editable scenario plus an executable Node test. The deterministic ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design"
-      ]
-    },
-    {
-      "id": "5c36384f-c34a-4bbc-bd75-c51ef3ea05f8",
-      "name": "A local merge queue for parallel Claude Code agents",
-      "url": "https://github.com/funador/claude-code-merge-queue",
-      "oneLiner": "The local, zero-cost merge queue for parallel Claude Code agents.",
-      "description": "The local, zero-cost merge queue for parallel Claude Code agents. Several agents land, build, and test at the same time — this serializes it so push races, redundant heavy builds, and shared-resource test flakiness can't happen.\nnpm install --save-dev claude-code-merge-queue # or: pnpm add -D / yarn add -D / bun add -d\nnpx claude-code-merge-queue init\n- ⚙️ Configuration\n- 🆚 vs. GitHub's Merge Queu",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/aliengineering-byte/resilireplay.git",
       "categories": [
         "code",
         "agents",
-        "design"
+        "security"
       ]
     }
   ]
