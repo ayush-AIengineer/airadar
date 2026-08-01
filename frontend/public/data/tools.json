@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-31T08:50:32.008530+00:00",
-  "count": 15,
+  "generatedAt": "2026-08-01T08:21:56.616021+00:00",
+  "count": 13,
   "tools": [
     {
-      "id": "3149b3f7-9b22-446c-9b21-9d729059b9d0",
+      "id": "b1d5a8a4-d053-47e8-b9ed-89d9a40ea89b",
       "name": "llm-system-design",
       "url": "https://github.com/lamhotsiagian/llm-system-design",
       "oneLiner": "): A minimal, production-shaped LLM serving + RAG reference platform built in pure Python with zero heavy framework dependencies.",
@@ -14,13 +14,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "agents",
+        "design",
         "rag"
       ]
     },
     {
-      "id": "9db07693-d771-405d-9b11-d3b5e89a3443",
+      "id": "17ab991c-bcf5-487c-97c5-16570d5580ed",
+      "name": "synapse",
+      "url": "https://github.com/antonygiomarxdev/synapse",
+      "oneLiner": "Distributed inference infrastructure for Mixture-of-Experts models.",
+      "description": "Distributed inference infrastructure for Mixture-of-Experts models.\nMoE models activate only ~2% of their parameters per token. Synapse was built to exploit that — distributing experts across consumer hardware so you can run large models without large hardware.\nMixture-of-Experts models (Kimi K3, DeepSeek-V2, Mixtral, Qwen2.5-MoE) are architecturally designed for distribution: each token activates",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/antonygiomarxdev/synapse.git",
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "d007c622-fbbe-46a0-a2b3-e51dab72b9ad",
       "name": "NIGHTRUN",
       "url": "https://github.com/hardrave/NIGHTRUN",
       "oneLiner": "A local LLM runtime that boots from USB and runs without a conventional operating system.",
@@ -32,12 +49,63 @@
       "githubUrl": "https://github.com/hardrave/NIGHTRUN.git",
       "categories": [
         "code",
-        "image",
+        "rag",
+        "image"
+      ]
+    },
+    {
+      "id": "e473fd44-a8ed-4751-848f-111337fd1400",
+      "name": "relmio",
+      "url": "https://github.com/Demonbane18/relmio",
+      "oneLiner": "Relay a supported ChatGPT/Codex sign-in to OpenAI-compatible clients, starting with self-hosted n8n.",
+      "description": "Relay a supported ChatGPT/Codex sign-in to OpenAI-compatible clients, starting with self-hosted n8n.\nGet started · Hosted ChatGPT site · Report an issue · Leave a star\nBefore setup, this sample n8n configuration shows GPT-5.6 model aliases in the OpenAI Chat Model selector. The exact model list depends on the signed-in ChatGPT account and can change over time.\nCompatibility preview: the model sele",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Demonbane18/relmio.git",
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "40673f27-f3ee-4d39-9eda-1cf4754e86e7",
+      "name": "autoclip",
+      "url": "https://github.com/artbyjazi/autoclip",
+      "oneLiner": "Open-source, local-first AI video clipper.",
+      "description": "Open-source, local-first AI video clipper. Long video in → ranked, caption-burned, speaker-tracked 9:16 clips out.\nPaste a YouTube link or drop a file. AutoClip transcribes it, uses an LLM to find the moments worth clipping, reframes them to vertical while tracking whoever is speaking, burns in animated captions, and exports platform-ready MP4s.\nNo accounts. No uploads to anyone's servers. No wate",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/artbyjazi/autoclip.git",
+      "categories": [
+        "code",
+        "design",
+        "audio"
+      ]
+    },
+    {
+      "id": "d9cefd7d-611f-42da-9508-bb1f74fb7bb1",
+      "name": "PSAO-IJCAI-release",
+      "url": "https://github.com/Commonwealth-Bank-of-Australia/PSAO-IJCAI-release",
+      "oneLiner": "This repository is published by Commonwealth Bank of Australia for research, educational and community purposes only.",
+      "description": "This repository is published by Commonwealth Bank of Australia for research, educational and community purposes only. It is not financial, investment, legal, tax or model-performance advice and must not be relied upon as such. It does not represent the systems, models or controls CBA uses in production, nor any commitment by CBA to adopt or use the content in production.\nThe content is provided “a",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
         "rag"
       ]
     },
     {
-      "id": "7be3d4e7-9c10-4446-86de-fcfa85630dd7",
+      "id": "7f2b1e22-2e59-47de-a0e0-f37b68cc81d0",
       "name": "OpenBcon",
       "url": "https://github.com/adm73/OpenBcon",
       "oneLiner": "Commercial licensing available for private deployments, closed-source modifications, white-label/OEM distribution, implementation services, and ongoing support.",
@@ -54,7 +122,7 @@
       ]
     },
     {
-      "id": "713434eb-ad55-4ca6-8d19-20554877f06c",
+      "id": "ce6a462a-3384-43ca-86ee-33afe93bb402",
       "name": "deer-workflow",
       "url": "https://github.com/deerwork-ai/deer-workflow",
       "oneLiner": "An open-source Dynamic Workflow runtime for building observable, reusable Agent graphs.",
@@ -71,92 +139,41 @@
       ]
     },
     {
-      "id": "c9fb4123-6514-4b44-be96-fd284ac9793f",
-      "name": "Dissecting the automation of a newspaper (Claude routine",
-      "url": "https://github.com/Lywald/zfrontpage/",
-      "oneLiner": "The Mouthpiece of Artificial Reason.",
-      "description": "The Mouthpiece of Artificial Reason.\nRead today's edition: https://lywald.github.io/zfrontpage/\nA daily broadsheet front page written, curated, argued and typeset entirely by an artificial intelligence — from real, same-day reporting it finds by searching the web. Not a feed. One page, one argument per day, one thing taught.\nmaster-prompt.md\n— the paper's constitution: charter, editorial process, ",
-      "pricing": "free",
+      "id": "bf99c320-aef3-4231-8e82-30a58e42d773",
+      "name": "Leopold Aschenbrenner built a $45B AI hedge fund",
+      "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+      "oneLiner": "Two years ago, Leopold Aschenbrenner argued he was one of few people in the world who saw the future clearly.",
+      "description": "Two years ago, Leopold Aschenbrenner argued he was one of few people in the world who saw the future clearly.\nIn a sprawling, 165-page essay that became required reading in Silicon Valley, the former OpenAI researcher positioned himself as a kind of prophet for the coming age of artificial super intelligence.\nBut this week, the limits of Aschenbrenner's vision were on display when the AI-themed he",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
         "design",
-        "productivity",
         "research"
       ]
     },
     {
-      "id": "ce3b655f-fc42-4ae7-9030-ef649581e502",
-      "name": "Slaide",
-      "url": "https://getslaide.com/",
-      "oneLiner": "A slide language AI can actually write.",
-      "description": "Presentations,\nhanded to AI\nthe right way.\nA slide language AI can actually write. One plain-text .slaide\nfile becomes a polished web deck, a print-ready PDF, and editable PowerPoint - from the same source.\nYour model just needed\na better format.\nYou never needed a smarter model - AI already writes a great deck; the intelligence was never the bottleneck. The format is. Ask a model for a deck and i",
-      "pricing": "free",
+      "id": "cf6a7ec6-3d80-4a75-b6b9-8f5f910c014c",
+      "name": "Rogue AI hacking incidents amplify debate over open-source tech",
+      "url": "https://thehill.com/policy/technology/6003142-nvidia-launches-secure-ai-alliance/",
+      "oneLiner": "Concerns over AI’s cybersecurity risks reached a fever pitch this week following two hacking incidents at OpenAI and Anthropic, sparking further debate in Silicon Valley over wheth",
+      "description": "Rogue AI hacking incidents amplify debate over open-source tech\nConcerns over AI’s cybersecurity risks reached a fever pitch this week following two hacking incidents at OpenAI and Anthropic, sparking further debate in Silicon Valley over whether open-source could reduce these threats.\nThe incidents are amplifying the recent push for open-source technology, which gained momentum earlier this year ",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
+      "isOpenSource": true,
       "githubUrl": null,
       "categories": [
         "code",
         "design",
-        "video"
+        "security"
       ]
     },
     {
-      "id": "834b0d0e-d193-43d0-9b53-c54a647dbc9d",
-      "name": "DMARC.quest SPF/DKIM/DMARC Demystified",
-      "url": "https://www.dmarc.quest",
-      "oneLiner": "the keys to your kingdom.",
-      "description": "Your domain name is\nthe keys to your kingdom.\nYou registered your name for a reason. So, two things worth knowing: anyone on the internet can send email signed with it — and whether your own messages reach inboxes or rot in spam folders depends on proving they're really yours. We'll read your records, explain them in plain English, and tell you exactly what to fix.\nTwo reasons to care,\neven if you",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "voice"
-      ]
-    },
-    {
-      "id": "0127749e-9943-430f-8522-a8dadbc5d030",
-      "name": "Prizm",
-      "url": "https://www.prizmkey.com",
-      "oneLiner": "Generate video, images, and voice from the best models — Veo, Kling, Nano Banana, ElevenLabs and more — on a simple prepaid balance.",
-      "description": "One key. Every model.\nVideo, images & voice.\nGenerate video, images, and voice from the best models — Veo, Kling, Nano Banana, ElevenLabs and more — on a simple prepaid balance. No subscriptions.\nWhy Prizm\nEverything you need for AI media generation, zero complexity.\nVeo 3, Kling, Seedance, Nano Banana, FLUX, ElevenLabs — no separate accounts, no per-provider API keys. Just one key.\nLoad your wall",
-      "pricing": "free_trial",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "voice",
-        "image"
-      ]
-    },
-    {
-      "id": "9e182d31-294c-4f9c-b42c-26896e7a381b",
-      "name": "Reclip",
-      "url": "https://www.reclip.io",
-      "oneLiner": "AI-powered tools to generate videos, create voiceovers, and more.",
-      "description": "Trusted by creators publishing to\nEverything you need to create\nviral content\nAI-powered tools to generate videos, create voiceovers, and more.\nAI Video Generator\nGenerate watermark-free videos from text or images with Google Omni, Veo 3.1 Fast, Kling 3.0, Grok Imagine, and Seedance 2.\nTry now →AI Ad Generator\nCreate AI video ads from a product image, an optional avatar, and your creative directio",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "voice",
-        "video"
-      ]
-    },
-    {
-      "id": "537366e1-4585-48a1-9791-7a03848dde7d",
+      "id": "f987e038-28c0-4c63-a99b-8adc0d2351c0",
       "name": "CozyClay",
       "url": "https://github.com/HaD0Yun/CozyClay",
       "oneLiner": "Direct Blender with an AI agent from your terminal.",
@@ -173,7 +190,7 @@
       ]
     },
     {
-      "id": "4d03603b-ff3d-4d4a-a8fc-71c6bd8f4e25",
+      "id": "96d30c71-99ee-4360-844e-a794cbdde096",
       "name": "ywcrew",
       "url": "https://github.com/yuwen-cool/ywcrew",
       "oneLiner": "\"evidence\": [{ \"file\": \"src/core/lock.",
@@ -185,74 +202,25 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "agents"
+        "agents",
+        "design"
       ]
     },
     {
-      "id": "253a13ce-6ad3-482e-80a9-284237953e3b",
-      "name": "nurb",
-      "url": "https://github.com/Shpigford/nurb",
-      "oneLiner": "Agentic CAD for 3D printing.",
-      "description": "Agentic CAD for 3D printing. The user is a language model: your agent writes parts as Python functions, nurb builds them into real solids, checks them against print physics, and shows you the result live. You judge, drag sliders, download the STL.\ncurl -fsSL https://nurb.dev/install.sh | sh\nOne line, installs everything below: uv if you don't have it, nurb, and the skill. Prefer your own package m",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "c138468c-d4da-47e9-83c3-5682069a6d7c",
-      "name": "ZenResume",
-      "url": "https://www.zenresume.online/",
-      "oneLiner": "Build a recruiter-approved professional resume.",
-      "description": "Create an ATS-Friendly Resume in 5 Minutes\nBuild a recruiter-approved professional resume. Your details stay 100% private in your browser local cache—never saved to a server database.\nWhy Build With ZenResume?\nMagic AI Import\nUpload a messy resume PDF or copy-paste raw text. Our integrated Gemini AI automatically parses and pre-fills your layout fields in seconds.\n100% Data Privacy\nNo account sign",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "fd29fc2b-28d8-4384-bc9e-35631533d1e7",
-      "name": "[Target",
-      "url": "https://TargetCalamity.org",
-      "oneLiner": "This page is an interactive 3D globe and needs JavaScript and WebGL to run.",
-      "description": "Target: Calamity\nThis page is an interactive 3D globe and needs JavaScript and WebGL to run. What follows\nis a description of what it shows.\nWhat this is\nA map of the forces pushing the world toward crisis, and the ones pushing back. Every part\nof the globe is tinted by what is happening there: red where the evidence points toward\ndamage, blue where it points toward repair, purple where strong for",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "8412afbf-4115-4b91-acb9-8781238d9822",
-      "name": "ResiliReplay",
-      "url": "https://github.com/aliengineering-byte/resilireplay",
-      "oneLiner": "ResiliReplay crash-tests AI agents and MCP servers, replays failures deterministically, and converts broken traces into regression tests.",
-      "description": "ResiliReplay crash-tests AI agents and MCP servers, replays failures deterministically, and converts broken traces into regression tests.\nIt is a model-agnostic, local-first TypeScript toolkit: record versioned events, inject seed-controlled faults, score recovery from declared evidence, and compile the first causal failure into an editable scenario plus an executable Node test. The deterministic ",
+      "id": "0cdab1f3-df4e-4940-b0c2-05f42d80bb54",
+      "name": "GAI",
+      "url": "https://github.com/lace-ai/gai",
+      "oneLiner": "Type-safe, provider-neutral agent runtime for Go.",
+      "description": "Type-safe, provider-neutral agent runtime for Go.\nBuild streaming, tool-using agents across OpenAI, Anthropic, Gemini, and Mistral without hiding provider-native capabilities.\nGAI is a composable Go runtime for model calls, tools, streaming, context, history, and observability. Shared APIs keep application code provider-neutral, while built-in adapters preserve native tools, structured output, rea",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/aliengineering-byte/resilireplay.git",
+      "githubUrl": "https://github.com/lace-ai/gai.git",
       "categories": [
         "code",
         "agents",
-        "security"
+        "design"
       ]
     }
   ]
