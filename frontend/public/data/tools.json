@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-01T08:21:56.616021+00:00",
-  "count": 13,
+  "generatedAt": "2026-08-02T08:25:00.527422+00:00",
+  "count": 22,
   "tools": [
     {
-      "id": "b1d5a8a4-d053-47e8-b9ed-89d9a40ea89b",
+      "id": "818d1154-da5a-4b9d-84a0-f31aca55891c",
       "name": "llm-system-design",
       "url": "https://github.com/lamhotsiagian/llm-system-design",
       "oneLiner": "): A minimal, production-shaped LLM serving + RAG reference platform built in pure Python with zero heavy framework dependencies.",
@@ -14,13 +14,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "design",
+        "agents",
         "rag"
       ]
     },
     {
-      "id": "17ab991c-bcf5-487c-97c5-16570d5580ed",
+      "id": "89a8aa09-de1c-4b51-a225-d22722224d18",
       "name": "synapse",
       "url": "https://github.com/antonygiomarxdev/synapse",
       "oneLiner": "Distributed inference infrastructure for Mixture-of-Experts models.",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "id": "d007c622-fbbe-46a0-a2b3-e51dab72b9ad",
+      "id": "0fcfefb8-c69a-41ff-a487-b33402afd9ce",
       "name": "NIGHTRUN",
       "url": "https://github.com/hardrave/NIGHTRUN",
       "oneLiner": "A local LLM runtime that boots from USB and runs without a conventional operating system.",
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "id": "e473fd44-a8ed-4751-848f-111337fd1400",
+      "id": "d3cf8489-f340-4cba-873e-edeabeca803d",
       "name": "relmio",
       "url": "https://github.com/Demonbane18/relmio",
       "oneLiner": "Relay a supported ChatGPT/Codex sign-in to OpenAI-compatible clients, starting with self-hosted n8n.",
@@ -71,24 +71,7 @@
       ]
     },
     {
-      "id": "40673f27-f3ee-4d39-9eda-1cf4754e86e7",
-      "name": "autoclip",
-      "url": "https://github.com/artbyjazi/autoclip",
-      "oneLiner": "Open-source, local-first AI video clipper.",
-      "description": "Open-source, local-first AI video clipper. Long video in → ranked, caption-burned, speaker-tracked 9:16 clips out.\nPaste a YouTube link or drop a file. AutoClip transcribes it, uses an LLM to find the moments worth clipping, reframes them to vertical while tracking whoever is speaking, burns in animated captions, and exports platform-ready MP4s.\nNo accounts. No uploads to anyone's servers. No wate",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/artbyjazi/autoclip.git",
-      "categories": [
-        "code",
-        "design",
-        "audio"
-      ]
-    },
-    {
-      "id": "d9cefd7d-611f-42da-9508-bb1f74fb7bb1",
+      "id": "073ce7ca-2785-4367-8dfa-b8a8bd3ddc3d",
       "name": "PSAO-IJCAI-release",
       "url": "https://github.com/Commonwealth-Bank-of-Australia/PSAO-IJCAI-release",
       "oneLiner": "This repository is published by Commonwealth Bank of Australia for research, educational and community purposes only.",
@@ -105,7 +88,7 @@
       ]
     },
     {
-      "id": "7f2b1e22-2e59-47de-a0e0-f37b68cc81d0",
+      "id": "de6d9857-6262-498e-85ee-790ae8cb0c0b",
       "name": "OpenBcon",
       "url": "https://github.com/adm73/OpenBcon",
       "oneLiner": "Commercial licensing available for private deployments, closed-source modifications, white-label/OEM distribution, implementation services, and ongoing support.",
@@ -122,28 +105,62 @@
       ]
     },
     {
-      "id": "ce6a462a-3384-43ca-86ee-33afe93bb402",
-      "name": "deer-workflow",
-      "url": "https://github.com/deerwork-ai/deer-workflow",
-      "oneLiner": "An open-source Dynamic Workflow runtime for building observable, reusable Agent graphs.",
-      "description": "English | 简体中文\nAn open-source Dynamic Workflow runtime for building observable, reusable Agent graphs.\ndeer-workflow\nis a pilot project for DeerFlow 3.0, also known as DeerWork.\nDeer Workflow is a code-first implementation of Graph Engineering: TypeScript defines the valid execution paths, while Coding Agents perform the semantic work inside each node.\n- Code is the plan. Control flow, phases, inp",
+      "id": "e6d4b033-e803-45ec-aa40-ce197b4d5a6c",
+      "name": "Astral-Web-UI",
+      "url": "https://github.com/RealPhonyx/Astral-Web-UI",
+      "oneLiner": "A minimal and modern, local-first chat interface for AI — with tabs and a visual branching conversation tree.",
+      "description": "A minimal and modern, local-first chat interface for AI — with tabs and a visual branching conversation tree. No Docker, no database. Everything runs on your own machine. Open source.\nA note on how this was built: I built this project with Google AI Studio, with a lot of manual testing, debugging, and back-and-forth to get it working properly.\nThere are already excellent, robust chat interfaces ou",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/deerwork-ai/deer-workflow.git",
+      "githubUrl": "https://github.com/RealPhonyx/Astral-Web-UI.git",
       "categories": [
         "code",
-        "agents",
-        "productivity"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "bf99c320-aef3-4231-8e82-30a58e42d773",
-      "name": "Leopold Aschenbrenner built a $45B AI hedge fund",
-      "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-      "oneLiner": "Two years ago, Leopold Aschenbrenner argued he was one of few people in the world who saw the future clearly.",
-      "description": "Two years ago, Leopold Aschenbrenner argued he was one of few people in the world who saw the future clearly.\nIn a sprawling, 165-page essay that became required reading in Silicon Valley, the former OpenAI researcher positioned himself as a kind of prophet for the coming age of artificial super intelligence.\nBut this week, the limits of Aschenbrenner's vision were on display when the AI-themed he",
+      "id": "8b85ebd3-8061-40e9-9c78-c06687dda5f6",
+      "name": "autoclip",
+      "url": "https://github.com/artbyjazi/autoclip",
+      "oneLiner": "Open-source, local-first AI video clipper.",
+      "description": "Open-source, local-first AI video clipper. Long video in → ranked, caption-burned, speaker-tracked 9:16 clips out.\nPaste a YouTube link or drop a file. AutoClip transcribes it, uses an LLM to find the moments worth clipping, reframes them to vertical while tracking whoever is speaking, burns in animated captions, and exports platform-ready MP4s.\nNo accounts. No uploads to anyone's servers. No wate",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/artbyjazi/autoclip.git",
+      "categories": [
+        "code",
+        "design",
+        "audio"
+      ]
+    },
+    {
+      "id": "9b4c77a2-950b-49f4-b105-e591643e9062",
+      "name": "AI financial advice is surprisingly good",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "oneLiner": "- AI financial advice encourages people to save more, diversify their investing, and take on less risk as they age.",
+      "description": "AI financial advice is surprisingly good — especially if you ask the right questions\nWhat you’ll learn:\n- AI financial advice encourages people to save more, diversify their investing, and take on less risk as they age.\n- However, AI’s advice often fails to properly adjust to shocks like unemployment, and it allows portfolios to drift rather than actively rebalancing them.\n- Differences in prompts",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "research",
+        "security"
+      ]
+    },
+    {
+      "id": "3a73f800-d9be-49a6-9e63-39de0d348111",
+      "name": "TamedTable",
+      "url": "https://www.tamedtable.com/",
+      "oneLiner": "Load tabular data, say what you want, and watch it happen.",
+      "description": "Talk to your data.\nLoad tabular data, say what you want, and watch it happen. AI ETL: no formulas, no code.\nNo API key? Take a guided tour: it replays real sessions, free.\nEvery common data job, in natural language\nTransform with context\nThe AI understands context, so it cleans, enriches, classifies, and validates — things no formula can.\nSee everything\nSee changes as they happen. Nothing is hidde",
       "pricing": "paid",
       "country": null,
       "quality": 25,
@@ -152,28 +169,125 @@
       "categories": [
         "code",
         "design",
-        "research"
+        "data"
       ]
     },
     {
-      "id": "cf6a7ec6-3d80-4a75-b6b9-8f5f910c014c",
-      "name": "Rogue AI hacking incidents amplify debate over open-source tech",
-      "url": "https://thehill.com/policy/technology/6003142-nvidia-launches-secure-ai-alliance/",
-      "oneLiner": "Concerns over AI’s cybersecurity risks reached a fever pitch this week following two hacking incidents at OpenAI and Anthropic, sparking further debate in Silicon Valley over wheth",
-      "description": "Rogue AI hacking incidents amplify debate over open-source tech\nConcerns over AI’s cybersecurity risks reached a fever pitch this week following two hacking incidents at OpenAI and Anthropic, sparking further debate in Silicon Valley over whether open-source could reduce these threats.\nThe incidents are amplifying the recent push for open-source technology, which gained momentum earlier this year ",
-      "pricing": "open_source",
+      "id": "fedfe33d-45da-4200-b4a0-eee7dfec6751",
+      "name": "FirstEmployee.ai",
+      "url": "https://firstemployee.ai/",
+      "oneLiner": "It writes and publishes a real website for your idea in about three minutes, on its own live address.",
+      "description": "Tell it your idea. It builds the business.\nIt writes and publishes a real website for your idea in about three minutes, on its own live address. Then it works on that business every night.\nNot a builder you have to drive. You say what the business is; it does the work, reports back, and lines up what it wants to try next.\nBuild mine now See how it works\nReplayed from a real build log — nothing her",
+      "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "code",
         "design",
-        "security"
+        "marketing"
       ]
     },
     {
-      "id": "f987e038-28c0-4c63-a99b-8adc0d2351c0",
+      "id": "10fcd1ef-2546-4b97-a357-14fd4e4f1341",
+      "name": "Symbio self fine-tuning AI loop",
+      "url": "https://github.com/huyedits/Symbio",
+      "oneLiner": "Local Ai that learns from your corrections.",
+      "description": "Local Ai that learns from your corrections. No Cloud, No subscriptions.\nSymbio takes notes and can construct it into training data to fine-tune itself - so you can stop repeating yourself.\n| GitHub | Try it now\nSymbio develops as you tell it what to do in repeat.\nTry the interactive demo — the agent's real tag parser, self-correction miner, research memory, and RAG retriever running in your browse",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "8a90b079-32a5-464c-abfb-4a0100de463f",
+      "name": "Wage Against the Machine",
+      "url": "https://watm.ddyo.dev/",
+      "oneLiner": "Show HN: Wage Against the Machine – MacWages Index for AI Tasks",
+      "description": "WAGE AGAINST THE MACHINE\nAI task purchasing power by country\nShare to X ↗\nIn\n, one hour of work buys\nClaude Opus 5 · max\ntasks.\nBenchmark\nArtificial Analysis\nDeepSWE v1.1\nCursorBench 3.2\nFrontierCode 1.1\nModels\nOpus 5 Max\n×\nSol Max\n×\nFable 5 Max\n×\nTerra Max\n×\nKimi K3 Max\n×\nLuna Max\n×\nGPT-5.5 Xhigh\n×\nOpus 4.8 Max\n×\nSonnet 5 Max\n×\nGrok 4.5 High\n×\nMuse Spark\n×\nGemini 3.6 High\n×\nGLM-5.2 Max\n×\nKimi K2.",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "a0d0696f-4f95-4c43-b5b8-68cbaa012c0f",
+      "name": "CostPerPrompt",
+      "url": "https://costperprompt.com/",
+      "oneLiner": "Per-token prices pulled from public listings, and calculators that turn them into a monthly bill.",
+      "description": "Live AI API pricing\n232 models · refreshed automatically · last update 2026-08-02\nPer-token prices pulled from public listings, and calculators that turn them into a monthly bill.\nAll model prices\n232 modelsFlagships listed first, then all vendors A–Z. Every model links to a detail page with cost examples. Full table view →\nCalculators\nWorkload-based, not price-sheet math: they model resent contex",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "068210a2-eec2-4c61-9e86-ae4c6f4c31b9",
+      "name": "clone-chat",
+      "url": "https://github.com/AFan4724/clone-chat",
+      "oneLiner": "npm run import:chat -- \"E:\\path\\normalized.",
+      "description": "本地运行的人物复刻对话 Agent。导入一个人的真实聊天记录后，Agent 从记录中学习这个人的说话风格、用词习惯、表情偏好和回复节奏，然后以这个人的身份延续对话——包括回不回、隔多久回、回几条、发文字还是语音，都由 Agent 依据证据自主决定。\n演示图中的人物、对话和头像均为虚构，仅用于展示界面与回复流程。\nAgent 的每一轮回复都建立在从聊天记录提取的证据上：\n- 按场景召回的真实对话样例和自动生成的风格画像\n- 行为统计：文字/表情/语音比例、连发数量、回复延迟、活跃时段、高频短句\n- 混合记忆检索：全文检索（FTS5）加本地语义向量\n- 表情库：只保留记录中真实发过的表情，按视觉含义和发送上下文建索引\n- 反馈学习：每条回复可标记“像/不像”，后续轮次参考\n- 从聊天记录生成人物画像，Agent 以人物身份回复\n- 内置 AI 导入 skill，可让 AI 工具直接转换任意聊天",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "7e32baea-dc41-4f4e-beaf-0ab15f9dd51c",
+      "name": "bindwidth",
+      "url": "https://github.com/juxhinr/bindwidth",
+      "oneLiner": "Size your way to private local AI.",
+      "description": "Size your way to private local AI.\nFind the constraint that actually binds — then size the private local stack that fits.\nThree limits decide the technical minimum for one resident text model: memory for the KV cache, combined prefill/decode serving capacity, and the runtime session ceiling. They are evaluated explicitly and one or more can bind — usually not the limit people size for. Bindwidth f",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/juxhinr/bindwidth.git",
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "a7a1b1e5-2434-47b3-9252-2ebfbb7ca69b",
+      "name": "localai-rag-live2d",
+      "url": "https://github.com/ice-only/localai-rag-live2d",
+      "oneLiner": "pip install -r requirements.",
+      "description": "基于量化千问 4B 模型 + 本地 RAG 文档检索 + Live2D 二次元形象的桌面 AI 伴侣。\n- Live2D 二次元角色桌面显示：透明无边框窗口，角色可拖动，支持触摸交互\n- 本地 LLM 推理：Qwen3.5-4B GGUF 量化模型，Vulkan GPU 加速，CPU 亦可流畅运行\n- RAG 本地文档检索：扔文件进\ndocs/\n目录自动索引，支持 txt / md / pdf - 对话记忆持久化：JSON 存储，多用户隔离，Token 预算自动裁剪\n- 多平台适配：桌面本地 + QQ OneBot v11，适配器模式可扩展\n- 透明无边框桌面窗口：PyQt5 置顶窗口，暗色主题，系统托盘控制\n- .env 配置驱动：开箱即用，适配不同显卡\n- Python 3.10+\n- 内存 8GB+（推荐 16GB）\n- 磁盘约 5GB（含 3.4GB 模型文件）\n# 1. 安装依赖",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "rag"
+      ]
+    },
+    {
+      "id": "471e01f3-538a-49e1-af7d-5ad2ff47c335",
       "name": "CozyClay",
       "url": "https://github.com/HaD0Yun/CozyClay",
       "oneLiner": "Direct Blender with an AI agent from your terminal.",
@@ -190,7 +304,24 @@
       ]
     },
     {
-      "id": "96d30c71-99ee-4360-844e-a794cbdde096",
+      "id": "93c15ce5-0f6b-418e-a440-847a8051d60e",
+      "name": "opendot",
+      "url": "https://github.com/vedaant00/opendot",
+      "oneLiner": "An interactive terminal AI agent you can fully undo.",
+      "description": "An interactive terminal AI agent you can fully undo.\nopendot works directly on your real files and shell — but unlike other terminal\nagents, every action it takes is snapshotted first, so you can see exactly\nwhat it did and cleanly walk it back. Files and shell commands, not just\nin-repo edits. Commands whose effects escape your workspace (network, sudo,\ngit push\n, deleting outside the working dir",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/vedaant00/opendot",
+      "categories": [
+        "agents",
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "882f3aab-c511-4a62-a59e-8bc8f9c4ad7f",
       "name": "ywcrew",
       "url": "https://github.com/yuwen-cool/ywcrew",
       "oneLiner": "\"evidence\": [{ \"file\": \"src/core/lock.",
@@ -202,25 +333,42 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "0cdab1f3-df4e-4940-b0c2-05f42d80bb54",
-      "name": "GAI",
-      "url": "https://github.com/lace-ai/gai",
-      "oneLiner": "Type-safe, provider-neutral agent runtime for Go.",
-      "description": "Type-safe, provider-neutral agent runtime for Go.\nBuild streaming, tool-using agents across OpenAI, Anthropic, Gemini, and Mistral without hiding provider-native capabilities.\nGAI is a composable Go runtime for model calls, tools, streaming, context, history, and observability. Shared APIs keep application code provider-neutral, while built-in adapters preserve native tools, structured output, rea",
+      "id": "fa54d2a4-e8b1-4a7e-a5e9-5dff0766dedd",
+      "name": "AI's real threat to jobs isn't job loss",
+      "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
+      "oneLiner": "AI isn't coming for your job — it's coming for your paycheck.",
+      "description": "AI isn't coming for your job — it's coming for your paycheck.\nThat's the conclusion of a new white paper from Apollo Global Management, which measured the observed impacts of AI adoption on wage and employment across various jobs in the US.\nThe paper, which tracked wage and employment data for 321 occupations, found that jobs with the highest exposure to AI saw an average 6.7% decline in real wage",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/lace-ai/gai.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "research",
+        "search"
+      ]
+    },
+    {
+      "id": "8aca3fa5-3f8a-4a69-a098-2bf183879311",
+      "name": "Nuking the crap Claude left in the codebase",
+      "url": "https://github.com/jonhardwick-spec/ccn",
+      "oneLiner": "> [x] javascript [detected: 3 files] [acorn] .",
+      "description": "★ C R A P C O M M E N T N U K E R ★\ninteractive comment stripper that cannot eat code\nIgh bro, now, what code base files / type are we taking the trash out of\n| |\n| TRASH |\n| ONLY |\n|_______|\n//_________________________________________\n//| Co-Authored by Anthropic's Claude Code |\n//|________________________________________|\n___\n\\\n\\ O\n\\/|\\\n| \\\n/ \\\n/ \\\n> [x] javascript [detected: 3 files] [acorn] .j",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "rag"
       ]
     }
   ]
