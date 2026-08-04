@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-08-03T09:46:57.105992+00:00",
-  "count": 25,
+  "generatedAt": "2026-08-04T08:37:11.375379+00:00",
+  "count": 13,
   "tools": [
     {
-      "id": "ddb3ac7e-12b4-4273-a11d-521ae968182c",
+      "id": "a36ad991-3161-4125-a490-21059ed2746f",
+      "name": "troth",
+      "url": "https://github.com/xgre1/troth",
+      "oneLiner": "The AI partner whose mind lives outside the model.",
+      "description": "The AI partner whose mind lives outside the model.\nSwap the model. Keep the mind.\nThe core is AGPL open source, free forever. The macOS app is a one-time purchase.\nRuns on your Mac. Uses the Claude, ChatGPT or Kimi subscription you already pay for, any provider with your own key, or a fully local model. Your data never leaves your machine.\ntroth is a persistent AI partner. Its identity, memory, go",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/xgre1/troth.git",
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "03f5791f-0fc4-4dd3-8f21-5f07ee877723",
       "name": "llm-system-design",
       "url": "https://github.com/lamhotsiagian/llm-system-design",
       "oneLiner": "): A minimal, production-shaped LLM serving + RAG reference platform built in pure Python with zero heavy framework dependencies.",
@@ -20,24 +37,24 @@
       ]
     },
     {
-      "id": "bb822490-6cdd-4965-81ad-ec1b4597dd11",
-      "name": "synapse",
-      "url": "https://github.com/antonygiomarxdev/synapse",
-      "oneLiner": "Distributed inference infrastructure for Mixture-of-Experts models.",
-      "description": "Distributed inference infrastructure for Mixture-of-Experts models.\nMoE models activate only ~2% of their parameters per token. Synapse was built to exploit that — distributing experts across consumer hardware so you can run large models without large hardware.\nMixture-of-Experts models (Kimi K3, DeepSeek-V2, Mixtral, Qwen2.5-MoE) are architecturally designed for distribution: each token activates",
-      "pricing": "paid",
+      "id": "457f322b-a004-402d-b2bc-455c209c2102",
+      "name": "spotlight",
+      "url": "https://github.com/CMUL8/spotlight",
+      "oneLiner": "An open-source, multi-agent AI security engineer.",
+      "description": "An open-source, multi-agent AI security engineer. Point it at a repository and it reviews the code, reproduces the vulnerabilities it finds by actually exploiting them in an isolated sandbox, writes and independently verifies a fix, and signs every step so the whole chain can be audited later. Not a scanner that emits alerts — an engineer that hands you evidence.\nA sweep runs seven stages, gated b",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/antonygiomarxdev/synapse.git",
+      "githubUrl": null,
       "categories": [
-        "design",
         "code",
-        "data"
+        "design",
+        "security"
       ]
     },
     {
-      "id": "762ac687-2b43-4b7a-9b73-7eca8d4ff828",
+      "id": "cf8f3270-d676-4843-a250-aa802e15e5b1",
       "name": "PSAO-IJCAI-release",
       "url": "https://github.com/Commonwealth-Bank-of-Australia/PSAO-IJCAI-release",
       "oneLiner": "This repository is published by Commonwealth Bank of Australia for research, educational and community purposes only.",
@@ -48,13 +65,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "rag"
       ]
     },
     {
-      "id": "5d021408-0f50-4397-9ab3-7aa810c0f587",
+      "id": "b1514435-f185-483e-90aa-599cdd48d528",
       "name": "autoclip",
       "url": "https://github.com/artbyjazi/autoclip",
       "oneLiner": "Open-source, local-first AI video clipper.",
@@ -65,68 +82,33 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/artbyjazi/autoclip.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "audio"
       ]
     },
     {
-      "id": "ff92a4fe-5f08-4baf-ba8a-60c8c6898440",
-      "name": "OpenBcon",
-      "url": "https://github.com/adm73/OpenBcon",
-      "oneLiner": "Commercial licensing available for private deployments, closed-source modifications, white-label/OEM distribution, implementation services, and ongoing support.",
-      "description": "The Open Source AI Platform for Funding & Business Consultants\nOpenBcon helps consultants, advisors, incubators, and funding teams run the full workflow in one place:\n- discover funding programs\n- assess business readiness\n- manage company and client records\n- generate funding-ready business plans\n- organize applications, templates, resources, and reports\nCommunity edition:\nAGPL-3.0-or-later\nComme",
+      "id": "ed98cdf8-1659-456d-b270-8c37fe9192e3",
+      "name": "Visualize in 2D/3D map any GitHub user's followers",
+      "url": "https://github.com/ThierryRakotomanana/GitCharta",
+      "oneLiner": "Every star, fork, and follow is a country you've reached.",
+      "description": "Every star, fork, and follow is a country you've reached. GitCharta turns your GitHub footprint into an interactive world map of exactly how far your work travels.\nTry the live demo →: no GitHub token required to start.\nFollowers, stars, forks, pull requests: GitHub gives you raw counts. GitCharta is an open-source GitHub network visualizer that turns your whole footprint into a map, so you see ex",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
-        "data",
-        "writing"
-      ]
-    },
-    {
-      "id": "70e440d6-ee29-46aa-844f-a80b0a71e672",
-      "name": "AI migrated legacy COBOL programs to Java",
-      "url": "https://arxiv.org/abs/2607.28271",
-      "oneLiner": "View PDF HTML (experimental)Abstract:Migration of legacy COBOL programs to Java requires extensive testing to ensure correct functionality.",
-      "description": "Computer Science > Software Engineering\n[Submitted on 30 Jul 2026]\nTitle:Agentic Method for Deterministic Validation of Legacy Code Migration\nView PDF HTML (experimental)Abstract:Migration of legacy COBOL programs to Java requires extensive testing to ensure correct functionality. This effort is often complicated by the lack of test data and the difficulty of validating all corner cases. In this p",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "agents",
         "code",
-        "research"
+        "design"
       ]
     },
     {
-      "id": "3a37f99d-2c80-45fd-be60-24a47b4b8974",
-      "name": "The diabolical world of convincing AI thirst traps",
-      "url": "https://www.vox.com/culture/492604/ai-deepfake-gay-influencers-tiktok-thirst-traps",
-      "oneLiner": "This story was originally published in The Highlight.",
-      "description": "This story was originally published in The Highlight. To get access to member-exclusive stories like this every month, become a Vox Member today.\nInside the diabolical world of very convincing AI thirst traps that are scamming gay men on social media\nThese hot, hairy-chested guys have tens of thousands of followers. They’re also not real.\nDerek Lam has more than 31,000 followers on TikTok and near",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "voice",
-        "image",
-        "writing"
-      ]
-    },
-    {
-      "id": "7c408498-33de-4216-98bd-dac38c2d7350",
-      "name": "The best-paid AI/tech job anyone advertises pays $824k",
-      "url": "https://ctaio.dev/en/jobs/",
-      "oneLiner": "CTO, VP Engineering, Director, and Head of positions at top companies.",
-      "description": "Executive Tech Jobs\nCTO, VP Engineering, Director, and Head of positions at top companies. Every listing includes published compensation. Data from 10 countries.\nMonthly archive\nWho Is Hiring, one issue a month\nThis board shows what is open right now. The archive keeps every month at its own URL, sortable by salary, updated twice daily.\nJoin 2,000+ CTOs, VPs of Engineering, and Heads of Engineerin",
+      "id": "d735629f-db11-4b62-b8b5-3e4adedbbd6d",
+      "name": "Manhwa AI",
+      "url": "https://www.manhwaai.net",
+      "oneLiner": "Use the AI manhwa generator to turn your story into full-color manhwa and webtoons with consistent characters, editable panels, and speech bubbles.",
+      "description": "Story Premise\nSet up your story background and premise\nAI Manhwa Generator for Comics\nUse the AI manhwa generator to turn your story into full-color manhwa and webtoons with consistent characters, editable panels, and speech bubbles.\nThe AI manhwa generator turns a story idea into a polished, publish-ready Korean comic in three guided steps.\nSet up your story background and premise\nGenerate manhwa",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -134,114 +116,12 @@
       "githubUrl": null,
       "categories": [
         "design",
-        "code",
-        "data"
+        "productivity",
+        "agents"
       ]
     },
     {
-      "id": "be8f845b-1b7e-4150-aba8-5847443a0856",
-      "name": "Kuvu AI",
-      "url": "https://kuvu.ai/",
-      "oneLiner": "Kuvu AI - One subscription.",
-      "description": "Kuvu AI - Your All-in-One AI Creative Studio & Marketing Studio\nValue proposition\nKuvu AI - One subscription. The models creators already pay for.\nGemini, ChatGPT, Seedance, Kling, and Flux can cost nearly $100/month when purchased separately. Kuvu AI brings them into one creative workflow for $15/month.\nSeparate tools\nStacked subscriptions\nStandalone plan\nStandalone plan\nStandalone plan\nStandalon",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "image",
-        "marketing"
-      ]
-    },
-    {
-      "id": "4ed475bd-1833-41e3-b34e-91513d8ab7cb",
-      "name": "An AI-Powered Widget for Collecting User Feedback",
-      "url": "https://makethisbetter.dev/",
-      "oneLiner": "Every user signal becomes an issue your agent can ship.",
-      "description": "Every user signal becomes an issue your agent can ship.\nMark-up mode activates. They click an element, draw a circle, write a note. A screenshot, DOM snapshot, and console log are auto-captured in the background.\nAI asks one or two clarifying questions, then extracts: the scene (context), the blocker, and the real underlying need.\nInstall the Skill and connect MCP once (left). The Skill gives your",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "71a2e75b-9441-466d-a85d-78450789f20c",
-      "name": "AI Visibility",
-      "url": "https://aivisibility.pro/",
-      "oneLiner": "See whether ChatGPT, Gemini, Claude and Perplexity recommend your brand, and where they leave you out.",
-      "description": "AI Visibility Checker\nSee whether ChatGPT, Gemini, Claude and Perplexity recommend your brand, and where they leave you out.\nWhat is AI Visibility?\nAI visibility is how often AI assistants name your brand when someone asks them for a recommendation. Ask ChatGPT for the best project management app, or Perplexity which running shoes to buy, and only a handful of brands make the list. Those brands ha",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "marketing"
-      ]
-    },
-    {
-      "id": "a145f039-e61c-4097-8d96-c7b6d4c435e0",
-      "name": "AI Face Analyzer",
-      "url": "https://lookblueprint.com",
-      "oneLiner": "Upload one clear photo to see your closest face shape, symmetry score, eye pattern, jawline angle, proportions and a style direction — plus when light or camera angle changes the r",
-      "description": "Free AI Face Analyzer\nSee your face shape, symmetry\n& the patterns that\nmake your face\ndistinctly yours.\nUpload one clear photo to see your closest face shape, symmetry score, eye pattern, jawline angle, proportions and a style direction — plus when light or camera angle changes the result. Free, private and no sign-up.\nNo login required. Your photo never leaves your browser.\nPrivate browser analy",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "image"
-      ]
-    },
-    {
-      "id": "75ceec80-7ba6-4c44-9b6b-5e3a0b1cb458",
-      "name": "OpenTalking",
-      "url": "https://github.com/datascale-ai/opentalking",
-      "oneLiner": "OpenTalking is an open-source orchestration framework for real-time digital-human conversations.",
-      "description": "Open-source real-time digital-human pipeline: LLM, TTS, WebRTC, character voices, and pluggable model backends\n中文 · Documentation · GitHub\nDemos · Deployment · Quickstart · Models · Roadmap · Docs & Community\nOpenTalking is an open-source orchestration framework for real-time digital-human conversations. It covers the core path of a digital-human conversational product: frontend interaction, sessi",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/datascale-ai/opentalking.git",
-      "categories": [
-        "rag",
-        "data",
-        "voice"
-      ]
-    },
-    {
-      "id": "ed5efcb2-8a37-4de2-8d80-9310ea17fc77",
-      "name": "A company brain AI agents check before acting",
-      "url": "https://github.com/gnt-ai/gnt",
-      "oneLiner": "Run the setup below once and every agent your team runs has a git-native rulebook it has to check over MCP before it acts, approved the same way your code already is: a merged pull",
-      "description": "Run the setup below once and every agent your team runs has a git-native rulebook it has to check over MCP before it acts, approved the same way your code already is: a merged pull request.\n- Rules live in your repo as files and ship through normal PRs, not a dashboard click.\n- Agents call\ncheck_action\nover MCP before anything risky (a refund, a delete, a message to a customer) and get back an all",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/your-org/your-repo",
-      "categories": [
-        "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "f89a3022-7c69-45a7-b2d2-bbe83da85f53",
+      "id": "5707ac24-ece5-46d6-96c5-a0b3e9ce1572",
       "name": "clone-chat",
       "url": "https://github.com/AFan4724/clone-chat",
       "oneLiner": "npm run import:chat -- \"E:\\path\\normalized.",
@@ -252,13 +132,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "a56cce03-1d10-414f-8632-9125a7a7a95b",
+      "id": "097f90a5-f67c-4c28-b79d-72c66f8fcd4c",
       "name": "bindwidth",
       "url": "https://github.com/juxhinr/bindwidth",
       "oneLiner": "Size your way to private local AI.",
@@ -269,13 +149,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/juxhinr/bindwidth.git",
       "categories": [
-        "agents",
         "code",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "4de74c41-9f38-4ea9-a8d4-627dd2d982ec",
+      "id": "b62317e4-6195-46f0-9656-aa679c4cf1f4",
       "name": "linkit",
       "url": "https://github.com/blue-idea/linkit",
       "oneLiner": "Linkit is a desktop \"Smart Knowledge Curation Space\" (桌面端智能书签管理与知识收藏空间) designed to help you collect, organize, discover, and reuse web links, page resources, and creative inspirat",
@@ -286,13 +166,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "2fb52fe7-e136-4fed-86b9-e88ad279a824",
+      "id": "d6073d80-13e9-4e9e-8945-1af8510a406b",
       "name": "genoffice",
       "url": "https://github.com/genspark-ai/genoffice",
       "oneLiner": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF — five Electron apps sharing one engine layer, built around AI editing as a fir",
@@ -309,7 +189,7 @@
       ]
     },
     {
-      "id": "51cafcb1-b188-40a1-b002-5d69f6ff966a",
+      "id": "32bf6902-207d-4985-9605-50cdf5421a78",
       "name": "localai-rag-live2d",
       "url": "https://github.com/ice-only/localai-rag-live2d",
       "oneLiner": "pip install -r requirements.",
@@ -325,103 +205,20 @@
       ]
     },
     {
-      "id": "ace1e09a-e836-4fd4-a80b-8e9de38e2ecf",
-      "name": "CozyClay",
-      "url": "https://github.com/HaD0Yun/CozyClay",
-      "oneLiner": "Direct Blender with an AI agent from your terminal.",
-      "description": "Direct Blender with an AI agent from your terminal.\nCozyClay connects a Pi-based coding agent to a live Blender scene. Describe the shot you want; the director can inspect the scene, stage objects and characters, plan cameras, generate motion, and render QA frames while Blender stays open.\n> Put two boxers on the mat, stage a wide establishing shot, then cut\nbetween the second and third punch.\nins",
+      "id": "c2fa8eb9-9bb6-4d0e-bbfd-bf8b44d1305f",
+      "name": "A GenAI image benchmark for production design work",
+      "url": "https://img.ly/ai-benchmarks/",
+      "oneLiner": "The same prompt, every model, side by side.",
+      "description": "Benchmark GenAI image models\nThe same prompt, every model, side by side. We run identical prompts across the leading image generation models and score the results on what production design work actually needs: typography, brand-color fidelity, transparency, composition, consistency, cost and latency. When a new model drops, the whole suite re-runs.\n15\nModels benchmarked\n37\nCanonical prompts\n1662\nI",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/HaD0Yun/CozyClay.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "agents",
         "code",
-        "security"
-      ]
-    },
-    {
-      "id": "bf5b0682-17c0-41f2-ac69-93f94793c3ae",
-      "name": "opendot",
-      "url": "https://github.com/vedaant00/opendot",
-      "oneLiner": "An interactive terminal AI agent you can fully undo.",
-      "description": "An interactive terminal AI agent you can fully undo.\nopendot works directly on your real files and shell — but unlike other terminal\nagents, every action it takes is snapshotted first, so you can see exactly\nwhat it did and cleanly walk it back. Files and shell commands, not just\nin-repo edits. Commands whose effects escape your workspace (network, sudo,\ngit push\n, deleting outside the working dir",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/vedaant00/opendot",
-      "categories": [
-        "agents",
-        "data",
-        "security"
-      ]
-    },
-    {
-      "id": "0b9dddb4-adb7-4156-9b7c-f4b7ba29a55f",
-      "name": "ywcrew",
-      "url": "https://github.com/yuwen-cool/ywcrew",
-      "oneLiner": "\"evidence\": [{ \"file\": \"src/core/lock.",
-      "description": "让你的 AI 智能体们组成一个团队\n你本地订阅了 Claude Code、Codex、Grok、Kimi、Antigravity……\nywcrew 让它们互相调用：在任何一个智能体里说句话，就能把任务派给其他家的模型。\n装好之后，在 Cursor / Claude Code / Codex / Grok / Kimi 任意一个里，直接说：\n三个关键保证：\n- 不烧 API key —— 所有调用走你已付费的订阅（各家自己的 CLI 登录态）\n- 不打断当前对话 —— 被调模型在独立进程里跑，主对话的缓存零污染\n- 不碰你的代码 —— 只读任务有权限约束，改代码任务在隔离副本中进行、以 patch 交付\n把仓库名发给你的智能体（推荐），对任意 agent 说：\n帮我安装 github.com/yuwen-cool/ywcrew：运行\ncurl -fsSL https://raw.github",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
         "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "c4550e10-80a6-4cf7-9346-ec1da2af9044",
-      "name": "aimux",
-      "url": "https://github.com/arcships/aimux",
-      "oneLiner": "A unified LLM access layer written in Rust.",
-      "description": "A unified LLM access layer written in Rust. One API for 325 AI providers.\naimux is a Rust implementation of a unified LLM provider access layer. It\ncollapses the HTTP APIs of every AI provider into a single\ndyn LanguageModel\ninterface that anything upstream can call.\nUnlike rig or langchain, aimux does not build agent loops, RAG, or orchestration — it focuses exclusively on unifying service access",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "voice"
-      ]
-    },
-    {
-      "id": "0e5f1fd7-9b9c-4cd3-8ece-c8d20ad40b9e",
-      "name": "The AI Productivity Gap",
-      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
-      "oneLiner": "There’s no doubt that AI has already improved the productivity of engineering teams, and will only get better in the coming years.",
-      "description": "There’s no doubt that AI has already improved the productivity of engineering teams, and will only get better in the coming years. However, some leaders think fully-baked features should be banged out as fast as prototypes. Sadly, building production features still seems to take almost as long as it used to. Wasn’t AI supposed to turn us all into hyper-productive 10xers?\nTo understand this AI prod",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "productivity"
-      ]
-    },
-    {
-      "id": "dd2499b9-4988-4962-8b47-6afcb9feff0f",
-      "name": "AI poster wins Ohio State Fair contest",
-      "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-      "oneLiner": "Contestants in the poster competition create unique designs that embody many of the great things that fairgoers love about the Ohio State Fair.",
-      "description": "Contestants in the poster competition create unique designs that embody many of the great things that fairgoers love about the Ohio State Fair. This year in particular, we asked artists to incorporate a patriotic theme in their designs to celebrate America's 250th anniversary.\nAmong the 38 total entries, the top five posters will be on display in the Creative Arts Exhibits Kasich Hall during the 2",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design"
+        "image"
       ]
     }
   ]
