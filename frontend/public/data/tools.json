@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-04T08:37:11.375379+00:00",
-  "count": 13,
+  "generatedAt": "2026-08-05T08:36:50.041766+00:00",
+  "count": 18,
   "tools": [
     {
-      "id": "a36ad991-3161-4125-a490-21059ed2746f",
+      "id": "c543cf99-40c0-42c4-8192-54c92bcb1383",
       "name": "troth",
       "url": "https://github.com/xgre1/troth",
       "oneLiner": "The AI partner whose mind lives outside the model.",
@@ -20,15 +20,15 @@
       ]
     },
     {
-      "id": "03f5791f-0fc4-4dd3-8f21-5f07ee877723",
-      "name": "llm-system-design",
-      "url": "https://github.com/lamhotsiagian/llm-system-design",
-      "oneLiner": "): A minimal, production-shaped LLM serving + RAG reference platform built in pure Python with zero heavy framework dependencies.",
-      "description": "Preview: https://drive.google.com/file/d/10BprurqQg2WjD4CvVOUBRNgWLJ602g-l/view?usp=sharing\nPremium Guide: https://shop.beacons.ai/aiengineeringinsider/454e1828-17a8-4b3f-83ba-9fe286e5d942\nA production-grade, interview-focused implementation of Large Language Model systems featuring:\nproject/\n(llm_platform\n): A minimal, production-shaped LLM serving + RAG reference platform built in pure Python wi",
-      "pricing": "free",
+      "id": "8d5108b3-d93d-4301-a291-c0ca17b37cad",
+      "name": "hermes-brasil",
+      "url": "https://github.com/Hermes-brasil/hermes-brasil",
+      "oneLiner": "Comunidade brasileira de Hermes Agent — o agente de IA open source da Nous Research que cresce com você.",
+      "description": "Comunidade brasileira de Hermes Agent — o agente de IA open source da Nous Research que cresce com você.\nEste repositório reúne skills, guias, integrações e recursos em português para a comunidade brasileira de Hermes Agent.\nHermes Agent é um agente de IA open source (MIT) da Nous Research, com um loop de aprendizado próprio: ele cria skills a partir da experiência, melhora durante o uso e constró",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
+      "isOpenSource": true,
       "githubUrl": null,
       "categories": [
         "design",
@@ -37,24 +37,24 @@
       ]
     },
     {
-      "id": "457f322b-a004-402d-b2bc-455c209c2102",
-      "name": "spotlight",
-      "url": "https://github.com/CMUL8/spotlight",
-      "oneLiner": "An open-source, multi-agent AI security engineer.",
-      "description": "An open-source, multi-agent AI security engineer. Point it at a repository and it reviews the code, reproduces the vulnerabilities it finds by actually exploiting them in an isolated sandbox, writes and independently verifies a fix, and signs every step so the whole chain can be audited later. Not a scanner that emits alerts — an engineer that hands you evidence.\nA sweep runs seven stages, gated b",
+      "id": "24ad2231-776a-41ef-82fe-75a378eeff70",
+      "name": "multiplayer-ai",
+      "url": "https://github.com/godfaddaai/multiplayer-ai",
+      "oneLiner": "Your teammate's AI session.",
+      "description": "Your teammate's AI session. On your terminal.\nMake existing Codex and Claude Code work multiplayer without moving the team into a new IDE.\nReal two-Mac receipt · Reagan’s Mac → Hudson’s existing Claude Code session · August 2, 2026\nImportant\nmpai is a public alpha for trusted teammates on macOS. It uses your existing Tailscale network and exposes only sessions the host explicitly shares. Read the ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/godfaddaai/multiplayer-ai",
       "categories": [
         "code",
-        "design",
+        "search",
         "security"
       ]
     },
     {
-      "id": "cf8f3270-d676-4843-a250-aa802e15e5b1",
+      "id": "ef66853a-eb2a-43a3-ab46-8e024f1b4eb5",
       "name": "PSAO-IJCAI-release",
       "url": "https://github.com/Commonwealth-Bank-of-Australia/PSAO-IJCAI-release",
       "oneLiner": "This repository is published by Commonwealth Bank of Australia for research, educational and community purposes only.",
@@ -71,7 +71,24 @@
       ]
     },
     {
-      "id": "b1514435-f185-483e-90aa-599cdd48d528",
+      "id": "35de8511-0f7d-49c7-bb3b-bf07de8b0a51",
+      "name": "sparkfetch",
+      "url": "https://github.com/Sparkfetch/sparkfetch",
+      "oneLiner": "Turn any URL into clean, structured, LLM-ready content.",
+      "description": "Turn any URL into clean, structured, LLM-ready content.\nThe open-source web fetching & content extraction API.\nSparkFetch is a powerful, self-hostable API that crawls and extracts web content — converting messy HTML into clean Markdown, structured JSON, or plain text. Built for AI applications, RAG pipelines, research tools, and any workflow that needs reliable web data.\nKey capabilities:\n- 🌐 Scra",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Sparkfetch/sparkfetch.git",
+      "categories": [
+        "code",
+        "writing",
+        "data"
+      ]
+    },
+    {
+      "id": "76b499a5-aaa1-4c44-8646-3b19e1431fd0",
       "name": "autoclip",
       "url": "https://github.com/artbyjazi/autoclip",
       "oneLiner": "Open-source, local-first AI video clipper.",
@@ -88,11 +105,11 @@
       ]
     },
     {
-      "id": "ed98cdf8-1659-456d-b270-8c37fe9192e3",
-      "name": "Visualize in 2D/3D map any GitHub user's followers",
-      "url": "https://github.com/ThierryRakotomanana/GitCharta",
-      "oneLiner": "Every star, fork, and follow is a country you've reached.",
-      "description": "Every star, fork, and follow is a country you've reached. GitCharta turns your GitHub footprint into an interactive world map of exactly how far your work travels.\nTry the live demo →: no GitHub token required to start.\nFollowers, stars, forks, pull requests: GitHub gives you raw counts. GitCharta is an open-source GitHub network visualizer that turns your whole footprint into a map, so you see ex",
+      "id": "bb4e4bd7-5d1c-4113-b356-c4730e2d1ca0",
+      "name": "top-ai-repos",
+      "url": "https://github.com/kittisora/top-ai-repos",
+      "oneLiner": "A discovery and tracking site for open-source AI repositories on GitHub.",
+      "description": "A discovery and tracking site for open-source AI repositories on GitHub.\nCanonical domain: topairepos.com (aireporank.com\nand airepolist.com\nredirect to it).\nMost \"AI list\" sites rank by total stars, which mostly tells you what was popular three years ago. This one tracks two independent signals:\n- Trend score — is this moving right now? Computed from daily/weekly star deltas, contributor growth a",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -100,28 +117,63 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design"
+        "search",
+        "data"
       ]
     },
     {
-      "id": "d735629f-db11-4b62-b8b5-3e4adedbbd6d",
-      "name": "Manhwa AI",
-      "url": "https://www.manhwaai.net",
-      "oneLiner": "Use the AI manhwa generator to turn your story into full-color manhwa and webtoons with consistent characters, editable panels, and speech bubbles.",
-      "description": "Story Premise\nSet up your story background and premise\nAI Manhwa Generator for Comics\nUse the AI manhwa generator to turn your story into full-color manhwa and webtoons with consistent characters, editable panels, and speech bubbles.\nThe AI manhwa generator turns a story idea into a polished, publish-ready Korean comic in three guided steps.\nSet up your story background and premise\nGenerate manhwa",
-      "pricing": "free",
+      "id": "6fbe38cc-46fc-49f1-9c9b-6f4a81146655",
+      "name": "Bean Network Tester",
+      "url": "https://github.com/donislawdev/BeanNetworkTester",
+      "oneLiner": "Bean Network Tester is a tool for testers and developers: check how your application behaves on a poor connection.",
+      "description": "Bean Network Tester is a tool for testers and developers: check how your application behaves on a poor connection. Like Clumsy or NetLimiter, it lets you deliberately degrade the network - add ping, drop packets, cap the speed, tear connections down, and more. It works by intercepting traffic with the WinDivert driver (via PyDivert), and offers both a clear windowed interface with tooltips and a c",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
+      "isOpenSource": true,
       "githubUrl": null,
       "categories": [
+        "code",
         "design",
-        "productivity",
+        "security"
+      ]
+    },
+    {
+      "id": "053e8888-98a6-4b6a-96cb-ec82c828212c",
+      "name": "GuidedReview",
+      "url": "https://guidedreview.dev",
+      "oneLiner": "Makes “reading code” wayyyy better: clusters PR diffs into review units, short summaries, keyboard-first.",
+      "description": "A better way for humans to review AI generated code\nMakes “reading code” wayyyy better: clusters PR diffs into review units, short summaries, keyboard-first. AI structures the walkthrough — you still decide.\nFree · Open source · Bring your own LLM key\nWhy?\nCode review is hard,\nand it's only getting harder\nAI agents are writing code for you, and you have PRs pending your review.\nWhen you installed ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
         "agents"
       ]
     },
     {
-      "id": "5707ac24-ece5-46d6-96c5-a0b3e9ce1572",
+      "id": "be056f4e-e9ec-4767-aefc-5d19b92df1d6",
+      "name": "wai-play",
+      "url": "https://github.com/waiterve/wai-play",
+      "oneLiner": "python -m pip install -r requirements.",
+      "description": "把网页游戏地址交给 AI，让它像玩家一样试玩、发现问题，并给出可复现的证据和修改建议。\nWAI Play 是面向 vibe coding 网页游戏创作者 的自动试玩与质量诊断 Agent。它会在真实浏览器中操作游戏，理解游戏目标和流程，记录状态、截图与录像，最后生成结构化评分、问题卡片和通俗易懂的优化建议。\n你不需要先写复杂的自动化脚本：选择游戏类型、填写游戏 URL，就可以开始基础测试；如果同时上传 ZIP 源码包，WAI Play 还能结合源码理解通关条件、关键节点和玩法规则，让路线规划更准确。\n用 AI 快速做出网页游戏并不难，难的是回答下面这些问题：\n- 游戏能不能从开始完整玩到通关？\n- 核心玩法、操作反馈和界面是否合理？\n- 如何快速测试游戏获得关键节点的问题？\n- 上述问题又应该如何进行确认？\n- 发现问题以后，应该具体修改什么，又该如何后续验证？\nWAI Play 把这些工",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/waiterve/wai-play.git",
+      "categories": [
+        "design",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "4630b945-5548-40f3-ac51-51cd2ad7c2aa",
       "name": "clone-chat",
       "url": "https://github.com/AFan4724/clone-chat",
       "oneLiner": "npm run import:chat -- \"E:\\path\\normalized.",
@@ -138,7 +190,7 @@
       ]
     },
     {
-      "id": "097f90a5-f67c-4c28-b79d-72c66f8fcd4c",
+      "id": "8c38fde6-6d55-4f58-940e-9882674d804d",
       "name": "bindwidth",
       "url": "https://github.com/juxhinr/bindwidth",
       "oneLiner": "Size your way to private local AI.",
@@ -155,7 +207,7 @@
       ]
     },
     {
-      "id": "b62317e4-6195-46f0-9656-aa679c4cf1f4",
+      "id": "c8177c46-0885-4bba-b025-b0579ffb1ca4",
       "name": "linkit",
       "url": "https://github.com/blue-idea/linkit",
       "oneLiner": "Linkit is a desktop \"Smart Knowledge Curation Space\" (桌面端智能书签管理与知识收藏空间) designed to help you collect, organize, discover, and reuse web links, page resources, and creative inspirat",
@@ -172,11 +224,11 @@
       ]
     },
     {
-      "id": "d6073d80-13e9-4e9e-8945-1af8510a406b",
+      "id": "bac480a2-f505-4f97-bb29-1d85117afc3b",
       "name": "genoffice",
       "url": "https://github.com/genspark-ai/genoffice",
       "oneLiner": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF — five Electron apps sharing one engine layer, built around AI editing as a fir",
-      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF — five Electron apps sharing one engine layer, built around AI editing as a first-class workflow rather than a bolted-on chat box.\nSigned installers built from main\n:\n- macOS (Apple Silicon): GenOffice-0.4.110-arm64.dmg\n- Windows (x64): GenOfficeSetup-v0.4.110.exe\nOther versions are on the Releases",
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF — five Electron apps sharing one engine layer, built around AI editing as a first-class workflow rather than a bolted-on chat box.\nWatch the demo video on YouTube\nSigned installers built from main\n:\n- macOS (Apple Silicon): GenOffice-0.5.1-arm64.dmg\n- Windows (x64): GenOfficeSetup-v0.5.1.exe\nPrevio",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -189,7 +241,7 @@
       ]
     },
     {
-      "id": "32bf6902-207d-4985-9605-50cdf5421a78",
+      "id": "262e37a5-3964-4265-9d0a-8a13ad39c6d6",
       "name": "localai-rag-live2d",
       "url": "https://github.com/ice-only/localai-rag-live2d",
       "oneLiner": "pip install -r requirements.",
@@ -205,11 +257,11 @@
       ]
     },
     {
-      "id": "c2fa8eb9-9bb6-4d0e-bbfd-bf8b44d1305f",
-      "name": "A GenAI image benchmark for production design work",
-      "url": "https://img.ly/ai-benchmarks/",
-      "oneLiner": "The same prompt, every model, side by side.",
-      "description": "Benchmark GenAI image models\nThe same prompt, every model, side by side. We run identical prompts across the leading image generation models and score the results on what production design work actually needs: typography, brand-color fidelity, transparency, composition, consistency, cost and latency. When a new model drops, the whole suite re-runs.\n15\nModels benchmarked\n37\nCanonical prompts\n1662\nI",
+      "id": "5317a3b8-b2e8-44ab-aa75-31a26d7528f0",
+      "name": "Rever-browser",
+      "url": "https://github.com/greekr4/rever-browser",
+      "oneLiner": "Ask in plain English — the agent drives a real browser, finds API flaws, proves them live, and turns it into a one-click macro.",
+      "description": "Ask in plain English — the agent drives a real browser, finds API flaws, proves them live, and turns it into a one-click macro.\nrever-browser\nis an Electron app that pairs a real Chromium tab with an ACP-based coding agent. You browse a target site in an embedded <webview>\n; the app captures every network request via the Chrome DevTools Protocol, and the agent can read that traffic, analyze the si",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -218,7 +270,41 @@
       "categories": [
         "code",
         "design",
-        "image"
+        "agents"
+      ]
+    },
+    {
+      "id": "a1de7784-7a6c-495d-abb8-8b7d467a2b00",
+      "name": "Aidress",
+      "url": "https://github.com/Aidress-ai/Aidress",
+      "oneLiner": "AI agents are being deployed at scale but cannot find or transact with unknown counterparties — there is no shared infrastructure to discover who to talk to, match agents by capabi",
+      "description": "AI agents are being deployed at scale but cannot find or transact with unknown counterparties — there is no shared infrastructure to discover who to talk to, match agents by capability, verify legitimacy, or establish trust before value moves. Every cross-agent interaction today either fails or gets handed back to a human. Current protocols like Google's A2A and Coinbase's x402 solve parts of the ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "agents",
+        "search"
+      ]
+    },
+    {
+      "id": "71bc1fcd-58ce-4c26-89b1-546d601b611e",
+      "name": "Memcode launches a new terminal coding agent",
+      "url": "https://www.memcode.ai/",
+      "oneLiner": "Your repo has a history.",
+      "description": "memcode · terminal\nYour repo has a history.\nYour agent should know it.\nMemcode remembers your codebase the way a senior engineer does, then puts a coding agent on top of that memory, right in your terminal. Install in one line.\nPrefer to inspect first? Read the install script\nWhy Memcode\nNot another chat wrapper. A persistent memory system that makes the agent actually useful, because it knows wha",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
       ]
     }
   ]
