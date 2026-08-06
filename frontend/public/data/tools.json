@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-08-05T08:36:50.041766+00:00",
-  "count": 18,
+  "generatedAt": "2026-08-06T08:36:46.604899+00:00",
+  "count": 16,
   "tools": [
     {
-      "id": "c543cf99-40c0-42c4-8192-54c92bcb1383",
+      "id": "64293c42-fcb2-48a4-b685-4070b6c44228",
+      "name": "vibecodingex",
+      "url": "https://github.com/eticmedya/vibecodingex",
+      "oneLiner": "Sahada, kapı kapı gezerek yazılım satan bir kişi için yapılmış, tamamen kendi bilgisayarında çalışan bir keşif aracı.",
+      "description": "Sahada, kapı kapı gezerek yazılım satan bir kişi için yapılmış, tamamen kendi bilgisayarında çalışan bir keşif aracı. Haritadan bir bölge seçiyorsun; VibeCodingEx çevredeki işletmeleri buluyor, her biri için elle tutulur bir yazılım fikri üretiyor ve içeri girdiğinde ağzından çıkacak satış cümlesini önceden yazıyor.\nFikir basit: bir esnafın kapısından \"web sitenizi konuşalım mı?\" diye boş bir cüml",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "search",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "d7001e3c-00e3-4769-8fe5-a94a9cd65bf7",
       "name": "troth",
       "url": "https://github.com/xgre1/troth",
       "oneLiner": "The AI partner whose mind lives outside the model.",
@@ -14,13 +31,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/xgre1/troth.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "8d5108b3-d93d-4301-a291-c0ca17b37cad",
+      "id": "e2a6d5f0-ed8a-44e1-bed4-5f21f571ae10",
       "name": "hermes-brasil",
       "url": "https://github.com/Hermes-brasil/hermes-brasil",
       "oneLiner": "Comunidade brasileira de Hermes Agent — o agente de IA open source da Nous Research que cresce com você.",
@@ -32,12 +49,12 @@
       "githubUrl": null,
       "categories": [
         "design",
-        "agents",
-        "rag"
+        "rag",
+        "agents"
       ]
     },
     {
-      "id": "24ad2231-776a-41ef-82fe-75a378eeff70",
+      "id": "780c7683-4d1c-4535-ac01-bfd964c0d977",
       "name": "multiplayer-ai",
       "url": "https://github.com/godfaddaai/multiplayer-ai",
       "oneLiner": "Your teammate's AI session.",
@@ -48,30 +65,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/godfaddaai/multiplayer-ai",
       "categories": [
-        "code",
         "search",
+        "code",
         "security"
       ]
     },
     {
-      "id": "ef66853a-eb2a-43a3-ab46-8e024f1b4eb5",
-      "name": "PSAO-IJCAI-release",
-      "url": "https://github.com/Commonwealth-Bank-of-Australia/PSAO-IJCAI-release",
-      "oneLiner": "This repository is published by Commonwealth Bank of Australia for research, educational and community purposes only.",
-      "description": "This repository is published by Commonwealth Bank of Australia for research, educational and community purposes only. It is not financial, investment, legal, tax or model-performance advice and must not be relied upon as such. It does not represent the systems, models or controls CBA uses in production, nor any commitment by CBA to adopt or use the content in production.\nThe content is provided “a",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "rag"
-      ]
-    },
-    {
-      "id": "35de8511-0f7d-49c7-bb3b-bf07de8b0a51",
+      "id": "fc9cc30d-a4cb-4505-bd8c-37f8da24f54f",
       "name": "sparkfetch",
       "url": "https://github.com/Sparkfetch/sparkfetch",
       "oneLiner": "Turn any URL into clean, structured, LLM-ready content.",
@@ -83,12 +83,12 @@
       "githubUrl": "https://github.com/Sparkfetch/sparkfetch.git",
       "categories": [
         "code",
-        "writing",
-        "data"
+        "data",
+        "writing"
       ]
     },
     {
-      "id": "76b499a5-aaa1-4c44-8646-3b19e1431fd0",
+      "id": "a77a62a6-1610-44a2-8807-e39f69337889",
       "name": "autoclip",
       "url": "https://github.com/artbyjazi/autoclip",
       "oneLiner": "Open-source, local-first AI video clipper.",
@@ -99,13 +99,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/artbyjazi/autoclip.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "audio"
       ]
     },
     {
-      "id": "bb4e4bd7-5d1c-4113-b356-c4730e2d1ca0",
+      "id": "7aec30eb-aceb-49c1-8c0f-debd6255b27a",
       "name": "top-ai-repos",
       "url": "https://github.com/kittisora/top-ai-repos",
       "oneLiner": "A discovery and tracking site for open-source AI repositories on GitHub.",
@@ -116,47 +116,62 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "search",
+        "code",
         "data"
       ]
     },
     {
-      "id": "6fbe38cc-46fc-49f1-9c9b-6f4a81146655",
-      "name": "Bean Network Tester",
-      "url": "https://github.com/donislawdev/BeanNetworkTester",
-      "oneLiner": "Bean Network Tester is a tool for testers and developers: check how your application behaves on a poor connection.",
-      "description": "Bean Network Tester is a tool for testers and developers: check how your application behaves on a poor connection. Like Clumsy or NetLimiter, it lets you deliberately degrade the network - add ping, drop packets, cap the speed, tear connections down, and more. It works by intercepting traffic with the WinDivert driver (via PyDivert), and offers both a clear windowed interface with tooltips and a c",
-      "pricing": "open_source",
+      "id": "0fa05220-de6e-4e46-9e38-12572f76fc29",
+      "name": "AIFA",
+      "url": "https://github.com/AdrianBesleaga/AIFA",
+      "oneLiner": "AI Atomic Feature Architecture, or AIFA, is an experiment in making software systems from small, explicit, independently implementable features.",
+      "description": "AI Atomic Feature Architecture, or AIFA, is an experiment in making software systems from small, explicit, independently implementable features.\nThe core question:\nCan a developer or AI agent implement one feature without needing to understand the whole project?\nAIFA tries to make the answer \"yes\" by turning each feature into a self-contained contract.\nMost codebases ask contributors to learn the ",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
-      "isOpenSource": true,
+      "quality": 10,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
-        "security"
+        "code",
+        "data"
       ]
     },
     {
-      "id": "053e8888-98a6-4b6a-96cb-ec82c828212c",
-      "name": "GuidedReview",
-      "url": "https://guidedreview.dev",
-      "oneLiner": "Makes “reading code” wayyyy better: clusters PR diffs into review units, short summaries, keyboard-first.",
-      "description": "A better way for humans to review AI generated code\nMakes “reading code” wayyyy better: clusters PR diffs into review units, short summaries, keyboard-first. AI structures the walkthrough — you still decide.\nFree · Open source · Bring your own LLM key\nWhy?\nCode review is hard,\nand it's only getting harder\nAI agents are writing code for you, and you have PRs pending your review.\nWhen you installed ",
-      "pricing": "open_source",
+      "id": "783ef44f-838a-48f4-8c1d-81f5ee9a041c",
+      "name": "mc-architect-mcp",
+      "url": "https://github.com/AnctyEnly453/mc-architect-mcp",
+      "oneLiner": "English summary: a local Fabric mod and MCP server for inspecting, building, validating, photographing, and undoing changes in Minecraft Java single-player worlds.",
+      "description": "MC Architect MCP 是一套面向 AI/MCP 客户端的 Minecraft Java 单人世界建筑系统。它通过本地 Fabric Mod 读取和修改真实世界，再由 TypeScript MCP Bridge 提供地形扫描、蓝图施工、几何生成、路径验证、照明检查、截图验收和持久化撤销等高层工具。\nEnglish summary: a local Fabric mod and MCP server for inspecting, building, validating, photographing, and undoing changes in Minecraft Java single-player worlds.\n- 32 个 MCP 工具：覆盖世界控制、调查、施工、验证、摄影和恢复。\n- 五种世界扫描：\nsummary\n、heightmap\n、collision\n、lig",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
-      "isOpenSource": true,
+      "quality": 10,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "design",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "be056f4e-e9ec-4767-aefc-5d19b92df1d6",
+      "id": "dbbfa701-093e-444d-b72b-f78f33e1c9d6",
+      "name": "yu-ai-learn",
+      "url": "https://github.com/liyupi/yu-ai-learn",
+      "oneLiner": "pip install -r requirements.",
+      "description": "输入一个你想学的知识点（一句话、一段话、一个文档），AI 自动联网检索 / 解析文档，生成互动闯关题库， 答题闯关后自动生成学习复盘报告 —— 一个把\"学习\"变成\"闯关游戏\"的 AI 微信小程序。\n现代学习者常常面临\"信息过载\"与\"学习动力不足\"的双重痛点。本项目尝试用 AI 把非结构化的海量信息 （一句话概念、文档、网页）瞬间转化为结构化、有反馈、游戏化的问答闯关体验，全流程跑通 输入 → AI 出题 → 闯关答题 → 复盘报告 的学习闭环。\n- 一句话起题：主页只有一个输入框，输入你想学的知识点即可开始。\n- AI 联网检索 + 出题：基于 LangChain / LangGraph 编排，结合 Tavily 联网搜索，自动补全知识背景并生成单选 / 多选 / 判断题， 每题都配有 AI 生成的深度讲解。\n- 多格式知识库（RAG）：支持上传 PDF / Word 文档构建私有知识库，",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "rag",
+        "image"
+      ]
+    },
+    {
+      "id": "283c0274-d6bd-4614-8dad-3f14ec37c746",
       "name": "wai-play",
       "url": "https://github.com/waiterve/wai-play",
       "oneLiner": "python -m pip install -r requirements.",
@@ -168,12 +183,12 @@
       "githubUrl": "https://github.com/waiterve/wai-play.git",
       "categories": [
         "design",
-        "agents",
-        "data"
+        "data",
+        "agents"
       ]
     },
     {
-      "id": "4630b945-5548-40f3-ac51-51cd2ad7c2aa",
+      "id": "51b97ea4-f0d3-4e3b-b69e-647757ab158a",
       "name": "clone-chat",
       "url": "https://github.com/AFan4724/clone-chat",
       "oneLiner": "npm run import:chat -- \"E:\\path\\normalized.",
@@ -185,12 +200,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "data"
+        "data",
+        "agents"
       ]
     },
     {
-      "id": "8c38fde6-6d55-4f58-940e-9882674d804d",
+      "id": "3a82bfa9-9d16-4bca-a27c-0fefce1d36e1",
       "name": "bindwidth",
       "url": "https://github.com/juxhinr/bindwidth",
       "oneLiner": "Size your way to private local AI.",
@@ -202,12 +217,12 @@
       "githubUrl": "https://github.com/juxhinr/bindwidth.git",
       "categories": [
         "code",
-        "agents",
-        "data"
+        "data",
+        "agents"
       ]
     },
     {
-      "id": "c8177c46-0885-4bba-b025-b0579ffb1ca4",
+      "id": "f41ab0cf-3ec4-4337-b092-c44c0037b1f7",
       "name": "linkit",
       "url": "https://github.com/blue-idea/linkit",
       "oneLiner": "Linkit is a desktop \"Smart Knowledge Curation Space\" (桌面端智能书签管理与知识收藏空间) designed to help you collect, organize, discover, and reuse web links, page resources, and creative inspirat",
@@ -218,17 +233,17 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "bac480a2-f505-4f97-bb29-1d85117afc3b",
+      "id": "361b312d-cc9f-4cbe-9d0d-bf6072674a76",
       "name": "genoffice",
       "url": "https://github.com/genspark-ai/genoffice",
       "oneLiner": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF — five Electron apps sharing one engine layer, built around AI editing as a fir",
-      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF — five Electron apps sharing one engine layer, built around AI editing as a first-class workflow rather than a bolted-on chat box.\nWatch the demo video on YouTube\nSigned installers built from main\n:\n- macOS (Apple Silicon): GenOffice-0.5.1-arm64.dmg\n- Windows (x64): GenOfficeSetup-v0.5.1.exe\nPrevio",
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF — five Electron apps sharing one engine layer, built around AI editing as a first-class workflow rather than a bolted-on chat box.\nWatch the demo video on YouTube\nSigned installers built from main\n:\n- macOS (Apple Silicon): GenOffice-0.5.83-arm64.dmg\n- Windows (x64): GenOfficeSetup-v0.5.79.exe\nPrev",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -241,70 +256,20 @@
       ]
     },
     {
-      "id": "262e37a5-3964-4265-9d0a-8a13ad39c6d6",
-      "name": "localai-rag-live2d",
-      "url": "https://github.com/ice-only/localai-rag-live2d",
-      "oneLiner": "pip install -r requirements.",
-      "description": "基于量化千问 4B 模型 + 本地 RAG 文档检索 + Live2D 二次元形象的桌面 AI 伴侣。\n- Live2D 二次元角色桌面显示：透明无边框窗口，角色可拖动，支持触摸交互\n- 本地 LLM 推理：Qwen3.5-4B GGUF 量化模型，Vulkan GPU 加速，CPU 亦可流畅运行\n- RAG 本地文档检索：扔文件进\ndocs/\n目录自动索引，支持 txt / md / pdf - 对话记忆持久化：JSON 存储，多用户隔离，Token 预算自动裁剪\n- 多平台适配：桌面本地 + QQ OneBot v11，适配器模式可扩展\n- 透明无边框桌面窗口：PyQt5 置顶窗口，暗色主题，系统托盘控制\n- .env 配置驱动：开箱即用，适配不同显卡\n- Python 3.10+\n- 内存 8GB+（推荐 16GB）\n- 磁盘约 5GB（含 3.4GB 模型文件）\n# 1. 安装依赖",
+      "id": "edaf9727-99e6-4a53-beaa-f96283fb962d",
+      "name": "Scout",
+      "url": "https://github.com/j-sofia/Scout",
+      "oneLiner": "Scout is a self-hosted Discord bot that joins an authorized voice channel, keeps speakers separated by Discord identity, transcribes English speech locally, and turns the conversat",
+      "description": "Scout is a self-hosted Discord bot that joins an authorized voice channel, keeps speakers separated by Discord identity, transcribes English speech locally, and turns the conversation into durable, searchable meeting memory. Raw audio and verbatim transcripts are deleted after each checkpoint is safely compacted.\nNo audio, transcript, summary, prompt, embedding, or conversation metadata is sent to",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
+        "code",
+        "voice",
         "rag"
-      ]
-    },
-    {
-      "id": "5317a3b8-b2e8-44ab-aa75-31a26d7528f0",
-      "name": "Rever-browser",
-      "url": "https://github.com/greekr4/rever-browser",
-      "oneLiner": "Ask in plain English — the agent drives a real browser, finds API flaws, proves them live, and turns it into a one-click macro.",
-      "description": "Ask in plain English — the agent drives a real browser, finds API flaws, proves them live, and turns it into a one-click macro.\nrever-browser\nis an Electron app that pairs a real Chromium tab with an ACP-based coding agent. You browse a target site in an embedded <webview>\n; the app captures every network request via the Chrome DevTools Protocol, and the agent can read that traffic, analyze the si",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "a1de7784-7a6c-495d-abb8-8b7d467a2b00",
-      "name": "Aidress",
-      "url": "https://github.com/Aidress-ai/Aidress",
-      "oneLiner": "AI agents are being deployed at scale but cannot find or transact with unknown counterparties — there is no shared infrastructure to discover who to talk to, match agents by capabi",
-      "description": "AI agents are being deployed at scale but cannot find or transact with unknown counterparties — there is no shared infrastructure to discover who to talk to, match agents by capability, verify legitimacy, or establish trust before value moves. Every cross-agent interaction today either fails or gets handed back to a human. Current protocols like Google's A2A and Coinbase's x402 solve parts of the ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents",
-        "search"
-      ]
-    },
-    {
-      "id": "71bc1fcd-58ce-4c26-89b1-546d601b611e",
-      "name": "Memcode launches a new terminal coding agent",
-      "url": "https://www.memcode.ai/",
-      "oneLiner": "Your repo has a history.",
-      "description": "memcode · terminal\nYour repo has a history.\nYour agent should know it.\nMemcode remembers your codebase the way a senior engineer does, then puts a coding agent on top of that memory, right in your terminal. Install in one line.\nPrefer to inspect first? Read the install script\nWhy Memcode\nNot another chat wrapper. A persistent memory system that makes the agent actually useful, because it knows wha",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
       ]
     }
   ]
