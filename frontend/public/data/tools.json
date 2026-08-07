@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T08:36:46.604899+00:00",
-  "count": 16,
+  "generatedAt": "2026-08-07T07:16:36.789728+00:00",
+  "count": 20,
   "tools": [
     {
-      "id": "64293c42-fcb2-48a4-b685-4070b6c44228",
+      "id": "7b4a4944-3b97-4190-9569-185e790f4eb3",
       "name": "vibecodingex",
       "url": "https://github.com/eticmedya/vibecodingex",
       "oneLiner": "Sahada, kapı kapı gezerek yazılım satan bir kişi için yapılmış, tamamen kendi bilgisayarında çalışan bir keşif aracı.",
@@ -14,13 +14,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "search",
         "code",
-        "data"
+        "data",
+        "search"
       ]
     },
     {
-      "id": "d7001e3c-00e3-4769-8fe5-a94a9cd65bf7",
+      "id": "21a91251-9a98-466c-b72f-fc377af4d0d7",
       "name": "troth",
       "url": "https://github.com/xgre1/troth",
       "oneLiner": "The AI partner whose mind lives outside the model.",
@@ -31,13 +31,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/xgre1/troth.git",
       "categories": [
-        "design",
         "code",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "e2a6d5f0-ed8a-44e1-bed4-5f21f571ae10",
+      "id": "92d79073-923a-4f88-b676-26a455f9d860",
       "name": "hermes-brasil",
       "url": "https://github.com/Hermes-brasil/hermes-brasil",
       "oneLiner": "Comunidade brasileira de Hermes Agent — o agente de IA open source da Nous Research que cresce com você.",
@@ -48,13 +48,28 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
+        "agents",
         "design",
-        "rag",
-        "agents"
+        "rag"
       ]
     },
     {
-      "id": "780c7683-4d1c-4535-ac01-bfd964c0d977",
+      "id": "7b120200-72fe-46cc-9aee-bc2d40374cfa",
+      "name": "Flint",
+      "url": "https://github.com/formetaohy/Flint",
+      "oneLiner": "Fast, cross-platform LLM inference engine.",
+      "description": "Fast, cross-platform LLM inference engine.\nFlint is a local LLM inference engine written in pure Rust on WGPU. It runs on the GPU via portable compute shaders, supporting Windows, Linux/Android, macOS/iOS, and the Web (WASM).\n- Cross-platform — Built on WGPU; runs on every platform.\n- Fast — Highly optimized WGSL-based inference core.\n- Multi-format — Supports\nsafetensors\n,ONNX\nand quantizedGGUF\nf",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/formetaohy/Flint.git",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "id": "9c462af1-a278-4ac3-9316-cb2ad257d1ad",
       "name": "multiplayer-ai",
       "url": "https://github.com/godfaddaai/multiplayer-ai",
       "oneLiner": "Your teammate's AI session.",
@@ -65,13 +80,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/godfaddaai/multiplayer-ai",
       "categories": [
-        "search",
         "code",
-        "security"
+        "security",
+        "search"
       ]
     },
     {
-      "id": "fc9cc30d-a4cb-4505-bd8c-37f8da24f54f",
+      "id": "4af3b249-3a6a-4af0-b42d-bba68062ac5e",
+      "name": "g023code",
+      "url": "https://github.com/g023/g023code",
+      "oneLiner": "A pure-Python AI coding agent for your terminal, powered by DeepSeek V4.",
+      "description": "A pure-Python AI coding agent for your terminal, powered by DeepSeek V4.\nSubagent-First · Context is Currency · Terminal-native\ng023 Code reads your project, searches it, searches the web, runs commands, fetches pages, and looks at images — while telling you exactly what it is doing and what it just cost. Data-heavy work is delegated by default: a subagent reads the file in an isolated context and",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "6951bdba-ca69-4e46-9930-47fb72228551",
       "name": "sparkfetch",
       "url": "https://github.com/Sparkfetch/sparkfetch",
       "oneLiner": "Turn any URL into clean, structured, LLM-ready content.",
@@ -83,63 +115,80 @@
       "githubUrl": "https://github.com/Sparkfetch/sparkfetch.git",
       "categories": [
         "code",
-        "data",
-        "writing"
-      ]
-    },
-    {
-      "id": "a77a62a6-1610-44a2-8807-e39f69337889",
-      "name": "autoclip",
-      "url": "https://github.com/artbyjazi/autoclip",
-      "oneLiner": "Open-source, local-first AI video clipper.",
-      "description": "Open-source, local-first AI video clipper. Long video in → ranked, caption-burned, speaker-tracked 9:16 clips out.\nPaste a YouTube link or drop a file. AutoClip transcribes it, uses an LLM to find the moments worth clipping, reframes them to vertical while tracking whoever is speaking, burns in animated captions, and exports platform-ready MP4s.\nNo accounts. No uploads to anyone's servers. No wate",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/artbyjazi/autoclip.git",
-      "categories": [
-        "design",
-        "code",
-        "audio"
-      ]
-    },
-    {
-      "id": "7aec30eb-aceb-49c1-8c0f-debd6255b27a",
-      "name": "top-ai-repos",
-      "url": "https://github.com/kittisora/top-ai-repos",
-      "oneLiner": "A discovery and tracking site for open-source AI repositories on GitHub.",
-      "description": "A discovery and tracking site for open-source AI repositories on GitHub.\nCanonical domain: topairepos.com (aireporank.com\nand airepolist.com\nredirect to it).\nMost \"AI list\" sites rank by total stars, which mostly tells you what was popular three years ago. This one tracks two independent signals:\n- Trend score — is this moving right now? Computed from daily/weekly star deltas, contributor growth a",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "search",
-        "code",
+        "writing",
         "data"
       ]
     },
     {
-      "id": "0fa05220-de6e-4e46-9e38-12572f76fc29",
-      "name": "AIFA",
-      "url": "https://github.com/AdrianBesleaga/AIFA",
-      "oneLiner": "AI Atomic Feature Architecture, or AIFA, is an experiment in making software systems from small, explicit, independently implementable features.",
-      "description": "AI Atomic Feature Architecture, or AIFA, is an experiment in making software systems from small, explicit, independently implementable features.\nThe core question:\nCan a developer or AI agent implement one feature without needing to understand the whole project?\nAIFA tries to make the answer \"yes\" by turning each feature into a self-contained contract.\nMost codebases ask contributors to learn the ",
-      "pricing": "unknown",
+      "id": "198c2c59-63a6-4eb8-9a03-5d482351f236",
+      "name": "Selvedge",
+      "url": "https://github.com/masondelan/selvedge",
+      "oneLiner": "Long-term memory for AI-coded codebases — including what was already tried and rejected.",
+      "description": "selvedge.sh · PyPI · GitHub\nLong-term memory for AI-coded codebases — including what was already tried and rejected.\nLine attribution tells you who wrote something. Selvedge tells your agent\nwhat not to write next: the approaches this codebase already tried,\nreverted, and why. It's a git blame\nfor AI agents, for the why rather\nthan which model touched which line — captured live, by the agent, as t",
+      "pricing": "free",
       "country": null,
-      "quality": 10,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/google-gemini/gemini-cli",
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "a9210540-5f9a-4977-b38c-7a722408f851",
+      "name": "AI Tutoring with Visual Grounding",
+      "url": "https://useknowable.ai/",
+      "oneLiner": "Every section of the SAT and ACT, drilled adaptively.",
+      "description": "Focused on\nTest Preparation\nEvery section of the SAT and ACT, drilled adaptively.\nMaking Something\nDifferent ✨\nUsing specialized hardware available on recent MacBooks, we’re able to see what’s on your page as you do the work.\nCheck if Your Device is Compatible ⚙️\nEnter the model of your MacBook and we’ll tell you if it qualifies\nOne of a Kind\nYeah, other AI platforms exist. But nobody else offers ",
+      "pricing": "free_trial",
+      "country": null,
+      "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "design",
-        "code",
-        "data"
+        "research",
+        "voice"
       ]
     },
     {
-      "id": "783ef44f-838a-48f4-8c1d-81f5ee9a041c",
+      "id": "908e401c-10cd-4506-bd8a-6217875e2019",
+      "name": "GreatArrow.ai",
+      "url": "https://www.greatarrow.ai",
+      "oneLiner": "Great Arrow gives Claude, ChatGPT, Cursor, and your terminal one shared brain for your business — plus 316 real actions they can take across the 38 tools you already run.",
+      "description": "Great Arrow gives Claude, ChatGPT, Cursor, and your terminal one shared brain for your business — plus 316 real actions they can take across the 38 tools you already run.\nSign up now. Setup takes about five minutes, and a Free trial tier is available — no credit card needed. Great Arrow is still in beta, so your feedback is appreciated.\nYou agreed to $48k annual with a 2-week pilot, and Sam owns t",
+      "pricing": "free_trial",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "868093f9-27c0-40b0-b12e-4f0ca8bcfc97",
+      "name": "Introducing Dogwood",
+      "url": "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/",
+      "oneLiner": "Part of what makes AI agents so useful is their ability to interact with the external world by running tools.",
+      "description": "AWS Open Source Blog\nIntroducing Dogwood: runtime verification for AI agents\nPart of what makes AI agents so useful is their ability to interact with the external world by running tools. But these tool calls are also the source of the biggest risks when it comes to making agents safe to use. The best way to address these risks in a dependable and reliable manner is to put a layer of control at the",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "fb903a5f-58e4-4a28-91ba-70a7a92c593c",
       "name": "mc-architect-mcp",
       "url": "https://github.com/AnctyEnly453/mc-architect-mcp",
       "oneLiner": "English summary: a local Fabric mod and MCP server for inspecting, building, validating, photographing, and undoing changes in Minecraft Java single-player worlds.",
@@ -154,7 +203,7 @@
       ]
     },
     {
-      "id": "dbbfa701-093e-444d-b72b-f78f33e1c9d6",
+      "id": "061f8032-fd21-46d1-ae6c-1534a3c020d0",
       "name": "yu-ai-learn",
       "url": "https://github.com/liyupi/yu-ai-learn",
       "oneLiner": "pip install -r requirements.",
@@ -171,7 +220,7 @@
       ]
     },
     {
-      "id": "283c0274-d6bd-4614-8dad-3f14ec37c746",
+      "id": "63d29970-0f20-4b65-b35e-a25044f18b49",
       "name": "wai-play",
       "url": "https://github.com/waiterve/wai-play",
       "oneLiner": "python -m pip install -r requirements.",
@@ -182,13 +231,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/waiterve/wai-play.git",
       "categories": [
+        "agents",
         "design",
-        "data",
-        "agents"
+        "data"
       ]
     },
     {
-      "id": "51b97ea4-f0d3-4e3b-b69e-647757ab158a",
+      "id": "b28ae2db-e764-4d8b-bc4f-deaa49c3d733",
+      "name": "AI-Knowledge-Management-Platform",
+      "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
+      "oneLiner": "The Agentic Documents Assistant is an LLM-powered assistant that allows users to answer complex questions from business documents through natural conversations.",
+      "description": "The Agentic Documents Assistant is an LLM-powered assistant that allows users to answer complex questions from business documents through natural conversations.\nIt supports answering factual questions by retrieving relevant information directly from documents using semantic search based on the RAG (Retrieval-Augmented Generation) design pattern.\nAdditionally, it can answer analytical questions suc",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "data",
+        "rag"
+      ]
+    },
+    {
+      "id": "692b67e6-71dc-4b1c-ac2d-cf7ce3256ac4",
       "name": "clone-chat",
       "url": "https://github.com/AFan4724/clone-chat",
       "oneLiner": "npm run import:chat -- \"E:\\path\\normalized.",
@@ -200,12 +266,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "data",
-        "agents"
+        "agents",
+        "data"
       ]
     },
     {
-      "id": "3a82bfa9-9d16-4bca-a27c-0fefce1d36e1",
+      "id": "4d7fa823-225a-4da7-8c22-3b1db56a65f1",
       "name": "bindwidth",
       "url": "https://github.com/juxhinr/bindwidth",
       "oneLiner": "Size your way to private local AI.",
@@ -217,12 +283,12 @@
       "githubUrl": "https://github.com/juxhinr/bindwidth.git",
       "categories": [
         "code",
-        "data",
-        "agents"
+        "agents",
+        "data"
       ]
     },
     {
-      "id": "f41ab0cf-3ec4-4337-b092-c44c0037b1f7",
+      "id": "79b868c6-f1e4-4d1f-8680-be81229d54b9",
       "name": "linkit",
       "url": "https://github.com/blue-idea/linkit",
       "oneLiner": "Linkit is a desktop \"Smart Knowledge Curation Space\" (桌面端智能书签管理与知识收藏空间) designed to help you collect, organize, discover, and reuse web links, page resources, and creative inspirat",
@@ -233,34 +299,17 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "361b312d-cc9f-4cbe-9d0d-bf6072674a76",
-      "name": "genoffice",
-      "url": "https://github.com/genspark-ai/genoffice",
-      "oneLiner": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF — five Electron apps sharing one engine layer, built around AI editing as a fir",
-      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF — five Electron apps sharing one engine layer, built around AI editing as a first-class workflow rather than a bolted-on chat box.\nWatch the demo video on YouTube\nSigned installers built from main\n:\n- macOS (Apple Silicon): GenOffice-0.5.83-arm64.dmg\n- Windows (x64): GenOfficeSetup-v0.5.79.exe\nPrev",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents",
-        "security"
-      ]
-    },
-    {
-      "id": "edaf9727-99e6-4a53-beaa-f96283fb962d",
-      "name": "Scout",
-      "url": "https://github.com/j-sofia/Scout",
-      "oneLiner": "Scout is a self-hosted Discord bot that joins an authorized voice channel, keeps speakers separated by Discord identity, transcribes English speech locally, and turns the conversat",
-      "description": "Scout is a self-hosted Discord bot that joins an authorized voice channel, keeps speakers separated by Discord identity, transcribes English speech locally, and turns the conversation into durable, searchable meeting memory. Raw audio and verbatim transcripts are deleted after each checkpoint is safely compacted.\nNo audio, transcript, summary, prompt, embedding, or conversation metadata is sent to",
+      "id": "0a182851-32a3-44fd-8e38-4613801d4e0c",
+      "name": "Open source Cloud AI agents",
+      "url": "https://www.krowoc.com/",
+      "oneLiner": "A real AI coworker with a shell, files, browsing, and your connected apps — running 24/7 in its own cloud machine.",
+      "description": "A real AI coworker with a shell, files, browsing, and your connected apps — running 24/7 in its own cloud machine. Open it from any browser. Connect and go.\nBring your own key — Anthropic, OpenAI, Fireworks, OpenRouter — your keys stay on your private machine.\nA web app that lives on your home screen. Phone, laptop, borrowed browser — same agent, same memory, same files.\nYour agent runs in its own",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -268,8 +317,25 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "voice",
-        "rag"
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "de03c1d2-959a-41b9-adaf-bfdb00713a34",
+      "name": "ARF",
+      "url": "https://www.korvo.xyz/arf",
+      "oneLiner": "Atlas Record Format · v0.",
+      "description": "Atlas Record Format · v0.1\nARF - a record format for evaluation runs\nSo a score can be traced back to the question, model, inputs and judgement that produced it. Records canonicalize to identical bytes, so two implementations reach the same SHA-256 digest.\nKorvo Atlas is the reference implementation.\nStability\nv0.1 is unstable and may change without a migration path before v1.0. Treat published sh",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "writing"
       ]
     }
   ]
