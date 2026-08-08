@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-08-07T07:16:36.789728+00:00",
-  "count": 20,
+  "generatedAt": "2026-08-08T06:54:12.532295+00:00",
+  "count": 24,
   "tools": [
     {
-      "id": "7b4a4944-3b97-4190-9569-185e790f4eb3",
+      "id": "a082b993-7e4c-44b5-aa61-153c73a404d0",
+      "name": "vibewatch",
+      "url": "https://github.com/GOROman/vibewatch",
+      "oneLiner": "A wearable, tactile control surface for AI-assisted Vibe Coding—built around the M5Stack StopWatch.",
+      "description": "A wearable, tactile control surface for AI-assisted Vibe Coding—built around the M5Stack StopWatch.\nCreated for the M5Stack Global Innovation Contest 2026.\nVibe Watch moves frequent AI-agent interactions away from crowded desktop UI and onto a dedicated wireless device. It keeps six agent states visible at a glance, makes approve/reject decisions physical, and puts Plan mode, assistant access, and",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/GOROman/vibewatch.git",
+      "categories": [
+        "audio",
+        "agents",
+        "code"
+      ]
+    },
+    {
+      "id": "b23b7dbd-9d7b-42b3-a3a1-204aca563c69",
       "name": "vibecodingex",
       "url": "https://github.com/eticmedya/vibecodingex",
       "oneLiner": "Sahada, kapı kapı gezerek yazılım satan bir kişi için yapılmış, tamamen kendi bilgisayarında çalışan bir keşif aracı.",
@@ -20,7 +37,7 @@
       ]
     },
     {
-      "id": "21a91251-9a98-466c-b72f-fc377af4d0d7",
+      "id": "e0c7a09d-3bb1-4081-8f28-39bdd1fc2703",
       "name": "troth",
       "url": "https://github.com/xgre1/troth",
       "oneLiner": "The AI partner whose mind lives outside the model.",
@@ -31,13 +48,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/xgre1/troth.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "92d79073-923a-4f88-b676-26a455f9d860",
+      "id": "5d3884f5-584d-4074-a621-190003eac251",
       "name": "hermes-brasil",
       "url": "https://github.com/Hermes-brasil/hermes-brasil",
       "oneLiner": "Comunidade brasileira de Hermes Agent — o agente de IA open source da Nous Research que cresce com você.",
@@ -48,13 +65,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "design",
-        "rag"
+        "rag",
+        "agents"
       ]
     },
     {
-      "id": "7b120200-72fe-46cc-9aee-bc2d40374cfa",
+      "id": "329c8089-e9a4-4432-9432-219890015e8f",
       "name": "Flint",
       "url": "https://github.com/formetaohy/Flint",
       "oneLiner": "Fast, cross-platform LLM inference engine.",
@@ -69,7 +86,7 @@
       ]
     },
     {
-      "id": "9c462af1-a278-4ac3-9316-cb2ad257d1ad",
+      "id": "314e87cd-dce9-46a7-a3ce-132a89757474",
       "name": "multiplayer-ai",
       "url": "https://github.com/godfaddaai/multiplayer-ai",
       "oneLiner": "Your teammate's AI session.",
@@ -86,7 +103,7 @@
       ]
     },
     {
-      "id": "4af3b249-3a6a-4af0-b42d-bba68062ac5e",
+      "id": "d2ab87ad-efc7-41f4-a396-004a01d788f6",
       "name": "g023code",
       "url": "https://github.com/g023/g023code",
       "oneLiner": "A pure-Python AI coding agent for your terminal, powered by DeepSeek V4.",
@@ -97,13 +114,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "6951bdba-ca69-4e46-9930-47fb72228551",
+      "id": "66528f4b-adbe-470c-8bdb-a14372cb2940",
       "name": "sparkfetch",
       "url": "https://github.com/Sparkfetch/sparkfetch",
       "oneLiner": "Turn any URL into clean, structured, LLM-ready content.",
@@ -115,80 +132,165 @@
       "githubUrl": "https://github.com/Sparkfetch/sparkfetch.git",
       "categories": [
         "code",
-        "writing",
-        "data"
+        "data",
+        "writing"
       ]
     },
     {
-      "id": "198c2c59-63a6-4eb8-9a03-5d482351f236",
-      "name": "Selvedge",
-      "url": "https://github.com/masondelan/selvedge",
-      "oneLiner": "Long-term memory for AI-coded codebases — including what was already tried and rejected.",
-      "description": "selvedge.sh · PyPI · GitHub\nLong-term memory for AI-coded codebases — including what was already tried and rejected.\nLine attribution tells you who wrote something. Selvedge tells your agent\nwhat not to write next: the approaches this codebase already tried,\nreverted, and why. It's a git blame\nfor AI agents, for the why rather\nthan which model touched which line — captured live, by the agent, as t",
+      "id": "6265d43a-5de0-4e06-b339-974b79ffa9de",
+      "name": "Mythos social engineering AISI INC-2026-07-28-01",
+      "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+      "oneLiner": ", and closed silently when offline - so tests/kiosks are unaffected.",
+      "description": "Fix full-scan hang on multi-homed hosts: defaultRoute() with several default routes (fixes #2) - #3\nClosed\nmiraholt31 wants to merge 5 commits into\nClosed\nConversation\nFixes #2 - discovery hangs when multiple default via\nroutes exist.\nWhat changed\ndefaultRoute()\nnow parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating every match into a malformed gatewa",
       "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/google-gemini/gemini-cli",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "data"
+        "productivity",
+        "security"
       ]
     },
     {
-      "id": "a9210540-5f9a-4977-b38c-7a722408f851",
-      "name": "AI Tutoring with Visual Grounding",
-      "url": "https://useknowable.ai/",
-      "oneLiner": "Every section of the SAT and ACT, drilled adaptively.",
-      "description": "Focused on\nTest Preparation\nEvery section of the SAT and ACT, drilled adaptively.\nMaking Something\nDifferent ✨\nUsing specialized hardware available on recent MacBooks, we’re able to see what’s on your page as you do the work.\nCheck if Your Device is Compatible ⚙️\nEnter the model of your MacBook and we’ll tell you if it qualifies\nOne of a Kind\nYeah, other AI platforms exist. But nobody else offers ",
-      "pricing": "free_trial",
+      "id": "115324ce-3cd5-4063-8da6-99d709f2c987",
+      "name": "Agent_acid",
+      "url": "https://github.com/muhammadwaqasai/agent_acid",
+      "oneLiner": "ACID-style transaction guarantees for autonomous AI agents.",
+      "description": "ACID-style transaction guarantees for autonomous AI agents.\nAI agents that take real-world actions (charging cards, writing to databases, sending emails, calling APIs) have no standard way to \"undo\" a partially-completed task, and most guardrail systems only validate one action at a time — with no memory of the session. agent_acid\ncloses both gaps:\n- Automatic rollback — if any step in a multi-ste",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "design",
-        "research",
-        "voice"
+        "agents",
+        "code"
       ]
     },
     {
-      "id": "908e401c-10cd-4506-bd8a-6217875e2019",
-      "name": "GreatArrow.ai",
-      "url": "https://www.greatarrow.ai",
-      "oneLiner": "Great Arrow gives Claude, ChatGPT, Cursor, and your terminal one shared brain for your business — plus 316 real actions they can take across the 38 tools you already run.",
-      "description": "Great Arrow gives Claude, ChatGPT, Cursor, and your terminal one shared brain for your business — plus 316 real actions they can take across the 38 tools you already run.\nSign up now. Setup takes about five minutes, and a Free trial tier is available — no credit card needed. Great Arrow is still in beta, so your feedback is appreciated.\nYou agreed to $48k annual with a 2-week pilot, and Sam owns t",
-      "pricing": "free_trial",
+      "id": "405b9295-c9ed-44b1-9139-981db28d4a91",
+      "name": "Buddy",
+      "url": "https://apps.apple.com/us/app/buddy-the-ai-mobile-browser/id6788047483",
+      "oneLiner": "Free · In‑App Purchases · Designed for iPad.",
+      "description": "Buddy: the AI mobile browser\nComplete web tasks for you\nFree · In‑App Purchases · Designed for iPad. Not verified for macOS.\nTell Buddy the task - compare options, fill a web form, research a purchase, or plan a trip - and it does the web work with you.\nBuddy is a personalized AI mobile browser that gets things done for you.\nAsk Buddy to find flights, compare options, fill out forms, or complete m",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
+        "design",
         "agents",
-        "security"
+        "code"
       ]
     },
     {
-      "id": "868093f9-27c0-40b0-b12e-4f0ca8bcfc97",
-      "name": "Introducing Dogwood",
-      "url": "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/",
-      "oneLiner": "Part of what makes AI agents so useful is their ability to interact with the external world by running tools.",
-      "description": "AWS Open Source Blog\nIntroducing Dogwood: runtime verification for AI agents\nPart of what makes AI agents so useful is their ability to interact with the external world by running tools. But these tool calls are also the source of the biggest risks when it comes to making agents safe to use. The best way to address these risks in a dependable and reliable manner is to put a layer of control at the",
+      "id": "a4209942-a82d-4d49-b5a1-dbc9d0adba53",
+      "name": "From unchecked AI spend to complete control",
+      "url": "https://www.rippling.com/blog/introducing-ai-spend-console",
+      "oneLiner": "Today, we’re launching AI Spend Console.",
+      "description": "Today, we’re launching AI Spend Console. It gives CFOs and CTOs a clear view of AI spend, connects it to business outcomes, and governs the use of approved LLMs.\nUnlike simple usage dashboards or point solutions, AI Spend Console ties AI spend to employee attributes, so you can understand which departments, teams, or roles are driving your AI bill. It also connects spend to key business metrics li",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "9402722f-ecb6-4e60-b46f-203480099dc4",
+      "name": "Podiom",
+      "url": "https://github.com/Podiom/Podiom",
+      "oneLiner": "A thin orchestration layer for local LLM agents (Claude Code and OpenAI Codex).",
+      "description": "A thin orchestration layer for local LLM agents (Claude Code and OpenAI Codex).\nPodiom shells out to the native claude\nand codex\nCLIs and leans on their\nMCP, tools, and skills, while owning its own durable truth: named agents, durable\nchat sessions, a canonical history that replays onto a fresh backing CLI session\non any profile/provider switch, an embedded scheduler, and a shared project\nledger. ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/Podiom/Podiom",
       "categories": [
-        "code",
         "agents",
-        "design"
+        "code",
+        "data"
       ]
     },
     {
-      "id": "fb903a5f-58e4-4a28-91ba-70a7a92c593c",
+      "id": "6af8ef54-e34b-4ae7-8163-d1942c7d0373",
+      "name": "Tape Music Hub",
+      "url": "https://tape-music-hub.gordo.design/",
+      "oneLiner": "Your desktop music library,on your phone.",
+      "description": "Tape Music Hub\nYour desktop music library,on your phone.\nTurn your computer into a personal music server and library manager, and have your music library on your phone through the Tape Music app.\nReady when you are\nSetup your desktop, pair your app, and play your music, everywhere.\nTape Music Hub is a phone companion for the local library you already maintain. Your desktop stays as the hub; your p",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "audio",
+        "design",
+        "rag"
+      ]
+    },
+    {
+      "id": "ef6e992c-691a-4752-9203-e08e17a30ef5",
+      "name": "see-my-video",
+      "url": "https://github.com/eveacla11/see-my-video",
+      "oneLiner": "-vsync vfr -frames:v 12 帧_%02d.",
+      "description": "一份踩坑记录：把视频喂给 AI，以及在自建服务器上传视频会遇到的两个隐形陷阱。\nAI（Claude 这类）能读文字、能看图片，但打不开视频文件。 给它一个 mp4，它只能看着文件名干瞪眼。\n这篇讲怎么解决，以及三个你一定会撞上的坑。\npython extract_frames.py 视频.mp4\n视频拆开看，本质就是一串画面。 用 ffmpeg 把视频抽成几张关键帧图片，AI 一张张看过去，就等于看了这段视频。\n思路不新鲜——GitHub 上有个两千星的项目 claude-real-video 走的同一条路，做得比这里完整得多（去重、说话人分离、可视化查看器）。 想要开箱即用的成熟工具，去用它。\n这篇的价值在别处：如果你是自己给 AI 搭一双眼睛——服务架在家里、手机远程访问—— 那么下面的坑二和坑三，是那类本地工具不会遇到、而你一定会撞上的。\n最笨的办法是掐秒表均匀取，比如 17 秒的视",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "image",
+        "video"
+      ]
+    },
+    {
+      "id": "60b57f92-824d-49f7-ac79-4239fea8ac96",
+      "name": "goal-flow",
+      "url": "https://github.com/wanmol/goal-flow",
+      "oneLiner": "Graph-Orchestrated Agent Loop — a production-grade framework for building LLM applications on top of LangGraph.",
+      "description": "English | 简体中文\nGraph-Orchestrated Agent Loop — a production-grade framework for building LLM applications on top of LangGraph. It gives you two complementary ways to build:\n- Visual-first workflows — design a flow in Dify's drag-and-drop editor, then transpile the exported DSL into a runnable, version-controllable LangGraph Python file with one command. No lock-in to Dify's runtime.\n- Code-first a",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "677e8737-5b2b-4ba6-8a51-52b0ed7a0abe",
+      "name": "AIFA",
+      "url": "https://github.com/AdrianBesleaga/AIFA",
+      "oneLiner": "AI Atomic Feature Architecture, or AIFA, is an experiment in making software systems from small, explicit, independently implementable features.",
+      "description": "AI Atomic Feature Architecture, or AIFA, is an experiment in making software systems from small, explicit, independently implementable features.\nThe core question:\nCan a developer or AI agent implement one feature without needing to understand the whole project?\nAIFA tries to make the answer \"yes\" by turning each feature into a self-contained contract.\nMost codebases ask contributors to learn the ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "ef57d6c6-2676-4db3-b4da-8eccc7349d7f",
       "name": "mc-architect-mcp",
       "url": "https://github.com/AnctyEnly453/mc-architect-mcp",
       "oneLiner": "English summary: a local Fabric mod and MCP server for inspecting, building, validating, photographing, and undoing changes in Minecraft Java single-player worlds.",
@@ -203,7 +305,7 @@
       ]
     },
     {
-      "id": "061f8032-fd21-46d1-ae6c-1534a3c020d0",
+      "id": "7152d581-aaaa-4d43-8235-8ecdad656eec",
       "name": "yu-ai-learn",
       "url": "https://github.com/liyupi/yu-ai-learn",
       "oneLiner": "pip install -r requirements.",
@@ -220,7 +322,22 @@
       ]
     },
     {
-      "id": "63d29970-0f20-4b65-b35e-a25044f18b49",
+      "id": "40bdc73e-dd2f-4da6-a013-b28cf8d500a7",
+      "name": "ferrox",
+      "url": "https://github.com/antonellof/ferrox",
+      "oneLiner": "Ferrox is a pure-Rust inference engine for GGUF models.",
+      "description": "Ferrox is a pure-Rust inference engine for GGUF models. It runs dense and MoE checkpoints on CPU, Apple Metal, or CUDA, with a llama.cpp-style CLI and an OpenAI-compatible HTTP server.\ncargo build --release -p ferrox-cli -p ferrox-server --features metal\nInstall the Hugging Face CLI\n(pip install -U huggingface_hub\n), then:\nmkdir -p models\nhf download TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF \\\ntinyll",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "writing"
+      ]
+    },
+    {
+      "id": "973c5dd5-4c62-44c4-b386-14cc0a665ef0",
       "name": "wai-play",
       "url": "https://github.com/waiterve/wai-play",
       "oneLiner": "python -m pip install -r requirements.",
@@ -231,13 +348,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/waiterve/wai-play.git",
       "categories": [
-        "agents",
         "design",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "b28ae2db-e764-4d8b-bc4f-deaa49c3d733",
+      "id": "aeeb2b9a-6cb8-4c3a-8326-1bee1ef8567f",
       "name": "AI-Knowledge-Management-Platform",
       "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
       "oneLiner": "The Agentic Documents Assistant is an LLM-powered assistant that allows users to answer complex questions from business documents through natural conversations.",
@@ -248,93 +365,42 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "rag",
         "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "9a61dbc1-a438-4ff2-8a9f-8c365619fb00",
+      "name": "Salestrics",
+      "url": "https://www.salestrics.com/",
+      "oneLiner": "Deals, messages, proposals, meetings, invoices, and support history stay together from first touch onward.",
+      "description": "See the whole relationship\nEverything belongs to the account\nDeals, messages, proposals, meetings, invoices, and support history stay together from first touch onward.\nSalestrics MCP is live — connect Cursor, Claude Desktop, and VS Code to live CRM & mail.\nSalestrics connects pipeline, inbox, documents, meetings, support, and AI in one workspace — then exposes it through a hosted Model Context Pro",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "productivity"
+      ]
+    },
+    {
+      "id": "1b1a7b52-a959-4b9e-84bd-7310da4ccb70",
+      "name": "Tocic",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/tocic-chatbot-table-of-content/",
+      "oneLiner": "Adds a table-of-contents navigator to Grok, Claude, Gemini and ChatGPT conversations.",
+      "description": "Tocic - Chatbot Table of Content by Alan Cheung\nAdds a table-of-contents navigator to Grok, Claude, Gemini and ChatGPT conversations.\n1 User1 User\nExtension Metadata\nScreenshots\nPermissions and data\nRequired permissions:\n- Access browser tabs\n- Access your data for all websites\nOptional permissions:\n- Access your data for all websites\nData collection:\n- The developer says this extension doesn't re",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
         "data",
-        "rag"
-      ]
-    },
-    {
-      "id": "692b67e6-71dc-4b1c-ac2d-cf7ce3256ac4",
-      "name": "clone-chat",
-      "url": "https://github.com/AFan4724/clone-chat",
-      "oneLiner": "npm run import:chat -- \"E:\\path\\normalized.",
-      "description": "本地运行的人物复刻对话 Agent。导入一个人的真实聊天记录后，Agent 从记录中学习这个人的说话风格、用词习惯、表情偏好和回复节奏，然后以这个人的身份延续对话——包括回不回、隔多久回、回几条、发文字还是语音，都由 Agent 依据证据自主决定。\n演示图中的人物、对话和头像均为虚构，仅用于展示界面与回复流程。\nAgent 的每一轮回复都建立在从聊天记录提取的证据上：\n- 按场景召回的真实对话样例和自动生成的风格画像\n- 行为统计：文字/表情/语音比例、连发数量、回复延迟、活跃时段、高频短句\n- 混合记忆检索：全文检索（FTS5）加本地语义向量\n- 表情库：只保留记录中真实发过的表情，按视觉含义和发送上下文建索引\n- 反馈学习：每条回复可标记“像/不像”，后续轮次参考\n- 从聊天记录生成人物画像，Agent 以人物身份回复\n- 内置 AI 导入 skill，可让 AI 工具直接转换任意聊天",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "4d7fa823-225a-4da7-8c22-3b1db56a65f1",
-      "name": "bindwidth",
-      "url": "https://github.com/juxhinr/bindwidth",
-      "oneLiner": "Size your way to private local AI.",
-      "description": "Size your way to private local AI.\nFind the constraint that actually binds — then size the private local stack that fits.\nThree limits decide the technical minimum for one resident text model: memory for the KV cache, combined prefill/decode serving capacity, and the runtime session ceiling. They are evaluated explicitly and one or more can bind — usually not the limit people size for. Bindwidth f",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/juxhinr/bindwidth.git",
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "79b868c6-f1e4-4d1f-8680-be81229d54b9",
-      "name": "linkit",
-      "url": "https://github.com/blue-idea/linkit",
-      "oneLiner": "Linkit is a desktop \"Smart Knowledge Curation Space\" (桌面端智能书签管理与知识收藏空间) designed to help you collect, organize, discover, and reuse web links, page resources, and creative inspirat",
-      "description": "English | 简体中文\nLinkit is a desktop \"Smart Knowledge Curation Space\" (桌面端智能书签管理与知识收藏空间) designed to help you collect, organize, discover, and reuse web links, page resources, and creative inspirations. Unlike traditional browser bookmark managers (浏览器书签管理器), Linkit focuses on long-term organization using categories, flexible cross-category compilation using collections, and AI-powered understanding",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "0a182851-32a3-44fd-8e38-4613801d4e0c",
-      "name": "Open source Cloud AI agents",
-      "url": "https://www.krowoc.com/",
-      "oneLiner": "A real AI coworker with a shell, files, browsing, and your connected apps — running 24/7 in its own cloud machine.",
-      "description": "A real AI coworker with a shell, files, browsing, and your connected apps — running 24/7 in its own cloud machine. Open it from any browser. Connect and go.\nBring your own key — Anthropic, OpenAI, Fireworks, OpenRouter — your keys stay on your private machine.\nA web app that lives on your home screen. Phone, laptop, borrowed browser — same agent, same memory, same files.\nYour agent runs in its own",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "de03c1d2-959a-41b9-adaf-bfdb00713a34",
-      "name": "ARF",
-      "url": "https://www.korvo.xyz/arf",
-      "oneLiner": "Atlas Record Format · v0.",
-      "description": "Atlas Record Format · v0.1\nARF - a record format for evaluation runs\nSo a score can be traced back to the question, model, inputs and judgement that produced it. Records canonicalize to identical bytes, so two implementations reach the same SHA-256 digest.\nKorvo Atlas is the reference implementation.\nStability\nv0.1 is unstable and may change without a migration path before v1.0. Treat published sh",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
         "writing"
       ]
     }
