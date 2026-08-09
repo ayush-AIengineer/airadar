@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T06:54:12.532295+00:00",
-  "count": 24,
+  "generatedAt": "2026-08-09T06:57:11.688221+00:00",
+  "count": 27,
   "tools": [
     {
-      "id": "a082b993-7e4c-44b5-aa61-153c73a404d0",
+      "id": "45ad38e3-5ca8-4a5e-aa83-e0ddcca7dad9",
       "name": "vibewatch",
       "url": "https://github.com/GOROman/vibewatch",
       "oneLiner": "A wearable, tactile control surface for AI-assisted Vibe Coding—built around the M5Stack StopWatch.",
@@ -14,13 +14,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/GOROman/vibewatch.git",
       "categories": [
-        "audio",
+        "code",
         "agents",
-        "code"
+        "audio"
       ]
     },
     {
-      "id": "b23b7dbd-9d7b-42b3-a3a1-204aca563c69",
+      "id": "73089bd0-9679-49d3-bcfd-ae236b31d5c4",
+      "name": "agent-skills-collection",
+      "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+      "oneLiner": "This repository provides a ready-to-use collection of agent skills for AI assistants like Claude, ChatGPT, and custom agents.",
+      "description": "A curated collection of modular agent skills for LLM-based agents\nThis repository provides a ready-to-use collection of agent skills for AI assistants like Claude, ChatGPT, and custom agents. Each skill is a self-contained module that adds specific capabilities to your AI agent.\nAgent skills are modular, reusable capabilities that extend what AI agents can do. They transform chatbots into autonomo",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "search"
+      ]
+    },
+    {
+      "id": "430757a8-8494-4fca-adbf-4af95f6c13fe",
       "name": "vibecodingex",
       "url": "https://github.com/eticmedya/vibecodingex",
       "oneLiner": "Sahada, kapı kapı gezerek yazılım satan bir kişi için yapılmış, tamamen kendi bilgisayarında çalışan bir keşif aracı.",
@@ -32,12 +49,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "data",
-        "search"
+        "search",
+        "data"
       ]
     },
     {
-      "id": "e0c7a09d-3bb1-4081-8f28-39bdd1fc2703",
+      "id": "6e049052-97f5-4b83-8287-ea57c522f44c",
       "name": "troth",
       "url": "https://github.com/xgre1/troth",
       "oneLiner": "The AI partner whose mind lives outside the model.",
@@ -48,13 +65,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/xgre1/troth.git",
       "categories": [
-        "agents",
         "code",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "5d3884f5-584d-4074-a621-190003eac251",
+      "id": "014db6b1-fa88-4525-8778-42defa2c0d5c",
       "name": "hermes-brasil",
       "url": "https://github.com/Hermes-brasil/hermes-brasil",
       "oneLiner": "Comunidade brasileira de Hermes Agent — o agente de IA open source da Nous Research que cresce com você.",
@@ -65,62 +82,30 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
+        "agents",
         "design",
-        "rag",
-        "agents"
+        "rag"
       ]
     },
     {
-      "id": "329c8089-e9a4-4432-9432-219890015e8f",
-      "name": "Flint",
-      "url": "https://github.com/formetaohy/Flint",
-      "oneLiner": "Fast, cross-platform LLM inference engine.",
-      "description": "Fast, cross-platform LLM inference engine.\nFlint is a local LLM inference engine written in pure Rust on WGPU. It runs on the GPU via portable compute shaders, supporting Windows, Linux/Android, macOS/iOS, and the Web (WASM).\n- Cross-platform — Built on WGPU; runs on every platform.\n- Fast — Highly optimized WGSL-based inference core.\n- Multi-format — Supports\nsafetensors\n,ONNX\nand quantizedGGUF\nf",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/formetaohy/Flint.git",
-      "categories": [
-        "design"
-      ]
-    },
-    {
-      "id": "314e87cd-dce9-46a7-a3ce-132a89757474",
-      "name": "multiplayer-ai",
-      "url": "https://github.com/godfaddaai/multiplayer-ai",
-      "oneLiner": "Your teammate's AI session.",
-      "description": "Your teammate's AI session. On your terminal.\nMake existing Codex and Claude Code work multiplayer without moving the team into a new IDE.\nReal two-Mac receipt · Reagan’s Mac → Hudson’s existing Claude Code session · August 2, 2026\nImportant\nmpai is a public alpha for trusted teammates on macOS. It uses your existing Tailscale network and exposes only sessions the host explicitly shares. Read the ",
+      "id": "73c40e58-64fd-4781-a6f9-c0f7513fe465",
+      "name": "spotlight",
+      "url": "https://github.com/CMUL8/spotlight",
+      "oneLiner": "An open-source, multi-agent AI security engineer.",
+      "description": "An open-source, multi-agent AI security engineer. Point it at a repository and it reviews the code, reproduces the vulnerabilities it finds by actually exploiting them in an isolated sandbox, writes and independently verifies a fix, and signs every step so the whole chain can be audited later. Not a scanner that emits alerts — an engineer that hands you evidence.\nA sweep runs seven stages, gated b",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/godfaddaai/multiplayer-ai",
-      "categories": [
-        "code",
-        "security",
-        "search"
-      ]
-    },
-    {
-      "id": "d2ab87ad-efc7-41f4-a396-004a01d788f6",
-      "name": "g023code",
-      "url": "https://github.com/g023/g023code",
-      "oneLiner": "A pure-Python AI coding agent for your terminal, powered by DeepSeek V4.",
-      "description": "A pure-Python AI coding agent for your terminal, powered by DeepSeek V4.\nSubagent-First · Context is Currency · Terminal-native\ng023 Code reads your project, searches it, searches the web, runs commands, fetches pages, and looks at images — while telling you exactly what it is doing and what it just cost. Data-heavy work is delegated by default: a subagent reads the file in an isolated context and",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
-        "data"
+        "design",
+        "security"
       ]
     },
     {
-      "id": "66528f4b-adbe-470c-8bdb-a14372cb2940",
+      "id": "de6506ed-e32c-40c2-9a2d-ff791c3ae7a4",
       "name": "sparkfetch",
       "url": "https://github.com/Sparkfetch/sparkfetch",
       "oneLiner": "Turn any URL into clean, structured, LLM-ready content.",
@@ -132,16 +117,33 @@
       "githubUrl": "https://github.com/Sparkfetch/sparkfetch.git",
       "categories": [
         "code",
-        "data",
-        "writing"
+        "writing",
+        "data"
       ]
     },
     {
-      "id": "6265d43a-5de0-4e06-b339-974b79ffa9de",
-      "name": "Mythos social engineering AISI INC-2026-07-28-01",
-      "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
-      "oneLiner": ", and closed silently when offline - so tests/kiosks are unaffected.",
-      "description": "Fix full-scan hang on multi-homed hosts: defaultRoute() with several default routes (fixes #2) - #3\nClosed\nmiraholt31 wants to merge 5 commits into\nClosed\nConversation\nFixes #2 - discovery hangs when multiple default via\nroutes exist.\nWhat changed\ndefaultRoute()\nnow parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating every match into a malformed gatewa",
+      "id": "215108ef-6138-4667-b253-9adb27801c6c",
+      "name": "The AI Apocalypse Is Here",
+      "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
+      "oneLiner": "Americans do not care for artificial intelligence.",
+      "description": "Americans do not care for artificial intelligence. Recent polling shows that their attitudes mostly range from ambivalence to horror. Some observers have suggested that opposition to AI is due to poor PR from industry leaders. If tech titans hadn’t been so convinced that boasting of their apocalyptic powers was the best way to raise capital, the argument goes, then the American public would be on ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "writing",
+        "security",
+        "research"
+      ]
+    },
+    {
+      "id": "1f6f0a41-fc03-41e5-be80-428747fa2098",
+      "name": "Open Source",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "oneLiner": "Catch your agent's mistakes and blind spots before the shit hits the fan.",
+      "description": "Independent Auditing of AI Agents\nCatch your agent's mistakes and blind spots before the shit hits the fan.\nQuick start • Three ways to run • Test your agent • Scoring • Docs • Contributing\nOne ifixai run\n, end to end: guided setup picks the system, judge, and suite; the run verifies the connection and saves your config; 32 inspections execute across five pillars; and the result lands as an A–F gr",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -149,97 +151,114 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "productivity",
+        "agents",
         "security"
       ]
     },
     {
-      "id": "115324ce-3cd5-4063-8da6-99d709f2c987",
-      "name": "Agent_acid",
-      "url": "https://github.com/muhammadwaqasai/agent_acid",
-      "oneLiner": "ACID-style transaction guarantees for autonomous AI agents.",
-      "description": "ACID-style transaction guarantees for autonomous AI agents.\nAI agents that take real-world actions (charging cards, writing to databases, sending emails, calling APIs) have no standard way to \"undo\" a partially-completed task, and most guardrail systems only validate one action at a time — with no memory of the session. agent_acid\ncloses both gaps:\n- Automatic rollback — if any step in a multi-ste",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "405b9295-c9ed-44b1-9139-981db28d4a91",
-      "name": "Buddy",
-      "url": "https://apps.apple.com/us/app/buddy-the-ai-mobile-browser/id6788047483",
-      "oneLiner": "Free · In‑App Purchases · Designed for iPad.",
-      "description": "Buddy: the AI mobile browser\nComplete web tasks for you\nFree · In‑App Purchases · Designed for iPad. Not verified for macOS.\nTell Buddy the task - compare options, fill a web form, research a purchase, or plan a trip - and it does the web work with you.\nBuddy is a personalized AI mobile browser that gets things done for you.\nAsk Buddy to find flights, compare options, fill out forms, or complete m",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "a4209942-a82d-4d49-b5a1-dbc9d0adba53",
-      "name": "From unchecked AI spend to complete control",
-      "url": "https://www.rippling.com/blog/introducing-ai-spend-console",
-      "oneLiner": "Today, we’re launching AI Spend Console.",
-      "description": "Today, we’re launching AI Spend Console. It gives CFOs and CTOs a clear view of AI spend, connects it to business outcomes, and governs the use of approved LLMs.\nUnlike simple usage dashboards or point solutions, AI Spend Console ties AI spend to employee attributes, so you can understand which departments, teams, or roles are driving your AI bill. It also connects spend to key business metrics li",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "9402722f-ecb6-4e60-b46f-203480099dc4",
-      "name": "Podiom",
-      "url": "https://github.com/Podiom/Podiom",
-      "oneLiner": "A thin orchestration layer for local LLM agents (Claude Code and OpenAI Codex).",
-      "description": "A thin orchestration layer for local LLM agents (Claude Code and OpenAI Codex).\nPodiom shells out to the native claude\nand codex\nCLIs and leans on their\nMCP, tools, and skills, while owning its own durable truth: named agents, durable\nchat sessions, a canonical history that replays onto a fresh backing CLI session\non any profile/provider switch, an embedded scheduler, and a shared project\nledger. ",
+      "id": "e5eb1655-657a-4be1-9f75-24fa085c3b50",
+      "name": "Qwen3.8-Max",
+      "url": "https://github.com/tohid4n/qwen3.8-max-local-coding",
+      "oneLiner": "Code locally for free using one of the most powerful open-source AI models — no API keys, no subscriptions, no limits.",
+      "description": "Code locally for free using one of the most powerful open-source AI models — no API keys, no subscriptions, no limits.\nThis guide shows you how to set up Qwen 3.8-Max (via Qwen Studio) with MCP (Model Context Protocol) to read, write, and edit files on your machine — turning it into a fully capable local AI coding assistant.\n- Go to qwen.ai/download and download the desktop application for your op",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Podiom/Podiom",
+      "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
+        "writing"
+      ]
+    },
+    {
+      "id": "ea3e3dbe-6de8-41dd-b617-ba440ed22723",
+      "name": "Pomona",
+      "url": "https://github.com/okyanu/pomona",
+      "oneLiner": "Open edge AI platform for agriculture — MQTT ingest, reasoning, deterministic safety checks, and dashboards for the greenhouse.",
+      "description": "Open edge AI platform for agriculture — MQTT ingest, reasoning, deterministic safety checks, and dashboards for the greenhouse.\nAnyone can clone, use, fork, and contribute — free under Apache-2.0.\nQuickstart · Architecture · Model status · Phases · Wiki · Contribute\nEarly MVP. Simulated sensors → SQLite-backed API → guarded reasoner pipeline → read-only dashboard. Docker remains the recommended de",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Okyanus/pomona.git",
+      "categories": [
+        "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "6af8ef54-e34b-4ae7-8163-d1942c7d0373",
-      "name": "Tape Music Hub",
-      "url": "https://tape-music-hub.gordo.design/",
-      "oneLiner": "Your desktop music library,on your phone.",
-      "description": "Tape Music Hub\nYour desktop music library,on your phone.\nTurn your computer into a personal music server and library manager, and have your music library on your phone through the Tape Music app.\nReady when you are\nSetup your desktop, pair your app, and play your music, everywhere.\nTape Music Hub is a phone companion for the local library you already maintain. Your desktop stays as the hub; your p",
-      "pricing": "paid",
+      "id": "4c32c112-481c-419b-b9d1-30925cc4c3f0",
+      "name": "Tura",
+      "url": "https://github.com/Tura-AI/tura",
+      "oneLiner": "Tura is an open-source agent runtime harness that delivers better results with fewer tokens.",
+      "description": "English | 简体中文\nTura is an open-source agent runtime harness that delivers better results with fewer tokens.\nAcross 20 DeepSWE v1.1 tasks, each run three times per agent, Tura creates a substantial token-budget advantage by reducing repeated context and model round trips. You can spend that advantage in two ways. Direct turns most of it into lower cost: 77.5% fewer aggregate tokens than Codex CLI, ",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Tura-AI/tura.git",
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "1d44f57f-f7da-406d-92fc-0390f278815b",
+      "name": "Faaah",
+      "url": "https://github.com/sebastiancarlos/faaah",
+      "oneLiner": "The simplest OpenAI-compatible LLM proxy you will ever need.",
+      "description": "The simplest OpenAI-compatible LLM proxy you will ever need.™️\nFAAAH allows you to reuse your AI Agent subscription as a generic OpenAI-compatible local server.\nFAAAH is dependency-free, implemented as a plain-text file protocol (UNIX-philosophy certified):\n- Instead of sending your prompts to cloud LLM APIs, send them to FAAAH,\nwhich reads OpenAI-compatible requests and dumps them into a folder a",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/sebastiancarlos/faaah",
+      "categories": [
+        "code",
+        "agents",
+        "writing"
+      ]
+    },
+    {
+      "id": "72a3c488-2be3-4329-9e61-053b82c17ac1",
+      "name": "HolyCode Cloud",
+      "url": "https://holycode.cloud",
+      "oneLiner": "Claude Code, Codex, Gemini, Cursor, OpenCode and Pi on one Linux box, with root and a disk that keeps your work.",
+      "description": "Claude Code, Codex, Gemini, Cursor, OpenCode and Pi on one Linux box, with root and a disk that keeps your work.\nA real session, replayed line for line · the phone version →\nRoot on your own VM. Your home and workspace live on a disk that keeps them.\nClaude Code, Codex, Gemini, OpenCode, Cursor and Pi on your PATH from first boot. Sign in and go.\nIt's a browser tab. Start a run at your desk, check",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "57d02db2-7667-45d8-aedf-9c4c079f68c4",
+      "name": "KADATH",
+      "url": "https://github.com/i3T4AN/KADATH",
+      "oneLiner": "KADATH takes a goal and spends an ungodly number of model tokens evolving agents that are progressively better at achieving it.",
+      "description": "Kernel for Agentic Darwinian Adaptation, Tooling, and Heredity\nKADATH takes a goal and spends an ungodly number of model tokens evolving agents that are progressively better at achieving it. Over multiple generations, a population of agents attempts the goal, gets independently graded against a measurable benchmark, learns from the strongest performers, mutates, reproduces, and weeds out weak appr",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "audio",
-        "design",
+        "code",
+        "data",
         "rag"
       ]
     },
     {
-      "id": "ef6e992c-691a-4752-9203-e08e17a30ef5",
+      "id": "8b889d10-3e80-4f56-9328-77dc5b618e4e",
       "name": "see-my-video",
       "url": "https://github.com/eveacla11/see-my-video",
       "oneLiner": "-vsync vfr -frames:v 12 帧_%02d.",
@@ -251,12 +270,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "image",
-        "video"
+        "video",
+        "image"
       ]
     },
     {
-      "id": "60b57f92-824d-49f7-ac79-4239fea8ac96",
+      "id": "a575e987-1155-48aa-b080-76f6d4f83b83",
       "name": "goal-flow",
       "url": "https://github.com/wanmol/goal-flow",
       "oneLiner": "Graph-Orchestrated Agent Loop — a production-grade framework for building LLM applications on top of LangGraph.",
@@ -267,13 +286,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "677e8737-5b2b-4ba6-8a51-52b0ed7a0abe",
+      "id": "a5227e43-f784-4d1f-b019-a37045398bd8",
       "name": "AIFA",
       "url": "https://github.com/AdrianBesleaga/AIFA",
       "oneLiner": "AI Atomic Feature Architecture, or AIFA, is an experiment in making software systems from small, explicit, independently implementable features.",
@@ -284,13 +303,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "ef57d6c6-2676-4db3-b4da-8eccc7349d7f",
+      "id": "9609cfee-c263-4ed1-9dd3-f5a8d6ebee39",
       "name": "mc-architect-mcp",
       "url": "https://github.com/AnctyEnly453/mc-architect-mcp",
       "oneLiner": "English summary: a local Fabric mod and MCP server for inspecting, building, validating, photographing, and undoing changes in Minecraft Java single-player worlds.",
@@ -305,7 +324,7 @@
       ]
     },
     {
-      "id": "7152d581-aaaa-4d43-8235-8ecdad656eec",
+      "id": "35fea45e-2a98-4c6c-9901-dce998feaa4d",
       "name": "yu-ai-learn",
       "url": "https://github.com/liyupi/yu-ai-learn",
       "oneLiner": "pip install -r requirements.",
@@ -322,7 +341,7 @@
       ]
     },
     {
-      "id": "40bdc73e-dd2f-4da6-a013-b28cf8d500a7",
+      "id": "3a74c821-8c29-4237-b20c-7785800e83a2",
       "name": "ferrox",
       "url": "https://github.com/antonellof/ferrox",
       "oneLiner": "Ferrox is a pure-Rust inference engine for GGUF models.",
@@ -337,7 +356,7 @@
       ]
     },
     {
-      "id": "973c5dd5-4c62-44c4-b386-14cc0a665ef0",
+      "id": "22ec2d1f-4c8e-4e29-bde6-dc73ff4b037c",
       "name": "wai-play",
       "url": "https://github.com/waiterve/wai-play",
       "oneLiner": "python -m pip install -r requirements.",
@@ -348,13 +367,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/waiterve/wai-play.git",
       "categories": [
-        "design",
         "agents",
+        "design",
         "data"
       ]
     },
     {
-      "id": "aeeb2b9a-6cb8-4c3a-8326-1bee1ef8567f",
+      "id": "083b541f-2a5d-4118-b5dc-0cf46711154e",
       "name": "AI-Knowledge-Management-Platform",
       "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
       "oneLiner": "The Agentic Documents Assistant is an LLM-powered assistant that allows users to answer complex questions from business documents through natural conversations.",
@@ -365,43 +384,76 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "rag",
         "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "9a61dbc1-a438-4ff2-8a9f-8c365619fb00",
-      "name": "Salestrics",
-      "url": "https://www.salestrics.com/",
-      "oneLiner": "Deals, messages, proposals, meetings, invoices, and support history stay together from first touch onward.",
-      "description": "See the whole relationship\nEverything belongs to the account\nDeals, messages, proposals, meetings, invoices, and support history stay together from first touch onward.\nSalestrics MCP is live — connect Cursor, Claude Desktop, and VS Code to live CRM & mail.\nSalestrics connects pipeline, inbox, documents, meetings, support, and AI in one workspace — then exposes it through a hosted Model Context Pro",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "productivity"
-      ]
-    },
-    {
-      "id": "1b1a7b52-a959-4b9e-84bd-7310da4ccb70",
-      "name": "Tocic",
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/tocic-chatbot-table-of-content/",
-      "oneLiner": "Adds a table-of-contents navigator to Grok, Claude, Gemini and ChatGPT conversations.",
-      "description": "Tocic - Chatbot Table of Content by Alan Cheung\nAdds a table-of-contents navigator to Grok, Claude, Gemini and ChatGPT conversations.\n1 User1 User\nExtension Metadata\nScreenshots\nPermissions and data\nRequired permissions:\n- Access browser tabs\n- Access your data for all websites\nOptional permissions:\n- Access your data for all websites\nData collection:\n- The developer says this extension doesn't re",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
         "data",
-        "writing"
+        "rag"
+      ]
+    },
+    {
+      "id": "61b8938c-f1cb-4943-8628-19fc02ec5265",
+      "name": "phi",
+      "url": "https://github.com/pulseaiclub/phi",
+      "oneLiner": "A minimal terminal coding agent harness in Go — a sibling to Pi.",
+      "description": "A minimal terminal coding agent harness in Go — a sibling to Pi. Sub-agents, hashline edits, and a permission gate; any OpenAI-compatible or Anthropic model, no vendor lock-in.\nphi is deliberately small: a model loop, a handful of tools, a TUI, and Markdown rendering that makes assistant output readable. Extend it with skills and configure it with a single YAML file.\n- Quick start\n- Footprint\n- Co",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "a03d635f-adf1-483e-a7aa-7ca485d6c48e",
+      "name": "YouTube Mistakenly Penalizes Kurzgesagt for AI-Generated Slop",
+      "url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
+      "oneLiner": "While YouTube often rewards the outrageous and exploitative, Kurzgesagt has maintained a steady following without sensationalizing.",
+      "description": "While YouTube often rewards the outrageous and exploitative, Kurzgesagt has maintained a steady following without sensationalizing. German for “in short,” Kurzgesagt aims to explore science in succinct and accessible ways, accomplished through amusing animations. A recent video, concerning microscopic superpredators, was set to private before being removed altogether. As it turns out, the bizarre ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "video"
+      ]
+    },
+    {
+      "id": "bdd24cd8-3869-4d8e-a9f9-d8665fdb3d80",
+      "name": "I built a failover daemon for Vast.ai spot GPUs",
+      "url": "https://github.com/enplabs/spotwarp",
+      "oneLiner": "The real cost of a Spot GPU eviction was never the few minutes of downtime — it's the hours of training progress that vanish with it.",
+      "description": "The real cost of a Spot GPU eviction was never the few minutes of downtime — it's the hours of training progress that vanish with it. SpotWarp is a lightweight, 100% local Python daemon that runs continuous automatic backups of your workspace in the background, so an eviction never costs you your work. Sub-minute cross-cloud failover (Vast.ai ⇄ RunPod) is what turns that protected workspace into a",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "e95dbdde-c59c-4fc1-8a9a-2dc2cf74a8c4",
+      "name": "Aidress",
+      "url": "https://docs.langchain.com/oss/python/integrations/tools",
+      "oneLiner": "If you’d like to contribute an integration, see Contributing integrations.",
+      "description": "Search\nThe following table shows tools that execute online searches in some shape or form:Code interpreter\nThe following table shows tools that can be used as code interpreters:Productivity\nThe following table shows tools that can be used to automate tasks in productivity tools:Web browsing\nThe following table shows tools that can be used to automate tasks in web browsers:Database\nThe following ta",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "search",
+        "data"
       ]
     }
   ]
