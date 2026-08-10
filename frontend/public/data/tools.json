@@ -1,9 +1,42 @@
 {
-  "generatedAt": "2026-08-09T06:57:11.688221+00:00",
-  "count": 27,
+  "generatedAt": "2026-08-10T07:42:34.513481+00:00",
+  "count": 24,
   "tools": [
     {
-      "id": "45ad38e3-5ca8-4a5e-aa83-e0ddcca7dad9",
+      "id": "eab8ddc7-5537-4cad-b19e-9ff5cd58677f",
+      "name": "UNISWAP-ARBITRAGE-BOT",
+      "url": "https://github.com/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT",
+      "oneLiner": "My name is Liam, I am from Australia.",
+      "description": "Hello. My name is Liam, I am from Australia.\nI am not a programmer or a millionaire. Just an ordinary person who launched a bot and made a profit in 2 months.\nStart: 1.14 ETH\nNow: +7.78 ETH net (after all gas fees and drawdowns)\nRight now (March 2026) is a good time to launch: ETH is growing, volumes on Uniswap are high, competition is not yet at its maximum, and gas on the network remains very lo",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "rag"
+      ]
+    },
+    {
+      "id": "45b0477c-6ec2-469d-8add-38662f475477",
+      "name": "pandev-cli",
+      "url": "https://github.com/pandev-metriks/pandev-cli",
+      "oneLiner": "What your AI coding agents actually cost — broken down by task, branch, model and file.",
+      "description": "What your AI coding agents actually cost — broken down by task, branch, model and file.\nRuns on your machine. No account, no telemetry — your logs never leave your laptop.\nnpx pandev@beta\npandev-metrics.com/cli · npm · How to verify the privacy claim · Changelog\nnpx pandev@beta\nruns the current beta on macOS (Apple Silicon and Intel) and Linux x64 — no install step, nothing else to set up. The Win",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "570b0eba-fa55-4702-b640-994d7c1b7a45",
       "name": "vibewatch",
       "url": "https://github.com/GOROman/vibewatch",
       "oneLiner": "A wearable, tactile control surface for AI-assisted Vibe Coding—built around the M5Stack StopWatch.",
@@ -14,13 +47,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/GOROman/vibewatch.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "audio"
       ]
     },
     {
-      "id": "73089bd0-9679-49d3-bcfd-ae236b31d5c4",
+      "id": "07b6312f-0516-42cb-bdf4-0d150e82633c",
       "name": "agent-skills-collection",
       "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
       "oneLiner": "This repository provides a ready-to-use collection of agent skills for AI assistants like Claude, ChatGPT, and custom agents.",
@@ -31,13 +64,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "search"
       ]
     },
     {
-      "id": "430757a8-8494-4fca-adbf-4af95f6c13fe",
+      "id": "f857faf4-cd91-474c-9d2a-640393f5c56d",
       "name": "vibecodingex",
       "url": "https://github.com/eticmedya/vibecodingex",
       "oneLiner": "Sahada, kapı kapı gezerek yazılım satan bir kişi için yapılmış, tamamen kendi bilgisayarında çalışan bir keşif aracı.",
@@ -49,63 +82,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "search",
-        "data"
+        "data",
+        "search"
       ]
     },
     {
-      "id": "6e049052-97f5-4b83-8287-ea57c522f44c",
-      "name": "troth",
-      "url": "https://github.com/xgre1/troth",
-      "oneLiner": "The AI partner whose mind lives outside the model.",
-      "description": "The AI partner whose mind lives outside the model.\nSwap the model. Keep the mind.\nThe core is AGPL open source, free forever. The macOS app is a one-time purchase.\nRuns on your Mac. Uses the Claude, ChatGPT or Kimi subscription you already pay for, any provider with your own key, or a fully local model. Your data never leaves your machine.\ntroth is a persistent AI partner. Its identity, memory, go",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/xgre1/troth.git",
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "014db6b1-fa88-4525-8778-42defa2c0d5c",
-      "name": "hermes-brasil",
-      "url": "https://github.com/Hermes-brasil/hermes-brasil",
-      "oneLiner": "Comunidade brasileira de Hermes Agent — o agente de IA open source da Nous Research que cresce com você.",
-      "description": "Comunidade brasileira de Hermes Agent — o agente de IA open source da Nous Research que cresce com você.\nEste repositório reúne skills, guias, integrações e recursos em português para a comunidade brasileira de Hermes Agent.\nHermes Agent é um agente de IA open source (MIT) da Nous Research, com um loop de aprendizado próprio: ele cria skills a partir da experiência, melhora durante o uso e constró",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "design",
-        "rag"
-      ]
-    },
-    {
-      "id": "73c40e58-64fd-4781-a6f9-c0f7513fe465",
-      "name": "spotlight",
-      "url": "https://github.com/CMUL8/spotlight",
-      "oneLiner": "An open-source, multi-agent AI security engineer.",
-      "description": "An open-source, multi-agent AI security engineer. Point it at a repository and it reviews the code, reproduces the vulnerabilities it finds by actually exploiting them in an isolated sandbox, writes and independently verifies a fix, and signs every step so the whole chain can be audited later. Not a scanner that emits alerts — an engineer that hands you evidence.\nA sweep runs seven stages, gated b",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "de6506ed-e32c-40c2-9a2d-ff791c3ae7a4",
+      "id": "c7da94f0-6e52-4873-915a-728aae7068c3",
       "name": "sparkfetch",
       "url": "https://github.com/Sparkfetch/sparkfetch",
       "oneLiner": "Turn any URL into clean, structured, LLM-ready content.",
@@ -117,131 +99,128 @@
       "githubUrl": "https://github.com/Sparkfetch/sparkfetch.git",
       "categories": [
         "code",
-        "writing",
+        "data",
+        "writing"
+      ]
+    },
+    {
+      "id": "741de76e-fafb-462f-bf8c-3a1193fef4ff",
+      "name": "Horolog",
+      "url": "https://github.com/ujjwalredd/horolog",
+      "oneLiner": "An open-source, self-hosted AI calendar that defends your time.",
+      "description": "An open-source, self-hosted AI calendar that defends your time.\nHorolog places focus time, habits and tasks around the meetings you actually have - then keeps them there. It runs entirely on your own machine, against your own calendar, with whichever language model you already trust.\nIt is a working alternative to Reclaim.ai (acquired by Dropbox in 2024). At the time of writing no open-source equi",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/ujjwalredd/horolog.git",
+      "categories": [
+        "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "215108ef-6138-4667-b253-9adb27801c6c",
-      "name": "The AI Apocalypse Is Here",
-      "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
-      "oneLiner": "Americans do not care for artificial intelligence.",
-      "description": "Americans do not care for artificial intelligence. Recent polling shows that their attitudes mostly range from ambivalence to horror. Some observers have suggested that opposition to AI is due to poor PR from industry leaders. If tech titans hadn’t been so convinced that boasting of their apocalyptic powers was the best way to raise capital, the argument goes, then the American public would be on ",
+      "id": "bbb792a4-d1e2-4230-b615-e916ed17c105",
+      "name": "Gotcha- First on-device AI copilot for Android",
+      "url": "https://samosa-ai.com/gotcha/",
+      "oneLiner": "Simply state what you need in everyday language.",
+      "description": "> in plain language\nYou talk. It acts.\nSimply state what you need in everyday language. Gotcha evaluates live device context and triggers the exact Android system operations required to complete your task.\nfind_contact\nsend_sms\nget_storage_info\nset_wallpaper\nread_screen\ntoggle_torch\nset_volume\nnavigate_app\n> two copilot modes\nMonitor plans. Operator acts.\nGotcha runs as one of two copilot modes on",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "writing",
-        "security",
-        "research"
+        "rag",
+        "productivity"
       ]
     },
     {
-      "id": "1f6f0a41-fc03-41e5-be80-428747fa2098",
-      "name": "Open Source",
-      "url": "https://github.com/ifixai-ai/iFixAi",
-      "oneLiner": "Catch your agent's mistakes and blind spots before the shit hits the fan.",
-      "description": "Independent Auditing of AI Agents\nCatch your agent's mistakes and blind spots before the shit hits the fan.\nQuick start • Three ways to run • Test your agent • Scoring • Docs • Contributing\nOne ifixai run\n, end to end: guided setup picks the system, judge, and suite; the run verifies the connection and saves your config; 32 inspections execute across five pillars; and the result lands as an A–F gr",
+      "id": "e394dcf5-6208-4ec1-a7cb-359634893f2f",
+      "name": "Ask your coding agent to subtitle",
+      "url": "https://github.com/perso-ai/perso-dubbing-plugin",
+      "oneLiner": "Every video, every language.",
+      "description": "Every video, every language. Dub, subtitle, and clip right from your coding agent. \"Dub this video into English\" is the whole workflow.\nEnglish ｜ 한국어 ｜ Español ｜ Português ｜ Русский ｜ Bahasa Indonesia ｜ Deutsch ｜ ไทย ｜ 日本語 ｜ 繁體中文 ｜ 简体中文 ｜ Tiếng Việt ｜ Français\nFiles, folders, and YouTube/TikTok URLs all work.\nAgent installing from this repo URL? In Claude Code, run this now (non-interactive, safe ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "video"
+      ]
+    },
+    {
+      "id": "5b257773-0ca2-4905-8137-39ae5d0d498c",
+      "name": "A local-first",
+      "url": "https://github.com/celerp/celerp",
+      "oneLiner": "Free business management software for you and your office.",
+      "description": "Free business management software for you and your office. Setup in minutes. Easy enough for solo entrepreneurs and powerful enough for large enterprises\nInventory, invoicing, purchasing, consignment, manufacturing, accounting, and CRM - in one app, on your computer. No subscription. No cloud required.\nWebsite: www.celerp.com\nCelerp is simple to use, flexible, customizable, and designed to transit",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "design",
         "code",
+        "data"
+      ]
+    },
+    {
+      "id": "ebefcefa-7b8a-4a4b-84ef-02233a54d9b4",
+      "name": "Pacific Slate",
+      "url": "https://pacslate.com/",
+      "oneLiner": "I was in the first year of an MBA, trying to manage a firehose of information while applying to internships and keeping up with my wife and two kids, and I kept re-explaining my wh",
+      "description": "Pacific Slate\nI was in the first year of an MBA, trying to manage a firehose of information while applying to internships and keeping up with my wife and two kids, and I kept re-explaining my whole situation to whatever AI program I was using that week. I wanted one that updated itself, filtered the slop, and kept the data mine.\nI built this website to share the structure for anyone looking to do ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
         "agents",
+        "design",
+        "code"
+      ]
+    },
+    {
+      "id": "a98eb3df-9afd-45f9-b4bc-11823efc14c4",
+      "name": "Wardline",
+      "url": "https://github.com/kabirnarang39/wardline",
+      "oneLiner": "Wardline is an open-source proxy that sits between your AI agents and everything they call (MCP servers, tools, gRPC upstreams) and enforces identity, policy, budget, and audit — w",
+      "description": "Wardline is an open-source proxy that sits between your AI agents and everything they call (MCP servers, tools, gRPC upstreams) and enforces identity, policy, budget, and audit — with statistical anomaly detection that blocks a compromised agent in real time, no rule written for the attack and no human in the loop. One static Go binary; no database, IdP, or sidecar to start.\nmake demo # spins up a",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "design",
         "security"
       ]
     },
     {
-      "id": "e5eb1655-657a-4be1-9f75-24fa085c3b50",
-      "name": "Qwen3.8-Max",
-      "url": "https://github.com/tohid4n/qwen3.8-max-local-coding",
-      "oneLiner": "Code locally for free using one of the most powerful open-source AI models — no API keys, no subscriptions, no limits.",
-      "description": "Code locally for free using one of the most powerful open-source AI models — no API keys, no subscriptions, no limits.\nThis guide shows you how to set up Qwen 3.8-Max (via Qwen Studio) with MCP (Model Context Protocol) to read, write, and edit files on your machine — turning it into a fully capable local AI coding assistant.\n- Go to qwen.ai/download and download the desktop application for your op",
-      "pricing": "open_source",
+      "id": "15188d6e-03f0-4003-b42b-fe40aa266269",
+      "name": "industrial-mcp",
+      "url": "https://github.com/zhiningsun/industrial-mcp",
+      "oneLiner": "uv run python -m industrial_mcp.",
+      "description": "工业设备的 USB-C 接口 — 让 AI 模型通过标准化协议读取和控制工业设备。\n在工业自动化领域，AI 模型（如 Claude）想要与工厂设备交互面临三大障碍：\n- 协议碎片化 — Modbus、OPC UA、MQTT 各有各的驱动和 API\n- 缺乏标准化 AI 接口 — 每个设备都需要定制集成代码（M×N 问题）\n- 调试困难 — stdio 模式下 stdout 被 JSON-RPC 独占，传统\nprint()\n调试完全失效\nindustrial-mcp 通过 Model Context Protocol (MCP) 解决这些问题： 把工厂里的每台设备、每个传感器、每个执行器都变成 AI 可以直接理解和操作的标准接口。\n- 🔌 5 个 MCP Tools —\nlist_devices\n、read_device\n、set_speed\n、start_device\n、stop_devi",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
+      "quality": 10,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/your-org/industrial-mcp.git",
       "categories": [
-        "code",
-        "agents",
-        "writing"
+        "code"
       ]
     },
     {
-      "id": "ea3e3dbe-6de8-41dd-b617-ba440ed22723",
-      "name": "Pomona",
-      "url": "https://github.com/okyanu/pomona",
-      "oneLiner": "Open edge AI platform for agriculture — MQTT ingest, reasoning, deterministic safety checks, and dashboards for the greenhouse.",
-      "description": "Open edge AI platform for agriculture — MQTT ingest, reasoning, deterministic safety checks, and dashboards for the greenhouse.\nAnyone can clone, use, fork, and contribute — free under Apache-2.0.\nQuickstart · Architecture · Model status · Phases · Wiki · Contribute\nEarly MVP. Simulated sensors → SQLite-backed API → guarded reasoner pipeline → read-only dashboard. Docker remains the recommended de",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Okyanus/pomona.git",
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "4c32c112-481c-419b-b9d1-30925cc4c3f0",
-      "name": "Tura",
-      "url": "https://github.com/Tura-AI/tura",
-      "oneLiner": "Tura is an open-source agent runtime harness that delivers better results with fewer tokens.",
-      "description": "English | 简体中文\nTura is an open-source agent runtime harness that delivers better results with fewer tokens.\nAcross 20 DeepSWE v1.1 tasks, each run three times per agent, Tura creates a substantial token-budget advantage by reducing repeated context and model round trips. You can spend that advantage in two ways. Direct turns most of it into lower cost: 77.5% fewer aggregate tokens than Codex CLI, ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Tura-AI/tura.git",
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "1d44f57f-f7da-406d-92fc-0390f278815b",
-      "name": "Faaah",
-      "url": "https://github.com/sebastiancarlos/faaah",
-      "oneLiner": "The simplest OpenAI-compatible LLM proxy you will ever need.",
-      "description": "The simplest OpenAI-compatible LLM proxy you will ever need.™️\nFAAAH allows you to reuse your AI Agent subscription as a generic OpenAI-compatible local server.\nFAAAH is dependency-free, implemented as a plain-text file protocol (UNIX-philosophy certified):\n- Instead of sending your prompts to cloud LLM APIs, send them to FAAAH,\nwhich reads OpenAI-compatible requests and dumps them into a folder a",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/sebastiancarlos/faaah",
-      "categories": [
-        "code",
-        "agents",
-        "writing"
-      ]
-    },
-    {
-      "id": "72a3c488-2be3-4329-9e61-053b82c17ac1",
-      "name": "HolyCode Cloud",
-      "url": "https://holycode.cloud",
-      "oneLiner": "Claude Code, Codex, Gemini, Cursor, OpenCode and Pi on one Linux box, with root and a disk that keeps your work.",
-      "description": "Claude Code, Codex, Gemini, Cursor, OpenCode and Pi on one Linux box, with root and a disk that keeps your work.\nA real session, replayed line for line · the phone version →\nRoot on your own VM. Your home and workspace live on a disk that keeps them.\nClaude Code, Codex, Gemini, OpenCode, Cursor and Pi on your PATH from first boot. Sign in and go.\nIt's a browser tab. Start a run at your desk, check",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "57d02db2-7667-45d8-aedf-9c4c079f68c4",
+      "id": "b1ede1b2-3e65-440f-ad12-9dcd9a5d91b3",
       "name": "KADATH",
       "url": "https://github.com/i3T4AN/KADATH",
       "oneLiner": "KADATH takes a goal and spends an ungodly number of model tokens evolving agents that are progressively better at achieving it.",
@@ -258,7 +237,24 @@
       ]
     },
     {
-      "id": "8b889d10-3e80-4f56-9328-77dc5b618e4e",
+      "id": "158c3538-92fc-47de-b654-e11a42ce3177",
+      "name": "claude-skills",
+      "url": "https://github.com/LOGIN-TB/claude-skills",
+      "oneLiner": "Agent Skills zur freien Nutzung.",
+      "description": "Agent Skills zur freien Nutzung. Ein Skill ist eine Markdown-Datei mit Anweisungen, die Claude lädt, sobald sie zum jeweiligen Auftrag passt. Das Format folgt dem SKILL.md-Standard und funktioniert in Claude Code, in der Claude-App (claude.ai, Desktop, Cowork) und über die API.\nSchreibregeln für deutsche Texte, die nicht nach KI klingen. Der Skill greift bei allem, was auf Deutsch geschrieben wird",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/LOGIN-TB/claude-skills.git",
+      "categories": [
+        "agents",
+        "code",
+        "rag"
+      ]
+    },
+    {
+      "id": "cdd93fc6-031b-4714-9d19-9542803f8f91",
       "name": "see-my-video",
       "url": "https://github.com/eveacla11/see-my-video",
       "oneLiner": "-vsync vfr -frames:v 12 帧_%02d.",
@@ -275,7 +271,7 @@
       ]
     },
     {
-      "id": "a575e987-1155-48aa-b080-76f6d4f83b83",
+      "id": "a92f8afa-a35d-4a28-99e7-38ecda15c4c7",
       "name": "goal-flow",
       "url": "https://github.com/wanmol/goal-flow",
       "oneLiner": "Graph-Orchestrated Agent Loop — a production-grade framework for building LLM applications on top of LangGraph.",
@@ -286,13 +282,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "a5227e43-f784-4d1f-b019-a37045398bd8",
+      "id": "275aaf6f-c595-47f3-af70-575cf58e1316",
       "name": "AIFA",
       "url": "https://github.com/AdrianBesleaga/AIFA",
       "oneLiner": "AI Atomic Feature Architecture, or AIFA, is an experiment in making software systems from small, explicit, independently implementable features.",
@@ -303,13 +299,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "9609cfee-c263-4ed1-9dd3-f5a8d6ebee39",
+      "id": "da0d7e07-229f-43c8-8061-9a1a1ab81c95",
       "name": "mc-architect-mcp",
       "url": "https://github.com/AnctyEnly453/mc-architect-mcp",
       "oneLiner": "English summary: a local Fabric mod and MCP server for inspecting, building, validating, photographing, and undoing changes in Minecraft Java single-player worlds.",
@@ -324,7 +320,7 @@
       ]
     },
     {
-      "id": "35fea45e-2a98-4c6c-9901-dce998feaa4d",
+      "id": "b5d7fcc0-b8c4-4c38-9048-a0b36fc6b042",
       "name": "yu-ai-learn",
       "url": "https://github.com/liyupi/yu-ai-learn",
       "oneLiner": "pip install -r requirements.",
@@ -341,7 +337,7 @@
       ]
     },
     {
-      "id": "3a74c821-8c29-4237-b20c-7785800e83a2",
+      "id": "a804463e-6033-427c-aa51-c10f03b800d7",
       "name": "ferrox",
       "url": "https://github.com/antonellof/ferrox",
       "oneLiner": "Ferrox is a pure-Rust inference engine for GGUF models.",
@@ -356,7 +352,7 @@
       ]
     },
     {
-      "id": "22ec2d1f-4c8e-4e29-bde6-dc73ff4b037c",
+      "id": "cc9e7ef7-2caf-4d72-8c77-a93d12e74be1",
       "name": "wai-play",
       "url": "https://github.com/waiterve/wai-play",
       "oneLiner": "python -m pip install -r requirements.",
@@ -373,11 +369,11 @@
       ]
     },
     {
-      "id": "083b541f-2a5d-4118-b5dc-0cf46711154e",
-      "name": "AI-Knowledge-Management-Platform",
-      "url": "https://github.com/TOPDEV99999/AI-Knowledge-Management-Platform",
-      "oneLiner": "The Agentic Documents Assistant is an LLM-powered assistant that allows users to answer complex questions from business documents through natural conversations.",
-      "description": "The Agentic Documents Assistant is an LLM-powered assistant that allows users to answer complex questions from business documents through natural conversations.\nIt supports answering factual questions by retrieving relevant information directly from documents using semantic search based on the RAG (Retrieval-Augmented Generation) design pattern.\nAdditionally, it can answer analytical questions suc",
+      "id": "bd63e963-d9ca-474b-afe2-48ef4aeaeed8",
+      "name": "Docker Sandboxes",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "oneLiner": "Run AI agents safely in local sandboxes.",
+      "description": "Run AI agents safely in local sandboxes.\nSandboxes in action.\nGet started in seconds.\nbrew trust docker/tap && brew install docker/tap/sbx\nGive agents the autonomy they need to get work done, safely.\nNeed to enforce these controls across your whole team?\nThat’s Docker AI GovernanceYOLO mode, safely.\nCustomizable Safe Execution\nNetwork and filesystem controls you define.\nMicroVM Isolation\nHard secu",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -385,74 +381,23 @@
       "githubUrl": null,
       "categories": [
         "agents",
-        "data",
-        "rag"
+        "code"
       ]
     },
     {
-      "id": "61b8938c-f1cb-4943-8628-19fc02ec5265",
-      "name": "phi",
-      "url": "https://github.com/pulseaiclub/phi",
-      "oneLiner": "A minimal terminal coding agent harness in Go — a sibling to Pi.",
-      "description": "A minimal terminal coding agent harness in Go — a sibling to Pi. Sub-agents, hashline edits, and a permission gate; any OpenAI-compatible or Anthropic model, no vendor lock-in.\nphi is deliberately small: a model loop, a handful of tools, a TUI, and Markdown rendering that makes assistant output readable. Extend it with skills and configure it with a single YAML file.\n- Quick start\n- Footprint\n- Co",
+      "id": "3f12fdf2-a9ed-44d6-a23e-a06416aca36e",
+      "name": "NexusMem",
+      "url": "https://github.com/yaminbakoh4-dot/NexusMem",
+      "oneLiner": "A local-first persistent memory engine for AI coding agents (Claude Code, Cursor, MCP-based agents).",
+      "description": "A local-first persistent memory engine for AI coding agents (Claude Code, Cursor, MCP-based agents).\nAI coding assistants forget context once a session ends, and re-uploading the entire repository as context on every request is slow and expensive. NexusMem records local machine events — git history, shell commands, docs, and conversation transcripts — into an on-disk SQLite database, returning onl",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "a03d635f-adf1-483e-a7aa-7ca485d6c48e",
-      "name": "YouTube Mistakenly Penalizes Kurzgesagt for AI-Generated Slop",
-      "url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
-      "oneLiner": "While YouTube often rewards the outrageous and exploitative, Kurzgesagt has maintained a steady following without sensationalizing.",
-      "description": "While YouTube often rewards the outrageous and exploitative, Kurzgesagt has maintained a steady following without sensationalizing. German for “in short,” Kurzgesagt aims to explore science in succinct and accessible ways, accomplished through amusing animations. A recent video, concerning microscopic superpredators, was set to private before being removed altogether. As it turns out, the bizarre ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "video"
-      ]
-    },
-    {
-      "id": "bdd24cd8-3869-4d8e-a9f9-d8665fdb3d80",
-      "name": "I built a failover daemon for Vast.ai spot GPUs",
-      "url": "https://github.com/enplabs/spotwarp",
-      "oneLiner": "The real cost of a Spot GPU eviction was never the few minutes of downtime — it's the hours of training progress that vanish with it.",
-      "description": "The real cost of a Spot GPU eviction was never the few minutes of downtime — it's the hours of training progress that vanish with it. SpotWarp is a lightweight, 100% local Python daemon that runs continuous automatic backups of your workspace in the background, so an eviction never costs you your work. Sub-minute cross-cloud failover (Vast.ai ⇄ RunPod) is what turns that protected workspace into a",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "e95dbdde-c59c-4fc1-8a9a-2dc2cf74a8c4",
-      "name": "Aidress",
-      "url": "https://docs.langchain.com/oss/python/integrations/tools",
-      "oneLiner": "If you’d like to contribute an integration, see Contributing integrations.",
-      "description": "Search\nThe following table shows tools that execute online searches in some shape or form:Code interpreter\nThe following table shows tools that can be used as code interpreters:Productivity\nThe following table shows tools that can be used to automate tasks in productivity tools:Web browsing\nThe following table shows tools that can be used to automate tasks in web browsers:Database\nThe following ta",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/yaminbakoh4-dot/NexusMem.git",
       "categories": [
         "agents",
-        "search",
+        "code",
         "data"
       ]
     }
