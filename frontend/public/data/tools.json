@@ -1,11 +1,26 @@
 {
-  "generatedAt": "2026-08-10T07:42:34.513481+00:00",
-  "count": 24,
+  "generatedAt": "2026-08-11T07:08:07.223327+00:00",
+  "count": 27,
   "tools": [
     {
-      "id": "eab8ddc7-5537-4cad-b19e-9ff5cd58677f",
+      "id": "ddc3b2f8-0e43-434f-8bdf-259e9250bd3e",
+      "name": "AI-Trading-Bot-Codepen",
+      "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
+      "oneLiner": "🔗 My Telegram: https://t.",
+      "description": "Step-by-Step Guide\n🔗 My Telegram: https://t.me/Jckb9\n🔗 Open Source Bot Code [Click Here]\n🟢 Step 1: Download the MetaMask Extension\n🔗 -Dоwnlоаd МetаМаsk: https://metamask.io/download\n🔗 -Dоwnlоаd Phantom: https://phantom.com/\n🟢 Step 2: CODE EDITOR\n🟢 Step 3:\nOnce the site has loaded click on the \"Start Coding\" button on the left side.\n🟢 Step 4: Paste the following code into the HTML box:\n🔗 Open Sourc",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "c0dd6363-f17e-49f4-ad6f-0635c2cd5341",
       "name": "UNISWAP-ARBITRAGE-BOT",
-      "url": "https://github.com/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT",
+      "url": "https://github.com/eagerwrenmey8308/UNISWAP-ARBITRAGE-BOT",
       "oneLiner": "My name is Liam, I am from Australia.",
       "description": "Hello. My name is Liam, I am from Australia.\nI am not a programmer or a millionaire. Just an ordinary person who launched a bot and made a profit in 2 months.\nStart: 1.14 ETH\nNow: +7.78 ETH net (after all gas fees and drawdowns)\nRight now (March 2026) is a good time to launch: ETH is growing, volumes on Uniswap are high, competition is not yet at its maximum, and gas on the network remains very lo",
       "pricing": "paid",
@@ -19,24 +34,24 @@
       ]
     },
     {
-      "id": "45b0477c-6ec2-469d-8add-38662f475477",
+      "id": "556c27fc-a75d-47b6-a73c-c7dfe6b895e2",
       "name": "pandev-cli",
       "url": "https://github.com/pandev-metriks/pandev-cli",
       "oneLiner": "What your AI coding agents actually cost — broken down by task, branch, model and file.",
-      "description": "What your AI coding agents actually cost — broken down by task, branch, model and file.\nRuns on your machine. No account, no telemetry — your logs never leave your laptop.\nnpx pandev@beta\npandev-metrics.com/cli · npm · How to verify the privacy claim · Changelog\nnpx pandev@beta\nruns the current beta on macOS (Apple Silicon and Intel) and Linux x64 — no install step, nothing else to set up. The Win",
+      "description": "What your AI coding agents actually cost — broken down by task, branch, model and file.\nRuns on your machine. No account, no telemetry — your logs never leave your laptop.\nnpx pandev@beta\npandev-metrics.com/cli · npm · How to verify the privacy claim · Changelog\nImportant\nBeta is live. npx pandev@beta\nruns the current beta on macOS (Apple Silicon and Intel)\nand Linux x64 — no install step, nothing",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "570b0eba-fa55-4702-b640-994d7c1b7a45",
+      "id": "29c67473-0408-4a2c-9856-f7529a3bf413",
       "name": "vibewatch",
       "url": "https://github.com/GOROman/vibewatch",
       "oneLiner": "A wearable, tactile control surface for AI-assisted Vibe Coding—built around the M5Stack StopWatch.",
@@ -47,13 +62,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/GOROman/vibewatch.git",
       "categories": [
-        "agents",
         "code",
+        "agents",
         "audio"
       ]
     },
     {
-      "id": "07b6312f-0516-42cb-bdf4-0d150e82633c",
+      "id": "cd7c8155-395f-4e36-9973-04ae10a58c5d",
       "name": "agent-skills-collection",
       "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
       "oneLiner": "This repository provides a ready-to-use collection of agent skills for AI assistants like Claude, ChatGPT, and custom agents.",
@@ -64,13 +79,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "search"
       ]
     },
     {
-      "id": "f857faf4-cd91-474c-9d2a-640393f5c56d",
+      "id": "3730a417-acd8-4c40-ae42-addef18bf166",
       "name": "vibecodingex",
       "url": "https://github.com/eticmedya/vibecodingex",
       "oneLiner": "Sahada, kapı kapı gezerek yazılım satan bir kişi için yapılmış, tamamen kendi bilgisayarında çalışan bir keşif aracı.",
@@ -87,7 +102,24 @@
       ]
     },
     {
-      "id": "c7da94f0-6e52-4873-915a-728aae7068c3",
+      "id": "a0932cc1-fbf5-44a4-9619-a6ef26ca9587",
+      "name": "orbis-pictus",
+      "url": "https://github.com/0toshigami/orbis-pictus",
+      "oneLiner": "Every page is one AI-generated image, not HTML.",
+      "description": "An infinite \"browser\". Every page is one AI-generated image, not HTML.\nYou type anything, and the app draws a page in real time. You click anything inside that image, and the app draws a new page about the thing you clicked. There is no markup and there are no links. The app draws every pixel on demand.\ndemo.mp4\nThis project is an independent, open-source homage to flipbook.page. The flipbook.page",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "image",
+        "video"
+      ]
+    },
+    {
+      "id": "34e9117a-a736-480c-a901-9b93d4356103",
       "name": "sparkfetch",
       "url": "https://github.com/Sparkfetch/sparkfetch",
       "oneLiner": "Turn any URL into clean, structured, LLM-ready content.",
@@ -104,108 +136,124 @@
       ]
     },
     {
-      "id": "741de76e-fafb-462f-bf8c-3a1193fef4ff",
-      "name": "Horolog",
-      "url": "https://github.com/ujjwalredd/horolog",
-      "oneLiner": "An open-source, self-hosted AI calendar that defends your time.",
-      "description": "An open-source, self-hosted AI calendar that defends your time.\nHorolog places focus time, habits and tasks around the meetings you actually have - then keeps them there. It runs entirely on your own machine, against your own calendar, with whichever language model you already trust.\nIt is a working alternative to Reclaim.ai (acquired by Dropbox in 2024). At the time of writing no open-source equi",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ujjwalredd/horolog.git",
-      "categories": [
-        "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "bbb792a4-d1e2-4230-b615-e916ed17c105",
-      "name": "Gotcha- First on-device AI copilot for Android",
-      "url": "https://samosa-ai.com/gotcha/",
-      "oneLiner": "Simply state what you need in everyday language.",
-      "description": "> in plain language\nYou talk. It acts.\nSimply state what you need in everyday language. Gotcha evaluates live device context and triggers the exact Android system operations required to complete your task.\nfind_contact\nsend_sms\nget_storage_info\nset_wallpaper\nread_screen\ntoggle_torch\nset_volume\nnavigate_app\n> two copilot modes\nMonitor plans. Operator acts.\nGotcha runs as one of two copilot modes on",
+      "id": "0003e933-64d7-4384-920c-dfefc238927b",
+      "name": "DeepSeek",
+      "url": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+      "oneLiner": "I write about AI tools and how LLMs behave when you push them.",
+      "description": "Inside DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself\nByManish ShahiSoftware Engineer • AI Developer\nTable of contents(30)\nI run manish.sh. I write about AI tools and how LLMs behave when you push them.\nThis is part of the Inside LLMs series — interview a chat model about how it thinks, then check the careful bits against published research. The Kimi K2.6 entry came first; th",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "rag",
-        "productivity"
+        "code",
+        "agents",
+        "rag"
       ]
     },
     {
-      "id": "e394dcf5-6208-4ec1-a7cb-359634893f2f",
-      "name": "Ask your coding agent to subtitle",
-      "url": "https://github.com/perso-ai/perso-dubbing-plugin",
-      "oneLiner": "Every video, every language.",
-      "description": "Every video, every language. Dub, subtitle, and clip right from your coding agent. \"Dub this video into English\" is the whole workflow.\nEnglish ｜ 한국어 ｜ Español ｜ Português ｜ Русский ｜ Bahasa Indonesia ｜ Deutsch ｜ ไทย ｜ 日本語 ｜ 繁體中文 ｜ 简体中文 ｜ Tiếng Việt ｜ Français\nFiles, folders, and YouTube/TikTok URLs all work.\nAgent installing from this repo URL? In Claude Code, run this now (non-interactive, safe ",
+      "id": "271c3b49-123e-495a-af7d-e97f8efcd9a4",
+      "name": "Traceseal",
+      "url": "https://traceseal.io/",
+      "oneLiner": "Verifiable receipts, ground-truth verification and replayable governance for agent work.",
+      "description": "Verifiable receipts, ground-truth verification and replayable governance for agent work. A tamper-evident audit trail for every invocation — verifiable by anyone, no access to the operator required.\nAgents are doing real work — writing code, moving money, touching production. Traceseal is the accountability layer underneath: prove what ran, verify it against ground truth, replay it under governanc",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
-        "video"
+        "agents",
+        "writing"
       ]
     },
     {
-      "id": "5b257773-0ca2-4905-8137-39ae5d0d498c",
-      "name": "A local-first",
-      "url": "https://github.com/celerp/celerp",
-      "oneLiner": "Free business management software for you and your office.",
-      "description": "Free business management software for you and your office. Setup in minutes. Easy enough for solo entrepreneurs and powerful enough for large enterprises\nInventory, invoicing, purchasing, consignment, manufacturing, accounting, and CRM - in one app, on your computer. No subscription. No cloud required.\nWebsite: www.celerp.com\nCelerp is simple to use, flexible, customizable, and designed to transit",
+      "id": "181127ad-90b4-41dc-9d87-122ef9c4d08e",
+      "name": "SendPage",
+      "url": "https://sendpageapp.com",
+      "oneLiner": "Attachments arrive as raw code, get stripped by mail filters, or simply don't open on a phone.",
+      "description": "Share an HTML file as a link\nThe HTML file you sent\nwon't open.\nAttachments arrive as raw code, get stripped by mail filters, or simply don't open on a phone. Paste your HTML and get a link anyone opens in one tap — export it to PDF, image or Word when they want a file, and fix a typo without sending a new link.\nNo signup · 3 free documents a month · Works in WhatsApp, Telegram, Slack and email\nPa",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "image"
+      ]
+    },
+    {
+      "id": "eadc726c-3bc1-48a2-95e5-1a409db6281c",
+      "name": "Airship",
+      "url": "https://github.com/0xnyn/airship",
+      "oneLiner": "Visual editor for your codebase.",
+      "description": "Visual editor for your codebase.\nAirship puts an infinite design canvas in front of your dev server. Select an element, describe the change, and watch Claude Code, Codex or OpenCode update the source — without rebuilding your UI in a separate design tool.\nnpx @airshiplabs/cli --target 3000\nNo plugin. No config. Nothing added to your dependencies or your bundle.\nairship.design · CLI reference · Con",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
-        "data"
+        "agents",
+        "design"
       ]
     },
     {
-      "id": "ebefcefa-7b8a-4a4b-84ef-02233a54d9b4",
-      "name": "Pacific Slate",
-      "url": "https://pacslate.com/",
-      "oneLiner": "I was in the first year of an MBA, trying to manage a firehose of information while applying to internships and keeping up with my wife and two kids, and I kept re-explaining my wh",
-      "description": "Pacific Slate\nI was in the first year of an MBA, trying to manage a firehose of information while applying to internships and keeping up with my wife and two kids, and I kept re-explaining my whole situation to whatever AI program I was using that week. I wanted one that updated itself, filtered the slop, and kept the data mine.\nI built this website to share the structure for anyone looking to do ",
-      "pricing": "open_source",
+      "id": "a64de7ef-7f91-4fa9-a1d4-02b585fbc6c4",
+      "name": "AI-powered App Store replies that sound like you",
+      "url": "https://www.replyargus.com",
+      "oneLiner": "Reply Argus watches every review on the App Store and Google Play and drafts an on-brand reply before you wake, in the reviewer's own language.",
+      "description": "App review management for iOS and Android\nEvery review, watched.\nEvery reply answered.\nReply Argus watches every review on the App Store and Google Play and drafts an on-brand reply before you wake, in the reviewer's own language. You approve. It ships. Ratings climb.\nFree plan · no card required · 2-minute setup\navg reply · 2m18s\n“Logs me out after the update…”\nSorry about that, the fix ships thi",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "design",
-        "code"
+        "audio",
+        "productivity",
+        "marketing"
       ]
     },
     {
-      "id": "a98eb3df-9afd-45f9-b4bc-11823efc14c4",
-      "name": "Wardline",
-      "url": "https://github.com/kabirnarang39/wardline",
-      "oneLiner": "Wardline is an open-source proxy that sits between your AI agents and everything they call (MCP servers, tools, gRPC upstreams) and enforces identity, policy, budget, and audit — w",
-      "description": "Wardline is an open-source proxy that sits between your AI agents and everything they call (MCP servers, tools, gRPC upstreams) and enforces identity, policy, budget, and audit — with statistical anomaly detection that blocks a compromised agent in real time, no rule written for the attack and no human in the loop. One static Go binary; no database, IdP, or sidecar to start.\nmake demo # spins up a",
-      "pricing": "open_source",
+      "id": "eddac556-3187-4ec6-90ab-a823169a1d9b",
+      "name": "ai-smart-contract-auditor",
+      "url": "https://github.com/iktok90-design/ai-smart-contract-auditor",
+      "oneLiner": "AI-driven security analysis for Solidity & Vyper smart contracts.",
+      "description": "AI-driven security analysis for Solidity & Vyper smart contracts. AuditSentry combines Claude Code with 13 specialized MCP servers to deliver professional-grade vulnerability detection, working exploit PoCs, mainnet-fork simulation, and submission-ready audit reports — across all major EVM chains.\n🔍 AI Audit | ⚡ Exploit PoC | 🔬 Fork Simulation | 📊 Gas Profiling | 🏷️ On-Chain Certificates\nAuditSent",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
+      "quality": 10,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/iktok90-design/ai-smart-contract-auditor.git",
       "categories": [
+        "code",
         "agents",
-        "design",
-        "security"
+        "design"
       ]
     },
     {
-      "id": "15188d6e-03f0-4003-b42b-fe40aa266269",
+      "id": "a337b782-827d-4610-b944-08f1fb9805db",
+      "name": "awesome-ecommerce-ai-tools",
+      "url": "https://github.com/pixgt-ai/awesome-ecommerce-ai-tools",
+      "oneLiner": "awesome-ecommerce-ai-tools",
+      "description": "一份面向电商与跨境卖家的 AI 视觉工具清单 —— 商品主图、场景图、模特图、带货短视频。 持续更新,欢迎 PR。\nEnglish · 最近更新:2026-08\n电商卖家做一款商品,过去需要摄影、模特、场地、后期,一套图下来动辄数百元。生成式 AI 把这件事的成本降到了个位数。但工具太多、定位差异大,选型反而成了新的成本。\n这份清单按使用场景而非按厂商组织,帮你快速定位\"我这个需求该用哪一类工具\"。\n第一步,看你的输入是什么。 只有一张白底图 → 场景图类工具;有实拍素材要修 → 基础处理类;什么都没有要从零生成 → 通用生图模型。\n第二步,看你要的输出量。 单款精修 → 综合设计平台够用;几十上百款批量 → 必须选支持批量处理或提供 API 的工具,否则人工成本会吃掉 AI 省下的钱。\n第三步,看你的品类。 服装配饰对模特和版型敏感,优先选专门做虚拟试穿的;3C 家居对材质光影敏感,优先",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "image"
+      ]
+    },
+    {
+      "id": "274fbc7e-0454-4825-add8-570832e170b8",
       "name": "industrial-mcp",
       "url": "https://github.com/zhiningsun/industrial-mcp",
       "oneLiner": "uv run python -m industrial_mcp.",
@@ -220,7 +268,24 @@
       ]
     },
     {
-      "id": "b1ede1b2-3e65-440f-ad12-9dcd9a5d91b3",
+      "id": "8c155b48-5018-49b0-aedb-7ce81b405ff1",
+      "name": "memcode",
+      "url": "https://github.com/memcode-ai/memcode",
+      "oneLiner": "The coding agent that remembers your repo.",
+      "description": "The coding agent that remembers your repo.\nMost coding agents start every session from zero. memcode keeps a persistent model of your repo in .memcode\n: the subsystems, what you worked on last week, which approaches failed and why, and the preferences you have corrected it on. The longer you use it, the less you have to explain.\nOne Go binary, a full terminal UI, and it runs against whatever model",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/memcode-ai/memcode",
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "a2c1986a-7a4f-409e-be9f-354c4416c848",
       "name": "KADATH",
       "url": "https://github.com/i3T4AN/KADATH",
       "oneLiner": "KADATH takes a goal and spends an ungodly number of model tokens evolving agents that are progressively better at achieving it.",
@@ -237,7 +302,7 @@
       ]
     },
     {
-      "id": "158c3538-92fc-47de-b654-e11a42ce3177",
+      "id": "126f7850-4dc4-4d91-83ba-a9d0326bfd5e",
       "name": "claude-skills",
       "url": "https://github.com/LOGIN-TB/claude-skills",
       "oneLiner": "Agent Skills zur freien Nutzung.",
@@ -248,13 +313,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/LOGIN-TB/claude-skills.git",
       "categories": [
-        "agents",
         "code",
+        "agents",
         "rag"
       ]
     },
     {
-      "id": "cdd93fc6-031b-4714-9d19-9542803f8f91",
+      "id": "930c0720-0d49-4ec2-b15c-3ca4c88f224a",
       "name": "see-my-video",
       "url": "https://github.com/eveacla11/see-my-video",
       "oneLiner": "-vsync vfr -frames:v 12 帧_%02d.",
@@ -266,12 +331,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "video",
-        "image"
+        "image",
+        "video"
       ]
     },
     {
-      "id": "a92f8afa-a35d-4a28-99e7-38ecda15c4c7",
+      "id": "9b03b2c3-4381-4b64-92f3-9be63e62b545",
       "name": "goal-flow",
       "url": "https://github.com/wanmol/goal-flow",
       "oneLiner": "Graph-Orchestrated Agent Loop — a production-grade framework for building LLM applications on top of LangGraph.",
@@ -282,13 +347,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "275aaf6f-c595-47f3-af70-575cf58e1316",
+      "id": "707d8392-8f26-47f6-8214-9777e36f3f60",
       "name": "AIFA",
       "url": "https://github.com/AdrianBesleaga/AIFA",
       "oneLiner": "AI Atomic Feature Architecture, or AIFA, is an experiment in making software systems from small, explicit, independently implementable features.",
@@ -299,13 +364,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "da0d7e07-229f-43c8-8061-9a1a1ab81c95",
+      "id": "793cacf6-31aa-4760-bf24-ab4ccc972b90",
       "name": "mc-architect-mcp",
       "url": "https://github.com/AnctyEnly453/mc-architect-mcp",
       "oneLiner": "English summary: a local Fabric mod and MCP server for inspecting, building, validating, photographing, and undoing changes in Minecraft Java single-player worlds.",
@@ -320,7 +385,7 @@
       ]
     },
     {
-      "id": "b5d7fcc0-b8c4-4c38-9048-a0b36fc6b042",
+      "id": "b1d7513f-786a-4d99-aeaa-0b47c4d1d3b9",
       "name": "yu-ai-learn",
       "url": "https://github.com/liyupi/yu-ai-learn",
       "oneLiner": "pip install -r requirements.",
@@ -332,73 +397,57 @@
       "githubUrl": null,
       "categories": [
         "design",
-        "rag",
-        "image"
+        "image",
+        "rag"
       ]
     },
     {
-      "id": "a804463e-6033-427c-aa51-c10f03b800d7",
-      "name": "ferrox",
-      "url": "https://github.com/antonellof/ferrox",
-      "oneLiner": "Ferrox is a pure-Rust inference engine for GGUF models.",
-      "description": "Ferrox is a pure-Rust inference engine for GGUF models. It runs dense and MoE checkpoints on CPU, Apple Metal, or CUDA, with a llama.cpp-style CLI and an OpenAI-compatible HTTP server.\ncargo build --release -p ferrox-cli -p ferrox-server --features metal\nInstall the Hugging Face CLI\n(pip install -U huggingface_hub\n), then:\nmkdir -p models\nhf download TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF \\\ntinyll",
+      "id": "42e36d7f-42a6-439c-beb6-cdedc51445ac",
+      "name": "Langkast",
+      "url": "https://langkast.com",
+      "oneLiner": "One workspace for all your AI work.",
+      "description": "One workspace for all your AI work.\nChat with every leading AI model, build agents, automate workflows, and connect your favorite tools — all in one place.\nWorks with the world's leading AI models.\nEverything you need to work with AI.\nSix things that used to live in six places, in the one place you work.\nCan you rewrite this section in Claude instead? GPT's draft is close but the tone is off.\nWork",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "writing"
+        "agents",
+        "productivity"
       ]
     },
     {
-      "id": "cc9e7ef7-2caf-4d72-8c77-a93d12e74be1",
-      "name": "wai-play",
-      "url": "https://github.com/waiterve/wai-play",
-      "oneLiner": "python -m pip install -r requirements.",
-      "description": "把网页游戏地址交给 AI，让它像玩家一样试玩、发现问题，并给出可复现的证据和修改建议。\nWAI Play 是面向 vibe coding 网页游戏创作者 的自动试玩与质量诊断 Agent。它会在真实浏览器中操作游戏，理解游戏目标和流程，记录状态、截图与录像，最后生成结构化评分、问题卡片和通俗易懂的优化建议。\n你不需要先写复杂的自动化脚本：选择游戏类型、填写游戏 URL，就可以开始基础测试；如果同时上传 ZIP 源码包，WAI Play 还能结合源码理解通关条件、关键节点和玩法规则，让路线规划更准确。\n用 AI 快速做出网页游戏并不难，难的是回答下面这些问题：\n- 游戏能不能从开始完整玩到通关？\n- 核心玩法、操作反馈和界面是否合理？\n- 如何快速测试游戏获得关键节点的问题？\n- 上述问题又应该如何进行确认？\n- 发现问题以后，应该具体修改什么，又该如何后续验证？\nWAI Play 把这些工",
+      "id": "431df067-8bbf-42a2-89e1-5b42d2d53a53",
+      "name": "NiceShot AI",
+      "url": "https://github.com/karimm-ai/NiceShot_AI",
+      "oneLiner": "NiceShot AI is a Python tool powered by computer vision to analyze gameplay videos.",
+      "description": "NiceShot AI is a Python tool powered by computer vision to analyze gameplay videos. With the integration of cutting-edge tools like YOLO, OpenCV, FFmpeg, and matplotlib, NiceShot AI is designed to automatically detect, track and clip key gameplay events as well as create visual report for gameplay session analysis.\nSimple demo showcasing tool results: (https://youtu.be/op1GDREXiOg)\n- Call of Duty:",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/waiterve/wai-play.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "agents",
+        "code",
         "design",
         "data"
       ]
     },
     {
-      "id": "bd63e963-d9ca-474b-afe2-48ef4aeaeed8",
-      "name": "Docker Sandboxes",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "oneLiner": "Run AI agents safely in local sandboxes.",
-      "description": "Run AI agents safely in local sandboxes.\nSandboxes in action.\nGet started in seconds.\nbrew trust docker/tap && brew install docker/tap/sbx\nGive agents the autonomy they need to get work done, safely.\nNeed to enforce these controls across your whole team?\nThat’s Docker AI GovernanceYOLO mode, safely.\nCustomizable Safe Execution\nNetwork and filesystem controls you define.\nMicroVM Isolation\nHard secu",
+      "id": "3ab14b29-f6d1-4faf-a4fd-8d086e5abb34",
+      "name": "Pyrig",
+      "url": "https://github.com/Winipedia/pyrig",
+      "oneLiner": "A tool that standardizes and automates Python project setup, configuration, development, and maintenance.",
+      "description": "A tool that standardizes and automates Python project setup, configuration, development, and maintenance.\npyrig is a package and tool that rigs up your project. It scaffolds and initializes a complete, fully configured, installed and working Python project with one command and makes the process of developing and maintaining it more seamless and efficient by automating things like configuration man",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "3f12fdf2-a9ed-44d6-a23e-a06416aca36e",
-      "name": "NexusMem",
-      "url": "https://github.com/yaminbakoh4-dot/NexusMem",
-      "oneLiner": "A local-first persistent memory engine for AI coding agents (Claude Code, Cursor, MCP-based agents).",
-      "description": "A local-first persistent memory engine for AI coding agents (Claude Code, Cursor, MCP-based agents).\nAI coding assistants forget context once a session ends, and re-uploading the entire repository as context on every request is slow and expensive. NexusMem records local machine events — git history, shell commands, docs, and conversation transcripts — into an on-disk SQLite database, returning onl",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/yaminbakoh4-dot/NexusMem.git",
-      "categories": [
-        "agents",
         "code",
-        "data"
+        "design"
       ]
     }
   ]
