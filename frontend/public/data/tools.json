@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T07:08:07.223327+00:00",
+  "generatedAt": "2026-08-12T07:25:32.721226+00:00",
   "count": 27,
   "tools": [
     {
-      "id": "ddc3b2f8-0e43-434f-8bdf-259e9250bd3e",
+      "id": "d11a64f0-ec06-4f53-b582-9d12d6f50936",
       "name": "AI-Trading-Bot-Codepen",
       "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
       "oneLiner": "🔗 My Telegram: https://t.",
@@ -18,23 +18,7 @@
       ]
     },
     {
-      "id": "c0dd6363-f17e-49f4-ad6f-0635c2cd5341",
-      "name": "UNISWAP-ARBITRAGE-BOT",
-      "url": "https://github.com/eagerwrenmey8308/UNISWAP-ARBITRAGE-BOT",
-      "oneLiner": "My name is Liam, I am from Australia.",
-      "description": "Hello. My name is Liam, I am from Australia.\nI am not a programmer or a millionaire. Just an ordinary person who launched a bot and made a profit in 2 months.\nStart: 1.14 ETH\nNow: +7.78 ETH net (after all gas fees and drawdowns)\nRight now (March 2026) is a good time to launch: ETH is growing, volumes on Uniswap are high, competition is not yet at its maximum, and gas on the network remains very lo",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "rag"
-      ]
-    },
-    {
-      "id": "556c27fc-a75d-47b6-a73c-c7dfe6b895e2",
+      "id": "8ff35a1c-47d1-4c01-a4ef-3b7be0e62316",
       "name": "pandev-cli",
       "url": "https://github.com/pandev-metriks/pandev-cli",
       "oneLiner": "What your AI coding agents actually cost — broken down by task, branch, model and file.",
@@ -51,7 +35,7 @@
       ]
     },
     {
-      "id": "29c67473-0408-4a2c-9856-f7529a3bf413",
+      "id": "383bb6ff-a948-416b-bf07-fde4b27efdda",
       "name": "vibewatch",
       "url": "https://github.com/GOROman/vibewatch",
       "oneLiner": "A wearable, tactile control surface for AI-assisted Vibe Coding—built around the M5Stack StopWatch.",
@@ -68,7 +52,7 @@
       ]
     },
     {
-      "id": "cd7c8155-395f-4e36-9973-04ae10a58c5d",
+      "id": "5a8cdf3d-1bd3-4b7e-a94b-a073c935b4c8",
       "name": "agent-skills-collection",
       "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
       "oneLiner": "This repository provides a ready-to-use collection of agent skills for AI assistants like Claude, ChatGPT, and custom agents.",
@@ -85,24 +69,7 @@
       ]
     },
     {
-      "id": "3730a417-acd8-4c40-ae42-addef18bf166",
-      "name": "vibecodingex",
-      "url": "https://github.com/eticmedya/vibecodingex",
-      "oneLiner": "Sahada, kapı kapı gezerek yazılım satan bir kişi için yapılmış, tamamen kendi bilgisayarında çalışan bir keşif aracı.",
-      "description": "Sahada, kapı kapı gezerek yazılım satan bir kişi için yapılmış, tamamen kendi bilgisayarında çalışan bir keşif aracı. Haritadan bir bölge seçiyorsun; VibeCodingEx çevredeki işletmeleri buluyor, her biri için elle tutulur bir yazılım fikri üretiyor ve içeri girdiğinde ağzından çıkacak satış cümlesini önceden yazıyor.\nFikir basit: bir esnafın kapısından \"web sitenizi konuşalım mı?\" diye boş bir cüml",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "search"
-      ]
-    },
-    {
-      "id": "a0932cc1-fbf5-44a4-9619-a6ef26ca9587",
+      "id": "9221424a-6692-4dbe-8cbb-5b514429f26a",
       "name": "orbis-pictus",
       "url": "https://github.com/0toshigami/orbis-pictus",
       "oneLiner": "Every page is one AI-generated image, not HTML.",
@@ -119,109 +86,125 @@
       ]
     },
     {
-      "id": "34e9117a-a736-480c-a901-9b93d4356103",
-      "name": "sparkfetch",
-      "url": "https://github.com/Sparkfetch/sparkfetch",
-      "oneLiner": "Turn any URL into clean, structured, LLM-ready content.",
-      "description": "Turn any URL into clean, structured, LLM-ready content.\nThe open-source web fetching & content extraction API.\nSparkFetch is a powerful, self-hostable API that crawls and extracts web content — converting messy HTML into clean Markdown, structured JSON, or plain text. Built for AI applications, RAG pipelines, research tools, and any workflow that needs reliable web data.\nKey capabilities:\n- 🌐 Scra",
+      "id": "7447dbd3-1623-4540-9739-c812ad2615d4",
+      "name": "oss-maintainer-kit",
+      "url": "https://github.com/Kane-Wan/oss-maintainer-kit",
+      "oneLiner": "- turn change lists into structured release notes.",
+      "description": "Repo Steward AI is an open-source CLI and GitHub Action that helps maintainers:\n- review pull request metadata and diffs;\n- triage issues and draft maintainer replies;\n- turn change lists into structured release notes.\nIt uses the OpenAI Responses API, treats repository content as untrusted data, and never executes code from a pull request.\nStatus: early preview (\nv0.3.1\n). Maintainer judgment is ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Sparkfetch/sparkfetch.git",
+      "githubUrl": null,
       "categories": [
         "code",
-        "data",
-        "writing"
+        "security",
+        "productivity"
       ]
     },
     {
-      "id": "0003e933-64d7-4384-920c-dfefc238927b",
-      "name": "DeepSeek",
-      "url": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
-      "oneLiner": "I write about AI tools and how LLMs behave when you push them.",
-      "description": "Inside DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself\nByManish ShahiSoftware Engineer • AI Developer\nTable of contents(30)\nI run manish.sh. I write about AI tools and how LLMs behave when you push them.\nThis is part of the Inside LLMs series — interview a chat model about how it thinks, then check the careful bits against published research. The Kimi K2.6 entry came first; th",
+      "id": "9e6828c8-bb8b-43fe-a716-c79f94442d57",
+      "name": "n8meter",
+      "url": "https://github.com/bekkooazar/n8meter",
+      "oneLiner": "Know exactly what your n8n AI workflows cost.",
+      "description": "Know exactly what your n8n AI workflows cost. n8meter reads token usage out of your n8n executions, prices it against a daily-updated catalog of 2,500+ models, and shows the bill per workflow, per client and per day — on your own machine.\nn8meter is an independent community project and is not affiliated with or endorsed by n8n GmbH.\ngit clone https://github.com/bekkooazar/n8meter.git\ncd n8meter\nnp",
       "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "rag"
-      ]
-    },
-    {
-      "id": "271c3b49-123e-495a-af7d-e97f8efcd9a4",
-      "name": "Traceseal",
-      "url": "https://traceseal.io/",
-      "oneLiner": "Verifiable receipts, ground-truth verification and replayable governance for agent work.",
-      "description": "Verifiable receipts, ground-truth verification and replayable governance for agent work. A tamper-evident audit trail for every invocation — verifiable by anyone, no access to the operator required.\nAgents are doing real work — writing code, moving money, touching production. Traceseal is the accountability layer underneath: prove what ran, verify it against ground truth, replay it under governanc",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/bekkooazar/n8meter.git",
       "categories": [
         "code",
-        "agents",
-        "writing"
+        "data",
+        "security"
       ]
     },
     {
-      "id": "181127ad-90b4-41dc-9d87-122ef9c4d08e",
-      "name": "SendPage",
-      "url": "https://sendpageapp.com",
-      "oneLiner": "Attachments arrive as raw code, get stripped by mail filters, or simply don't open on a phone.",
-      "description": "Share an HTML file as a link\nThe HTML file you sent\nwon't open.\nAttachments arrive as raw code, get stripped by mail filters, or simply don't open on a phone. Paste your HTML and get a link anyone opens in one tap — export it to PDF, image or Word when they want a file, and fix a typo without sending a new link.\nNo signup · 3 free documents a month · Works in WhatsApp, Telegram, Slack and email\nPa",
+      "id": "a686cdf6-f4bd-460f-8188-d1808ac2ae33",
+      "name": "What happens when the AI bubble pops?",
+      "url": "https://thehustle.co/originals/what-happens-when-the-ai-bubble-pops",
+      "oneLiner": "The mania had started with something real.",
+      "description": "Five experts weigh in.\nThe mania had started with something real. The safety bicycle: equal wheels, pneumatic tires, a chain drive. The first bicycle model where the rider’s feet could actually touch the road if they needed to stop.\nToo bad speculators didn’t keep their feet on solid ground.\n“Suddenly, everyone wants to own a bicycle,” says Will Quinn, associate professor of finance at Queen’s Uni",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "image"
       ]
     },
     {
-      "id": "eadc726c-3bc1-48a2-95e5-1a409db6281c",
-      "name": "Airship",
-      "url": "https://github.com/0xnyn/airship",
-      "oneLiner": "Visual editor for your codebase.",
-      "description": "Visual editor for your codebase.\nAirship puts an infinite design canvas in front of your dev server. Select an element, describe the change, and watch Claude Code, Codex or OpenCode update the source — without rebuilding your UI in a separate design tool.\nnpx @airshiplabs/cli --target 3000\nNo plugin. No config. Nothing added to your dependencies or your bundle.\nairship.design · CLI reference · Con",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "a64de7ef-7f91-4fa9-a1d4-02b585fbc6c4",
-      "name": "AI-powered App Store replies that sound like you",
-      "url": "https://www.replyargus.com",
-      "oneLiner": "Reply Argus watches every review on the App Store and Google Play and drafts an on-brand reply before you wake, in the reviewer's own language.",
-      "description": "App review management for iOS and Android\nEvery review, watched.\nEvery reply answered.\nReply Argus watches every review on the App Store and Google Play and drafts an on-brand reply before you wake, in the reviewer's own language. You approve. It ships. Ratings climb.\nFree plan · no card required · 2-minute setup\navg reply · 2m18s\n“Logs me out after the update…”\nSorry about that, the fix ships thi",
+      "id": "18b20b0d-1710-4b06-aa96-64de5fe671d4",
+      "name": "Company Offering '100% Human-Written",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "oneLiner": "Research Gold, a site that advertises services for medical researchers, including drafting peer-review ready manuscripts, systemic reviews and meta-analyses, claims that it’s “100%",
+      "description": "Research Gold, a site that advertises services for medical researchers, including drafting peer-review ready manuscripts, systemic reviews and meta-analyses, claims that it’s “100% human-written, never AI,” and lists a number of PhD reviewers and professional methodologists on staff that carry out this meticulous, difficult work.\nThe problem: The PhD reviewers Research Gold lists on its site are A",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "audio",
-        "productivity",
-        "marketing"
+        "research",
+        "search",
+        "writing"
       ]
     },
     {
-      "id": "eddac556-3187-4ec6-90ab-a823169a1d9b",
+      "id": "ebbb81ab-c51e-4dfe-b508-452e96c8d8f4",
+      "name": "Open-source harness builder for AI coding",
+      "url": "https://github.com/coleam00/Archon",
+      "oneLiner": "The first open-source harness builder for AI coding.",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.\nArchon is a workflow engine for AI coding agents. Define your development processes as YAML workflows - planning, implementation, validation, code review, PR creation - and run them reliably across all your projects.\nLike what Dockerfiles did for infrastructure and GitHub Actions did for CI/CD - Archo",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/you/project",
+      "categories": [
+        "design",
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "a00af3b6-7502-4770-85cf-9f353caf6004",
+      "name": "Lethe is a portable identity layer",
+      "url": "https://lethe-ai.vercel.app",
+      "oneLiner": "Every AI you use is quietly building its own half-right picture of you.",
+      "description": "Every AI you use is quietly building its own half-right picture of you. Lethe is the one place your identity actually lives — and every AI reads from it, with your permission.\nYou’ve explained yourself a hundred times — to ChatGPT, to Claude, to Cursor, to every new tool. Each one keeps a fragment. None of them keep the same you, and none of it is yours to take with you.\nNone of them know the same",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code"
+      ]
+    },
+    {
+      "id": "b486a5e6-9c69-4807-8d9e-963d171e1ea6",
+      "name": "watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "oneLiner": "Agent skill + stdlib Python scripts to strip multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own.",
+      "description": "_ _ _ ____ ___ ____ ____ _ _ ____ ____ _ _ ____ ____ ____ _ _ ____ _ _ ____ ____\n| | | |__| | |___ |__/ |\\/| |__| |__/ |_/ [__ __ |__/ |___ |\\/| | | | | |___ |__/\n|_|_| | | | |___ | \\ | | | | | \\ | \\_ ___] | \\ |___ | | |__| \\/ |___ | \\\nAgent skill + stdlib Python scripts to strip multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own.\nVendors / ecosystems",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "image"
+      ]
+    },
+    {
+      "id": "cc2c6a47-e2db-4155-9c1f-79757ca6b857",
       "name": "ai-smart-contract-auditor",
       "url": "https://github.com/iktok90-design/ai-smart-contract-auditor",
       "oneLiner": "AI-driven security analysis for Solidity & Vyper smart contracts.",
@@ -232,13 +215,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/iktok90-design/ai-smart-contract-auditor.git",
       "categories": [
+        "design",
         "code",
-        "agents",
-        "design"
+        "agents"
       ]
     },
     {
-      "id": "a337b782-827d-4610-b944-08f1fb9805db",
+      "id": "cdf944d8-a10d-4321-80c4-9c096197277d",
       "name": "awesome-ecommerce-ai-tools",
       "url": "https://github.com/pixgt-ai/awesome-ecommerce-ai-tools",
       "oneLiner": "awesome-ecommerce-ai-tools",
@@ -253,7 +236,7 @@
       ]
     },
     {
-      "id": "274fbc7e-0454-4825-add8-570832e170b8",
+      "id": "b68eeed7-ee37-4d1b-8683-af0b7bd84684",
       "name": "industrial-mcp",
       "url": "https://github.com/zhiningsun/industrial-mcp",
       "oneLiner": "uv run python -m industrial_mcp.",
@@ -268,7 +251,7 @@
       ]
     },
     {
-      "id": "8c155b48-5018-49b0-aedb-7ce81b405ff1",
+      "id": "a41a598d-119a-4ac3-a274-7c6920d73b05",
       "name": "memcode",
       "url": "https://github.com/memcode-ai/memcode",
       "oneLiner": "The coding agent that remembers your repo.",
@@ -279,13 +262,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/memcode-ai/memcode",
       "categories": [
+        "design",
         "code",
-        "agents",
-        "design"
+        "agents"
       ]
     },
     {
-      "id": "a2c1986a-7a4f-409e-be9f-354c4416c848",
+      "id": "bea42467-b20b-4738-8db4-cdf20bd21d09",
+      "name": "VelaTerm",
+      "url": "https://github.com/vlinx-io/VelaTerm",
+      "oneLiner": "A terminal manager built for the AI-agent era.",
+      "description": "A terminal manager built for the AI-agent era. VelaTerm organizes scattered terminal sessions into a project → group → session tree, treats coding agents such as Claude Code and Codex as first-class citizens, and lets you take over any session from a browser or another machine.\nWorking with coding agents breaks the assumptions traditional terminals were built on:\n- Session sprawl. Several agents r",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "ca4fddcf-f3c5-4322-8729-572960ff2f05",
       "name": "KADATH",
       "url": "https://github.com/i3T4AN/KADATH",
       "oneLiner": "KADATH takes a goal and spends an ungodly number of model tokens evolving agents that are progressively better at achieving it.",
@@ -297,12 +297,46 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "data",
-        "rag"
+        "rag",
+        "data"
       ]
     },
     {
-      "id": "126f7850-4dc4-4d91-83ba-a9d0326bfd5e",
+      "id": "bdd88839-b49c-4450-af31-53fd81e45104",
+      "name": "phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "oneLiner": "Connect an LLM directly to your real iPhone with a thin, editable harness.",
+      "description": "Connect an LLM directly to your real iPhone with a thin, editable harness. No jailbreak, no Xcode, no WebDriverAgent.\nThe Mac's iPhone Mirroring window is the whole transport: screencapture\n+\nVision-framework OCR for eyes, HID-level CGEvents for hands. Nothing between the\nagent and the phone. The agent writes what's missing during execution in\nagent-workspace/agent_helpers.py\n.\n● agent: wants to o",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/ShawnPana/phone-harness",
+      "categories": [
+        "code",
+        "agents",
+        "video"
+      ]
+    },
+    {
+      "id": "9bfae5f1-1de6-4b4d-b18a-275085bf6bd8",
+      "name": "benday",
+      "url": "https://github.com/KacemMathlouthi/benday",
+      "oneLiner": "Seven files land in your project and belong to you.",
+      "description": "bunx shadcn@latest add @benday/benday\nimport { Benday } from \"@/components/ui/benday\";\n<Benday src=\"/logo.svg\" state={isThinking ? \"thinking\" : \"done\"} />;\nSeven files land in your project and belong to you. Only React is required — there is no package to depend on. @benday\nis a namespace in shadcn's registry directory, so there is nothing to add to components.json\n.\nTwenty-one presets span signat",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "marketing"
+      ]
+    },
+    {
+      "id": "54059161-f6aa-4360-8a52-0d1d01a561b3",
       "name": "claude-skills",
       "url": "https://github.com/LOGIN-TB/claude-skills",
       "oneLiner": "Agent Skills zur freien Nutzung.",
@@ -314,12 +348,12 @@
       "githubUrl": "https://github.com/LOGIN-TB/claude-skills.git",
       "categories": [
         "code",
-        "agents",
-        "rag"
+        "rag",
+        "agents"
       ]
     },
     {
-      "id": "930c0720-0d49-4ec2-b15c-3ca4c88f224a",
+      "id": "304a3da0-cdde-4608-ad5d-7162162f89e6",
       "name": "see-my-video",
       "url": "https://github.com/eveacla11/see-my-video",
       "oneLiner": "-vsync vfr -frames:v 12 帧_%02d.",
@@ -336,7 +370,7 @@
       ]
     },
     {
-      "id": "9b03b2c3-4381-4b64-92f3-9be63e62b545",
+      "id": "86e57983-2b84-4c54-b884-84684bcbfc63",
       "name": "goal-flow",
       "url": "https://github.com/wanmol/goal-flow",
       "oneLiner": "Graph-Orchestrated Agent Loop — a production-grade framework for building LLM applications on top of LangGraph.",
@@ -347,49 +381,17 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "707d8392-8f26-47f6-8214-9777e36f3f60",
-      "name": "AIFA",
-      "url": "https://github.com/AdrianBesleaga/AIFA",
-      "oneLiner": "AI Atomic Feature Architecture, or AIFA, is an experiment in making software systems from small, explicit, independently implementable features.",
-      "description": "AI Atomic Feature Architecture, or AIFA, is an experiment in making software systems from small, explicit, independently implementable features.\nThe core question:\nCan a developer or AI agent implement one feature without needing to understand the whole project?\nAIFA tries to make the answer \"yes\" by turning each feature into a self-contained contract.\nMost codebases ask contributors to learn the ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "793cacf6-31aa-4760-bf24-ab4ccc972b90",
-      "name": "mc-architect-mcp",
-      "url": "https://github.com/AnctyEnly453/mc-architect-mcp",
-      "oneLiner": "English summary: a local Fabric mod and MCP server for inspecting, building, validating, photographing, and undoing changes in Minecraft Java single-player worlds.",
-      "description": "MC Architect MCP 是一套面向 AI/MCP 客户端的 Minecraft Java 单人世界建筑系统。它通过本地 Fabric Mod 读取和修改真实世界，再由 TypeScript MCP Bridge 提供地形扫描、蓝图施工、几何生成、路径验证、照明检查、截图验收和持久化撤销等高层工具。\nEnglish summary: a local Fabric mod and MCP server for inspecting, building, validating, photographing, and undoing changes in Minecraft Java single-player worlds.\n- 32 个 MCP 工具：覆盖世界控制、调查、施工、验证、摄影和恢复。\n- 五种世界扫描：\nsummary\n、heightmap\n、collision\n、lig",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design"
-      ]
-    },
-    {
-      "id": "b1d7513f-786a-4d99-aeaa-0b47c4d1d3b9",
-      "name": "yu-ai-learn",
-      "url": "https://github.com/liyupi/yu-ai-learn",
-      "oneLiner": "pip install -r requirements.",
-      "description": "输入一个你想学的知识点（一句话、一段话、一个文档），AI 自动联网检索 / 解析文档，生成互动闯关题库， 答题闯关后自动生成学习复盘报告 —— 一个把\"学习\"变成\"闯关游戏\"的 AI 微信小程序。\n现代学习者常常面临\"信息过载\"与\"学习动力不足\"的双重痛点。本项目尝试用 AI 把非结构化的海量信息 （一句话概念、文档、网页）瞬间转化为结构化、有反馈、游戏化的问答闯关体验，全流程跑通 输入 → AI 出题 → 闯关答题 → 复盘报告 的学习闭环。\n- 一句话起题：主页只有一个输入框，输入你想学的知识点即可开始。\n- AI 联网检索 + 出题：基于 LangChain / LangGraph 编排，结合 Tavily 联网搜索，自动补全知识背景并生成单选 / 多选 / 判断题， 每题都配有 AI 生成的深度讲解。\n- 多格式知识库（RAG）：支持上传 PDF / Word 文档构建私有知识库，",
+      "id": "28f5513d-5049-42a0-bb3d-14901e008f4c",
+      "name": "Execution Intelligence AI Accelerator",
+      "url": "https://geekyants.com/ai-accelerator/execution-intelligence-ai-signal-bot",
+      "oneLiner": "Add an AI Execution Intelligence Assistant to your project groups.",
+      "description": "AI SIGNAL BOT | AI EXECUTION ASSISTANT\nExecution Intelligence AI Accelerator for WhatsApp-led Project Workflows\nAdd an AI Execution Intelligence Assistant to your project groups. It interprets written updates in real time, identifies task and priority changes, and recommends actions for human approval before updating Jira, Asana, or your existing project-management system.\nKeep projects updated in",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -397,32 +399,16 @@
       "githubUrl": null,
       "categories": [
         "design",
-        "image",
-        "rag"
-      ]
-    },
-    {
-      "id": "42e36d7f-42a6-439c-beb6-cdedc51445ac",
-      "name": "Langkast",
-      "url": "https://langkast.com",
-      "oneLiner": "One workspace for all your AI work.",
-      "description": "One workspace for all your AI work.\nChat with every leading AI model, build agents, automate workflows, and connect your favorite tools — all in one place.\nWorks with the world's leading AI models.\nEverything you need to work with AI.\nSix things that used to live in six places, in the one place you work.\nCan you rewrite this section in Claude instead? GPT's draft is close but the tone is off.\nWork",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
         "agents",
-        "productivity"
+        "marketing"
       ]
     },
     {
-      "id": "431df067-8bbf-42a2-89e1-5b42d2d53a53",
-      "name": "NiceShot AI",
-      "url": "https://github.com/karimm-ai/NiceShot_AI",
-      "oneLiner": "NiceShot AI is a Python tool powered by computer vision to analyze gameplay videos.",
-      "description": "NiceShot AI is a Python tool powered by computer vision to analyze gameplay videos. With the integration of cutting-edge tools like YOLO, OpenCV, FFmpeg, and matplotlib, NiceShot AI is designed to automatically detect, track and clip key gameplay events as well as create visual report for gameplay session analysis.\nSimple demo showcasing tool results: (https://youtu.be/op1GDREXiOg)\n- Call of Duty:",
+      "id": "d7b5d5a8-ee0b-43da-afd2-cd99e01fb7e8",
+      "name": "Log what you ship in your voice",
+      "url": "https://shiplog.life/",
+      "oneLiner": "A single-binary CLI that crawls your repos, summarizes the work in your own voice with the AI of your choice, and stores it where you own the data.",
+      "description": "░░░█▀▀░█░█░▀█▀░█▀█░█░░░█▀█░█▀▀░░\n░░░▀▀█░█▀█░░█░░█▀▀░█░░░█░█░█░█░░\n░░░▀▀▀░▀░▀░▀▀▀░▀░░░▀▀▀░▀▀▀░▀▀▀░░Your buddy that tracks what you ship\nhttps://shiplog.life\nLog what you ship.\nA single-binary CLI that crawls your repos, summarizes the work in your own voice with the AI of your choice, and stores it where you own the data.\ninstall\nwhat it is\nshiplog watches your code directory, groups commits into b",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -430,24 +416,40 @@
       "githubUrl": null,
       "categories": [
         "code",
+        "voice"
+      ]
+    },
+    {
+      "id": "e4405148-ec76-428b-9c08-34d156bbb5d5",
+      "name": "Pragma",
+      "url": "https://github.com/pqpo/pragma",
+      "oneLiner": "Turn the way you work with AI into a reusable asset.",
+      "description": "English | 简体中文\nTurn the way you work with AI into a reusable asset.\nDownload · Quick start · Document · Examples\nPragma is a code-public desktop application for orchestrating multiple agent harnesses, models, tools, context sources, and human decisions into reusable AI workflows.\nA Mission can move from one specialist to another without losing its decisions, artifacts, or accumulated experience. P",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/pqpo/pragma.git",
+      "categories": [
+        "code",
+        "rag",
+        "agents"
+      ]
+    },
+    {
+      "id": "e4c1cf9c-4ab5-4c6c-9393-9999b867eea5",
+      "name": "I built a failover daemon for Vast.ai spot GPUs",
+      "url": "https://github.com/enplabs/spotwarp",
+      "oneLiner": "The real cost of a Spot GPU eviction was never the few minutes of downtime — it's the hours of training progress that vanish with it.",
+      "description": "The real cost of a Spot GPU eviction was never the few minutes of downtime — it's the hours of training progress that vanish with it. SpotWarp is a lightweight, 100% local Python daemon that runs continuous automatic backups of your workspace in the background, so an eviction never costs you your work. Sub-minute cross-cloud failover (Vast.ai ⇄ RunPod) is what turns that protected workspace into a",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
         "design",
-        "data"
-      ]
-    },
-    {
-      "id": "3ab14b29-f6d1-4faf-a4fd-8d086e5abb34",
-      "name": "Pyrig",
-      "url": "https://github.com/Winipedia/pyrig",
-      "oneLiner": "A tool that standardizes and automates Python project setup, configuration, development, and maintenance.",
-      "description": "A tool that standardizes and automates Python project setup, configuration, development, and maintenance.\npyrig is a package and tool that rigs up your project. It scaffolds and initializes a complete, fully configured, installed and working Python project with one command and makes the process of developing and maintaining it more seamless and efficient by automating things like configuration man",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design"
+        "code"
       ]
     }
   ]
