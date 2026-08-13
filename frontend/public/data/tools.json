@@ -1,9 +1,60 @@
 {
-  "generatedAt": "2026-08-12T07:25:32.721226+00:00",
-  "count": 27,
+  "generatedAt": "2026-08-13T07:27:31.189578+00:00",
+  "count": 23,
   "tools": [
     {
-      "id": "d11a64f0-ec06-4f53-b582-9d12d6f50936",
+      "id": "b99a41da-c104-4b96-895a-c8747d4c3993",
+      "name": "tokentab",
+      "url": "https://github.com/wzchav/tokentab",
+      "oneLiner": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, an",
+      "description": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, and by the kind of work each session was doing. It runs entirely locally: no account, no API key, nothing leaves your machine.\nClone the repo and install it into your environment:\ngit clone https://github.com/wzchav/tokent",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/wzchav/tokentab",
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "6e2faa2a-1cc8-4217-8320-60ba1b89de1a",
+      "name": "md2hd",
+      "url": "https://github.com/evan-steinhilb/md2hd",
+      "oneLiner": "Point it at a file or a folder of notes and it opens a map in your browser — frontmatter becomes nodes, wikilinks become edges, and the topology you have been holding in your head ",
+      "description": "Markdown, mapped. Point it at a file or a folder of notes and it opens a map in your browser — frontmatter becomes nodes, wikilinks become edges, and the topology you have been holding in your head becomes something you can look at.\nnpx md2hd notes/ # a folder of markdown\nnpx md2hd map.md # or a single file\nOr install it for keeps: npm i -g md2hd\n.\nYou already have the material — organisations, pe",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "28196c61-aa38-47fe-8021-356ebf516258",
+      "name": "awesome-ai-startups-hiring",
+      "url": "https://github.com/vinitshahdeo/awesome-ai-startups-hiring",
+      "oneLiner": "A curated list of 160+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and la",
+      "description": "A curated list of 160+ AI-first startups across agent infrastructure, LLM inference, AI dev tools, data & retrieval infra, AI security, voice, and AI-fintech — with category and latest funding. Curated for software engineers job-hunting in the AI era. Find well-funded AI companies to apply to. Just know that FAANG isn't the only game in town anymore. ⚡\nWarning\nFunding data is mined using AI, not i",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "rag",
+        "research"
+      ]
+    },
+    {
+      "id": "bd856152-ee86-483e-8b58-a5aba6af92e1",
       "name": "AI-Trading-Bot-Codepen",
       "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
       "oneLiner": "🔗 My Telegram: https://t.",
@@ -18,7 +69,7 @@
       ]
     },
     {
-      "id": "8ff35a1c-47d1-4c01-a4ef-3b7be0e62316",
+      "id": "241ce45f-c62c-49a3-bf43-7994c130502c",
       "name": "pandev-cli",
       "url": "https://github.com/pandev-metriks/pandev-cli",
       "oneLiner": "What your AI coding agents actually cost — broken down by task, branch, model and file.",
@@ -29,13 +80,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "383bb6ff-a948-416b-bf07-fde4b27efdda",
+      "id": "d491199e-3ff2-4f6e-b304-c56edb6e80ac",
       "name": "vibewatch",
       "url": "https://github.com/GOROman/vibewatch",
       "oneLiner": "A wearable, tactile control surface for AI-assisted Vibe Coding—built around the M5Stack StopWatch.",
@@ -46,30 +97,47 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/GOROman/vibewatch.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "audio"
       ]
     },
     {
-      "id": "5a8cdf3d-1bd3-4b7e-a94b-a073c935b4c8",
-      "name": "agent-skills-collection",
-      "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
-      "oneLiner": "This repository provides a ready-to-use collection of agent skills for AI assistants like Claude, ChatGPT, and custom agents.",
-      "description": "A curated collection of modular agent skills for LLM-based agents\nThis repository provides a ready-to-use collection of agent skills for AI assistants like Claude, ChatGPT, and custom agents. Each skill is a self-contained module that adds specific capabilities to your AI agent.\nAgent skills are modular, reusable capabilities that extend what AI agents can do. They transform chatbots into autonomo",
-      "pricing": "free",
+      "id": "6acb97b0-72c1-4efa-805f-754b8d4c0353",
+      "name": "moire",
+      "url": "https://github.com/jamescazzetta/moire",
+      "oneLiner": "Tells parallel AI coding agents when their in-flight work would break each other — before either of them lands.",
+      "description": "Tells parallel AI coding agents when their in-flight work would break each other — before either of them lands.\nWhen two agents work at once, what checks that their changes still fit together — before one of them lands?\nYou run several AI coding agents at once to go faster. Each works in its own git worktree so they can't overwrite each other. Then you combine their work, and it breaks.\nHere's the",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/jamescazzetta/moire.git",
       "categories": [
         "code",
-        "agents",
-        "search"
+        "design",
+        "writing"
       ]
     },
     {
-      "id": "9221424a-6692-4dbe-8cbb-5b514429f26a",
+      "id": "275e161b-7ac4-4595-9340-3aa48e3c3b6e",
+      "name": "oss-pr-reviewer",
+      "url": "https://github.com/vuphongle/oss-pr-reviewer",
+      "oneLiner": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source mainta",
+      "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.\noss-pr-reviewer\nassists a maintainer with a focused review of one GitHub pull request. It fetches pull request metadata and changed-file patches, normalizes reviewable content, splits large changes into determinis",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/owner/repository",
+      "categories": [
+        "code",
+        "security",
+        "productivity"
+      ]
+    },
+    {
+      "id": "49b473e4-0116-4168-ad39-2119a5bf1a3c",
       "name": "orbis-pictus",
       "url": "https://github.com/0toshigami/orbis-pictus",
       "oneLiner": "Every page is one AI-generated image, not HTML.",
@@ -81,12 +149,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "image",
-        "video"
+        "video",
+        "image"
       ]
     },
     {
-      "id": "7447dbd3-1623-4540-9739-c812ad2615d4",
+      "id": "e3e4a36d-8062-4ac0-9971-a8170b90c0f9",
       "name": "oss-maintainer-kit",
       "url": "https://github.com/Kane-Wan/oss-maintainer-kit",
       "oneLiner": "- turn change lists into structured release notes.",
@@ -103,108 +171,92 @@
       ]
     },
     {
-      "id": "9e6828c8-bb8b-43fe-a716-c79f94442d57",
-      "name": "n8meter",
-      "url": "https://github.com/bekkooazar/n8meter",
-      "oneLiner": "Know exactly what your n8n AI workflows cost.",
-      "description": "Know exactly what your n8n AI workflows cost. n8meter reads token usage out of your n8n executions, prices it against a daily-updated catalog of 2,500+ models, and shows the bill per workflow, per client and per day — on your own machine.\nn8meter is an independent community project and is not affiliated with or endorsed by n8n GmbH.\ngit clone https://github.com/bekkooazar/n8meter.git\ncd n8meter\nnp",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/bekkooazar/n8meter.git",
-      "categories": [
-        "code",
-        "data",
-        "security"
-      ]
-    },
-    {
-      "id": "a686cdf6-f4bd-460f-8188-d1808ac2ae33",
-      "name": "What happens when the AI bubble pops?",
-      "url": "https://thehustle.co/originals/what-happens-when-the-ai-bubble-pops",
-      "oneLiner": "The mania had started with something real.",
-      "description": "Five experts weigh in.\nThe mania had started with something real. The safety bicycle: equal wheels, pneumatic tires, a chain drive. The first bicycle model where the rider’s feet could actually touch the road if they needed to stop.\nToo bad speculators didn’t keep their feet on solid ground.\n“Suddenly, everyone wants to own a bicycle,” says Will Quinn, associate professor of finance at Queen’s Uni",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "image"
-      ]
-    },
-    {
-      "id": "18b20b0d-1710-4b06-aa96-64de5fe671d4",
-      "name": "Company Offering '100% Human-Written",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "oneLiner": "Research Gold, a site that advertises services for medical researchers, including drafting peer-review ready manuscripts, systemic reviews and meta-analyses, claims that it’s “100%",
-      "description": "Research Gold, a site that advertises services for medical researchers, including drafting peer-review ready manuscripts, systemic reviews and meta-analyses, claims that it’s “100% human-written, never AI,” and lists a number of PhD reviewers and professional methodologists on staff that carry out this meticulous, difficult work.\nThe problem: The PhD reviewers Research Gold lists on its site are A",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "research",
-        "search",
-        "writing"
-      ]
-    },
-    {
-      "id": "ebbb81ab-c51e-4dfe-b508-452e96c8d8f4",
-      "name": "Open-source harness builder for AI coding",
-      "url": "https://github.com/coleam00/Archon",
-      "oneLiner": "The first open-source harness builder for AI coding.",
-      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.\nArchon is a workflow engine for AI coding agents. Define your development processes as YAML workflows - planning, implementation, validation, code review, PR creation - and run them reliably across all your projects.\nLike what Dockerfiles did for infrastructure and GitHub Actions did for CI/CD - Archo",
+      "id": "fa5bc694-af6b-4c00-ae59-6735b77714d9",
+      "name": "When Will AI Take My Job?",
+      "url": "https://www.whenwillaitakemyjob.ai/",
+      "oneLiner": "The following outlines what we see as the most likely path for the coming decade.",
+      "description": "The following outlines what we see as the most likely path for the coming decade. Our aim is not to be precise nor to provoke, but to be ready. Consider this a projection of structural, technological, and macroeconomic forces already in motion, shaped by today’s constraints on capital, energy, and human adaptation. Other paths remain possible, of course, including low-probability outcomes such as ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/you/project",
+      "githubUrl": null,
       "categories": [
-        "design",
-        "code",
-        "agents"
+        "productivity",
+        "writing",
+        "research"
       ]
     },
     {
-      "id": "a00af3b6-7502-4770-85cf-9f353caf6004",
-      "name": "Lethe is a portable identity layer",
-      "url": "https://lethe-ai.vercel.app",
-      "oneLiner": "Every AI you use is quietly building its own half-right picture of you.",
-      "description": "Every AI you use is quietly building its own half-right picture of you. Lethe is the one place your identity actually lives — and every AI reads from it, with your permission.\nYou’ve explained yourself a hundred times — to ChatGPT, to Claude, to Cursor, to every new tool. Each one keeps a fragment. None of them keep the same you, and none of it is yours to take with you.\nNone of them know the same",
-      "pricing": "free",
+      "id": "9e172adf-ef35-442e-9f0c-ced52d1d5bf1",
+      "name": "Agent Memory Leaderboard",
+      "url": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual",
+      "oneLiner": "Long-context, persona, script, and conversation-memory benchmarks.",
+      "description": "Textual Memory\nLong-context, persona, script, and conversation-memory benchmarks.\nThe open benchmark for agent memory\nMeasure what your agents remember.\nCompare what truly matters.\nA public benchmark space for comparing textual and coding-agent memory systems under a consistent evaluation flow.\nEach track keeps its own result table and detailed metric breakdown.\nLong-context, persona, script, and ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "1ae6e4fd-dd2b-4392-b396-dc9b1eabb575",
+      "name": "I'm tired replying my social media visitors",
+      "url": "https://www.agle.app/",
+      "oneLiner": "“I used to spend 2 hours every morning just replying to the same questions.",
+      "description": "★★★★★\n“I used to spend 2 hours every morning just replying to the same questions. Now Agle handles them and I wake up to a summary — not a queue.”\nDian R.\nFashion Creator, 180K followers\nIt answers questions, handles complaints, completes tasks, books meetings, and routes important issues to you — automatically, 24/7.\nYou'll create an account or sign in to secure your link.\nNo code. Live in under ",
+      "pricing": "free_trial",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "code"
+        "agents",
+        "code",
+        "rag"
       ]
     },
     {
-      "id": "b486a5e6-9c69-4807-8d9e-963d171e1ea6",
-      "name": "watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "oneLiner": "Agent skill + stdlib Python scripts to strip multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own.",
-      "description": "_ _ _ ____ ___ ____ ____ _ _ ____ ____ _ _ ____ ____ ____ _ _ ____ _ _ ____ ____\n| | | |__| | |___ |__/ |\\/| |__| |__/ |_/ [__ __ |__/ |___ |\\/| | | | | |___ |__/\n|_|_| | | | |___ | \\ | | | | | \\ | \\_ ___] | \\ |___ | | |__| \\/ |___ | \\\nAgent skill + stdlib Python scripts to strip multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own.\nVendors / ecosystems",
+      "id": "4b86a86b-7897-4e4c-9240-49657061dfd7",
+      "name": "Agentic AI Open-Source Unit Testing for orchestrators on CLI",
+      "url": "https://github.com/insightitsGit/prism-eval",
+      "oneLiner": "Catch non-deterministic LLM tool call failures, prompt injections, and digit drops in local builds and CI/CD before your users do.",
+      "description": "Catch non-deterministic LLM tool call failures, prompt injections, and digit drops in local builds and CI/CD before your users do.\nKeywords: AI agent testing, LLM red teaming, prompt injection tests, digit drop detection, OCR extraction eval, LangGraph pytest, CI/CD for AI agents, adversarial corpus, zero-trust AI gateway\nSee SECURITY.md, docs/THREAT_MODEL.md, docs/API_STABILITY.md.\nStandard unit ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/insightitsGit/prism-eval",
+      "categories": [
+        "agents",
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "05a89d07-601f-47c6-a57e-f605d9721e01",
+      "name": "memoket-kite",
+      "url": "https://github.com/memoket/memoket-kite",
+      "oneLiner": "KITE by Memoket turns conversations into structured, source-backed facts, then answers questions with the exact moment they came from attached.",
+      "description": "KITE by Memoket turns conversations into structured, source-backed facts, then answers questions with the exact moment they came from attached.\nMost AI memory turns every sentence into a cloud of numbers and hands back whatever lands closest to your question. It always returns something, even when the answer was never there, and it cannot show you why.\nKITE by Memoket reads what a question means, ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/memoket/kite.git",
       "categories": [
-        "code",
         "agents",
-        "image"
+        "code",
+        "data"
       ]
     },
     {
-      "id": "cc2c6a47-e2db-4155-9c1f-79757ca6b857",
+      "id": "1703eba2-58ca-4371-b717-08138438b7a8",
       "name": "ai-smart-contract-auditor",
       "url": "https://github.com/iktok90-design/ai-smart-contract-auditor",
       "oneLiner": "AI-driven security analysis for Solidity & Vyper smart contracts.",
@@ -215,28 +267,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/iktok90-design/ai-smart-contract-auditor.git",
       "categories": [
-        "design",
+        "agents",
         "code",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "cdf944d8-a10d-4321-80c4-9c096197277d",
-      "name": "awesome-ecommerce-ai-tools",
-      "url": "https://github.com/pixgt-ai/awesome-ecommerce-ai-tools",
-      "oneLiner": "awesome-ecommerce-ai-tools",
-      "description": "一份面向电商与跨境卖家的 AI 视觉工具清单 —— 商品主图、场景图、模特图、带货短视频。 持续更新,欢迎 PR。\nEnglish · 最近更新:2026-08\n电商卖家做一款商品,过去需要摄影、模特、场地、后期,一套图下来动辄数百元。生成式 AI 把这件事的成本降到了个位数。但工具太多、定位差异大,选型反而成了新的成本。\n这份清单按使用场景而非按厂商组织,帮你快速定位\"我这个需求该用哪一类工具\"。\n第一步,看你的输入是什么。 只有一张白底图 → 场景图类工具;有实拍素材要修 → 基础处理类;什么都没有要从零生成 → 通用生图模型。\n第二步,看你要的输出量。 单款精修 → 综合设计平台够用;几十上百款批量 → 必须选支持批量处理或提供 API 的工具,否则人工成本会吃掉 AI 省下的钱。\n第三步,看你的品类。 服装配饰对模特和版型敏感,优先选专门做虚拟试穿的;3C 家居对材质光影敏感,优先",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "image"
-      ]
-    },
-    {
-      "id": "b68eeed7-ee37-4d1b-8683-af0b7bd84684",
+      "id": "41fb9773-7c35-457f-b47e-b03a0b4cf42f",
       "name": "industrial-mcp",
       "url": "https://github.com/zhiningsun/industrial-mcp",
       "oneLiner": "uv run python -m industrial_mcp.",
@@ -251,7 +288,7 @@
       ]
     },
     {
-      "id": "a41a598d-119a-4ac3-a274-7c6920d73b05",
+      "id": "2ae94118-3ac0-4a29-add0-dc5efd6a1046",
       "name": "memcode",
       "url": "https://github.com/memcode-ai/memcode",
       "oneLiner": "The coding agent that remembers your repo.",
@@ -262,13 +299,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/memcode-ai/memcode",
       "categories": [
-        "design",
+        "agents",
         "code",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "bea42467-b20b-4738-8db4-cdf20bd21d09",
+      "id": "33962598-4f08-4713-8f28-f4050705a5b8",
       "name": "VelaTerm",
       "url": "https://github.com/vlinx-io/VelaTerm",
       "oneLiner": "A terminal manager built for the AI-agent era.",
@@ -279,13 +316,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "ca4fddcf-f3c5-4322-8729-572960ff2f05",
+      "id": "f408bfac-16d3-4bbe-afca-826a9ae57412",
       "name": "KADATH",
       "url": "https://github.com/i3T4AN/KADATH",
       "oneLiner": "KADATH takes a goal and spends an ungodly number of model tokens evolving agents that are progressively better at achieving it.",
@@ -302,7 +339,7 @@
       ]
     },
     {
-      "id": "bdd88839-b49c-4450-af31-53fd81e45104",
+      "id": "02df74dd-a6f9-4fd3-8244-81c54faa29fe",
       "name": "phone-harness",
       "url": "https://github.com/ShawnPana/phone-harness",
       "oneLiner": "Connect an LLM directly to your real iPhone with a thin, editable harness.",
@@ -313,30 +350,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/ShawnPana/phone-harness",
       "categories": [
-        "code",
         "agents",
+        "code",
         "video"
       ]
     },
     {
-      "id": "9bfae5f1-1de6-4b4d-b18a-275085bf6bd8",
-      "name": "benday",
-      "url": "https://github.com/KacemMathlouthi/benday",
-      "oneLiner": "Seven files land in your project and belong to you.",
-      "description": "bunx shadcn@latest add @benday/benday\nimport { Benday } from \"@/components/ui/benday\";\n<Benday src=\"/logo.svg\" state={isThinking ? \"thinking\" : \"done\"} />;\nSeven files land in your project and belong to you. Only React is required — there is no package to depend on. @benday\nis a namespace in shadcn's registry directory, so there is nothing to add to components.json\n.\nTwenty-one presets span signat",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "marketing"
-      ]
-    },
-    {
-      "id": "54059161-f6aa-4360-8a52-0d1d01a561b3",
+      "id": "935bba30-703c-4467-81c8-bd8837b4575d",
       "name": "claude-skills",
       "url": "https://github.com/LOGIN-TB/claude-skills",
       "oneLiner": "Agent Skills zur freien Nutzung.",
@@ -347,13 +367,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/LOGIN-TB/claude-skills.git",
       "categories": [
+        "agents",
         "code",
-        "rag",
-        "agents"
+        "rag"
       ]
     },
     {
-      "id": "304a3da0-cdde-4608-ad5d-7162162f89e6",
+      "id": "d7e650c3-0ebd-4831-bfde-41e1d0445ee7",
       "name": "see-my-video",
       "url": "https://github.com/eveacla11/see-my-video",
       "oneLiner": "-vsync vfr -frames:v 12 帧_%02d.",
@@ -365,91 +385,8 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "image",
-        "video"
-      ]
-    },
-    {
-      "id": "86e57983-2b84-4c54-b884-84684bcbfc63",
-      "name": "goal-flow",
-      "url": "https://github.com/wanmol/goal-flow",
-      "oneLiner": "Graph-Orchestrated Agent Loop — a production-grade framework for building LLM applications on top of LangGraph.",
-      "description": "English | 简体中文\nGraph-Orchestrated Agent Loop — a production-grade framework for building LLM applications on top of LangGraph. It gives you two complementary ways to build:\n- Visual-first workflows — design a flow in Dify's drag-and-drop editor, then transpile the exported DSL into a runnable, version-controllable LangGraph Python file with one command. No lock-in to Dify's runtime.\n- Code-first a",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "28f5513d-5049-42a0-bb3d-14901e008f4c",
-      "name": "Execution Intelligence AI Accelerator",
-      "url": "https://geekyants.com/ai-accelerator/execution-intelligence-ai-signal-bot",
-      "oneLiner": "Add an AI Execution Intelligence Assistant to your project groups.",
-      "description": "AI SIGNAL BOT | AI EXECUTION ASSISTANT\nExecution Intelligence AI Accelerator for WhatsApp-led Project Workflows\nAdd an AI Execution Intelligence Assistant to your project groups. It interprets written updates in real time, identifies task and priority changes, and recommends actions for human approval before updating Jira, Asana, or your existing project-management system.\nKeep projects updated in",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents",
-        "marketing"
-      ]
-    },
-    {
-      "id": "d7b5d5a8-ee0b-43da-afd2-cd99e01fb7e8",
-      "name": "Log what you ship in your voice",
-      "url": "https://shiplog.life/",
-      "oneLiner": "A single-binary CLI that crawls your repos, summarizes the work in your own voice with the AI of your choice, and stores it where you own the data.",
-      "description": "░░░█▀▀░█░█░▀█▀░█▀█░█░░░█▀█░█▀▀░░\n░░░▀▀█░█▀█░░█░░█▀▀░█░░░█░█░█░█░░\n░░░▀▀▀░▀░▀░▀▀▀░▀░░░▀▀▀░▀▀▀░▀▀▀░░Your buddy that tracks what you ship\nhttps://shiplog.life\nLog what you ship.\nA single-binary CLI that crawls your repos, summarizes the work in your own voice with the AI of your choice, and stores it where you own the data.\ninstall\nwhat it is\nshiplog watches your code directory, groups commits into b",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "voice"
-      ]
-    },
-    {
-      "id": "e4405148-ec76-428b-9c08-34d156bbb5d5",
-      "name": "Pragma",
-      "url": "https://github.com/pqpo/pragma",
-      "oneLiner": "Turn the way you work with AI into a reusable asset.",
-      "description": "English | 简体中文\nTurn the way you work with AI into a reusable asset.\nDownload · Quick start · Document · Examples\nPragma is a code-public desktop application for orchestrating multiple agent harnesses, models, tools, context sources, and human decisions into reusable AI workflows.\nA Mission can move from one specialist to another without losing its decisions, artifacts, or accumulated experience. P",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/pqpo/pragma.git",
-      "categories": [
-        "code",
-        "rag",
-        "agents"
-      ]
-    },
-    {
-      "id": "e4c1cf9c-4ab5-4c6c-9393-9999b867eea5",
-      "name": "I built a failover daemon for Vast.ai spot GPUs",
-      "url": "https://github.com/enplabs/spotwarp",
-      "oneLiner": "The real cost of a Spot GPU eviction was never the few minutes of downtime — it's the hours of training progress that vanish with it.",
-      "description": "The real cost of a Spot GPU eviction was never the few minutes of downtime — it's the hours of training progress that vanish with it. SpotWarp is a lightweight, 100% local Python daemon that runs continuous automatic backups of your workspace in the background, so an eviction never costs you your work. Sub-minute cross-cloud failover (Vast.ai ⇄ RunPod) is what turns that protected workspace into a",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code"
+        "video",
+        "image"
       ]
     }
   ]
