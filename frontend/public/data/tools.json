@@ -1,9 +1,24 @@
 {
-  "generatedAt": "2026-08-18T06:42:55.625594+00:00",
-  "count": 20,
+  "generatedAt": "2026-08-19T06:43:53.292357+00:00",
+  "count": 18,
   "tools": [
     {
-      "id": "9fd4bac0-6b63-4c38-abea-bb5e451ff5cf",
+      "id": "1c44dabc-4305-4347-9447-5b2f9d8fee14",
+      "name": "descript-activator",
+      "url": "https://github.com/regularrecall/descript-activator",
+      "oneLiner": "Activate Descript Creator or Enterprise plan for free.",
+      "description": "Activate Descript Creator or Enterprise plan for free. Unlocks AI transcription, overdub voice cloning, and unlimited filler word removal.\n- Unlocks Creator or Enterprise plan\n- Unlimited AI transcription hours\n- Overdub AI voice cloning enabled\n- Unlimited filler word removal\n- Studio Sound noise reduction\n- Screen recording without watermark\nThe archive password is shown on the download page.\n- ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "id": "220b6699-43e5-4e0d-b4dc-65f3c6e4e9e0",
       "name": "LabLLM",
       "url": "https://github.com/Greninja9257/LabLLM",
       "oneLiner": "Train language models you can actually talk to.",
@@ -15,12 +30,29 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "productivity",
-        "voice"
+        "voice",
+        "productivity"
       ]
     },
     {
-      "id": "096851ac-bed4-443c-b378-214bcfcce570",
+      "id": "d5688e12-b880-4fe3-9ab4-cd22e826490d",
+      "name": "dsh-read-url",
+      "url": "https://github.com/2672243194/dsh-read-url",
+      "oneLiner": "URL reader plugin for DeepSeek Harness: fetch any webpage, auto-detect encoding (GBK/GB2312/UTF-8/Big5), extract the clean main content, and return token-efficient compact text or ",
+      "description": "🌐 English | 中文\nURL reader plugin for DeepSeek Harness: fetch any webpage, auto-detect encoding (GBK/GB2312/UTF-8/Big5), extract the clean main content, and return token-efficient compact text or structured Markdown.\nZero dependencies (Node 20+ built-ins), no API key, no server side — install and use.\nDSH agents can search (getting links and snippets) but lack the step of \"reading a URL into clean ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "57426242-158b-4e2d-8288-81b4c89e4435",
       "name": "tether-ai",
       "url": "https://github.com/tt-11-dd/tether-ai",
       "oneLiner": "Let DeepSeek and OpenAI-compatible models inspect, edit, and verify your repositories with explicit safety boundaries.",
@@ -31,13 +63,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/tt-11-dd/tether-ai.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "image"
       ]
     },
     {
-      "id": "383aabd0-4c86-4c52-9f0d-b1cee14cd0c3",
+      "id": "b862cf8d-ef4f-4e78-a5ba-699d36972cef",
       "name": "BABY",
       "url": "https://github.com/wenhuahuo/BABY",
       "oneLiner": "Turn your own real work into a benchmark — fully local, open source, with executable verification.",
@@ -48,13 +80,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/wenhuahuo/BABY",
       "categories": [
-        "code",
         "design",
+        "code",
         "productivity"
       ]
     },
     {
-      "id": "25c96cb9-9f62-48c9-8f1a-c3bd78f90a31",
+      "id": "bda088d8-76c2-468f-b6ba-9223b0b62cdc",
       "name": "NomaData",
       "url": "https://github.com/nduckmink/NomaData",
       "oneLiner": "NomaData is a model-agnostic AI client for conversational Business Intelligence.",
@@ -65,13 +97,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/nduckmink/NomaData",
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "35494902-2665-44c4-a97a-b3e1053c30cd",
+      "id": "e0cce9ea-20ef-431e-8e48-2a56eb6f28c4",
       "name": "agentic-playwright",
       "url": "https://github.com/idavidov13/agentic-playwright",
       "oneLiner": "Stop teaching your AI how to write tests.",
@@ -82,47 +114,46 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
+        "agents",
         "design",
-        "agents"
+        "code"
       ]
     },
     {
-      "id": "81c07978-164e-4b77-943b-c0793e804309",
-      "name": "tokentab",
-      "url": "https://github.com/wzchav/tokentab",
-      "oneLiner": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, an",
-      "description": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, and by the kind of work each session was doing. It runs entirely locally: no account, no API key, nothing leaves your machine.\nClone the repo and install it into your environment:\ngit clone https://github.com/wzchav/tokent",
-      "pricing": "paid",
+      "id": "98209469-f3d9-4eca-8d8c-8e531565157e",
+      "name": "ai-demos",
+      "url": "https://github.com/maziyarpanahi/ai-demos",
+      "oneLiner": "Open-source AI demos you can understand, run, and remix.",
+      "description": "Open-source AI demos you can understand, run, and remix.\nThe shortest path from “that demo looks impossible” to “I built it.”\nExplore the demos · Run one now · Browse the catalog · Contribute\nThe demos you see on X and LinkedIn are a whole production: live models, carefully chosen inputs, polished interfaces, recording, editing, and timing. This repository strips each one down to the useful core s",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/wzchav/tokentab",
+      "githubUrl": "https://github.com/maziyarpanahi/ai-demos.git",
       "categories": [
-        "code",
         "design",
-        "data"
+        "code"
       ]
     },
     {
-      "id": "4484f4db-11c1-407c-b949-05cfccf0d87d",
-      "name": "awesome-artificial-intelligence",
-      "url": "https://github.com/musichen/awesome-artificial-intelligence",
-      "oneLiner": "An opinionated, actively maintained collection of resources for software developers learning to build and ship generative AI and agentic systems.",
-      "description": "An opinionated, actively maintained collection of resources for software developers learning to build and ship generative AI and agentic systems.\nThis list is for developers who want to:\n- understand the foundations behind modern AI systems;\n- build applications with language models, retrieval, tools, and agents;\n- evaluate, observe, and deploy AI systems in production;\n- use coding agents to impr",
+      "id": "a2a85692-c9ef-4965-bc7f-9deb0c7481c7",
+      "name": "ai-data-extractor",
+      "url": "https://github.com/bawadou/ai-data-extractor",
+      "oneLiner": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversation",
+      "description": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversations before an app's local database gets cleared.\nAuto-discovers and extracts complete conversation history, including:\n- User messages & assistant responses\n- Code context (file paths, selections, snippets)\n- Code diffs / ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "cb760f52-ddac-4faf-b438-6a3cbad61648",
+      "id": "a58ea8af-7d0c-4a70-87d8-4fb00a39124d",
       "name": "ollmo",
       "url": "https://github.com/ollmo-go/ollmo",
       "oneLiner": "Your data never leaves — build your own AI productivity tools from your knowledge base.",
@@ -134,29 +165,12 @@
       "githubUrl": "https://github.com/ollmo-go/ollmo.git",
       "categories": [
         "data",
-        "productivity",
-        "rag"
+        "rag",
+        "productivity"
       ]
     },
     {
-      "id": "f8a6bfe9-b7a8-4622-b084-daa0811758ab",
-      "name": "ai-data-extractor",
-      "url": "https://github.com/bawadou/ai-data-extractor",
-      "oneLiner": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversation",
-      "description": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversations before an app's local database gets cleared.\nAuto-discovers and extracts complete conversation history, including:\n- User messages & assistant responses\n- Code context (file paths, selections, snippets)\n- Code diffs / ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "08d1bfe4-b9a0-4c02-b0c9-d65436906758",
+      "id": "e086ac4b-319a-4340-aa65-607584f5bb84",
       "name": "oss-pr-reviewer",
       "url": "https://github.com/vuphongle/oss-pr-reviewer",
       "oneLiner": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source mainta",
@@ -173,74 +187,91 @@
       ]
     },
     {
-      "id": "f33c3da2-0e2d-436a-ae6e-7f3bc7587ad2",
-      "name": "memoket-kite",
-      "url": "https://github.com/memoket/memoket-kite",
-      "oneLiner": "Open-source and vector-free, KITE achieves 🥇 93.",
-      "description": "Open-source and vector-free, KITE achieves 🥇 93.51% on LoCoMo and 🥇 85.60% on LongMemEval-S, with gpt-4.1-mini used across all benchmark stages and an average reader context of only ~1.6K tokens per question.\nMost AI memory turns every sentence into a cloud of numbers and hands back whatever lands closest to your question. It always returns something, even when the answer was never there, and it c",
-      "pricing": "open_source",
+      "id": "cd40a9bb-7526-4b7d-ad5f-2f2b25c960f2",
+      "name": "4bit bridge between AI and humans",
+      "url": "https://github.com/YOalphabet/YOalphabet",
+      "oneLiner": "The YOalphabet introduces a completely synthesized, a priori communication environment.",
+      "description": "\"A self-balancing 4-bit isomorphic YOalphabet encoding and logical YOconlang designed for human-machine, human-human communication\"\nThe YOalphabet introduces a completely synthesized, a priori communication environment. Every single character (glyph) in this system is a strict, one-to-one isomorphic fusion of four distinct domains:Binary Code (4-bit) ── Decimal Index (0-15) ── IPA Acoustic Sound ─",
+      "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "design",
         "code",
+        "voice"
+      ]
+    },
+    {
+      "id": "30dcecf9-a7ee-4386-b3ca-1443aadbf069",
+      "name": "PlugClaw",
+      "url": "https://plugos.net/plugclaw/",
+      "oneLiner": "Hunting for APIs, writing scripts, worrying about permission.",
+      "description": "High Technical Barriers\nHunting for APIs, writing scripts, worrying about permission. It's a part‑time job.\nPlugClaw is built to fix all three.\nWhy Today's AI Still Falls Short\n* You can ask it to handle far more, the examples above are just the start.\nSay it now, it acts now.\nSet a time, and it starts automatically.\nOn a message, notification, or trigger, the AI acts proactively.\nPlugClaw runs a ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
         "agents",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "f0f2087c-9a19-4ee9-9b24-65f18d33c124",
+      "name": "Memanto Is a Memory Agent",
+      "url": "https://github.com/moorcheh-ai/memanto",
+      "oneLiner": "what to keep, what conflicts, what expires, and who needs to know.",
+      "description": "Memanto is a Memory Agent; a companion agent that manages the memories of your other agents:\nwhat to keep, what conflicts, what expires, and who needs to know.\npip install memanto\nEvery platform will store your agents' memory. None of them will manage it. Managing it across platforms is against their interest. That is the job of a Memory Agent.\nPersistence is solved. Claude, Bedrock, Cursor, and e",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "rag"
+      ]
+    },
+    {
+      "id": "920629e6-183d-4558-a01c-cdd605b21965",
+      "name": "Monity.ai",
+      "url": "https://apps.apple.com/pl/app/monity-ai/id6761957823",
+      "oneLiner": "Free · In-App Purchases · Designed for iPad.",
+      "description": "monity.ai\nAI website change alerts\nFree · In-App Purchases · Designed for iPad. Not verified for macOS.\nMonity.ai helps you monitor websites for the changes that matter, without refreshing pages all day or setting up fragile rules by hand.\nUse monity.ai to track price drops, stock changes, content edits, page updates, and visual differences across the sites you care about. When something important",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "23d1d314-94b0-4186-8cd4-acb10b2781cb",
-      "name": "Consumers Prefer AI Music Until They're Told It's AI",
-      "url": "https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai/",
-      "oneLiner": "Across three studies, Jana Friedrichsen, Julia Schwarz, and Michel Clement explore how generative AI will change the music industry.",
-      "description": "Across three studies, Jana Friedrichsen, Julia Schwarz, and Michel Clement explore how generative AI will change the music industry. They find that while consumers enjoy and even prefer AI-generated music, preferences shift upon learning that the song was AI-generated.\nIn March, book publisher Hachette pulled a horror novel from its catalog after concerns that generative artificial intelligence he",
+      "id": "79635be2-2259-47d2-a283-70cae26646b9",
+      "name": "Maritime",
+      "url": "https://maritime.sh",
+      "oneLiner": "Run a thousand agents as easily as one.",
+      "description": "Run a thousand agents as easily as one.\nRun thousands of customer-facing AI agents on Maritime with isolated microVMs, effortless scaling, and fully managed infrastructure.\nDevelopers building on Maritime work at these companies\nOne agent per customer.\nProvisioned from your backend.\nEvery signup gets its own agent. One API call brings up a dedicated micro-VM: tagged with your IDs, holding its own ",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "writing",
-        "design",
-        "audio"
-      ]
-    },
-    {
-      "id": "1c35a2df-dcd1-45b0-84c8-a96d1880ff65",
-      "name": "GPT-5.6 Sol Pricing Cut by 50%",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "oneLiner": "6 Sol is the flagship model in OpenAI's GPT-5.",
-      "description": "GPT-5.6 Sol is the flagship model in OpenAI's GPT-5.6 series. It is suited for complex reasoning, coding, and agentic workflows, and is particularly strong at command-line and multi-step coding tasks and long-horizon problem solving.\nModalities\nIn / Out Price\n$2.50 / $15per 1M\nContext\n1M\nReleased\nJul 9, 2026\nKnowledge Cutoff\nFeb 2026\nDifferent companies host the same model. OpenRouter routes your ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
+        "agents",
         "design"
       ]
     },
     {
-      "id": "ce16d9ad-608a-4ab7-beee-a5b5b9297144",
-      "name": "Alternatives to Open Source Software Tainted by AI",
-      "url": "https://codeberg.org/ethical-foss/open-slopware",
-      "oneLiner": "Free/Open Source Software tainted by LLM/AI usage, along with alternatives and last untainted commit so you can fork.",
-      "description": "Open Slopware\nFree/Open Source Software tainted by LLM/AI usage, along with alternatives and last untainted commit so you can fork.\nProvided below is an informed set of AI-free alternatives for users and developers to consider should their ethical boundaries be crossed or tolerance for risk be exceeded. This list is not a resource to be used for the harassment of other open-source developers. If y",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "writing",
-        "design"
-      ]
-    },
-    {
-      "id": "bfb33ba0-f2d9-4d72-b943-6d2f6e6d48b6",
+      "id": "e14c10df-8813-40e2-b148-5dbc3df67225",
       "name": "amadeus-for-dsh",
       "url": "https://github.com/yyxcnasd/amadeus-for-dsh",
       "oneLiner": "powershell -ExecutionPolicy Bypass -c \"irm https://raw.",
@@ -257,87 +288,20 @@
       ]
     },
     {
-      "id": "e0bda4c4-40e4-4759-9530-29c4f072a083",
-      "name": "pi-omo-slim",
-      "url": "https://github.com/joshua-zyy/pi-omo-slim",
-      "oneLiner": "A lightweight OMO-slim-style orchestration setup for Pi.",
-      "description": "A lightweight OMO-slim-style orchestration setup for Pi.\npi-omo-slim\ngives Pi a workflow-oriented Orchestrator and six focused specialist agents:\n- Explorer — local codebase reconnaissance;\n- Librarian — external documentation and library research;\n- Oracle — architecture, debugging strategy, review, and simplification;\n- Designer — UI/UX design, review, and implementation;\n- Fixer — bounded, non-",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/joshua-zyy/pi-omo-slim",
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "d28cf53c-1f70-4782-ae2d-06bff6f5c5d3",
-      "name": "enterprise-system-design",
-      "url": "https://github.com/DrHazemAli/enterprise-system-design",
-      "oneLiner": "An enterprise distributed systems design course for building reliable, secure, and operable platforms on Azure, from first principles to production AI workloads.",
-      "description": "An enterprise distributed systems design course for building reliable, secure, and operable platforms on Azure, from first principles to production AI workloads.\n┌─ architecture-console ──────────────────────────────────────────────────────┐\n│ │\n│ $ design --for production --with azure --assume partial-failure │\n│ │\n│ INPUT product intent, traffic, data, people, regulation │\n│ OUTPUT a system you ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/DrHazemAli/enterprise-system-design.git",
-      "categories": [
-        "design",
-        "security",
-        "rag"
-      ]
-    },
-    {
-      "id": "fa5ca1c7-1395-43be-8482-f90c84ccbae9",
-      "name": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
-      "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
-      "oneLiner": "Contra a bunch of idiots at Hacker News and elsewhere, I understand that popular LLMs do not just pick the “best” token (word) at each decision point.",
-      "description": "By John Gruber\nManage GRC Faster with Drata’s Agentic Trust Management Platform\nSome follow-up to this weekend’s stemwinder “Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing”:\nContra a bunch of idiots at Hacker News and elsewhere, I understand that popular LLMs do not just pick the “best” token (word) at each decision point. Counterintuitively, always selecting the hi",
+      "id": "08cd6974-3d11-44af-a524-a723ab14f054",
+      "name": "JobFlow",
+      "url": "https://github.com/ValerianXXX/JobFlow",
+      "oneLiner": "JobFlow is a local-first, AI-centered job application workflow for Windows.",
+      "description": "JobFlow is a local-first, AI-centered job application workflow for Windows. It turns a resume, approved applicant facts, and an official job page into a reviewable application packet, then provides user-present browser assistance that stops before final submission.\nAlpha software: JobFlow does not claim universal ATS compatibility. Final Submit is always a trusted user action. Unknown external sta",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "writing",
-        "image"
-      ]
-    },
-    {
-      "id": "c708ec86-8824-4cd2-a75e-eb2b4450b705",
-      "name": "Build beautiful web apps faster with UiSvelte",
-      "url": "https://github.com/sappsdev/ui-svelte",
-      "oneLiner": "Ui Svelte is a comprehensive UI component library designed to leverage Svelte 5's latest features.",
-      "description": "A modern, accessible UI component library built for Svelte 5\nUi Svelte is a comprehensive UI component library designed to leverage Svelte 5's latest features. Build beautiful, accessible interfaces with minimal configuration and maximum developer experience.\nBeautiful, pre-styled components with multiple variants and customization options. Choose from primary, secondary, soft, outlined, and ghost",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "48a183b6-c47c-4ee5-ab12-68dc50208b44",
-      "name": "Personal AI tutor that builds and probes your understanding",
-      "url": "https://github.com/grandimam/suki",
-      "oneLiner": "Suki turns an AI coding agent into a learning partner that doesn't trust you.",
-      "description": "Build the curriculum. Probe it progressively.\n╭───────────────────────────────────────────────╮\n│ s u k i │\n│ Build the curriculum. Probe it progressively. │\n╰───────────────────────────────────────────────╯\nSuki turns an AI coding agent into a learning partner that doesn't trust you. Not in a moral sense. It refuses to believe you know something just because you read it, watched a course, or nodd",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "security"
+        "data"
       ]
     }
   ]
