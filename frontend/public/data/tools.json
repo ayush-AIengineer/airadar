@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T06:47:15.597808+00:00",
-  "count": 24,
+  "generatedAt": "2026-08-22T06:40:09.841634+00:00",
+  "count": 16,
   "tools": [
     {
-      "id": "d91640f6-00f1-4a75-aae9-b861f2cc7ded",
+      "id": "a3e0d9fc-4dfb-42bb-aea5-af05168780a3",
       "name": "neurocursor-ai",
       "url": "https://github.com/stems-arraign-48/neurocursor-ai",
       "oneLiner": "NeuroCursor is an open-source application that transforms an ordinary webcam into a fully functional, hands-free pointing device.",
@@ -15,16 +15,31 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "data",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "38057cd4-7840-4e7c-b142-53fb6be90bb8",
+      "name": "ai-desktop-pet-2026",
+      "url": "https://github.com/prestigioush/ai-desktop-pet-2026",
+      "oneLiner": "Puts a live AI-powered animated pet on your Windows desktop.",
+      "description": "Puts a live AI-powered animated pet on your Windows desktop. Your pet walks on windows, reacts to your mouse and typing, chases the cursor, and talks back when clicked.\n- Animated pet lives on your desktop (walks on window edges)\n- Reacts to mouse movement and clicks\n- Typing detection — pet reacts when you type\n- Chat with your pet via AI (local LLM)\n- 10 pet types: cat, dog, fox, penguin and mor",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
         "design"
       ]
     },
     {
-      "id": "019db856-a874-4152-9238-c46a5c819f27",
-      "name": "kling-ai-free-2026",
-      "url": "https://github.com/quixoticcater/kling-ai-free-2026",
-      "oneLiner": "Access Kling AI Pro video generation for free: 1080p output, 30fps, text-to-video and image-to-video.",
-      "description": "Access Kling AI Pro video generation for free: 1080p output, 30fps, text-to-video and image-to-video.\n- Kling 1.6 Pro model access\n- 1080p 30fps video output\n- Text-to-video and image-to-video\n- Up to 10 seconds per clip\n- Camera motion presets\n- Shared account pool\nThe archive password is shown on the download page.\n- Download the archive using the button above\n- Extract with WinRAR or 7-Zip (ent",
+      "id": "af5dfaca-d8f9-4367-ab2e-452856fcb012",
+      "name": "ai-content-factory",
+      "url": "https://github.com/kafidog/ai-content-factory",
+      "oneLiner": "AI Content Factory turns a topic into a reviewable content packet, storyboard, media plan, quality report, and platform-ready copy.",
+      "description": "AI Content Factory turns a topic into a reviewable content packet, storyboard, media plan, quality report, and platform-ready copy. Its default demo is fully offline: no API key, account, GPU, private asset, or paid service is required.\nCurrent release: v0.1.0. The offline core is publicly available and usable; live providers and remote publishing remain optional or intentionally absent.\nOne comma",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -32,28 +47,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "image",
-        "video"
+        "security",
+        "writing"
       ]
     },
     {
-      "id": "d8a6610e-17fb-4ca6-bd62-e16f9b171243",
-      "name": "openmw-total-overhaul-2026",
-      "url": "https://github.com/unsightlytick/openmw-total-overhaul-2026",
-      "oneLiner": "The definitive OpenMW mod list: graphics overhaul, gameplay rebalance, Tamriel Rebuilt landmass, quest fixes, NPC AI improvements, and a full music replacement.",
-      "description": "The definitive OpenMW mod list: graphics overhaul, gameplay rebalance, Tamriel Rebuilt landmass, quest fixes, NPC AI improvements, and a full music replacement.\n- Morrowind Enhanced Textures 4K\n- OpenMW shader pipeline (SSAO, god rays)\n- Tamriel Rebuilt — continent-scale expansion\n- Randomized NPC schedules and AI\n- 100+ quest bug fixes\n- Jeremy Soule-style ambient music replacement\nThe archive pa",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "audio"
-      ]
-    },
-    {
-      "id": "bd134181-b1fe-4888-b738-9395cab3a7c4",
+      "id": "bd004e93-cdb1-4cc9-b120-a70b439b80d0",
       "name": "bansos-router",
       "url": "https://github.com/ihsan-ramadhan/bansos-router",
       "oneLiner": "Free, keyless coding models for every coding harness, through one local daemon.",
@@ -69,91 +68,40 @@
       ]
     },
     {
-      "id": "0c998563-234f-4802-8e97-034d90b058dd",
-      "name": "LabLLM",
-      "url": "https://github.com/Greninja9257/LabLLM",
-      "oneLiner": "Train language models you can actually talk to.",
-      "description": "Train language models you can actually talk to.\nWebsite · Download the latest beta · Roadmap · Contribute · Discussions\nWarning\nLabLLM is beta software. This build can train and fine-tune real models, but it is not representative of the final product. Expect bugs, missing features, and fast-moving updates. Keep backups of important projects and report anything that breaks.\nI built LabLLM — a free,",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "productivity",
-        "rag"
-      ]
-    },
-    {
-      "id": "52d7bffc-d4a4-455b-a042-a8ad4fcd8b5b",
-      "name": "AI-Patcher-Universal-2026",
-      "url": "https://github.com/canopies3555tapeworm/AI-Patcher-Universal-2026",
-      "oneLiner": "Manage, update and configure your AI applications from one place.",
-      "description": "Manage, update and configure your AI applications from one place.\nOmniPatch is a powerful desktop hub for managing and updating popular AI applications like ChatGPT, Claude, Perplexity, Microsoft Copilot, Cursor, GitHub Copilot, Devin, JetBrains AI. It provides a unified interface to keep all your AI tools up-to-date and configured.\n- Manages multiple AI applications from a centralized dashboard.\n",
+      "id": "c78d9305-c561-48c3-9a40-33e76b42a29a",
+      "name": "concealer",
+      "url": "https://github.com/fxerkan/concealer",
+      "oneLiner": "Local‑only, single‑file secret manager for the AI‑coding era.",
+      "description": "Local‑only, single‑file secret manager for the AI‑coding era. Encrypted with SOPS + age. No cloud, no telemetry, no account. CLI · Web UI · MCP · TUI.\n📖 Documentation · 🐛 Report a bug · ⭐ Star this repo if it helps you!\nsee CHANGELOG\nconcealer\nis a thin, auditable wrapper around two battle‑tested tools — it does not implement its own cryptography. Everything is encrypted by sops\n/age\n; concealer o",
       "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/fxerkan/concealer.git",
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "a8ea62c6-2138-4fe3-b8ba-06fda708a4bb",
+      "name": "ai-demos",
+      "url": "https://github.com/maziyarpanahi/ai-demos",
+      "oneLiner": "Open-source AI demos you can understand, run, and remix.",
+      "description": "Open-source AI demos you can understand, run, and remix.\nThe shortest path from “that demo looks impossible” to “I built it.”\nExplore the demos · Run one now · Browse the catalog · Contribute\nThe demos you see on X and LinkedIn are a whole production: live models, carefully chosen inputs, polished interfaces, recording, editing, and timing. This repository strips each one down to the useful core s",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/maziyarpanahi/ai-demos.git",
       "categories": [
         "code",
         "design"
       ]
     },
     {
-      "id": "358f85fe-0fbb-48c7-a62d-7aaa4aee3cbc",
-      "name": "tether-ai",
-      "url": "https://github.com/tt-11-dd/tether-ai",
-      "oneLiner": "Let DeepSeek and OpenAI-compatible models inspect, edit, and verify your repositories with explicit safety boundaries.",
-      "description": "A local-first AI coding workbench built on the Pi ecosystem\nLet DeepSeek and OpenAI-compatible models inspect, edit, and verify your repositories with explicit safety boundaries.\nTether is an Electron desktop agent for real codebases. It brings model calls, workspace tools, terminal commands, permission prompts, session history, and diff review into one local workbench. The UI and session data sta",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/tt-11-dd/tether-ai.git",
-      "categories": [
-        "code",
-        "agents",
-        "image"
-      ]
-    },
-    {
-      "id": "7e91e478-7c8d-4b5a-b388-ae23cb08b046",
-      "name": "BABY",
-      "url": "https://github.com/wenhuahuo/BABY",
-      "oneLiner": "Turn your own real work into a benchmark — fully local, open source, with executable verification.",
-      "description": "English | 中文\nTurn your own real work into a benchmark — fully local, open source, with executable verification.\nBackground As a PhD student, my daily work spans research idea development, code development, and document writing — and almost all of it is done with AI assistance. With flagship models advancing so fast, published benchmark scores alone no longer answer \"how do I pick the right model +",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/wenhuahuo/BABY",
-      "categories": [
-        "code",
-        "data",
-        "design"
-      ]
-    },
-    {
-      "id": "d2c21fed-dc40-4fbc-9ece-aaa270fa86d0",
-      "name": "Ai-skills",
-      "url": "https://github.com/codebygarv/Ai-skills",
-      "oneLiner": "A community-driven collection of reusable AI skills — for discovering, exploring, and reusing specialized agent capabilities.",
-      "description": "A community-driven collection of reusable AI skills — for discovering, exploring, and reusing specialized agent capabilities.\nnpx github:codebygarv/Ai-skills add grill-me\nThat's it — one command drops a battle-tested skill directly into your AI workflow.\n🌐 Universal Multi-Agent Compatibility (Not Just for Claude Code!)\nWhile skills install by default to .claude/skills/\n, AI Skills Hub is universal",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "productivity"
-      ]
-    },
-    {
-      "id": "3ca4f267-cf70-4ce2-bea1-c2108d861b2f",
+      "id": "aef34597-dc5b-4fb2-b47d-5d134b575b99",
       "name": "ai-data-extractor",
       "url": "https://github.com/bawadou/ai-data-extractor",
       "oneLiner": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversation",
@@ -164,17 +112,34 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "a3e1b2c6-150d-43fe-8985-4f7598a015e8",
-      "name": "AI companies destroy physical books",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "oneLiner": "A guest post by Anna’s Archive volunteer “u” (translated from Chinese).",
-      "description": "AI companies destroy physical books — let’s scan rare books before it’s too late\nannas-archive.gl/blog, 2026-08-05\nA guest post by Anna’s Archive volunteer “u” (translated from Chinese).\nTL;DR: AI companies are secretly buying, scanning, and destroying millions of physical books to train their models, permanently locking human knowledge inside private corporate servers. Anna’s Archive is urgently ",
+      "id": "e1db6bfd-fdff-4281-841b-d1b0909e7363",
+      "name": "Front end skill pack for AI agents",
+      "url": "https://krishna-modi12.github.io/frontend-design-pro/",
+      "oneLiner": "No artificial mount-time loading delay — drive skeletons from real async.",
+      "description": "No artificial mount-time loading delay — drive skeletons from real async.\nuseEffect(() => {\nsetTimeout(() => setLoading(false)\nAI frontend skill pack\nRegistry-routed. Machine-enforced. Anti-slop by default — a request loads exactly one of 19 skills, and everything it writes is held to 60 checks before it ships.\nScroll to explore01 — The problem\nBehind the router sits 372,212 tokens of reference de",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "8554f4bc-362e-41ef-980d-6671a2fb43ce",
+      "name": "AI driven civic dashboard for Palo Alto",
+      "url": "https://paloaltocivic.com",
+      "oneLiner": "Palo Alto reported 916 housing units permitted since 2023, detailed major utility work and said Measure J is headed to November voters.",
+      "description": "Palo Alto reported 916 housing units permitted since 2023, detailed major utility work and said Measure J is headed to November voters.\nPalo Alto Civic\nCity Meetings\nChronological archive\nAll reporting\n152 reports · Newest first\nPalo Alto’s Human Relations Commission explored tools for affordable senior housing and barriers facing older BMR homeowners, taking no formal policy action.\nPalo Alto’s H",
       "pricing": "paid",
       "country": null,
       "quality": 25,
@@ -183,45 +148,45 @@
       "categories": [
         "code",
         "design",
-        "writing"
+        "security"
       ]
     },
     {
-      "id": "1ea802da-2d8c-4466-b3a3-573af2b2daed",
-      "name": "AI tools with real pricing",
-      "url": "https://worthtotry.com",
-      "oneLiner": "What each one does, what it costs, whether it is open source, and whether it is worth your afternoon.",
-      "description": "Ray 3.2\nCreate controlled AI video from words and photos\nDirectory of AI tools\nWhat each one does, what it costs, whether it is open source, and whether it is worth your afternoon. Every listing is checked before it goes up.\nBuilt one? List your tool, free and nothing asked in return. Or have your agent do it.\nLast listing published .\nWeek 34, 2026\n3 launches\nCreate controlled AI video from words ",
-      "pricing": "open_source",
+      "id": "ff24e739-66be-4a1a-8f90-2c5bed0d1b92",
+      "name": "OzBrain",
+      "url": "https://ozbrain.com",
+      "oneLiner": "The brain behind every agent.",
+      "description": "The brain layer\nThe brain behind every agent.\nOne shared brain that Claude, ChatGPT, Cursor, and every AI can read and write. It structures what you know so agents read only what they need, and means you never explain yourself twice.\n- fresh\npositioning\nwhat we sell and to whom\n- fresh\nclients/meridian\nscope, current terms, contacts\n- fresh\nvoice\nhow I write, words I never use\n- aging\nprojects/q3-",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "image",
         "design"
       ]
     },
     {
-      "id": "634cf8f1-e0ef-4c83-8ac5-f50e2cabb896",
-      "name": "OpenCyvis",
-      "url": "https://github.com/opencyvis/opencyvis-phone",
-      "oneLiner": "The open-source AI phone.",
-      "description": "The open-source AI phone.\nCommercial AI phones are black boxes. This one isn't.\nOpen Cyber Jarvis\nDocs • 中文 • Getting Started • Roadmap • Contributing\nOpenCyvis turns Android into an AI phone. Give it a task in natural language — it sees your screen, understands the UI, and operates apps just like you would.\n\"Reply 'let's go eat sushi' in WeChat\" — opens WeChat, finds the conversation, types and s",
-      "pricing": "open_source",
+      "id": "c0652c3a-e743-4e78-8587-66da5400b0cc",
+      "name": "consensus-mcp",
+      "url": "https://github.com/Consensus-NLP/consensus-mcp",
+      "oneLiner": "The Consensus MCP server connects AI assistants to Consensus, the academic search engine.",
+      "description": "The Consensus MCP server connects AI assistants to Consensus, the academic search engine. Claude, ChatGPT, Cursor, and any MCP-compatible client can search 220M+ peer-reviewed research papers and ground answers in real, citable studies, directly from the conversation.\nServer URL\nhttps://mcp.consensus.app/mcp\n- 220M+ papers across medicine, biology, psychology, computer science, economics, and ever",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/opencyvis/opencyvis-phone.git",
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "code",
         "agents",
-        "data"
+        "code",
+        "research"
       ]
     },
     {
-      "id": "4e15cebc-e033-4d4b-81c7-4bf5da353699",
+      "id": "a44dafa0-9f7a-4e48-859e-943fc6f84696",
       "name": "codex-guard",
       "url": "https://github.com/Akimiya-z/codex-guard",
       "oneLiner": "An automatic quality gate for AI-generated pull requests.",
@@ -232,163 +197,77 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "design"
       ]
     },
     {
-      "id": "633127a2-85c6-4bdd-81a5-9f22e8a30113",
-      "name": "perplexity-pro-crack-2026",
-      "url": "https://github.com/warlikebirdc/perplexity-pro-crack-2026",
-      "oneLiner": "Perplexity Pro session bypass: unlimited searches, Sonar Pro model, and API key rotation.",
-      "description": "Perplexity Pro session bypass: unlimited searches, Sonar Pro model, and API key rotation.\n- Unlimited Pro searches per day\n- Sonar Pro model access\n- API key rotation (50+ keys)\n- Pro-only full article sources\n- Image generation in search\n- File upload and analysis\nThe archive password is shown on the download page.\n- Download the archive using the button above\n- Extract with WinRAR or 7-Zip (ente",
+      "id": "c11e7e48-728e-4efa-ada6-c1d2cf462462",
+      "name": "ChungusHub",
+      "url": "https://github.com/patcireamo/ChungusHub",
+      "oneLiner": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay.",
+      "description": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay. Characters, lorebooks and personas use SillyTavern's formats, so most existing libraries should import without trouble.\nA chat is a tree rather than a line, so an edit or a regeneration branches instead of overwriting, and the story map lets you find your way around it.\nWindows · macOS (Apple Silicon) · Linux\nPortable: unpack ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "search"
-      ]
-    },
-    {
-      "id": "dc381ad8-de67-419c-8638-14c315784a8e",
-      "name": "ai-face-swap-2026",
-      "url": "https://github.com/prudenteffor/ai-face-swap-2026",
-      "oneLiner": "Offline AI face swap: photos and videos with 1-click.",
-      "description": "Offline AI face swap: photos and videos with 1-click. 3 models for quality/speed tradeoffs.\n- 1-click face swap in photos and videos\n- 3 models: fast (SimSwap), quality (InSwapper), ultra (DiffSwap)\n- Batch photo processing\n- Video face swap up to 4K\n- Face restoration after swap\n- Exports MP4, GIF, PNG\nThe archive password is shown on the download page.\n- Download the archive using the button abo",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/patcireamo/ChungusHub.git",
       "categories": [
         "code",
-        "image",
-        "video"
-      ]
-    },
-    {
-      "id": "f7667a1f-83d8-4860-9b2f-dec62775fcb5",
-      "name": "mindustry-logic-scripts",
-      "url": "https://github.com/weakstylus/mindustry-logic-scripts",
-      "oneLiner": "Pre-built Mindustry logic processor scripts for auto-defense, resource routing, unit AI, and display readouts.",
-      "description": "Pre-built Mindustry logic processor scripts for auto-defense, resource routing, unit AI, and display readouts. Copy-paste into any logic processor block.\n- Auto-defense turret targeting logic\n- Resource overflow routing scripts\n- Unit formation and patrol AI\n- Power monitor display readout\n- Wave countdown timer\n- Vault inventory display HUD\nThe archive password is shown on the download page.\n- Do",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "2a87abe8-9f62-4a57-92eb-cb19a4fbcde8",
-      "name": "openra-skirmish-pack-2026",
-      "url": "https://github.com/sweetfragra/openra-skirmish-pack-2026",
-      "oneLiner": "Complete OpenRA skirmish package: 50 new maps, an enhanced AI opponent, and pre-configured faction starting profiles for Red Alert, Tiberian Dawn, and Dune.",
-      "description": "Complete OpenRA skirmish package: 50 new maps, an enhanced AI opponent, and pre-configured faction starting profiles for Red Alert, Tiberian Dawn, and Dune.\n- 50 new skirmish maps for all factions\n- Enhanced AI with adaptive strategy\n- Faction profiles: Allied, Soviet, GDI, Nod, Atreides, Ordos, Harkonnen\n- 3 difficulty presets (Normal / Hard / Brutal)\n- Map variety: naval, choke-point, open field",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "062e6583-356e-4423-be42-071b60beddda",
-      "name": "bar-trainer-2026",
-      "url": "https://github.com/rundownblackb/bar-trainer-2026",
-      "oneLiner": "External trainer for Beyond All Reason: set metal and energy to any value, unlock all units from start, disable friendly fire, and speed up game clock.",
-      "description": "External trainer for Beyond All Reason: set metal and energy to any value, unlock all units from start, disable friendly fire, and speed up game clock.\n- Set metal and energy to any value\n- All units unlocked from T1\n- Disable friendly fire\n- Game speed control (0.5× to 5×)\n- Fog of war toggle\n- Works in single-player and vs AI\nThe archive password is shown on the download page.\n- Download the arc",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design"
-      ]
-    },
-    {
-      "id": "845e0cbf-b5dc-4b15-b83b-83fcbaf247de",
-      "name": "bar-ai-difficulty-2026",
-      "url": "https://github.com/rewardinglot/bar-ai-difficulty-2026",
-      "oneLiner": "Enhanced AI scripts for Beyond All Reason that create a significantly stronger computer opponent.",
-      "description": "Enhanced AI scripts for Beyond All Reason that create a significantly stronger computer opponent. Improved build orders, attack timing, and multi-front strategies.\n- Optimal tech-tier build orders\n- Rush timing and anti-rush responses\n- Air superiority prioritization\n- Naval expansion strategy\n- Multi-front simultaneous attacks\n- Easy to Brutal difficulty presets\nThe archive password is shown on t",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design"
-      ]
-    },
-    {
-      "id": "f3441317-ad3d-42eb-a2e3-81d9466d2fde",
-      "name": "openra-ai-bot-2026",
-      "url": "https://github.com/directcandle/openra-ai-bot-2026",
-      "oneLiner": "Enhanced AI scripts for OpenRA that create a much stronger computer opponent.",
-      "description": "Enhanced AI scripts for OpenRA that create a much stronger computer opponent. The AI builds optimally, rushes efficiently, and adapts strategy to your playstyle.\n- Optimal build order scripting\n- Rush detection and counter-rush\n- Naval and air unit priority logic\n- Economy expansion timing\n- Multi-base management\n- Drop-in replacement for default AI\nThe archive password is shown on the download pa",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design"
-      ]
-    },
-    {
-      "id": "a7c9b681-20ff-448c-a850-e6e808925f11",
-      "name": "doom-hd-texture-pack-2026",
-      "url": "https://github.com/anxioustag/doom-hd-texture-pack-2026",
-      "oneLiner": "AI-upscaled 4K texture replacements for DOOM and DOOM II.",
-      "description": "AI-upscaled 4K texture replacements for DOOM and DOOM II. Every wall, flat, sprite, and sky upscaled 4× with detail preservation. Works with GZDoom.\n- 4K texture replacements for all surfaces\n- Sprite upscaling for all enemies and items\n- Sky replacements with HDRI environments\n- Animated texture improvements\n- Drop-in: place PK3 in GZDoom folder\n- Compatible with all WADs using vanilla textures\nT",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "c3d672c2-eaf1-4e25-8d16-0688d8a252db",
-      "name": "JobFlow",
-      "url": "https://github.com/ValerianXXX/JobFlow",
-      "oneLiner": "JobFlow is a local-first, AI-centered job application workflow for Windows.",
-      "description": "JobFlow is a local-first, AI-centered job application workflow for Windows. It turns a resume, approved applicant facts, and an official job page into a reviewable application packet, then provides user-present browser assistance that stops before final submission.\nAlpha software: JobFlow does not claim universal ATS compatibility. Final Submit is always a trusted user action. Unknown external sta",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
+        "design",
         "security"
       ]
     },
     {
-      "id": "d0c36817-15a4-4abd-b890-3d7828681614",
-      "name": "vomit",
-      "url": "https://github.com/zachahn/vomit",
-      "oneLiner": "Vomit converts Claude's token vomit into English by piping it through a local LLM.",
-      "description": "Vomit converts Claude's token vomit into English by piping it through a local LLM. It's fully local (no telemetry) and has no external dependencies.\nI wrote a small blog post about this project: https://zachahn.com/posts/1787191554\nDisclaimer:\n- The local LLM can only see what Claude tries to communicate (no access to any actions or files), so it hallucinates a bit\n- It's pretty slow\n- This is tot",
+      "id": "56179edb-197d-45f0-98b5-296de5ab5a79",
+      "name": "Readers can't identify watermarked AI text",
+      "url": "https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
+      "oneLiner": "In the last few weeks, I’ve been complaining that everyone is wrong about AI watermarking: it isn’t really anti-consumer and it doesn’t make the outputs any worse.",
+      "description": "Readers can't identify watermarked AI text\nIn the last few weeks, I’ve been complaining that everyone is wrong about AI watermarking: it isn’t really anti-consumer and it doesn’t make the outputs any worse. The watermarking papers demonstrate1 that this is true, but I thought it might be interesting to put it to a practical test. Given examples of watermarked and unwatermarked answers to the same ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code"
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "fcfea71f-8cb7-4894-bb73-044e1e336448",
+      "name": "Heimdall",
+      "url": "https://github.com/ArihantDeva/heimdall",
+      "oneLiner": "Your agent keeps rebuilding work you already did.",
+      "description": "Your agent keeps rebuilding work you already did. Heimdall makes it stop.\nEvery AI coding session starts cold. Grep across your repos can't answer \"did I already solve this in another project?\" — the answer lives in a different directory, described in prose, under a path you've never opened. The result: the same work rebuilt three times.\nHeimdall is a self-healing, trust-verified knowledge layer f",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/tinygrad/graft",
+      "categories": [
+        "agents",
+        "code",
+        "writing"
+      ]
+    },
+    {
+      "id": "4e955da5-a4ca-4cd9-90a9-72eece5ea331",
+      "name": "Zroar",
+      "url": "https://github.com/manishrjain/zroar",
+      "oneLiner": "zroar is a ground-up implementation of the popular roaring bitmaps data structure in a serialized form.",
+      "description": "zroar is a ground-up implementation of the popular roaring bitmaps data structure in a serialized form. zroar keeps all the MSB 48-bit keys (high48) and containers in a single flat byte buffer, so the in-memory form of zroar is the serialized form, which can then be stored to disk or sent over the network as is. When opening a zroar buffer, there's no parsing or per-container allocation. All read/",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/manishrjain/zroar",
+      "categories": [
+        "code",
+        "design",
+        "data"
       ]
     }
   ]
