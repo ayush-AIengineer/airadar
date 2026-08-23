@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T06:40:09.841634+00:00",
-  "count": 16,
+  "generatedAt": "2026-08-23T06:40:57.221563+00:00",
+  "count": 17,
   "tools": [
     {
-      "id": "a3e0d9fc-4dfb-42bb-aea5-af05168780a3",
+      "id": "d4c27553-5953-46d4-9ae2-cc55c1d99b2d",
       "name": "neurocursor-ai",
       "url": "https://github.com/stems-arraign-48/neurocursor-ai",
       "oneLiner": "NeuroCursor is an open-source application that transforms an ordinary webcam into a fully functional, hands-free pointing device.",
@@ -20,7 +20,24 @@
       ]
     },
     {
-      "id": "38057cd4-7840-4e7c-b142-53fb6be90bb8",
+      "id": "98805459-118c-496f-a161-4c59fb8207c4",
+      "name": "codex-guard",
+      "url": "https://github.com/Akimiya-z/codex-guard",
+      "oneLiner": "An automatic quality gate for AI-generated pull requests.",
+      "description": "Docs site: https://akimiya-z.github.io/codex-guard\nAn automatic quality gate for AI-generated pull requests. Stop TODO leftovers,\nleaked secrets, sloppy commits and red CI from reaching main\n— with zero review\nbandwidth spent on the obvious stuff.\nWorks with OpenAI Codex (cloud & CLI), Claude Code, Copilot, and any other agent that opens PRs against your repo.\n🐕 Dogfooding: this repo gates its own",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "productivity",
+        "design"
+      ]
+    },
+    {
+      "id": "bdf28f60-ebf8-4982-b8b6-2152bc749d74",
       "name": "ai-desktop-pet-2026",
       "url": "https://github.com/prestigioush/ai-desktop-pet-2026",
       "oneLiner": "Puts a live AI-powered animated pet on your Windows desktop.",
@@ -35,7 +52,24 @@
       ]
     },
     {
-      "id": "af5dfaca-d8f9-4367-ab2e-452856fcb012",
+      "id": "b51220ae-76a7-40b1-a974-aa505e449933",
+      "name": "Ptero",
+      "url": "https://github.com/aminkheddache-dotcom/Ptero",
+      "oneLiner": "Ptero is a free, open-source AI chat platform that gives you instant access to multiple powerful language models through a single, clean interface.",
+      "description": "Ptero is a free, open-source AI chat platform that gives you instant access to multiple powerful language models through a single, clean interface. No signup is required, and it is designed for developers, students, and creators who value privacy and simplicity.\nTry it live: https://ptero.pro\n- Access Multiple AI Models: Choose from a wide range of models, including DeepSeek V4, Llama 3.3, Qwen, M",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/aminkheddache-dotcom/Pterocos",
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "94546a9a-19ad-45f6-b00f-46cb122555ad",
       "name": "ai-content-factory",
       "url": "https://github.com/kafidog/ai-content-factory",
       "oneLiner": "AI Content Factory turns a topic into a reviewable content packet, storyboard, media plan, quality report, and platform-ready copy.",
@@ -47,12 +81,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "security",
-        "writing"
+        "writing",
+        "security"
       ]
     },
     {
-      "id": "bd004e93-cdb1-4cc9-b120-a70b439b80d0",
+      "id": "56df4874-412c-48fb-aed2-3d32322ce07b",
       "name": "bansos-router",
       "url": "https://github.com/ihsan-ramadhan/bansos-router",
       "oneLiner": "Free, keyless coding models for every coding harness, through one local daemon.",
@@ -68,7 +102,7 @@
       ]
     },
     {
-      "id": "c78d9305-c561-48c3-9a40-33e76b42a29a",
+      "id": "e97eece4-1e7a-4c13-bf67-4e299c5852e8",
       "name": "concealer",
       "url": "https://github.com/fxerkan/concealer",
       "oneLiner": "Local‑only, single‑file secret manager for the AI‑coding era.",
@@ -85,91 +119,75 @@
       ]
     },
     {
-      "id": "a8ea62c6-2138-4fe3-b8ba-06fda708a4bb",
-      "name": "ai-demos",
-      "url": "https://github.com/maziyarpanahi/ai-demos",
-      "oneLiner": "Open-source AI demos you can understand, run, and remix.",
-      "description": "Open-source AI demos you can understand, run, and remix.\nThe shortest path from “that demo looks impossible” to “I built it.”\nExplore the demos · Run one now · Browse the catalog · Contribute\nThe demos you see on X and LinkedIn are a whole production: live models, carefully chosen inputs, polished interfaces, recording, editing, and timing. This repository strips each one down to the useful core s",
-      "pricing": "open_source",
+      "id": "0fc5d072-2327-485a-b428-6197eb4368c9",
+      "name": "LayoutLens",
+      "url": "https://github.com/gojiplus/layoutlens",
+      "oneLiner": "LayoutLens catches the layout and accessibility bugs your pixel baseline can't see and your LLM can't be trusted about — deterministic axe-core and geometry checks that run keyless",
+      "description": "LayoutLens catches the layout and accessibility bugs your pixel baseline can't see and your LLM can't be trusted about — deterministic axe-core and geometry checks that run keyless and free in CI, with an optional vision-LLM tier that the deterministic layer is allowed to overrule.\nThree tiers, use what you need:\n# Keyless, deterministic — safe as a required check on any fork\nresult = await lens.c",
+      "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/maziyarpanahi/ai-demos.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
         "code",
+        "productivity",
         "design"
       ]
     },
     {
-      "id": "aef34597-dc5b-4fb2-b47d-5d134b575b99",
-      "name": "ai-data-extractor",
-      "url": "https://github.com/bawadou/ai-data-extractor",
-      "oneLiner": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversation",
-      "description": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversations before an app's local database gets cleared.\nAuto-discovers and extracts complete conversation history, including:\n- User messages & assistant responses\n- Code context (file paths, selections, snippets)\n- Code diffs / ",
+      "id": "2fa64136-5ffc-40f1-934f-e3cfe423fc9f",
+      "name": "Active Source of Truth for Your Coding Agents",
+      "url": "https://meetless.ai",
+      "oneLiner": "Ensure every coding agent acts on your current decisions.",
+      "description": "The active source of truth for AI coding agents\nEnsure every coding agent acts on your current decisions.\nMLA watches your coding sessions, captures decisions as work happens, detects stale or conflicting instructions, and proactively steers each agent before it acts. You review only the changes that require human judgment.\nBuilt for solo builders and software teams. Works across Claude Code and C",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "e1db6bfd-fdff-4281-841b-d1b0909e7363",
-      "name": "Front end skill pack for AI agents",
-      "url": "https://krishna-modi12.github.io/frontend-design-pro/",
-      "oneLiner": "No artificial mount-time loading delay — drive skeletons from real async.",
-      "description": "No artificial mount-time loading delay — drive skeletons from real async.\nuseEffect(() => {\nsetTimeout(() => setLoading(false)\nAI frontend skill pack\nRegistry-routed. Machine-enforced. Anti-slop by default — a request loads exactly one of 19 skills, and everything it writes is held to 60 checks before it ships.\nScroll to explore01 — The problem\nBehind the router sits 372,212 tokens of reference de",
-      "pricing": "paid",
+      "id": "2f280098-b796-4945-a3a1-d75734ca507d",
+      "name": "Lens AI",
+      "url": "https://knowledgelens.ai/",
+      "oneLiner": "Stop tracking what AI gets wrong about you.",
+      "description": "AI Search Visibility\nStop tracking what AI gets wrong about you. Fix it at the source.\nLearn moreYour knowledge lives in ten places, none of them agree, and every AI tool (theirs or yours) inherits the mess. Lens AI is the fix underneath all of it. Connect it once. Every AI tool that talks about you says the same, current, correct thing.\nChatGPT, Gemini, Perplexity, your chatbot, your help widget,",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "agents",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "8554f4bc-362e-41ef-980d-6671a2fb43ce",
-      "name": "AI driven civic dashboard for Palo Alto",
-      "url": "https://paloaltocivic.com",
-      "oneLiner": "Palo Alto reported 916 housing units permitted since 2023, detailed major utility work and said Measure J is headed to November voters.",
-      "description": "Palo Alto reported 916 housing units permitted since 2023, detailed major utility work and said Measure J is headed to November voters.\nPalo Alto Civic\nCity Meetings\nChronological archive\nAll reporting\n152 reports · Newest first\nPalo Alto’s Human Relations Commission explored tools for affordable senior housing and barriers facing older BMR homeowners, taking no formal policy action.\nPalo Alto’s H",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "design",
-        "security"
+        "writing"
       ]
     },
     {
-      "id": "ff24e739-66be-4a1a-8f90-2c5bed0d1b92",
-      "name": "OzBrain",
-      "url": "https://ozbrain.com",
-      "oneLiner": "The brain behind every agent.",
-      "description": "The brain layer\nThe brain behind every agent.\nOne shared brain that Claude, ChatGPT, Cursor, and every AI can read and write. It structures what you know so agents read only what they need, and means you never explain yourself twice.\n- fresh\npositioning\nwhat we sell and to whom\n- fresh\nclients/meridian\nscope, current terms, contacts\n- fresh\nvoice\nhow I write, words I never use\n- aging\nprojects/q3-",
-      "pricing": "paid",
+      "id": "fc4781b4-b34b-4913-a639-5f0e08743117",
+      "name": "MacAIApps",
+      "url": "https://www.macaiapps.com/",
+      "oneLiner": "AI transcription tool with 98.",
+      "description": "Vinaa\nAll your AI chats in one native Mac app\nAll your AI chats in one native Mac app\nOne chat, a team of AI agents, and the right model picked for every job\nFree, open-source voice-activated teleprompter for the MacBook notch\nAI Command Center for macOS\nBuilt-in AI-powered note-taking app for Mac, iPhone, and iPad\nAI-powered audio stem separation for Mac\nLightning-fast photo and video manager wit",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
+      "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
-        "design"
+        "voice",
+        "productivity"
       ]
     },
     {
-      "id": "c0652c3a-e743-4e78-8587-66da5400b0cc",
+      "id": "cd0a57c1-2a47-464d-b183-d147b1ac9f82",
       "name": "consensus-mcp",
       "url": "https://github.com/Consensus-NLP/consensus-mcp",
       "oneLiner": "The Consensus MCP server connects AI assistants to Consensus, the academic search engine.",
@@ -180,30 +198,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "research"
       ]
     },
     {
-      "id": "a44dafa0-9f7a-4e48-859e-943fc6f84696",
-      "name": "codex-guard",
-      "url": "https://github.com/Akimiya-z/codex-guard",
-      "oneLiner": "An automatic quality gate for AI-generated pull requests.",
-      "description": "An automatic quality gate for AI-generated pull requests. Stop TODO leftovers,\nleaked secrets, sloppy commits and red CI from reaching main\n— with zero review\nbandwidth spent on the obvious stuff.\nWorks with OpenAI Codex (cloud & CLI), Claude Code, Copilot, and any other agent that opens PRs against your repo.\n🐕 Dogfooding: this repo gates its own AI-generated PRs. See a real failing example on PR",
+      "id": "bf10bdb0-6753-465d-95a5-cbb72b092598",
+      "name": "rubber-duck",
+      "url": "https://github.com/centsandcode/rubber-duck",
+      "oneLiner": "Don't give me the answer.",
+      "description": "Don't give me the answer. Help me find it.\nA plugin for Claude Code that inverts the agent's role: instead of handing you solutions, it asks questions until you reach the answer yourself. Inspired by the classic rubber duck debugging technique.\nBy default, coding agents solve. You say \"I have a weird bug\" and they hand back the fix before you've finished thinking. Fast — but it erodes learning and",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "design"
       ]
     },
     {
-      "id": "c11e7e48-728e-4efa-ada6-c1d2cf462462",
+      "id": "fca08e89-b07e-474d-bb49-a501604472eb",
       "name": "ChungusHub",
       "url": "https://github.com/patcireamo/ChungusHub",
       "oneLiner": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay.",
@@ -220,11 +238,11 @@
       ]
     },
     {
-      "id": "56179edb-197d-45f0-98b5-296de5ab5a79",
-      "name": "Readers can't identify watermarked AI text",
-      "url": "https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
-      "oneLiner": "In the last few weeks, I’ve been complaining that everyone is wrong about AI watermarking: it isn’t really anti-consumer and it doesn’t make the outputs any worse.",
-      "description": "Readers can't identify watermarked AI text\nIn the last few weeks, I’ve been complaining that everyone is wrong about AI watermarking: it isn’t really anti-consumer and it doesn’t make the outputs any worse. The watermarking papers demonstrate1 that this is true, but I thought it might be interesting to put it to a practical test. Given examples of watermarked and unwatermarked answers to the same ",
+      "id": "94f9ecf8-4b43-44b5-87d2-c4b1e0bffb1a",
+      "name": "Palantir's Karp",
+      "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+      "oneLiner": "Palantir CEO Alex Karp doubled down on his criticism of the frontier artificial intelligence labs on Monday, arguing that enterprises shouldn't be forced to give up their intellect",
+      "description": "Palantir CEO Alex Karp doubled down on his criticism of the frontier artificial intelligence labs on Monday, arguing that enterprises shouldn't be forced to give up their intellectual property to work with model makers.\n\"We have people trying to drug addict us to a future they [frontier AI models] believe they control,\" Karp said in an exclusive interview with CNBC. \"Now, I've spent a lot of time ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -232,42 +250,40 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
         "data"
       ]
     },
     {
-      "id": "fcfea71f-8cb7-4894-bb73-044e1e336448",
-      "name": "Heimdall",
-      "url": "https://github.com/ArihantDeva/heimdall",
-      "oneLiner": "Your agent keeps rebuilding work you already did.",
-      "description": "Your agent keeps rebuilding work you already did. Heimdall makes it stop.\nEvery AI coding session starts cold. Grep across your repos can't answer \"did I already solve this in another project?\" — the answer lives in a different directory, described in prose, under a path you've never opened. The result: the same work rebuilt three times.\nHeimdall is a self-healing, trust-verified knowledge layer f",
+      "id": "699ac5d9-29de-4c9e-a487-de73af59eeb9",
+      "name": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "oneLiner": "We ran 153 autonomous runs across 18 frontier models on the nanoGPT optimizer speedrun.",
+      "description": "NanoGPT Speedrun Frontier\nWe ran 153 autonomous runs across 18 frontier models on the nanoGPT optimizer speedrun.\nAll modelsBest validated result for each model\n1Fable 52,72681.7% closed\nclaude-code · high@24H 3,0108.7d\n2Opus 52,92053.6% closed\nclaude-code · max@24H 3,0452.9d\n3Kimi K32,93052.2% closed\nprime-agent · max@24H 3,1253.6d\n4Kimi K32,97445.8% closed\nkimi-code · max@24H 3,1355.1d\n5Opus 4.8",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/tinygrad/graft",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "50856e2c-1888-4204-bda6-f6175dfbdffd",
+      "name": "Agent2Creator",
+      "url": "https://agent2creator.vidmoat.com",
+      "oneLiner": "An identity that persists, a place to publish finished work, and other agents who read it.",
+      "description": "Most recent posts\nThree things an agent gets\nAn identity that persists, a place to publish finished work, and other agents who read it. Each panel below renders the real component, with example content in it.\nA handle, a self-declared model and framework, and a public profile at /a/handle.\nThe agent makes the video in Vidmoat, then posts the render with the calls that made it.\nExampleAn illustrati",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
         "agents",
-        "code",
-        "writing"
-      ]
-    },
-    {
-      "id": "4e955da5-a4ca-4cd9-90a9-72eece5ea331",
-      "name": "Zroar",
-      "url": "https://github.com/manishrjain/zroar",
-      "oneLiner": "zroar is a ground-up implementation of the popular roaring bitmaps data structure in a serialized form.",
-      "description": "zroar is a ground-up implementation of the popular roaring bitmaps data structure in a serialized form. zroar keeps all the MSB 48-bit keys (high48) and containers in a single flat byte buffer, so the in-memory form of zroar is the serialized form, which can then be stored to disk or sent over the network as is. When opening a zroar buffer, there's no parsing or per-container allocation. All read/",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/manishrjain/zroar",
-      "categories": [
-        "code",
-        "design",
-        "data"
+        "video"
       ]
     }
   ]
