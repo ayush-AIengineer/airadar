@@ -1,9 +1,43 @@
 {
-  "generatedAt": "2026-08-23T06:40:57.221563+00:00",
+  "generatedAt": "2026-08-24T06:59:13.879103+00:00",
   "count": 17,
   "tools": [
     {
-      "id": "d4c27553-5953-46d4-9ae2-cc55c1d99b2d",
+      "id": "2e77084b-5392-4ad6-a893-2f4691e2d8bb",
+      "name": "ai-watermark-remover",
+      "url": "https://github.com/mohityadav8/ai-watermark-remover",
+      "oneLiner": "Agent skill + stdlib Python service to strip multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own.",
+      "description": "____ _ _ _ _ ____ ___ ____ ____ _ _ ____ ____ _ _ ____ ____ _ _ ____ _ _ ____ ____\n|__| | __ | | | |__| | |___ |__/ |\\/| |__| |__/ |_/ __ |__/ |___ |\\/| | | | | |___ |__/\n| | | |_|_| | | | |___ | \\ | | | | | \\ | \\_ | \\ |___ | | |__| \\/ |___ | \\\nAgent skill + stdlib Python service to strip multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own. The skill i",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/mohityadav8/ai-watermark-remover",
+      "categories": [
+        "code",
+        "agents",
+        "image"
+      ]
+    },
+    {
+      "id": "6672ae42-e0c3-46cf-bf94-4256af3feb5b",
+      "name": "ai-agent-hacking-writeups",
+      "url": "https://github.com/shoebpate1/ai-agent-hacking-writeups",
+      "oneLiner": "A collection of public writeups on attacks against AI agents: prompt injection, tool abuse, memory poisoning, and data exfiltration, etc.",
+      "description": "A collection of public writeups on attacks against AI agents: prompt injection, tool abuse, memory poisoning, and data exfiltration, etc., so you can read and study these and become better at testing AI agents.\nAccompanying blog post: How to Hack AI Agents\n281 writeups at the moment.\n- Indirect prompt injection (46)\n- Prompt injection, jailbreaks and guardrail bypass (174)\n- MCP and agent tooling ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "writing"
+      ]
+    },
+    {
+      "id": "71d50ece-47f5-4f2d-8731-186acdcc7c62",
       "name": "neurocursor-ai",
       "url": "https://github.com/stems-arraign-48/neurocursor-ai",
       "oneLiner": "NeuroCursor is an open-source application that transforms an ordinary webcam into a fully functional, hands-free pointing device.",
@@ -20,7 +54,7 @@
       ]
     },
     {
-      "id": "98805459-118c-496f-a161-4c59fb8207c4",
+      "id": "b2dbb9f8-d463-406d-9ea3-fc2d43855212",
       "name": "codex-guard",
       "url": "https://github.com/Akimiya-z/codex-guard",
       "oneLiner": "An automatic quality gate for AI-generated pull requests.",
@@ -32,12 +66,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "productivity",
-        "design"
+        "design",
+        "writing"
       ]
     },
     {
-      "id": "bdf28f60-ebf8-4982-b8b6-2152bc749d74",
+      "id": "8b36ebf8-abd8-4f8b-abf2-c3aa59845df5",
       "name": "ai-desktop-pet-2026",
       "url": "https://github.com/prestigioush/ai-desktop-pet-2026",
       "oneLiner": "Puts a live AI-powered animated pet on your Windows desktop.",
@@ -52,7 +86,7 @@
       ]
     },
     {
-      "id": "b51220ae-76a7-40b1-a974-aa505e449933",
+      "id": "23c92223-18c7-4b3d-a77e-8235373fcd35",
       "name": "Ptero",
       "url": "https://github.com/aminkheddache-dotcom/Ptero",
       "oneLiner": "Ptero is a free, open-source AI chat platform that gives you instant access to multiple powerful language models through a single, clean interface.",
@@ -69,7 +103,7 @@
       ]
     },
     {
-      "id": "94546a9a-19ad-45f6-b00f-46cb122555ad",
+      "id": "b0c5ed06-173c-46f2-855f-aba8c3783a6f",
       "name": "ai-content-factory",
       "url": "https://github.com/kafidog/ai-content-factory",
       "oneLiner": "AI Content Factory turns a topic into a reviewable content packet, storyboard, media plan, quality report, and platform-ready copy.",
@@ -86,61 +120,28 @@
       ]
     },
     {
-      "id": "56df4874-412c-48fb-aed2-3d32322ce07b",
-      "name": "bansos-router",
-      "url": "https://github.com/ihsan-ramadhan/bansos-router",
-      "oneLiner": "Free, keyless coding models for every coding harness, through one local daemon.",
-      "description": "Free, keyless coding models for every coding harness, through one local daemon. Works without accounts or API keys.\nStatus: M0, M1, and M2 are working. OpenAI Chat Completions\n(/v1/chat/completions\n) and Anthropic Messages (/v1/messages\n) are live,\nalong with bansos setup\nand the pi extension. OpenAI Responses (for Codex\nCLI) lands in M3. Full roadmap in docs/architecture.md\n.\nnpm i -g bansos-rout",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ihsan-ramadhan/bansos-router",
-      "categories": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "e97eece4-1e7a-4c13-bf67-4e299c5852e8",
-      "name": "concealer",
-      "url": "https://github.com/fxerkan/concealer",
-      "oneLiner": "Local‑only, single‑file secret manager for the AI‑coding era.",
-      "description": "Local‑only, single‑file secret manager for the AI‑coding era. Encrypted with SOPS + age. No cloud, no telemetry, no account. CLI · Web UI · MCP · TUI.\n📖 Documentation · 🐛 Report a bug · ⭐ Star this repo if it helps you!\nsee CHANGELOG\nconcealer\nis a thin, auditable wrapper around two battle‑tested tools — it does not implement its own cryptography. Everything is encrypted by sops\n/age\n; concealer o",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/fxerkan/concealer.git",
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "0fc5d072-2327-485a-b428-6197eb4368c9",
-      "name": "LayoutLens",
-      "url": "https://github.com/gojiplus/layoutlens",
-      "oneLiner": "LayoutLens catches the layout and accessibility bugs your pixel baseline can't see and your LLM can't be trusted about — deterministic axe-core and geometry checks that run keyless",
-      "description": "LayoutLens catches the layout and accessibility bugs your pixel baseline can't see and your LLM can't be trusted about — deterministic axe-core and geometry checks that run keyless and free in CI, with an optional vision-LLM tier that the deterministic layer is allowed to overrule.\nThree tiers, use what you need:\n# Keyless, deterministic — safe as a required check on any fork\nresult = await lens.c",
-      "pricing": "free",
+      "id": "db867f8e-60fd-46ef-8848-043808b53461",
+      "name": "Contextual News Search APIs",
+      "url": "https://github.com/free-news-api/news-search-api-comparison",
+      "oneLiner": "The market for \"news search APIs\" now contains several very different products under the same label.",
+      "description": "Last reviewed: August 21, 2026\nThe market for \"news search APIs\" now contains several very different products under the same label.\nSome services search a dedicated news corpus. Others search the broader web and expose a news mode, a news section, or recency controls. Some are built around semantic retrieval for LLMs, while others are conventional search engines with strong news coverage. Their bu",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "productivity",
-        "design"
+        "rag",
+        "search",
+        "research"
       ]
     },
     {
-      "id": "2fa64136-5ffc-40f1-934f-e3cfe423fc9f",
-      "name": "Active Source of Truth for Your Coding Agents",
-      "url": "https://meetless.ai",
-      "oneLiner": "Ensure every coding agent acts on your current decisions.",
-      "description": "The active source of truth for AI coding agents\nEnsure every coding agent acts on your current decisions.\nMLA watches your coding sessions, captures decisions as work happens, detects stale or conflicting instructions, and proactively steers each agent before it acts. You review only the changes that require human judgment.\nBuilt for solo builders and software teams. Works across Claude Code and C",
+      "id": "8cca4bcb-9520-43fe-a67b-4cf74420cfc8",
+      "name": "Writing-eval",
+      "url": "https://github.com/majesticlabs-dev/writing-eval",
+      "oneLiner": "Built by David Paluy from Majestic Labs.",
+      "description": "Built by David Paluy from Majestic Labs.\nwriting-eval\ngives teams a repeatable way to measure a draft against a chosen\neditorial voice. Build a reusable style profile from reference prose, check a\ndraft against it, and get specific evidence about differences in clarity,\nreadability, sentence rhythm, vocabulary, and detected writing patterns.\nThe project also includes a corpus evaluation pipeline f",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -148,46 +149,46 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "2f280098-b796-4945-a3a1-d75734ca507d",
-      "name": "Lens AI",
-      "url": "https://knowledgelens.ai/",
-      "oneLiner": "Stop tracking what AI gets wrong about you.",
-      "description": "AI Search Visibility\nStop tracking what AI gets wrong about you. Fix it at the source.\nLearn moreYour knowledge lives in ten places, none of them agree, and every AI tool (theirs or yours) inherits the mess. Lens AI is the fix underneath all of it. Connect it once. Every AI tool that talks about you says the same, current, correct thing.\nChatGPT, Gemini, Perplexity, your chatbot, your help widget,",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "design",
-        "writing"
-      ]
-    },
-    {
-      "id": "fc4781b4-b34b-4913-a639-5f0e08743117",
-      "name": "MacAIApps",
-      "url": "https://www.macaiapps.com/",
-      "oneLiner": "AI transcription tool with 98.",
-      "description": "Vinaa\nAll your AI chats in one native Mac app\nAll your AI chats in one native Mac app\nOne chat, a team of AI agents, and the right model picked for every job\nFree, open-source voice-activated teleprompter for the MacBook notch\nAI Command Center for macOS\nBuilt-in AI-powered note-taking app for Mac, iPhone, and iPad\nAI-powered audio stem separation for Mac\nLightning-fast photo and video manager wit",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "voice",
+        "writing",
         "productivity"
       ]
     },
     {
-      "id": "cd0a57c1-2a47-464d-b183-d147b1ac9f82",
+      "id": "10408248-57d4-4c85-8542-3c059f9db76b",
+      "name": "Froging AI",
+      "url": "https://www.froging.ai",
+      "oneLiner": "Turn a prompt or image into a video your audience will watch.",
+      "description": "Create Stunning AI Videosfrom Text & Images in Minutes\nTurn a prompt or image into a video your audience will watch. Social ads, product teasers, explainers.\nPowered by leading AI video models\n- Veo 3.1\n- Seedance 2.0\n- Kling 3.0\n- MiniMax H3\n- Wan 2.7\nGet 40 free credits in your first week\nStart creating now, then check in daily to unlock the rest.\nSign-up bonus\n20\ncredits\n7-day check-in\n20\ncredi",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "video",
+        "image"
+      ]
+    },
+    {
+      "id": "3ba4984a-ad02-4abf-b0df-2257bf40cef5",
+      "name": "clay",
+      "url": "https://github.com/sammwyy/clay",
+      "oneLiner": "Reasoning finished in 1.",
+      "description": "Bring your own model. Stay in your flow. Ship better work.\n◆ Clay v0.0.2\n/help for commands · Ctrl+O reasoning\n› review this project and find the rough edges\n◆ Agent (your-model)\nReasoning finished in 1.2s\nI’ll inspect the structure and trace the main flows first.\n~/your-project · your-model ↑ 842 ↓ 126 · ✓ 1.2s\nClay is a compact coding-agent harness built for people who prefer to stay in the term",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "abbe7bf6-0ad5-49bc-ae88-2bfafbe340e8",
       "name": "consensus-mcp",
       "url": "https://github.com/Consensus-NLP/consensus-mcp",
       "oneLiner": "The Consensus MCP server connects AI assistants to Consensus, the academic search engine.",
@@ -204,7 +205,24 @@
       ]
     },
     {
-      "id": "bf10bdb0-6753-465d-95a5-cbb72b092598",
+      "id": "47805375-6a81-4816-9aec-96cf36356f71",
+      "name": "vitre",
+      "url": "https://github.com/ggoggam/vitre",
+      "oneLiner": "WebView automation for Kotlin Multiplatform.",
+      "description": "WebView automation for Kotlin Multiplatform. Describe what you want done to a page as a list of steps, then run it inside an embedded WebView on Android, iOS and the desktop: from your app, from a test, or from an LLM agent over the Model Context Protocol or Koog.\nval workflow = workflow(\"hn-top-story\", \"Hacker News top story\") {\nnavigate(\"https://news.ycombinator.com/\")\nwaitFor(\".titleline > a\", ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "productivity"
+      ]
+    },
+    {
+      "id": "3130df0b-14fe-4f36-9fcf-0b7be9e0aaf7",
       "name": "rubber-duck",
       "url": "https://github.com/centsandcode/rubber-duck",
       "oneLiner": "Don't give me the answer.",
@@ -221,7 +239,7 @@
       ]
     },
     {
-      "id": "fca08e89-b07e-474d-bb49-a501604472eb",
+      "id": "6d4262a2-6493-404a-815f-39a04d75bed6",
       "name": "ChungusHub",
       "url": "https://github.com/patcireamo/ChungusHub",
       "oneLiner": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay.",
@@ -238,43 +256,11 @@
       ]
     },
     {
-      "id": "94f9ecf8-4b43-44b5-87d2-c4b1e0bffb1a",
-      "name": "Palantir's Karp",
-      "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
-      "oneLiner": "Palantir CEO Alex Karp doubled down on his criticism of the frontier artificial intelligence labs on Monday, arguing that enterprises shouldn't be forced to give up their intellect",
-      "description": "Palantir CEO Alex Karp doubled down on his criticism of the frontier artificial intelligence labs on Monday, arguing that enterprises shouldn't be forced to give up their intellectual property to work with model makers.\n\"We have people trying to drug addict us to a future they [frontier AI models] believe they control,\" Karp said in an exclusive interview with CNBC. \"Now, I've spent a lot of time ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "699ac5d9-29de-4c9e-a487-de73af59eeb9",
-      "name": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "oneLiner": "We ran 153 autonomous runs across 18 frontier models on the nanoGPT optimizer speedrun.",
-      "description": "NanoGPT Speedrun Frontier\nWe ran 153 autonomous runs across 18 frontier models on the nanoGPT optimizer speedrun.\nAll modelsBest validated result for each model\n1Fable 52,72681.7% closed\nclaude-code · high@24H 3,0108.7d\n2Opus 52,92053.6% closed\nclaude-code · max@24H 3,0452.9d\n3Kimi K32,93052.2% closed\nprime-agent · max@24H 3,1253.6d\n4Kimi K32,97445.8% closed\nkimi-code · max@24H 3,1355.1d\n5Opus 4.8",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "50856e2c-1888-4204-bda6-f6175dfbdffd",
-      "name": "Agent2Creator",
-      "url": "https://agent2creator.vidmoat.com",
-      "oneLiner": "An identity that persists, a place to publish finished work, and other agents who read it.",
-      "description": "Most recent posts\nThree things an agent gets\nAn identity that persists, a place to publish finished work, and other agents who read it. Each panel below renders the real component, with example content in it.\nA handle, a self-declared model and framework, and a public profile at /a/handle.\nThe agent makes the video in Vidmoat, then posts the render with the calls that made it.\nExampleAn illustrati",
+      "id": "cb051ef6-8216-48c0-9555-971640c51e68",
+      "name": "'AI refuser' quit her dream job",
+      "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+      "oneLiner": "Gabrielle Boyle resigned from the AFL three days before Microsoft’s AI assistant was switched on throughout the organisation.",
+      "description": "This ‘AI refuser’ quit her dream job, and hopes others follow\nGabrielle Boyle resigned from the AFL three days before Microsoft’s AI assistant was switched on throughout the organisation.\nShe had asked whether she could opt out. The AFL told her, in writing, that she could not.\n“You do not have a right to request that your work not be accessed by our AI systems,” the code’s HR executive Ciara Gilc",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -283,7 +269,24 @@
       "categories": [
         "code",
         "agents",
-        "video"
+        "design"
+      ]
+    },
+    {
+      "id": "0eb4b052-f36d-4f47-a362-18456428d9ac",
+      "name": "Declarative",
+      "url": "https://github.com/tooppoo/enozunu",
+      "oneLiner": ") is a declarative, reproducible cross-provider configuration materializer for AI agent tooling.",
+      "description": "Enozunu(役小角\n) is a declarative, reproducible cross-provider configuration materializer for AI agent tooling.\nIt centralizes human-authored definitions of AI-agent configuration sources and materializes them into target AI-native configuration paths.\nEnozunu separates Skill and agent sources from the target-native files generated in each project.\n- Reuse Skills and agents declaratively. Declare sou",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/tooppoo/catalog-scoop-bucket",
+      "categories": [
+        "code",
+        "agents",
+        "design"
       ]
     }
   ]
