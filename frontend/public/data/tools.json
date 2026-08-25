@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-24T06:59:13.879103+00:00",
-  "count": 17,
+  "generatedAt": "2026-08-25T06:48:33.656160+00:00",
+  "count": 20,
   "tools": [
     {
-      "id": "2e77084b-5392-4ad6-a893-2f4691e2d8bb",
+      "id": "4b266bd7-fab5-43c8-a2f8-9d71881d9f2c",
       "name": "ai-watermark-remover",
       "url": "https://github.com/mohityadav8/ai-watermark-remover",
-      "oneLiner": "Agent skill + stdlib Python service to strip multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own.",
-      "description": "____ _ _ _ _ ____ ___ ____ ____ _ _ ____ ____ _ _ ____ ____ _ _ ____ _ _ ____ ____\n|__| | __ | | | |__| | |___ |__/ |\\/| |__| |__/ |_/ __ |__/ |___ |\\/| | | | | |___ |__/\n| | | |_|_| | | | |___ | \\ | | | | | \\ | \\_ | \\ |___ | | |__| \\/ |___ | \\\nAgent skill + stdlib Python service to strip multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own. The skill i",
+      "oneLiner": "Agent skill + stdlib Python service that strips multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own.",
+      "description": "____ _ _ _ _ ____ ___ ____ ____ _ _ ____ ____ _ _ ____ ____ _ _ ____ _ _ ____ ____\n|__| | __ | | | |__| | |___ |__/ |\\/| |__| |__/ |_/ __ |__/ |___ |\\/| | | | | |___ |__/\n| | | |_|_| | | | |___ | \\ | | | | | \\ | \\_ | \\ |___ | | |__| \\/ |___ | \\\nAgent skill + stdlib Python service that strips multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own. The skil",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -15,12 +15,12 @@
       "githubUrl": "https://github.com/mohityadav8/ai-watermark-remover",
       "categories": [
         "code",
-        "agents",
-        "image"
+        "image",
+        "security"
       ]
     },
     {
-      "id": "6672ae42-e0c3-46cf-bf94-4256af3feb5b",
+      "id": "5922f74b-d56a-4fb8-a0f8-2201b77acf1d",
       "name": "ai-agent-hacking-writeups",
       "url": "https://github.com/shoebpate1/ai-agent-hacking-writeups",
       "oneLiner": "A collection of public writeups on attacks against AI agents: prompt injection, tool abuse, memory poisoning, and data exfiltration, etc.",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "id": "71d50ece-47f5-4f2d-8731-186acdcc7c62",
+      "id": "ecf4eed5-0981-4ffa-8559-d50c53fc7c9a",
       "name": "neurocursor-ai",
       "url": "https://github.com/stems-arraign-48/neurocursor-ai",
       "oneLiner": "NeuroCursor is an open-source application that transforms an ordinary webcam into a fully functional, hands-free pointing device.",
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "id": "b2dbb9f8-d463-406d-9ea3-fc2d43855212",
+      "id": "f391d0f3-87ba-4768-8dfd-467ea9c348b3",
       "name": "codex-guard",
       "url": "https://github.com/Akimiya-z/codex-guard",
       "oneLiner": "An automatic quality gate for AI-generated pull requests.",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "id": "8b36ebf8-abd8-4f8b-abf2-c3aa59845df5",
+      "id": "3c384168-7c29-48f6-ad9a-5fbf3fc84115",
       "name": "ai-desktop-pet-2026",
       "url": "https://github.com/prestigioush/ai-desktop-pet-2026",
       "oneLiner": "Puts a live AI-powered animated pet on your Windows desktop.",
@@ -86,28 +86,61 @@
       ]
     },
     {
-      "id": "23c92223-18c7-4b3d-a77e-8235373fcd35",
-      "name": "Ptero",
-      "url": "https://github.com/aminkheddache-dotcom/Ptero",
-      "oneLiner": "Ptero is a free, open-source AI chat platform that gives you instant access to multiple powerful language models through a single, clean interface.",
-      "description": "Ptero is a free, open-source AI chat platform that gives you instant access to multiple powerful language models through a single, clean interface. No signup is required, and it is designed for developers, students, and creators who value privacy and simplicity.\nTry it live: https://ptero.pro\n- Access Multiple AI Models: Choose from a wide range of models, including DeepSeek V4, Llama 3.3, Qwen, M",
+      "id": "d65a7b34-50a7-4aed-b3ff-25f9d3015ea7",
+      "name": "Social-Sentinel",
+      "url": "https://github.com/Wecncode/Social-Sentinel",
+      "oneLiner": "An open-source, AI-powered NLP tool designed to detect psychological manipulation, urgency, and zero-day social engineering tactics in emails and text messages.",
+      "description": "An open-source, AI-powered NLP tool designed to detect psychological manipulation, urgency, and zero-day social engineering tactics in emails and text messages.\nAn open-source, interactive web application that uses Natural Language Processing (NLP) to detect phishing attempts and social engineering tactics in emails and messages. Instead of relying on static blocklists, this tool analyzes the sema",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/aminkheddache-dotcom/Pterocos",
+      "githubUrl": "https://github.com/YOUR_USERNAME/ai-phishing-analyzer.git",
       "categories": [
         "code",
-        "design",
-        "security"
+        "design"
       ]
     },
     {
-      "id": "b0c5ed06-173c-46f2-855f-aba8c3783a6f",
-      "name": "ai-content-factory",
-      "url": "https://github.com/kafidog/ai-content-factory",
-      "oneLiner": "AI Content Factory turns a topic into a reviewable content packet, storyboard, media plan, quality report, and platform-ready copy.",
-      "description": "AI Content Factory turns a topic into a reviewable content packet, storyboard, media plan, quality report, and platform-ready copy. Its default demo is fully offline: no API key, account, GPU, private asset, or paid service is required.\nCurrent release: v0.1.0. The offline core is publicly available and usable; live providers and remote publishing remain optional or intentionally absent.\nOne comma",
+      "id": "62f604c7-6aaa-484d-8adc-43a4427ba61a",
+      "name": "What languages are agent skills written in?",
+      "url": "https://plicara.ai/research/agent-skill-languages/",
+      "oneLiner": "In the first quarter of 2026, 13.",
+      "description": "In the first quarter of 2026, 13.0% of newly written agent skills were in a language other than English, and one quarter later it was 16.3%. That is three points in three months across 255,068 skills, with confidence intervals nowhere near touching. For comparison, GitHub-wide non-English documentation took ten years to travel from 3.7% to 13.0%, so whatever is happening here is happening at a dif",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "search"
+      ]
+    },
+    {
+      "id": "33044b0b-1494-4010-b31e-cdd2db6b069d",
+      "name": "Planetary Energy Routing Protocol (PERP)",
+      "url": "https://github.com/WVGlobal/Planetary-Energy-Routing-Protocol",
+      "oneLiner": "An open-source conceptual framework for a federated AI mesh to safely optimize and route decentralized planetary energy networks.",
+      "description": "An open-source conceptual framework for a federated AI mesh to safely optimize and route decentralized planetary energy networks.\nThe Planetary Energy Routing Protocol (PERP) is a grassroots architecture designed to balance global energy supply and demand in real time without requiring a centralized corporate or government monopoly. By treating global climate stabilization as a system-wide optimiz",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "4ed28610-dbe7-4520-8f9d-ee181cb82ebf",
+      "name": "CookWing",
+      "url": "https://play.google.com/store/apps/details?id=com.redwing.vibecooking&hl=en_US",
+      "oneLiner": "Ever followed an AI-generated recipe exactly, only to wonder halfway through why it called for 800 g of cheese for four people?",
+      "description": "Ever followed an AI-generated recipe exactly, only to wonder halfway through why it called for 800 g of cheese for four people?\nCookWing was built to solve that problem.\nAI is great at creating ideas, substitutions, and variations, but it can also make up proportions that simply don’t work. Before Wing builds your recipe, it looks for a real reference recipe from the dish’s culinary tradition and ",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -115,33 +148,16 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "writing",
-        "security"
+        "design",
+        "image"
       ]
     },
     {
-      "id": "db867f8e-60fd-46ef-8848-043808b53461",
-      "name": "Contextual News Search APIs",
-      "url": "https://github.com/free-news-api/news-search-api-comparison",
-      "oneLiner": "The market for \"news search APIs\" now contains several very different products under the same label.",
-      "description": "Last reviewed: August 21, 2026\nThe market for \"news search APIs\" now contains several very different products under the same label.\nSome services search a dedicated news corpus. Others search the broader web and expose a news mode, a news section, or recency controls. Some are built around semantic retrieval for LLMs, while others are conventional search engines with strong news coverage. Their bu",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "rag",
-        "search",
-        "research"
-      ]
-    },
-    {
-      "id": "8cca4bcb-9520-43fe-a67b-4cf74420cfc8",
-      "name": "Writing-eval",
-      "url": "https://github.com/majesticlabs-dev/writing-eval",
-      "oneLiner": "Built by David Paluy from Majestic Labs.",
-      "description": "Built by David Paluy from Majestic Labs.\nwriting-eval\ngives teams a repeatable way to measure a draft against a chosen\neditorial voice. Build a reusable style profile from reference prose, check a\ndraft against it, and get specific evidence about differences in clarity,\nreadability, sentence rhythm, vocabulary, and detected writing patterns.\nThe project also includes a corpus evaluation pipeline f",
+      "id": "0ddb583e-ee9d-4e35-8322-3f00183a0ec8",
+      "name": "Cloudflare OS",
+      "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/",
+      "oneLiner": "Cloudflare recently open-sourced Cloudflare OS on GitHub.",
+      "description": "Cloudflare recently open-sourced Cloudflare OS on GitHub. Cloudflare OS allows enterprise teams to output work artifacts grounded in enterprise knowledge, know-how, and provisioned connectors, automate repetitive workflows with optimized token cost (with AI assistance only where needed), and build personal, shareable, customizable work software that caters to specific, complex use cases within a s",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -149,33 +165,32 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "writing",
+        "design",
         "productivity"
       ]
     },
     {
-      "id": "10408248-57d4-4c85-8542-3c059f9db76b",
-      "name": "Froging AI",
-      "url": "https://www.froging.ai",
-      "oneLiner": "Turn a prompt or image into a video your audience will watch.",
-      "description": "Create Stunning AI Videosfrom Text & Images in Minutes\nTurn a prompt or image into a video your audience will watch. Social ads, product teasers, explainers.\nPowered by leading AI video models\n- Veo 3.1\n- Seedance 2.0\n- Kling 3.0\n- MiniMax H3\n- Wan 2.7\nGet 40 free credits in your first week\nStart creating now, then check in daily to unlock the rest.\nSign-up bonus\n20\ncredits\n7-day check-in\n20\ncredi",
-      "pricing": "paid",
+      "id": "55df97a8-3714-47eb-818b-953583c8c0d4",
+      "name": "PeerPixel",
+      "url": "https://peerpixel.cc/",
+      "oneLiner": "Choose the original or a transient 4× upscale.",
+      "description": "Export image\nChoose the original or a transient 4× upscale.\nThere is no data centre here. Every image is rendered by somebody else who volunteered their graphics card, and one day yours renders for them. That is the whole thing, and it is why it costs nothing.\nContinue with DiscordTwenty pixels when you join, and no card is ever asked for. After that the people here keep each other going: you rend",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "code",
-        "video",
         "image"
       ]
     },
     {
-      "id": "3ba4984a-ad02-4abf-b0df-2257bf40cef5",
+      "id": "2052d78a-8434-476a-adbb-f53b6a8c2049",
       "name": "clay",
       "url": "https://github.com/sammwyy/clay",
-      "oneLiner": "Reasoning finished in 1.",
-      "description": "Bring your own model. Stay in your flow. Ship better work.\n◆ Clay v0.0.2\n/help for commands · Ctrl+O reasoning\n› review this project and find the rough edges\n◆ Agent (your-model)\nReasoning finished in 1.2s\nI’ll inspect the structure and trace the main flows first.\n~/your-project · your-model ↑ 842 ↓ 126 · ✓ 1.2s\nClay is a compact coding-agent harness built for people who prefer to stay in the term",
+      "oneLiner": "You signed in with another tab or window.",
+      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nBring your own model. Stay in your flow. Ship better work.\n◆ Clay v0.0.3\n/help for commands · Ctrl+O reasoning\n› review this project and find the rough edges\n◆ Ag",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -188,7 +203,7 @@
       ]
     },
     {
-      "id": "abbe7bf6-0ad5-49bc-ae88-2bfafbe340e8",
+      "id": "7ee5a4e3-e0f6-4cff-bdc8-c112d7dbdaa3",
       "name": "consensus-mcp",
       "url": "https://github.com/Consensus-NLP/consensus-mcp",
       "oneLiner": "The Consensus MCP server connects AI assistants to Consensus, the academic search engine.",
@@ -205,7 +220,24 @@
       ]
     },
     {
-      "id": "47805375-6a81-4816-9aec-96cf36356f71",
+      "id": "38e20050-0d98-4407-b5c0-01c55e9d813c",
+      "name": "unbox-ai",
+      "url": "https://github.com/tester-army/unbox-ai",
+      "oneLiner": "unbox-ai turns an AI agent trace into something you can read.",
+      "description": "Quickstart | Viewer | For Agents | Skills | Trace Formats\nunbox-ai turns an AI agent trace into something you can read. One command opens a local visualization of the run; the same binary doubles as a bounded, read-only trace explorer for coding agents.\n- Bundle-analyzer-style treemap of input tokens: system prompt, each tool definition, each message.\n- Latency waterfall with TTFT, tokens, and cos",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "debd15b7-aded-42e5-8bf3-644b2094399b",
       "name": "vitre",
       "url": "https://github.com/ggoggam/vitre",
       "oneLiner": "WebView automation for Kotlin Multiplatform.",
@@ -222,7 +254,7 @@
       ]
     },
     {
-      "id": "3130df0b-14fe-4f36-9fcf-0b7be9e0aaf7",
+      "id": "64152600-03e5-4787-bfdb-28191313e3e4",
       "name": "rubber-duck",
       "url": "https://github.com/centsandcode/rubber-duck",
       "oneLiner": "Don't give me the answer.",
@@ -239,7 +271,7 @@
       ]
     },
     {
-      "id": "6d4262a2-6493-404a-815f-39a04d75bed6",
+      "id": "91112685-3fdf-4df9-8a66-7141c08fc500",
       "name": "ChungusHub",
       "url": "https://github.com/patcireamo/ChungusHub",
       "oneLiner": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay.",
@@ -256,11 +288,27 @@
       ]
     },
     {
-      "id": "cb051ef6-8216-48c0-9555-971640c51e68",
-      "name": "'AI refuser' quit her dream job",
-      "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
-      "oneLiner": "Gabrielle Boyle resigned from the AFL three days before Microsoft’s AI assistant was switched on throughout the organisation.",
-      "description": "This ‘AI refuser’ quit her dream job, and hopes others follow\nGabrielle Boyle resigned from the AFL three days before Microsoft’s AI assistant was switched on throughout the organisation.\nShe had asked whether she could opt out. The AFL told her, in writing, that she could not.\n“You do not have a right to request that your work not be accessed by our AI systems,” the code’s HR executive Ciara Gilc",
+      "id": "d3b8ce4b-88be-4b72-ac52-4a4e760225fc",
+      "name": "I made HACKER AI for you vibecoded app",
+      "url": "https://www.netherite.uz",
+      "oneLiner": "Netherite reads your whole repository the way a security engineer would, tells you what is actually exploitable, and hands you the prompt that fixes it.",
+      "description": "Netherite reads your whole repository the way a security engineer would, tells you what is actually exploitable, and hands you the prompt that fixes it.\nTry NetheriteEvery finding carries a file, a line, and the reasoning written out in full. Switch to the fix prompt and paste it into your coding agent — scoped to one file, with the constraints already stated.\nRead a sample reportNetherite reads y",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "marketing"
+      ]
+    },
+    {
+      "id": "8b2f999d-0545-436a-862d-80b9a26b97d1",
+      "name": "When AI Decides What Matters",
+      "url": "https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/",
+      "oneLiner": "Disclosure: These views are my own and do not represent my current or any former employers.",
+      "description": "Disclosure: These views are my own and do not represent my current or any former employers.\nExecutive summary\nEmail, calendar, meeting, and notification assistants are increasingly presented as a way to begin the day with the right information already selected. They summarise long threads, identify action items, rank messages, group notifications, and prepare short accounts of what needs attention",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -269,20 +317,20 @@
       "categories": [
         "code",
         "agents",
-        "design"
+        "productivity"
       ]
     },
     {
-      "id": "0eb4b052-f36d-4f47-a362-18456428d9ac",
-      "name": "Declarative",
-      "url": "https://github.com/tooppoo/enozunu",
-      "oneLiner": ") is a declarative, reproducible cross-provider configuration materializer for AI agent tooling.",
-      "description": "Enozunu(役小角\n) is a declarative, reproducible cross-provider configuration materializer for AI agent tooling.\nIt centralizes human-authored definitions of AI-agent configuration sources and materializes them into target AI-native configuration paths.\nEnozunu separates Skill and agent sources from the target-native files generated in each project.\n- Reuse Skills and agents declaratively. Declare sou",
+      "id": "6b8cde7f-f773-4d61-8ec4-d9c66f8180be",
+      "name": "AiSyncing",
+      "url": "https://github.com/DiegoSalazar/AiSyncing",
+      "oneLiner": "Automatic daily backups of your AI coding assistant memories, configs, and instruction files to a private GitHub repo.",
+      "description": "Automatic daily backups of your AI coding assistant memories, configs, and instruction files to a private GitHub repo.\nSupports Claude Code, OpenAI Codex, Gemini CLI, Cursor, and any custom AI tool you add.\n- Multi-tool: backs up multiple AI harnesses simultaneously (Claude, Codex, Gemini, Cursor, Windsurf, or anything with a local config directory)\n- Auto-setup: interactive\nsetup.sh\ndetects insta",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/tooppoo/catalog-scoop-bucket",
+      "githubUrl": "https://github.com/DiegoSalazar/AiSyncing.git",
       "categories": [
         "code",
         "agents",
