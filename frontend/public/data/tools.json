@@ -1,9 +1,43 @@
 {
-  "generatedAt": "2026-08-25T06:48:33.656160+00:00",
+  "generatedAt": "2026-08-26T06:50:40.043973+00:00",
   "count": 20,
   "tools": [
     {
-      "id": "4b266bd7-fab5-43c8-a2f8-9d71881d9f2c",
+      "id": "05ef1e3e-0a19-4d47-b14b-1701cbdae45d",
+      "name": "AstraLM",
+      "url": "https://github.com/Prasun01/AstraLM",
+      "oneLiner": "AstraLM is an open-source, high-performance AI assistant for Android.",
+      "description": "AstraLM is an open-source, high-performance AI assistant for Android. Built with Flutter and native C++ inference engines, AstraLM is designed around an on-device first, hybrid-capable architecture — giving you the flexibility to run private quantized LLMs directly on your phone's hardware, or connect your own API keys for cloud-based reasoning and image generation.\n- 📱 On-Device Local Inference (",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Prasun01/AstraLM.git",
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "8d204787-c999-436c-8e8c-4358f9bed198",
+      "name": "ai-github-repository-assistant",
+      "url": "https://github.com/Wadan3/ai-github-repository-assistant",
+      "oneLiner": "Understand repositories faster with private, local AI.",
+      "description": "Understand repositories faster with private, local AI.\nRepoLens AI is an open-source Next.js application that connects to GitHub, lets developers explore accessible repositories, and provides evidence-grounded assistance for source code, architecture, pull requests, issues, and commits. Ollama is the default AI provider, so no paid AI service is required and selected repository context can stay on",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Wadan3/ai-github-repository-assistant.git",
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "4dc6a2dc-33e2-4fd0-aabc-ff5c5ee79b27",
       "name": "ai-watermark-remover",
       "url": "https://github.com/mohityadav8/ai-watermark-remover",
       "oneLiner": "Agent skill + stdlib Python service that strips multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own.",
@@ -15,12 +49,29 @@
       "githubUrl": "https://github.com/mohityadav8/ai-watermark-remover",
       "categories": [
         "code",
-        "image",
-        "security"
+        "security",
+        "image"
       ]
     },
     {
-      "id": "5922f74b-d56a-4fb8-a0f8-2201b77acf1d",
+      "id": "48459d21-5c62-46d4-b9e2-e7df1388e58e",
+      "name": "alego",
+      "url": "https://github.com/singula-ai/alego",
+      "oneLiner": ") is an open-source agent harness: the building-block foundation for AI agent applications, where every capability arrives as a plugin you snap in.",
+      "description": "English | 中文\nAlego (alego\n) is an open-source agent harness: the building-block foundation for AI agent applications, where every capability arrives as a plugin you snap in.\nIt uses an architecture where everything is a plugin, and is powered by Cordis, whose design is described in A Programming Paradigm for Spatiotemporal Composability.\nAlego is a fork of DeepSeek Harness, rebranded and developed",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/singula-ai/alego.git",
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "156419d7-c971-4ad1-b9db-1f6fe4c2ef60",
       "name": "ai-agent-hacking-writeups",
       "url": "https://github.com/shoebpate1/ai-agent-hacking-writeups",
       "oneLiner": "A collection of public writeups on attacks against AI agents: prompt injection, tool abuse, memory poisoning, and data exfiltration, etc.",
@@ -32,12 +83,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "writing"
+        "writing",
+        "agents"
       ]
     },
     {
-      "id": "ecf4eed5-0981-4ffa-8559-d50c53fc7c9a",
+      "id": "b0085aea-eab8-4f0d-ac2a-ad5c4b9cb959",
       "name": "neurocursor-ai",
       "url": "https://github.com/stems-arraign-48/neurocursor-ai",
       "oneLiner": "NeuroCursor is an open-source application that transforms an ordinary webcam into a fully functional, hands-free pointing device.",
@@ -54,7 +105,7 @@
       ]
     },
     {
-      "id": "f391d0f3-87ba-4768-8dfd-467ea9c348b3",
+      "id": "30a30bba-fb8e-4fcb-aea6-99b2b0b002c1",
       "name": "codex-guard",
       "url": "https://github.com/Akimiya-z/codex-guard",
       "oneLiner": "An automatic quality gate for AI-generated pull requests.",
@@ -66,27 +117,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "writing"
-      ]
-    },
-    {
-      "id": "3c384168-7c29-48f6-ad9a-5fbf3fc84115",
-      "name": "ai-desktop-pet-2026",
-      "url": "https://github.com/prestigioush/ai-desktop-pet-2026",
-      "oneLiner": "Puts a live AI-powered animated pet on your Windows desktop.",
-      "description": "Puts a live AI-powered animated pet on your Windows desktop. Your pet walks on windows, reacts to your mouse and typing, chases the cursor, and talks back when clicked.\n- Animated pet lives on your desktop (walks on window edges)\n- Reacts to mouse movement and clicks\n- Typing detection — pet reacts when you type\n- Chat with your pet via AI (local LLM)\n- 10 pet types: cat, dog, fox, penguin and mor",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
+        "writing",
         "design"
       ]
     },
     {
-      "id": "d65a7b34-50a7-4aed-b3ff-25f9d3015ea7",
+      "id": "47742cc4-71a8-4ed5-8540-9a6187c742d6",
       "name": "Social-Sentinel",
       "url": "https://github.com/Wecncode/Social-Sentinel",
       "oneLiner": "An open-source, AI-powered NLP tool designed to detect psychological manipulation, urgency, and zero-day social engineering tactics in emails and text messages.",
@@ -102,95 +138,111 @@
       ]
     },
     {
-      "id": "62f604c7-6aaa-484d-8adc-43a4427ba61a",
-      "name": "What languages are agent skills written in?",
-      "url": "https://plicara.ai/research/agent-skill-languages/",
-      "oneLiner": "In the first quarter of 2026, 13.",
-      "description": "In the first quarter of 2026, 13.0% of newly written agent skills were in a language other than English, and one quarter later it was 16.3%. That is three points in three months across 255,068 skills, with confidence intervals nowhere near touching. For comparison, GitHub-wide non-English documentation took ten years to travel from 3.7% to 13.0%, so whatever is happening here is happening at a dif",
+      "id": "c9038de9-4333-48c7-9036-e9eac50032f6",
+      "name": "Scribble/write on your desktop",
+      "url": "https://expressed.effective-flow.com",
+      "oneLiner": "Expressed turns your tablet into a live canvas.",
+      "description": "Sketch, share, and collaborate live\nExpressed turns your tablet into a live canvas. Draw with your hand and watch it appear instantly on the desktop you're screen-sharing — the way great communication actually happens.\nEvery sketch lands where it matters — nothing gets in the way.\nWe stripped away the whiteboard bloat and built the few tools people actually use.\nInstant live ink\nYour pen strokes a",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "b0471eee-2572-43a8-8700-6e8f2d0dc13f",
+      "name": "Hands-on Docker security labs",
+      "url": "https://github.com/opscart/docker-security-practical-guide",
+      "oneLiner": "A hands-on Docker and container security guide built around reproducible labs, attack scenarios, defensive controls, and production-oriented validation.",
+      "description": "A hands-on Docker and container security guide built around reproducible labs, attack scenarios, defensive controls, and production-oriented validation.\nThe repository progresses from foundational Docker hardening to runtime escape analysis, secrets management, software supply-chain trust, AI-assisted remediation, and AI context-poisoning defenses.\n- Security auditing: Docker Bench Security and CI",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/opscart/docker-security-practical-guide.git",
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "680d5841-fdf6-426c-8032-203bab925060",
+      "name": "Hermes Agent",
+      "url": "https://hermes-agent.nousresearch.com",
+      "oneLiner": "Telegram, Discord, Slack, WhatsApp, Signal, Email, CLI — and a growing list of platforms.",
+      "description": "#1 Connect\nLives Everywhere\nTelegram, Discord, Slack, WhatsApp, Signal, Email, CLI — and a growing list of platforms. One agent, one memory, every surface.\nOpen Source • MIT License\nDownload Hermes Desktop App\nInstall via terminal\nNative App\n#1 Connect\nTelegram, Discord, Slack, WhatsApp, Signal, Email, CLI — and a growing list of platforms. One agent, one memory, every surface.\n#2 Remember\nIt lear",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
         "search"
       ]
     },
     {
-      "id": "33044b0b-1494-4010-b31e-cdd2db6b069d",
-      "name": "Planetary Energy Routing Protocol (PERP)",
-      "url": "https://github.com/WVGlobal/Planetary-Energy-Routing-Protocol",
-      "oneLiner": "An open-source conceptual framework for a federated AI mesh to safely optimize and route decentralized planetary energy networks.",
-      "description": "An open-source conceptual framework for a federated AI mesh to safely optimize and route decentralized planetary energy networks.\nThe Planetary Energy Routing Protocol (PERP) is a grassroots architecture designed to balance global energy supply and demand in real time without requiring a centralized corporate or government monopoly. By treating global climate stabilization as a system-wide optimiz",
+      "id": "2d2ea366-0668-4098-a656-224fba606204",
+      "name": "TeXbrain",
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "oneLiner": "A free, open-source LaTeX editor that runs entirely in your browser.",
+      "description": "A free, open-source LaTeX editor that runs entirely in your browser.\nNo accounts. No installs. No servers. Just open a tab and write.\nTry it now → tex.swimmingbrain.dev\nI built this because I was tired of paying for features that should be free. I wrote my thesis last year in LaTeX and spent more time fighting tooling than actually writing. Online solutions lock git sync behind a paywall. Local se",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/swimmingbrain/texbrain.git",
       "categories": [
         "code",
-        "agents",
+        "writing",
         "design"
       ]
     },
     {
-      "id": "4ed28610-dbe7-4520-8f9d-ee181cb82ebf",
-      "name": "CookWing",
-      "url": "https://play.google.com/store/apps/details?id=com.redwing.vibecooking&hl=en_US",
-      "oneLiner": "Ever followed an AI-generated recipe exactly, only to wonder halfway through why it called for 800 g of cheese for four people?",
-      "description": "Ever followed an AI-generated recipe exactly, only to wonder halfway through why it called for 800 g of cheese for four people?\nCookWing was built to solve that problem.\nAI is great at creating ideas, substitutions, and variations, but it can also make up proportions that simply don’t work. Before Wing builds your recipe, it looks for a real reference recipe from the dish’s culinary tradition and ",
-      "pricing": "free",
+      "id": "a52c650f-335a-4110-b4a3-0356774b4ae6",
+      "name": "harness-subagent",
+      "url": "https://github.com/ptmrio/harness-subagent",
+      "oneLiner": "Orchestration for coding agents — stay in the parent, outsource to other harnesses, then synthesize.",
+      "description": "Orchestration for coding agents — stay in the parent, outsource to other harnesses, then synthesize.\nEver wanted to call Codex from Claude Code?\nEver wanted Grok Build to invoke Claude Code?\nEver wanted Claude Code to send a diff to GPT for a second opinion?\nEver ran out of Grok Bot usage after heavy tasks?\nThat's this skill. You have an orchestrator — Grok Bot, Cursor Agent / cursor-agent, Claude",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "image"
-      ]
-    },
-    {
-      "id": "0ddb583e-ee9d-4e35-8322-3f00183a0ec8",
-      "name": "Cloudflare OS",
-      "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/",
-      "oneLiner": "Cloudflare recently open-sourced Cloudflare OS on GitHub.",
-      "description": "Cloudflare recently open-sourced Cloudflare OS on GitHub. Cloudflare OS allows enterprise teams to output work artifacts grounded in enterprise knowledge, know-how, and provisioned connectors, automate repetitive workflows with optimized token cost (with AI assistance only where needed), and build personal, shareable, customizable work software that caters to specific, complex use cases within a s",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
+      "quality": 10,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/ptmrio/harness-subagent.git",
       "categories": [
         "code",
         "design",
-        "productivity"
+        "agents"
       ]
     },
     {
-      "id": "55df97a8-3714-47eb-818b-953583c8c0d4",
-      "name": "PeerPixel",
-      "url": "https://peerpixel.cc/",
-      "oneLiner": "Choose the original or a transient 4× upscale.",
-      "description": "Export image\nChoose the original or a transient 4× upscale.\nThere is no data centre here. Every image is rendered by somebody else who volunteered their graphics card, and one day yours renders for them. That is the whole thing, and it is why it costs nothing.\nContinue with DiscordTwenty pixels when you join, and no card is ever asked for. After that the people here keep each other going: you rend",
-      "pricing": "free",
+      "id": "3d002203-abbe-4698-8226-3293750ba894",
+      "name": "keymap-ai",
+      "url": "https://github.com/johncattrall/keymap-ai",
+      "oneLiner": "An Agent Skill that turns your coding agent into a custom-keyboard firmware expert.",
+      "description": "An Agent Skill that turns your coding agent into a custom-keyboard firmware expert. Audit your ZMK or QMK config, tune home row mods that never misfire, make trackballs and trackpads layer-aware, wire your window manager to ball flicks, localize for your language and OS, generate per-layer keymap diagrams with CI, and debug the failures the docs don't cover.\nWorks with Claude Code, Codex CLI, Curs",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/johncattrall/keymap-ai",
       "categories": [
         "code",
-        "image"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "2052d78a-8434-476a-adbb-f53b6a8c2049",
+      "id": "6550b90a-eb97-4cd6-ae6f-40cf30701627",
       "name": "clay",
       "url": "https://github.com/sammwyy/clay",
       "oneLiner": "You signed in with another tab or window.",
-      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nBring your own model. Stay in your flow. Ship better work.\n◆ Clay v0.0.3\n/help for commands · Ctrl+O reasoning\n› review this project and find the rough edges\n◆ Ag",
+      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nBring your own model. Stay in your flow. Ship better work.\n◆ Clay v0.0.4\n/help for commands · Ctrl+O reasoning\n› review this project and find the rough edges\n◆ Ag",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -198,12 +250,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "7ee5a4e3-e0f6-4cff-bdc8-c112d7dbdaa3",
+      "id": "1e75e988-ffa7-49ad-8c44-b9111ca989ba",
       "name": "consensus-mcp",
       "url": "https://github.com/Consensus-NLP/consensus-mcp",
       "oneLiner": "The Consensus MCP server connects AI assistants to Consensus, the academic search engine.",
@@ -220,11 +272,11 @@
       ]
     },
     {
-      "id": "38e20050-0d98-4407-b5c0-01c55e9d813c",
+      "id": "50dda0a0-e1d9-4576-85bb-0c3a5805e82f",
       "name": "unbox-ai",
       "url": "https://github.com/tester-army/unbox-ai",
       "oneLiner": "unbox-ai turns an AI agent trace into something you can read.",
-      "description": "Quickstart | Viewer | For Agents | Skills | Trace Formats\nunbox-ai turns an AI agent trace into something you can read. One command opens a local visualization of the run; the same binary doubles as a bounded, read-only trace explorer for coding agents.\n- Bundle-analyzer-style treemap of input tokens: system prompt, each tool definition, each message.\n- Latency waterfall with TTFT, tokens, and cos",
+      "description": "Quickstart | AI SDK DevTools | Viewer | For Agents | Skills | Trace Formats\nunbox-ai turns an AI agent trace into something you can read. One command opens a local visualization of the run; the same binary doubles as a bounded, read-only trace explorer for coding agents.\n- Bundle-analyzer-style treemap of input tokens: system prompt, each tool definition, each message.\n- Latency waterfall with TTF",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -233,11 +285,11 @@
       "categories": [
         "code",
         "agents",
-        "design"
+        "data"
       ]
     },
     {
-      "id": "debd15b7-aded-42e5-8bf3-644b2094399b",
+      "id": "2a64d69c-98f9-4eb4-9050-1bc4554cad40",
       "name": "vitre",
       "url": "https://github.com/ggoggam/vitre",
       "oneLiner": "WebView automation for Kotlin Multiplatform.",
@@ -254,7 +306,7 @@
       ]
     },
     {
-      "id": "64152600-03e5-4787-bfdb-28191313e3e4",
+      "id": "83d92ebb-014c-4b2d-be08-b3c91bfed9b3",
       "name": "rubber-duck",
       "url": "https://github.com/centsandcode/rubber-duck",
       "oneLiner": "Don't give me the answer.",
@@ -266,33 +318,16 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "91112685-3fdf-4df9-8a66-7141c08fc500",
-      "name": "ChungusHub",
-      "url": "https://github.com/patcireamo/ChungusHub",
-      "oneLiner": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay.",
-      "description": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay. Characters, lorebooks and personas use SillyTavern's formats, so most existing libraries should import without trouble.\nA chat is a tree rather than a line, so an edit or a regeneration branches instead of overwriting, and the story map lets you find your way around it.\nWindows · macOS (Apple Silicon) · Linux\nPortable: unpack ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/patcireamo/ChungusHub.git",
-      "categories": [
-        "code",
         "design",
-        "security"
+        "agents"
       ]
     },
     {
-      "id": "d3b8ce4b-88be-4b72-ac52-4a4e760225fc",
-      "name": "I made HACKER AI for you vibecoded app",
-      "url": "https://www.netherite.uz",
-      "oneLiner": "Netherite reads your whole repository the way a security engineer would, tells you what is actually exploitable, and hands you the prompt that fixes it.",
-      "description": "Netherite reads your whole repository the way a security engineer would, tells you what is actually exploitable, and hands you the prompt that fixes it.\nTry NetheriteEvery finding carries a file, a line, and the reasoning written out in full. Switch to the fix prompt and paste it into your coding agent — scoped to one file, with the constraints already stated.\nRead a sample reportNetherite reads y",
+      "id": "016fc12c-3cfe-496b-8f13-3d1e9a821809",
+      "name": "Ripping Off the Hey.com Band-Aid",
+      "url": "https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid",
+      "oneLiner": "When I was a teenager, years before I had dedicated myself to studying computer science, I wanted to learn how to make websites.",
+      "description": "When I was a teenager, years before I had dedicated myself to studying computer science, I wanted to learn how to make websites. Out of the many competing options, I found Ruby on Rails to be incredibly enticing. The purported speed with which high-quality websites could be developed was a big draw. It rested firmly on the shoulders of convention over configuration. I inspected the conventions and",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -300,40 +335,6 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "marketing"
-      ]
-    },
-    {
-      "id": "8b2f999d-0545-436a-862d-80b9a26b97d1",
-      "name": "When AI Decides What Matters",
-      "url": "https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/",
-      "oneLiner": "Disclosure: These views are my own and do not represent my current or any former employers.",
-      "description": "Disclosure: These views are my own and do not represent my current or any former employers.\nExecutive summary\nEmail, calendar, meeting, and notification assistants are increasingly presented as a way to begin the day with the right information already selected. They summarise long threads, identify action items, rank messages, group notifications, and prepare short accounts of what needs attention",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "productivity"
-      ]
-    },
-    {
-      "id": "6b8cde7f-f773-4d61-8ec4-d9c66f8180be",
-      "name": "AiSyncing",
-      "url": "https://github.com/DiegoSalazar/AiSyncing",
-      "oneLiner": "Automatic daily backups of your AI coding assistant memories, configs, and instruction files to a private GitHub repo.",
-      "description": "Automatic daily backups of your AI coding assistant memories, configs, and instruction files to a private GitHub repo.\nSupports Claude Code, OpenAI Codex, Gemini CLI, Cursor, and any custom AI tool you add.\n- Multi-tool: backs up multiple AI harnesses simultaneously (Claude, Codex, Gemini, Cursor, Windsurf, or anything with a local config directory)\n- Auto-setup: interactive\nsetup.sh\ndetects insta",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/DiegoSalazar/AiSyncing.git",
-      "categories": [
-        "code",
-        "agents",
         "design"
       ]
     }
