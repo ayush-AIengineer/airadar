@@ -1,9 +1,60 @@
 {
-  "generatedAt": "2026-08-26T06:50:40.043973+00:00",
-  "count": 20,
+  "generatedAt": "2026-08-27T17:24:03.296143+00:00",
+  "count": 30,
   "tools": [
     {
-      "id": "05ef1e3e-0a19-4d47-b14b-1701cbdae45d",
+      "id": "767319c2-26c9-48af-85b8-8a336d250a3e",
+      "name": "tokentab",
+      "url": "https://github.com/damejan80/tokentab",
+      "oneLiner": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, an",
+      "description": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, and by the kind of work each session was doing. It runs entirely locally: no account, no API key, nothing leaves your machine.\nClone the repo and install it into your environment:\ngit clone https://github.com/damejan80/tok",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/damejan80/tokentab",
+      "categories": [
+        "design",
+        "data",
+        "code"
+      ]
+    },
+    {
+      "id": "a99043d4-14af-466f-bcc7-d87f0ea345e9",
+      "name": "Arlo-AI-Desktop",
+      "url": "https://github.com/Autobricks-AI/Arlo-AI-Desktop",
+      "oneLiner": "Customer service and sales, answered from what your company already knows, on your own machine.",
+      "description": "Customer service and sales, answered from what your company already knows, on your own machine.\nPoint Arlo at your documents and your website. It answers customers on whatever channel they turned up on, cites the passage each answer came from, and hands the conversation to a person the moment it should. Everything it reads and everything it says is stored in a Postgres container on your hardware: ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "code",
+        "rag"
+      ]
+    },
+    {
+      "id": "f833e658-8e20-4f5d-aaaa-a5e7b446d8b3",
+      "name": "world-model-simulators",
+      "url": "https://github.com/AtongWang/world-model-simulators",
+      "oneLiner": "Awesome-World-Model-Simulators A curated list of resources on generative world models as simulators, based on the comprehensive survey \"From Generation to Simulation: How Far Are W",
+      "description": "Awesome-World-Model-Simulators A curated list of resources on generative world models as simulators, based on the comprehensive survey \"From Generation to Simulation: How Far Are World Models from Being True Simulators?\" The corpus contains 200 papers published between 2018 and 2026 and is organized using eight capabilities of traditional simulators. News🔥 [2026/08/24] Initial release of the Aweso",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "image"
+      ]
+    },
+    {
+      "id": "ad7b3e5a-4c49-4d66-9427-96fdec9f28c4",
       "name": "AstraLM",
       "url": "https://github.com/Prasun01/AstraLM",
       "oneLiner": "AstraLM is an open-source, high-performance AI assistant for Android.",
@@ -14,13 +65,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/Prasun01/AstraLM.git",
       "categories": [
-        "code",
         "design",
-        "data"
+        "data",
+        "code"
       ]
     },
     {
-      "id": "8d204787-c999-436c-8e8c-4358f9bed198",
+      "id": "e46d65de-a453-4501-8301-9b5144d7b1ad",
       "name": "ai-github-repository-assistant",
       "url": "https://github.com/Wadan3/ai-github-repository-assistant",
       "oneLiner": "Understand repositories faster with private, local AI.",
@@ -31,13 +82,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/Wadan3/ai-github-repository-assistant.git",
       "categories": [
-        "code",
         "agents",
-        "data"
+        "data",
+        "code"
       ]
     },
     {
-      "id": "4dc6a2dc-33e2-4fd0-aabc-ff5c5ee79b27",
+      "id": "4fe3a6ca-1341-4170-9dfa-e68c6e9a017f",
       "name": "ai-watermark-remover",
       "url": "https://github.com/mohityadav8/ai-watermark-remover",
       "oneLiner": "Agent skill + stdlib Python service that strips multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own.",
@@ -54,7 +105,7 @@
       ]
     },
     {
-      "id": "48459d21-5c62-46d4-b9e2-e7df1388e58e",
+      "id": "244e0714-8697-4641-8cdc-b72b9167c7be",
       "name": "alego",
       "url": "https://github.com/singula-ai/alego",
       "oneLiner": ") is an open-source agent harness: the building-block foundation for AI agent applications, where every capability arrives as a plugin you snap in.",
@@ -65,13 +116,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/singula-ai/alego.git",
       "categories": [
-        "code",
+        "agents",
         "design",
-        "agents"
+        "code"
       ]
     },
     {
-      "id": "156419d7-c971-4ad1-b9db-1f6fe4c2ef60",
+      "id": "46fe498e-f2eb-4057-a0f9-49db9c44f955",
+      "name": "autonomous-workshop",
+      "url": "https://github.com/autonomous-ai/autonomous-workshop",
+      "oneLiner": "You wish for a toy that doesn't exist.",
+      "description": "You wish for a toy that doesn't exist. A few days later, it arrives at your door.\nNot from a shelf. From your imagination.\nWelcome to Autonomous Workshop, where human and AI Inventors make toys the world has never seen.\nWorkshop's executable workflow ends at a public Release: exact ready-to-print\nCAD plus the in-box MANUAL.pdf\n. From there, Operations prints, packs,\ndelivers, and learns from custo",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/autonomous-ai/autonomous-workshop.git",
+      "categories": [
+        "agents",
+        "design",
+        "code"
+      ]
+    },
+    {
+      "id": "57a36330-d314-4c17-82e9-e94bd036556b",
       "name": "ai-agent-hacking-writeups",
       "url": "https://github.com/shoebpate1/ai-agent-hacking-writeups",
       "oneLiner": "A collection of public writeups on attacks against AI agents: prompt injection, tool abuse, memory poisoning, and data exfiltration, etc.",
@@ -82,47 +150,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "writing",
-        "agents"
+        "writing"
       ]
     },
     {
-      "id": "b0085aea-eab8-4f0d-ac2a-ad5c4b9cb959",
-      "name": "neurocursor-ai",
-      "url": "https://github.com/stems-arraign-48/neurocursor-ai",
-      "oneLiner": "NeuroCursor is an open-source application that transforms an ordinary webcam into a fully functional, hands-free pointing device.",
-      "description": "NeuroCursor is an open-source application that transforms an ordinary webcam into a fully functional, hands-free pointing device. Using real-time computer vision and a lightweight on-device AI model, NeuroCursor tracks the position and orientation of your head, eyes, and facial landmarks, translating these subtle movements into precise, smooth cursor motion on your screen — no additional hardware,",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "30a30bba-fb8e-4fcb-aea6-99b2b0b002c1",
-      "name": "codex-guard",
-      "url": "https://github.com/Akimiya-z/codex-guard",
-      "oneLiner": "An automatic quality gate for AI-generated pull requests.",
-      "description": "Docs site: https://akimiya-z.github.io/codex-guard\nAn automatic quality gate for AI-generated pull requests. Stop TODO leftovers,\nleaked secrets, sloppy commits and red CI from reaching main\n— with zero review\nbandwidth spent on the obvious stuff.\nWorks with OpenAI Codex (cloud & CLI), Claude Code, Copilot, and any other agent that opens PRs against your repo.\n🐕 Dogfooding: this repo gates its own",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "writing",
-        "design"
-      ]
-    },
-    {
-      "id": "47742cc4-71a8-4ed5-8540-9a6187c742d6",
+      "id": "e372e266-2a03-4b11-8820-5314058a8e43",
       "name": "Social-Sentinel",
       "url": "https://github.com/Wecncode/Social-Sentinel",
       "oneLiner": "An open-source, AI-powered NLP tool designed to detect psychological manipulation, urgency, and zero-day social engineering tactics in emails and text messages.",
@@ -133,49 +167,84 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/YOUR_USERNAME/ai-phishing-analyzer.git",
       "categories": [
-        "code",
-        "design"
+        "design",
+        "code"
       ]
     },
     {
-      "id": "c9038de9-4333-48c7-9036-e9eac50032f6",
-      "name": "Scribble/write on your desktop",
-      "url": "https://expressed.effective-flow.com",
-      "oneLiner": "Expressed turns your tablet into a live canvas.",
-      "description": "Sketch, share, and collaborate live\nExpressed turns your tablet into a live canvas. Draw with your hand and watch it appear instantly on the desktop you're screen-sharing — the way great communication actually happens.\nEvery sketch lands where it matters — nothing gets in the way.\nWe stripped away the whiteboard bloat and built the few tools people actually use.\nInstant live ink\nYour pen strokes a",
+      "id": "50d2ffef-398d-48f2-8c98-3125dde333f1",
+      "name": "IntentRoute-AI",
+      "url": "https://github.com/Lucas-Xi/IntentRoute-AI",
+      "oneLiner": "IntentRoute AI is an open-source Windows control plane that turns plain-language network intent into locally validated routing-rule drafts.",
+      "description": "IntentRoute AI is an open-source Windows control plane that turns plain-language network intent into locally validated routing-rule drafts. It can use the OpenAI Responses API or an already-running local Ollama model, then hands accepted rules to the same deterministic sing-box TUN configuration pipeline used by the manual editor.\nProject status: v0.5.0 preview. IntentRoute AI is useful for testin",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "5c4cd7e8-1402-4c63-a10c-bbfedff01d8c",
+      "name": "unbagrnd",
+      "url": "https://github.com/zidniryi/unbagrnd",
+      "oneLiner": "A small desktop app that uses AI to remove the background from images — entirely on your device.",
+      "description": "A small desktop app that uses AI to remove the background from images — entirely on your device. No cloud API, no account, no telemetry, and no internet access required after a one-time setup step.\n- On-device AI. Background removal runs through a real neural network (ONNX Runtime), inferred locally on your machine. No image, filename, or metadata is ever sent anywhere.\n- 100% free & open source. ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "code",
+        "image"
+      ]
+    },
+    {
+      "id": "039e985d-70c4-4b95-a948-01990d30d1d1",
+      "name": "The Teaser Period",
+      "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
+      "oneLiner": "Nothing looked wrong in the summer of 2006.",
+      "description": "Nothing looked wrong in the summer of 2006. Home prices had risen for the better part of a decade. Delinquencies were near historic lows. Credit spreads were tight, the ratings held, and the securitization machine hummed. If you had asked a hundred people on a trading desk whether the American mortgage market was months from seizing, most would have laughed.\nMillions of subprime borrowers were, at",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "research"
+      ]
+    },
+    {
+      "id": "7310d418-da61-445a-a499-be785ee28fb8",
+      "name": "Six months of writing code exclusively with agents",
+      "url": "https://blog.exe.dev/engineering-with-ai",
+      "oneLiner": "In February of this year, I made a rule for myself: I wasn’t going to write code by hand anymore.",
+      "description": "In February of this year, I made a rule for myself: I wasn’t going to write code by hand anymore. I’ve been living by that rule for six months.\nThe system lived in my head\nBack in 2024, before AI, my superpower was knowing how the entire system worked, especially the interfaces between its different components.\nIf someone came to me with a feature they wanted to build or a bug they were trying to ",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "design"
+        "writing"
       ]
     },
     {
-      "id": "b0471eee-2572-43a8-8700-6e8f2d0dc13f",
-      "name": "Hands-on Docker security labs",
-      "url": "https://github.com/opscart/docker-security-practical-guide",
-      "oneLiner": "A hands-on Docker and container security guide built around reproducible labs, attack scenarios, defensive controls, and production-oriented validation.",
-      "description": "A hands-on Docker and container security guide built around reproducible labs, attack scenarios, defensive controls, and production-oriented validation.\nThe repository progresses from foundational Docker hardening to runtime escape analysis, secrets management, software supply-chain trust, AI-assisted remediation, and AI context-poisoning defenses.\n- Security auditing: Docker Bench Security and CI",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/opscart/docker-security-practical-guide.git",
-      "categories": [
-        "code",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "680d5841-fdf6-426c-8032-203bab925060",
-      "name": "Hermes Agent",
-      "url": "https://hermes-agent.nousresearch.com",
-      "oneLiner": "Telegram, Discord, Slack, WhatsApp, Signal, Email, CLI — and a growing list of platforms.",
-      "description": "#1 Connect\nLives Everywhere\nTelegram, Discord, Slack, WhatsApp, Signal, Email, CLI — and a growing list of platforms. One agent, one memory, every surface.\nOpen Source • MIT License\nDownload Hermes Desktop App\nInstall via terminal\nNative App\n#1 Connect\nTelegram, Discord, Slack, WhatsApp, Signal, Email, CLI — and a growing list of platforms. One agent, one memory, every surface.\n#2 Remember\nIt lear",
+      "id": "52c36d7d-bfc0-481a-abd2-a48db062f2f0",
+      "name": "AC2 Protocol",
+      "url": "https://www.ac2protocol.org",
+      "oneLiner": "Solving the AI trust problem with hardware-bound authentication and peer-to-peer communication.",
+      "description": "Solving the AI trust problem with hardware-bound authentication and peer-to-peer communication.\n© 2026 AC2 Protocol. All rights reserved. An open-source project by the Algorand Foundation.\nTerms of Service\nDisclaimer: AC2 is a self-custodial Algorand wallet. You — and only you — hold your seed phrase, your keys, and your crypto-assets on your own device. Pera Wallet, Lda does not hold, custody, or",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -183,28 +252,113 @@
       "githubUrl": null,
       "categories": [
         "agents",
-        "search"
+        "security"
       ]
     },
     {
-      "id": "2d2ea366-0668-4098-a656-224fba606204",
-      "name": "TeXbrain",
-      "url": "https://github.com/swimmingbrain/texbrain",
-      "oneLiner": "A free, open-source LaTeX editor that runs entirely in your browser.",
-      "description": "A free, open-source LaTeX editor that runs entirely in your browser.\nNo accounts. No installs. No servers. Just open a tab and write.\nTry it now → tex.swimmingbrain.dev\nI built this because I was tired of paying for features that should be free. I wrote my thesis last year in LaTeX and spent more time fighting tooling than actually writing. Online solutions lock git sync behind a paywall. Local se",
+      "id": "cb555eda-6abd-445e-9bdc-65da867f9fb0",
+      "name": "KinoPipe",
+      "url": "https://kinopipe.com/",
+      "oneLiner": "FFmpeg as a service, built for agents.",
+      "description": "FFmpeg as a service, built for agents.\nTyped operations your agent calls over MCP or REST. Trim, resize, compress, convert. A validated request in, a finished file out. No shell, ever.\nRESIZE · 9:16\n“Make this a vertical Reel”\nresize_video · done in 8s ✓\nCAPTIONS · SRT\n“Burn in the subtitles”\nadd_subtitles · done in 11s ✓\nCOMPRESS · WEB\n“Shrink this 4K export”\ncompress_video · 412→38 MB ✓\n8.2s\np50",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "d75dc865-4d56-4077-9066-e39d631ed6f9",
+      "name": "Atlas",
+      "url": "https://www.atlasjoins.ai/",
+      "oneLiner": "Know what’s going on with your company, at any moment.",
+      "description": "Know what’s going on with your company, at any moment.\nThe questions that normally cost you a morning are already answered. Ask it out loud in a meeting, read it over coffee, or let Atlas tell you first.\nSeven days of full access, free. $99 a month per company after that.\nFour card charges no one can account for.\nNobody flagged them. Finding this by hand is a morning spent across the bank, the inb",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "design",
+        "code"
+      ]
+    },
+    {
+      "id": "e6c25351-c083-4bf6-8f5f-e238eb87f6ae",
+      "name": "Revenue Agents that monitor churn",
+      "url": "https://www.rimplo.com/",
+      "oneLiner": "Rimplo AI agents connect your CRM, billing, support, and product data then flags accounts at risk, hidden expansion, and stalled deals.",
+      "description": "Revenue Intelligence for GTM Teams\nRimplo AI agents connect your CRM, billing, support, and product data then flags accounts at risk, hidden expansion, and stalled deals.\nThe Problem\nThe warning signs existed weeks before the cancellation. They just lived in four different tools.\nGTM Revenue Agent\nThe answer to most revenue questions lives in four tools and three people's heads. Rimplo's assistant",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "d075cc69-70ac-4422-852d-1a67a181ebb1",
+      "name": "Turn ad-hoc subagents into durable",
+      "url": "https://github.com/ringlochid/oh-my-subagents",
+      "oneLiner": "Turn ad-hoc subagents into durable, accountable AI teams.",
+      "description": "Turn ad-hoc subagents into durable, accountable AI teams.\nA local runtime for persistent, supervised parent–subagent delegation with Codex and Claude.\nGet started · Documentation · Starter teams\nAd-hoc delegation is easy to begin and surprisingly hard to operate. A parent spawns children, polls them, reconstructs ownership from chat, and hopes that a closed terminal or interrupted provider session",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/swimmingbrain/texbrain.git",
+      "githubUrl": null,
       "categories": [
-        "code",
-        "writing",
-        "design"
+        "agents",
+        "data",
+        "code"
       ]
     },
     {
-      "id": "a52c650f-335a-4110-b4a3-0356774b4ae6",
+      "id": "cc3fb796-39fd-44af-a5ce-a456b6611e04",
+      "name": "1Presence",
+      "url": "https://1presence.com/",
+      "oneLiner": "Presence remembers your conversations, keeps your notes, and thinks alongside you — across every session, every device.",
+      "description": "Personal AI · Memory you own · Connected\nYour AI that knows you.\nPresence remembers your conversations, keeps your notes, and thinks alongside you — across every session, every device.\nA personal AI assistant with lasting memory — it manages your email and calendar, connects the apps you use, and keeps what it learns as plain files in your own vault. Yours to read, correct or export.\nFree to join.",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "design",
+        "marketing"
+      ]
+    },
+    {
+      "id": "17f2610b-65ca-4479-afd1-09f9e5cd9b73",
+      "name": "Ta",
+      "url": "https://github.com/kangarooking/Ta",
+      "oneLiner": "curl -fsSL --retry 3 --retry-all-errors --retry-delay 1 https://github.",
+      "description": "在没有相机、复印机和现代印刷技术的年代，人们遇到过一个很实际的问题：石碑上的字那么好，怎样才能把它带走？\n他们把纸覆在碑上，再用墨包轻轻扑打。纸揭下来，文字便离开石头，跟着人回家。这门手艺叫作拓印，已经流传千余年。它像一种古老的截图：看见什么，就把什么留住。\n「拓」这个字本身也在讲这件事：扌 + 石\n，一只手按在石头上。中文名为「拓」，读作 tà\n；英文名为 Ta。\n今天，石碑变成了屏幕。屏幕上的信息更多，也消失得更快。Ta 做的仍是同一件事：框住它，拓下来——文字可以复制、翻译，图片可以标注、钉在眼前；截一张长图，就像把整通碑从头拓到尾；AI 帮你理解内容，就像随身带着一位金石学家。\n仓颉造字，拓印传字。字被造出来只是开始，被留住、被读懂、被带走，才算完成。\n截图工具是我几乎每天都在使用的软件。市面上的选择很多，有免费的，也有收费的；但用了这么多之后，我始终没有找到一个能满足全部需求的工",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/kangarooking/Ta.git",
+      "categories": [
+        "agents",
+        "design",
+        "code"
+      ]
+    },
+    {
+      "id": "82b15598-7dc5-4825-aa3f-de727dc01315",
       "name": "harness-subagent",
       "url": "https://github.com/ptmrio/harness-subagent",
       "oneLiner": "Orchestration for coding agents — stay in the parent, outsource to other harnesses, then synthesize.",
@@ -215,13 +369,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/ptmrio/harness-subagent.git",
       "categories": [
-        "code",
+        "agents",
         "design",
-        "agents"
+        "code"
       ]
     },
     {
-      "id": "3d002203-abbe-4698-8226-3293750ba894",
+      "id": "e655e68b-c530-43ef-b524-888e7b62b9a6",
       "name": "keymap-ai",
       "url": "https://github.com/johncattrall/keymap-ai",
       "oneLiner": "An Agent Skill that turns your coding agent into a custom-keyboard firmware expert.",
@@ -232,13 +386,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/johncattrall/keymap-ai",
       "categories": [
-        "code",
+        "agents",
         "design",
-        "agents"
+        "code"
       ]
     },
     {
-      "id": "6550b90a-eb97-4cd6-ae6f-40cf30701627",
+      "id": "2d213e0d-cac5-478f-802e-9b1bbe5ffd8b",
       "name": "clay",
       "url": "https://github.com/sammwyy/clay",
       "oneLiner": "You signed in with another tab or window.",
@@ -249,13 +403,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
+        "agents",
         "design",
-        "agents"
+        "code"
       ]
     },
     {
-      "id": "1e75e988-ffa7-49ad-8c44-b9111ca989ba",
+      "id": "184f668b-34b9-4477-815c-f7eefe08a478",
       "name": "consensus-mcp",
       "url": "https://github.com/Consensus-NLP/consensus-mcp",
       "oneLiner": "The Consensus MCP server connects AI assistants to Consensus, the academic search engine.",
@@ -266,13 +420,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "research"
       ]
     },
     {
-      "id": "50dda0a0-e1d9-4576-85bb-0c3a5805e82f",
+      "id": "b9222de0-bd23-4b1b-a690-d118a0726c72",
       "name": "unbox-ai",
       "url": "https://github.com/tester-army/unbox-ai",
       "oneLiner": "unbox-ai turns an AI agent trace into something you can read.",
@@ -283,13 +437,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
-        "data"
+        "data",
+        "code"
       ]
     },
     {
-      "id": "2a64d69c-98f9-4eb4-9050-1bc4554cad40",
+      "id": "a4bfd0e4-17cb-4a6d-ac47-3287675a35e8",
       "name": "vitre",
       "url": "https://github.com/ggoggam/vitre",
       "oneLiner": "WebView automation for Kotlin Multiplatform.",
@@ -300,34 +454,51 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "productivity"
       ]
     },
     {
-      "id": "83d92ebb-014c-4b2d-be08-b3c91bfed9b3",
-      "name": "rubber-duck",
-      "url": "https://github.com/centsandcode/rubber-duck",
-      "oneLiner": "Don't give me the answer.",
-      "description": "Don't give me the answer. Help me find it.\nA plugin for Claude Code that inverts the agent's role: instead of handing you solutions, it asks questions until you reach the answer yourself. Inspired by the classic rubber duck debugging technique.\nBy default, coding agents solve. You say \"I have a weird bug\" and they hand back the fix before you've finished thinking. Fast — but it erodes learning and",
+      "id": "4900dfd8-6a53-4817-99de-e80aa68bd1e7",
+      "name": "AiTells",
+      "url": "https://github.com/krishnasunkam/vale-ai-tells",
+      "oneLiner": "A Vale style-package that flags the tells of AI-written and spec-grade prose, so you can recast them in your own voice before you ship.",
+      "description": "A Vale style-package that flags the tells of AI-written and spec-grade prose, so you can recast them in your own voice before you ship.\nModern writing tools make it easy to produce text that reads like a machine wrote it. That prose has a fingerprint: the em dash, the epigram (is the hero, not a decoration\n), the antithesis flourish (reads as discipline, never confession\n), the virtue tag (done ri",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/krishnasunkam/vale-ai-tells.git",
       "categories": [
+        "agents",
         "code",
-        "design",
-        "agents"
+        "voice"
       ]
     },
     {
-      "id": "016fc12c-3cfe-496b-8f13-3d1e9a821809",
-      "name": "Ripping Off the Hey.com Band-Aid",
-      "url": "https://kylemcgough.com/blogs/ripping-off-the-heycom-band-aid",
-      "oneLiner": "When I was a teenager, years before I had dedicated myself to studying computer science, I wanted to learn how to make websites.",
-      "description": "When I was a teenager, years before I had dedicated myself to studying computer science, I wanted to learn how to make websites. Out of the many competing options, I found Ruby on Rails to be incredibly enticing. The purported speed with which high-quality websites could be developed was a big draw. It rested firmly on the shoulders of convention over configuration. I inspected the conventions and",
+      "id": "3a92be5e-fda7-40af-b7d1-5f2e1b9590c2",
+      "name": "Backprompter",
+      "url": "https://backprompter.com/",
+      "oneLiner": "A complete workspace to create AI agents from system prompts, chat with and evaluate them, then deploy a polished chat UI for your users — with API access, RAG, voice, and Stripe b",
+      "description": "A complete workspace to create AI agents from system prompts, chat with and evaluate them, then deploy a polished chat UI for your users — with API access, RAG, voice, and Stripe billing built in.\nNo servers to configure, no boilerplate to write.\nThe same agents, deployed however fits your stack — from zero code to full control.\nPublish a polished chat interface for your end users — no frontend or",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "design",
+        "code"
+      ]
+    },
+    {
+      "id": "bfdd2e66-116c-47b4-a779-e0c8c1245713",
+      "name": "ThunderPhone v2",
+      "url": "https://thunderphone.com",
+      "oneLiner": "Big Bench Audio measures how well voice AI models respond to challenging questions.",
+      "description": "from 2¢/min#1 on Big Bench Audio\nBig Bench Audio measures how well voice AI models respond to challenging questions. ThunderPhone holds the record, so you can trust it to make fewer mistakes on your calls.\n99.4% on Big Bench Audio\nAt every level of intelligence, ThunderPhone is the most cost-effective option on the market.\nWhether your calls are customer support, scheduling, pre-sales, or more, Th",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -335,7 +506,8 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design"
+        "voice",
+        "rag"
       ]
     }
   ]
