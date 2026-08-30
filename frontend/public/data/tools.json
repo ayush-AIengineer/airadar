@@ -1,9 +1,43 @@
 {
-  "generatedAt": "2026-08-29T12:25:55.849328+00:00",
-  "count": 20,
+  "generatedAt": "2026-08-30T11:24:58.025878+00:00",
+  "count": 33,
   "tools": [
     {
-      "id": "cfbbc4b7-6e4c-44bf-a3ca-ee8d122166f2",
+      "id": "3c0c6f7d-a3d3-401e-8f0f-6682869e4bb5",
+      "name": "windows-ai-privacy-toolkit",
+      "url": "https://github.com/wimar393/windows-ai-privacy-toolkit",
+      "oneLiner": "A privacy-first companion that inventories AI features on your PC and turns off the ones you name.",
+      "description": "A privacy-first companion that inventories AI features on your PC and turns off the ones you name.\nBeyond removal: people want to know what's there and what it phone-homes.\n✅ Detail — AI feature inventory scan ✅ Focus — Per-feature privacy summary (documented) ✅ Goal — Bulk toggle operations ✅ Scope — Export a machine report ✅ Approach — No cloud dependency\n- Click the large Download button above ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "productivity",
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "46a7078b-8f8b-4c44-8538-c5b0cf9843cd",
+      "name": "remove-windows-ai",
+      "url": "https://github.com/meharabPigeon/remove-windows-ai",
+      "oneLiner": "A GUI front-end concept for the viral remove-windows-ai approach: strip Copilot, Recall and AI bloat from Windows 11 with toggles and a revert net.",
+      "description": "A GUI front-end concept for the viral remove-windows-ai approach: strip Copilot, Recall and AI bloat from Windows 11 with toggles and a revert net.\n- Scope — Toggle panel per AI feature (Copilot, Recall, app AI)\n- Approach — Revert mode with pre-change snapshots\n- Principle — Post-Windows-Update re-check task\n- Detail — Classic-apps restore options (Notepad, Paint, Photos)\n- Focus — Readable, diff",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "productivity",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "37bf1834-740f-4b2b-9df6-4ee937dab2d1",
       "name": "tokentab",
       "url": "https://github.com/damejan80/tokentab",
       "oneLiner": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, an",
@@ -14,13 +48,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/damejan80/tokentab",
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "98e12605-e7cd-41f3-99ea-07996713edbd",
+      "id": "27c34965-697a-48c6-ab0b-142f5fbceed4",
       "name": "Arlo-AI-Desktop",
       "url": "https://github.com/Autobricks-AI/Arlo-AI-Desktop",
       "oneLiner": "Customer service and sales, answered from what your company already knows, on your own machine.",
@@ -37,7 +71,7 @@
       ]
     },
     {
-      "id": "b1ae8bc0-a13d-496a-a321-97fb14e5df7c",
+      "id": "a72e090f-93e1-434c-bb8c-8b73b47a0ddf",
       "name": "needle",
       "url": "https://github.com/keenableai/needle",
       "oneLiner": "Search and retrieval benchmarks from Keenable.",
@@ -48,114 +82,200 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
+        "code",
         "agents",
-        "code"
+        "design"
       ]
     },
     {
-      "id": "394a83be-cd04-4b9f-96ea-f1a8e7ed3581",
-      "name": "world-model-simulators",
-      "url": "https://github.com/AtongWang/world-model-simulators",
-      "oneLiner": "Awesome-World-Model-Simulators A curated list of resources on generative world models as simulators, based on the comprehensive survey \"From Generation to Simulation: How Far Are W",
-      "description": "Awesome-World-Model-Simulators A curated list of resources on generative world models as simulators, based on the comprehensive survey \"From Generation to Simulation: How Far Are World Models from Being True Simulators?\" The corpus contains 200 papers published between 2018 and 2026 and is organized using eight capabilities of traditional simulators. News🔥 [2026/08/24] Initial release of the Aweso",
+      "id": "cfbeec9a-7e3a-481f-9ebe-dff770e7d96c",
+      "name": "fine-tuning-playground",
+      "url": "https://github.com/RNetworks2019/fine-tuning-playground",
+      "oneLiner": "Where raw pretrained weights meet your domain’s unique soul.",
+      "description": "Where raw pretrained weights meet your domain’s unique soul.\nWelcome to FinetuneForge, a meticulously curated repository that transforms the often-daunting journey of fine-tuning Hugging Face Transformers into a seamless, almost meditative craft. While many repos merely scratch the surface, this project is an expedition — from the abstract high-level API calls down to the granular mechanics of gra",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "productivity",
         "code",
         "image"
       ]
     },
     {
-      "id": "57bb8c38-8d09-43f1-86f8-d6a1fe656cb5",
-      "name": "AstraLM",
-      "url": "https://github.com/Prasun01/AstraLM",
-      "oneLiner": "AstraLM is an open-source, high-performance AI assistant for Android.",
-      "description": "AstraLM is an open-source, high-performance AI assistant for Android. Built with Flutter and native C++ inference engines, AstraLM is designed around an on-device first, hybrid-capable architecture — giving you the flexibility to run private quantized LLMs directly on your phone's hardware, or connect your own API keys for cloud-based reasoning and image generation.\n- 📱 On-Device Local Inference (",
-      "pricing": "open_source",
+      "id": "c2c7356d-73a4-47cf-b0e9-18e0c4507b36",
+      "name": "plumb-core",
+      "url": "https://github.com/reghilkentpilaspilas-stack/plumb-core",
+      "oneLiner": "TideLink is a modular, event-driven AI skill framework designed for the embedded Linux ecosystem.",
+      "description": "TideLink is a modular, event-driven AI skill framework designed for the embedded Linux ecosystem. While the original plumb-link project focuses on reusable AI skill sets with tool-calling agents, TideLink pushes the envelope further by introducing a tidal architecture — where skills ebb and flow based on device state, resource availability, and user intent. It empowers engineers to delegate repeti",
+      "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Prasun01/AstraLM.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
+        "code",
         "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "452cabf1-87cf-4375-b2d2-20a5d5cf3205",
-      "name": "ai-github-repository-assistant",
-      "url": "https://github.com/Wadan3/ai-github-repository-assistant",
-      "oneLiner": "Understand repositories faster with private, local AI.",
-      "description": "Understand repositories faster with private, local AI.\nRepoLens AI is an open-source Next.js application that connects to GitHub, lets developers explore accessible repositories, and provides evidence-grounded assistance for source code, architecture, pull requests, issues, and commits. Ollama is the default AI provider, so no paid AI service is required and selected repository context can stay on",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Wadan3/ai-github-repository-assistant.git",
-      "categories": [
-        "agents",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "95a5c58d-2d08-401a-884f-f8b81a65f670",
-      "name": "ai-watermark-remover",
-      "url": "https://github.com/mohityadav8/ai-watermark-remover",
-      "oneLiner": "Agent skill + stdlib Python service that strips multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own.",
-      "description": "____ _ _ _ _ ____ ___ ____ ____ _ _ ____ ____ _ _ ____ ____ _ _ ____ _ _ ____ ____\n|__| | __ | | | |__| | |___ |__/ |\\/| |__| |__/ |_/ __ |__/ |___ |\\/| | | | | |___ |__/\n| | | |_|_| | | | |___ | \\ | | | | | \\ | \\_ | \\ |___ | | |__| \\/ |___ | \\\nAgent skill + stdlib Python service that strips multi-vendor AI provenance marks from text and files — for privacy and hygiene on content you own. The skil",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/mohityadav8/ai-watermark-remover",
-      "categories": [
-        "code",
-        "image",
         "security"
       ]
     },
     {
-      "id": "711b446b-932d-40c0-9364-a68cd6f12812",
-      "name": "Social-Sentinel",
-      "url": "https://github.com/Wecncode/Social-Sentinel",
-      "oneLiner": "An open-source, AI-powered NLP tool designed to detect psychological manipulation, urgency, and zero-day social engineering tactics in emails and text messages.",
-      "description": "An open-source, AI-powered NLP tool designed to detect psychological manipulation, urgency, and zero-day social engineering tactics in emails and text messages.\nAn open-source, interactive web application that uses Natural Language Processing (NLP) to detect phishing attempts and social engineering tactics in emails and messages. Instead of relying on static blocklists, this tool analyzes the sema",
+      "id": "7202d0c0-ed6f-4850-b1e0-cb2f46835ae1",
+      "name": "NutriVerse-Coach",
+      "url": "https://github.com/mustafaeeeuu-cell/NutriVerse-Coach",
+      "oneLiner": "Welcome to CogniPlate, a reimagined approach to everyday nutrition that blends the warmth of a personal chef with the intelligence of a behavioral coach.",
+      "description": "Welcome to CogniPlate, a reimagined approach to everyday nutrition that blends the warmth of a personal chef with the intelligence of a behavioral coach. Born from the same spirit as NourishAI — that jack‑of‑all‑trades fitness companion — CogniPlate focuses on the quiet, often‑overlooked layer of healthy living: the mindful relationship between your mood, your schedule, and your plate.\nInstead of ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "809c28c4-8df8-4a99-8e56-d1b9f10df9e9",
+      "name": "microsoft-ai-livestream-slidevault",
+      "url": "https://github.com/ventas319/microsoft-ai-livestream-slidevault",
+      "oneLiner": "Transform every live coding session into a living, searchable ecosystem of knowledge.",
+      "description": "Transform every live coding session into a living, searchable ecosystem of knowledge.\nIn the fast-moving world of AI training streams, knowledge evaporates the moment the broadcast ends. Viewers scramble to screenshot slides, rewind for code snippets, and lose crucial context in the chat scroll. AI Tidepool is the persistent memory layer for the AI LiveStream Series ecosystem—a repository designed",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/YOUR_USERNAME/ai-phishing-analyzer.git",
+      "githubUrl": null,
       "categories": [
+        "code",
         "design",
-        "code"
+        "rag"
       ]
     },
     {
-      "id": "2c45734b-c3aa-4a67-97bd-b264b0944d56",
-      "name": "ClipPulse-AI",
-      "url": "https://github.com/YusifMurad/ClipPulse-AI",
-      "oneLiner": "Turn any long video into viral 9:16 clips for TikTok, Reels & Shorts — with AI.",
-      "description": "Turn any long video into viral 9:16 clips for TikTok, Reels & Shorts — with AI.\nPaste a YouTube link or drop in your own video. ClipPulse uses Google Gemini to find the most engaging moments, generates bold animated captions, applies auto zoom, and drops everything into a built-in clip editor for fine-tuning. Everything runs locally — your videos never leave your machine.\nBuilding in public. Follo",
+      "id": "0d8cd11b-4d11-42e1-bd8b-41b056c4946a",
+      "name": "rl-gym-orchestrator",
+      "url": "https://github.com/raamonp/rl-gym-orchestrator",
+      "oneLiner": "Imagine a personal trainer who doesn't just count your reps but redesigns your entire muscle-fiber recruitment pattern.",
+      "description": "Version 2.6.2 | Release Year: 2026 | MIT Licensed\nImagine a personal trainer who doesn't just count your reps but redesigns your entire muscle-fiber recruitment pattern. That's what ReasonForge does for large language models. Instead of merely pushing tokens through gradient updates, this framework creates adaptive reasoning circuits — environments where models practice complex problem-solving, re",
       "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/YusifMurad/ClipPulse-AI.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "design",
         "code",
-        "video"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "147a22e2-614f-4e69-bb36-1bcd7ae25a5a",
+      "id": "353a0f74-0093-4ebd-bb46-34c281ab0235",
+      "name": "FormAI-Coach-Elevate",
+      "url": "https://github.com/wijayamakro19-sketch/FormAI-Coach-Elevate",
+      "oneLiner": "The sibling project to FormAI, but with a radically different lens: instead of correcting your pose, MotionScope AI predicts your movement trajectory before you complete it.",
+      "description": "Your Silent Biomechanics Coach – Turning Every Rep into Data, Every Data into Progress\nThe sibling project to FormAI, but with a radically different lens: instead of correcting your pose, MotionScope AI predicts your movement trajectory before you complete it.\nMost fitness AI acts like a strict referee – it watches, judges, and tells you \"wrong\" after the fact. MotionScope AI behaves like a chess ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "voice",
+        "design"
+      ]
+    },
+    {
+      "id": "03d55f70-b4f5-4fff-92b9-d78b15f3584a",
+      "name": "precision-arena",
+      "url": "https://github.com/AbdulWasay0212/precision-arena",
+      "oneLiner": "Welcome to PrecisionForge, a browser-based aim training simulator that treats your mouse movement like a master craftsperson treats their chisel.",
+      "description": "Welcome to PrecisionForge, a browser-based aim training simulator that treats your mouse movement like a master craftsperson treats their chisel. Instead of simply tracking targets, this platform rebuilds the neural pathways responsible for hand-eye coordination through adaptive difficulty curves, spatial memory challenges, and micro-reaction drills.\nBorn from the original concept of a lightweight",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "356a6e08-7327-4741-96ad-bba11dfa4e72",
+      "name": "precision-arena-trainer",
+      "url": "https://github.com/vickyvenu190-web/precision-arena-trainer",
+      "oneLiner": "ReflexForge is a browser-based reaction training environment engineered for individuals who believe that cognitive speed is a craft—not a gift.",
+      "description": "ReflexForge is a browser-based reaction training environment engineered for individuals who believe that cognitive speed is a craft—not a gift. Where conventional aim trainers focus solely on flick shots and tracking, ReflexForge expands the paradigm into a holistic sensorimotor forge. It is a performance laboratory that blends spatial reasoning, muscle memory calibration, and adaptive difficulty ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "19c35466-92c3-4cd0-b68a-6c8a55f938e0",
+      "name": "Motion-Form-Feedback",
+      "url": "https://github.com/gulingguinxling-del/Motion-Form-Feedback",
+      "oneLiner": "FlexLogix is not another exercise tracker.",
+      "description": "FlexLogix is not another exercise tracker. It is a movement interpreter. While conventional AI gym assistants merely watch your joints, FlexLogix builds a temporal muscle-map of how your body expresses a repetition — then uses that map to distinguish between a half-hearted sway and a fully realized, form-perfect rep.\nBuilt on the same foundational tech as the AI-Gym-Trainer-OpenCV concept (OpenCV ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "voice",
+        "data"
+      ]
+    },
+    {
+      "id": "f43fc2ea-6787-4808-8ff0-523ab8da1558",
+      "name": "ml-house-price-prediction",
+      "url": "https://github.com/waddadelmehdi/ml-house-price-prediction",
+      "oneLiner": "This repository contains the implementation and documentation of a supervised machine-learning study on house price prediction using linear regression.",
+      "description": "This repository contains the implementation and documentation of a supervised machine-learning study on house price prediction using linear regression. Two experiments are conducted on small residential datasets from Morocco (prices in Moroccan Dirham, MAD): a simple regression on living area (\nKeywords: linear regression · ordinary least squares · supervised learning · house price prediction · sc",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "research"
+      ]
+    },
+    {
+      "id": "e81bc205-196d-4e99-9e71-1614a19a0c85",
+      "name": "useagent",
+      "url": "https://github.com/useagenthq/useagent",
+      "oneLiner": "The open-source AI coworker for your team.",
+      "description": "Hand off the work. Get back the result.\nThe open-source AI coworker for your team.\nQuick Start · Self-hosting · Documentation · Architecture\nAlpha software. useAgent is under active development: expect rough edges, and APIs/schemas may change between releases. It already runs real daily workloads, but pin a tag if you need stability.\nuseAgent turns the AI agents you already use - Claude Code, Code",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "23302486-04c5-4d4e-8b40-9bf82f3bc9c3",
       "name": "my-free-code",
       "url": "https://github.com/hkqr/my-free-code",
       "oneLiner": "A multi-provider gateway for Claude Code and other coding agents.",
@@ -166,13 +286,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "search"
       ]
     },
     {
-      "id": "c64c9922-beac-49b2-b000-78ec59bd344e",
+      "id": "a09f7e99-bc4d-4cd2-84c5-86556215aef3",
       "name": "IntentRoute-AI",
       "url": "https://github.com/Vincent-Xi08/IntentRoute-AI",
       "oneLiner": "IntentRoute AI is an open-source Windows control plane that turns plain-language network intent into locally validated routing-rule drafts.",
@@ -183,13 +303,30 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "security"
       ]
     },
     {
-      "id": "c19cff98-bbc2-4394-9b35-2e4f3877608b",
+      "id": "7d6d8a23-7b14-4498-bc41-fad86991b639",
+      "name": "Model-Vault-Forge",
+      "url": "https://github.com/Harshitdewangann/Model-Vault-Forge",
+      "oneLiner": "NeuralForge Studio is not just another AI development tool — it's a digital atelier for artificial intelligence.",
+      "description": "Open Source Model Assembly, Tuning & Deployment Suite\nWhere raw neural architectures become production-ready masterpieces\nNeuralForge Studio is not just another AI development tool — it's a digital atelier for artificial intelligence. Imagine a master sculptor's workshop, but instead of marble and chisel, you work with layers, weights, and activation functions. This open-source platform transforms",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/neuralforge-studio/neuralforge",
+      "categories": [
+        "code",
+        "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "1269eb00-a7ae-4be2-98dc-e6ed68df5d0e",
       "name": "unbagrnd",
       "url": "https://github.com/zidniryi/unbagrnd",
       "oneLiner": "A small desktop app that uses AI to remove the background from images — entirely on your device.",
@@ -206,58 +343,141 @@
       ]
     },
     {
-      "id": "59f54dc5-7644-482c-9edd-3dea89e0f136",
-      "name": "AgentBridge",
-      "url": "https://github.com/IndexFlowing/AgentBridge",
-      "oneLiner": "Use one AI to think and another AI to code.",
-      "description": "Use one AI to think and another AI to code.\nAgentBridge connects AI reasoning environments to local coding agents through MCP, allowing a web-based AI to understand and plan changes while a local coding agent executes them in your workspace.\nLet the AI with the best reasoning access think. Let the coding agent you already use execute.\n🇨🇳 中文 · 📦 crates.io · 🐙 GitHub\nAI coding tools increasingly com",
-      "pricing": "free",
+      "id": "308dd62a-3e75-41c4-b247-bf416f182c63",
+      "name": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+      "oneLiner": "A former ALDI worker seeking to challenge his dismissal in the Fair Work Commission has been criticised for bringing a doomed case that was informed by AI.",
+      "description": "Fair Work Commission condemns 'plain wrong' AI legal advice as cases with AI litigants surge\nIn short:\nA former ALDI worker seeking to challenge his dismissal in the Fair Work Commission has been criticised for bringing a doomed case that was informed by AI.\nResearch commissioned by the workplace umpire shows its cases have recently grown by 40 per cent, in part due to litigants using AI.\nWhat's n",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/IndexFlowing/AgentBridge.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "design",
+        "code",
         "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "474ae674-a2ea-429f-9f4b-8200ee3f6de7",
+      "name": "1endpoint",
+      "url": "https://1endpoint.dev",
+      "oneLiner": "Use one compatible API, switch models without rewriting your integration, and pay for the tokens you actually use.",
+      "description": "Multiple models. One endpoint.\nUse one compatible API, switch models without rewriting your integration, and pay for the tokens you actually use.\n/api/v1/chat/completions\n- Prompt Caching\n- Spend Tracking\n- Never Downgraded\nglm-5.2\n$0.0420USD per 1M input tokensgpt-5.6-luna\n$0.0500USD per 1M input tokensglm-5.3-flash\n$0.0555USD per 1M input tokensdeepseek-v4-flash\n$0.0660USD per 1M input tokensdee",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
         "code"
       ]
     },
     {
-      "id": "19d4989e-03c4-4fa8-924a-0c8b57b834f4",
-      "name": "Kith",
-      "url": "https://www.kith.space",
-      "oneLiner": "Ambient transcription, clinically specific SOAP notes, and scheduling — so every session goes to the patient, not the paperwork.",
-      "description": "Ambient transcription, clinically specific SOAP notes, and scheduling — so every session goes to the patient, not the paperwork.\nAlready have an account? Sign in\nFree plan forever · Upgrade anytime · No card required\nToday's Patients\nPriya Sharma\nAnxiety · CBT\nRahul Mehta\nDepression · DBT\nAnanya Iyer\nOCD · ERP\nSelecting Priya Sharma…\nSelecting patient\nEverything around the session, handled\nAmbient",
+      "id": "3bf9ab4f-9412-414f-b387-26e6fee31729",
+      "name": "Get your free AI search visibility scan",
+      "url": "https://www.visiscan.app",
+      "oneLiner": "Your customers ask AI who to trust.",
+      "description": "AI visibility scanner · autonomous audit\nYour customers ask AI who to trust. Are you in the answer?\nYou can't see what AI says about your business. Your customers can. VisiScan asks ChatGPT, Claude, Perplexity and Gemini the exact questions your buyers type — and shows you whose name comes back.\nFree · no signup · results in ~60s · see a sample report →\nYou're invisible in 70% of buyer answers. Th",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "search",
+        "marketing"
+      ]
+    },
+    {
+      "id": "50620e5f-0b43-4def-8a8f-3a831696f41c",
+      "name": "Photo Manager That Find and Organize Screenshots with Private",
+      "url": "https://ringlochid.me/imagesage/index.html",
+      "oneLiner": "Find the image you remember.",
+      "description": "Find the image you remember.\nA private, local AI gallery built for Windows. Find any photo by what it shows or the words inside it, then let AI rename it.\nFree from Microsoft Store · Windows 11\nSearch naturally\nDescribe it. Finds it.\nOne search box can understand what a photo shows, read words with on-device OCR, or narrow the library by name and path.\nVisual meaning Text in images Name & path\nRev",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "productivity",
-        "audio",
-        "voice"
+        "image",
+        "design",
+        "search"
       ]
     },
     {
-      "id": "3e2ef058-4be9-4f7c-9d46-800a52e27213",
-      "name": "Itsuki",
-      "url": "https://itsuki.app/",
-      "oneLiner": "you typed this once, in whichever tool was open.",
-      "description": "An example memory\n“We’re on Postgres. No ORM — raw SQL only.”\nyou typed this once, in whichever tool was open.\nイツキ\n01 For the AI tools you already use\nConnect once with one key. Itsuki extracts structured memories from any of 26 connected tools and serves them back across all the rest.\nOpen source · One key, two minutes · Free during early access\n{\n\"mcpServers\": {\n\"itsuki\": {\n\"url\": \"PASTE_THE_PRI",
-      "pricing": "open_source",
+      "id": "9350809b-abf2-410a-b478-59e0a0e04246",
+      "name": "AgentGate",
+      "url": "https://github.com/Clawdlinux/agentgate",
+      "oneLiner": "A thin API gateway that lets AI agents call SaaS APIs (GitHub, Slack, Google Workspace) on behalf of users.",
+      "description": "A thin API gateway that lets AI agents call SaaS APIs (GitHub, Slack, Google Workspace) on behalf of users. Agents never see tokens — the gateway handles OAuth, encrypted token storage, and request proxying. Every action gets a signed, gap-free receipt that anyone can verify offline, without AgentGate's secret key.\nRun the released image. No clone, no build, no Go toolchain — just the image publis",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/Clawdlinux/agentgate",
       "categories": [
-        "design",
+        "code",
         "agents",
-        "code"
+        "data"
       ]
     },
     {
-      "id": "51d4662c-39b5-4ce9-97e1-411482b8a26a",
+      "id": "088e1d89-a9a6-486d-af7f-e3c92b89a6b2",
+      "name": "VelocityNote",
+      "url": "https://velocitynote.app/",
+      "oneLiner": "Everything local, up to 50 notes.",
+      "description": "Everything local, up to 50 notes.\n- Editor, Markdown, and search\n- Voice notes, transcribed on your machine\n- AI assistant access and the vn CLI\n- Local AI models for your notes\n- Up to 50 notes\n- Local use only\nA cross-platform, local-first Markdown notebook with cloud sync — and AI that runs entirely on your own machine.\nA native app under 100 MB — including the full-text retrieval AI agents nee",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "voice",
+        "design"
+      ]
+    },
+    {
+      "id": "e92e88af-8c5c-440f-89d3-d0554a80682f",
+      "name": "agent-loop-guard",
+      "url": "https://github.com/OMD-123/agent-loop-guard",
+      "oneLiner": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution.",
+      "description": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution.\nagent-loop-guard\nis a provider-independent safety and reliability utility for AI agents. It detects and stops runaway agent execution before an agent gets stuck calling the same tools forever, cycling between tools, exceeding a step budget, or running for too long.\nIt works with any JavaScript/TypeScript agent i",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "91c08b24-0d9a-4e06-bf47-a8d05259185e",
+      "name": "ocp-annual-report-rag",
+      "url": "https://github.com/waddadelmehdi/ocp-annual-report-rag",
+      "oneLiner": "A Retrieval-Augmented Generation (RAG) system that performs question answering over the OCP Group Annual Financial Report 2025.",
+      "description": "A Retrieval-Augmented Generation (RAG) system that performs question answering over the OCP Group Annual Financial Report 2025. The pipeline combines LangChain, Chroma, the multilingual embedding model BAAI/bge-m3, and the local LLM Qwen3 8B served by Ollama.\nAll components run locally and offline: no data leaves the machine and no API keys are required.\nThe notebook rag-system.ipynb\nimplements th",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "data",
+        "rag"
+      ]
+    },
+    {
+      "id": "5bd45649-ec3d-40fa-9281-3ba96bb7bac5",
       "name": "SideAsk",
       "url": "https://github.com/horry0214/SideAsk",
       "oneLiner": "A browser-first AI explanation layer, with an optional Windows companion that brings the same flow anywhere.",
@@ -274,70 +494,71 @@
       ]
     },
     {
-      "id": "21cb7676-e3a8-4983-8d95-6b53d7612967",
-      "name": "Ta",
-      "url": "https://github.com/kangarooking/Ta",
-      "oneLiner": "curl -fsSL --retry 3 --retry-all-errors --retry-delay 1 https://github.",
-      "description": "在没有相机、复印机和现代印刷技术的年代，人们遇到过一个很实际的问题：石碑上的字那么好，怎样才能把它带走？\n他们把纸覆在碑上，再用墨包轻轻扑打。纸揭下来，文字便离开石头，跟着人回家。这门手艺叫作拓印，已经流传千余年。它像一种古老的截图：看见什么，就把什么留住。\n「拓」这个字本身也在讲这件事：扌 + 石\n，一只手按在石头上。中文名为「拓」，读作 tà\n；英文名为 Ta。\n今天，石碑变成了屏幕。屏幕上的信息更多，也消失得更快。Ta 做的仍是同一件事：框住它，拓下来——文字可以复制、翻译，图片可以标注、钉在眼前；截一张长图，就像把整通碑从头拓到尾；AI 帮你理解内容，就像随身带着一位金石学家。\n仓颉造字，拓印传字。字被造出来只是开始，被留住、被读懂、被带走，才算完成。\n截图工具是我几乎每天都在使用的软件。市面上的选择很多，有免费的，也有收费的；但用了这么多之后，我始终没有找到一个能满足全部需求的工",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/kangarooking/Ta.git",
-      "categories": [
-        "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "c0af65ed-5906-4e7b-be3c-4f035aca0068",
-      "name": "TIOL-Image-Manager",
-      "url": "https://github.com/sclass53/TIOL-Image-Manager",
-      "oneLiner": "Your privacy-first, local-first photo manager.",
-      "description": "Your privacy-first, local-first photo manager. Automatically tags photos. Built-in fast, intelligent searching.\nSupports MacOS, Windows, and Linux.\nAll photos stay on your own hard drive. AI inference runs completely offline. No cloud services required.\n- 💻 Multiplatform support: Supports Windows, MacOS, and Linux. Supports Nvidia CUDA, cpu, Apple CoreML，etc.\n- 📷 Lens/Focal length filtering: Filte",
+      "id": "6f0572be-e016-489b-8378-df0f784a65bc",
+      "name": "Neuro-Sprint",
+      "url": "https://github.com/rq0066622-lang/Neuro-Sprint",
+      "oneLiner": "Welcome to NeuroFlex, a reimagined brain training experience that doesn't just test your memory — it sculpts your mental reflexes like a blacksmith tempers steel.",
+      "description": "Welcome to NeuroFlex, a reimagined brain training experience that doesn't just test your memory — it sculpts your mental reflexes like a blacksmith tempers steel. Born from the original concept of a simple HTML/CSS/JS brain trainer, NeuroFlex evolves into a full-fledged cognitive playground where every click, swipe, and recall sharpens your neural pathways.\nThink of NeuroFlex as a gym for your gre",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
         "design",
-        "image",
+        "research"
+      ]
+    },
+    {
+      "id": "edcac214-1323-4ffa-850a-a5ddbd61cd11",
+      "name": "AdalFlow-Optimizer",
+      "url": "https://github.com/genoskietv/AdalFlow-Optimizer",
+      "oneLiner": "Transform scattered language model calls into a self-optimizing, memory-aware reasoning mesh.",
+      "description": "Transform scattered language model calls into a self-optimizing, memory-aware reasoning mesh.\nEvery LLM application you build today is essentially a one-way street: prompt goes in, text comes out. But real-world reasoning is not linear — it is a recursive dialogue between memory, context, and adaptation. Most developers end up stitching together ad-hoc chains, caching layers, and brittle \"retry wi",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "fd642165-cca1-432e-9afe-09b956a7ca41",
-      "name": "harness-subagent",
-      "url": "https://github.com/ptmrio/harness-subagent",
-      "oneLiner": "Dispatch another coding-agent CLI as a one-shot subagent, then synthesize.",
-      "description": "Dispatch another coding-agent CLI as a one-shot subagent, then synthesize.\nEver wanted to call Codex from Claude Code?\nEver wanted Grok Build to invoke Claude Code?\nEver wanted Claude Code to send a diff to GPT for a second opinion?\nThat's this skill. Stay in the parent you are already in — Cursor Agent, cursor-agent, Claude Code, Codex, Grok Build, or Grok Bot. It writes a brief, dispatches anoth",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ptmrio/harness-subagent.git",
-      "categories": [
-        "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "645943ac-4a09-4237-97a1-27e0d3a81ff5",
-      "name": "Closure",
-      "url": "https://github.com/chillison/Closure",
-      "oneLiner": "📌 这是 Closure — OrisonSpace（Apache-2.",
-      "description": "📌 这是 Closure — OrisonSpace（Apache-2.0）的 fork。在 OrisonSpace 的本地优先 AI 写作 IDE 基础上，Closure 叠加其叙事操作系统层：结构化状态机（CognitionGraph / 欲望向量 / 世界条目 / 信息差状态机 / 叙事依赖图）、结构化知识库与混合检索（纯代码确定性核心），以及信息差操控 / 情绪闭环 / 欲望引擎 / 主题引力场 / 涟漪传播等独有模块。\nClosure 整体以 AGPL-3.0-or-later 发布；源自 OrisonSpace 的代码保留 Apache-2.0。归属与 provenance 详见 NOTICE。\nClosure 是一款开源、本地优先的 AI 小说创作 IDE，面向网文与长篇小说作者，把大纲、章节、人物与世界观资产卡整合到一个工作区。它以「用户主导创意、AI 执笔与自查」为原则，",
+      "id": "eeaa0c35-c671-4813-a742-2bb10e0c859b",
+      "name": "Lithicsoft-Trainer-Forge",
+      "url": "https://github.com/s88cj-stack/Lithicsoft-Trainer-Forge",
+      "oneLiner": "Where software training meets evolutionary resistance — forge your models against adversarial probing, not just for feature delivery.",
+      "description": "A Generative Model-Immunization Toolkit for AI-Assisted Reverse Engineering\nWhere software training meets evolutionary resistance — forge your models against adversarial probing, not just for feature delivery.\nEvery AI-assisted engineering workflow leaves behind a behavioral fingerprint — the way a model interprets instructions, the patterns it favors, the shortcuts it learns. Traditional trainer ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "code"
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "774a738c-99a1-4ecf-9c38-37143b1d701d",
+      "name": "ScriptTap",
+      "url": "https://play.google.com/store/apps/details?id=com.scripttap&hl=en_US",
+      "oneLiner": "Create scripts for taps, swipes, delays, image matching, pixel checks, OCR, text transforms, variables, loops, conditions, shortcuts, and reusable routines.",
+      "description": "Create scripts for taps, swipes, delays, image matching, pixel checks, OCR, text transforms, variables, loops, conditions, shortcuts, and reusable routines. ScriptTap is built for people who want flexible automation without root access or desktop-only tools.\nRun scripts directly from ScriptTap, launch enabled scripts from Android shortcuts, or call them from compatible automation apps. This makes ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "productivity",
+        "code",
+        "image"
       ]
     }
   ]
