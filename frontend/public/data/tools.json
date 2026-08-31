@@ -1,43 +1,26 @@
 {
-  "generatedAt": "2026-08-30T11:24:58.025878+00:00",
-  "count": 33,
+  "generatedAt": "2026-08-31T12:54:57.960350+00:00",
+  "count": 30,
   "tools": [
     {
-      "id": "3c0c6f7d-a3d3-401e-8f0f-6682869e4bb5",
-      "name": "windows-ai-privacy-toolkit",
-      "url": "https://github.com/wimar393/windows-ai-privacy-toolkit",
-      "oneLiner": "A privacy-first companion that inventories AI features on your PC and turns off the ones you name.",
-      "description": "A privacy-first companion that inventories AI features on your PC and turns off the ones you name.\nBeyond removal: people want to know what's there and what it phone-homes.\n✅ Detail — AI feature inventory scan ✅ Focus — Per-feature privacy summary (documented) ✅ Goal — Bulk toggle operations ✅ Scope — Export a machine report ✅ Approach — No cloud dependency\n- Click the large Download button above ",
-      "pricing": "open_source",
+      "id": "f96c9752-0e0e-4e93-a27d-0f2bbcf2594b",
+      "name": "Agentic-GraphRAG-Blueprint",
+      "url": "https://github.com/sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
+      "oneLiner": "A reference architecture for an Agentic GraphRAG (Knowledge Graph + Vector Search) solution deployed on Microsoft Azure using Terraform (IaC), FastAPI, and React.",
+      "description": "English · 中文 · Polski · Español · 日本語 · 한국어 · Русский · Français · Deutsch\nA reference architecture for an Agentic GraphRAG (Knowledge Graph + Vector Search) solution deployed on Microsoft Azure using Terraform (IaC), FastAPI, and React.\nThis repository is a ready-made starting point for building systems that answer questions over large, unstructured document collections. Unlike plain retrieval, w",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
       "categories": [
-        "productivity",
-        "code",
-        "security"
+        "agents",
+        "data",
+        "rag"
       ]
     },
     {
-      "id": "46a7078b-8f8b-4c44-8538-c5b0cf9843cd",
-      "name": "remove-windows-ai",
-      "url": "https://github.com/meharabPigeon/remove-windows-ai",
-      "oneLiner": "A GUI front-end concept for the viral remove-windows-ai approach: strip Copilot, Recall and AI bloat from Windows 11 with toggles and a revert net.",
-      "description": "A GUI front-end concept for the viral remove-windows-ai approach: strip Copilot, Recall and AI bloat from Windows 11 with toggles and a revert net.\n- Scope — Toggle panel per AI feature (Copilot, Recall, app AI)\n- Approach — Revert mode with pre-change snapshots\n- Principle — Post-Windows-Update re-check task\n- Detail — Classic-apps restore options (Notepad, Paint, Photos)\n- Focus — Readable, diff",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "productivity",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "37bf1834-740f-4b2b-9df6-4ee937dab2d1",
+      "id": "a6d79986-8d60-405d-b139-c03908ec9284",
       "name": "tokentab",
       "url": "https://github.com/damejan80/tokentab",
       "oneLiner": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, an",
@@ -54,7 +37,7 @@
       ]
     },
     {
-      "id": "27c34965-697a-48c6-ab0b-142f5fbceed4",
+      "id": "e2c3fcbe-2cc8-4216-8d95-6afb650909e8",
       "name": "Arlo-AI-Desktop",
       "url": "https://github.com/Autobricks-AI/Arlo-AI-Desktop",
       "oneLiner": "Customer service and sales, answered from what your company already knows, on your own machine.",
@@ -71,7 +54,7 @@
       ]
     },
     {
-      "id": "a72e090f-93e1-434c-bb8c-8b73b47a0ddf",
+      "id": "f3f52377-0bdf-4e40-853d-683af1ac7723",
       "name": "needle",
       "url": "https://github.com/keenableai/needle",
       "oneLiner": "Search and retrieval benchmarks from Keenable.",
@@ -88,7 +71,7 @@
       ]
     },
     {
-      "id": "cfbeec9a-7e3a-481f-9ebe-dff770e7d96c",
+      "id": "a29090ed-33dd-40f7-8584-50028f0ccec0",
       "name": "fine-tuning-playground",
       "url": "https://github.com/RNetworks2019/fine-tuning-playground",
       "oneLiner": "Where raw pretrained weights meet your domain’s unique soul.",
@@ -99,13 +82,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "productivity",
         "code",
-        "image"
+        "image",
+        "productivity"
       ]
     },
     {
-      "id": "c2c7356d-73a4-47cf-b0e9-18e0c4507b36",
+      "id": "1cb7ad65-6715-498a-ba77-1ff7b73ba6f2",
       "name": "plumb-core",
       "url": "https://github.com/reghilkentpilaspilas-stack/plumb-core",
       "oneLiner": "TideLink is a modular, event-driven AI skill framework designed for the embedded Linux ecosystem.",
@@ -122,7 +105,7 @@
       ]
     },
     {
-      "id": "7202d0c0-ed6f-4850-b1e0-cb2f46835ae1",
+      "id": "367729c4-f656-4c62-845d-4808d88f1d6c",
       "name": "NutriVerse-Coach",
       "url": "https://github.com/mustafaeeeuu-cell/NutriVerse-Coach",
       "oneLiner": "Welcome to CogniPlate, a reimagined approach to everyday nutrition that blends the warmth of a personal chef with the intelligence of a behavioral coach.",
@@ -139,7 +122,7 @@
       ]
     },
     {
-      "id": "809c28c4-8df8-4a99-8e56-d1b9f10df9e9",
+      "id": "d0ee7af9-bbc1-44fe-b7d9-f00580ac5dbc",
       "name": "microsoft-ai-livestream-slidevault",
       "url": "https://github.com/ventas319/microsoft-ai-livestream-slidevault",
       "oneLiner": "Transform every live coding session into a living, searchable ecosystem of knowledge.",
@@ -156,7 +139,7 @@
       ]
     },
     {
-      "id": "0d8cd11b-4d11-42e1-bd8b-41b056c4946a",
+      "id": "ac07087d-9d62-4513-8899-8e85317b4b9f",
       "name": "rl-gym-orchestrator",
       "url": "https://github.com/raamonp/rl-gym-orchestrator",
       "oneLiner": "Imagine a personal trainer who doesn't just count your reps but redesigns your entire muscle-fiber recruitment pattern.",
@@ -173,7 +156,7 @@
       ]
     },
     {
-      "id": "353a0f74-0093-4ebd-bb46-34c281ab0235",
+      "id": "86cb810b-f2cd-4214-81ea-df6266207a45",
       "name": "FormAI-Coach-Elevate",
       "url": "https://github.com/wijayamakro19-sketch/FormAI-Coach-Elevate",
       "oneLiner": "The sibling project to FormAI, but with a radically different lens: instead of correcting your pose, MotionScope AI predicts your movement trajectory before you complete it.",
@@ -185,12 +168,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "voice",
-        "design"
+        "design",
+        "voice"
       ]
     },
     {
-      "id": "03d55f70-b4f5-4fff-92b9-d78b15f3584a",
+      "id": "34a5c681-f389-495c-b21d-e529c099c109",
       "name": "precision-arena",
       "url": "https://github.com/AbdulWasay0212/precision-arena",
       "oneLiner": "Welcome to PrecisionForge, a browser-based aim training simulator that treats your mouse movement like a master craftsperson treats their chisel.",
@@ -207,7 +190,7 @@
       ]
     },
     {
-      "id": "356a6e08-7327-4741-96ad-bba11dfa4e72",
+      "id": "20829bf1-52a2-48a2-ae54-a08def1c2364",
       "name": "precision-arena-trainer",
       "url": "https://github.com/vickyvenu190-web/precision-arena-trainer",
       "oneLiner": "ReflexForge is a browser-based reaction training environment engineered for individuals who believe that cognitive speed is a craft—not a gift.",
@@ -224,7 +207,7 @@
       ]
     },
     {
-      "id": "19c35466-92c3-4cd0-b68a-6c8a55f938e0",
+      "id": "49d0753f-7a6b-48a2-8f28-03b78f0376a5",
       "name": "Motion-Form-Feedback",
       "url": "https://github.com/gulingguinxling-del/Motion-Form-Feedback",
       "oneLiner": "FlexLogix is not another exercise tracker.",
@@ -236,12 +219,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "voice",
-        "data"
+        "data",
+        "voice"
       ]
     },
     {
-      "id": "f43fc2ea-6787-4808-8ff0-523ab8da1558",
+      "id": "8408e7cd-961e-44c1-a3a0-17332cc3b1bb",
       "name": "ml-house-price-prediction",
       "url": "https://github.com/waddadelmehdi/ml-house-price-prediction",
       "oneLiner": "This repository contains the implementation and documentation of a supervised machine-learning study on house price prediction using linear regression.",
@@ -258,7 +241,7 @@
       ]
     },
     {
-      "id": "e81bc205-196d-4e99-9e71-1614a19a0c85",
+      "id": "0b2df9ba-d56c-4413-a4ce-25a1e81b6626",
       "name": "useagent",
       "url": "https://github.com/useagenthq/useagent",
       "oneLiner": "The open-source AI coworker for your team.",
@@ -275,7 +258,7 @@
       ]
     },
     {
-      "id": "23302486-04c5-4d4e-8b40-9bf82f3bc9c3",
+      "id": "e7f9b3a8-9281-4d19-b1dd-376d816b13ac",
       "name": "my-free-code",
       "url": "https://github.com/hkqr/my-free-code",
       "oneLiner": "A multi-provider gateway for Claude Code and other coding agents.",
@@ -292,7 +275,7 @@
       ]
     },
     {
-      "id": "a09f7e99-bc4d-4cd2-84c5-86556215aef3",
+      "id": "b7965ee1-6085-4985-aef9-7e84622a63e4",
       "name": "IntentRoute-AI",
       "url": "https://github.com/Vincent-Xi08/IntentRoute-AI",
       "oneLiner": "IntentRoute AI is an open-source Windows control plane that turns plain-language network intent into locally validated routing-rule drafts.",
@@ -309,7 +292,7 @@
       ]
     },
     {
-      "id": "7d6d8a23-7b14-4498-bc41-fad86991b639",
+      "id": "7ac18463-2540-40bd-8784-39ace0997941",
       "name": "Model-Vault-Forge",
       "url": "https://github.com/Harshitdewangann/Model-Vault-Forge",
       "oneLiner": "NeuralForge Studio is not just another AI development tool — it's a digital atelier for artificial intelligence.",
@@ -326,124 +309,75 @@
       ]
     },
     {
-      "id": "1269eb00-a7ae-4be2-98dc-e6ed68df5d0e",
-      "name": "unbagrnd",
-      "url": "https://github.com/zidniryi/unbagrnd",
-      "oneLiner": "A small desktop app that uses AI to remove the background from images — entirely on your device.",
-      "description": "A small desktop app that uses AI to remove the background from images — entirely on your device. No cloud API, no account, no telemetry, and no internet access required after a one-time setup step.\n- On-device AI. Background removal runs through a real neural network (ONNX Runtime), inferred locally on your machine. No image, filename, or metadata is ever sent anywhere.\n- 100% free & open source. ",
-      "pricing": "open_source",
+      "id": "a01b95a7-86f6-49e4-b7d1-d3ba9e8b7920",
+      "name": "AI studio with 500 models for headshots",
+      "url": "https://magicshot.ai",
+      "oneLiner": "Join 500,000+ creators making AI images, videos, and voice clips with 500+ top models.",
+      "description": "The all-in-one AI creative studio\nEvery photo, video & voice clip you need, made in seconds\nJoin 500,000+ creators making AI images, videos, and voice clips with 500+ top models. One subscription, no stacked plans.\nCreators\nImages generated\nVideos generated\nTrending now\nThe tools creators love most\nProduct Photo Generator\nListing-ready product photos, no lightbox, no reshoot, no rented studio.\nPro",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "code",
         "image",
-        "data"
-      ]
-    },
-    {
-      "id": "308dd62a-3e75-41c4-b247-bf416f182c63",
-      "name": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-      "oneLiner": "A former ALDI worker seeking to challenge his dismissal in the Fair Work Commission has been criticised for bringing a doomed case that was informed by AI.",
-      "description": "Fair Work Commission condemns 'plain wrong' AI legal advice as cases with AI litigants surge\nIn short:\nA former ALDI worker seeking to challenge his dismissal in the Fair Work Commission has been criticised for bringing a doomed case that was informed by AI.\nResearch commissioned by the workplace umpire shows its cases have recently grown by 40 per cent, in part due to litigants using AI.\nWhat's n",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "474ae674-a2ea-429f-9f4b-8200ee3f6de7",
-      "name": "1endpoint",
-      "url": "https://1endpoint.dev",
-      "oneLiner": "Use one compatible API, switch models without rewriting your integration, and pay for the tokens you actually use.",
-      "description": "Multiple models. One endpoint.\nUse one compatible API, switch models without rewriting your integration, and pay for the tokens you actually use.\n/api/v1/chat/completions\n- Prompt Caching\n- Spend Tracking\n- Never Downgraded\nglm-5.2\n$0.0420USD per 1M input tokensgpt-5.6-luna\n$0.0500USD per 1M input tokensglm-5.3-flash\n$0.0555USD per 1M input tokensdeepseek-v4-flash\n$0.0660USD per 1M input tokensdee",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "3bf9ab4f-9412-414f-b387-26e6fee31729",
-      "name": "Get your free AI search visibility scan",
-      "url": "https://www.visiscan.app",
-      "oneLiner": "Your customers ask AI who to trust.",
-      "description": "AI visibility scanner · autonomous audit\nYour customers ask AI who to trust. Are you in the answer?\nYou can't see what AI says about your business. Your customers can. VisiScan asks ChatGPT, Claude, Perplexity and Gemini the exact questions your buyers type — and shows you whose name comes back.\nFree · no signup · results in ~60s · see a sample report →\nYou're invisible in 70% of buyer answers. Th",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "search",
         "marketing"
       ]
     },
     {
-      "id": "50620e5f-0b43-4def-8a8f-3a831696f41c",
-      "name": "Photo Manager That Find and Organize Screenshots with Private",
-      "url": "https://ringlochid.me/imagesage/index.html",
-      "oneLiner": "Find the image you remember.",
-      "description": "Find the image you remember.\nA private, local AI gallery built for Windows. Find any photo by what it shows or the words inside it, then let AI rename it.\nFree from Microsoft Store · Windows 11\nSearch naturally\nDescribe it. Finds it.\nOne search box can understand what a photo shows, read words with on-device OCR, or narrow the library by name and path.\nVisual meaning Text in images Name & path\nRev",
-      "pricing": "free",
+      "id": "8ae500c9-5242-4eea-816a-26f98709eb04",
+      "name": "VajraClaw",
+      "url": "https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker",
+      "oneLiner": "DROS VajraClaw Hacker Edition is the official standalone, free Docker governance gateway designed for individual developers, AI researchers, and local developer workstations.",
+      "description": "English | 繁體中文說明 | 🌐 Official Website\nDROS VajraClaw Hacker Edition is the official standalone, free Docker governance gateway designed for individual developers, AI researchers, and local developer workstations. It physicalizes execution security between autonomous AI Agents (Google Antigravity, Anthropic Claude, OpenAI Codex, Cursor, CrewAI, AutoGen, DeepSeek Harness) and your local operating sy",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker.git",
       "categories": [
-        "image",
-        "design",
-        "search"
+        "code",
+        "agents",
+        "research"
       ]
     },
     {
-      "id": "9350809b-abf2-410a-b478-59e0a0e04246",
-      "name": "AgentGate",
-      "url": "https://github.com/Clawdlinux/agentgate",
-      "oneLiner": "A thin API gateway that lets AI agents call SaaS APIs (GitHub, Slack, Google Workspace) on behalf of users.",
-      "description": "A thin API gateway that lets AI agents call SaaS APIs (GitHub, Slack, Google Workspace) on behalf of users. Agents never see tokens — the gateway handles OAuth, encrypted token storage, and request proxying. Every action gets a signed, gap-free receipt that anyone can verify offline, without AgentGate's secret key.\nRun the released image. No clone, no build, no Go toolchain — just the image publis",
+      "id": "683fde76-77d5-404c-aa41-07f707281f80",
+      "name": "Catch AI code hallucinations without asking a model",
+      "url": "https://github.com/lovettsendit/hedgemony",
+      "oneLiner": "hedgemony finds the things that do not exist in code an AI wrote — packages that were never published, methods that were never written, arguments no function accepts — and the code",
+      "description": "██╗ ██╗███████╗██████╗ ██████╗ ███████╗███╗ ███╗ ██████╗ ███╗ ██╗██╗ ██╗\n██║ ██║██╔════╝██╔══██╗██╔════╝ ██╔════╝████╗ ████║██╔═══██╗████╗ ██║╚██╗ ██╔╝\n███████║█████╗ ██║ ██║██║ ███╗█████╗ ██╔████╔██║██║ ██║██╔██╗ ██║ ╚████╔╝\n██╔══██║██╔══╝ ██║ ██║██║ ██║██╔══╝ ██║╚██╔╝██║██║ ██║██║╚██╗██║ ╚██╔╝\n██║ ██║███████╗██████╔╝╚██████╔╝███████╗██║ ╚═╝ ██║╚██████╔╝██║ ╚████║ ██║\n╚═╝ ╚═╝╚══════╝╚═════╝ ╚════",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Clawdlinux/agentgate",
+      "githubUrl": "https://github.com/lovettsendit/hedgemony",
       "categories": [
         "code",
-        "agents",
-        "data"
+        "design",
+        "security"
       ]
     },
     {
-      "id": "088e1d89-a9a6-486d-af7f-e3c92b89a6b2",
-      "name": "VelocityNote",
-      "url": "https://velocitynote.app/",
-      "oneLiner": "Everything local, up to 50 notes.",
-      "description": "Everything local, up to 50 notes.\n- Editor, Markdown, and search\n- Voice notes, transcribed on your machine\n- AI assistant access and the vn CLI\n- Local AI models for your notes\n- Up to 50 notes\n- Local use only\nA cross-platform, local-first Markdown notebook with cloud sync — and AI that runs entirely on your own machine.\nA native app under 100 MB — including the full-text retrieval AI agents nee",
+      "id": "0c054401-f9bf-4e97-8dea-7b40e785ee4b",
+      "name": "Sonde",
+      "url": "https://github.com/anishmoncivarghese/sonde",
+      "oneLiner": "A local code-context engine for AI coding agents.",
+      "description": "A local code-context engine for AI coding agents. Sonde indexes a TypeScript,\nPython, or Swift repository into a symbol-level graph in SQLite and exposes\nthree MCP tools — find_symbols\n, query_graph\n, and get_impact_radius\n— so an\nagent can answer who calls this, what breaks if I change it, and which\ntests relate to it in one call instead of a search loop.\nThe honest claim is not \"finds what grep ",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
         "agents",
-        "voice",
         "design"
       ]
     },
     {
-      "id": "e92e88af-8c5c-440f-89d3-d0554a80682f",
+      "id": "56151d5c-3a72-4eba-9579-59bb8f878b12",
       "name": "agent-loop-guard",
       "url": "https://github.com/OMD-123/agent-loop-guard",
       "oneLiner": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution.",
@@ -460,7 +394,24 @@
       ]
     },
     {
-      "id": "91c08b24-0d9a-4e06-bf47-a8d05259185e",
+      "id": "45c3cd95-de0f-477a-a452-2ac892a858f9",
+      "name": "memory-bridge",
+      "url": "https://github.com/jiabaobei/memory-bridge",
+      "oneLiner": "- Proactive Memory Agent（Meta，arXiv 2607.",
+      "description": "🌉 给 AI 一个跟着你走的记忆 —— 跨设备 × 跨平台的共享记忆层\nCDSMP（大模型跨设备语义记忆连续性架构）的官方工程实现。 English · 设计 RFC · 路线图 · 移动端接入 · 隐私威胁模型 · 版本历程\n早上通勤时你在手机上和 AI 讨论到一半的推理，回到办公室想在 PC 上继续—— 今天的做法是：翻聊天记录、复制粘贴、重新解释一遍背景。\n云全量同步很重也未必安全；RAG 是\"到了新设备再被动检索\"；主流记忆系统 （Mem0、MemGPT/Letta 等）本质上是单机的。记忆桥的答案是三个差异化主张：\n- 跨设备连续性：记忆跟着人走，而不是跟着 App 走。手机、PC、平板共享同一份语义记忆，通过增量差分同步。\n- 边缘预加载：在你打开新设备之前，高热度的记忆已经被推送到位——切换即连续，而不是切换后等待检索。\n- 内容冻结原则：记忆桥只提取语义关联、只调节结构参数",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/jiabaobei/memory-bridge.git",
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "a818db6a-5d2f-42b6-9f87-8ed5cbb8f7c2",
       "name": "ocp-annual-report-rag",
       "url": "https://github.com/waddadelmehdi/ocp-annual-report-rag",
       "oneLiner": "A Retrieval-Augmented Generation (RAG) system that performs question answering over the OCP Group Annual Financial Report 2025.",
@@ -477,7 +428,7 @@
       ]
     },
     {
-      "id": "5bd45649-ec3d-40fa-9281-3ba96bb7bac5",
+      "id": "eaddc9df-80af-45b4-ac62-726b075f826d",
       "name": "SideAsk",
       "url": "https://github.com/horry0214/SideAsk",
       "oneLiner": "A browser-first AI explanation layer, with an optional Windows companion that brings the same flow anywhere.",
@@ -489,12 +440,12 @@
       "githubUrl": "https://github.com/horry0214/sideask.git",
       "categories": [
         "code",
-        "data",
-        "security"
+        "security",
+        "data"
       ]
     },
     {
-      "id": "6f0572be-e016-489b-8378-df0f784a65bc",
+      "id": "0de514f3-4808-470c-8877-5fa0f097ac65",
       "name": "Neuro-Sprint",
       "url": "https://github.com/rq0066622-lang/Neuro-Sprint",
       "oneLiner": "Welcome to NeuroFlex, a reimagined brain training experience that doesn't just test your memory — it sculpts your mental reflexes like a blacksmith tempers steel.",
@@ -511,7 +462,7 @@
       ]
     },
     {
-      "id": "edcac214-1323-4ffa-850a-a5ddbd61cd11",
+      "id": "7bb723d8-a233-4e43-a2e0-b4085f2f8e48",
       "name": "AdalFlow-Optimizer",
       "url": "https://github.com/genoskietv/AdalFlow-Optimizer",
       "oneLiner": "Transform scattered language model calls into a self-optimizing, memory-aware reasoning mesh.",
@@ -528,7 +479,24 @@
       ]
     },
     {
-      "id": "eeaa0c35-c671-4813-a742-2bb10e0c859b",
+      "id": "42ff423a-1b54-44e2-b19e-c40d984f9735",
+      "name": "Closure",
+      "url": "https://github.com/chillison/Closure",
+      "oneLiner": "📌 这是 Closure — OrisonSpace（Apache-2.",
+      "description": "📌 这是 Closure — OrisonSpace（Apache-2.0）的 fork。在 OrisonSpace 的本地优先 AI 写作 IDE 基础上，Closure 叠加其叙事操作系统层：结构化状态机（CognitionGraph / 欲望向量 / 世界条目 / 信息差状态机 / 叙事依赖图）、结构化知识库与混合检索（纯代码确定性核心），以及信息差操控 / 情绪闭环 / 欲望引擎 / 主题引力场 / 涟漪传播等独有模块。\nClosure 整体以 AGPL-3.0-or-later 发布；源自 OrisonSpace 的代码保留 Apache-2.0。归属与 provenance 详见 NOTICE。\nClosure 是一款开源、本地优先的 AI 小说创作 IDE，面向网文与长篇小说作者，把大纲、章节、人物与世界观资产卡整合到一个工作区。它以「用户主导创意、AI 执笔与自查」为原则，",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "daf27235-ba13-4a17-8328-4d805e115563",
       "name": "Lithicsoft-Trainer-Forge",
       "url": "https://github.com/s88cj-stack/Lithicsoft-Trainer-Forge",
       "oneLiner": "Where software training meets evolutionary resistance — forge your models against adversarial probing, not just for feature delivery.",
@@ -542,23 +510,6 @@
         "code",
         "design",
         "data"
-      ]
-    },
-    {
-      "id": "774a738c-99a1-4ecf-9c38-37143b1d701d",
-      "name": "ScriptTap",
-      "url": "https://play.google.com/store/apps/details?id=com.scripttap&hl=en_US",
-      "oneLiner": "Create scripts for taps, swipes, delays, image matching, pixel checks, OCR, text transforms, variables, loops, conditions, shortcuts, and reusable routines.",
-      "description": "Create scripts for taps, swipes, delays, image matching, pixel checks, OCR, text transforms, variables, loops, conditions, shortcuts, and reusable routines. ScriptTap is built for people who want flexible automation without root access or desktop-only tools.\nRun scripts directly from ScriptTap, launch enabled scripts from Android shortcuts, or call them from compatible automation apps. This makes ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "productivity",
-        "code",
-        "image"
       ]
     }
   ]
