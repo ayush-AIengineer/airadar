@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-08-31T12:54:57.960350+00:00",
-  "count": 30,
+  "generatedAt": "2026-09-01T11:13:58.686092+00:00",
+  "count": 26,
   "tools": [
     {
-      "id": "f96c9752-0e0e-4e93-a27d-0f2bbcf2594b",
+      "id": "c27bd4e5-e93c-472e-861b-3ccddd82f439",
+      "name": "Wonder-Pill",
+      "url": "https://github.com/ara-mkr/Wonder-Pill",
+      "oneLiner": "A Claude skill that refuses to give you the answer.",
+      "description": "A Claude skill that refuses to give you the answer.\nPanning around a Wonder Pill map — seeds, branches, dead ends, and the two places the thinking converged.\nAsk Claude for ideas and you get a list. Install Wonder Pill and you get a map of the questions you didn't know you were standing on — plus an interactive mind map you can drag around, showing where every thought came from and which ones got ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/ara-mkr/Wonder-Pill.git",
+      "categories": [
+        "code",
+        "design",
+        "research"
+      ]
+    },
+    {
+      "id": "e77266e6-a36b-4623-9153-17ea3c6dbbea",
       "name": "Agentic-GraphRAG-Blueprint",
       "url": "https://github.com/sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
       "oneLiner": "A reference architecture for an Agentic GraphRAG (Knowledge Graph + Vector Search) solution deployed on Microsoft Azure using Terraform (IaC), FastAPI, and React.",
@@ -14,13 +31,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
       "categories": [
-        "agents",
         "data",
+        "agents",
         "rag"
       ]
     },
     {
-      "id": "a6d79986-8d60-405d-b139-c03908ec9284",
+      "id": "fedd6951-9097-4d1a-8831-0e0f3cd6de51",
       "name": "tokentab",
       "url": "https://github.com/damejan80/tokentab",
       "oneLiner": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, an",
@@ -31,13 +48,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/damejan80/tokentab",
       "categories": [
+        "data",
         "code",
-        "design",
-        "data"
+        "design"
       ]
     },
     {
-      "id": "e2c3fcbe-2cc8-4216-8d95-6afb650909e8",
+      "id": "6143d00a-b557-415b-8ef4-c2cb757d16dd",
       "name": "Arlo-AI-Desktop",
       "url": "https://github.com/Autobricks-AI/Arlo-AI-Desktop",
       "oneLiner": "Customer service and sales, answered from what your company already knows, on your own machine.",
@@ -48,204 +65,34 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "data",
+        "code",
         "rag"
       ]
     },
     {
-      "id": "f3f52377-0bdf-4e40-853d-683af1ac7723",
-      "name": "needle",
-      "url": "https://github.com/keenableai/needle",
-      "oneLiner": "Search and retrieval benchmarks from Keenable.",
-      "description": "Search and retrieval benchmarks from Keenable.ai. A\nbenchmark is a query set plus a scoring method. Each one is a module under\nneedle\nwith the same two subcommands:\nneedle <benchmark> generate ... --out queries.jsonl # produce query rows (JSONL)\nneedle <benchmark> run --queries queries.jsonl ... # evaluate engines on them (JSON report)\nEach bench generates gold on demand from public sources; the r",
+      "id": "24252a2c-9078-464d-8802-9fd8293b318b",
+      "name": "Nell",
+      "url": "https://github.com/iabdulwasey/Nell",
+      "oneLiner": "Open Source Instinct — a personal AI agent you text to get things done.",
+      "description": "Open Source Instinct — a personal AI agent you text to get things done.\nBook the table. Buy the tickets. Cancel the subscription. Watch for the drop. Nell works across your messages, your browser, and your accounts — and asks before it does anything it can't take back.\nSource-available · self-hostable · your keys, your data · it asks first.\nText Nell like you'd text a sharp, reliable friend who ge",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "a29090ed-33dd-40f7-8584-50028f0ccec0",
-      "name": "fine-tuning-playground",
-      "url": "https://github.com/RNetworks2019/fine-tuning-playground",
-      "oneLiner": "Where raw pretrained weights meet your domain’s unique soul.",
-      "description": "Where raw pretrained weights meet your domain’s unique soul.\nWelcome to FinetuneForge, a meticulously curated repository that transforms the often-daunting journey of fine-tuning Hugging Face Transformers into a seamless, almost meditative craft. While many repos merely scratch the surface, this project is an expedition — from the abstract high-level API calls down to the granular mechanics of gra",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "image",
-        "productivity"
-      ]
-    },
-    {
-      "id": "1cb7ad65-6715-498a-ba77-1ff7b73ba6f2",
-      "name": "plumb-core",
-      "url": "https://github.com/reghilkentpilaspilas-stack/plumb-core",
-      "oneLiner": "TideLink is a modular, event-driven AI skill framework designed for the embedded Linux ecosystem.",
-      "description": "TideLink is a modular, event-driven AI skill framework designed for the embedded Linux ecosystem. While the original plumb-link project focuses on reusable AI skill sets with tool-calling agents, TideLink pushes the envelope further by introducing a tidal architecture — where skills ebb and flow based on device state, resource availability, and user intent. It empowers engineers to delegate repeti",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "367729c4-f656-4c62-845d-4808d88f1d6c",
-      "name": "NutriVerse-Coach",
-      "url": "https://github.com/mustafaeeeuu-cell/NutriVerse-Coach",
-      "oneLiner": "Welcome to CogniPlate, a reimagined approach to everyday nutrition that blends the warmth of a personal chef with the intelligence of a behavioral coach.",
-      "description": "Welcome to CogniPlate, a reimagined approach to everyday nutrition that blends the warmth of a personal chef with the intelligence of a behavioral coach. Born from the same spirit as NourishAI — that jack‑of‑all‑trades fitness companion — CogniPlate focuses on the quiet, often‑overlooked layer of healthy living: the mindful relationship between your mood, your schedule, and your plate.\nInstead of ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "d0ee7af9-bbc1-44fe-b7d9-f00580ac5dbc",
-      "name": "microsoft-ai-livestream-slidevault",
-      "url": "https://github.com/ventas319/microsoft-ai-livestream-slidevault",
-      "oneLiner": "Transform every live coding session into a living, searchable ecosystem of knowledge.",
-      "description": "Transform every live coding session into a living, searchable ecosystem of knowledge.\nIn the fast-moving world of AI training streams, knowledge evaporates the moment the broadcast ends. Viewers scramble to screenshot slides, rewind for code snippets, and lose crucial context in the chat scroll. AI Tidepool is the persistent memory layer for the AI LiveStream Series ecosystem—a repository designed",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "rag"
-      ]
-    },
-    {
-      "id": "ac07087d-9d62-4513-8899-8e85317b4b9f",
-      "name": "rl-gym-orchestrator",
-      "url": "https://github.com/raamonp/rl-gym-orchestrator",
-      "oneLiner": "Imagine a personal trainer who doesn't just count your reps but redesigns your entire muscle-fiber recruitment pattern.",
-      "description": "Version 2.6.2 | Release Year: 2026 | MIT Licensed\nImagine a personal trainer who doesn't just count your reps but redesigns your entire muscle-fiber recruitment pattern. That's what ReasonForge does for large language models. Instead of merely pushing tokens through gradient updates, this framework creates adaptive reasoning circuits — environments where models practice complex problem-solving, re",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "86cb810b-f2cd-4214-81ea-df6266207a45",
-      "name": "FormAI-Coach-Elevate",
-      "url": "https://github.com/wijayamakro19-sketch/FormAI-Coach-Elevate",
-      "oneLiner": "The sibling project to FormAI, but with a radically different lens: instead of correcting your pose, MotionScope AI predicts your movement trajectory before you complete it.",
-      "description": "Your Silent Biomechanics Coach – Turning Every Rep into Data, Every Data into Progress\nThe sibling project to FormAI, but with a radically different lens: instead of correcting your pose, MotionScope AI predicts your movement trajectory before you complete it.\nMost fitness AI acts like a strict referee – it watches, judges, and tells you \"wrong\" after the fact. MotionScope AI behaves like a chess ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "voice"
-      ]
-    },
-    {
-      "id": "34a5c681-f389-495c-b21d-e529c099c109",
-      "name": "precision-arena",
-      "url": "https://github.com/AbdulWasay0212/precision-arena",
-      "oneLiner": "Welcome to PrecisionForge, a browser-based aim training simulator that treats your mouse movement like a master craftsperson treats their chisel.",
-      "description": "Welcome to PrecisionForge, a browser-based aim training simulator that treats your mouse movement like a master craftsperson treats their chisel. Instead of simply tracking targets, this platform rebuilds the neural pathways responsible for hand-eye coordination through adaptive difficulty curves, spatial memory challenges, and micro-reaction drills.\nBorn from the original concept of a lightweight",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "20829bf1-52a2-48a2-ae54-a08def1c2364",
-      "name": "precision-arena-trainer",
-      "url": "https://github.com/vickyvenu190-web/precision-arena-trainer",
-      "oneLiner": "ReflexForge is a browser-based reaction training environment engineered for individuals who believe that cognitive speed is a craft—not a gift.",
-      "description": "ReflexForge is a browser-based reaction training environment engineered for individuals who believe that cognitive speed is a craft—not a gift. Where conventional aim trainers focus solely on flick shots and tracking, ReflexForge expands the paradigm into a holistic sensorimotor forge. It is a performance laboratory that blends spatial reasoning, muscle memory calibration, and adaptive difficulty ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "49d0753f-7a6b-48a2-8f28-03b78f0376a5",
-      "name": "Motion-Form-Feedback",
-      "url": "https://github.com/gulingguinxling-del/Motion-Form-Feedback",
-      "oneLiner": "FlexLogix is not another exercise tracker.",
-      "description": "FlexLogix is not another exercise tracker. It is a movement interpreter. While conventional AI gym assistants merely watch your joints, FlexLogix builds a temporal muscle-map of how your body expresses a repetition — then uses that map to distinguish between a half-hearted sway and a fully realized, form-perfect rep.\nBuilt on the same foundational tech as the AI-Gym-Trainer-OpenCV concept (OpenCV ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "data",
-        "voice"
-      ]
-    },
-    {
-      "id": "8408e7cd-961e-44c1-a3a0-17332cc3b1bb",
-      "name": "ml-house-price-prediction",
-      "url": "https://github.com/waddadelmehdi/ml-house-price-prediction",
-      "oneLiner": "This repository contains the implementation and documentation of a supervised machine-learning study on house price prediction using linear regression.",
-      "description": "This repository contains the implementation and documentation of a supervised machine-learning study on house price prediction using linear regression. Two experiments are conducted on small residential datasets from Morocco (prices in Moroccan Dirham, MAD): a simple regression on living area (\nKeywords: linear regression · ordinary least squares · supervised learning · house price prediction · sc",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
         "code",
-        "design",
-        "research"
+        "agents"
       ]
     },
     {
-      "id": "0b2df9ba-d56c-4413-a4ce-25a1e81b6626",
+      "id": "b52a80ea-3963-4af7-b579-16de499c31a0",
       "name": "useagent",
       "url": "https://github.com/useagenthq/useagent",
       "oneLiner": "The open-source AI coworker for your team.",
-      "description": "Hand off the work. Get back the result.\nThe open-source AI coworker for your team.\nQuick Start · Self-hosting · Documentation · Architecture\nAlpha software. useAgent is under active development: expect rough edges, and APIs/schemas may change between releases. It already runs real daily workloads, but pin a tag if you need stability.\nuseAgent turns the AI agents you already use - Claude Code, Code",
+      "description": "The open-source AI coworker for your team.\nQuick Start · Self-hosting · Documentation · Architecture\nAlpha software. useAgent is under active development: expect rough edges, and APIs/schemas may change between releases. It already runs real daily workloads, but pin a tag if you need stability.\nuseAgent turns the AI agents you already use - Claude Code, Codex, OpenCode - into coworkers with their ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -253,12 +100,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "e7f9b3a8-9281-4d19-b1dd-376d816b13ac",
+      "id": "9e1e0735-2be2-4ba2-b22f-08b5927882cb",
       "name": "my-free-code",
       "url": "https://github.com/hkqr/my-free-code",
       "oneLiner": "A multi-provider gateway for Claude Code and other coding agents.",
@@ -275,7 +122,7 @@
       ]
     },
     {
-      "id": "b7965ee1-6085-4985-aef9-7e84622a63e4",
+      "id": "4b589ccf-b38d-4ecb-9dd2-33cfb26a24eb",
       "name": "IntentRoute-AI",
       "url": "https://github.com/Vincent-Xi08/IntentRoute-AI",
       "oneLiner": "IntentRoute AI is an open-source Windows control plane that turns plain-language network intent into locally validated routing-rule drafts.",
@@ -286,98 +133,130 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
+        "security",
         "code",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "7ac18463-2540-40bd-8784-39ace0997941",
-      "name": "Model-Vault-Forge",
-      "url": "https://github.com/Harshitdewangann/Model-Vault-Forge",
-      "oneLiner": "NeuralForge Studio is not just another AI development tool — it's a digital atelier for artificial intelligence.",
-      "description": "Open Source Model Assembly, Tuning & Deployment Suite\nWhere raw neural architectures become production-ready masterpieces\nNeuralForge Studio is not just another AI development tool — it's a digital atelier for artificial intelligence. Imagine a master sculptor's workshop, but instead of marble and chisel, you work with layers, weights, and activation functions. This open-source platform transforms",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/neuralforge-studio/neuralforge",
-      "categories": [
-        "code",
-        "design",
-        "writing"
-      ]
-    },
-    {
-      "id": "a01b95a7-86f6-49e4-b7d1-d3ba9e8b7920",
-      "name": "AI studio with 500 models for headshots",
-      "url": "https://magicshot.ai",
-      "oneLiner": "Join 500,000+ creators making AI images, videos, and voice clips with 500+ top models.",
-      "description": "The all-in-one AI creative studio\nEvery photo, video & voice clip you need, made in seconds\nJoin 500,000+ creators making AI images, videos, and voice clips with 500+ top models. One subscription, no stacked plans.\nCreators\nImages generated\nVideos generated\nTrending now\nThe tools creators love most\nProduct Photo Generator\nListing-ready product photos, no lightbox, no reshoot, no rented studio.\nPro",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "image",
-        "marketing"
-      ]
-    },
-    {
-      "id": "8ae500c9-5242-4eea-816a-26f98709eb04",
-      "name": "VajraClaw",
-      "url": "https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker",
-      "oneLiner": "DROS VajraClaw Hacker Edition is the official standalone, free Docker governance gateway designed for individual developers, AI researchers, and local developer workstations.",
-      "description": "English | 繁體中文說明 | 🌐 Official Website\nDROS VajraClaw Hacker Edition is the official standalone, free Docker governance gateway designed for individual developers, AI researchers, and local developer workstations. It physicalizes execution security between autonomous AI Agents (Google Antigravity, Anthropic Claude, OpenAI Codex, Cursor, CrewAI, AutoGen, DeepSeek Harness) and your local operating sy",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker.git",
-      "categories": [
-        "code",
-        "agents",
-        "research"
-      ]
-    },
-    {
-      "id": "683fde76-77d5-404c-aa41-07f707281f80",
-      "name": "Catch AI code hallucinations without asking a model",
-      "url": "https://github.com/lovettsendit/hedgemony",
-      "oneLiner": "hedgemony finds the things that do not exist in code an AI wrote — packages that were never published, methods that were never written, arguments no function accepts — and the code",
-      "description": "██╗ ██╗███████╗██████╗ ██████╗ ███████╗███╗ ███╗ ██████╗ ███╗ ██╗██╗ ██╗\n██║ ██║██╔════╝██╔══██╗██╔════╝ ██╔════╝████╗ ████║██╔═══██╗████╗ ██║╚██╗ ██╔╝\n███████║█████╗ ██║ ██║██║ ███╗█████╗ ██╔████╔██║██║ ██║██╔██╗ ██║ ╚████╔╝\n██╔══██║██╔══╝ ██║ ██║██║ ██║██╔══╝ ██║╚██╔╝██║██║ ██║██║╚██╗██║ ╚██╔╝\n██║ ██║███████╗██████╔╝╚██████╔╝███████╗██║ ╚═╝ ██║╚██████╔╝██║ ╚████║ ██║\n╚═╝ ╚═╝╚══════╝╚═════╝ ╚════",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/lovettsendit/hedgemony",
-      "categories": [
-        "code",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "0c054401-f9bf-4e97-8dea-7b40e785ee4b",
-      "name": "Sonde",
-      "url": "https://github.com/anishmoncivarghese/sonde",
-      "oneLiner": "A local code-context engine for AI coding agents.",
-      "description": "A local code-context engine for AI coding agents. Sonde indexes a TypeScript,\nPython, or Swift repository into a symbol-level graph in SQLite and exposes\nthree MCP tools — find_symbols\n, query_graph\n, and get_impact_radius\n— so an\nagent can answer who calls this, what breaks if I change it, and which\ntests relate to it in one call instead of a search loop.\nThe honest claim is not \"finds what grep ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
         "design"
       ]
     },
     {
-      "id": "56151d5c-3a72-4eba-9579-59bb8f878b12",
+      "id": "f56cc411-3ca0-419a-b56f-be031ab53dde",
+      "name": "AI Can Make You Suck Faster Too",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "oneLiner": "By Jordan Andersen onNot too long ago, I shared a post that I really liked by Disesdi Shoshana Cox.",
+      "description": "AI Can Make You Suck Faster Too\nBy Jordan Andersen onNot too long ago, I shared a post that I really liked by Disesdi Shoshana Cox. They went through the math of how many revolutionary tech companies we should have by now thanks to AI. With a 10x improvement on development speed, the technical aspects of launching an app are no longer a limit to reaching a target market. It seems like AI has final",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "code",
+        "writing"
+      ]
+    },
+    {
+      "id": "9c3d52c0-e89e-4405-b268-ae92570b14f7",
+      "name": "Unitpost/email",
+      "url": "https://www.unitpost.com/email",
+      "oneLiner": "Three steps from a blank project to inbox-safe HTML.",
+      "description": "Production-ready\nEmail Components and Layouts\nAdd to a project.\nTransactional and Marketing\nQuick start\nInstall, compose, render\nThree steps from a blank project to inbox-safe HTML. No account.\nClients\nWorks in Outlook, Gmail, Apple Mail and other\nTable layout, inline CSS. Same markup as the playground.\n- Outlook\n- Gmail\n- Apple Mail\n- Yahoo Mail\n- and other\nLibrary\nComponents, layouts, HTML you c",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "49e81001-17ed-4f50-bad3-b77bed4d347a",
+      "name": "Rxlab market",
+      "url": "https://finance.bots.rxlab.app/",
+      "oneLiner": "Company names resolve to tickers before anything is quoted.",
+      "description": "Quotes and history\nCompany names resolve to tickers before anything is quoted. Real-time prices and historical ranges come from Polygon, stamped with the time they are as of.\nQuotes, prediction-market odds, filings and press — researched by an agent that reads its sources, shows the numbers as an interface, and leaves you a report you own.\nSample research turn\nIllustrativeHow are the odds on the M",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "search",
+        "research"
+      ]
+    },
+    {
+      "id": "7ab1cb98-947a-4d6d-aa8e-f160918cafb1",
+      "name": "ChooseCompute",
+      "url": "https://choosecompute.com/",
+      "oneLiner": "Start with your storage job or the specifications you already know.",
+      "description": "DS223 + 2 × 4TB\nST4000VN006 · SHR / RAID 1-style single-drive redundancy\nAmazon · checked Aug 30, 2026\nChoose what to buy. Choose where to buy.\nStart with your storage job or the specifications you already know. Every result connects exact hardware, capacity trade-offs, evidence, and checked US retailer prices.\nStart with the job. Compare three exact builds, their protected capacity, and the lowes",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "code"
+      ]
+    },
+    {
+      "id": "e7631cb4-0a59-4af5-a6fb-207dfb4ac5ca",
+      "name": "I built a real-time translator for Google Meet",
+      "url": "https://meelang.com/",
+      "oneLiner": "Words appear as they're spoken and are translated before the sentence ends — you never fall behind the room.",
+      "description": "Real-time subtitles\nSub-second latency. Words appear as they're spoken and are translated before the sentence ends — you never fall behind the room.\nShippedREAL-TIME AI TRANSLATOR · GOOGLE MEET · CHROME EXTENSION\nMeeLang is a Chrome extension that turns live Google Meet speech into instant AI-translated subtitles — in your language, before the speaker finishes the sentence.\nEN\nWorks where you meet",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "voice",
+        "audio"
+      ]
+    },
+    {
+      "id": "bb7a0bdc-36f3-4833-bb5b-c230e01b6676",
+      "name": "Verb Authority",
+      "url": "https://github.com/yairsabag/verb-authority",
+      "oneLiner": "Prevent untrusted data from authoring protected tool-call arguments.",
+      "description": "Prevent untrusted data from authoring protected tool-call arguments.\nConsider a tool exposed to an AI agent:\nsend_email(to: str, body: str)\nThe model may write body\n. The recipient to\nmust come from trusted\napplication code, such as an authenticated session or an application-owned\ndirectory. If a webpage, retrieved document, model response, or prior tool\nresult supplies a different recipient, the ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/yairsabag/verb-authority.git",
+      "categories": [
+        "security",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "56c3c78c-1655-44a3-8cfe-ebbb092f0f09",
+      "name": "ai-life-skills-toolkit",
+      "url": "https://github.com/sameh514/ai-life-skills-toolkit",
+      "oneLiner": "Eight reusable “skills”: small instruction files that teach an AI assistant to handle an everyday task the same careful way each time.",
+      "description": "Eight reusable “skills”: small instruction files that teach an AI assistant to handle an everyday task the same careful way each time. They cover studying, presentations, customer service, browser handoffs, and keeping personal details private.\nThis grew from how Sameh uses AI to make life with ADHD more manageable: make a large task easier to start, keep track of where it stopped, show one useful",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "security",
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "815857c6-db23-42ef-823d-410cfa63339a",
       "name": "agent-loop-guard",
       "url": "https://github.com/OMD-123/agent-loop-guard",
       "oneLiner": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution.",
@@ -389,12 +268,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "45c3cd95-de0f-477a-a452-2ac892a858f9",
+      "id": "fe543381-d08a-4219-9f78-f957aa377602",
       "name": "memory-bridge",
       "url": "https://github.com/jiabaobei/memory-bridge",
       "oneLiner": "- Proactive Memory Agent（Meta，arXiv 2607.",
@@ -406,12 +285,28 @@
       "githubUrl": "https://github.com/jiabaobei/memory-bridge.git",
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "a818db6a-5d2f-42b6-9f87-8ed5cbb8f7c2",
+      "id": "d099e0ff-67e1-45f2-89f3-042532cf03b2",
+      "name": "Agent",
+      "url": "https://github.com/HowProgrammingWorks/Agent",
+      "oneLiner": "small, modular coding-agent harness for Node.",
+      "description": "small, modular coding-agent harness for Node.js. It demonstrates the core loop behind agentic coding tools without hiding the mechanism behind a framework\nNode.js 20+ and an API key for any OpenAI-compatible Chat Completions provider.\nnpm install\nnpm start\nFirst run copies agent/config.template.js\nto config.js\n. Fill in API_KEY\n, BASE_URL\n, and MODEL\n. Open another directory with npm start -- /my-",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "dc14f375-2cf3-412b-ae32-8aecbf1497ec",
       "name": "ocp-annual-report-rag",
       "url": "https://github.com/waddadelmehdi/ocp-annual-report-rag",
       "oneLiner": "A Retrieval-Augmented Generation (RAG) system that performs question answering over the OCP Group Annual Financial Report 2025.",
@@ -422,13 +317,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "data",
+        "design",
         "rag"
       ]
     },
     {
-      "id": "eaddc9df-80af-45b4-ac62-726b075f826d",
+      "id": "160540c9-6275-4e9a-bd7b-e9adb75a4c91",
       "name": "SideAsk",
       "url": "https://github.com/horry0214/SideAsk",
       "oneLiner": "A browser-first AI explanation layer, with an optional Windows companion that brings the same flow anywhere.",
@@ -439,47 +334,46 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/horry0214/sideask.git",
       "categories": [
-        "code",
+        "data",
         "security",
-        "data"
+        "code"
       ]
     },
     {
-      "id": "0de514f3-4808-470c-8877-5fa0f097ac65",
-      "name": "Neuro-Sprint",
-      "url": "https://github.com/rq0066622-lang/Neuro-Sprint",
-      "oneLiner": "Welcome to NeuroFlex, a reimagined brain training experience that doesn't just test your memory — it sculpts your mental reflexes like a blacksmith tempers steel.",
-      "description": "Welcome to NeuroFlex, a reimagined brain training experience that doesn't just test your memory — it sculpts your mental reflexes like a blacksmith tempers steel. Born from the original concept of a simple HTML/CSS/JS brain trainer, NeuroFlex evolves into a full-fledged cognitive playground where every click, swipe, and recall sharpens your neural pathways.\nThink of NeuroFlex as a gym for your gre",
+      "id": "d55ba760-0f22-4a06-ba38-f130404be848",
+      "name": "promptModel",
+      "url": "https://github.com/arjun988/promptModel",
+      "oneLiner": "Local-first prompt quality scoring and optimization.",
+      "description": "Local-first prompt quality scoring and optimization.\nPublished on PyPI as tuneprompt\n.\nPromptForge scores LLM prompts across seven quality dimensions, then rewrites weak prompts into clear, intent-preserving instructions — runnable on your machine via Python API, CLI, or Gradio.\n\"Make an app about social media like facebook\"\n│\n▼\n┌─────────────────────┐\n│ Quality Scorer │ ModernBERT · ~150M\n│ 41.5 ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/arjun988/promptModel.git",
       "categories": [
-        "code",
         "design",
-        "research"
+        "audio"
       ]
     },
     {
-      "id": "7bb723d8-a233-4e43-a2e0-b4085f2f8e48",
-      "name": "AdalFlow-Optimizer",
-      "url": "https://github.com/genoskietv/AdalFlow-Optimizer",
-      "oneLiner": "Transform scattered language model calls into a self-optimizing, memory-aware reasoning mesh.",
-      "description": "Transform scattered language model calls into a self-optimizing, memory-aware reasoning mesh.\nEvery LLM application you build today is essentially a one-way street: prompt goes in, text comes out. But real-world reasoning is not linear — it is a recursive dialogue between memory, context, and adaptation. Most developers end up stitching together ad-hoc chains, caching layers, and brittle \"retry wi",
+      "id": "e08e37d4-c6c7-4e90-b0b5-09d5f589b64f",
+      "name": "io",
+      "url": "https://github.com/rexadbapp/io",
+      "oneLiner": "A tiny, self-contained LLM coding agent.",
+      "description": "A tiny, self-contained LLM coding agent. One binary, 180+ providers, zero runtime dependencies.\nio\nis a single-file-distributed terminal agent that talks to any OpenAI-compatible LLM provider. It supports streaming chat, tool use (read/write/edit files, grep, glob, bash, web search/fetch), session persistence, and first-run interactive setup — all in a ~1 MB binary with no external libraries beyon",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/rexadbapp/io",
       "categories": [
         "code",
         "design",
-        "data"
+        "agents"
       ]
     },
     {
-      "id": "42ff423a-1b54-44e2-b19e-c40d984f9735",
+      "id": "a337303d-5470-4856-a239-d8cc1f6d955a",
       "name": "Closure",
       "url": "https://github.com/chillison/Closure",
       "oneLiner": "📌 这是 Closure — OrisonSpace（Apache-2.",
@@ -491,25 +385,58 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "daf27235-ba13-4a17-8328-4d805e115563",
-      "name": "Lithicsoft-Trainer-Forge",
-      "url": "https://github.com/s88cj-stack/Lithicsoft-Trainer-Forge",
-      "oneLiner": "Where software training meets evolutionary resistance — forge your models against adversarial probing, not just for feature delivery.",
-      "description": "A Generative Model-Immunization Toolkit for AI-Assisted Reverse Engineering\nWhere software training meets evolutionary resistance — forge your models against adversarial probing, not just for feature delivery.\nEvery AI-assisted engineering workflow leaves behind a behavioral fingerprint — the way a model interprets instructions, the patterns it favors, the shortcuts it learns. Traditional trainer ",
+      "id": "198df94f-f2fb-42de-a588-43cc08bb57ee",
+      "name": "AI-powered link building and SEO outreach",
+      "url": "https://outreachlooper.com",
+      "oneLiner": "Outreach Looper is an AI-powered outreach platform for SEO teams, digital PR agencies, consultants, and growing brands.",
+      "description": "Outreach Looper\nOutreach Looper is an AI-powered outreach platform for SEO teams, digital PR agencies, consultants, and growing brands. Discover relevant websites and journalists, research the right contacts, manage human-reviewed email outreach, monitor earned backlinks, and measure results with Google Search Console and Google Analytics 4.\nWhat is Outreach Looper?\nOne workspace for ethical SEO o",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
+        "data",
         "design",
-        "data"
+        "marketing"
+      ]
+    },
+    {
+      "id": "24cc11df-a745-431e-8163-f204f0fa3cd5",
+      "name": "Clippy Vision",
+      "url": "https://github.com/protocorn/clippy-vision/issues/53",
+      "oneLiner": "Thanks for trying Clippy Vision!",
+      "description": "-\nNotifications\nYou must be signed in to change notification settings - Fork 11\nEarly adopter feedback wanted #53\nCopy link\nCopy link\nOpen\nDescription\nThanks for trying Clippy Vision!\nIf you've installed and used it (even briefly), we'd love your honest feedback. It takes about 5 minutes and directly shapes what we build next.\nFeedback form: https://forms.gle/qxqmNBXzJsWGAAe29\nDownload: https://gi",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/protocorn/clippy-vision",
+      "categories": [
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "ce0cd3d3-011f-4edd-b800-a65225f4ff7e",
+      "name": "Eatheria",
+      "url": "https://github.com/MartinCrespoC/Security-Team---Workspace-",
+      "oneLiner": "Security Team by ConcordIA / TITAN is a revolutionary framework that orchestrates 7 specialized AI security teams.",
+      "description": "The first cybersecurity framework with 7 specialized AI agent teams working in parallel with isolated contexts\nFull Operation • Features • Teams • Installation • Usage • Reports\nSecurity Team by ConcordIA / TITAN is a revolutionary framework that orchestrates 7 specialized AI security teams. Each team operates with its own isolated context, but they can communicate and collaborate in real-time to ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/MartinCrespoC/Security-Team---Workspace-.git",
+      "categories": [
+        "data",
+        "security",
+        "code"
       ]
     }
   ]
