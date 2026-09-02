@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T11:13:58.686092+00:00",
-  "count": 26,
+  "generatedAt": "2026-09-02T10:47:25.716377+00:00",
+  "count": 25,
   "tools": [
     {
-      "id": "c27bd4e5-e93c-472e-861b-3ccddd82f439",
+      "id": "0f02e069-9a5d-44ae-8052-cc3c1b8f3baa",
       "name": "Wonder-Pill",
       "url": "https://github.com/ara-mkr/Wonder-Pill",
       "oneLiner": "A Claude skill that refuses to give you the answer.",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "id": "e77266e6-a36b-4623-9153-17ea3c6dbbea",
+      "id": "2e4e3474-ae61-40dd-99c0-c125b526097c",
       "name": "Agentic-GraphRAG-Blueprint",
       "url": "https://github.com/sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
       "oneLiner": "A reference architecture for an Agentic GraphRAG (Knowledge Graph + Vector Search) solution deployed on Microsoft Azure using Terraform (IaC), FastAPI, and React.",
@@ -31,13 +31,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
       "categories": [
-        "data",
         "agents",
+        "data",
         "rag"
       ]
     },
     {
-      "id": "fedd6951-9097-4d1a-8831-0e0f3cd6de51",
+      "id": "b141df5c-db71-4391-a671-badf44caaffd",
       "name": "tokentab",
       "url": "https://github.com/damejan80/tokentab",
       "oneLiner": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, an",
@@ -48,13 +48,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/damejan80/tokentab",
       "categories": [
-        "data",
         "code",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "6143d00a-b557-415b-8ef4-c2cb757d16dd",
+      "id": "e01cbb37-f7d7-4b79-bfe1-f9bf36b09618",
       "name": "Arlo-AI-Desktop",
       "url": "https://github.com/Autobricks-AI/Arlo-AI-Desktop",
       "oneLiner": "Customer service and sales, answered from what your company already knows, on your own machine.",
@@ -65,13 +65,30 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "data",
         "code",
+        "data",
         "rag"
       ]
     },
     {
-      "id": "24252a2c-9078-464d-8802-9fd8293b318b",
+      "id": "4644d853-727b-43a6-9c2b-319579e4970f",
+      "name": "gpu-rental-kit",
+      "url": "https://github.com/TysonTranThai/gpu-rental-kit",
+      "oneLiner": "Turn a rented NVIDIA GPU VM into a ready-to-use self-hosted LLM server.",
+      "description": "🇬🇧 English | 🇻🇳 Tiếng Việt | 🇨🇳 中文\nTurn a rented NVIDIA GPU VM into a ready-to-use self-hosted LLM server.\nImportant\nBETA — Windows client support is NOT yet tested on real Windows hardware. Validated statically only; runtime testing pending. macOS/Linux server workflows are stable (v1.3.0).\nThe simple idea: the rented GPU server runs the model. Your own computer—Mac, Windows PC, or Linux machine—",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/TysonTranThai/gpu-rental-kit.git",
+      "categories": [
+        "code",
+        "security",
+        "rag"
+      ]
+    },
+    {
+      "id": "d7c2961e-0b5b-48a7-a203-10dcabddaaa1",
       "name": "Nell",
       "url": "https://github.com/iabdulwasey/Nell",
       "oneLiner": "Open Source Instinct — a personal AI agent you text to get things done.",
@@ -82,13 +99,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "data",
+        "agents",
         "code",
-        "agents"
+        "data"
       ]
     },
     {
-      "id": "b52a80ea-3963-4af7-b579-16de499c31a0",
+      "id": "513f73f4-aa04-42e4-ad32-e6761af7593e",
       "name": "useagent",
       "url": "https://github.com/useagenthq/useagent",
       "oneLiner": "The open-source AI coworker for your team.",
@@ -99,13 +116,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "design",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "9e1e0735-2be2-4ba2-b22f-08b5927882cb",
+      "id": "9a2c053a-cfc7-41a8-8e65-b095fbedea62",
       "name": "my-free-code",
       "url": "https://github.com/hkqr/my-free-code",
       "oneLiner": "A multi-provider gateway for Claude Code and other coding agents.",
@@ -116,130 +133,98 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "search"
       ]
     },
     {
-      "id": "4b589ccf-b38d-4ecb-9dd2-33cfb26a24eb",
-      "name": "IntentRoute-AI",
-      "url": "https://github.com/Vincent-Xi08/IntentRoute-AI",
-      "oneLiner": "IntentRoute AI is an open-source Windows control plane that turns plain-language network intent into locally validated routing-rule drafts.",
-      "description": "English | 中文\nIntentRoute AI is an open-source Windows control plane that turns plain-language network intent into locally validated routing-rule drafts. It can use the OpenAI Responses API or an already-running local Ollama model, then hands accepted rules to the same deterministic sing-box TUN configuration pipeline used by the manual editor.\nProject status: v0.9.0 preview. IntentRoute AI is usef",
+      "id": "c1f888bb-9c30-4cee-ba37-9643cfa34006",
+      "name": "OS iOS Farm Automation",
+      "url": "https://gethandler.ai/ios-farm/",
+      "oneLiner": "iOS Farm is Handler's open-source phone farm: register physical iPhones, watch and control them live in the browser, and schedule TikTok automation on a durable Postgres-backed sch",
+      "description": "A farm of real iPhones.\nRun from your Mac.\niOS Farm is Handler's open-source phone farm: register physical iPhones, watch and control them live in the browser, and schedule TikTok automation on a durable Postgres-backed scheduler. Free, self-hosted, and nothing phones home.\nEvery phone, live in the browser\nOpen any device and you get its screen streaming live - click to tap, drag to swipe, with ha",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/Git-Agni/prod-FARM-IOS-Core.git",
       "categories": [
-        "security",
+        "productivity",
         "code",
-        "design"
+        "data"
       ]
     },
     {
-      "id": "f56cc411-3ca0-419a-b56f-be031ab53dde",
-      "name": "AI Can Make You Suck Faster Too",
-      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "oneLiner": "By Jordan Andersen onNot too long ago, I shared a post that I really liked by Disesdi Shoshana Cox.",
-      "description": "AI Can Make You Suck Faster Too\nBy Jordan Andersen onNot too long ago, I shared a post that I really liked by Disesdi Shoshana Cox. They went through the math of how many revolutionary tech companies we should have by now thanks to AI. With a 10x improvement on development speed, the technical aspects of launching an app are no longer a limit to reaching a target market. It seems like AI has final",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "data",
-        "code",
-        "writing"
-      ]
-    },
-    {
-      "id": "9c3d52c0-e89e-4405-b268-ae92570b14f7",
-      "name": "Unitpost/email",
-      "url": "https://www.unitpost.com/email",
-      "oneLiner": "Three steps from a blank project to inbox-safe HTML.",
-      "description": "Production-ready\nEmail Components and Layouts\nAdd to a project.\nTransactional and Marketing\nQuick start\nInstall, compose, render\nThree steps from a blank project to inbox-safe HTML. No account.\nClients\nWorks in Outlook, Gmail, Apple Mail and other\nTable layout, inline CSS. Same markup as the playground.\n- Outlook\n- Gmail\n- Apple Mail\n- Yahoo Mail\n- and other\nLibrary\nComponents, layouts, HTML you c",
-      "pricing": "paid",
+      "id": "fdd9336b-4a0a-44d0-b819-907c6919e3eb",
+      "name": "Image3d AI-One interface for multiple image to 3D models",
+      "url": "https://www.aiimageto3d.com/",
+      "oneLiner": "Transform any image into stunning 3D models on one platform.",
+      "description": "Transform any image into stunning 3D models on one platform. Choose from 4+ AI engines, preview instantly, and download production-ready assets.\nPreparing interactive 3D preview\nThe viewer loads automatically after the page loads.\nModel\nChoose the generation model for this image to 3D task\nDrag file here or click\nor click to select file (max 10MB)\nHint: Images with clear outlines and simple backgr",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "code",
-        "design"
+        "design",
+        "image"
       ]
     },
     {
-      "id": "49e81001-17ed-4f50-bad3-b77bed4d347a",
-      "name": "Rxlab market",
-      "url": "https://finance.bots.rxlab.app/",
-      "oneLiner": "Company names resolve to tickers before anything is quoted.",
-      "description": "Quotes and history\nCompany names resolve to tickers before anything is quoted. Real-time prices and historical ranges come from Polygon, stamped with the time they are as of.\nQuotes, prediction-market odds, filings and press — researched by an agent that reads its sources, shows the numbers as an interface, and leaves you a report you own.\nSample research turn\nIllustrativeHow are the odds on the M",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "search",
-        "research"
-      ]
-    },
-    {
-      "id": "7ab1cb98-947a-4d6d-aa8e-f160918cafb1",
-      "name": "ChooseCompute",
-      "url": "https://choosecompute.com/",
-      "oneLiner": "Start with your storage job or the specifications you already know.",
-      "description": "DS223 + 2 × 4TB\nST4000VN006 · SHR / RAID 1-style single-drive redundancy\nAmazon · checked Aug 30, 2026\nChoose what to buy. Choose where to buy.\nStart with your storage job or the specifications you already know. Every result connects exact hardware, capacity trade-offs, evidence, and checked US retailer prices.\nStart with the job. Compare three exact builds, their protected capacity, and the lowes",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "data",
-        "code"
-      ]
-    },
-    {
-      "id": "e7631cb4-0a59-4af5-a6fb-207dfb4ac5ca",
-      "name": "I built a real-time translator for Google Meet",
-      "url": "https://meelang.com/",
-      "oneLiner": "Words appear as they're spoken and are translated before the sentence ends — you never fall behind the room.",
-      "description": "Real-time subtitles\nSub-second latency. Words appear as they're spoken and are translated before the sentence ends — you never fall behind the room.\nShippedREAL-TIME AI TRANSLATOR · GOOGLE MEET · CHROME EXTENSION\nMeeLang is a Chrome extension that turns live Google Meet speech into instant AI-translated subtitles — in your language, before the speaker finishes the sentence.\nEN\nWorks where you meet",
-      "pricing": "paid",
+      "id": "cee5dc6d-de66-4759-a38c-b28525144cb6",
+      "name": "Photo manager that finds and organizes photos with private",
+      "url": "https://ringlochid.me/imagesage/index.html",
+      "oneLiner": "Find the image you remember.",
+      "description": "Find the image you remember.\nA private, local AI gallery built for Windows. Find any photo by what it shows or the words inside it, then let AI rename it.\nFree from Microsoft Store · Windows 10/11\nSearch naturally\nDescribe it. Finds it.\nOne search box can understand what a photo shows, read words with on-device OCR, or narrow the library by name and path.\nVisual meaning Text in images Name & path\n",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "design",
-        "voice",
-        "audio"
+        "image",
+        "search"
       ]
     },
     {
-      "id": "bb7a0bdc-36f3-4833-bb5b-c230e01b6676",
-      "name": "Verb Authority",
-      "url": "https://github.com/yairsabag/verb-authority",
-      "oneLiner": "Prevent untrusted data from authoring protected tool-call arguments.",
-      "description": "Prevent untrusted data from authoring protected tool-call arguments.\nConsider a tool exposed to an AI agent:\nsend_email(to: str, body: str)\nThe model may write body\n. The recipient to\nmust come from trusted\napplication code, such as an authenticated session or an application-owned\ndirectory. If a webpage, retrieved document, model response, or prior tool\nresult supplies a different recipient, the ",
-      "pricing": "free",
+      "id": "d828adba-85be-4ffa-b12e-46c005995c35",
+      "name": "IP/fal",
+      "url": "https://github.com/kiliczsh/ip-fal",
+      "oneLiner": "An open-source, geo-aware IP page powered by Cloudflare Workers and fal.",
+      "description": "An open-source, geo-aware IP page powered by Cloudflare Workers and fal.ai. Each visitor sees the public IP used for the current connection, Cloudflare's approximate location metadata, and an AI-generated view informed by local place, season, and time.\nProduction example: https://ip.adsparty.com\n- Cloudflare edge geolocation with no separate geolocation database\n- Location- and time-aware fal.ai i",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/yairsabag/verb-authority.git",
+      "githubUrl": null,
       "categories": [
-        "security",
         "code",
-        "design"
+        "security",
+        "data"
       ]
     },
     {
-      "id": "56c3c78c-1655-44a3-8cfe-ebbb092f0f09",
+      "id": "7462864b-3b58-45cd-896b-c64c6b4eacbb",
+      "name": "shim-mcp",
+      "url": "https://github.com/justadityaraj/shim-mcp",
+      "oneLiner": "A self-contained Model Context Protocol (MCP) server for WordPress, built for developers.",
+      "description": "A self-contained Model Context Protocol (MCP) server for WordPress, built for developers. Install one plugin and your WordPress site becomes an MCP server that Claude Code, Claude Desktop, Cursor, Windsurf, Cline, or any MCP-compatible AI client can drive — 56 abilities across posts, pages, media, users, plugins, menus, widgets, comments, options and system management.\nNo companion plugins. No clo",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/justadityaraj/shim-mcp.git",
+      "categories": [
+        "code",
+        "security",
+        "writing"
+      ]
+    },
+    {
+      "id": "75a2186c-c328-44af-883f-65968819f083",
       "name": "ai-life-skills-toolkit",
       "url": "https://github.com/sameh514/ai-life-skills-toolkit",
       "oneLiner": "Eight reusable “skills”: small instruction files that teach an AI assistant to handle an everyday task the same careful way each time.",
@@ -250,13 +235,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "security",
+        "agents",
         "code",
-        "agents"
+        "security"
       ]
     },
     {
-      "id": "815857c6-db23-42ef-823d-410cfa63339a",
+      "id": "c477ec86-3bd1-402a-a732-da5fe8109fe9",
       "name": "agent-loop-guard",
       "url": "https://github.com/OMD-123/agent-loop-guard",
       "oneLiner": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution.",
@@ -267,30 +252,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "design",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "fe543381-d08a-4219-9f78-f957aa377602",
+      "id": "17658068-6b97-4cb1-bb28-26d719b17ff6",
       "name": "memory-bridge",
       "url": "https://github.com/jiabaobei/memory-bridge",
       "oneLiner": "- Proactive Memory Agent（Meta，arXiv 2607.",
-      "description": "🌉 给 AI 一个跟着你走的记忆 —— 跨设备 × 跨平台的共享记忆层\nCDSMP（大模型跨设备语义记忆连续性架构）的官方工程实现。 English · 设计 RFC · 路线图 · 移动端接入 · 隐私威胁模型 · 版本历程\n早上通勤时你在手机上和 AI 讨论到一半的推理，回到办公室想在 PC 上继续—— 今天的做法是：翻聊天记录、复制粘贴、重新解释一遍背景。\n云全量同步很重也未必安全；RAG 是\"到了新设备再被动检索\"；主流记忆系统 （Mem0、MemGPT/Letta 等）本质上是单机的。记忆桥的答案是三个差异化主张：\n- 跨设备连续性：记忆跟着人走，而不是跟着 App 走。手机、PC、平板共享同一份语义记忆，通过增量差分同步。\n- 边缘预加载：在你打开新设备之前，高热度的记忆已经被推送到位——切换即连续，而不是切换后等待检索。\n- 内容冻结原则：记忆桥只提取语义关联、只调节结构参数",
+      "description": "🌉 给 AI 一个跟着你走的记忆 —— 跨设备 × 跨平台的共享记忆层\nCDSMP（大模型跨设备语义记忆连续性架构）的官方工程实现。 English · 设计 RFC · 容器一致性 RFC · 路线图 · 移动端接入 · 隐私威胁模型 · 版本历程\n早上通勤时你在手机上和 AI 讨论到一半的推理，回到办公室想在 PC 上继续—— 今天的做法是：翻聊天记录、复制粘贴、重新解释一遍背景。\n云全量同步很重也未必安全；RAG 是\"到了新设备再被动检索\"；主流记忆系统 （Mem0、MemGPT/Letta 等）本质上是单机的。记忆桥的答案是三个差异化主张：\n- 跨设备连续性：记忆跟着人走，而不是跟着 App 走。手机、PC、平板共享同一份语义记忆，通过增量差分同步。\n- 边缘预加载：在你打开新设备之前，高热度的记忆已经被推送到位——切换即连续，而不是切换后等待检索。\n- 内容冻结原则：记忆桥只提取",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
       "githubUrl": "https://github.com/jiabaobei/memory-bridge.git",
       "categories": [
+        "agents",
         "code",
-        "design",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "d099e0ff-67e1-45f2-89f3-042532cf03b2",
+      "id": "56ec7a72-9712-45cb-969a-ab7a97f8dd87",
       "name": "Agent",
       "url": "https://github.com/HowProgrammingWorks/Agent",
       "oneLiner": "small, modular coding-agent harness for Node.",
@@ -301,12 +286,12 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "agents"
+        "agents",
+        "code"
       ]
     },
     {
-      "id": "dc14f375-2cf3-412b-ae32-8aecbf1497ec",
+      "id": "10661a83-9d8d-42dd-83a2-c994146e1d9a",
       "name": "ocp-annual-report-rag",
       "url": "https://github.com/waddadelmehdi/ocp-annual-report-rag",
       "oneLiner": "A Retrieval-Augmented Generation (RAG) system that performs question answering over the OCP Group Annual Financial Report 2025.",
@@ -317,13 +302,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
         "design",
+        "data",
         "rag"
       ]
     },
     {
-      "id": "160540c9-6275-4e9a-bd7b-e9adb75a4c91",
+      "id": "e15af2a8-a556-405b-9137-c04ade7af8ad",
       "name": "SideAsk",
       "url": "https://github.com/horry0214/SideAsk",
       "oneLiner": "A browser-first AI explanation layer, with an optional Windows companion that brings the same flow anywhere.",
@@ -334,13 +319,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/horry0214/sideask.git",
       "categories": [
-        "data",
+        "code",
         "security",
-        "code"
+        "data"
       ]
     },
     {
-      "id": "d55ba760-0f22-4a06-ba38-f130404be848",
+      "id": "00d0e976-8028-480e-a131-ecfc00069b52",
       "name": "promptModel",
       "url": "https://github.com/arjun988/promptModel",
       "oneLiner": "Local-first prompt quality scoring and optimization.",
@@ -351,29 +336,12 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/arjun988/promptModel.git",
       "categories": [
-        "design",
-        "audio"
+        "audio",
+        "design"
       ]
     },
     {
-      "id": "e08e37d4-c6c7-4e90-b0b5-09d5f589b64f",
-      "name": "io",
-      "url": "https://github.com/rexadbapp/io",
-      "oneLiner": "A tiny, self-contained LLM coding agent.",
-      "description": "A tiny, self-contained LLM coding agent. One binary, 180+ providers, zero runtime dependencies.\nio\nis a single-file-distributed terminal agent that talks to any OpenAI-compatible LLM provider. It supports streaming chat, tool use (read/write/edit files, grep, glob, bash, web search/fetch), session persistence, and first-run interactive setup — all in a ~1 MB binary with no external libraries beyon",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/rexadbapp/io",
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "a337303d-5470-4856-a239-d8cc1f6d955a",
+      "id": "4e0e8413-f9c7-4307-bd88-89ad002ac74e",
       "name": "Closure",
       "url": "https://github.com/chillison/Closure",
       "oneLiner": "📌 这是 Closure — OrisonSpace（Apache-2.",
@@ -384,59 +352,72 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "design",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "198df94f-f2fb-42de-a588-43cc08bb57ee",
-      "name": "AI-powered link building and SEO outreach",
-      "url": "https://outreachlooper.com",
-      "oneLiner": "Outreach Looper is an AI-powered outreach platform for SEO teams, digital PR agencies, consultants, and growing brands.",
-      "description": "Outreach Looper\nOutreach Looper is an AI-powered outreach platform for SEO teams, digital PR agencies, consultants, and growing brands. Discover relevant websites and journalists, research the right contacts, manage human-reviewed email outreach, monitor earned backlinks, and measure results with Google Search Console and Google Analytics 4.\nWhat is Outreach Looper?\nOne workspace for ethical SEO o",
+      "id": "c8f07d6a-d1eb-465e-86cc-a44d6ef4f3cb",
+      "name": "1Dial",
+      "url": "https://www.1dial.ai/",
+      "oneLiner": "Describe what you need in your preferred language.",
+      "description": "Call or text\nDescribe what you need in your preferred language. No app, nothing new to learn.\nSay it once. 1Dial calls real businesses, asks what you'd have to ask, and texts back price, availability and times. Confirmed, not guessed.\nNo app. No sign-up. Any language. A human steps in when it matters.\nLive\nHow it works\nFrom a plain-language request to a booked job, without you sitting on hold.\nDes",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
-        "design",
-        "marketing"
+        "design"
       ]
     },
     {
-      "id": "24cc11df-a745-431e-8163-f204f0fa3cd5",
-      "name": "Clippy Vision",
-      "url": "https://github.com/protocorn/clippy-vision/issues/53",
-      "oneLiner": "Thanks for trying Clippy Vision!",
-      "description": "-\nNotifications\nYou must be signed in to change notification settings - Fork 11\nEarly adopter feedback wanted #53\nCopy link\nCopy link\nOpen\nDescription\nThanks for trying Clippy Vision!\nIf you've installed and used it (even briefly), we'd love your honest feedback. It takes about 5 minutes and directly shapes what we build next.\nFeedback form: https://forms.gle/qxqmNBXzJsWGAAe29\nDownload: https://gi",
+      "id": "52ee8d1d-e5fa-4fd6-ba5a-fb9ca922f35f",
+      "name": "Markdown Gatekeeper",
+      "url": "https://github.com/nanlogic/markdown-gatekeeper",
+      "oneLiner": "Markdown Gatekeeper is a local-first authority layer for projects where humans, Claude, Codex, and other agents create overlapping Markdown documents.",
+      "description": "Markdown Gatekeeper is a local-first authority layer for projects where humans, Claude, Codex, and other agents create overlapping Markdown documents.\nIt keeps ordinary Markdown and local Git. It adds one rule: a document does not become current authority merely because an agent calls it authoritative.\nThis repository is the first dogfood implementation. It intentionally has no cloud service and n",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/protocorn/clippy-vision",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "data",
+        "agents",
+        "code",
         "security"
       ]
     },
     {
-      "id": "ce0cd3d3-011f-4edd-b800-a65225f4ff7e",
-      "name": "Eatheria",
-      "url": "https://github.com/MartinCrespoC/Security-Team---Workspace-",
-      "oneLiner": "Security Team by ConcordIA / TITAN is a revolutionary framework that orchestrates 7 specialized AI security teams.",
-      "description": "The first cybersecurity framework with 7 specialized AI agent teams working in parallel with isolated contexts\nFull Operation • Features • Teams • Installation • Usage • Reports\nSecurity Team by ConcordIA / TITAN is a revolutionary framework that orchestrates 7 specialized AI security teams. Each team operates with its own isolated context, but they can communicate and collaborate in real-time to ",
+      "id": "c41852ec-4456-4cab-a2c0-2639bbb1282f",
+      "name": "Haserupt",
+      "url": "https://www.haserupt.com",
+      "oneLiner": "\"My weekly Instagram usage dropped from 51 hours to just 28 hours, without affecting my content posting workflow.",
+      "description": "Meet Hase,\nTrusted by folks at\n\"My weekly Instagram usage dropped from 51 hours to just 28 hours, without affecting my content posting workflow.\"\nDecide why you're opening an app and inform me. I'll grant you a time window.\nI will keep an eye on you while you complete the task at hand.\nAfter a session ends, the app enters a cooloff. It can't be reopened until the cooloff ends.\nWant to get back in ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/MartinCrespoC/Security-Team---Workspace-.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "data",
-        "security",
-        "code"
+        "audio",
+        "productivity"
+      ]
+    },
+    {
+      "id": "a89b75ca-5021-4c3f-a12b-777f1901d6cd",
+      "name": "Local AI Assistants can be user friendly too",
+      "url": "https://anjadhe.ai/blog/local-ai-assistants-can-be-user-friendly-too",
+      "oneLiner": "Most of the AI Agents or Assistants out there today that works locally in a mac are too technical.",
+      "description": "Most of the AI Agents or Assistants out there today that works locally in a mac are too technical. For someone technical, its not such a big deal to bring together multiple tools like an agent, a model, web search api, gmail integrations etc. But it does not have to be this complex to have an AI Agent running in your local machine.\nAnjadhe mac app simplifies this for you and gives you a simple but",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents"
       ]
     }
   ]
