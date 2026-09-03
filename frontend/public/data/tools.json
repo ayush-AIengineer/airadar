@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-02T10:47:25.716377+00:00",
-  "count": 25,
+  "generatedAt": "2026-09-03T10:47:46.413195+00:00",
+  "count": 17,
   "tools": [
     {
-      "id": "0f02e069-9a5d-44ae-8052-cc3c1b8f3baa",
+      "id": "c2eede92-03a3-4cb7-a838-8d77fea50e13",
       "name": "Wonder-Pill",
       "url": "https://github.com/ara-mkr/Wonder-Pill",
       "oneLiner": "A Claude skill that refuses to give you the answer.",
@@ -14,13 +14,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/ara-mkr/Wonder-Pill.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "research"
       ]
     },
     {
-      "id": "2e4e3474-ae61-40dd-99c0-c125b526097c",
+      "id": "cf5e3103-075d-47d1-afe1-45a920ca355f",
+      "name": "Needle",
+      "url": "https://github.com/AbuZar-Ansarii/Needle",
+      "oneLiner": "An ultra-lightweight, local agentic assistant for Android/Termux that controls phone hardware and parses queries in plain English.",
+      "description": "An ultra-lightweight, local agentic assistant for Android/Termux that controls phone hardware and parses queries in plain English. Powered by Cactus Compute's Needle (14MB) local LLM.\n- Interactive Chat Web UI: Sleek glassmorphic dashboard built using Flask for testing commands and monitoring live logs.\n- Remote Telegram Bot Control: Start a background Telegram listener that lets you text your pho",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/AbuZar-Ansarii/Needle.git",
+      "categories": [
+        "code",
+        "agents",
+        "image"
+      ]
+    },
+    {
+      "id": "e2941cf2-ffdc-4434-b245-3add12638a86",
       "name": "Agentic-GraphRAG-Blueprint",
       "url": "https://github.com/sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
       "oneLiner": "A reference architecture for an Agentic GraphRAG (Knowledge Graph + Vector Search) solution deployed on Microsoft Azure using Terraform (IaC), FastAPI, and React.",
@@ -37,58 +54,7 @@
       ]
     },
     {
-      "id": "b141df5c-db71-4391-a671-badf44caaffd",
-      "name": "tokentab",
-      "url": "https://github.com/damejan80/tokentab",
-      "oneLiner": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, an",
-      "description": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, and by the kind of work each session was doing. It runs entirely locally: no account, no API key, nothing leaves your machine.\nClone the repo and install it into your environment:\ngit clone https://github.com/damejan80/tok",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/damejan80/tokentab",
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "e01cbb37-f7d7-4b79-bfe1-f9bf36b09618",
-      "name": "Arlo-AI-Desktop",
-      "url": "https://github.com/Autobricks-AI/Arlo-AI-Desktop",
-      "oneLiner": "Customer service and sales, answered from what your company already knows, on your own machine.",
-      "description": "Customer service and sales, answered from what your company already knows, on your own machine.\nPoint Arlo at your documents and your website. It answers customers on whatever channel they turned up on, cites the passage each answer came from, and hands the conversation to a person the moment it should. Everything it reads and everything it says is stored in a Postgres container on your hardware: ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "rag"
-      ]
-    },
-    {
-      "id": "4644d853-727b-43a6-9c2b-319579e4970f",
-      "name": "gpu-rental-kit",
-      "url": "https://github.com/TysonTranThai/gpu-rental-kit",
-      "oneLiner": "Turn a rented NVIDIA GPU VM into a ready-to-use self-hosted LLM server.",
-      "description": "🇬🇧 English | 🇻🇳 Tiếng Việt | 🇨🇳 中文\nTurn a rented NVIDIA GPU VM into a ready-to-use self-hosted LLM server.\nImportant\nBETA — Windows client support is NOT yet tested on real Windows hardware. Validated statically only; runtime testing pending. macOS/Linux server workflows are stable (v1.3.0).\nThe simple idea: the rented GPU server runs the model. Your own computer—Mac, Windows PC, or Linux machine—",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TysonTranThai/gpu-rental-kit.git",
-      "categories": [
-        "code",
-        "security",
-        "rag"
-      ]
-    },
-    {
-      "id": "d7c2961e-0b5b-48a7-a203-10dcabddaaa1",
+      "id": "8d3fdaae-cb7f-4ba2-9fcc-412c01111c03",
       "name": "Nell",
       "url": "https://github.com/iabdulwasey/Nell",
       "oneLiner": "Open Source Instinct — a personal AI agent you text to get things done.",
@@ -99,13 +65,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "513f73f4-aa04-42e4-ad32-e6761af7593e",
+      "id": "e114fba8-a6c7-40a9-9a66-522ef9064579",
       "name": "useagent",
       "url": "https://github.com/useagenthq/useagent",
       "oneLiner": "The open-source AI coworker for your team.",
@@ -116,98 +82,81 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "design",
         "code",
-        "design"
+        "agents"
       ]
     },
     {
-      "id": "9a2c053a-cfc7-41a8-8e65-b095fbedea62",
-      "name": "my-free-code",
-      "url": "https://github.com/hkqr/my-free-code",
-      "oneLiner": "A multi-provider gateway for Claude Code and other coding agents.",
-      "description": "A multi-provider gateway for Claude Code and other coding agents.\nIt is an independent implementation. It is not affiliated with Anthropic.\n- Anthropic Messages:\n/v1/messages\n- Anthropic token counting:\n/v1/messages/count_tokens\n- OpenAI Responses-compatible:\n/v1/responses\n- model discovery:\n/v1/models\n- health:\n/health\n- local Admin UI:\n/admin\n- authenticated Admin API:\n/api/admin/*\n- streaming S",
+      "id": "51474608-5651-4ff4-b9aa-1beceedc3c02",
+      "name": "Marvin",
+      "url": "https://github.com/RobertIlisei/MARVIN",
+      "oneLiner": "Moderately Advanced Robotic Virtual Intelligence Network.",
+      "description": "Moderately Advanced Robotic Virtual Intelligence Network.\nA pair-programming AI assistant. You drive vision and business decisions. MARVIN drives architecture, infrastructure, code, tests, docs, and security.\nYou say \"let's build the login page\" — MARVIN dives in: reads the codebase, proposes the schema + wiring + tests, executes with explicit confirms, commits.\n\"Here I am, brain the size of a pla",
       "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "search"
-      ]
-    },
-    {
-      "id": "c1f888bb-9c30-4cee-ba37-9643cfa34006",
-      "name": "OS iOS Farm Automation",
-      "url": "https://gethandler.ai/ios-farm/",
-      "oneLiner": "iOS Farm is Handler's open-source phone farm: register physical iPhones, watch and control them live in the browser, and schedule TikTok automation on a durable Postgres-backed sch",
-      "description": "A farm of real iPhones.\nRun from your Mac.\niOS Farm is Handler's open-source phone farm: register physical iPhones, watch and control them live in the browser, and schedule TikTok automation on a durable Postgres-backed scheduler. Free, self-hosted, and nothing phones home.\nEvery phone, live in the browser\nOpen any device and you get its screen streaming live - click to tap, drag to swipe, with ha",
-      "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Git-Agni/prod-FARM-IOS-Core.git",
+      "githubUrl": "https://github.com/RobertIlisei/MARVIN.git",
       "categories": [
-        "productivity",
         "code",
-        "data"
+        "agents",
+        "productivity"
       ]
     },
     {
-      "id": "fdd9336b-4a0a-44d0-b819-907c6919e3eb",
-      "name": "Image3d AI-One interface for multiple image to 3D models",
-      "url": "https://www.aiimageto3d.com/",
-      "oneLiner": "Transform any image into stunning 3D models on one platform.",
-      "description": "Transform any image into stunning 3D models on one platform. Choose from 4+ AI engines, preview instantly, and download production-ready assets.\nPreparing interactive 3D preview\nThe viewer loads automatically after the page loads.\nModel\nChoose the generation model for this image to 3D task\nDrag file here or click\nor click to select file (max 10MB)\nHint: Images with clear outlines and simple backgr",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "image"
-      ]
-    },
-    {
-      "id": "cee5dc6d-de66-4759-a38c-b28525144cb6",
-      "name": "Photo manager that finds and organizes photos with private",
-      "url": "https://ringlochid.me/imagesage/index.html",
-      "oneLiner": "Find the image you remember.",
-      "description": "Find the image you remember.\nA private, local AI gallery built for Windows. Find any photo by what it shows or the words inside it, then let AI rename it.\nFree from Microsoft Store · Windows 10/11\nSearch naturally\nDescribe it. Finds it.\nOne search box can understand what a photo shows, read words with on-device OCR, or narrow the library by name and path.\nVisual meaning Text in images Name & path\n",
-      "pricing": "free",
+      "id": "8039a879-4f9a-41e8-a82c-74998fa2b957",
+      "name": "Radio Bench cross platform unified amateur radio workspace",
+      "url": "https://radiobench.com",
+      "oneLiner": "The band, rendered in real time.",
+      "description": "Native SDR workspace · Public beta\nThe band, rendered in real time.\nRadio Bench brings spectrum, waterfall, rig control, logging, and noise reduction into one native desktop app for HF operators. Use it with the transceiver and SDR you already own.\n* Screenshot from a pre-release version.\nFeatures\nOne app for the whole station.\nSpectrum & waterfall\nA GPU-accelerated waterfall paired with a real-ti",
+      "pricing": "free_trial",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "design",
-        "image",
-        "search"
+        "code",
+        "voice"
       ]
     },
     {
-      "id": "d828adba-85be-4ffa-b12e-46c005995c35",
-      "name": "IP/fal",
-      "url": "https://github.com/kiliczsh/ip-fal",
-      "oneLiner": "An open-source, geo-aware IP page powered by Cloudflare Workers and fal.",
-      "description": "An open-source, geo-aware IP page powered by Cloudflare Workers and fal.ai. Each visitor sees the public IP used for the current connection, Cloudflare's approximate location metadata, and an AI-generated view informed by local place, season, and time.\nProduction example: https://ip.adsparty.com\n- Cloudflare edge geolocation with no separate geolocation database\n- Location- and time-aware fal.ai i",
-      "pricing": "open_source",
+      "id": "85383a8d-0c46-4c6d-8101-234e14a5a5d2",
+      "name": "subpool",
+      "url": "https://github.com/gesta-run/subpool",
+      "oneLiner": "Enterprise AI subscription quota allocation and governance, self-hosted.",
+      "description": "Enterprise AI subscription quota allocation and governance, self-hosted.\nSubpool is a self-hosted control plane for allocating, governing, and auditing AI subscription capacity across teams. Administrators combine authorized subscription and API accounts into pools, distribute employee-specific keys, monitor remaining quota, and expose one consistent API without storing conversation content.\n- Poo",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
-      "isOpenSource": true,
+      "quality": 10,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "design",
         "code",
-        "security",
-        "data"
+        "security"
       ]
     },
     {
-      "id": "7462864b-3b58-45cd-896b-c64c6b4eacbb",
+      "id": "072df275-4231-4ac7-85d8-0de161782d87",
+      "name": "embedder",
+      "url": "https://github.com/dzenplatform/embedder",
+      "oneLiner": "Standalone single-process embedding service for Dzen Chat.",
+      "description": "Standalone single-process embedding service for Dzen Chat. It loads one\nSentenceTransformer model and exposes an OpenAI-compatible\nPOST /v1/embeddings\nendpoint. Realtime requests have strict priority over\nbatch requests.\nLearn more: Local Dzen Embedding for RAG.\nCopy this prompt and give it to your coding agent:\nRead and follow the deployment instructions at:\nhttps://raw.githubusercontent.com/dzen",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "rag"
+      ]
+    },
+    {
+      "id": "9c007f52-5fb7-49cd-81ce-fe8d6f53f14c",
       "name": "shim-mcp",
       "url": "https://github.com/justadityaraj/shim-mcp",
       "oneLiner": "A self-contained Model Context Protocol (MCP) server for WordPress, built for developers.",
@@ -219,12 +168,12 @@
       "githubUrl": "https://github.com/justadityaraj/shim-mcp.git",
       "categories": [
         "code",
-        "security",
-        "writing"
+        "writing",
+        "security"
       ]
     },
     {
-      "id": "75a2186c-c328-44af-883f-65968819f083",
+      "id": "98f020ee-4fd0-4f89-8c91-eca37e5038ed",
       "name": "ai-life-skills-toolkit",
       "url": "https://github.com/sameh514/ai-life-skills-toolkit",
       "oneLiner": "Eight reusable “skills”: small instruction files that teach an AI assistant to handle an everyday task the same careful way each time.",
@@ -235,13 +184,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "security"
       ]
     },
     {
-      "id": "c477ec86-3bd1-402a-a732-da5fe8109fe9",
+      "id": "635363ac-afb9-49ac-be82-5a752031577b",
       "name": "agent-loop-guard",
       "url": "https://github.com/OMD-123/agent-loop-guard",
       "oneLiner": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution.",
@@ -252,13 +201,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "design",
         "code",
-        "design"
+        "agents"
       ]
     },
     {
-      "id": "17658068-6b97-4cb1-bb28-26d719b17ff6",
+      "id": "d4dfa570-bd4a-4511-9d1d-58df7d4ed5f0",
       "name": "memory-bridge",
       "url": "https://github.com/jiabaobei/memory-bridge",
       "oneLiner": "- Proactive Memory Agent（Meta，arXiv 2607.",
@@ -269,13 +218,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/jiabaobei/memory-bridge.git",
       "categories": [
-        "agents",
+        "design",
         "code",
-        "design"
+        "agents"
       ]
     },
     {
-      "id": "56ec7a72-9712-45cb-969a-ab7a97f8dd87",
+      "id": "969269ef-742b-456a-b8cb-12ce213ceeed",
       "name": "Agent",
       "url": "https://github.com/HowProgrammingWorks/Agent",
       "oneLiner": "small, modular coding-agent harness for Node.",
@@ -286,62 +235,12 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "10661a83-9d8d-42dd-83a2-c994146e1d9a",
-      "name": "ocp-annual-report-rag",
-      "url": "https://github.com/waddadelmehdi/ocp-annual-report-rag",
-      "oneLiner": "A Retrieval-Augmented Generation (RAG) system that performs question answering over the OCP Group Annual Financial Report 2025.",
-      "description": "A Retrieval-Augmented Generation (RAG) system that performs question answering over the OCP Group Annual Financial Report 2025. The pipeline combines LangChain, Chroma, the multilingual embedding model BAAI/bge-m3, and the local LLM Qwen3 8B served by Ollama.\nAll components run locally and offline: no data leaves the machine and no API keys are required.\nThe notebook rag-system.ipynb\nimplements th",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "data",
-        "rag"
-      ]
-    },
-    {
-      "id": "e15af2a8-a556-405b-9137-c04ade7af8ad",
-      "name": "SideAsk",
-      "url": "https://github.com/horry0214/SideAsk",
-      "oneLiner": "A browser-first AI explanation layer, with an optional Windows companion that brings the same flow anywhere.",
-      "description": "Select on the web. Ask in place. Stay on track.\nA browser-first AI explanation layer, with an optional Windows companion that brings the same flow anywhere.\nDownload the browser extension · Get SideAsk Anywhere for Windows\nSelect → explain with nearby context → follow up → return to the source\nYou are reading documentation, a paper, GitHub, or a long AI answer. One phrase is unclear. Opening anoth",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/horry0214/sideask.git",
-      "categories": [
         "code",
-        "security",
-        "data"
+        "agents"
       ]
     },
     {
-      "id": "00d0e976-8028-480e-a131-ecfc00069b52",
-      "name": "promptModel",
-      "url": "https://github.com/arjun988/promptModel",
-      "oneLiner": "Local-first prompt quality scoring and optimization.",
-      "description": "Local-first prompt quality scoring and optimization.\nPublished on PyPI as tuneprompt\n.\nPromptForge scores LLM prompts across seven quality dimensions, then rewrites weak prompts into clear, intent-preserving instructions — runnable on your machine via Python API, CLI, or Gradio.\n\"Make an app about social media like facebook\"\n│\n▼\n┌─────────────────────┐\n│ Quality Scorer │ ModernBERT · ~150M\n│ 41.5 ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/arjun988/promptModel.git",
-      "categories": [
-        "audio",
-        "design"
-      ]
-    },
-    {
-      "id": "4e0e8413-f9c7-4307-bd88-89ad002ac74e",
+      "id": "04db5c2a-0615-42a7-ba8a-b821aae36632",
       "name": "Closure",
       "url": "https://github.com/chillison/Closure",
       "oneLiner": "📌 这是 Closure — OrisonSpace（Apache-2.",
@@ -352,71 +251,42 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "design",
         "code",
-        "design"
+        "agents"
       ]
     },
     {
-      "id": "c8f07d6a-d1eb-465e-86cc-a44d6ef4f3cb",
-      "name": "1Dial",
-      "url": "https://www.1dial.ai/",
-      "oneLiner": "Describe what you need in your preferred language.",
-      "description": "Call or text\nDescribe what you need in your preferred language. No app, nothing new to learn.\nSay it once. 1Dial calls real businesses, asks what you'd have to ask, and texts back price, availability and times. Confirmed, not guessed.\nNo app. No sign-up. Any language. A human steps in when it matters.\nLive\nHow it works\nFrom a plain-language request to a booked job, without you sitting on hold.\nDes",
+      "id": "7f7a19e3-a8ca-44ba-baba-38be86e6dc8a",
+      "name": "Concorde",
+      "url": "https://github.com/shutter-network/concorde",
+      "oneLiner": "A framework to build shared agents.",
+      "description": "A framework to build shared agents.\nExpect breaking changes. This is\n0.1.0\nand the public API is not settled. Subpaths get renamed, components get split, and a minor version bump can require edits in your entry point.\nA shared agent is an AI agent that serves several parties at once. No single party owns it, and no party can reach it privately. The idea is set out in full in On Shared Agents.\nTwo ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design"
-      ]
-    },
-    {
-      "id": "52ee8d1d-e5fa-4fd6-ba5a-fb9ca922f35f",
-      "name": "Markdown Gatekeeper",
-      "url": "https://github.com/nanlogic/markdown-gatekeeper",
-      "oneLiner": "Markdown Gatekeeper is a local-first authority layer for projects where humans, Claude, Codex, and other agents create overlapping Markdown documents.",
-      "description": "Markdown Gatekeeper is a local-first authority layer for projects where humans, Claude, Codex, and other agents create overlapping Markdown documents.\nIt keeps ordinary Markdown and local Git. It adds one rule: a document does not become current authority merely because an agent calls it authoritative.\nThis repository is the first dogfood implementation. It intentionally has no cloud service and n",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
         "code",
-        "security"
+        "agents",
+        "data"
       ]
     },
     {
-      "id": "c41852ec-4456-4cab-a2c0-2639bbb1282f",
-      "name": "Haserupt",
-      "url": "https://www.haserupt.com",
-      "oneLiner": "\"My weekly Instagram usage dropped from 51 hours to just 28 hours, without affecting my content posting workflow.",
-      "description": "Meet Hase,\nTrusted by folks at\n\"My weekly Instagram usage dropped from 51 hours to just 28 hours, without affecting my content posting workflow.\"\nDecide why you're opening an app and inform me. I'll grant you a time window.\nI will keep an eye on you while you complete the task at hand.\nAfter a session ends, the app enters a cooloff. It can't be reopened until the cooloff ends.\nWant to get back in ",
+      "id": "d7f08573-250a-4411-85a7-6402a0816c22",
+      "name": "Profound Academy",
+      "url": "https://profound.academy",
+      "oneLiner": "Describe what you want to teach.",
+      "description": "Build something Profound\nTurn a course idea into hands-on lessons, coding labs, and exams with autograders — ready to review, publish, and teach\n10,000+\nLearners taught\n100+\nTeachers supported\n80%\nLess admin work\nSee the complete workflow\nFrom idea to a complete course\nDescribe what you want to teach. Profound turns it into an editable course with lessons, coding labs, projects, exams, autograders",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "audio",
-        "productivity"
-      ]
-    },
-    {
-      "id": "a89b75ca-5021-4c3f-a12b-777f1901d6cd",
-      "name": "Local AI Assistants can be user friendly too",
-      "url": "https://anjadhe.ai/blog/local-ai-assistants-can-be-user-friendly-too",
-      "oneLiner": "Most of the AI Agents or Assistants out there today that works locally in a mac are too technical.",
-      "description": "Most of the AI Agents or Assistants out there today that works locally in a mac are too technical. For someone technical, its not such a big deal to bring together multiple tools like an agent, a model, web search api, gmail integrations etc. But it does not have to be this complex to have an AI Agent running in your local machine.\nAnjadhe mac app simplifies this for you and gives you a simple but",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
+        "design",
+        "code",
         "agents"
       ]
     }
