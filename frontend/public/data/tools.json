@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-09-03T10:47:46.413195+00:00",
-  "count": 17,
+  "generatedAt": "2026-09-04T10:46:27.106655+00:00",
+  "count": 18,
   "tools": [
     {
-      "id": "c2eede92-03a3-4cb7-a838-8d77fea50e13",
+      "id": "f67d4423-016a-4ece-b07a-a78407498bc6",
+      "name": "UFO-Cathedral-v6.4-FailSafe-Free-AI",
+      "url": "https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
+      "oneLiner": "Microsoft UFO Fork: https://github.",
+      "description": "100% Free, Offline, 8GB RAM Computer-Artificial Intelligence + Formal Safety (Gate + Ledger + Council + Shadow Mode) — Free alternative to $200/mo OpenAI Operator / Perplexity Computer / ClawBot / Claude Computer\nRepo: https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI\nMicrosoft UFO Fork: https://github.com/JoseAngelSolorzanoLuna/UFO\nAi can see 👁️👅👁️ ( your computer scre",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
+      "categories": [
+        "code",
+        "design",
+        "image"
+      ]
+    },
+    {
+      "id": "5b3fcf8d-4b26-4f79-aa3c-919921eddedc",
       "name": "Wonder-Pill",
       "url": "https://github.com/ara-mkr/Wonder-Pill",
       "oneLiner": "A Claude skill that refuses to give you the answer.",
@@ -14,13 +31,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/ara-mkr/Wonder-Pill.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "research"
       ]
     },
     {
-      "id": "cf5e3103-075d-47d1-afe1-45a920ca355f",
+      "id": "3f9b9fd2-e99e-44d7-9df1-6011b922c1f7",
+      "name": "reverify",
+      "url": "https://github.com/2akouwu/reverify",
+      "oneLiner": "Anti-hallucination for AI agents that read binaries: every claim is checked against the real bytes.",
+      "description": "The AI proposes. The bytes decide.\nAnti-hallucination for AI agents that read binaries: every claim is checked against the real bytes.\nAsk an AI to reverse-engineer a file and it will make things up — offsets, structs, what the code does — and say it like it's fact. Reverify checks it against the one thing that can't lie, the bytes. Every claim is tested against the real binary; only what's true s",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "e39d6d52-f7f3-420d-9a2b-949a20f86d96",
       "name": "Needle",
       "url": "https://github.com/AbuZar-Ansarii/Needle",
       "oneLiner": "An ultra-lightweight, local agentic assistant for Android/Termux that controls phone hardware and parses queries in plain English.",
@@ -37,41 +71,7 @@
       ]
     },
     {
-      "id": "e2941cf2-ffdc-4434-b245-3add12638a86",
-      "name": "Agentic-GraphRAG-Blueprint",
-      "url": "https://github.com/sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
-      "oneLiner": "A reference architecture for an Agentic GraphRAG (Knowledge Graph + Vector Search) solution deployed on Microsoft Azure using Terraform (IaC), FastAPI, and React.",
-      "description": "English · 中文 · Polski · Español · 日本語 · 한국어 · Русский · Français · Deutsch\nA reference architecture for an Agentic GraphRAG (Knowledge Graph + Vector Search) solution deployed on Microsoft Azure using Terraform (IaC), FastAPI, and React.\nThis repository is a ready-made starting point for building systems that answer questions over large, unstructured document collections. Unlike plain retrieval, w",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/sebastianbrzustowicz/Agentic-GraphRAG-Blueprint",
-      "categories": [
-        "agents",
-        "data",
-        "rag"
-      ]
-    },
-    {
-      "id": "8d3fdaae-cb7f-4ba2-9fcc-412c01111c03",
-      "name": "Nell",
-      "url": "https://github.com/iabdulwasey/Nell",
-      "oneLiner": "Open Source Instinct — a personal AI agent you text to get things done.",
-      "description": "Open Source Instinct — a personal AI agent you text to get things done.\nBook the table. Buy the tickets. Cancel the subscription. Watch for the drop. Nell works across your messages, your browser, and your accounts — and asks before it does anything it can't take back.\nSource-available · self-hostable · your keys, your data · it asks first.\nText Nell like you'd text a sharp, reliable friend who ge",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "e114fba8-a6c7-40a9-9a66-522ef9064579",
+      "id": "20fcef7c-07fe-4183-8ba2-cd3c27209a22",
       "name": "useagent",
       "url": "https://github.com/useagenthq/useagent",
       "oneLiner": "The open-source AI coworker for your team.",
@@ -82,47 +82,98 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "agents"
       ]
     },
     {
-      "id": "51474608-5651-4ff4-b9aa-1beceedc3c02",
-      "name": "Marvin",
-      "url": "https://github.com/RobertIlisei/MARVIN",
-      "oneLiner": "Moderately Advanced Robotic Virtual Intelligence Network.",
-      "description": "Moderately Advanced Robotic Virtual Intelligence Network.\nA pair-programming AI assistant. You drive vision and business decisions. MARVIN drives architecture, infrastructure, code, tests, docs, and security.\nYou say \"let's build the login page\" — MARVIN dives in: reads the codebase, proposes the schema + wiring + tests, executes with explicit confirms, commits.\n\"Here I am, brain the size of a pla",
+      "id": "2774dab0-e0f3-49f1-885b-41b64d11b8ae",
+      "name": "viaSocket",
+      "url": "https://viasocket.com",
+      "oneLiner": "Connect Gmail, Instagram, Google Sheets, WhatsApp, Slack, Shopify, and 2,300+ other apps.",
+      "description": "Connect Gmail, Instagram, Google Sheets, WhatsApp, Slack, Shopify, and 2,300+ other apps. Just tell AI what you want to automate — no coding required.\nBrowse templates for Finance, Marketing, Support, HR and more. One click to deploy.\nALSO WORKS WITH\nAutomations that don't just run, but decide and remember\nStore, organize and manage data inside your automations. Keep your data updated and accessib",
       "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/RobertIlisei/MARVIN.git",
-      "categories": [
-        "code",
-        "agents",
-        "productivity"
-      ]
-    },
-    {
-      "id": "8039a879-4f9a-41e8-a82c-74998fa2b957",
-      "name": "Radio Bench cross platform unified amateur radio workspace",
-      "url": "https://radiobench.com",
-      "oneLiner": "The band, rendered in real time.",
-      "description": "Native SDR workspace · Public beta\nThe band, rendered in real time.\nRadio Bench brings spectrum, waterfall, rig control, logging, and noise reduction into one native desktop app for HF operators. Use it with the transceiver and SDR you already own.\n* Screenshot from a pre-release version.\nFeatures\nOne app for the whole station.\nSpectrum & waterfall\nA GPU-accelerated waterfall paired with a real-ti",
-      "pricing": "free_trial",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
-        "voice"
+        "design",
+        "productivity"
       ]
     },
     {
-      "id": "85383a8d-0c46-4c6d-8101-234e14a5a5d2",
+      "id": "d00c7477-7838-45ad-8281-0bef105af8ed",
+      "name": "TERMy",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "oneLiner": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network).",
+      "description": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in silicon by the ETH Zurich university thanks to the research of Pius Sieber.\nI had a chance to focus for 2 months on my personal projects since early July, during the strange times of AI price hikes a",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "rag"
+      ]
+    },
+    {
+      "id": "6d3702b5-6480-4b16-9752-da1674fa19e3",
+      "name": "Videm",
+      "url": "https://videm.ai/",
+      "oneLiner": "Describe a product, surface, and lighting setup to explore a visual angle before investing in a studio shoot.",
+      "description": "Ecommerce product concept\nDescribe a product, surface, and lighting setup to explore a visual angle before investing in a studio shoot. The output is a concept image for internal review, not a final product photo.\nFREE AI IMAGE GENERATOR\nCreate AI images online from a text prompt. Explore ecommerce product scenes, social ad concepts, brand visuals, and more. No login is required for guest use, and",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "image"
+      ]
+    },
+    {
+      "id": "221955c8-4d75-4075-b04b-487336ab5981",
+      "name": "Jetway",
+      "url": "https://github.com/adamf/jetway",
+      "oneLiner": "An open-source messaging gateway for airline and GDS reservation traffic.",
+      "description": "An open-source messaging gateway for airline and GDS reservation traffic.\nJetway terminates carrier links, decodes what arrives on them, keeps passenger name records, and answers. It speaks the two wire formats interline reservation traffic actually uses:\n- Type B / AIRIMP — the teletype format carried by the SITA and ARINC store-and-forward networks.\n- UN/EDIFACT / PADIS — ISO 9735 interchanges c",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data",
+        "writing"
+      ]
+    },
+    {
+      "id": "86ab00b1-1faf-4938-b423-37cf7d6f59ff",
+      "name": "remote-installer",
+      "url": "https://github.com/icodesign/remote-installer",
+      "oneLiner": "Perfect for AI Agents and vibe coding remotely.",
+      "description": "Install signed iOS and Android builds on real devices over the internet\nPerfect for AI Agents and vibe coding remotely.\nNo TestFlight or Google Play Beta. No hosted storage. No waiting for processing.\nRemote Desktop → Link / QR code → Phone Install\nremote-installer share ./MyAwesome.ipa\nRemote Installer validates the build, opens a temporary HTTPS link, and prints a QR code. Scan it with the phone",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "d0798311-493f-455b-9ba6-ca40cc4c920b",
       "name": "subpool",
       "url": "https://github.com/gesta-run/subpool",
       "oneLiner": "Enterprise AI subscription quota allocation and governance, self-hosted.",
@@ -133,13 +184,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "image",
         "security"
       ]
     },
     {
-      "id": "072df275-4231-4ac7-85d8-0de161782d87",
+      "id": "e2df3121-0b1f-438b-940f-d5a45b6c7f42",
       "name": "embedder",
       "url": "https://github.com/dzenplatform/embedder",
       "oneLiner": "Standalone single-process embedding service for Dzen Chat.",
@@ -150,13 +201,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "rag"
       ]
     },
     {
-      "id": "9c007f52-5fb7-49cd-81ce-fe8d6f53f14c",
+      "id": "66cfb88c-1093-4192-8f81-5f0b5ce6c9b2",
       "name": "shim-mcp",
       "url": "https://github.com/justadityaraj/shim-mcp",
       "oneLiner": "A self-contained Model Context Protocol (MCP) server for WordPress, built for developers.",
@@ -173,7 +224,7 @@
       ]
     },
     {
-      "id": "98f020ee-4fd0-4f89-8c91-eca37e5038ed",
+      "id": "8a6e9f1c-b271-4ad5-a1ac-01cb2201a1f9",
       "name": "ai-life-skills-toolkit",
       "url": "https://github.com/sameh514/ai-life-skills-toolkit",
       "oneLiner": "Eight reusable “skills”: small instruction files that teach an AI assistant to handle an everyday task the same careful way each time.",
@@ -190,7 +241,24 @@
       ]
     },
     {
-      "id": "635363ac-afb9-49ac-be82-5a752031577b",
+      "id": "47963ac8-da2a-4c0a-bc3f-8721b0ceb460",
+      "name": "opencontext",
+      "url": "https://github.com/slxca/opencontext",
+      "oneLiner": "Persistent, project-local memory for AI coding agents.",
+      "description": "Persistent, project-local memory for AI coding agents.\nMost coding agents lose critical decisions between sessions: architecture invariants, API contracts, rejected patterns, and setup quirks. OpenContext solves context loss through a lightweight Model Context Protocol (MCP) server that lets agents read and mutate durable markdown files inside .opencontext/\n.\nNo vector databases, no cloud subscrip",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/slxca/opencontext.git",
+      "categories": [
+        "code",
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "d46dd6e3-459a-4a00-bbb1-056bbccef356",
       "name": "agent-loop-guard",
       "url": "https://github.com/OMD-123/agent-loop-guard",
       "oneLiner": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution.",
@@ -201,13 +269,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "agents"
       ]
     },
     {
-      "id": "d4dfa570-bd4a-4511-9d1d-58df7d4ed5f0",
+      "id": "283cfaf5-7aa8-4c60-829c-98bb980b92e8",
       "name": "memory-bridge",
       "url": "https://github.com/jiabaobei/memory-bridge",
       "oneLiner": "- Proactive Memory Agent（Meta，arXiv 2607.",
@@ -218,75 +286,25 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/jiabaobei/memory-bridge.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "agents"
       ]
     },
     {
-      "id": "969269ef-742b-456a-b8cb-12ce213ceeed",
-      "name": "Agent",
-      "url": "https://github.com/HowProgrammingWorks/Agent",
-      "oneLiner": "small, modular coding-agent harness for Node.",
-      "description": "small, modular coding-agent harness for Node.js. It demonstrates the core loop behind agentic coding tools without hiding the mechanism behind a framework\nNode.js 20+ and an API key for any OpenAI-compatible Chat Completions provider.\nnpm install\nnpm start\nFirst run copies agent/config.template.js\nto config.js\n. Fill in API_KEY\n, BASE_URL\n, and MODEL\n. Open another directory with npm start -- /my-",
+      "id": "c54e3d01-3944-49bf-992a-e28604eddece",
+      "name": "Aurict",
+      "url": "https://github.com/aurict/aurict",
+      "oneLiner": "A terminal-native AI coding assistant built for the way developers actually work.",
+      "description": "A terminal-native AI coding assistant built for the way developers actually work.\naurict.com · npm · Docs · Changelog · Android APK\n❯ aurict\nAurict runs entirely in your terminal. No browser tabs, no Electron overhead, no clipboard juggling between windows. You stay in the environment where you already write code, and the AI meets you there — with full access to your files, shell, language servers",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/aurict/aurict",
       "categories": [
         "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "04db5c2a-0615-42a7-ba8a-b821aae36632",
-      "name": "Closure",
-      "url": "https://github.com/chillison/Closure",
-      "oneLiner": "📌 这是 Closure — OrisonSpace（Apache-2.",
-      "description": "📌 这是 Closure — OrisonSpace（Apache-2.0）的 fork。在 OrisonSpace 的本地优先 AI 写作 IDE 基础上，Closure 叠加其叙事操作系统层：结构化状态机（CognitionGraph / 欲望向量 / 世界条目 / 信息差状态机 / 叙事依赖图）、结构化知识库与混合检索（纯代码确定性核心），以及信息差操控 / 情绪闭环 / 欲望引擎 / 主题引力场 / 涟漪传播等独有模块。\nClosure 整体以 AGPL-3.0-or-later 发布；源自 OrisonSpace 的代码保留 Apache-2.0。归属与 provenance 详见 NOTICE。\nClosure 是一款开源、本地优先的 AI 小说创作 IDE，面向网文与长篇小说作者，把大纲、章节、人物与世界观资产卡整合到一个工作区。它以「用户主导创意、AI 执笔与自查」为原则，",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "7f7a19e3-a8ca-44ba-baba-38be86e6dc8a",
-      "name": "Concorde",
-      "url": "https://github.com/shutter-network/concorde",
-      "oneLiner": "A framework to build shared agents.",
-      "description": "A framework to build shared agents.\nExpect breaking changes. This is\n0.1.0\nand the public API is not settled. Subpaths get renamed, components get split, and a minor version bump can require edits in your entry point.\nA shared agent is an AI agent that serves several parties at once. No single party owns it, and no party can reach it privately. The idea is set out in full in On Shared Agents.\nTwo ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "d7f08573-250a-4411-85a7-6402a0816c22",
-      "name": "Profound Academy",
-      "url": "https://profound.academy",
-      "oneLiner": "Describe what you want to teach.",
-      "description": "Build something Profound\nTurn a course idea into hands-on lessons, coding labs, and exams with autograders — ready to review, publish, and teach\n10,000+\nLearners taught\n100+\nTeachers supported\n80%\nLess admin work\nSee the complete workflow\nFrom idea to a complete course\nDescribe what you want to teach. Profound turns it into an editable course with lessons, coding labs, projects, exams, autograders",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
+        "data",
         "agents"
       ]
     }
