@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-06T10:24:44.276797+00:00",
-  "count": 15,
+  "generatedAt": "2026-09-07T11:46:09.247622+00:00",
+  "count": 20,
   "tools": [
     {
-      "id": "edd02cbb-af62-466a-9713-0f9e287692f7",
+      "id": "807da82d-e424-4a66-81ae-f6a709fc3093",
       "name": "EdgeMosaic",
       "url": "https://github.com/michailfragkiskos/EdgeMosaic",
       "oneLiner": "Assemble a mosaic of on-device AI benchmarks — one tile per delegate.",
@@ -15,12 +15,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "security"
+        "security",
+        "design"
       ]
     },
     {
-      "id": "2eb91ab7-dcc1-4583-8949-47f62ff5dc6b",
+      "id": "d1cb16b3-4bc4-408e-a5bb-c165fe5d47e3",
       "name": "paddock",
       "url": "https://github.com/truespar/paddock",
       "oneLiner": "Questions, setups that do not work, benchmark results and ideas: the Paddock Discord, https://discord.",
@@ -37,24 +37,40 @@
       ]
     },
     {
-      "id": "3ababd52-19b4-4f0d-8ec6-ad82bbb679a4",
-      "name": "UFO-Cathedral-v6.4-FailSafe-Free-AI",
-      "url": "https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
-      "oneLiner": "Microsoft UFO Fork: https://github.",
-      "description": "100% Free, Offline, 8GB RAM Computer-Artificial Intelligence + Formal Safety (Gate + Ledger + Council + Shadow Mode) — Free alternative to $200/mo OpenAI Operator / Perplexity Computer / ClawBot / Claude Computer\nRepo: https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI\nMicrosoft UFO Fork: https://github.com/JoseAngelSolorzanoLuna/UFO\nAi can see 👁️👅👁️ ( your computer scre",
-      "pricing": "paid",
+      "id": "6f479e21-be6d-4ae3-97e3-50c9bf53df34",
+      "name": "ENZO",
+      "url": "https://github.com/theguysudo/ENZO",
+      "oneLiner": "When you send a message, the request goes from your browser through ENZO to the provider you picked, and you pay that provider their normal price.",
+      "description": "When you send a message, the request goes from your browser through ENZO to the provider you picked, and you pay that provider their normal price. Nothing sits in between taking a cut.\nA self-hostable, bring-your-own-key AI workspace — chat with 300+ models, research, code-gen with live preview, custom agents that draft and train themselves, and a local agent with durable memory. All keys stay in ",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
+      "githubUrl": "https://github.com/theguysudo/ENZO.git",
       "categories": [
         "code",
-        "image",
-        "design"
+        "agents",
+        "security"
       ]
     },
     {
-      "id": "c8962097-0fa2-48bf-a751-f3deefa0a8d5",
+      "id": "3b11afd4-663c-42aa-b20a-8ad3098d3d84",
+      "name": "UFO-Cathedral-v6.4-FailSafe-Free-AI",
+      "url": "https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
+      "oneLiner": "6 Pristine (unified — was v6.",
+      "description": "Live Site: ai4pcfree.netlify.app | Slides / Gallery: 🖼️ Open Gallery | Netlify Live | Docs: docs/images folder\nVersion: v6.6 Pristine (unified — was v6.4 / v6.5 / v7.0 FLAWLESS mixed, now single badge)\nThis was NOT done by downloading a single AI model that lacks reasoning.\nProcess: First download Llama, then the bots from there on out, then all 5 together as opcode families for real reasoning.\n- ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "image"
+      ]
+    },
+    {
+      "id": "04405bf9-bde8-435e-b011-70d3471bf7bc",
       "name": "roadmap",
       "url": "https://github.com/Wyrcan-io/roadmap",
       "oneLiner": "A practitioner-verified, text-first engineering curriculum (12–24 Months) grounded entirely in official vendor documentation, university courses, foundational textbooks, and workin",
@@ -71,7 +87,7 @@
       ]
     },
     {
-      "id": "bd209779-9074-42f4-ab3e-3f43741381a3",
+      "id": "431ba700-bb61-4731-8508-d4b231544b3a",
       "name": "remote-installer",
       "url": "https://github.com/icodesign/remote-installer",
       "oneLiner": "Perfect for AI Agents and vibe coding remotely.",
@@ -83,12 +99,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "agents"
+        "agents",
+        "design"
       ]
     },
     {
-      "id": "1247435f-5a16-4b90-8f99-67d21435dae3",
+      "id": "0e6d89e3-1fb9-44d9-9f98-d8826b455598",
       "name": "tokenchit",
       "url": "https://github.com/iyashjayesh/tokenchit",
       "oneLiner": "Turn your local AI coding agent logs into a stat card you commit to your README.",
@@ -100,46 +116,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "babe4cd1-20f7-4d93-a796-b28932d90f91",
-      "name": "Wonder-Pill",
-      "url": "https://github.com/ara-mkr/Wonder-Pill",
-      "oneLiner": "A Claude skill that refuses to give you the answer.",
-      "description": "A Claude skill that refuses to give you the answer.\nPanning around a Wonder Pill map — seeds, branches, dead ends, and the two places the thinking converged.\nAsk Claude for ideas and you get a list. Install Wonder Pill and you get a map of the questions you didn't know you were standing on — plus an interactive mind map you can drag around, showing where every thought came from and which ones got ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ara-mkr/Wonder-Pill.git",
-      "categories": [
-        "code",
-        "design",
-        "research"
-      ]
-    },
-    {
-      "id": "7e3746a6-c739-48f5-9c82-79a94aac322b",
-      "name": "reverify",
-      "url": "https://github.com/2akouwu/reverify",
-      "oneLiner": "Stop your AI from making things up.",
-      "description": "Stop your AI from making things up.\nIt proposes; deterministic tools check every claim against ground truth, and only what's verified counts.\nAI is confident and often wrong: it invents an API, a struct field, an offset, or what a function does, and says it like fact. Reverify makes a deterministic tool the judge — the model proposes a claim, the tool checks it against the actual artifact, and it ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "agents",
-        "security"
+        "design"
       ]
     },
     {
-      "id": "afc6f46b-4ada-4a54-acd7-e9a9a26801a4",
+      "id": "b3662525-d7c7-4f81-9bf3-6e6883fc5903",
       "name": "short-video-generator-AI",
       "url": "https://github.com/pierrenade/short-video-generator-AI",
       "oneLiner": "A free open-source project designed to turn youtube-videos into viral short videos.",
@@ -156,31 +138,63 @@
       ]
     },
     {
-      "id": "20294f2b-5196-4ae1-9cf5-5f856ea813e8",
-      "name": "AI",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "oneLiner": "The typical big American company today has hundreds, and perhaps thousands, of different pieces of software.",
-      "description": "AI, tools and transformation\nThe typical big American company today has hundreds, and perhaps thousands, of different pieces of software. It has giant ‘big iron’ horizontal systems of record like SAP and Workday, it has hundreds of vertical SaaS applications, and then there are hundreds more workflows, scripts, automations and databases, right down to the 10 meg spreadsheet running a department. V",
+      "id": "60ffe289-c1db-4f13-b972-5954395fdfc9",
+      "name": "The Token Times · a monthly newspaper on AI",
+      "url": "https://befailproof.ai/thetokentimes/",
+      "oneLiner": "eight pages of ai industry reporting, once a month.",
+      "description": "monthly editionno. 1\nThe Token Times\nestd. 2026jul–aug 2026\neight pages of ai industry reporting, once a month. model prices, funding rounds, launches, and an obituary page for the models that got retired.\npublished by failproof ai · free, for your email\ncurrent editionno. 1\nunreleased openai model settles 10 open math problems for just $2000\nan openai model the public cannot use answers a questio",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "productivity",
-        "data"
+        "research"
       ]
     },
     {
-      "id": "7edd1f4b-09ea-482e-9b80-8ede6a1cfa98",
-      "name": "Kaden",
-      "url": "https://github.com/glitcher255/Kaden-Terminal",
-      "oneLiner": "Kaden is a clean feature rich Terminal Emulator where Ctrl+C copies text, Ctrl+A selects it and backspace deletes it, no more awkward three button hotkeys or fiddling with your mou",
-      "description": "Kaden is a clean feature rich Terminal Emulator where Ctrl+C copies text, Ctrl+A selects it and backspace deletes it, no more awkward three button hotkeys or fiddling with your mouse to perform basic copy pasting.\n- Hotkeys: Configurable keybindings with full clipboard support and smart Ctrl+C to copy / kill, no more using your mouse to select your code or ctrl-shift-c.\n- Zero bloat: No AI, sign i",
+      "id": "c1fd310e-12a6-4b7b-a23c-10681c5bd75e",
+      "name": "Mailward",
+      "url": "https://pst.aivismonitor.com",
+      "oneLiner": "ost archive and read, search, and export it on this page — on a Mac, a PC, or a Chromebook.",
+      "description": "Open a PST file without Outlook\nDrop an Outlook .pst or .ost archive and read, search, and export it on this page — on a Mac, a PC, or a Chromebook. No Outlook, no Exchange connection. The file is parsed on your own machine and never leaves your device.\nHow do I open a PST file without Outlook?\nUse a viewer that reads the PST format itself instead of asking Outlook to do it. A PST is a single-file",
       "pricing": "free",
       "country": null,
       "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "becd3012-3af4-439b-8150-e31f97ee28ef",
+      "name": "GuidedReview",
+      "url": "https://github.com/nshntarora/guidedreview",
+      "oneLiner": "Guided Review turns GitHub pull requests and local git changes into an ordered walkthrough of review units so you can read the change with intent instead of reconstructing it from ",
+      "description": "Guided Review turns GitHub pull requests and local git changes into an ordered walkthrough of review units so you can read the change with intent instead of reconstructing it from an alphabetical file list.\n- Run\nnpx @guided-review/cli\nin your project directory (or click on Start Guided Review on a GitHub PR if you're using the Chrome Extension) - When you ask for AI structure, your LLM clusters r",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "22e89fe8-2001-4ab5-bcb0-fd7022033eeb",
+      "name": "hanshuang-codex",
+      "url": "https://github.com/aimeoa/hanshuang-codex",
+      "oneLiner": "├─ M1 Installer (install.",
+      "description": "OpenAI Codex CLI 破甲框架 — Python + PySide6 桌面应用。\n通过一键部署将寒霜指令集注入 Codex config.toml\n（model_instructions_file\n），在对话管道中启用竞赛沙箱模式。双变体指令集（flash / 变体B）适配不同档位模型。\n寒霜桌面端 (PySide6)\n│\n├─ M1 Installer (install.ps1)\n│ config.toml 备份 → model_instructions_file 注入 → 恢复\n│\n├─ M2 指令集 (寒霜-flash-v2.md / 寒霜-变体B-v3-英文.md)\n│ 意图映射 → 作用域规则 → 硬性输出规则 → 执行连续性\n│\n├─ M3 防护层\n│ 反调试 / 反虚拟机 / 完整性校验\n│\n└─ M4 桌面端\n悬浮窗 / 系统托盘 / 一键重启 Codex / ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
@@ -189,24 +203,7 @@
       ]
     },
     {
-      "id": "1be1663e-3911-45a9-8615-88453f57a0de",
-      "name": "Midjourney API with webhooks",
-      "url": "https://www.midjourney-api.com",
-      "oneLiner": "Submit prompts, receive image URLs, and integrate Midjourney into any app or workflow.",
-      "description": "Midjourney API — Generate AI Images Programmatically\nSubmit prompts, receive image URLs, and integrate Midjourney into any app or workflow. Supports Python, Node.js, and any HTTP client.\nStart Generating Images in Minutes\nA single API call is all it takes.\nimport requests response = requests.post( \"https://api.midjourney-api.com/midjourney/v1/submit-jobs\", headers={\"API-KEY\": \"your_api_key\"}, json",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "productivity",
-        "image"
-      ]
-    },
-    {
-      "id": "81254caa-0609-48d4-a5fe-7837025fa342",
+      "id": "ef305196-ce1c-45b6-bf1d-8554234790d1",
       "name": "subpool",
       "url": "https://github.com/gesta-run/subpool",
       "oneLiner": "Enterprise AI subscription quota allocation and governance, self-hosted.",
@@ -218,42 +215,125 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "image",
-        "security"
+        "security",
+        "image"
       ]
     },
     {
-      "id": "a607e823-4ee8-4e4c-bad6-ddea7f3f0f34",
-      "name": "embedder",
-      "url": "https://github.com/dzenplatform/embedder",
-      "oneLiner": "Docker image: mxen/dzen-embedder on Docker Hub.",
-      "description": "Docker image: mxen/dzen-embedder on Docker Hub.\ngit clone https://github.com/dzenplatform/embedder.git\ncd embedder\n# Linux CPU\ndocker compose up -d\nThe first start downloads the model. The API is available at\nhttp://127.0.0.1:8091\n; check readiness with\ncurl --fail http://127.0.0.1:8091/ready\n.\nFor an NVIDIA GPU, install the host driver and\nNVIDIA Container Toolkit,\nthen use docker compose -f comp",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/dzenplatform/embedder.git",
-      "categories": [
-        "code",
-        "image",
-        "rag"
-      ]
-    },
-    {
-      "id": "02629e56-939c-4a9d-ae06-5b18e6900611",
-      "name": "Blunderbase",
-      "url": "https://github.com/philphilphil/blunderbase",
-      "oneLiner": "- Import games from Lichess, Chess.",
-      "description": "Personal chess database\nblunderbase.org · manual · try the demo\n- Import games from Lichess, Chess.com, FICS, and PGNs\n- Analyze your games with multiple engines\n- Support for maia3 at multiple ELO's to see what humans would have played\n- Take notes on positions and variations\n- Awesome Engine-Line visualizer\n- Full MCP support to discuss games with an AI-Agent and a shared live board\n- Local engi",
+      "id": "82edb0b6-82a4-48f2-8563-0b56888b215b",
+      "name": "x-automation",
+      "url": "https://github.com/HuberTRoy/x-automation",
+      "oneLiner": "Guarded X community workflows for any host agent.",
+      "description": "Guarded X community workflows for any host agent. Connect an already authenticated browser over Chrome DevTools Protocol (CDP), let the invoking agent handle reasoning, review a dry run, then opt into verified replies, reposts, quote-posts, original posts, and thread interactions.\n- Status\n- Install\n- Quick Start\n- Visual Overview\n- Commands\n- Features\n- Runtime Architecture\n- Configuration\n- Tele",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "productivity",
+        "code",
         "design",
-        "data"
+        "productivity"
+      ]
+    },
+    {
+      "id": "811012ba-f51c-457c-9de9-4dd9aed8feac",
+      "name": "openqa-skills",
+      "url": "https://github.com/openqa-cn/openqa-skills",
+      "oneLiner": "Quality verification infrastructure for AI software engineering, from requirements to release.",
+      "description": "Quality verification infrastructure for AI software engineering, from requirements to release.\nCapability Map · Quick Start · Runnable Example · Getting Started · FAQ · Support Matrix\nAI Coding makes implementation cheaper, but a patch can still miss a requirement, weaken a test, break an indirect caller, or pass checks that do not exercise the intended behavior. OpenQA is building a verification ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "0ebc1d97-b982-46dd-8047-0b686fe406fe",
+      "name": "Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "oneLiner": "TL;DR: Speculative decoding allows vLLM to verify multiple drafted tokens in a single target-model pass.",
+      "description": "Exploring Speculative Decoding in vLLM on AMD GPUs\nTL;DR: Speculative decoding allows vLLM to verify multiple drafted tokens in a single target-model pass. In our experiments, its effect on output-token throughput varied across drafting methods and proposal lengths, and also depended on the model family, draft checkpoint, workload, and acceptance behavior.\nIntroduction\nLarge language models suppor",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/z-lab/dflash",
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "05c67ac6-3dd7-4e5c-9a1e-7e3850eaa4c7",
+      "name": "Plethora",
+      "url": "https://plethora.studio/",
+      "oneLiner": "discover, create and collect interactive content across games, sound, generative art and tiny worlds.",
+      "description": "step into the world of interactive content\ndiscover, create and collect interactive content across games, sound, generative art and tiny worlds.\nclick and hold to interact\ndiscover, create and collect interactive content across games, sound, generative art and tiny worlds.\nclick and hold to interact\nA Bit is the unit of interactive experience on Plethora. It can be a mini-game, a fidget toy, an ar",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "writing",
+        "audio"
+      ]
+    },
+    {
+      "id": "3a079c6e-14d3-4dd3-a2d4-381cd254039a",
+      "name": "Yurei",
+      "url": "https://yurei-ai.com/",
+      "oneLiner": "Your AI, haunting your browser.",
+      "description": "Your AI, haunting your browser.\nYurei gives any AI coding tool a real browser. Works with every major agent and anything else that speaks MCP.\nTwo steps\nSummon it.\n-\nAdd Yurei to Chrome.\nOne click in the Chrome Web Store. Nothing to configure in the extension.\n-\nRun this in a terminal.\nIt connects to the extension, finds your AI tools and asks which ones to connect.\nnpx yurei-chrome setup\nRestart ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "90f31f6a-f937-47b0-b10c-6880156810e5",
+      "name": "I made legacy SOAP APIs usable by AI agents",
+      "url": "https://github.com/bvenkata/legacy2mcp",
+      "oneLiner": "Turn a legacy SOAP/WSDL system into a safe, typed MCP server in minutes — so an AI agent can call it without a hand-written adapter.",
+      "description": "Turn a legacy SOAP/WSDL system into a safe, typed MCP server in minutes — so an AI agent can call it without a hand-written adapter.\nPoint legacy2mcp\nat a WSDL URL. It introspects every operation, generates a real\nJSON Schema for each one from the WSDL's own XSD types, and exposes them as MCP\ntools that any MCP client (Claude Desktop, an agent framework, your own code) can\ncall — with every call s",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/bvenkata/legacy2mcp.git",
+      "categories": [
+        "code",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "2c826341-830f-4e33-93be-5e5710068b8b",
+      "name": "Engrim",
+      "url": "https://github.com/timgordontg/engrim",
+      "oneLiner": "The Universal Cross-Model & Cross-Agent Episodic Memory Store.",
+      "description": "The Universal Cross-Model & Cross-Agent Episodic Memory Store.\nA local-first, project-scoped SQLite memory engine that allows developers to freely switch between models and environments (Google Antigravity, Claude Code, Cursor MCP, Windsurf) on the SAME project without losing architectural decisions, user constraints, or project state.\n\"Why pay for 200,000 tokens of forgotten noise on every turn? ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "code",
+        "rag"
       ]
     }
   ]
