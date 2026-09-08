@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-07T11:46:09.247622+00:00",
-  "count": 20,
+  "generatedAt": "2026-09-08T10:44:30.923088+00:00",
+  "count": 17,
   "tools": [
     {
-      "id": "807da82d-e424-4a66-81ae-f6a709fc3093",
+      "id": "315fec5d-6c96-4f46-ac0e-4287ef7fedfd",
       "name": "EdgeMosaic",
       "url": "https://github.com/michailfragkiskos/EdgeMosaic",
       "oneLiner": "Assemble a mosaic of on-device AI benchmarks — one tile per delegate.",
@@ -15,12 +15,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "security",
-        "design"
+        "design",
+        "security"
       ]
     },
     {
-      "id": "d1cb16b3-4bc4-408e-a5bb-c165fe5d47e3",
+      "id": "8389179e-2885-448e-a9ff-62ecd46bfe33",
       "name": "paddock",
       "url": "https://github.com/truespar/paddock",
       "oneLiner": "Questions, setups that do not work, benchmark results and ideas: the Paddock Discord, https://discord.",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "id": "6f479e21-be6d-4ae3-97e3-50c9bf53df34",
+      "id": "9c0ab882-b4b0-45e4-8b96-a519601cfd3f",
       "name": "ENZO",
       "url": "https://github.com/theguysudo/ENZO",
       "oneLiner": "When you send a message, the request goes from your browser through ENZO to the provider you picked, and you pay that provider their normal price.",
@@ -54,23 +54,24 @@
       ]
     },
     {
-      "id": "3b11afd4-663c-42aa-b20a-8ad3098d3d84",
+      "id": "9e637ae5-5afa-4125-ad47-c0f2f8f1600a",
       "name": "UFO-Cathedral-v6.4-FailSafe-Free-AI",
       "url": "https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
-      "oneLiner": "6 Pristine (unified — was v6.",
-      "description": "Live Site: ai4pcfree.netlify.app | Slides / Gallery: 🖼️ Open Gallery | Netlify Live | Docs: docs/images folder\nVersion: v6.6 Pristine (unified — was v6.4 / v6.5 / v7.0 FLAWLESS mixed, now single badge)\nThis was NOT done by downloading a single AI model that lacks reasoning.\nProcess: First download Llama, then the bots from there on out, then all 5 together as opcode families for real reasoning.\n- ",
-      "pricing": "paid",
+      "oneLiner": "app | Slides / Gallery: https://joseangelsolorzanoluna.",
+      "description": "Live Site: https://ai4pcfree.netlify.app | Slides / Gallery: https://joseangelsolorzanoluna.github.io/UFO-Cathedral-v6.4-FailSafe-Free-AI/slides/ | Docs: docs/images folder | Builder Tree: https://joseangelsolorzanolunaofficial.netlify.app\nVersion: v6.7 Pristine (was v6.6 Pristine, now adds 5 comms formats)\nNEW✅UPDATE: UFO Cathedral v6.7-Fail-Safe Free AI — 5 alternative formats for AI comms (tone",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "code",
-        "image"
+        "image",
+        "voice"
       ]
     },
     {
-      "id": "04405bf9-bde8-435e-b011-70d3471bf7bc",
+      "id": "843252cc-0503-416c-b85f-4552147cf6a6",
       "name": "roadmap",
       "url": "https://github.com/Wyrcan-io/roadmap",
       "oneLiner": "A practitioner-verified, text-first engineering curriculum (12–24 Months) grounded entirely in official vendor documentation, university courses, foundational textbooks, and workin",
@@ -87,7 +88,7 @@
       ]
     },
     {
-      "id": "431ba700-bb61-4731-8508-d4b231544b3a",
+      "id": "670f5ef5-6ed8-48a4-a6e6-5b72565352ab",
       "name": "remote-installer",
       "url": "https://github.com/icodesign/remote-installer",
       "oneLiner": "Perfect for AI Agents and vibe coding remotely.",
@@ -99,12 +100,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "0e6d89e3-1fb9-44d9-9f98-d8826b455598",
+      "id": "d061a5d7-fdba-4306-9194-e467d5c6779a",
       "name": "tokenchit",
       "url": "https://github.com/iyashjayesh/tokenchit",
       "oneLiner": "Turn your local AI coding agent logs into a stat card you commit to your README.",
@@ -116,12 +117,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "b3662525-d7c7-4f81-9bf3-6e6883fc5903",
+      "id": "e8e15408-6136-4de5-9d5f-17398192ff5b",
       "name": "short-video-generator-AI",
       "url": "https://github.com/pierrenade/short-video-generator-AI",
       "oneLiner": "A free open-source project designed to turn youtube-videos into viral short videos.",
@@ -138,43 +139,28 @@
       ]
     },
     {
-      "id": "60ffe289-c1db-4f13-b972-5954395fdfc9",
-      "name": "The Token Times · a monthly newspaper on AI",
-      "url": "https://befailproof.ai/thetokentimes/",
-      "oneLiner": "eight pages of ai industry reporting, once a month.",
-      "description": "monthly editionno. 1\nThe Token Times\nestd. 2026jul–aug 2026\neight pages of ai industry reporting, once a month. model prices, funding rounds, launches, and an obituary page for the models that got retired.\npublished by failproof ai · free, for your email\ncurrent editionno. 1\nunreleased openai model settles 10 open math problems for just $2000\nan openai model the public cannot use answers a questio",
+      "id": "aa50d9d9-9ecf-443a-b4b7-253678ee5c4b",
+      "name": "AI cancer cures slowed by chip shortage",
+      "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
+      "oneLiner": "The boss of the biggest UK-headquartered tech firm has said that artificial intelligence will find a cure for cancer that humans cannot in our lifetimes.",
+      "description": "AI will cure cancer in our lifetime, claims boss of UK chip giant\nThe boss of the biggest UK-headquartered tech firm has said that artificial intelligence will find a cure for cancer that humans cannot in our lifetimes.\nRene Haas, chief executive of Cambridge-based chip designer Arm Holdings, said while modelling how a DNA marker is impacted by cancer was currently \"too complex\" a problem, compute",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "research"
-      ]
-    },
-    {
-      "id": "c1fd310e-12a6-4b7b-a23c-10681c5bd75e",
-      "name": "Mailward",
-      "url": "https://pst.aivismonitor.com",
-      "oneLiner": "ost archive and read, search, and export it on this page — on a Mac, a PC, or a Chromebook.",
-      "description": "Open a PST file without Outlook\nDrop an Outlook .pst or .ost archive and read, search, and export it on this page — on a Mac, a PC, or a Chromebook. No Outlook, no Exchange connection. The file is parsed on your own machine and never leaves your device.\nHow do I open a PST file without Outlook?\nUse a viewer that reads the PST format itself instead of asking Outlook to do it. A PST is a single-file",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "data",
         "code",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "becd3012-3af4-439b-8150-e31f97ee28ef",
-      "name": "GuidedReview",
-      "url": "https://github.com/nshntarora/guidedreview",
-      "oneLiner": "Guided Review turns GitHub pull requests and local git changes into an ordered walkthrough of review units so you can read the change with intent instead of reconstructing it from ",
-      "description": "Guided Review turns GitHub pull requests and local git changes into an ordered walkthrough of review units so you can read the change with intent instead of reconstructing it from an alphabetical file list.\n- Run\nnpx @guided-review/cli\nin your project directory (or click on Start Guided Review on a GitHub PR if you're using the Chrome Extension) - When you ask for AI structure, your LLM clusters r",
+      "id": "f346b7f9-9967-4fc4-aa37-396634e9194e",
+      "name": "Pomeroy v1",
+      "url": "https://pomeroy.app/connect",
+      "oneLiner": "One menu-bar app holds the macOS permissions and serves your Mac apps over MCP.",
+      "description": "Connect · Updated 7 September 2026\nConnect Pomeroy to your AI assistant\nOne menu-bar app holds the macOS permissions and serves your Mac apps over MCP. Any assistant that can start a local MCP server can use it: some in one click, the rest by pasting a configuration Pomeroy writes for you.\nFree for 50 actions a week, shared across every assistant you connect. No account, no card.\nSet up with one c",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -182,12 +168,29 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "22e89fe8-2001-4ab5-bcb0-fd7022033eeb",
+      "id": "402206bb-0c62-4213-92bc-d44e12ef4505",
+      "name": "voice-ai-benchmarks",
+      "url": "https://github.com/gonzalo-cordova-pou/voice-ai-benchmarks",
+      "oneLiner": "A directory of benchmarks for the components and complete systems used to build voice agents.",
+      "description": "A directory of benchmarks for the components and complete systems used to build voice agents.\nDiscover benchmarks, leaderboards, arenas, frameworks, and toolkits across six categories:\n- Speech-to-Text (STT): transcription models and services.\n- Text-to-Speech (TTS): speech generation models and services.\n- Turn-Taking: voice activity, end-of-turn detection, interruptions, and overlap.\n- LLM: lang",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "voice"
+      ]
+    },
+    {
+      "id": "89f07cf6-337e-48d1-a48c-600880e5dd22",
       "name": "hanshuang-codex",
       "url": "https://github.com/aimeoa/hanshuang-codex",
       "oneLiner": "├─ M1 Installer (install.",
@@ -203,7 +206,7 @@
       ]
     },
     {
-      "id": "ef305196-ce1c-45b6-bf1d-8554234790d1",
+      "id": "1174154f-3ebc-4768-a62e-8ddbd3ad8c47",
       "name": "subpool",
       "url": "https://github.com/gesta-run/subpool",
       "oneLiner": "Enterprise AI subscription quota allocation and governance, self-hosted.",
@@ -215,12 +218,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "security",
-        "image"
+        "image",
+        "security"
       ]
     },
     {
-      "id": "82edb0b6-82a4-48f2-8563-0b56888b215b",
+      "id": "5bb3ecd3-358a-4445-acec-298eb05dfc6f",
       "name": "x-automation",
       "url": "https://github.com/HuberTRoy/x-automation",
       "oneLiner": "Guarded X community workflows for any host agent.",
@@ -237,7 +240,7 @@
       ]
     },
     {
-      "id": "811012ba-f51c-457c-9de9-4dd9aed8feac",
+      "id": "bb970578-5355-4ae2-a2c1-85154dc83575",
       "name": "openqa-skills",
       "url": "https://github.com/openqa-cn/openqa-skills",
       "oneLiner": "Quality verification infrastructure for AI software engineering, from requirements to release.",
@@ -249,90 +252,41 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "0ebc1d97-b982-46dd-8047-0b686fe406fe",
-      "name": "Speculative Decoding in vLLM on AMD GPUs",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "oneLiner": "TL;DR: Speculative decoding allows vLLM to verify multiple drafted tokens in a single target-model pass.",
-      "description": "Exploring Speculative Decoding in vLLM on AMD GPUs\nTL;DR: Speculative decoding allows vLLM to verify multiple drafted tokens in a single target-model pass. In our experiments, its effect on output-token throughput varied across drafting methods and proposal lengths, and also depended on the model family, draft checkpoint, workload, and acceptance behavior.\nIntroduction\nLarge language models suppor",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/z-lab/dflash",
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "05c67ac6-3dd7-4e5c-9a1e-7e3850eaa4c7",
-      "name": "Plethora",
-      "url": "https://plethora.studio/",
-      "oneLiner": "discover, create and collect interactive content across games, sound, generative art and tiny worlds.",
-      "description": "step into the world of interactive content\ndiscover, create and collect interactive content across games, sound, generative art and tiny worlds.\nclick and hold to interact\ndiscover, create and collect interactive content across games, sound, generative art and tiny worlds.\nclick and hold to interact\nA Bit is the unit of interactive experience on Plethora. It can be a mini-game, a fidget toy, an ar",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
         "design",
-        "writing",
-        "audio"
+        "agents"
       ]
     },
     {
-      "id": "3a079c6e-14d3-4dd3-a2d4-381cd254039a",
-      "name": "Yurei",
-      "url": "https://yurei-ai.com/",
-      "oneLiner": "Your AI, haunting your browser.",
-      "description": "Your AI, haunting your browser.\nYurei gives any AI coding tool a real browser. Works with every major agent and anything else that speaks MCP.\nTwo steps\nSummon it.\n-\nAdd Yurei to Chrome.\nOne click in the Chrome Web Store. Nothing to configure in the extension.\n-\nRun this in a terminal.\nIt connects to the extension, finds your AI tools and asks which ones to connect.\nnpx yurei-chrome setup\nRestart ",
+      "id": "517a61c7-a13a-44d3-bcf0-d6f34be638dd",
+      "name": "Arm Mali G2-Ultra NX GPU",
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "oneLiner": "Demands from mobile users continue to grow.",
+      "description": "Inside the Arm Mali G2-Ultra NX GPU: Delivering desktop-class mobile gameplay with AI-native graphics\nDemands from mobile users continue to grow. They want richer visuals, smoother frame rates, and increasingly immersive experiences. For developers the challenge is complex, as they aim to meet these expectations while staying within the strict power, thermal, and bandwidth limits of mobile devices",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code"
+        "code",
+        "image",
+        "design"
       ]
     },
     {
-      "id": "90f31f6a-f937-47b0-b10c-6880156810e5",
-      "name": "I made legacy SOAP APIs usable by AI agents",
-      "url": "https://github.com/bvenkata/legacy2mcp",
-      "oneLiner": "Turn a legacy SOAP/WSDL system into a safe, typed MCP server in minutes — so an AI agent can call it without a hand-written adapter.",
-      "description": "Turn a legacy SOAP/WSDL system into a safe, typed MCP server in minutes — so an AI agent can call it without a hand-written adapter.\nPoint legacy2mcp\nat a WSDL URL. It introspects every operation, generates a real\nJSON Schema for each one from the WSDL's own XSD types, and exposes them as MCP\ntools that any MCP client (Claude Desktop, an agent framework, your own code) can\ncall — with every call s",
+      "id": "6c52ad59-dba5-472f-8964-0740a92559ce",
+      "name": "Archprint",
+      "url": "https://github.com/Tommkruix/archprint",
+      "oneLiner": "Mine the architecture rules your repo already enforces, with the evidence attached.",
+      "description": "Mine the architecture rules your repo already enforces, with the evidence attached.\nArchprint scans a TypeScript repository's real import graph, finds the architectural boundaries the code already respects, and turns the ones that pass a statistical confidence gate into deterministic, ready to install lint rules. Every rule ships with the evidence behind it: how many files conform, how many break ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/bvenkata/legacy2mcp.git",
+      "githubUrl": "https://github.com/Tommkruix/archprint",
       "categories": [
         "code",
-        "agents",
-        "security"
-      ]
-    },
-    {
-      "id": "2c826341-830f-4e33-93be-5e5710068b8b",
-      "name": "Engrim",
-      "url": "https://github.com/timgordontg/engrim",
-      "oneLiner": "The Universal Cross-Model & Cross-Agent Episodic Memory Store.",
-      "description": "The Universal Cross-Model & Cross-Agent Episodic Memory Store.\nA local-first, project-scoped SQLite memory engine that allows developers to freely switch between models and environments (Google Antigravity, Claude Code, Cursor MCP, Windsurf) on the SAME project without losing architectural decisions, user constraints, or project state.\n\"Why pay for 200,000 tokens of forgotten noise on every turn? ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "data",
-        "code",
+        "design",
         "rag"
       ]
     }
