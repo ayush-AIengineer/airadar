@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-09-08T10:44:30.923088+00:00",
+  "generatedAt": "2026-09-09T10:52:34.748977+00:00",
   "count": 17,
   "tools": [
     {
-      "id": "315fec5d-6c96-4f46-ac0e-4287ef7fedfd",
+      "id": "8904189d-8113-4a64-bcfc-1faf406a2c4d",
+      "name": "tokentab",
+      "url": "https://github.com/crwdla/tokentab",
+      "oneLiner": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, an",
+      "description": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, and by the kind of work each session was doing. It runs entirely locally: no account, no API key, nothing leaves your machine.\nClone the repo and install it into your environment:\ngit clone https://github.com/crwdla/tokent",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/crwdla/tokentab",
+      "categories": [
+        "design",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "73d626ee-ac7c-4330-9c7a-4908987fcc10",
       "name": "EdgeMosaic",
       "url": "https://github.com/michailfragkiskos/EdgeMosaic",
       "oneLiner": "Assemble a mosaic of on-device AI benchmarks — one tile per delegate.",
@@ -14,13 +31,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "security"
       ]
     },
     {
-      "id": "8389179e-2885-448e-a9ff-62ecd46bfe33",
+      "id": "7c8f8662-6e76-4b42-b10f-7af2fe370e0c",
       "name": "paddock",
       "url": "https://github.com/truespar/paddock",
       "oneLiner": "Questions, setups that do not work, benchmark results and ideas: the Paddock Discord, https://discord.",
@@ -32,16 +49,16 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "rag",
-        "voice"
+        "voice",
+        "rag"
       ]
     },
     {
-      "id": "9c0ab882-b4b0-45e4-8b96-a519601cfd3f",
+      "id": "4ea329e0-e32f-40f0-912b-b7db0951fa89",
       "name": "ENZO",
       "url": "https://github.com/theguysudo/ENZO",
-      "oneLiner": "When you send a message, the request goes from your browser through ENZO to the provider you picked, and you pay that provider their normal price.",
-      "description": "When you send a message, the request goes from your browser through ENZO to the provider you picked, and you pay that provider their normal price. Nothing sits in between taking a cut.\nA self-hostable, bring-your-own-key AI workspace — chat with 300+ models, research, code-gen with live preview, custom agents that draft and train themselves, and a local agent with durable memory. All keys stay in ",
+      "oneLiner": "Build agents that write their own operating manuals.",
+      "description": "Quickstart · Live demo · What's inside · Security · What's new · Changelog\nChat with 300+ models. Build agents that write their own operating manuals. Research, generate code, run it all — on your keys, on your infrastructure. When you send a message, the request goes from your browser through ENZO to the provider you picked, and you pay that provider their normal price. Nothing sits in between ta",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -54,126 +71,160 @@
       ]
     },
     {
-      "id": "9e637ae5-5afa-4125-ad47-c0f2f8f1600a",
+      "id": "b7199eb6-8987-4d87-b0ee-b8759ee33993",
       "name": "UFO-Cathedral-v6.4-FailSafe-Free-AI",
       "url": "https://github.com/JoseAngelSolorzanoLuna/UFO-Cathedral-v6.4-FailSafe-Free-AI",
-      "oneLiner": "app | Slides / Gallery: https://joseangelsolorzanoluna.",
-      "description": "Live Site: https://ai4pcfree.netlify.app | Slides / Gallery: https://joseangelsolorzanoluna.github.io/UFO-Cathedral-v6.4-FailSafe-Free-AI/slides/ | Docs: docs/images folder | Builder Tree: https://joseangelsolorzanolunaofficial.netlify.app\nVersion: v6.7 Pristine (was v6.6 Pristine, now adds 5 comms formats)\nNEW✅UPDATE: UFO Cathedral v6.7-Fail-Safe Free AI — 5 alternative formats for AI comms (tone",
+      "oneLiner": "app | Live Grok WebSite : [https://ai4pcfree.",
+      "description": "Live WebSite: https://ai4pcfree.netlify.app | Live Grok WebSite : [https://ai4pcfree.grok.me] | | X Article : [https://x.com/sxlxrzano/status/2097351730572754951?s=20] |Old Website: Slides / Gallery : https://joseangelsolorzanoluna.github.io/UFO-Cathedral-v6.4-FailSafe-Free-AI/slides/ | Builder Tree: https://joseangelsolorzanolunaofficial.netlify.app\nVersion: v6.7 Pristine (was v6.6 Pristine, now ",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "design",
         "code",
-        "image",
         "voice"
       ]
     },
     {
-      "id": "843252cc-0503-416c-b85f-4552147cf6a6",
-      "name": "roadmap",
-      "url": "https://github.com/Wyrcan-io/roadmap",
-      "oneLiner": "A practitioner-verified, text-first engineering curriculum (12–24 Months) grounded entirely in official vendor documentation, university courses, foundational textbooks, and workin",
-      "description": "A practitioner-verified, text-first engineering curriculum (12–24 Months) grounded entirely in official vendor documentation, university courses, foundational textbooks, and working code. Zero video tutorial fluff.\nLive Interactive Checklist & Curriculum: https://wyrcan-io.github.io/roadmap/\nMost online roadmaps fall into one of two traps:\n- Tutorial Hell: A list of 40-hour video playlists where y",
-      "pricing": "free",
+      "id": "e73ca631-2eef-4333-9464-1afa38ef1aca",
+      "name": "claude-outreach",
+      "url": "https://github.com/emelia-io/claude-outreach",
+      "oneLiner": "Run your whole outbound from Claude Code.",
+      "description": "Run your whole outbound from Claude Code. Define who you are targeting, build the list, find and verify professional emails and mobile numbers, write a sequence that does not read like a template, check your deliverability, launch the campaign, triage the replies, and read what actually worked.\n17 sub-skills, 5 sub-agents, MIT licensed, no lock-in. Bring your own data or source it, bring your own ",
+      "pricing": "free_trial",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/emelia-io/claude-outreach.git",
       "categories": [
-        "code",
         "design",
-        "video"
+        "code",
+        "marketing"
       ]
     },
     {
-      "id": "670f5ef5-6ed8-48a4-a6e6-5b72565352ab",
-      "name": "remote-installer",
-      "url": "https://github.com/icodesign/remote-installer",
-      "oneLiner": "Perfect for AI Agents and vibe coding remotely.",
-      "description": "Install signed iOS and Android builds on real devices over the internet\nPerfect for AI Agents and vibe coding remotely.\nNo TestFlight or Google Play Beta. No hosted storage. No waiting for processing.\nRemote Desktop → Link / QR code → Phone Install\nremote-installer share ./MyAwesome.ipa\nRemote Installer validates the build, opens a temporary HTTPS link, and prints a QR code. Scan it with the phone",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "d061a5d7-fdba-4306-9194-e467d5c6779a",
-      "name": "tokenchit",
-      "url": "https://github.com/iyashjayesh/tokenchit",
-      "oneLiner": "Turn your local AI coding agent logs into a stat card you commit to your README.",
-      "description": "Turn your local AI coding agent logs into a stat card you commit to your README.\nThat card is this repository's own, generated by the command below and committed as a file. It is not a screenshot and not a hosted image — which is the whole point.\nnpx -y @tokenchit/cli@latest generate\nOne command: it finds your agents, shows your stats, writes the card, and puts you on the\nboard. Running it often? ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "e8e15408-6136-4de5-9d5f-17398192ff5b",
+      "id": "bd8e2cfa-1ea4-464b-a24b-31d9363eb955",
       "name": "short-video-generator-AI",
-      "url": "https://github.com/pierrenade/short-video-generator-AI",
+      "url": "https://github.com/Colafornia/short-video-generator-AI",
       "oneLiner": "A free open-source project designed to turn youtube-videos into viral short videos.",
       "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.\n- API: Freely use this generator in your own projects via our API.\n- Convenient: Pas",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/pierrenade/short-video-generator-AI.git",
+      "githubUrl": "https://github.com/Colafornia/short-video-generator-AI.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "video"
       ]
     },
     {
-      "id": "aa50d9d9-9ecf-443a-b4b7-253678ee5c4b",
-      "name": "AI cancer cures slowed by chip shortage",
-      "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
-      "oneLiner": "The boss of the biggest UK-headquartered tech firm has said that artificial intelligence will find a cure for cancer that humans cannot in our lifetimes.",
-      "description": "AI will cure cancer in our lifetime, claims boss of UK chip giant\nThe boss of the biggest UK-headquartered tech firm has said that artificial intelligence will find a cure for cancer that humans cannot in our lifetimes.\nRene Haas, chief executive of Cambridge-based chip designer Arm Holdings, said while modelling how a DNA marker is impacted by cancer was currently \"too complex\" a problem, compute",
+      "id": "00a0446c-ced3-4922-9da5-39d28bee1746",
+      "name": "How do you know your LLM giving accurate info?",
+      "url": "https://github.com/docbrain-ai/docbrain",
+      "oneLiner": "What one engineer works out, the whole company keeps.",
+      "description": "What one engineer works out, the whole company keeps.\nSomeone solves it on a Tuesday. Two teams over, in November, a person who has never met them hits the same wall and has no way to know it was ever solved, and neither does their agent, which proposes the approach that was already ruled out. DocBrain captures those decisions where they actually happen, pull requests, threads, incidents, deploys,",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/docbrain-ai/docbrain.git",
+      "categories": [
+        "code",
+        "rag",
+        "security"
+      ]
+    },
+    {
+      "id": "8603174a-9829-4980-9f6c-c290c758422d",
+      "name": "T3rnel Browser",
+      "url": "https://t3ratech.github.io/t3rnel-browser-plugin/",
+      "oneLiner": "and an agent runway you can trust.",
+      "description": "Version 1.1.1 · 98 tools · no servers\nDevTools you can talk to,\nand an agent runway you can trust.\nInspect and copy CSS from any element. Capture full-page screenshots that handle sticky headers and lazy loading. Read Markdown as a document. Then hand the wheel to Claude Code/Desktop, Cursor, VS Code, Windsurf, Antigravity, IntelliJ, Codex, Grok Build, Kimi Code/Desktop, JCode, Cline, OpenCode, Co",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
-        "data"
-      ]
-    },
-    {
-      "id": "f346b7f9-9967-4fc4-aa37-396634e9194e",
-      "name": "Pomeroy v1",
-      "url": "https://pomeroy.app/connect",
-      "oneLiner": "One menu-bar app holds the macOS permissions and serves your Mac apps over MCP.",
-      "description": "Connect · Updated 7 September 2026\nConnect Pomeroy to your AI assistant\nOne menu-bar app holds the macOS permissions and serves your Mac apps over MCP. Any assistant that can start a local MCP server can use it: some in one click, the rest by pasting a configuration Pomeroy writes for you.\nFree for 50 actions a week, shared across every assistant you connect. No account, no card.\nSet up with one c",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
         "code",
-        "design",
         "agents"
       ]
     },
     {
-      "id": "402206bb-0c62-4213-92bc-d44e12ef4505",
+      "id": "b2f5804a-8b30-4401-a357-1453ce5ddc21",
+      "name": "Thread",
+      "url": "https://play.google.com/store/apps/details?id=dev.nexgenstudio.thread&hl=en_US",
+      "oneLiner": "Thread is a private AI journal that remembers with you.",
+      "description": "Thread is a private AI journal that remembers with you. Instead of just storing notes in isolated folders, it connects each new thought with relevant memories from your past, helping you rediscover ideas, spot recurring themes, and understand how your thinking changes over time.\nA Quiet Second Brain\nMost note-taking apps help you store information. Thread helps you understand it. It works like a s",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "voice"
+      ]
+    },
+    {
+      "id": "0bc16d2e-392e-43c3-9e9b-ee7bcae15d82",
+      "name": "loopera",
+      "url": "https://github.com/Loopera-ai/loopera",
+      "oneLiner": "Fundamental research, engineered for evidence.",
+      "description": "面向基本面因子研究的智能 Agent\n让研究从零散试验，进化为可验证、可追踪、可持续积累的智能工作流。\nFundamental research, engineered for evidence.\n产品概览 · 产品框架 · 研究输入 · 完整案例 · 责任边界\nLoopera 围绕上市公司的财务报表与经营信息，为基本面量化团队持续完成研究方向探索、经济假设形成、候选因子构建、可信验证与知识沉淀。\n- 基本面量化团队：扩展研究覆盖，建立统一、可复核的因子研究流程；\n- 投研与金融科技机构：把内部报告、研究观点和数据能力连接到标准化验证链路；\n- 研究管理者：追踪研究来源、决策依据、失败原因及后续方向，而不只查看最终回测结果。\n它的目标不是批量生成公式，也不是用一次漂亮的回测替代研究判断。Loopera 更关心一项研究是否有清晰的基本面逻辑、是否经得住多角度验证，以及它是否为已有研究带来新的",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "search"
+      ]
+    },
+    {
+      "id": "6dd84f22-66a7-4152-95df-b6c441a55fe9",
+      "name": "refund-anything-ai-prompt",
+      "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
+      "oneLiner": "A single, self-contained prompt that turns Claude, ChatGPT, or any other capable AI into your personal refund assistant.",
+      "description": "A single, self-contained prompt that turns Claude, ChatGPT, or any other capable AI into your personal refund assistant. Paste it, attach your receipt, answer a couple of questions — and get a demand letter that actually gets approved, plus a ready-made escalation plan in case it doesn't.\nNo lawyer, no templates to fill in, no guessing which law applies. 🙌\n👉 The prompt lives here: PROMPT.md\n- Copy",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "writing"
+      ]
+    },
+    {
+      "id": "002fb878-6549-4114-bae7-01c8326672f4",
+      "name": "ai-level-check",
+      "url": "https://github.com/Raymondhou0917/ai-level-check",
+      "oneLiner": "ln -s ~/ai-level-check ~/.",
+      "description": "繁體中文 · English\n讓 AI 來評估你的 AI 能力，不是讓人來評估。\n最準的方式，是讓 AI 去讀 AI 的使用紀錄。\n掃 Claude Code、Codex、Antigravity 留在硬碟上的紀錄， 看這個人怎麼下指令、呼叫了哪些工具、怎麼修正、做出什麼成果， 產出一份 有案例、可追溯 的 AI 使用能力報告。\nLV0–LV5 使用等級 · 組織強度與應用成熟度 · 四項系統驗證 · 16 型人物志 · 單檔 HTML 報告書\n給 Claude Code、Codex、Cursor 和任何能讀 Markdown 的 AI agent 用。\n先確認讀到什麼 → 再判斷看到什麼 → 最後才說可以怎麼改\n不是讓 AI 給人打分數，是讓 AI 把證據攤開來，讓人自己看見。\n下面四張是真的跑出來的報告（2026-08-26 到 09-08，14 天）。想自己捲、切等級，打開公開示範： ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Raymondhou0917/ai-level-check.git",
+      "categories": [
+        "code",
+        "agents",
+        "writing"
+      ]
+    },
+    {
+      "id": "970e20d0-26a2-4062-838d-28f16b6d1961",
       "name": "voice-ai-benchmarks",
       "url": "https://github.com/gonzalo-cordova-pou/voice-ai-benchmarks",
       "oneLiner": "A directory of benchmarks for the components and complete systems used to build voice agents.",
@@ -185,12 +236,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "voice"
+        "voice",
+        "agents"
       ]
     },
     {
-      "id": "89f07cf6-337e-48d1-a48c-600880e5dd22",
+      "id": "af2eb807-de42-499b-9d74-fa9f4767eb93",
       "name": "hanshuang-codex",
       "url": "https://github.com/aimeoa/hanshuang-codex",
       "oneLiner": "├─ M1 Installer (install.",
@@ -201,50 +252,33 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "1174154f-3ebc-4768-a62e-8ddbd3ad8c47",
-      "name": "subpool",
-      "url": "https://github.com/gesta-run/subpool",
-      "oneLiner": "Enterprise AI subscription quota allocation and governance, self-hosted.",
-      "description": "Enterprise AI subscription quota allocation and governance, self-hosted.\nSubpool is a self-hosted control plane for allocating, governing, and auditing AI subscription capacity across teams. Administrators combine authorized subscription and API accounts into pools, distribute employee-specific keys, monitor remaining quota, and expose one consistent API without storing conversation content.\n- Poo",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "image",
-        "security"
-      ]
-    },
-    {
-      "id": "5bb3ecd3-358a-4445-acec-298eb05dfc6f",
-      "name": "x-automation",
-      "url": "https://github.com/HuberTRoy/x-automation",
-      "oneLiner": "Guarded X community workflows for any host agent.",
-      "description": "Guarded X community workflows for any host agent. Connect an already authenticated browser over Chrome DevTools Protocol (CDP), let the invoking agent handle reasoning, review a dry run, then opt into verified replies, reposts, quote-posts, original posts, and thread interactions.\n- Status\n- Install\n- Quick Start\n- Visual Overview\n- Commands\n- Features\n- Runtime Architecture\n- Configuration\n- Tele",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "design",
-        "productivity"
+        "code"
       ]
     },
     {
-      "id": "bb970578-5355-4ae2-a2c1-85154dc83575",
-      "name": "openqa-skills",
-      "url": "https://github.com/openqa-cn/openqa-skills",
-      "oneLiner": "Quality verification infrastructure for AI software engineering, from requirements to release.",
-      "description": "Quality verification infrastructure for AI software engineering, from requirements to release.\nCapability Map · Quick Start · Runnable Example · Getting Started · FAQ · Support Matrix\nAI Coding makes implementation cheaper, but a patch can still miss a requirement, weaken a test, break an indirect caller, or pass checks that do not exercise the intended behavior. OpenQA is building a verification ",
+      "id": "96cb1ccb-a421-4d49-9a4d-c023d7c9ad25",
+      "name": "Gambling with our lives",
+      "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
+      "oneLiner": "An artificial intelligence researcher who worked at Anthropic — and previously OpenAI — has resigned, saying both tech giants are \"gambling with our lives.",
+      "description": "An artificial intelligence researcher who worked at Anthropic — and previously OpenAI — has resigned, saying both tech giants are \"gambling with our lives.\"\nJacob Coxon shared his exit in a post on X, warning that the world should \"not underestimate the power of this technology.\" He added: \"These will soon be superhuman systems that can hack anything, revolutionize any field overnight, and acquire",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "search",
+        "research"
+      ]
+    },
+    {
+      "id": "bea1eecc-e76d-4d89-a1c9-349d11721931",
+      "name": "YouTube cracks down on 'AI ghost creators'",
+      "url": "https://www.semafor.com/article/09/03/2026/youtube-cracks-down-on-ghost-creators",
+      "oneLiner": "YouTube removed videos linked to a network of AI-supercharged “ghost creators” after Semafor exposed a new online business seeking to capitalize on the platform’s advertising by ch",
+      "description": "YouTube removed videos linked to a network of AI-supercharged “ghost creators” after Semafor exposed a new online business seeking to capitalize on the platform’s advertising by churning out cheap, sensationalized political videos.\n“We have strict policies against spam and deceptive practices,” the company told Semafor in a statement. “After a review, we terminated 20 channels — including all 13 r",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -252,42 +286,8 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "517a61c7-a13a-44d3-bcf0-d6f34be638dd",
-      "name": "Arm Mali G2-Ultra NX GPU",
-      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-      "oneLiner": "Demands from mobile users continue to grow.",
-      "description": "Inside the Arm Mali G2-Ultra NX GPU: Delivering desktop-class mobile gameplay with AI-native graphics\nDemands from mobile users continue to grow. They want richer visuals, smoother frame rates, and increasingly immersive experiences. For developers the challenge is complex, as they aim to meet these expectations while staying within the strict power, thermal, and bandwidth limits of mobile devices",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "image",
-        "design"
-      ]
-    },
-    {
-      "id": "6c52ad59-dba5-472f-8964-0740a92559ce",
-      "name": "Archprint",
-      "url": "https://github.com/Tommkruix/archprint",
-      "oneLiner": "Mine the architecture rules your repo already enforces, with the evidence attached.",
-      "description": "Mine the architecture rules your repo already enforces, with the evidence attached.\nArchprint scans a TypeScript repository's real import graph, finds the architectural boundaries the code already respects, and turns the ones that pass a statistical confidence gate into deterministic, ready to install lint rules. Every rule ships with the evidence behind it: how many files conform, how many break ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Tommkruix/archprint",
-      "categories": [
-        "code",
-        "design",
-        "rag"
+        "video",
+        "writing"
       ]
     }
   ]
