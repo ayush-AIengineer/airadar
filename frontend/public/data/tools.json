@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-09-10T10:47:35.947674+00:00",
-  "count": 14,
+  "generatedAt": "2026-09-11T10:44:27.468601+00:00",
+  "count": 19,
   "tools": [
     {
-      "id": "a6bdccd2-ea72-42fe-86f2-38f29b29ee72",
+      "id": "e9013e1f-7507-46e3-86ab-96214d7f2e04",
+      "name": "tracecrate",
+      "url": "https://github.com/FankChen/tracecrate",
+      "oneLiner": "A privacy-first, client-side AI trace workbench.",
+      "description": "A privacy-first, client-side AI trace workbench. Inspect the sequence, question the patterns, share deliberately.\n简体中文 · Format guide · Privacy · Contributing\nActual live-site screenshot, visually reviewed; 1440 × 2026 full page. All events and values are synthetic demo data, not benchmark results.\nTraceCrate turns files you choose into a searchable timeline, recorded metrics, heuristic diagnostic",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/FankChen/tracecrate.git",
+      "categories": [
+        "agents",
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "6162a540-26b6-42d1-9343-7567951ee372",
       "name": "tokentab",
       "url": "https://github.com/crwdla/tokentab",
       "oneLiner": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, an",
@@ -14,47 +31,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/crwdla/tokentab",
       "categories": [
-        "code",
         "design",
-        "data"
+        "data",
+        "code"
       ]
     },
     {
-      "id": "419fac3e-041b-4ae2-9da9-8f88cfcb3e15",
-      "name": "s3-files-ai-sdk",
-      "url": "https://github.com/tomiholtz/s3-files-ai-sdk",
-      "oneLiner": "Assemble a mosaic of on-device AI benchmarks — one tile per delegate.",
-      "description": "Assemble a mosaic of on-device AI benchmarks — one tile per delegate.\nPython stdlib CLI + Kotlin JVM/Android core · zero third-party dependencies\nmanifest\n→ plan\n→ samples\n→ report\nOn-device inference is never a single number. The same model behaves like a different animal depending on the delegate it runs on (CPU, GPU, NNAPI, XNNPACK…), the thread count, the batch size, and — crucially on phones ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "194661cc-4e0f-4120-8615-aabbc253ae6d",
-      "name": "LifeContextOS",
-      "url": "https://github.com/EverlastingAI-Official/LifeContextOS",
-      "oneLiner": "Turn scattered life data into a traceable, correctable, and runnable digital self.",
-      "description": "把散落的人生数据，变成可追溯、可校正、可运行的数字自我。\nTurn scattered life data into a traceable, correctable, and runnable digital self.\n中文 · English · 数据主权 · 开放规范 · 哲学基础 · 项目结构 · Project structure\nLifeContext L1 是由 Everlsating AI（生生科技）构建的本地优先个人人生上下文操作系统，也是拟议 LifeContext 开放规范的首个参考实现。它把用户主动授权的文档、聊天记录、口述史和声音资料，转化为一条可追溯、可校正、可移植的数据链：\n原始资料 → Archive → Evidence → ThoughtCell → 人工审核\n→ SOUL / MEMORY / STYLE → Mindcopy → 对话与 Agent",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "rag",
-        "security"
-      ]
-    },
-    {
-      "id": "66c0800b-9770-4c5e-9bce-ab0e401da0f2",
+      "id": "65720949-5ff4-49b9-95ce-42e36d129498",
       "name": "short-video-generator-AI",
       "url": "https://github.com/Colafornia/short-video-generator-AI",
       "oneLiner": "A free open-source project designed to turn youtube-videos into viral short videos.",
@@ -65,13 +48,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/Colafornia/short-video-generator-AI.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "video"
       ]
     },
     {
-      "id": "92251034-6693-4d7e-9d0f-1190a579a491",
+      "id": "d0698fc0-1c00-43b6-83bc-c31d9ceb8010",
       "name": "claude-outreach",
       "url": "https://github.com/emelia-io/claude-outreach",
       "oneLiner": "Run your whole outbound from Claude Code.",
@@ -82,47 +65,81 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/emelia-io/claude-outreach.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "marketing"
       ]
     },
     {
-      "id": "8d5bbee2-682b-412c-8803-232fb3bac13a",
-      "name": "Stroq",
-      "url": "https://github.com/AGGIB/Stroq",
-      "oneLiner": "Scans what the agent reads.",
-      "description": "Scans what the agent reads. Taints the session. Blocks the dangerous follow-up — before anything leaves your machine.\nnpx @stroq/cli init\nSupported today: Claude Code, Cursor, Codex, Copilot CLI, Windsurf (native hooks) · OpenClaw (in-process plugin) · any MCP client (stdio proxy)\nWebsite: stroq.dev\nCoding agents read untrusted content constantly — web pages, file contents, MCP tool results, the o",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/AGGIB/Stroq.git",
-      "categories": [
-        "code",
-        "agents",
-        "writing"
-      ]
-    },
-    {
-      "id": "09eb8e31-247d-47cc-b014-e95dc30a2442",
-      "name": "Starkomand",
-      "url": "https://starkomand.com/",
-      "oneLiner": "Mission Control for AI agents on one canvas.",
-      "description": "Mission Control for AI agents on one canvas.\nYour AI coding workspace for Mac. Run Claude Code, Codex and Cursor side by side with the subscriptions you already have. Keep diagrams, GitHub issues and previews beside your agents.\n- Claude\n- Codex\n- Cursor\n- Grok\n- GLM\n- Any CLI\nv1.0.2 · macOS, Apple silicon · 3-day free trial\nOne project.\nYour agents together.\nGo from a repository to your first age",
+      "id": "93592bb4-335b-4b1b-9fed-277565d6bdb0",
+      "name": "SideNote Pro",
+      "url": "https://sidenotepro.com",
+      "oneLiner": "Press Ctrl+Shift+Space from anywhere in Windows.",
+      "description": "Summon it\nPress Ctrl+Shift+Space from anywhere in Windows. No window to find, no tab to load.\nSideNote Pro is a native Windows 11 AI assistant that stays docked beside the application you are already in. Connect it to your own API provider or a local model, and work with text, screenshots, documents and local folders without moving into another AI platform.\nYour keys. Your models. Your provider. N",
       "pricing": "free_trial",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
+        "design",
         "agents",
-        "voice"
+        "code"
       ]
     },
     {
-      "id": "9ed936fc-a98d-4c31-920a-04d370bc27f1",
+      "id": "e0b1733e-9f72-49a0-a12d-2e71c1ba4e12",
+      "name": "Swiftime",
+      "url": "https://swiftime.ai/",
+      "oneLiner": "See where your time goes across clients and projects.",
+      "description": "All those little hours.\nFinally, in one place.\nSee where your time goes across clients and projects. Walk into billing day with the details already there.\nOne clear picture\nYou did the work. Just tell Swiftime about it.\nClient, project, duration, date. All the details fall into place.\n“2h redesigning the homepage for Acme yesterday”\nAcme\nType a sentence, use your voice, or send it through the API.",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "voice",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "8fc3b35a-2540-4f28-b81c-424def18db92",
+      "name": "CertArena",
+      "url": "https://aicertarena.com/",
+      "oneLiner": "Practice AI fundamentals, Amazon Bedrock, responsible AI, and security decisions on AWS.",
+      "description": "Practice AI fundamentals, Amazon Bedrock, responsible AI, and security decisions on AWS.\nPearson VUE Simulation\n120-minute timed exam conditions, option strikethrough, item flag review matrix, and 700+ scaled scoring.\nBlueprint Scenarios\nProduction enterprise scenarios testing cost, latency, context caching, tool calling, and governance constraints.\nNeural Voice Proctor\nKokoro TTS speech synthesis",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "voice",
+        "design",
+        "rag"
+      ]
+    },
+    {
+      "id": "7d941038-04e3-48e6-8b67-f1131396c071",
+      "name": "tessra",
+      "url": "https://github.com/NitrusAphalion/tessra",
+      "oneLiner": "The version control system for the era of AI.",
+      "description": "The version control system for the era of AI.\nGit records what changed. Tessra records what changed, why, and what is known to be true about the result.\nBuilt for agents that write code around the clock, and for the humans who decide what to trust.\nUsing Tessra\nWhy Tessra ·\nGet started ·\nHow it works ·\nWhat you get ·\nHow agents use it ·\nStandards and hooks ·\nWorking alongside git ·\nReading the rep",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/NitrusAphalion/tessra",
+      "categories": [
+        "design",
+        "code",
+        "writing"
+      ]
+    },
+    {
+      "id": "646c69ed-3abb-4fc8-a712-7ad0991c4c13",
       "name": "routeVSCODE",
       "url": "https://github.com/yudaprasetya007/routeVSCODE",
       "oneLiner": "9Router Model Connector adalah integrasi pintar yang menghubungkan Visual Studio Code (GitHub Copilot Chat) dengan gateway AI 9Router melalui Zero-Reload Dynamic Local Proxy.",
@@ -133,29 +150,46 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/yudaprasetya007/routeVSCODE.git",
       "categories": [
-        "code",
-        "design"
+        "design",
+        "code"
       ]
     },
     {
-      "id": "24625e43-ce94-4da9-a29f-6fdbbec6e460",
+      "id": "590d47f2-686d-441b-a14a-740aa7e8d2ef",
       "name": "loopera",
       "url": "https://github.com/Loopera-ai/loopera",
       "oneLiner": "Fundamental research, engineered for evidence.",
-      "description": "特征挖掘，洞察无限\n面向基本面因子研究的智能 Agent\nFundamental research, engineered for evidence.\n产品概览 · 产品框架 · 研究输入 · 完整案例 · 责任边界\n仓库定位： 这是 Loopera 的公开产品与技术资料仓库，不是源代码发行包。当前不提供可运行代码、安装包、CLI 或公开 API；README 中的流程和案例用于说明产品能力与证据边界。\nLoopera 围绕上市公司的财务报表与经营信息，为基本面量化团队持续完成研究方向探索、经济假设形成、候选因子构建、可信验证与知识沉淀。\n- 基本面量化团队：扩展研究覆盖，建立统一、可复核的因子研究流程；\n- 投研与金融科技机构：把内部报告、研究观点和数据能力连接到标准化验证链路；\n- 研究管理者：追踪研究来源、决策依据、失败原因及后续方向，而不只查看最终回测结果。\n它的目标不是批量生成公",
+      "description": "特征挖掘，洞察无限\n面向基本面因子研究的智能体Agent\nFundamental research, engineered for evidence.\n产品概览 · 产品框架 · 研究输入 · 完整案例 · 责任边界\n仓库定位： 这是 Loopera 的公开产品与技术资料仓库，不是源代码发行包。当前不提供可运行代码、安装包、CLI 或公开 API；README 中的流程和案例用于说明产品能力与证据边界。\nLoopera 围绕上市公司的财务报表与经营信息，为基本面量化团队持续完成研究方向探索、经济假设形成、候选因子构建、可信验证与知识沉淀。\n- 基本面量化团队：扩展研究覆盖，建立统一、可复核的因子研究流程；\n- 投研与金融科技机构：把内部报告、研究观点和数据能力连接到标准化验证链路；\n- 研究管理者：追踪研究来源、决策依据、失败原因及后续方向，而不只查看最终回测结果。\n它的目标不是批量生成公",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "search"
       ]
     },
     {
-      "id": "ad7e4a46-51b7-4490-aea9-253a7c782dab",
+      "id": "5b178f60-6398-428a-9ca3-528ef0b506d5",
+      "name": "strat-hunter",
+      "url": "https://github.com/mohdhd/strat-hunter",
+      "oneLiner": "Use AI coding assistants to investigate trading ideas and organize the results in a web dashboard.",
+      "description": "Use AI coding assistants to investigate trading ideas and organize the results in a web dashboard.\nWatch the 42-second demo · Report a bug\nDescribe an idea in everyday language. Strat Hunter starts a coding assistant that writes strategy code, runs historical simulations (backtests), and records its attempts. You can watch progress, ask questions, stop a job, and download a strategy for further re",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "agents",
+        "code"
+      ]
+    },
+    {
+      "id": "87eca531-cae3-4e02-9e7c-0bf23029424f",
       "name": "refund-anything-ai-prompt",
       "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
       "oneLiner": "A single, self-contained prompt that turns Claude, ChatGPT, or any other capable AI into your personal refund assistant.",
@@ -166,13 +200,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "writing"
       ]
     },
     {
-      "id": "ce823f45-c526-45bb-9909-d6f17e709c82",
+      "id": "420661fb-debc-4709-93ec-16963b27e039",
       "name": "ai-level-check",
       "url": "https://github.com/Raymondhou0917/ai-level-check",
       "oneLiner": "ln -s ~/ai-level-check ~/.",
@@ -183,13 +217,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/Raymondhou0917/ai-level-check.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "writing"
       ]
     },
     {
-      "id": "dcbbeb53-60af-4304-bc3f-07da5b26aabd",
+      "id": "5d20fd32-a096-4723-92c0-40d7633f683b",
       "name": "voice-ai-benchmarks",
       "url": "https://github.com/gonzalo-cordova-pou/voice-ai-benchmarks",
       "oneLiner": "A directory of benchmarks for the components and complete systems used to build voice agents.",
@@ -200,13 +234,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
+        "voice",
         "agents",
-        "voice"
+        "code"
       ]
     },
     {
-      "id": "a0235ee0-67c3-44b8-8805-8453f7dc4e15",
+      "id": "9f263253-c1f6-48ed-8588-7eeaf56e7725",
+      "name": "SkillAdam",
+      "url": "https://github.com/ruc-datalab/SkillAdam",
+      "oneLiner": "Give SkillAdam a skill and tell it what you want to improve.",
+      "description": "Give SkillAdam a skill and tell it what you want to improve. It tests your SKILL.md\non relevant tasks, learns from the results, and checks proposed changes before updating the file.\nSupported platforms: Codex · Claude Code · Cursor Agent · GitHub Copilot.\n- Improve skills for your workflow. Describe your goal and provide examples of tasks your skill should handle.\n- Learn from earlier attempts. Us",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/ruc-datalab/SkillAdam.git",
+      "categories": [
+        "design",
+        "agents",
+        "code"
+      ]
+    },
+    {
+      "id": "af150841-4e80-44df-b26f-722d3fdac404",
       "name": "hanshuang-codex",
       "url": "https://github.com/aimeoa/hanshuang-codex",
       "oneLiner": "├─ M1 Installer (install.",
@@ -217,25 +268,58 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "design"
+        "design",
+        "code"
       ]
     },
     {
-      "id": "4faae399-815a-4410-bd46-7730218aad32",
-      "name": "AI Made Delegation Easy",
-      "url": "https://syntheticauth.ai/posts/ai-made-delegation-easy-structure-is-still-the-skill",
-      "oneLiner": "AI didn't make you faster.",
-      "description": "AI Made Delegation Easy\nStructure Is Still the Skill\nAI didn't make you faster. It made you stop having to slow down, and that is the more dangerous gift.\nFor most of working history, planning was involuntary. Doing anything, hiring a contractor, drafting a proposal, building a model, took long enough that you had time to think before you were far enough in to regret it. The friction wasn't a desi",
+      "id": "b164d28f-3c6a-4718-8b41-389a1a071612",
+      "name": "llms-robot-arena",
+      "url": "https://github.com/nigrosimone/llms-robot-arena",
+      "oneLiner": "An arena where LLMs write robot controllers and their code competes.",
+      "description": "An arena where LLMs write robot controllers and their code competes.\nGive a coding agent the game rules, let it build a bot, and watch its decisions play out against other submissions. Every robot has the same body, motors and front wedge. The difference is the code controlling it.\nIt's not an AGI benchmark. It tests how coding agents turn the same dynamic specification into an autonomous controll",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/nigrosimone/llms-robot-arena",
+      "categories": [
+        "design",
+        "agents",
+        "code"
+      ]
+    },
+    {
+      "id": "c60c7f7f-0dd4-4ddf-8555-0da9153cb617",
+      "name": "The Gemini app is now available for Windows",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "oneLiner": "Today, we're launching the Gemini app for Windows.",
+      "description": "The Gemini app is now available for Windows\nToday, we're launching the Gemini app for Windows. Designed to work seamlessly alongside your favorite tools and daily applications, the new desktop app gives you instant assistance without breaking your flow.\nHere are three ways you can use the Gemini app on your PC:\n1. Access Gemini instantly with a keyboard shortcut.\nPress Alt + Space on your PC at an",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
-        "marketing"
+        "code",
+        "image"
+      ]
+    },
+    {
+      "id": "dc920112-bd89-4b8c-a338-d793409132bf",
+      "name": "Blender Agent:A live",
+      "url": "https://github.com/zavora-ai/adk-rust/tree/main/examples/blender_console",
+      "oneLiner": "A live, multi-turn agent that reports what it is doing into a browser console while it works on your desktop.",
+      "description": "A live, multi-turn agent that reports what it is doing into a browser console while it works on your desktop. You type a request, it declares a plan, works, ticks the steps off, and posts real screen captures as it goes. Type again mid-task and it adapts.\nThe frame above is a real capture of Blender, taken through the MCP session. The purple cube came from the first request in that conversation an",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "agents"
       ]
     }
   ]
