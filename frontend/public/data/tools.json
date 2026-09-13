@@ -1,13 +1,30 @@
 {
-  "generatedAt": "2026-09-12T10:13:37.525612+00:00",
+  "generatedAt": "2026-09-13T11:13:41.359742+00:00",
   "count": 20,
   "tools": [
     {
-      "id": "a910181f-4ca5-4582-a97c-c4d25fca9dd7",
+      "id": "b26ed653-7dae-43e9-8425-642bc5f102b6",
+      "name": "loki",
+      "url": "https://github.com/wundercorp/loki",
+      "oneLiner": "The self-improving AI agent built by WunderCorp, Inc.",
+      "description": "The self-improving AI agent built by WunderCorp, Inc.. It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure that costs nearly nothing when idl",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/astral-sh/uv",
+      "categories": [
+        "code",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "60862eec-fab0-4687-9e4b-9ee58a49772d",
       "name": "tracecrate",
       "url": "https://github.com/FankChen/tracecrate",
       "oneLiner": "A privacy-first, client-side AI trace workbench.",
-      "description": "A privacy-first, client-side AI trace workbench. Inspect the sequence, question the patterns, share deliberately.\n简体中文 · Format guide · Privacy · Contributing\nActual live-site screenshot, visually reviewed; 1440 × 2026 full page. All events and values are synthetic demo data, not benchmark results.\nTraceCrate turns files you choose into a searchable timeline, recorded metrics, heuristic diagnostic",
+      "description": "A privacy-first, client-side AI trace workbench. Inspect the sequence, question the patterns, share deliberately.\n简体中文 · V0.2 research & design · Format guide · Privacy · Contributing\nActual V0.2 live-site screenshot from Pages 34747767675, visually reviewed; 1440 × 2104 full page. All events and values are synthetic demo data, not benchmark results.\nTraceCrate turns files you choose into a search",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -15,12 +32,12 @@
       "githubUrl": "https://github.com/FankChen/tracecrate.git",
       "categories": [
         "code",
-        "security",
-        "agents"
+        "design",
+        "security"
       ]
     },
     {
-      "id": "b2d41a1b-bc0e-452d-9e53-9dde61f30b5b",
+      "id": "e0944785-89fa-45f0-9531-c2cfa19475b5",
       "name": "sloppy",
       "url": "https://github.com/Heyosseus/sloppy",
       "oneLiner": "Static analysis for the code-quality patterns AI coding agents leave behind.",
@@ -31,13 +48,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "61027c3c-48ca-433f-a54c-a854414bbc06",
+      "id": "4ae026db-2ac4-4839-82cf-35f46745a355",
       "name": "tokentab",
       "url": "https://github.com/crwdla/tokentab",
       "oneLiner": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, an",
@@ -48,13 +65,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/crwdla/tokentab",
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "8f6598b0-d6ae-44ad-85ef-ad2799229a7a",
+      "id": "cb41ced0-b011-4940-b212-d4ada59d7d0d",
       "name": "ai-data-extractor",
       "url": "https://github.com/kruzovic7/ai-data-extractor",
       "oneLiner": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversation",
@@ -66,12 +83,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "data",
-        "agents"
+        "agents",
+        "data"
       ]
     },
     {
-      "id": "b4ae3a70-1fe7-4496-a65f-26700f5b0fc7",
+      "id": "5ce26b63-67bb-4e3f-a574-f05f184a4f7b",
       "name": "short-video-generator-AI",
       "url": "https://github.com/Colafornia/short-video-generator-AI",
       "oneLiner": "A free open-source project designed to turn youtube-videos into viral short videos.",
@@ -82,13 +99,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/Colafornia/short-video-generator-AI.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "video"
       ]
     },
     {
-      "id": "49dcf5c4-b071-40f3-a9e9-cd54686d0bf8",
+      "id": "916bb7c8-e4ae-4a9f-b5d4-205517395bbc",
       "name": "claude-outreach",
       "url": "https://github.com/emelia-io/claude-outreach",
       "oneLiner": "Run your whole outbound from Claude Code.",
@@ -99,81 +116,62 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/emelia-io/claude-outreach.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "marketing"
       ]
     },
     {
-      "id": "5e51640c-6cb1-4626-b75d-69461f5ddc81",
-      "name": "How to Build an AI Software Factory",
-      "url": "https://www.firecrawl.dev/blog/ai-software-factory",
-      "oneLiner": "An AI software factory is five stages with a gate at each one.",
-      "description": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs\nTL;DR\nAn AI software factory is five stages with a gate at each one. The agent is the cheap part.\nThe short version: every company that made this work built the gates before the fleet. Spotify's Fleetshift shipped in 2023, two years before it had an agent to put in it. Generation scales with spend, review does not, and th",
-      "pricing": "open_source",
+      "id": "c01a1b5d-164c-4c4d-b1ca-35b980182d58",
+      "name": "Claude AIs tricked into unescapable conversation [beginning",
+      "url": "https://www.thisamericanlife.org/896/transcript",
+      "oneLiner": "Note: This American Life is produced for the ear and designed to be heard.",
+      "description": "896: I Know What You Need\nNote: This American Life is produced for the ear and designed to be heard. If you are able, we strongly encourage you to listen to the audio, which includes emotion and emphasis that's not on the page. Transcripts are generated using a combination of speech recognition software and human transcribers, and may contain errors. Please check the corresponding audio before quo",
+      "pricing": "free_trial",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "cc9707d0-f709-4324-808c-fa5056fbed0f",
-      "name": "RagLeap v0.4.0",
-      "url": "https://github.com/antonyrag/ragleap-core",
-      "oneLiner": "RagLeap Core is the open-source engine behind RagLeap — a self-hosted, agentic system that runs your business from your own documents on your own server, with no vendor lock-in.",
-      "description": "RagLeap Core is the open-source engine behind RagLeap — a self-hosted, agentic system that runs your business from your own documents on your own server, with no vendor lock-in.\n46 role-based AI Employees: 9 core generalist roles (AI Manager, Secretary, CEO, Sales, Support, HR, Finance, Marketing, Operations) plus 37 vertical-specific global roles (Recruiter, Real Estate Agent, Legal Intake, Healt",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/antonyrag/ragleap-core.git",
-      "categories": [
-        "rag",
-        "agents",
+        "audio",
         "voice"
       ]
     },
     {
-      "id": "2a3efa0c-c123-41a3-ae9b-3cf6f7fcf21b",
-      "name": "I turn Airtable exports into real Postgres schemas(FKs",
-      "url": "https://www.atmigrator.com",
-      "oneLiner": "AT Migrator is a tool that migrates Airtable bases to PostgreSQL, converting linked records into foreign keys and recreating Airtable formulas, rollups, and lookups as native SQL, ",
-      "description": "Migrate Airtable to PostgreSQLwithout data loss\nAT Migrator is a tool that migrates Airtable bases to PostgreSQL, converting linked records into foreign keys and recreating Airtable formulas, rollups, and lookups as native SQL, not just syncing them as static values.\nFree 30-minute call with a migration engineer — no pressure.\n0+\nRecords\n0\nBases\n0+ GBs\nAttachments\n0\nFields\nWhat's included\nEverythi",
+      "id": "a20ad51a-728d-4c56-8974-6dc78afb287c",
+      "name": "How LLMs work",
+      "url": "https://understand-ai.dev/",
+      "oneLiner": "Just the real ideas behind ChatGPT, explained through something you already love.",
+      "description": "No maths. No jargon. Just the real ideas behind ChatGPT, explained through something you already love.\nLesson 1 is free in every worldThe same AI, three ways in. Choose the one that speaks your language.\nSee how AI picks its next word the way an umpire weighs a close call.\nWatch the model weigh its options the way VAR reads a move before it happens.\nHear the odds shift as a soloist chooses the nex",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "data",
-        "security"
+        "audio"
       ]
     },
     {
-      "id": "9dc03396-838e-4872-ae6c-35cd8ee23e78",
-      "name": "Fog 2.0",
-      "url": "https://apps.apple.com/us/app/smart-notes-folders-fog/id6760272134",
-      "oneLiner": "Free · Designed for iPad.",
-      "description": "Smart Notes & Folders: Fog\nSmart suggestions. You decide.\nFree · Designed for iPad. Not verified for macOS.\nCapture ideas instantly with Fog. On-device AI suggests titles, auto-summarizes folders.\nWelcome to Fog. The minimalist notes app designed to eliminate organizing friction while keeping you in complete control.\nJust open the app and write. Fog uses smart, on-device intelligence to propose ti",
-      "pricing": "free",
+      "id": "6d365df5-a1d7-4eba-a5b9-974a55b24783",
+      "name": "Baize",
+      "url": "https://github.com/Xu123-Bob/Baize",
+      "oneLiner": "git cd baize-agent pip install -e .",
+      "description": "白泽 Baize\n通晓万物，陪你直觉编程。\n白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。\n一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。\n-\n多后端支持：DeepSeek、任意 OpenAI 兼容接口（Groq / 智谱 / 通义 / Moonshot / OpenAI）、本地 Ollama，一键切换。\n-\n零配置启动：首次运行自动生成配置文件，用户只需填一次密钥。\n-\n完整工具链：bash 执行、文件读写编辑、glob/grep 搜索、网页搜索抓取、后台任务、任务与待办管理。\n-\n技能系统（Skills）：按需加载领域知识（SKILL.md），让 AI 在特定场景下更",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Xu123-Bob/baize.git",
       "categories": [
-        "design",
         "code",
-        "productivity"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "32af694f-4ab0-4dcf-a0ca-1494ee984b63",
+      "id": "ac31e6f3-3574-4d91-88c1-35d836292c19",
       "name": "tessra",
       "url": "https://github.com/NitrusAphalion/tessra",
       "oneLiner": "The version control system for the era of AI.",
@@ -184,13 +182,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/NitrusAphalion/tessra",
       "categories": [
-        "design",
         "code",
+        "design",
         "writing"
       ]
     },
     {
-      "id": "a708347d-d324-4c80-8be6-64bce03d30e8",
+      "id": "ea758108-2737-47e6-9171-848da7308678",
       "name": "routeVSCODE",
       "url": "https://github.com/yudaprasetya007/routeVSCODE",
       "oneLiner": "9Router Model Connector adalah integrasi pintar yang menghubungkan Visual Studio Code (GitHub Copilot Chat) dengan gateway AI 9Router melalui Zero-Reload Dynamic Local Proxy.",
@@ -201,12 +199,12 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/yudaprasetya007/routeVSCODE.git",
       "categories": [
-        "design",
-        "code"
+        "code",
+        "design"
       ]
     },
     {
-      "id": "53a9e999-ee3d-434e-be23-6994d964ff65",
+      "id": "6fbe0d8c-a5e4-4dec-9695-04cc19f7dd8d",
       "name": "loopera",
       "url": "https://github.com/Loopera-ai/loopera",
       "oneLiner": "Fundamental research, engineered for evidence.",
@@ -223,7 +221,7 @@
       ]
     },
     {
-      "id": "bba9903e-59c3-4e99-91b0-68795ccfa2d2",
+      "id": "2120dbc3-4d32-4843-8d89-665079c42502",
       "name": "strat-hunter",
       "url": "https://github.com/mohdhd/strat-hunter",
       "oneLiner": "Use AI coding assistants to investigate trading ideas and organize the results in a web dashboard.",
@@ -234,13 +232,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "agents"
       ]
     },
     {
-      "id": "42a1790f-351f-41ef-9def-e65122dc7dc0",
+      "id": "4c90ac12-d4ce-4c76-b224-cd7cba054b34",
+      "name": "linktokenview-docs",
+      "url": "https://github.com/yinyuepingguo/linktokenview-docs",
+      "oneLiner": "const resp = await client.",
+      "description": "LinkTokenView（联视未来）是一个国产大模型 API 聚合平台，现已正式开启内测。 一个 OpenAI 兼容接口即可调用 DeepSeek、通义千问、Kimi、豆包、智谱 GLM、百川、讯飞星火、MiMo、阶跃星辰等国产大模型，一个 API Key 跨模型通用，Token 余额统一调度，按实际用量计费。\n官网：https://linktokenview.com · 帮助文档：https://linktokenview.com/docs\n首批国产大模型已接入，更多模型将陆续上线。内测期间开放以下福利：\n以上福利仅在内测期间有效，名额、折扣与有效期以 LinkTokenView 平台当前页面说明为准。\n内测期间遇到问题或有建议，欢迎通过平台客服或帮助中心的问题排查入口反馈，我们会尽快响应。\n- 一个接口，多种模型：统一 OpenAI 兼容接口，新增模型无需改动业务代码，现有项目替换 ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "writing"
+      ]
+    },
+    {
+      "id": "d5338b08-aebe-4a1c-9304-303072af854b",
       "name": "refund-anything-ai-prompt",
       "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
       "oneLiner": "A single, self-contained prompt that turns Claude, ChatGPT, or any other capable AI into your personal refund assistant.",
@@ -257,7 +272,7 @@
       ]
     },
     {
-      "id": "faa53e16-a551-4f15-a535-11695ed73a3c",
+      "id": "57caaa4e-0c61-4ce2-aa2a-7e23a7d548f7",
       "name": "ai-level-check",
       "url": "https://github.com/Raymondhou0917/ai-level-check",
       "oneLiner": "ln -s ~/ai-level-check ~/.",
@@ -274,7 +289,7 @@
       ]
     },
     {
-      "id": "dbfc9c8d-3717-406a-9ded-4c0a2c17519d",
+      "id": "51506e94-502b-4cce-891b-b5344d2a9822",
       "name": "voice-ai-benchmarks",
       "url": "https://github.com/gonzalo-cordova-pou/voice-ai-benchmarks",
       "oneLiner": "A directory of benchmarks for the components and complete systems used to build voice agents.",
@@ -291,51 +306,37 @@
       ]
     },
     {
-      "id": "88ef9a88-a261-4da0-8b3c-6f03e8b046a0",
-      "name": "SkillAdam",
-      "url": "https://github.com/ruc-datalab/SkillAdam",
-      "oneLiner": "Give SkillAdam a skill and tell it what you want to improve.",
-      "description": "Give SkillAdam a skill and tell it what you want to improve. It tests your SKILL.md\non relevant tasks, learns from the results, and checks proposed changes before updating the file.\nSupported platforms: Codex · Claude Code · Cursor Agent · GitHub Copilot.\n- Improve skills for your workflow. Describe your goal and provide examples of tasks your skill should handle.\n- Learn from earlier attempts. Us",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ruc-datalab/SkillAdam.git",
-      "categories": [
-        "design",
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "984c9757-7524-40fe-a6ad-8d028185555d",
-      "name": "hanshuang-codex",
-      "url": "https://github.com/aimeoa/hanshuang-codex",
-      "oneLiner": "├─ M1 Installer (install.",
-      "description": "OpenAI Codex CLI 破甲框架 — Python + PySide6 桌面应用。\n通过一键部署将寒霜指令集注入 Codex config.toml\n（model_instructions_file\n），在对话管道中启用竞赛沙箱模式。双变体指令集（flash / 变体B）适配不同档位模型。\n寒霜桌面端 (PySide6)\n│\n├─ M1 Installer (install.ps1)\n│ config.toml 备份 → model_instructions_file 注入 → 恢复\n│\n├─ M2 指令集 (寒霜-flash-v2.md / 寒霜-变体B-v3-英文.md)\n│ 意图映射 → 作用域规则 → 硬性输出规则 → 执行连续性\n│\n├─ M3 防护层\n│ 反调试 / 反虚拟机 / 完整性校验\n│\n└─ M4 桌面端\n悬浮窗 / 系统托盘 / 一键重启 Codex / ",
+      "id": "b4e2c0a7-4cc7-480f-9788-61ee203f7171",
+      "name": "As-an-engineer",
+      "url": "https://github.com/mayooot/as-an-engineer",
+      "oneLiner": "Stop AI agents from babysitting you.",
+      "description": "Stop AI agents from babysitting you.\nA pure heuristic framework to cure LLM \"Babysitter Syndrome\" and treat you like a senior engineer with a warm execution plane.\nModern AI coding agents are RLHF-aligned to hand-hold non-technical users, leading to systematic engineering anti-patterns:\n- ❌ Derivation over extraction: Defaulting to compute-heavy models and generative loops to infer information tha",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
         "design",
-        "code"
+        "agents"
       ]
     },
     {
-      "id": "2c339774-ac0d-401d-952f-40f066aeb7e2",
-      "name": "Don't Hit Send",
-      "url": "https://github.com/scalattice/dont-hit-send",
-      "oneLiner": "The model is already answering.",
-      "description": "Type. The model is already answering. There is no send button.\nThis is not a duplex socket and it does not stream your keystrokes on one connection. Each pause in typing aborts the last chat completion and starts another with the whole draft. The interesting part is the UX: wait until the last word looks stable, never rewrite a bubble, stack a new reply, kill the previous stream hard.\ngit clone ht",
+      "id": "16007727-a3d7-4ac3-a0d5-85026e7d1cd1",
+      "name": "Astah Pro MCP",
+      "url": "https://github.com/takaakit/astah-pro-mcp",
+      "oneLiner": "- Design systems and represent them as UML models.",
+      "description": "A local MCP server plugin for Astah Professional, a UML modeling tool, that enables AI agents to:\n- Design systems and represent them as UML models.\n- Explain UML models.\n- Generate source code from UML models, and vice versa.\n- Create UML diagrams from hand-drawn sketches.\nThis plugin experimentally implements a programmatic tool calling mode, inspired by the \"Programmatic Tool Calling\" idea desc",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/scalattice/dont-hit-send.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "design"
+        "code",
+        "design",
+        "agents"
       ]
     }
   ]
