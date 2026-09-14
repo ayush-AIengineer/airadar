@@ -1,9 +1,43 @@
 {
-  "generatedAt": "2026-09-13T11:13:41.359742+00:00",
-  "count": 20,
+  "generatedAt": "2026-09-14T12:00:55.010434+00:00",
+  "count": 22,
   "tools": [
     {
-      "id": "b26ed653-7dae-43e9-8425-642bc5f102b6",
+      "id": "fcb403f0-63cc-48b4-9a1d-3f3dd8ea951c",
+      "name": "HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
+      "url": "https://github.com/steverhysjenks/HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
+      "oneLiner": "- Home Assistant native intents for deterministic local commands.",
+      "description": "A practical reference implementation for routing Home Assistant voice requests across:\n- Home Assistant native intents for deterministic local commands.\n- A lightweight local LLM for general knowledge and simple conversation.\n- A larger desktop LLM for Home Assistant-aware questions and tool use.\n- A cloud LLM for internet/current-information questions and as a fallback.\n- GPU/VRAM-aware routing s",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "voice"
+      ]
+    },
+    {
+      "id": "82278488-df59-4d61-a0f0-464fecb535a2",
+      "name": "apipig",
+      "url": "https://github.com/aizuda/apipig",
+      "oneLiner": "无 Git tag 的 snapshot 版本从 version/version.",
+      "description": "free ai gateway 免费 ai 网关，企业级内部 AI 中转服务（ai中转站）。\nAPIPIG 把多模型接入、账号池、API Key 托管、路由策略、权限控制和调用审计收进同一套 AI 网关与控制台。业务系统只对接一个入口，上游模型切换、渠道调整和安全治理都在平台侧完成。\n- 统一 OpenAI 兼容协议入口\n- 路由策略、权限校验、限流熔断\n- 上游模型适配、通道切换、失败回退\n- 请求日志、异常追踪、审计留痕\n⭕本项目采用\nAGPL-3.0\n协议开源完全开放\n任何人可免费使用，必须遵守开源协议使用规范。\n🔴附加协议：\n不允许删除源码注释申明\n，不允许山寨换皮商用\n，否则视为侵权（索赔100万）\n。\n使用必须遵守国家法律法规，⛔不允许非法项目使用，后果自负❗\nOpenAI、Gemini、Qwen、DeepSeek、Ollama 等上游接口统一收口，业务只维护一个网关入口。\n集",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "voice",
+        "audio",
+        "image"
+      ]
+    },
+    {
+      "id": "c661d79b-89b0-4c83-8247-7fd61c8bafda",
       "name": "loki",
       "url": "https://github.com/wundercorp/loki",
       "oneLiner": "The self-improving AI agent built by WunderCorp, Inc.",
@@ -20,7 +54,7 @@
       ]
     },
     {
-      "id": "60862eec-fab0-4687-9e4b-9ee58a49772d",
+      "id": "6b8dbffe-9141-4f44-8667-26e63f4c6da5",
       "name": "tracecrate",
       "url": "https://github.com/FankChen/tracecrate",
       "oneLiner": "A privacy-first, client-side AI trace workbench.",
@@ -32,16 +66,16 @@
       "githubUrl": "https://github.com/FankChen/tracecrate.git",
       "categories": [
         "code",
-        "design",
-        "security"
+        "security",
+        "design"
       ]
     },
     {
-      "id": "e0944785-89fa-45f0-9531-c2cfa19475b5",
+      "id": "fd6c56a8-09e6-4258-b792-0c9d84893458",
       "name": "sloppy",
       "url": "https://github.com/Heyosseus/sloppy",
       "oneLiner": "Static analysis for the code-quality patterns AI coding agents leave behind.",
-      "description": "Static analysis for the code-quality patterns AI coding agents leave behind.\nDeterministic, local, framework-agnostic — with extra rules for Laravel. No model, no API key, no network.\nSloppy reads your PHP with a real parser and reports the shapes that turn into maintenance cost: god methods, swallowed exceptions, likely N+1 queries, business logic in controllers, abstractions that never earned th",
+      "description": "Static analysis for the code-quality patterns AI coding agents leave behind.\nRuns on any PHP project — 24 rules, plus a Laravel set that knows Eloquent, controllers and queues.\nHands the mechanical fixes to Rector and Pint, fails your Pest suite on new debt, annotates the\npull request, and teaches the agent through CLAUDE.md and MCP.\nDeterministic and local — no model, no API key, no network.\nSlop",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -54,24 +88,7 @@
       ]
     },
     {
-      "id": "4ae026db-2ac4-4839-82cf-35f46745a355",
-      "name": "tokentab",
-      "url": "https://github.com/crwdla/tokentab",
-      "oneLiner": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, an",
-      "description": "tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI already leave on disk and adds up token usage and cost - broken down by model, by project, by day, and by the kind of work each session was doing. It runs entirely locally: no account, no API key, nothing leaves your machine.\nClone the repo and install it into your environment:\ngit clone https://github.com/crwdla/tokent",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/crwdla/tokentab",
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "cb41ced0-b011-4940-b212-d4ada59d7d0d",
+      "id": "ea5097b5-886b-42b1-9879-3bdf6c6684e2",
       "name": "ai-data-extractor",
       "url": "https://github.com/kruzovic7/ai-data-extractor",
       "oneLiner": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversation",
@@ -88,7 +105,7 @@
       ]
     },
     {
-      "id": "5ce26b63-67bb-4e3f-a574-f05f184a4f7b",
+      "id": "db0b7fdf-bab0-4b0f-83d4-25929287f7cc",
       "name": "short-video-generator-AI",
       "url": "https://github.com/Colafornia/short-video-generator-AI",
       "oneLiner": "A free open-source project designed to turn youtube-videos into viral short videos.",
@@ -105,7 +122,7 @@
       ]
     },
     {
-      "id": "916bb7c8-e4ae-4a9f-b5d4-205517395bbc",
+      "id": "2d4bc564-d097-4ed7-b7d3-e7ef89f95f4f",
       "name": "claude-outreach",
       "url": "https://github.com/emelia-io/claude-outreach",
       "oneLiner": "Run your whole outbound from Claude Code.",
@@ -122,56 +139,58 @@
       ]
     },
     {
-      "id": "c01a1b5d-164c-4c4d-b1ca-35b980182d58",
-      "name": "Claude AIs tricked into unescapable conversation [beginning",
-      "url": "https://www.thisamericanlife.org/896/transcript",
-      "oneLiner": "Note: This American Life is produced for the ear and designed to be heard.",
-      "description": "896: I Know What You Need\nNote: This American Life is produced for the ear and designed to be heard. If you are able, we strongly encourage you to listen to the audio, which includes emotion and emphasis that's not on the page. Transcripts are generated using a combination of speech recognition software and human transcribers, and may contain errors. Please check the corresponding audio before quo",
-      "pricing": "free_trial",
+      "id": "8ba4d5df-6933-4003-9fce-012f0450f8a3",
+      "name": "Who gets to define the rules for AI?",
+      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+      "oneLiner": "Artificial intelligence is remaking the world we live in.",
+      "description": "A perspective from Aidan Gomez, Co-founder & CEO of Cohere\nArtificial intelligence is remaking the world we live in. Within a generation, the way we discover medicine, manage power grids, and secure our national infrastructure will be completely transformed. Many people already realize this and are working to build that future responsibly. Many people underestimate the scale and pace of change com",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
+      "isOpenSource": true,
       "githubUrl": null,
       "categories": [
         "code",
-        "audio",
-        "voice"
+        "research",
+        "design"
       ]
     },
     {
-      "id": "a20ad51a-728d-4c56-8974-6dc78afb287c",
-      "name": "How LLMs work",
-      "url": "https://understand-ai.dev/",
-      "oneLiner": "Just the real ideas behind ChatGPT, explained through something you already love.",
-      "description": "No maths. No jargon. Just the real ideas behind ChatGPT, explained through something you already love.\nLesson 1 is free in every worldThe same AI, three ways in. Choose the one that speaks your language.\nSee how AI picks its next word the way an umpire weighs a close call.\nWatch the model weigh its options the way VAR reads a move before it happens.\nHear the odds shift as a soloist chooses the nex",
+      "id": "49077a3b-160c-4773-8843-75781b4179cb",
+      "name": "Can I Release This?",
+      "url": "https://aimusic.events/can-i-release-this",
+      "oneLiner": "Check the rules for your AI music.",
+      "description": "Can I Release This? · AI Music Events\nCheck the rules for your AI music.\nGet a first answer from your tool and release plans. Add details only when you want to clarify the result.\nFull result free · No account · No audio upload\n- Your plan\n- First result\n- Optional details\nYour answers & sections\nYour answers\nYour goals\nNo goal selected\nUse: I’m not sure\nDistributor: Not selected\nDestinations: Not",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "audio"
+        "security",
+        "audio",
+        "writing"
       ]
     },
     {
-      "id": "6d365df5-a1d7-4eba-a5b9-974a55b24783",
+      "id": "d1584875-e7d8-4ce7-801e-00d3c40892ed",
       "name": "Baize",
       "url": "https://github.com/Xu123-Bob/Baize",
-      "oneLiner": "git cd baize-agent pip install -e .",
+      "oneLiner": "pip install -r requirements.",
       "description": "白泽 Baize\n通晓万物，陪你直觉编程。\n白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。\n一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。\n-\n多后端支持：DeepSeek、任意 OpenAI 兼容接口（Groq / 智谱 / 通义 / Moonshot / OpenAI）、本地 Ollama，一键切换。\n-\n零配置启动：首次运行自动生成配置文件，用户只需填一次密钥。\n-\n完整工具链：bash 执行、文件读写编辑、glob/grep 搜索、网页搜索抓取、后台任务、任务与待办管理。\n-\n技能系统（Skills）：按需加载领域知识（SKILL.md），让 AI 在特定场景下更",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Xu123-Bob/baize.git",
+      "githubUrl": "https://github.com/Xu123-Bob/Baize.git",
       "categories": [
         "code",
-        "design",
-        "agents"
+        "agents",
+        "design"
       ]
     },
     {
-      "id": "ac31e6f3-3574-4d91-88c1-35d836292c19",
+      "id": "e3507e77-50f6-4a80-bad7-e1f2245f7655",
       "name": "tessra",
       "url": "https://github.com/NitrusAphalion/tessra",
       "oneLiner": "The version control system for the era of AI.",
@@ -188,7 +207,7 @@
       ]
     },
     {
-      "id": "ea758108-2737-47e6-9171-848da7308678",
+      "id": "65273db1-f428-4997-a02c-de51189a6c4b",
       "name": "routeVSCODE",
       "url": "https://github.com/yudaprasetya007/routeVSCODE",
       "oneLiner": "9Router Model Connector adalah integrasi pintar yang menghubungkan Visual Studio Code (GitHub Copilot Chat) dengan gateway AI 9Router melalui Zero-Reload Dynamic Local Proxy.",
@@ -204,7 +223,7 @@
       ]
     },
     {
-      "id": "6fbe0d8c-a5e4-4dec-9695-04cc19f7dd8d",
+      "id": "8553477c-11f1-4004-b84d-22926714bf93",
       "name": "loopera",
       "url": "https://github.com/Loopera-ai/loopera",
       "oneLiner": "Fundamental research, engineered for evidence.",
@@ -221,7 +240,7 @@
       ]
     },
     {
-      "id": "2120dbc3-4d32-4843-8d89-665079c42502",
+      "id": "506dc900-31e9-4f31-9bb9-2561ed486d76",
       "name": "strat-hunter",
       "url": "https://github.com/mohdhd/strat-hunter",
       "oneLiner": "Use AI coding assistants to investigate trading ideas and organize the results in a web dashboard.",
@@ -233,12 +252,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "agents"
+        "agents",
+        "design"
       ]
     },
     {
-      "id": "4c90ac12-d4ce-4c76-b224-cd7cba054b34",
+      "id": "bce21e97-a7ca-40f0-ab65-76e4281528b3",
       "name": "linktokenview-docs",
       "url": "https://github.com/yinyuepingguo/linktokenview-docs",
       "oneLiner": "const resp = await client.",
@@ -255,7 +274,7 @@
       ]
     },
     {
-      "id": "d5338b08-aebe-4a1c-9304-303072af854b",
+      "id": "cabd9eda-5ca3-4bd7-ab2c-3f7bd29048a4",
       "name": "refund-anything-ai-prompt",
       "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
       "oneLiner": "A single, self-contained prompt that turns Claude, ChatGPT, or any other capable AI into your personal refund assistant.",
@@ -272,7 +291,7 @@
       ]
     },
     {
-      "id": "57caaa4e-0c61-4ce2-aa2a-7e23a7d548f7",
+      "id": "fd973907-513f-404c-bacf-16d61475bfd7",
       "name": "ai-level-check",
       "url": "https://github.com/Raymondhou0917/ai-level-check",
       "oneLiner": "ln -s ~/ai-level-check ~/.",
@@ -289,11 +308,11 @@
       ]
     },
     {
-      "id": "51506e94-502b-4cce-891b-b5344d2a9822",
-      "name": "voice-ai-benchmarks",
-      "url": "https://github.com/gonzalo-cordova-pou/voice-ai-benchmarks",
-      "oneLiner": "A directory of benchmarks for the components and complete systems used to build voice agents.",
-      "description": "A directory of benchmarks for the components and complete systems used to build voice agents.\nDiscover benchmarks, leaderboards, arenas, frameworks, and toolkits across six categories:\n- Speech-to-Text (STT): transcription models and services.\n- Text-to-Speech (TTS): speech generation models and services.\n- Turn-Taking: voice activity, end-of-turn detection, interruptions, and overlap.\n- LLM: lang",
+      "id": "b90aaa54-a54f-4c08-8447-f62b9ea992ef",
+      "name": "lay-off-ai-assistant",
+      "url": "https://github.com/YanaNeycheva/lay-off-ai-assistant",
+      "oneLiner": "An interactive assistant that supports a laid-off professional through the whole arc of finding their next job — from the shock of the layoff to signing the next offer.",
+      "description": "An interactive assistant that supports a laid-off professional through the whole arc of finding their next job — from the shock of the layoff to signing the next offer. One conversation, in Bulgarian, that covers benefits, CV, job-search strategy, and interviews — with a steadying, human layer running underneath all of it.\n- Language (what you see): Bulgarian\n- Who it's for: any laid-off professio",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -306,11 +325,11 @@
       ]
     },
     {
-      "id": "b4e2c0a7-4cc7-480f-9788-61ee203f7171",
-      "name": "As-an-engineer",
-      "url": "https://github.com/mayooot/as-an-engineer",
-      "oneLiner": "Stop AI agents from babysitting you.",
-      "description": "Stop AI agents from babysitting you.\nA pure heuristic framework to cure LLM \"Babysitter Syndrome\" and treat you like a senior engineer with a warm execution plane.\nModern AI coding agents are RLHF-aligned to hand-hold non-technical users, leading to systematic engineering anti-patterns:\n- ❌ Derivation over extraction: Defaulting to compute-heavy models and generative loops to infer information tha",
+      "id": "86c3824b-a0f5-418d-91f8-84073995c2e4",
+      "name": "AI-Native dependency upgrades through codemods",
+      "url": "https://apiweiser-cli-fe.vercel.app/",
+      "oneLiner": "apiweiser-cli watches your dependencies, confirms which updates actually break your code, and opens the pull request with the fix — before you ever run the upgrade.",
+      "description": "apiweiser-cli watches your dependencies, confirms which updates actually break your code, and opens the pull request with the fix — before you ever run the upgrade.\ncurl -fsSL https://apiweiser-cli-fe.vercel.app/install.sh | sh\nResolves how your code actually calls each dependency using TypeScript's type checker, not import-tracing — every link in a chained call is caught, even through wrapped or ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -318,16 +337,16 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "agents"
+        "agents",
+        "design"
       ]
     },
     {
-      "id": "16007727-a3d7-4ac3-a0d5-85026e7d1cd1",
-      "name": "Astah Pro MCP",
-      "url": "https://github.com/takaakit/astah-pro-mcp",
-      "oneLiner": "- Design systems and represent them as UML models.",
-      "description": "A local MCP server plugin for Astah Professional, a UML modeling tool, that enables AI agents to:\n- Design systems and represent them as UML models.\n- Explain UML models.\n- Generate source code from UML models, and vice versa.\n- Create UML diagrams from hand-drawn sketches.\nThis plugin experimentally implements a programmatic tool calling mode, inspired by the \"Programmatic Tool Calling\" idea desc",
+      "id": "227fcebc-35cc-4dcf-bbf8-fefad41f1c13",
+      "name": "Socratix",
+      "url": "https://socratix-nine.vercel.app",
+      "oneLiner": "Socratix builds a personalized curriculum graph, forces active practice, and validates your understanding with intelligent diagnostics and upcoming AI voice vivas.",
+      "description": "Master Anything. Not Videos.\nEscape tutorial hell. Socratix builds a personalized curriculum graph, forces active practice, and validates your understanding with intelligent diagnostics and upcoming AI voice vivas.\nStop watching. Start practicing. Stop pattern-matching. Start understanding.\nCore Architecture\nA learning loop powered by active execution\nDynamic Curriculum DAG\nNo fixed linear syllabu",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -335,8 +354,25 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "agents"
+        "voice",
+        "video"
+      ]
+    },
+    {
+      "id": "c1acb889-d9c4-4996-813f-1681e3907b00",
+      "name": "Kepil",
+      "url": "https://github.com/oleg-vdv/kepil",
+      "oneLiner": "Accountability layer for AI agents.",
+      "description": "Accountability layer for AI agents. Give every agent a passport, put every action through one gate, and keep a log that cannot be rewritten afterwards.\n53% of organisations have had an AI agent exceed its intended permissions. 48% of agents in production run with no monitoring at all. Only 22% treat an agent as an entity with its own identity. — Cloud Security Alliance and State of AI Agent Securi",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "security"
       ]
     }
   ]
