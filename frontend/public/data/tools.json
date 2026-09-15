@@ -1,9 +1,43 @@
 {
-  "generatedAt": "2026-09-14T12:00:55.010434+00:00",
-  "count": 22,
+  "generatedAt": "2026-09-15T11:15:49.211256+00:00",
+  "count": 20,
   "tools": [
     {
-      "id": "fcb403f0-63cc-48b4-9a1d-3f3dd8ea951c",
+      "id": "2d0465d4-d890-48d2-a380-40f82a181f65",
+      "name": "hk",
+      "url": "https://github.com/harshitkhandelwal208/hk",
+      "oneLiner": "HK is a next-generation neural framework and unified binary container format (.",
+      "description": "HK is a next-generation neural framework and unified binary container format (.hk\n) engineered for continuous model evolution, end-to-end training, autonomous self-learning, dynamic architecture growth (Net2Net), and universal super-coalesced storage. Built with a native Zig SIMD engine and zero-overhead C-ABI bindings across 7 programming languages, HK supersedes static legacy formats (SafeTensor",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "rag"
+      ]
+    },
+    {
+      "id": "b158d8cf-fec3-4b15-9fef-b9191be762d4",
+      "name": "alter-zero",
+      "url": "https://github.com/linuztx/alter-zero",
+      "oneLiner": "Read, build, debug, and review code with an agent that works alongside you.",
+      "description": "Read, build, debug, and review code with an agent that works alongside you.\nUse the same tools for cybersecurity research, technical investigation, and everyday automation.\nQuick start · Features · Model providers · Commands & shortcuts · Support · Acknowledgements\nAlter Zero is an open-source AI coding agent written in Rust. It works directly in your project: reading files, making edits, running ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/linuztx/alter-zero.git",
+      "categories": [
+        "security",
+        "code",
+        "productivity"
+      ]
+    },
+    {
+      "id": "9e0bfd0c-7cd4-4a49-ba01-2401ce93cc24",
       "name": "HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
       "url": "https://github.com/steverhysjenks/HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
       "oneLiner": "- Home Assistant native intents for deterministic local commands.",
@@ -14,13 +48,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
+        "voice",
         "agents",
-        "voice"
+        "code"
       ]
     },
     {
-      "id": "82278488-df59-4d61-a0f0-464fecb535a2",
+      "id": "ee4b3c41-3104-41f5-ab9f-7b6e760f3703",
       "name": "apipig",
       "url": "https://github.com/aizuda/apipig",
       "oneLiner": "无 Git tag 的 snapshot 版本从 version/version.",
@@ -37,7 +71,7 @@
       ]
     },
     {
-      "id": "c661d79b-89b0-4c83-8247-7fd61c8bafda",
+      "id": "be03eba6-14bc-4c69-8964-94372a148a6e",
       "name": "loki",
       "url": "https://github.com/wundercorp/loki",
       "oneLiner": "The self-improving AI agent built by WunderCorp, Inc.",
@@ -48,13 +82,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/astral-sh/uv",
       "categories": [
-        "code",
         "agents",
-        "security"
+        "security",
+        "code"
       ]
     },
     {
-      "id": "6b8dbffe-9141-4f44-8667-26e63f4c6da5",
+      "id": "5d07d97a-9fb2-4c18-b7af-97d19ed816a7",
       "name": "tracecrate",
       "url": "https://github.com/FankChen/tracecrate",
       "oneLiner": "A privacy-first, client-side AI trace workbench.",
@@ -65,30 +99,64 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/FankChen/tracecrate.git",
       "categories": [
-        "code",
+        "design",
         "security",
-        "design"
+        "code"
       ]
     },
     {
-      "id": "fd6c56a8-09e6-4258-b792-0c9d84893458",
+      "id": "26dc6386-708c-479d-b85b-00860b667189",
       "name": "sloppy",
       "url": "https://github.com/Heyosseus/sloppy",
       "oneLiner": "Static analysis for the code-quality patterns AI coding agents leave behind.",
-      "description": "Static analysis for the code-quality patterns AI coding agents leave behind.\nRuns on any PHP project — 24 rules, plus a Laravel set that knows Eloquent, controllers and queues.\nHands the mechanical fixes to Rector and Pint, fails your Pest suite on new debt, annotates the\npull request, and teaches the agent through CLAUDE.md and MCP.\nDeterministic and local — no model, no API key, no network.\nSlop",
+      "description": "Static analysis for the code-quality patterns AI coding agents leave behind.\nRuns on any PHP project — 25 rules, plus a Laravel set that knows Eloquent, controllers and queues.\nHands the mechanical fixes to Rector and Pint, fails your Pest suite on new debt, annotates the\npull request, and teaches the agent through CLAUDE.md and MCP.\nDeterministic and local — no model, no API key, no network.\nSlop",
       "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/heyosseus/sloppy",
       "categories": [
+        "writing",
         "code",
-        "design",
         "data"
       ]
     },
     {
-      "id": "ea5097b5-886b-42b1-9879-3bdf6c6684e2",
+      "id": "937c6852-055b-4ae2-a5df-cc7f900d593c",
+      "name": "streamdown",
+      "url": "https://github.com/lobehub/streamdown",
+      "oneLiner": "- Block cache — finished blocks memoize; only the open tail block re-renders on each commit.",
+      "description": "Headless streaming markdown engine for React — render markdown as it arrives\nDocuments & Playground · Changelog · Report Bug · Request Feature\nTable of contents\n- Smooth reveal — character or word granularity with three cadence presets (\nrealtime\n,balanced\n,silky\n). - Block cache — finished blocks memoize; only the open tail block re-renders on each commit.\n- LaTeX guard — unbalanced delimiters st",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/lobehub/streamdown.git",
+      "categories": [
+        "voice",
+        "design",
+        "code"
+      ]
+    },
+    {
+      "id": "0a174f87-41b6-4eb8-a78d-4db20a80863d",
+      "name": "beam-cli",
+      "url": "https://github.com/whyashthakker/beam-cli",
+      "oneLiner": "Local observation and heuristic risk scanning for AI agent activity.",
+      "description": "Local observation and heuristic risk scanning for AI agent activity. Beam runs entirely on your machine: a loopback-only HTTP collector stores normalized events and scan reports in NDJSON files under ~/.beam\n, and the beam\nCLI talks to it (or scans files completely offline).\nBeam does not execute, block, or approve anything an agent does. It observes, redacts secrets before persisting, and flags r",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "writing",
+        "code"
+      ]
+    },
+    {
+      "id": "19359ddb-4cd3-4795-99c0-5434d5b0d8fb",
       "name": "ai-data-extractor",
       "url": "https://github.com/kruzovic7/ai-data-extractor",
       "oneLiner": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversation",
@@ -99,51 +167,17 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "db0b7fdf-bab0-4b0f-83d4-25929287f7cc",
-      "name": "short-video-generator-AI",
-      "url": "https://github.com/Colafornia/short-video-generator-AI",
-      "oneLiner": "A free open-source project designed to turn youtube-videos into viral short videos.",
-      "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.\n- API: Freely use this generator in your own projects via our API.\n- Convenient: Pas",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Colafornia/short-video-generator-AI.git",
-      "categories": [
-        "code",
-        "design",
-        "video"
-      ]
-    },
-    {
-      "id": "2d4bc564-d097-4ed7-b7d3-e7ef89f95f4f",
-      "name": "claude-outreach",
-      "url": "https://github.com/emelia-io/claude-outreach",
-      "oneLiner": "Run your whole outbound from Claude Code.",
-      "description": "Run your whole outbound from Claude Code. Define who you are targeting, build the list, find and verify professional emails and mobile numbers, write a sequence that does not read like a template, check your deliverability, launch the campaign, triage the replies, and read what actually worked.\n17 sub-skills, 5 sub-agents, MIT licensed, no lock-in. Bring your own data or source it, bring your own ",
-      "pricing": "free_trial",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/emelia-io/claude-outreach.git",
-      "categories": [
-        "code",
-        "design",
-        "marketing"
-      ]
-    },
-    {
-      "id": "8ba4d5df-6933-4003-9fce-012f0450f8a3",
-      "name": "Who gets to define the rules for AI?",
-      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-      "oneLiner": "Artificial intelligence is remaking the world we live in.",
-      "description": "A perspective from Aidan Gomez, Co-founder & CEO of Cohere\nArtificial intelligence is remaking the world we live in. Within a generation, the way we discover medicine, manage power grids, and secure our national infrastructure will be completely transformed. Many people already realize this and are working to build that future responsibly. Many people underestimate the scale and pace of change com",
+      "id": "c2f0f408-e387-419b-b2da-3820a0873752",
+      "name": "LM-Kit One",
+      "url": "https://lm-kit.com/products/lm-kit-one/",
+      "oneLiner": "OpenAI, Anthropic and Ollama APIs, MCP and native REST: one engine behind them all.",
+      "description": "Compatible\nPoint existing clients at it\nOpenAI, Anthropic and Ollama APIs, MCP and native REST: one engine behind them all.\nRun models, agents, RAG, search and document intelligence on infrastructure you control. Point OpenAI-, Anthropic-, Ollama- and MCP-compatible clients at it without rebuilding your application stack.\nSigned packages, Windows, Linux and macOS\nThree outcomes in the first hour\nC",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -151,46 +185,97 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "research",
-        "design"
+        "rag",
+        "data"
       ]
     },
     {
-      "id": "49077a3b-160c-4773-8843-75781b4179cb",
-      "name": "Can I Release This?",
-      "url": "https://aimusic.events/can-i-release-this",
-      "oneLiner": "Check the rules for your AI music.",
-      "description": "Can I Release This? · AI Music Events\nCheck the rules for your AI music.\nGet a first answer from your tool and release plans. Add details only when you want to clarify the result.\nFull result free · No account · No audio upload\n- Your plan\n- First result\n- Optional details\nYour answers & sections\nYour answers\nYour goals\nNo goal selected\nUse: I’m not sure\nDistributor: Not selected\nDestinations: Not",
+      "id": "647985e8-03cf-4166-a1c2-4c4cde486edc",
+      "name": "Jinfer",
+      "url": "https://qxotic.ai/",
+      "oneLiner": "Some call AI on the JVM quixotic.",
+      "description": "Some call AI on the JVM quixotic.\nWe call it Quixotic AI.\nFinally, AI in a jar.\nEvery component of the AI stack, a la carte.\nAI inference engine. Chat, vision, embeddings and text-to-speech capabilities for the JVM, with Spring AI and LangChain4j integrations.\nFast quantized matrix-multiplication routines.\nTikToken-compatible and customizable tokenizers for popular LLM models.\nMulti-backend tensor",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "security",
-        "audio",
-        "writing"
+        "voice",
+        "code",
+        "audio"
       ]
     },
     {
-      "id": "d1584875-e7d8-4ce7-801e-00d3c40892ed",
+      "id": "b7c17c40-5589-4ee3-a97b-7abeef28db41",
+      "name": "Chronicle",
+      "url": "https://pazvanti.github.io/Chronicle/",
+      "oneLiner": "Chronicle replaces cluttered paid subscriptions with a unified, distraction-free authoring powerhouse.",
+      "description": "Chronicle replaces cluttered paid subscriptions with a unified, distraction-free authoring powerhouse. Plot multi-strand timelines, build living codexes, annotate with dual-view author comments, design custom book covers, and typeset publication-ready PDFs, Shunn manuscripts, and EPUB 3 books—all in one private, local-first studio.\nExplore the specialized studios engineered into Chronicle to suppo",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "security",
+        "writing",
+        "code"
+      ]
+    },
+    {
+      "id": "a358460b-dc46-45bc-ab5a-1f2f58d695f1",
+      "name": "agentscope-java",
+      "url": "https://github.com/agentscope-java/agentscope-java",
+      "oneLiner": "0 is a production-ready framework for building distributed, enterprise-grade agents, providing essential abstractions that work with rising model capability and built-in support fo",
+      "description": "AgentScope Java 2.0 is a production-ready framework for building distributed, enterprise-grade agents, providing essential abstractions that work with rising model capability and built-in support for long-running, safely-controlled agent execution.\n- Event System → A unified event stream with 31 typed events for real-time frontend rendering and human-in-the-loop.\n- Permission System → Tool-call ga",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "design",
+        "code"
+      ]
+    },
+    {
+      "id": "1b9dfab3-4bd9-4ce1-9942-aea00e599afd",
       "name": "Baize",
       "url": "https://github.com/Xu123-Bob/Baize",
       "oneLiner": "pip install -r requirements.",
-      "description": "白泽 Baize\n通晓万物，陪你直觉编程。\n白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。\n一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。\n-\n多后端支持：DeepSeek、任意 OpenAI 兼容接口（Groq / 智谱 / 通义 / Moonshot / OpenAI）、本地 Ollama，一键切换。\n-\n零配置启动：首次运行自动生成配置文件，用户只需填一次密钥。\n-\n完整工具链：bash 执行、文件读写编辑、glob/grep 搜索、网页搜索抓取、后台任务、任务与待办管理。\n-\n技能系统（Skills）：按需加载领域知识（SKILL.md），让 AI 在特定场景下更",
+      "description": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。\n一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。\n-\n多后端支持：DeepSeek、任意 OpenAI 兼容接口（Groq / 智谱 / 通义 / Moonshot / OpenAI）、本地 Ollama，一键切换。\n-\n零配置启动：首次运行自动生成配置文件，用户只需填一次密钥。\n-\n完整工具链：bash 执行、文件读写编辑、glob/grep 搜索、网页搜索抓取、后台任务、任务与待办管理。\n-\n技能系统（Skills）：按需加载领域知识（SKILL.md），让 AI 在特定场景下更专业。\n-\n子代理（Subagents）：把",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
       "githubUrl": "https://github.com/Xu123-Bob/Baize.git",
       "categories": [
-        "code",
         "agents",
-        "design"
+        "design",
+        "code"
       ]
     },
     {
-      "id": "e3507e77-50f6-4a80-bad7-e1f2245f7655",
+      "id": "ab11cc2e-8cd0-4b22-92a2-50aed438f2ec",
+      "name": "ai-graphics-paper-writing",
+      "url": "https://github.com/Fasuiker/ai-graphics-paper-writing",
+      "oneLiner": "$skillRoot = if ($env:CODEX_HOME) { Join-Path $env:CODEX_HOME 'skills' } else { Join-Path $HOME '.",
+      "description": "面向 AI / AI＋图形学的论文写作 Skill：可填写模板 × 论文溯源 × 全文论证链\n实验做完了，Introduction 还停在第一段？Method 像模块说明书，Experiments 像把表格念了一遍？\n这个开源 skill 帮你把研究材料组织成论文：先厘清 核心主张 → 关键困难 → 设计 → 证据，再选择章节、段落和句子功能，完成起草、修订与检查。\n你可以直接阅读这些 Markdown，也可以安装到 Codex，让写作助手按同一套有来源、可检查的流程工作。\n觉得有用，欢迎 Star ⭐。更欢迎提交一处有论文依据的修正，或分享模板在哪类研究上不适用。\n- 从材料起草正文：给研究说明、方法和真实结果，按贡献类型组织英文论文；解释默认用中文。\n- 逐段逐句规划：每段解决什么问题，每句承担什么功能，需要什么事实支持。\n- 选择适合的方法写法：数学算法、架构、量化与系统、预训练、数",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Fasuiker/ai-graphics-paper-writing.git",
+      "categories": [
+        "writing",
+        "code",
+        "research"
+      ]
+    },
+    {
+      "id": "9e4590d5-9606-4db3-a3b5-b7c845432d8d",
       "name": "tessra",
       "url": "https://github.com/NitrusAphalion/tessra",
       "oneLiner": "The version control system for the era of AI.",
@@ -201,13 +286,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/NitrusAphalion/tessra",
       "categories": [
-        "code",
         "design",
-        "writing"
+        "writing",
+        "code"
       ]
     },
     {
-      "id": "65273db1-f428-4997-a02c-de51189a6c4b",
+      "id": "cc08fcb0-4e44-463a-9673-a1363927212f",
       "name": "routeVSCODE",
       "url": "https://github.com/yudaprasetya007/routeVSCODE",
       "oneLiner": "9Router Model Connector adalah integrasi pintar yang menghubungkan Visual Studio Code (GitHub Copilot Chat) dengan gateway AI 9Router melalui Zero-Reload Dynamic Local Proxy.",
@@ -218,161 +303,41 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/yudaprasetya007/routeVSCODE.git",
       "categories": [
-        "code",
-        "design"
+        "design",
+        "code"
       ]
     },
     {
-      "id": "8553477c-11f1-4004-b84d-22926714bf93",
-      "name": "loopera",
-      "url": "https://github.com/Loopera-ai/loopera",
-      "oneLiner": "Fundamental research, engineered for evidence.",
-      "description": "特征挖掘，洞察无限\n面向基本面因子研究的智能体Agent\nFundamental research, engineered for evidence.\n产品概览 · 产品框架 · 研究输入 · 完整案例 · 责任边界\n仓库定位： 这是 Loopera 的公开产品与技术资料仓库，不是源代码发行包。当前不提供可运行代码、安装包、CLI 或公开 API；README 中的流程和案例用于说明产品能力与证据边界。\nLoopera 围绕上市公司的财务报表与经营信息，为基本面量化团队持续完成研究方向探索、经济假设形成、候选因子构建、可信验证与知识沉淀。\n- 基本面量化团队：扩展研究覆盖，建立统一、可复核的因子研究流程；\n- 投研与金融科技机构：把内部报告、研究观点和数据能力连接到标准化验证链路；\n- 研究管理者：追踪研究来源、决策依据、失败原因及后续方向，而不只查看最终回测结果。\n它的目标不是批量生成公",
+      "id": "7ca0aace-305f-4544-b1e8-6ef9a74b8e32",
+      "name": "NATO jets shoot down drone violating Lithuania's airspace",
+      "url": "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
+      "oneLiner": "A Russian warship has fired two emergency flares at a Danish helicopter in the Baltic Sea, and Nato fighter jets have shot down a drone over Lithuania, in the latest security incid",
+      "description": "A Russian warship has fired two emergency flares at a Danish helicopter in the Baltic Sea, and Nato fighter jets have shot down a drone over Lithuania, in the latest security incidents on the alliance’s eastern flank linked to Russia’s war against Ukraine.\nPoland also scrambled fighter jets “due to the activity of Russian jet-powered unmanned aerial vehicles conducting strikes on Ukrainian territo",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "agents",
-        "search"
+        "security",
+        "code"
       ]
     },
     {
-      "id": "506dc900-31e9-4f31-9bb9-2561ed486d76",
-      "name": "strat-hunter",
-      "url": "https://github.com/mohdhd/strat-hunter",
-      "oneLiner": "Use AI coding assistants to investigate trading ideas and organize the results in a web dashboard.",
-      "description": "Use AI coding assistants to investigate trading ideas and organize the results in a web dashboard.\nWatch the 42-second demo · Report a bug\nDescribe an idea in everyday language. Strat Hunter starts a coding assistant that writes strategy code, runs historical simulations (backtests), and records its attempts. You can watch progress, ask questions, stop a job, and download a strategy for further re",
+      "id": "16b03223-47fd-47a8-97ce-926aec63b3ba",
+      "name": "White-label AI voice and chat agent platform for resellers",
+      "url": "https://www.famulor.io/whitelabel",
+      "oneLiner": "Find every interaction, monitor calls live and control accounts down to each workspace.",
+      "description": "Customers & operations\nFind every interaction, monitor calls live and control accounts down to each workspace.\n- Omnichannel history\n- Live Monitoring\n- User management\n- Workspace management\n- Transfer & reclaim credits\n- Suspend & reactivate workspace\nFor agencies and resellers: your domain, customer workspaces, pricing and billing — with Famulor infrastructure behind the scenes.\nOur Whitelabel ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "bce21e97-a7ca-40f0-ab65-76e4281528b3",
-      "name": "linktokenview-docs",
-      "url": "https://github.com/yinyuepingguo/linktokenview-docs",
-      "oneLiner": "const resp = await client.",
-      "description": "LinkTokenView（联视未来）是一个国产大模型 API 聚合平台，现已正式开启内测。 一个 OpenAI 兼容接口即可调用 DeepSeek、通义千问、Kimi、豆包、智谱 GLM、百川、讯飞星火、MiMo、阶跃星辰等国产大模型，一个 API Key 跨模型通用，Token 余额统一调度，按实际用量计费。\n官网：https://linktokenview.com · 帮助文档：https://linktokenview.com/docs\n首批国产大模型已接入，更多模型将陆续上线。内测期间开放以下福利：\n以上福利仅在内测期间有效，名额、折扣与有效期以 LinkTokenView 平台当前页面说明为准。\n内测期间遇到问题或有建议，欢迎通过平台客服或帮助中心的问题排查入口反馈，我们会尽快响应。\n- 一个接口，多种模型：统一 OpenAI 兼容接口，新增模型无需改动业务代码，现有项目替换 ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "writing"
-      ]
-    },
-    {
-      "id": "cabd9eda-5ca3-4bd7-ab2c-3f7bd29048a4",
-      "name": "refund-anything-ai-prompt",
-      "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
-      "oneLiner": "A single, self-contained prompt that turns Claude, ChatGPT, or any other capable AI into your personal refund assistant.",
-      "description": "A single, self-contained prompt that turns Claude, ChatGPT, or any other capable AI into your personal refund assistant. Paste it, attach your receipt, answer a couple of questions — and get a demand letter that actually gets approved, plus a ready-made escalation plan in case it doesn't.\nNo lawyer, no templates to fill in, no guessing which law applies. 🙌\n👉 The prompt lives here: PROMPT.md\n- Copy",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "writing"
-      ]
-    },
-    {
-      "id": "fd973907-513f-404c-bacf-16d61475bfd7",
-      "name": "ai-level-check",
-      "url": "https://github.com/Raymondhou0917/ai-level-check",
-      "oneLiner": "ln -s ~/ai-level-check ~/.",
-      "description": "繁體中文 · English\n讓 AI 來評估你的 AI 能力，不是讓人來評估。\n最準的方式，是讓 AI 去讀 AI 的使用紀錄。\n掃 Claude Code、Codex、Antigravity 留在硬碟上的紀錄， 看這個人怎麼下指令、呼叫了哪些工具、怎麼修正、做出什麼成果， 產出一份 有案例、可追溯 的 AI 使用能力報告。\nLV0–LV5 使用等級 · 組織強度與應用成熟度 · 四項系統驗證 · 16 型人物志 · 單檔 HTML 報告書\n給 Claude Code、Codex、Cursor 和任何能讀 Markdown 的 AI agent 用。\n先確認讀到什麼 → 再判斷看到什麼 → 最後才說可以怎麼改\n不是讓 AI 給人打分數，是讓 AI 把證據攤開來，讓人自己看見。\n下面四張是真的跑出來的報告（2026-08-26 到 09-08，14 天）。想自己捲、切等級，打開公開示範： ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Raymondhou0917/ai-level-check.git",
-      "categories": [
-        "code",
-        "agents",
-        "writing"
-      ]
-    },
-    {
-      "id": "b90aaa54-a54f-4c08-8447-f62b9ea992ef",
-      "name": "lay-off-ai-assistant",
-      "url": "https://github.com/YanaNeycheva/lay-off-ai-assistant",
-      "oneLiner": "An interactive assistant that supports a laid-off professional through the whole arc of finding their next job — from the shock of the layoff to signing the next offer.",
-      "description": "An interactive assistant that supports a laid-off professional through the whole arc of finding their next job — from the shock of the layoff to signing the next offer. One conversation, in Bulgarian, that covers benefits, CV, job-search strategy, and interviews — with a steadying, human layer running underneath all of it.\n- Language (what you see): Bulgarian\n- Who it's for: any laid-off professio",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "voice"
-      ]
-    },
-    {
-      "id": "86c3824b-a0f5-418d-91f8-84073995c2e4",
-      "name": "AI-Native dependency upgrades through codemods",
-      "url": "https://apiweiser-cli-fe.vercel.app/",
-      "oneLiner": "apiweiser-cli watches your dependencies, confirms which updates actually break your code, and opens the pull request with the fix — before you ever run the upgrade.",
-      "description": "apiweiser-cli watches your dependencies, confirms which updates actually break your code, and opens the pull request with the fix — before you ever run the upgrade.\ncurl -fsSL https://apiweiser-cli-fe.vercel.app/install.sh | sh\nResolves how your code actually calls each dependency using TypeScript's type checker, not import-tracing — every link in a chained call is caught, even through wrapped or ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "227fcebc-35cc-4dcf-bbf8-fefad41f1c13",
-      "name": "Socratix",
-      "url": "https://socratix-nine.vercel.app",
-      "oneLiner": "Socratix builds a personalized curriculum graph, forces active practice, and validates your understanding with intelligent diagnostics and upcoming AI voice vivas.",
-      "description": "Master Anything. Not Videos.\nEscape tutorial hell. Socratix builds a personalized curriculum graph, forces active practice, and validates your understanding with intelligent diagnostics and upcoming AI voice vivas.\nStop watching. Start practicing. Stop pattern-matching. Start understanding.\nCore Architecture\nA learning loop powered by active execution\nDynamic Curriculum DAG\nNo fixed linear syllabu",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "voice",
-        "video"
-      ]
-    },
-    {
-      "id": "c1acb889-d9c4-4996-813f-1681e3907b00",
-      "name": "Kepil",
-      "url": "https://github.com/oleg-vdv/kepil",
-      "oneLiner": "Accountability layer for AI agents.",
-      "description": "Accountability layer for AI agents. Give every agent a passport, put every action through one gate, and keep a log that cannot be rewritten afterwards.\n53% of organisations have had an AI agent exceed its intended permissions. 48% of agents in production run with no monitoring at all. Only 22% treat an agent as an entity with its own identity. — Cloud Security Alliance and State of AI Agent Securi",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "agents",
-        "security"
+        "design"
       ]
     }
   ]
