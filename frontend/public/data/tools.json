@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-09-16T10:58:09.949434+00:00",
-  "count": 25,
+  "generatedAt": "2026-09-17T11:08:15.033795+00:00",
+  "count": 20,
   "tools": [
     {
-      "id": "76a4f9e1-83b1-4a5b-8922-2a3a09972a8a",
+      "id": "98bec924-da6b-4c5a-9f38-3be1099ad5c6",
+      "name": "runntime",
+      "url": "https://github.com/software-mansion/runntime",
+      "oneLiner": "AI models on the web, built with TypeGPU.",
+      "description": "AI models on the web, built with TypeGPU.\nruNNtime is a framework for running AI models on the user's own GPU, implemented using TypeGPU. It composes GPU kernels into the layers a model is made of, attention, convolutions, norms, matmuls and builds common architectures out of them. The kernels are plain TypeGPU code compiled to WGSL at runtime, so there is no WASM binary to download, and the same ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "image",
+        "voice"
+      ]
+    },
+    {
+      "id": "f5bb4798-796c-4265-9829-2ba63ee5c7e8",
       "name": "Llm-language-learning",
       "url": "https://github.com/photolensfocus/Llm-language-learning",
       "oneLiner": "Stuck in \"Silent English\" After 10 Years of Studying?",
@@ -14,12 +31,12 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "code"
+        "code",
+        "design"
       ]
     },
     {
-      "id": "23416c82-4a6e-4dc6-89f2-cee9842ba92f",
+      "id": "c7831b08-aea1-4b5b-a0bd-2abdb6257a6d",
       "name": "hk",
       "url": "https://github.com/harshitkhandelwal208/hk",
       "oneLiner": "I built HK as a high-performance neural framework and unified binary container format (.",
@@ -30,13 +47,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "rag"
       ]
     },
     {
-      "id": "cc3903be-3b8a-4765-beb5-b582fb67f0cd",
+      "id": "0bbbe888-88de-4229-8f3a-dae5c12b372e",
       "name": "alter-zero",
       "url": "https://github.com/linuztx/alter-zero",
       "oneLiner": "Read, build, debug, and review code with an agent that works alongside you.",
@@ -48,12 +65,12 @@
       "githubUrl": "https://github.com/linuztx/alter-zero.git",
       "categories": [
         "code",
-        "productivity",
-        "security"
+        "security",
+        "productivity"
       ]
     },
     {
-      "id": "079d9961-6800-4278-bf0d-2ae019efdd08",
+      "id": "2230d110-6497-4129-bfee-c91346a23a24",
       "name": "HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
       "url": "https://github.com/steverhysjenks/HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
       "oneLiner": "- Home Assistant native intents for deterministic local commands.",
@@ -70,7 +87,7 @@
       ]
     },
     {
-      "id": "caa759b3-5405-4685-8df9-b88970f1b143",
+      "id": "031ad3e5-1c75-4321-a0a4-e905890f0edc",
       "name": "apipig",
       "url": "https://github.com/aizuda/apipig",
       "oneLiner": "无 Git tag 的 snapshot 版本从 version/version.",
@@ -81,13 +98,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "audio",
+        "image",
         "voice",
-        "image"
+        "audio"
       ]
     },
     {
-      "id": "8d62c06e-a45e-4012-a71e-cdc8c36d53e4",
+      "id": "64f21571-b684-440a-87fd-560af5ae565c",
       "name": "loki",
       "url": "https://github.com/wundercorp/loki",
       "oneLiner": "The self-improving AI agent built by WunderCorp, Inc.",
@@ -98,13 +115,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/astral-sh/uv",
       "categories": [
-        "agents",
         "code",
-        "security"
+        "security",
+        "productivity"
       ]
     },
     {
-      "id": "f8c1a6db-e537-47ee-933c-d62f52a9d77b",
+      "id": "2b6fe189-007e-4580-8c82-e9fec7bfad15",
       "name": "ContextWake",
       "url": "https://github.com/mikeangelocasono/ContextWake",
       "oneLiner": "ContextWake is a terminal tool that helps you move between AI coding agents without rebuilding your project context by hand.",
@@ -115,47 +132,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/mikeangelocasono/ContextWake.git",
       "categories": [
+        "data",
         "code",
-        "writing",
-        "data"
+        "writing"
       ]
     },
     {
-      "id": "734c1919-f779-4a71-bbf7-9b35ce519834",
-      "name": "tracecrate",
-      "url": "https://github.com/FankChen/tracecrate",
-      "oneLiner": "A privacy-first, client-side AI trace workbench.",
-      "description": "A privacy-first, client-side AI trace workbench. Inspect the sequence, question the patterns, share deliberately.\n简体中文 · V0.2 research & design · Format guide · Privacy · Contributing\nActual V0.2 live-site screenshot from Pages 34747767675, visually reviewed; 1440 × 2104 full page. All events and values are synthetic demo data, not benchmark results.\nTraceCrate turns files you choose into a search",
+      "id": "e83a9964-3059-4cf4-979b-9a997db97824",
+      "name": "abacusai-bot",
+      "url": "https://github.com/abacusai/abacusai-bot",
+      "oneLiner": "Create a bot for a job you want to hand off.",
+      "description": "Website · Download · Docs · Changelog · Support\nCreate a bot for a job you want to hand off. Give it a name, instructions, and a model. Each bot keeps its own chat and memory and uses the tools you enable. Message it from the desktop, WhatsApp, Telegram, or Discord. It can work in Gmail, Google Drive, Slack, GitHub, Notion, and other connected services, then check in or run again on a schedule.\nCo",
       "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/FankChen/tracecrate.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "design",
+        "agents",
         "code",
         "security"
       ]
     },
     {
-      "id": "64edcb01-8f36-48ae-970e-e7dbb243aedc",
-      "name": "sloppy",
-      "url": "https://github.com/Heyosseus/sloppy",
-      "oneLiner": "Static analysis for the code-quality patterns AI coding agents leave behind.",
-      "description": "Static analysis for the code-quality patterns AI coding agents leave behind.\nRuns on any PHP project — 25 rules, plus a Laravel set that knows Eloquent, controllers and queues.\nHands the mechanical fixes to Rector and Pint, fails your Pest suite on new debt, annotates the\npull request, and teaches the agent through CLAUDE.md and MCP.\nDeterministic and local — no model, no API key, no network.\nSlop",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/heyosseus/sloppy",
-      "categories": [
-        "code",
-        "writing",
-        "data"
-      ]
-    },
-    {
-      "id": "3cdbacb1-8cb3-4ce3-b53a-5b3ac52b1737",
+      "id": "4982d02d-97a8-4966-8384-2a37ad883047",
       "name": "modelnap",
       "url": "https://github.com/eriktaveras/modelnap",
       "oneLiner": "Let idle local LLMs sleep.",
@@ -166,13 +166,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
-        "writing"
+        "writing",
+        "design"
       ]
     },
     {
-      "id": "5ed5072b-d39a-4b47-8429-b553b6a038f2",
+      "id": "5315cd79-f373-4b4b-851b-f53df95393c7",
       "name": "ai-data-extractor",
       "url": "https://github.com/kruzovic7/ai-data-extractor",
       "oneLiner": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversation",
@@ -184,63 +184,46 @@
       "githubUrl": null,
       "categories": [
         "agents",
-        "code",
-        "data"
+        "data",
+        "code"
       ]
     },
     {
-      "id": "a2bb2fe6-780f-4047-8660-add84af49212",
-      "name": "Mistral X Mozilla",
-      "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "oneLiner": "Today, we are announcing a partnership with Mozilla to bring privacy, control and choice to people using AI to browse online.",
-      "description": "Today, we are announcing a partnership with Mozilla to bring privacy, control and choice to people using AI to browse online.\nFirefox Smart Window (beta), Mozilla’s AI browsing assistant, is now powered by Mistral models. Smart Window helps you make sense of complex searches, remember something important you clicked away from and source information important to you based on your browser tabs. Mist",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "security"
-      ]
-    },
-    {
-      "id": "d63feb8c-8483-406b-b7d6-81f99043be36",
-      "name": "Gescom MiniDisc Runner",
-      "url": "https://github.com/EI3LH/Gescom-MiniDisc-Runner",
-      "oneLiner": "Software to play back Gescom's 1998 album MiniDisc uniquely, every time.",
-      "description": "Software to play back Gescom's 1998 album MiniDisc uniquely, every time.\nGescom Runner generates one 88-track M3U playlist at a time and moves through the possible track orders in exact lexicographic order. It does not try to create one enormous playlist containing every possible order; instead, it generates the current order, gives it to VLC, waits for playback to finish, records a checkpoint, an",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "audio"
-      ]
-    },
-    {
-      "id": "550aea20-f8a7-486d-b2e2-687ebcb50397",
-      "name": "I built a digital wrap tool for Tesla owners",
-      "url": "https://teslawrap.studio",
-      "oneLiner": "Give your Tesla a personal look in the app.",
-      "description": "Tesla App\nGive your Tesla a personal look in the app.\nBuilt with Tesla’s official templates. 100% compatible.\nMake the Tesla on your screen match your real car—or try a whole new look. Choose colors, preview every side in 3D, and download it for Tesla Paint Shop. No Photoshop needed.\nNo installation · Works in your browser\nGive your Tesla a personal look in the app.\nSee your custom wrap on your Te",
+      "id": "f0c3e4b6-cb5f-4362-9823-00255fc5e4bd",
+      "name": "SyntaxCue",
+      "url": "https://syntaxcue.com/how-syntaxcue-captures-system-audio/",
+      "oneLiner": "SyntaxCue turns the audio of a live technical interview into a streamed answer suggestion, on-device, in a few hundred milliseconds — without ever recording the call or sending aud",
+      "description": "SyntaxCue turns the audio of a live technical interview into a streamed answer suggestion, on-device, in a few hundred milliseconds — without ever recording the call or sending audio anywhere. This piece walks the whole pipeline: the OS audio API, voice-activity detection, local transcription, and the streamed model response, with the actual APIs and the actual measured numbers. It’s written for a",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "voice",
+        "audio"
+      ]
+    },
+    {
+      "id": "1cd78af9-b474-4e3f-854d-37cdd6f45539",
+      "name": "Eukovy",
+      "url": "https://eukovy.com",
+      "oneLiner": "Preview a brown blazer, neutral knitwear, and a pleated skirt.",
+      "description": "Everyday Neutrals\nPreview a brown blazer, neutral knitwear, and a pleated skirt. An AI outfit swap can explore how these layers work together in a photo. Specify jacket length and visible knitwear for a more focused clothing edit.\nExplore new looks with Eukovy’s AI outfit changer for photos. Swap clothes using an outfit reference, or describe a new style in words. Preview clothing combinations, re",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
         "image"
       ]
     },
     {
-      "id": "42e05fe7-2ea1-4409-b2b6-9d281a2b1da0",
+      "id": "9ca6cacb-0e0b-4ad9-ba54-bdcd603820f1",
       "name": "AiGuard",
       "url": "https://github.com/Technicalflight/AiGuard",
       "oneLiner": "# Linux（deb + AppImage；需要 WebKitGTK 4.",
@@ -251,13 +234,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/Technicalflight/AiGuard.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "security"
       ]
     },
     {
-      "id": "98952f54-ddeb-436a-8329-2b8cfdd51859",
+      "id": "341e1d24-4ae3-4efd-b648-9dbfe8432708",
       "name": "agentscope-java",
       "url": "https://github.com/agentscope-java/agentscope-java",
       "oneLiner": "0 is a production-ready framework for building distributed, enterprise-grade agents, providing essential abstractions that work with rising model capability and built-in support fo",
@@ -269,16 +252,16 @@
       "githubUrl": null,
       "categories": [
         "agents",
-        "design",
-        "code"
+        "code",
+        "design"
       ]
     },
     {
-      "id": "9e45b383-2d3b-4055-9fa6-9a262267b266",
+      "id": "c55c7c10-4d4c-448b-8585-a2d31d28e8cc",
       "name": "Baize",
       "url": "https://github.com/Xu123-Bob/Baize",
       "oneLiner": "pip install -r requirements.",
-      "description": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。\n一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。\n-\n多后端支持：DeepSeek、任意 OpenAI 兼容接口（Groq / 智谱 / 通义 / Moonshot / OpenAI）、本地 Ollama，一键切换。\n-\n零配置启动：首次运行自动生成配置文件，用户只需填一次密钥。\n-\n完整工具链：bash 执行、文件读写编辑、glob/grep 搜索、网页搜索抓取、后台任务、任务与待办管理。\n-\n技能系统（Skills）：按需加载领域知识（SKILL.md），让 AI 在特定场景下更专业。\n-\n子代理（Subagents）：把",
+      "description": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。\n一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / 智谱 / 通义 / Kimi/ Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。\n-\n多后端支持：DeepSeek、任意 OpenAI 兼容接口（智谱 / 通义 / Kimi/ OpenAI）、本地 Ollama，一键切换。\n-\n零配置启动：首次运行自动生成配置文件，用户只需填一次密钥。\n-\n完整工具链：bash 执行、文件读写编辑、glob/grep 搜索、网页搜索抓取、后台任务、任务与待办管理。\n-\n技能系统（Skills）：按需加载领域知识（SKILL.md），让 AI 在特定场景下更专业。\n-\n子代理（Subagent",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -286,62 +269,12 @@
       "githubUrl": "https://github.com/Xu123-Bob/Baize.git",
       "categories": [
         "agents",
-        "design",
-        "code"
-      ]
-    },
-    {
-      "id": "26e32f50-c3ab-44ec-acd2-af2f6bbc1abd",
-      "name": "ai-graphics-paper-writing",
-      "url": "https://github.com/Fasuiker/ai-graphics-paper-writing",
-      "oneLiner": "$skillRoot = if ($env:CODEX_HOME) { Join-Path $env:CODEX_HOME 'skills' } else { Join-Path $HOME '.",
-      "description": "面向 AI / AI＋图形学的论文写作 Skill：可填写模板 × 论文溯源 × 全文论证链\n实验做完了，Introduction 还停在第一段？Method 像模块说明书，Experiments 像把表格念了一遍？\n这个开源 skill 帮你把研究材料组织成论文：先厘清 核心主张 → 关键困难 → 设计 → 证据，再选择章节、段落和句子功能，完成起草、修订与检查。\n你可以直接阅读这些 Markdown，也可以安装到 Codex，让写作助手按同一套有来源、可检查的流程工作。\n觉得有用，欢迎 Star ⭐。更欢迎提交一处有论文依据的修正，或分享模板在哪类研究上不适用。\n- 从材料起草正文：给研究说明、方法和真实结果，按贡献类型组织英文论文；解释默认用中文。\n- 逐段逐句规划：每段解决什么问题，每句承担什么功能，需要什么事实支持。\n- 选择适合的方法写法：数学算法、架构、量化与系统、预训练、数",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Fasuiker/ai-graphics-paper-writing.git",
-      "categories": [
         "code",
-        "writing",
-        "research"
+        "design"
       ]
     },
     {
-      "id": "9f064bd0-5c3c-46a2-9384-e63b68ff9f2c",
-      "name": "tessra",
-      "url": "https://github.com/NitrusAphalion/tessra",
-      "oneLiner": "The version control system for the era of AI.",
-      "description": "The version control system for the era of AI.\nGit records what changed. Tessra records what changed, why, and what is known to be true about the result.\nBuilt for agents that write code around the clock, and for the humans who decide what to trust.\nUsing Tessra\nWhy Tessra ·\nGet started ·\nHow it works ·\nWhat you get ·\nHow agents use it ·\nStandards and hooks ·\nWorking alongside git ·\nReading the rep",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/NitrusAphalion/tessra",
-      "categories": [
-        "design",
-        "code",
-        "writing"
-      ]
-    },
-    {
-      "id": "fce7e5a1-ca3e-4008-8124-d3af9e8bd5a3",
-      "name": "routeVSCODE",
-      "url": "https://github.com/yudaprasetya007/routeVSCODE",
-      "oneLiner": "9Router Model Connector adalah integrasi pintar yang menghubungkan Visual Studio Code (GitHub Copilot Chat) dengan gateway AI 9Router melalui Zero-Reload Dynamic Local Proxy.",
-      "description": "Fitur Utama • Cara Kerja • Instalasi Cepat • Panduan Pemakaian • Dokumentasi Lengkap • Troubleshooting\n9Router Model Connector adalah integrasi pintar yang menghubungkan Visual Studio Code (GitHub Copilot Chat) dengan gateway AI 9Router melalui Zero-Reload Dynamic Local Proxy.\nDengan tool ini, Anda tidak perlu lagi mengubah file konfigurasi JSON atau me-reload window VSCode setiap kali ingin berga",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/yudaprasetya007/routeVSCODE.git",
-      "categories": [
-        "design",
-        "code"
-      ]
-    },
-    {
-      "id": "ed2fa72e-a926-4ce5-a00c-603a1ebb91d7",
+      "id": "ffb07eeb-a2f9-4551-badf-4d56ee83738b",
       "name": "nouride-releases",
       "url": "https://github.com/nouverse/nouride-releases",
       "oneLiner": "Official binary releases, container images, and distribution repository for Nouride.",
@@ -358,28 +291,11 @@
       ]
     },
     {
-      "id": "ebf38f2f-287f-4f04-8582-49822f20c0a5",
-      "name": "Sanders",
-      "url": "https://fortune.com/2026/09/15/bernie-sanders-ai-four-day-workweek-bill/",
-      "oneLiner": "Debs never lived to see ChatGPT, but the socialist labor leader who fought for shorter working hours would probably recognize Bernie Sanders’ latest pitch: If AI is coming for work",
-      "description": "Eugene V. Debs never lived to see ChatGPT, but the socialist labor leader who fought for shorter working hours would probably recognize Bernie Sanders’ latest pitch: If AI is coming for workers anyway, it should help them spend less of their lives at work, not just make billionaires richer.\nLast week, Sanders and California Rep. Mark Takano reintroduced the Thirty-Two Hour Workweek Act, which woul",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "productivity"
-      ]
-    },
-    {
-      "id": "8d3e9d16-ddd2-4423-8974-d6d0965258ef",
-      "name": "AI accounting harness for finance teams",
-      "url": "https://totumai.in",
-      "oneLiner": "Compare AI accounting tools for Indian businesses, from bill processing and entries to bank reconciliation, invoicing, and reports.",
-      "description": "Blog8 min read\nBest AI accounting tools in India 2026: A practical guide for every business size\nCompare AI accounting tools for Indian businesses, from bill processing and entries to bank reconciliation, invoicing, and reports.\nAgents that integrate Gmail, WhatsApp, Slack to capture requests, bills, answer queries and sync with your books\nChat with your business data. Ask questions, attach bills,",
+      "id": "17e1f977-226e-4e02-855e-8031a7e394c8",
+      "name": "Compute:Arena",
+      "url": "https://computearena.ai",
+      "oneLiner": "Every result comes from a signed report produced on community hardware.",
+      "description": "Every result comes from a signed report produced on community hardware. Browse by model, quantisation and chip.\nInstall & start · macOS / Linux\ncurl -LsSf https://computearena.ai/install.sh | sh -s launch\nRequires curl, tar and Python 3. Review and confirm the installation; the interactive menu opens in this terminal. No sudo required.\nGet the ComputeArena CLI for macOS or Linux, then choose BaseR",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -387,42 +303,41 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "productivity",
-        "voice"
+        "design"
       ]
     },
     {
-      "id": "aa008c84-9791-41a0-b41d-2f4ec65a91c7",
-      "name": "Google released Artemis for AI-driven Android automation",
-      "url": "https://github.com/google/artemis",
-      "oneLiner": "Let AI assistants and test suites use real phones like a human.",
-      "description": "Let AI assistants and test suites use real phones like a human.\nEnglish • 中文文档 • Workflow Showcase • Quick Start • MCP for IDEs • Benchmarks • Discord Community\nLive Demo: Setup driving routes and calculate total durations in Google Maps, then open YouTube to play a Coldplay song.\n- Cross-App Automation: Executes testing workflows and everyday tasks on Android from natural language instructions.\n-",
+      "id": "93f30a37-e6e6-49ff-a1c3-1f06b74835c4",
+      "name": "Texio",
+      "url": "https://github.com/Allra-Fintech/texio",
+      "oneLiner": "Reliable Markdown operations for shell scripts and AI agents.",
+      "description": "Reliable Markdown operations for shell scripts and AI agents.\nTexio extracts and surgically edits Markdown by document structure. Use it when regular expressions are unsafe and rewriting the complete file would create unnecessary changes.\ngrep\nfinds text.sed\nchanges text. Texio understands Markdown.\nInstall from crates.io with a current stable Rust toolchain, or use the platform-specific binary in",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "writing"
+      ]
+    },
+    {
+      "id": "a19695b6-960f-47ec-b12f-ea35e376d05f",
+      "name": "Agora",
+      "url": "https://github.com/MerariJafet/agora",
+      "oneLiner": "A live research world where autonomous AI agents challenge, reproduce and audit each other's work.",
+      "description": "A live research world where autonomous AI agents challenge, reproduce and audit each other's work.\n🌍 Watch Live · ⚔️ Bring Your Agent · 📄 Read the Paper · 🧪 Reproduce V0.3\nModels and credentials remain at the edge. Consensus does not equal truth. TOKOIN is TEST-only.\n[ demo GIF pending — meanwhile: the live world, the human-readable pulse, or the 2.5-minute screen recording ]\nAGORA is a persistent",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/google/artemis.git",
+      "githubUrl": "https://github.com/MerariJafet/agora.git",
       "categories": [
         "agents",
-        "code",
-        "productivity"
-      ]
-    },
-    {
-      "id": "ece65725-b7bd-4578-8d84-d0b42b3c7fd9",
-      "name": "Nerdulator",
-      "url": "https://nerdulator.com",
-      "oneLiner": "Paste or type anything; Nerdulator works out what it is.",
-      "description": "Nerdulator\nPut something in. Get everything out.\nWhat have you got? Paste or type anything; Nerdulator works out what it is.\nTry one of these\n- 47number\n- -12number\n- 17 mileslength\n- 25 December 2000date\n- #336699colour\n- hellotext\n- 192.168.1.1IPv4\n- 10kgmass\n- 3/4fraction\n- £250money\n- 1066number / year\n- 37°Ctemperature\n- 192.168.1.0/24subnet\n- 0xFFhexadecimal\n- circle radius 5geometry\n- speed",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "audio"
+        "data",
+        "research"
       ]
     }
   ]
