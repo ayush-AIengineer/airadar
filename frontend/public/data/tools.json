@@ -1,9 +1,60 @@
 {
-  "generatedAt": "2026-09-17T11:08:15.033795+00:00",
-  "count": 20,
+  "generatedAt": "2026-09-18T10:42:13.858482+00:00",
+  "count": 19,
   "tools": [
     {
-      "id": "98bec924-da6b-4c5a-9f38-3be1099ad5c6",
+      "id": "82ef3f98-910f-4263-a27c-3726c90d61be",
+      "name": "templatesgrokbot.com",
+      "url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
+      "oneLiner": "com is a library of 3,000+ ready-made Grok Bot templates.",
+      "description": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grok Bot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.\nGet the agents for your job → · Connect via MCP · Browse by job · Search the website\n- Use a template in three s",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "0fe51eea-ae26-4daf-babc-7e0aa08414ea",
+      "name": "jev-codex-router",
+      "url": "https://github.com/0xNatoshi/jev-codex-router",
+      "oneLiner": "Per-turn model routing for Codex, driven by Jev (TypeSafe System One).",
+      "description": "Per-turn model routing for Codex, driven by Jev (TypeSafe System One).\nEvery turn is classified by Jev and served by the cheapest model that can handle it, at a thinking depth adapted to the task — instead of running everything on the frontier model. The decision costs ≈ $0.00003 and ≈ 0.6 s per turn.\nMeasured savings: ≈ −60 % vs a full-frontier baseline on a 7-day replay of 237 real turns — proto",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "11277b6b-a4fb-42bb-b6ef-d6ca6442fff1",
+      "name": "panelalpha-engine",
+      "url": "https://github.com/panelalpha/panelalpha-engine",
+      "oneLiner": "PanelAlpha Engine is software you install on your VPS to host AI-built and vibe-coded projects, websites and open source apps you found online.",
+      "description": "AI control · Capabilities · Telemetry · FAQ\nEnglish · Polski · Deutsch · Nederlands · Español · Français · Italiano · Português · Українська · العربية · 简体中文\nPanelAlpha Engine is software you install on your VPS to host AI-built and vibe-coded projects, websites and open source apps you found online. Once installed, you can connect your own AI agent directly to PanelAlpha Engine and let it handle ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "815e785b-1a1f-4fe4-932e-25a16a12ddcf",
       "name": "runntime",
       "url": "https://github.com/software-mansion/runntime",
       "oneLiner": "AI models on the web, built with TypeGPU.",
@@ -15,12 +66,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "image",
-        "voice"
+        "voice",
+        "image"
       ]
     },
     {
-      "id": "f5bb4798-796c-4265-9829-2ba63ee5c7e8",
+      "id": "99c07ea3-d511-46c4-b62a-055fc0f8a8c3",
       "name": "Llm-language-learning",
       "url": "https://github.com/photolensfocus/Llm-language-learning",
       "oneLiner": "Stuck in \"Silent English\" After 10 Years of Studying?",
@@ -36,7 +87,7 @@
       ]
     },
     {
-      "id": "c7831b08-aea1-4b5b-a0bd-2abdb6257a6d",
+      "id": "9e65fd20-a45f-401c-b265-ae2b8e5924c8",
       "name": "hk",
       "url": "https://github.com/harshitkhandelwal208/hk",
       "oneLiner": "I built HK as a high-performance neural framework and unified binary container format (.",
@@ -53,7 +104,7 @@
       ]
     },
     {
-      "id": "0bbbe888-88de-4229-8f3a-dae5c12b372e",
+      "id": "5769a032-120d-40c2-ac1e-f99d00e76ac6",
       "name": "alter-zero",
       "url": "https://github.com/linuztx/alter-zero",
       "oneLiner": "Read, build, debug, and review code with an agent that works alongside you.",
@@ -70,7 +121,7 @@
       ]
     },
     {
-      "id": "2230d110-6497-4129-bfee-c91346a23a24",
+      "id": "2e06249b-65e0-4169-b930-df02a0c730f2",
       "name": "HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
       "url": "https://github.com/steverhysjenks/HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
       "oneLiner": "- Home Assistant native intents for deterministic local commands.",
@@ -81,13 +132,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "voice"
       ]
     },
     {
-      "id": "031ad3e5-1c75-4321-a0a4-e905890f0edc",
+      "id": "633ae898-b66d-4017-8173-6c75b3dbed66",
       "name": "apipig",
       "url": "https://github.com/aizuda/apipig",
       "oneLiner": "无 Git tag 的 snapshot 版本从 version/version.",
@@ -98,64 +149,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "image",
         "voice",
+        "image",
         "audio"
       ]
     },
     {
-      "id": "64f21571-b684-440a-87fd-560af5ae565c",
-      "name": "loki",
-      "url": "https://github.com/wundercorp/loki",
-      "oneLiner": "The self-improving AI agent built by WunderCorp, Inc.",
-      "description": "The self-improving AI agent built by WunderCorp, Inc.. It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure that costs nearly nothing when idl",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/astral-sh/uv",
-      "categories": [
-        "code",
-        "security",
-        "productivity"
-      ]
-    },
-    {
-      "id": "2b6fe189-007e-4580-8c82-e9fec7bfad15",
-      "name": "ContextWake",
-      "url": "https://github.com/mikeangelocasono/ContextWake",
-      "oneLiner": "ContextWake is a terminal tool that helps you move between AI coding agents without rebuilding your project context by hand.",
-      "description": "One workspace. Any coding agent. Keep your context.\nContextWake is a terminal tool that helps you move between AI coding agents without rebuilding your project context by hand. It keeps your workspace, Git state, tasks, decisions, checkpoints, and provider sessions organized locally. When one coding agent becomes unavailable or you want to switch tools, ContextWake helps the next agent understand ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/mikeangelocasono/ContextWake.git",
-      "categories": [
-        "data",
-        "code",
-        "writing"
-      ]
-    },
-    {
-      "id": "e83a9964-3059-4cf4-979b-9a997db97824",
-      "name": "abacusai-bot",
-      "url": "https://github.com/abacusai/abacusai-bot",
-      "oneLiner": "Create a bot for a job you want to hand off.",
-      "description": "Website · Download · Docs · Changelog · Support\nCreate a bot for a job you want to hand off. Give it a name, instructions, and a model. Each bot keeps its own chat and memory and uses the tools you enable. Message it from the desktop, WhatsApp, Telegram, or Discord. It can work in Gmail, Google Drive, Slack, GitHub, Notion, and other connected services, then check in or run again on a schedule.\nCo",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "security"
-      ]
-    },
-    {
-      "id": "4982d02d-97a8-4966-8384-2a37ad883047",
+      "id": "8f166496-f770-4f61-a665-66b463c8607b",
       "name": "modelnap",
       "url": "https://github.com/eriktaveras/modelnap",
       "oneLiner": "Let idle local LLMs sleep.",
@@ -167,33 +167,49 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "writing",
+        "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "775708f6-c200-48af-b679-cf9eb6232b76",
+      "name": "I built a free AI tarot reader for Android",
+      "url": "https://play.google.com/store/apps/details?id=com.earthbound_tarot&hl=en_US",
+      "oneLiner": "Most tarot apps hand you a card and a paragraph that could apply to anyone.",
+      "description": "Most tarot apps hand you a card and a paragraph that could apply to anyone.\nEarthbound Tarot starts with your question, and reads the card against it.\nAsk what you actually want to know. Draw. Get an answer written for that\nquestion — not a generic meaning pulled from a table.\n━━━━━━━━━━━━━━━━━━━━━━━━\nREADING MODES\n• Classic — one card, read directly against your question. Best when you\nwant a cle",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "rag"
+      ]
+    },
+    {
+      "id": "95bbab2e-d424-42fb-b0e4-5a784e7cdbbe",
+      "name": "Continuity",
+      "url": "https://github.com/vikcena01/ai-continuity-plugin",
+      "oneLiner": "Resume any AI session without losing your decisions, constraints, or direction.",
+      "description": "Resume any AI session without losing your decisions, constraints, or direction.\nPortable, git-backed project-state for long-running AI work — in Claude Code, Cursor, or anything that speaks MCP.\nIt is not a memory tool. A memory tool answers \"what did we talk about?\" Continuity answers a different question: \"what is true about this project now, and what must not be touched?\"\n- State lives as plain",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
         "design"
       ]
     },
     {
-      "id": "5315cd79-f373-4b4b-851b-f53df95393c7",
-      "name": "ai-data-extractor",
-      "url": "https://github.com/kruzovic7/ai-data-extractor",
-      "oneLiner": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversation",
-      "description": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversations before an app's local database gets cleared.\nAuto-discovers and extracts complete conversation history, including:\n- User messages & assistant responses\n- Code context (file paths, selections, snippets)\n- Code diffs / ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "data",
-        "code"
-      ]
-    },
-    {
-      "id": "f0c3e4b6-cb5f-4362-9823-00255fc5e4bd",
-      "name": "SyntaxCue",
-      "url": "https://syntaxcue.com/how-syntaxcue-captures-system-audio/",
-      "oneLiner": "SyntaxCue turns the audio of a live technical interview into a streamed answer suggestion, on-device, in a few hundred milliseconds — without ever recording the call or sending aud",
-      "description": "SyntaxCue turns the audio of a live technical interview into a streamed answer suggestion, on-device, in a few hundred milliseconds — without ever recording the call or sending audio anywhere. This piece walks the whole pipeline: the OS audio API, voice-activity detection, local transcription, and the streamed model response, with the actual APIs and the actual measured numbers. It’s written for a",
+      "id": "cb89bc0a-de47-4c29-8a72-cd4361abae27",
+      "name": "Concat",
+      "url": "https://github.com/jub0t/Concat",
+      "oneLiner": "Concat is everything you use CapCut for.",
+      "description": "Concat is everything you use CapCut for. No watermarks. No paywalls. No subscriptions.\nIt runs entirely on your machine, powered by a native Rust engine. Install it and start cutting. No account, no setup.\n- 🚫 No watermarks. No account. No paywall.\n- 🔒 100% local. Nothing leaves your machine.\n- 🎬 Multi-track editing. Several timelines per project.\n- ✂️ Cut fast. Split, trim, merge, transitions, sp",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -202,28 +218,28 @@
       "categories": [
         "code",
         "voice",
-        "audio"
+        "design"
       ]
     },
     {
-      "id": "1cd78af9-b474-4e3f-854d-37cdd6f45539",
-      "name": "Eukovy",
-      "url": "https://eukovy.com",
-      "oneLiner": "Preview a brown blazer, neutral knitwear, and a pleated skirt.",
-      "description": "Everyday Neutrals\nPreview a brown blazer, neutral knitwear, and a pleated skirt. An AI outfit swap can explore how these layers work together in a photo. Specify jacket length and visible knitwear for a more focused clothing edit.\nExplore new looks with Eukovy’s AI outfit changer for photos. Swap clothes using an outfit reference, or describe a new style in words. Preview clothing combinations, re",
-      "pricing": "free",
+      "id": "29a6c367-d23a-4052-89d4-47942a0592fa",
+      "name": "An open Add/Search evaluation framework for agent memory",
+      "url": "https://agentmemoryleaderboard.ai/",
+      "oneLiner": "Long-context, persona, script, and conversation-memory benchmarks.",
+      "description": "Textual Memory\nLong-context, persona, script, and conversation-memory benchmarks.\nThe open benchmark for agent memory\nMeasure what your agents remember.\nCompare what truly matters.\nA public benchmark space for comparing textual, multimodal, and coding-agent memory systems under a consistent evaluation flow.\nEach track keeps its own result table and detailed metric breakdown.\nLong-context, persona,",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
+      "isOpenSource": true,
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "image"
+        "security",
+        "agents"
       ]
     },
     {
-      "id": "9ca6cacb-0e0b-4ad9-ba54-bdcd603820f1",
+      "id": "47987d0a-2062-4eec-ba56-da2881270995",
       "name": "AiGuard",
       "url": "https://github.com/Technicalflight/AiGuard",
       "oneLiner": "# Linux（deb + AppImage；需要 WebKitGTK 4.",
@@ -235,14 +251,14 @@
       "githubUrl": "https://github.com/Technicalflight/AiGuard.git",
       "categories": [
         "code",
-        "design",
-        "security"
+        "security",
+        "design"
       ]
     },
     {
-      "id": "341e1d24-4ae3-4efd-b648-9dbfe8432708",
+      "id": "da0a7bf8-6964-4cc8-8f8e-6c317a9996e9",
       "name": "agentscope-java",
-      "url": "https://github.com/agentscope-java/agentscope-java",
+      "url": "https://github.com/dashscope-sdk/agentscope-java",
       "oneLiner": "0 is a production-ready framework for building distributed, enterprise-grade agents, providing essential abstractions that work with rising model capability and built-in support fo",
       "description": "AgentScope Java 2.0 is a production-ready framework for building distributed, enterprise-grade agents, providing essential abstractions that work with rising model capability and built-in support for long-running, safely-controlled agent execution.\n- Event System → A unified event stream with 31 typed events for real-time frontend rendering and human-in-the-loop.\n- Permission System → Tool-call ga",
       "pricing": "unknown",
@@ -251,13 +267,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "design"
       ]
     },
     {
-      "id": "c55c7c10-4d4c-448b-8585-a2d31d28e8cc",
+      "id": "6e3f81c8-34f1-4fc0-b9d4-7d55e2628b0a",
       "name": "Baize",
       "url": "https://github.com/Xu123-Bob/Baize",
       "oneLiner": "pip install -r requirements.",
@@ -268,76 +284,43 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/Xu123-Bob/Baize.git",
       "categories": [
-        "agents",
         "code",
+        "agents",
         "design"
       ]
     },
     {
-      "id": "ffb07eeb-a2f9-4551-badf-4d56ee83738b",
-      "name": "nouride-releases",
-      "url": "https://github.com/nouverse/nouride-releases",
-      "oneLiner": "Official binary releases, container images, and distribution repository for Nouride.",
-      "description": "Official binary releases, container images, and distribution repository for Nouride.\nNouride is an ultra-lightweight, zero-bloat multi-agent AI engine in a single binary daemon. Built for servers, homelabs, and edge/mini devices (Raspberry Pi, Orange Pi, Geekom, NUC, LXC, Docker), it connects multiple chat platforms (Discord, Telegram, WhatsApp) to isolated AI agents with individual personas, shar",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "image"
-      ]
-    },
-    {
-      "id": "17e1f977-226e-4e02-855e-8031a7e394c8",
-      "name": "Compute:Arena",
-      "url": "https://computearena.ai",
-      "oneLiner": "Every result comes from a signed report produced on community hardware.",
-      "description": "Every result comes from a signed report produced on community hardware. Browse by model, quantisation and chip.\nInstall & start · macOS / Linux\ncurl -LsSf https://computearena.ai/install.sh | sh -s launch\nRequires curl, tar and Python 3. Review and confirm the installation; the interactive menu opens in this terminal. No sudo required.\nGet the ComputeArena CLI for macOS or Linux, then choose BaseR",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "93f30a37-e6e6-49ff-a1c3-1f06b74835c4",
-      "name": "Texio",
-      "url": "https://github.com/Allra-Fintech/texio",
-      "oneLiner": "Reliable Markdown operations for shell scripts and AI agents.",
-      "description": "Reliable Markdown operations for shell scripts and AI agents.\nTexio extracts and surgically edits Markdown by document structure. Use it when regular expressions are unsafe and rewriting the complete file would create unnecessary changes.\ngrep\nfinds text.sed\nchanges text. Texio understands Markdown.\nInstall from crates.io with a current stable Rust toolchain, or use the platform-specific binary in",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "writing"
-      ]
-    },
-    {
-      "id": "a19695b6-960f-47ec-b12f-ea35e376d05f",
-      "name": "Agora",
-      "url": "https://github.com/MerariJafet/agora",
-      "oneLiner": "A live research world where autonomous AI agents challenge, reproduce and audit each other's work.",
-      "description": "A live research world where autonomous AI agents challenge, reproduce and audit each other's work.\n🌍 Watch Live · ⚔️ Bring Your Agent · 📄 Read the Paper · 🧪 Reproduce V0.3\nModels and credentials remain at the edge. Consensus does not equal truth. TOKOIN is TEST-only.\n[ demo GIF pending — meanwhile: the live world, the human-readable pulse, or the 2.5-minute screen recording ]\nAGORA is a persistent",
+      "id": "9854cbb2-ee57-4c03-8427-10222176c538",
+      "name": "agent-router",
+      "url": "https://github.com/nidhi-singh02/agent-router",
+      "oneLiner": "Local-first, quota-aware routing for AI coding agents in Herdr.",
+      "description": "Local-first, quota-aware routing for AI coding agents in Herdr.\nrouter\nis a command-line tool that picks an AI coding agent, model, and reasoning effort\nfor a task, then starts that agent for you in a Herdr pane.\nrouter run \"implement the approved plan in docs/plans/billing.md\"\nIt filters your subscriptions with fixed rules (enabled models, quota, the 40% reserve on shared accounts), asks TypeSafe",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/MerariJafet/agora.git",
+      "githubUrl": "https://github.com/nidhi-singh02/agent-router.git",
       "categories": [
+        "code",
         "agents",
-        "data",
-        "research"
+        "data"
+      ]
+    },
+    {
+      "id": "23453274-c8c8-491a-9b76-73e741825fc1",
+      "name": "Open-Source Alternative to TypeSafe.ai",
+      "url": "https://github.com/TitovDigital/kbai-skill",
+      "oneLiner": "A self-contained template for building a deterministic model with structured reasoning.",
+      "description": "A self-contained template for building a deterministic model with structured reasoning. Rules are JavaScript functions executed by a forward-chaining symboling inference engine locally with Node.js — no LLM is used at inference time.\nTo interact with unstructured inputs, an agent can be used to orchestrate a feedback loop between LLM fact extraction and deterministic rule evaluation, refusing to g",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
       ]
     }
   ]
