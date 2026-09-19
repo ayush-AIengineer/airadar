@@ -1,13 +1,64 @@
 {
-  "generatedAt": "2026-09-18T10:42:13.858482+00:00",
-  "count": 19,
+  "generatedAt": "2026-09-19T10:26:34.512954+00:00",
+  "count": 26,
   "tools": [
     {
-      "id": "82ef3f98-910f-4263-a27c-3726c90d61be",
+      "id": "4dc2f347-3b60-4504-a9a9-6dc00757df43",
+      "name": "ai-engineering-interview-questions-company-wise",
+      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "oneLiner": "Real interview questions asked in AI Engineering interviews at 35 companies, organized company by company, with answers linked wherever we have them.",
+      "description": "AI Engineering Interview Questions Company Wise - Your Cheat Sheet For AI Engineering Interviews at Top AI Companies\nReal interview questions asked in AI Engineering interviews at 35 companies, organized company by company, with answers linked wherever we have them.\nThese interview questions and answers are helpful for roles such as:\n- AI Engineer\n- Gen AI Engineer\n- LLM Engineer\n- Agentic AI Engi",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "rag",
+        "voice"
+      ]
+    },
+    {
+      "id": "1da7e0e3-5426-4c69-ab29-72dbcf4a1654",
+      "name": "awesome-jev",
+      "url": "https://github.com/kraayenjon/awesome-jev",
+      "oneLiner": "A curated list of Jev use cases, projects, SDKs, tools, and learning resources.",
+      "description": "A curated list of Jev use cases, projects, SDKs, tools, and learning resources.\nJev is the first System One model from TypeSafe AI — an AI model that returns typed decisions (Choice, Score, Noul) with calibrated probabilities instead of generated text.\nLooking for real-world Jev use cases with numbers? madewithjev.com is a directory of what people are building with Jev — every build with the cost,",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data",
+        "productivity"
+      ]
+    },
+    {
+      "id": "39ba5b57-6224-416d-9a9d-304c464e5d3d",
+      "name": "HA-Jev",
+      "url": "https://github.com/AboveColin/HA-Jev",
+      "oneLiner": "Ask TypeSafe Jev questions about your house and get numbers back.",
+      "description": "Ask TypeSafe Jev questions about your house and get numbers back. Jev is a decision model rather than a chat model, so it answers a typed question with a probability, a choice or a score, and this integration turns each answer into an entity you can automate on.\nNot affiliated with TypeSafe. The API client is jevclient.\n- Questions become sensors: a probability, one of your options with its\ndistri",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/AboveColin/HA-Jev",
+      "categories": [
+        "code",
+        "agents",
+        "voice"
+      ]
+    },
+    {
+      "id": "63d7d441-0e16-468f-a139-1a0c2a3d9eb7",
       "name": "templatesgrokbot.com",
       "url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
-      "oneLiner": "com is a library of 3,000+ ready-made Grok Bot templates.",
-      "description": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grok Bot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.\nGet the agents for your job → · Connect via MCP · Browse by job · Search the website\n- Use a template in three s",
+      "oneLiner": "com is a library of 4,000+ ready-made Grok Bot templates.",
+      "description": "TemplatesGrokBot.com is a library of 4,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grok Bot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.\nGet the agents for your job → · Connect via MCP · Browse by job · Search the website\n▶ How to Set Up a Team of A",
       "pricing": "paid",
       "country": null,
       "quality": 25,
@@ -20,7 +71,7 @@
       ]
     },
     {
-      "id": "0fe51eea-ae26-4daf-babc-7e0aa08414ea",
+      "id": "6b779afe-bcfb-4b43-84b6-6ab5851d113a",
       "name": "jev-codex-router",
       "url": "https://github.com/0xNatoshi/jev-codex-router",
       "oneLiner": "Per-turn model routing for Codex, driven by Jev (TypeSafe System One).",
@@ -37,7 +88,7 @@
       ]
     },
     {
-      "id": "11277b6b-a4fb-42bb-b6ef-d6ca6442fff1",
+      "id": "3e1f2ac6-131c-4d28-b4b3-cf92af06df97",
       "name": "panelalpha-engine",
       "url": "https://github.com/panelalpha/panelalpha-engine",
       "oneLiner": "PanelAlpha Engine is software you install on your VPS to host AI-built and vibe-coded projects, websites and open source apps you found online.",
@@ -54,7 +105,7 @@
       ]
     },
     {
-      "id": "815e785b-1a1f-4fe4-932e-25a16a12ddcf",
+      "id": "0af36079-5359-4442-87ed-decd8a8afc8e",
       "name": "runntime",
       "url": "https://github.com/software-mansion/runntime",
       "oneLiner": "AI models on the web, built with TypeGPU.",
@@ -66,12 +117,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "voice",
-        "image"
+        "image",
+        "voice"
       ]
     },
     {
-      "id": "99c07ea3-d511-46c4-b62a-055fc0f8a8c3",
+      "id": "d952a6af-8980-48ea-a770-2771fe346818",
       "name": "Llm-language-learning",
       "url": "https://github.com/photolensfocus/Llm-language-learning",
       "oneLiner": "Stuck in \"Silent English\" After 10 Years of Studying?",
@@ -87,7 +138,7 @@
       ]
     },
     {
-      "id": "9e65fd20-a45f-401c-b265-ae2b8e5924c8",
+      "id": "09ff4005-daef-4d86-8e39-104fbf91ef23",
       "name": "hk",
       "url": "https://github.com/harshitkhandelwal208/hk",
       "oneLiner": "I built HK as a high-performance neural framework and unified binary container format (.",
@@ -104,7 +155,7 @@
       ]
     },
     {
-      "id": "5769a032-120d-40c2-ac1e-f99d00e76ac6",
+      "id": "86b8a788-ca29-4dca-a30f-652314b9e697",
       "name": "alter-zero",
       "url": "https://github.com/linuztx/alter-zero",
       "oneLiner": "Read, build, debug, and review code with an agent that works alongside you.",
@@ -121,7 +172,7 @@
       ]
     },
     {
-      "id": "2e06249b-65e0-4169-b930-df02a0c730f2",
+      "id": "d69b5402-d0ad-42d0-8149-48a69d5393d1",
       "name": "HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
       "url": "https://github.com/steverhysjenks/HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
       "oneLiner": "- Home Assistant native intents for deterministic local commands.",
@@ -138,24 +189,24 @@
       ]
     },
     {
-      "id": "633ae898-b66d-4017-8173-6c75b3dbed66",
-      "name": "apipig",
-      "url": "https://github.com/aizuda/apipig",
-      "oneLiner": "无 Git tag 的 snapshot 版本从 version/version.",
-      "description": "free ai gateway 免费 ai 网关，企业级内部 AI 中转服务（ai中转站）。\nAPIPIG 把多模型接入、账号池、API Key 托管、路由策略、权限控制和调用审计收进同一套 AI 网关与控制台。业务系统只对接一个入口，上游模型切换、渠道调整和安全治理都在平台侧完成。\n- 统一 OpenAI 兼容协议入口\n- 路由策略、权限校验、限流熔断\n- 上游模型适配、通道切换、失败回退\n- 请求日志、异常追踪、审计留痕\n⭕本项目采用\nAGPL-3.0\n协议开源完全开放\n任何人可免费使用，必须遵守开源协议使用规范。\n🔴附加协议：\n不允许删除源码注释申明\n，不允许山寨换皮商用\n，否则视为侵权（索赔100万）\n。\n使用必须遵守国家法律法规，⛔不允许非法项目使用，后果自负❗\nOpenAI、Gemini、Qwen、DeepSeek、Ollama 等上游接口统一收口，业务只维护一个网关入口。\n集",
-      "pricing": "free",
+      "id": "02f1e2c6-8280-4035-ad49-25ac6973a55d",
+      "name": "moonfrost-ai",
+      "url": "https://github.com/whoashish115/moonfrost-ai",
+      "oneLiner": "A 777M-parameter Mixture-of-Experts language model trained from scratch.",
+      "description": "A 777M-parameter Mixture-of-Experts language model trained from scratch.\nModel · Base · Dataset · Site · Architecture · Pipeline · Benchmarks · Training runs\nMoonfrost is a decoder-only language model of 777,148,032 parameters, of which 161,036,224 are active for any given token. It follows DeepSeek-V2: Multi-head Latent Attention over a compressed key-value cache, and DeepSeekMoE feed-forward lay",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/whoashish115/moonfrost-ai",
       "categories": [
-        "voice",
-        "image",
-        "audio"
+        "code",
+        "data",
+        "rag"
       ]
     },
     {
-      "id": "8f166496-f770-4f61-a665-66b463c8607b",
+      "id": "94904429-664f-4884-91a6-480f14207c10",
       "name": "modelnap",
       "url": "https://github.com/eriktaveras/modelnap",
       "oneLiner": "Let idle local LLMs sleep.",
@@ -172,31 +223,66 @@
       ]
     },
     {
-      "id": "775708f6-c200-48af-b679-cf9eb6232b76",
-      "name": "I built a free AI tarot reader for Android",
-      "url": "https://play.google.com/store/apps/details?id=com.earthbound_tarot&hl=en_US",
-      "oneLiner": "Most tarot apps hand you a card and a paragraph that could apply to anyone.",
-      "description": "Most tarot apps hand you a card and a paragraph that could apply to anyone.\nEarthbound Tarot starts with your question, and reads the card against it.\nAsk what you actually want to know. Draw. Get an answer written for that\nquestion — not a generic meaning pulled from a table.\n━━━━━━━━━━━━━━━━━━━━━━━━\nREADING MODES\n• Classic — one card, read directly against your question. Best when you\nwant a cle",
+      "id": "08e0e833-2510-44cb-a258-4f07499c53a7",
+      "name": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "oneLiner": "A now famous Facebook post shows us the scourge of identikit posters generated by AI.",
+      "description": "AI-generated posters don’t have to be horrible\nThe problem\nA now famous Facebook post shows us the scourge of identikit posters generated by AI.\nHere’s an article on the subject from the Independent.\nHere’s another I found in the wild. With apologies for picking on the Leamington Beer Festival - they are by no means unique\nThe problem with these is not so much that they’re bad. They’re OK, I don’t",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
         "design",
-        "rag"
+        "image"
       ]
     },
     {
-      "id": "95bbab2e-d424-42fb-b0e4-5a784e7cdbbe",
-      "name": "Continuity",
-      "url": "https://github.com/vikcena01/ai-continuity-plugin",
-      "oneLiner": "Resume any AI session without losing your decisions, constraints, or direction.",
-      "description": "Resume any AI session without losing your decisions, constraints, or direction.\nPortable, git-backed project-state for long-running AI work — in Claude Code, Cursor, or anything that speaks MCP.\nIt is not a memory tool. A memory tool answers \"what did we talk about?\" Continuity answers a different question: \"what is true about this project now, and what must not be touched?\"\n- State lives as plain",
-      "pricing": "free",
+      "id": "b8f9b303-c497-448c-ac6d-07ff4b2f754c",
+      "name": "Stepfun Step 5 Preview (LLM)",
+      "url": "https://artificialanalysis.ai/models/step-5",
+      "oneLiner": "Step 5 Preview is amongst the leading models in intelligence and well priced when comparing to other models of similar price.",
+      "description": "Step 5 Preview Intelligence, Performance & Price Analysis\nModel summary\nStep 5 Preview is amongst the leading models in intelligence and well priced when comparing to other models of similar price. It's also faster than average, however very verbose. The model supports text and image input, outputs text, and has a 1M tokens context window.\nStep 5 Preview scores 44 on the Artificial Analysis Intell",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "image"
+      ]
+    },
+    {
+      "id": "c7faa007-1410-4577-99b3-821f2a7eb7b2",
+      "name": "AgentMeasure",
+      "url": "https://github.com/roy-tong/AgentMeasure",
+      "oneLiner": "Find repeated failures and retries in your Codex and Claude Code sessions, with local evidence.",
+      "description": "Find repeated failures and retries in your Codex and Claude Code sessions, with local evidence.\nHealthcheck reads existing Codex rollout logs and Claude Code session logs\nand produces a terminal summary and a local HTML report. It checks duplicate\nrecords, retry chains, and consecutive tool failures (HC-01..03), plus audit\nchecks for operation-resolution coverage, cache accounting, and token stabi",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/roy-tong/AgentMeasure",
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "8cb10100-f398-40d3-b9c4-1368957e36a2",
+      "name": "Splash",
+      "url": "https://inco.ai/blog/splash/",
+      "oneLiner": "Most inference engines are built to run any model for maximum flexibility.",
+      "description": "Splash: A Local Engine Built Around the Model\nMost inference engines are built to run any model for maximum flexibility. Our approach turns this assumption upside down: the engine is built around the model for maximum efficiency. Its kernels, draft model, and memory plan are specialized for the model it serves. This design runs our industry-leading inference platform on data-center GPUs, where we ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
       "githubUrl": null,
       "categories": [
         "code",
@@ -205,28 +291,11 @@
       ]
     },
     {
-      "id": "cb89bc0a-de47-4c29-8a72-cd4361abae27",
-      "name": "Concat",
-      "url": "https://github.com/jub0t/Concat",
-      "oneLiner": "Concat is everything you use CapCut for.",
-      "description": "Concat is everything you use CapCut for. No watermarks. No paywalls. No subscriptions.\nIt runs entirely on your machine, powered by a native Rust engine. Install it and start cutting. No account, no setup.\n- 🚫 No watermarks. No account. No paywall.\n- 🔒 100% local. Nothing leaves your machine.\n- 🎬 Multi-track editing. Several timelines per project.\n- ✂️ Cut fast. Split, trim, merge, transitions, sp",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "voice",
-        "design"
-      ]
-    },
-    {
-      "id": "29a6c367-d23a-4052-89d4-47942a0592fa",
-      "name": "An open Add/Search evaluation framework for agent memory",
-      "url": "https://agentmemoryleaderboard.ai/",
-      "oneLiner": "Long-context, persona, script, and conversation-memory benchmarks.",
-      "description": "Textual Memory\nLong-context, persona, script, and conversation-memory benchmarks.\nThe open benchmark for agent memory\nMeasure what your agents remember.\nCompare what truly matters.\nA public benchmark space for comparing textual, multimodal, and coding-agent memory systems under a consistent evaluation flow.\nEach track keeps its own result table and detailed metric breakdown.\nLong-context, persona,",
+      "id": "4ecd8341-4e5a-431a-bd87-f46728a34ea0",
+      "name": "An OSS Python dependency scanner for exploited",
+      "url": "https://github.com/binuka200/package-doctor",
+      "oneLiner": "Tells you which Python dependencies to fix first: the ones being exploited, and the ones nobody is left to patch.",
+      "description": "Tells you which Python dependencies to fix first: the ones being exploited, and the ones nobody is left to patch. Then stops your coding agent from adding another.\nA demo project with deliberately old pins, scanned on 16 September 2026. Advisory and exploitation data change daily, so the same pins will not read the same later.\nIn late August 2026, Anthropic's coordinated disclosure programme repor",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -239,7 +308,24 @@
       ]
     },
     {
-      "id": "47987d0a-2062-4eec-ba56-da2881270995",
+      "id": "7b7dfe10-dac3-4f34-ac38-c439c893fc11",
+      "name": "ai-apis-you-can-ship-today",
+      "url": "https://github.com/cporter202/ai-apis-you-can-ship-today",
+      "oneLiner": "Want to learn how to vibe code like the pros?",
+      "description": "At A Glance | Start Here | Explore The Stack | Why This Repo Wins | Star History\nWant to learn how to vibe code like the pros? Join my Skool community! 🎯\nI'll show you how to set up applications to use these APIs and start making money! I have the best tech stack when it comes to vibe coding that virtually costs nothing. Forget tools like Loveable, Replit, Manus, Base44, etc.\nThe ultimate collecti",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "a0517919-2505-4f03-8ed4-09406cd44059",
       "name": "AiGuard",
       "url": "https://github.com/Technicalflight/AiGuard",
       "oneLiner": "# Linux（deb + AppImage；需要 WebKitGTK 4.",
@@ -256,7 +342,7 @@
       ]
     },
     {
-      "id": "da0a7bf8-6964-4cc8-8f8e-6c317a9996e9",
+      "id": "827b3ec9-b0dd-433d-8d57-28ea52db9143",
       "name": "agentscope-java",
       "url": "https://github.com/dashscope-sdk/agentscope-java",
       "oneLiner": "0 is a production-ready framework for building distributed, enterprise-grade agents, providing essential abstractions that work with rising model capability and built-in support fo",
@@ -273,24 +359,7 @@
       ]
     },
     {
-      "id": "6e3f81c8-34f1-4fc0-b9d4-7d55e2628b0a",
-      "name": "Baize",
-      "url": "https://github.com/Xu123-Bob/Baize",
-      "oneLiner": "pip install -r requirements.",
-      "description": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。\n一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / 智谱 / 通义 / Kimi/ Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。\n-\n多后端支持：DeepSeek、任意 OpenAI 兼容接口（智谱 / 通义 / Kimi/ OpenAI）、本地 Ollama，一键切换。\n-\n零配置启动：首次运行自动生成配置文件，用户只需填一次密钥。\n-\n完整工具链：bash 执行、文件读写编辑、glob/grep 搜索、网页搜索抓取、后台任务、任务与待办管理。\n-\n技能系统（Skills）：按需加载领域知识（SKILL.md），让 AI 在特定场景下更专业。\n-\n子代理（Subagent",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Xu123-Bob/Baize.git",
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "9854cbb2-ee57-4c03-8427-10222176c538",
+      "id": "5c316368-34da-457a-a60b-eeaff0b61da3",
       "name": "agent-router",
       "url": "https://github.com/nidhi-singh02/agent-router",
       "oneLiner": "Local-first, quota-aware routing for AI coding agents in Herdr.",
@@ -307,11 +376,11 @@
       ]
     },
     {
-      "id": "23453274-c8c8-491a-9b76-73e741825fc1",
-      "name": "Open-Source Alternative to TypeSafe.ai",
-      "url": "https://github.com/TitovDigital/kbai-skill",
-      "oneLiner": "A self-contained template for building a deterministic model with structured reasoning.",
-      "description": "A self-contained template for building a deterministic model with structured reasoning. Rules are JavaScript functions executed by a forward-chaining symboling inference engine locally with Node.js — no LLM is used at inference time.\nTo interact with unstructured inputs, an agent can be used to orchestrate a feedback loop between LLM fact extraction and deterministic rule evaluation, refusing to g",
+      "id": "9faf4322-3f9b-4fe5-bad3-174abf320ab7",
+      "name": "Superpowers_Multi_AI",
+      "url": "https://github.com/RectangleStory/Superpowers_Multi_AI",
+      "oneLiner": "Stop \"vibe coding\" and shifting your AI into chaotic, hallucinating loops.",
+      "description": "License: BSD 3-Clause License\nStop \"vibe coding\" and shifting your AI into chaotic, hallucinating loops. Superpowers AI is a production-grade, modular, high-discipline framework designed to transform vanilla LLMs (Claude Code, Cursor, GitHub Copilot) into methodical, context-aware Senior Engineers. By injecting deterministic behavioral gates, this framework forces AIs to plan, isolate, and debug s",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -319,8 +388,58 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "ff542843-c526-42be-a9c3-707812e52571",
+      "name": "The Case of Elias Thorne",
+      "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with/",
+      "oneLiner": "No matter the company, AI chatbots were raving about the same guy named Elias Thorne.",
+      "description": "No matter the company, AI chatbots were raving about the same guy named Elias Thorne. He must be pretty fascinating. And he is, at least on paper. Depending on the AI, he’s a lighthouse keeper, a clockmaker, a librarian, an explorer, and the star of countless stories. He’s appeared in books, music listings, YouTube videos, and even health guides. You’d think he was one of the most influential men ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "research",
+        "code",
+        "video"
+      ]
+    },
+    {
+      "id": "e4ea0574-e341-4666-9a89-cdc205da9c4b",
+      "name": "Google's Gemini AI hacked three companies in security test",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+      "oneLiner": "Google's AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known c",
+      "description": "Google's Gemini AI hacked three companies in security test\n- Published\nGoogle's AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.\nGemini found \"public information online and guessed credentials to access websites it thought were part of the te",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "efb684ff-706e-47ca-9137-0157accd147f",
+      "name": "GGG",
+      "url": "https://github.com/JOxKxER/garza-global-graviton",
+      "oneLiner": "Garza Global Graviton LLC builds sovereign, 100% air-gapped edge computing systems — hardware and software that run entirely on local infrastructure, with zero mandatory network de",
+      "description": "Garza Global Graviton LLC builds sovereign, 100% air-gapped edge computing systems — hardware and software that run entirely on local infrastructure, with zero mandatory network dependency, zero cloud telemetry, and zero vendor-side visibility into your data.\nThe node's local web hub (index.html\n) is now fully\nmobile-responsive as of v1.4.0: brand bars, the hardware plaque, the\nphysics benchmark t",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/JOxKxER/garza-global-graviton",
+      "categories": [
+        "code",
+        "design",
+        "data"
       ]
     }
   ]
