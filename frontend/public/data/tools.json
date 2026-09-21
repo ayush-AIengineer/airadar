@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T10:47:02.660256+00:00",
-  "count": 24,
+  "generatedAt": "2026-09-21T12:11:53.685977+00:00",
+  "count": 28,
   "tools": [
     {
-      "id": "6d7a58a4-2e05-4d9b-a738-16b76cd26c04",
+      "id": "785f1e47-dd13-49c0-a26e-2ff65a18c72e",
       "name": "jev-use",
       "url": "https://github.com/savka777/jev-use",
       "oneLiner": "Voice and typed computer use for macOS.",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "id": "6cce566a-e89c-413f-b23b-b76efb5a6e00",
+      "id": "be519a36-dc94-4622-8ac1-3e62c1d17c7b",
       "name": "ai-engineering-interview-questions-company-wise",
       "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
       "oneLiner": "Real interview questions asked in AI Engineering interviews at 35 companies, organized company by company, with answers linked wherever we have them.",
@@ -32,12 +32,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "voice",
-        "rag"
+        "rag",
+        "voice"
       ]
     },
     {
-      "id": "006bff99-c932-4c95-be82-6d8935a70ac3",
+      "id": "fde930c1-c62b-4f4c-bcf0-a0d6ceae11c1",
       "name": "awesome-jev",
       "url": "https://github.com/kraayenjon/awesome-jev",
       "oneLiner": "A curated list of Jev use cases, projects, SDKs, tools, and learning resources.",
@@ -54,7 +54,41 @@
       ]
     },
     {
-      "id": "de103a41-4c48-4fb6-9ce8-60d7330a32f8",
+      "id": "78b279c2-b968-4b9b-bf79-cf9f331b2331",
+      "name": "awesome-jev-usecases",
+      "url": "https://github.com/anandi1989/awesome-jev-usecases",
+      "oneLiner": "This is the community's living index of what people are actually shipping with TypeSafe AI's System One decision model: real repos, real measurements, and the patterns that already",
+      "description": "LLMs write essays. Jev makes the call. This is the community's living index of what people are actually shipping with TypeSafe AI's System One decision model: real repos, real measurements, and the patterns that already work.\nJev is TypeSafe AI's first System One model: a decision engine that returns typed, calibrated judgments (Choice / Score / Noul) instead of free-form prose. It runs in 70–500 ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "writing",
+        "productivity"
+      ]
+    },
+    {
+      "id": "095e0f23-801f-41e8-8278-c93754b323d4",
+      "name": "TypeLLM",
+      "url": "https://github.com/TypeLLM/TypeLLM",
+      "oneLiner": "and a configurable per-field thinking budget, followed by type-safe constrained decoding.",
+      "description": "- [2026/09/19] Added optional thinking mode with\nthinking=True/False\nand a configurable per-field thinking budget, followed by type-safe constrained decoding. Thinking is off by default. - [2026/09/18] Added integer and float outputs through tokenizer-native\nconstrained decoding for JSON Schema\ninteger\nandnumber\nfields.\nTypeLLM extends autoregressive LLMs with type-safe generation. Models can stil",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "productivity"
+      ]
+    },
+    {
+      "id": "fa63f677-397a-4282-b47d-f4293263271f",
       "name": "HA-Jev",
       "url": "https://github.com/AboveColin/HA-Jev",
       "oneLiner": "Ask TypeSafe Jev questions about your house and get numbers back.",
@@ -71,7 +105,7 @@
       ]
     },
     {
-      "id": "2c6ba88e-a762-4cde-9a7d-64b2e53a0e62",
+      "id": "f7b447f7-d9bf-4441-ab6d-10af82d32b43",
       "name": "templatesgrokbot.com",
       "url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
       "oneLiner": "com is a library of 6,000+ ready-made Grok Bot templates.",
@@ -83,79 +117,29 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "53e651f6-9acc-4abd-9d49-f0abe7495476",
-      "name": "jev-codex-router",
-      "url": "https://github.com/0xNatoshi/jev-codex-router",
-      "oneLiner": "Per-turn model routing for Codex, driven by Jev (TypeSafe System One).",
-      "description": "Per-turn model routing for Codex, driven by Jev (TypeSafe System One).\nEvery turn is classified by Jev and served by the cheapest model that can handle it, at a thinking depth adapted to the task — instead of running everything on the frontier model. The decision costs ≈ $0.00003 and ≈ 0.6 s per turn.\nMeasured savings: ≈ −60 % vs a full-frontier baseline on a 7-day replay of 237 real turns — proto",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "fcad4860-cd16-43e6-bd51-eeb35ac72cc9",
-      "name": "panelalpha-engine",
-      "url": "https://github.com/panelalpha/panelalpha-engine",
-      "oneLiner": "PanelAlpha Engine is software you install on your VPS to host AI-built and vibe-coded projects, websites and open source apps you found online.",
-      "description": "AI control · Capabilities · Telemetry · FAQ\nEnglish · Polski · Deutsch · Nederlands · Español · Français · Italiano · Português · Українська · العربية · 简体中文\nPanelAlpha Engine is software you install on your VPS to host AI-built and vibe-coded projects, websites and open source apps you found online. Once installed, you can connect your own AI agent directly to PanelAlpha Engine and let it handle ",
+      "id": "973f8fca-d3f6-482d-a24d-d0fa52b968b8",
+      "name": "semdecide",
+      "url": "https://github.com/sharziki/semdecide",
+      "oneLiner": "Typed semantic decisions for Unix pipelines and CI, powered by TypeSafe AI Jev.",
+      "description": "Typed semantic decisions for Unix pipelines and CI, powered by TypeSafe AI Jev.\nSemDecide is grep\nfor meaning and jq\nfor judgment. Pipe in text or JSONL and get a predicate, route, score, filtered stream, and stable process exit code without writing prompt, parsing, retry, or confidence-handling glue.\nprintf '%s' 'Login from a new country, followed by payout changes.' \\\n| semdecide is 'This descri",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/sharziki/semdecide",
       "categories": [
         "code",
-        "agents",
-        "data"
+        "data",
+        "security"
       ]
     },
     {
-      "id": "aeb72b32-3837-448f-9b87-6adb096cf5c0",
-      "name": "runntime",
-      "url": "https://github.com/software-mansion/runntime",
-      "oneLiner": "AI models on the web, built with TypeGPU.",
-      "description": "AI models on the web, built with TypeGPU.\nruNNtime is a framework for running AI models on the user's own GPU, implemented using TypeGPU. It composes GPU kernels into the layers a model is made of, attention, convolutions, norms, matmuls and builds common architectures out of them. The kernels are plain TypeGPU code compiled to WGSL at runtime, so there is no WASM binary to download, and the same ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "image",
-        "voice"
-      ]
-    },
-    {
-      "id": "cf9043ca-9c6c-44a9-b6a7-13733610b7f5",
-      "name": "Llm-language-learning",
-      "url": "https://github.com/photolensfocus/Llm-language-learning",
-      "oneLiner": "Stuck in \"Silent English\" After 10 Years of Studying?",
-      "description": "Stuck in \"Silent English\" After 10 Years of Studying? Here is How I Finally Unlocked Spoken Fluency with a 24/7 AI Tutor\nHave you ever experienced a moment like this?\nYou passed all your written exams, read English documentation or books with ease, and watch movies without subtitles. Yet, the second a foreign colleague asks you a question or a tourist asks for directions, your mind goes completely",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "176881fa-c770-470b-b4f0-18d89ea75136",
+      "id": "1cd0d311-97e5-4f12-980c-5033c5db2d4e",
       "name": "reader-source",
       "url": "https://github.com/Marvy101/reader-source",
       "oneLiner": "An open-source, native AI reading workspace for macOS.",
@@ -172,7 +156,7 @@
       ]
     },
     {
-      "id": "4ec01645-6025-4566-9a26-7e43e798188b",
+      "id": "b56ca517-3302-40f9-8b3c-89f2467605b9",
       "name": "modelnap",
       "url": "https://github.com/eriktaveras/modelnap",
       "oneLiner": "Let idle local LLMs sleep.",
@@ -189,12 +173,12 @@
       ]
     },
     {
-      "id": "4c232378-4c73-4b88-b76b-b3934f4d1cfd",
-      "name": "AI Facial Attractiveness Model Aligned with Human Preferences",
-      "url": "https://faceanalysisai.com/",
-      "oneLiner": "The model draws on ratings from 60 people who reviewed thousands of face photos, so the score reflects shared human rating patterns.",
-      "description": "Based on real human preferences\nThe model draws on ratings from 60 people who reviewed thousands of face photos, so the score reflects shared human rating patterns.\nTry this free face analysis test with one clear photo. Get a model estimate on a familiar 10-point scale.\nUpload photo guide\nUpload multiple photos of the same person for a more objective score.\nOur model was trained on thousands of fa",
-      "pricing": "free",
+      "id": "3c8eafd5-9cac-444b-89a4-7db8e83ce7c5",
+      "name": "See what ChatGPT",
+      "url": "https://kelriva.ai/ai-visibility-score",
+      "oneLiner": "What does AI actually say about your business?",
+      "description": "What does AI actually say about your business?\nWe run 8 real questions a prospective client would actually ask, live against ChatGPT, Claude, Gemini and Perplexity — and show you the verbatim answers.\nNot a simulated score. Just your website and a work email; we read the rest off your own site.\nWe ran this on ourselves. Twice. Here’s what we found.\nThe tools that track this charge by the month. We",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
@@ -202,16 +186,16 @@
       "categories": [
         "code",
         "design",
-        "image"
+        "voice"
       ]
     },
     {
-      "id": "07671764-6169-49c3-8270-b618c07303c9",
-      "name": "I cleaned AI watermarks from my clipboard",
-      "url": "https://www.pastezero.com/",
-      "oneLiner": "The macOS clipboard manager that removes AI from your text.",
-      "description": "Paste text\nwith zero AI\nThe macOS clipboard manager that removes AI from your text.\nPreview clipboard history and paste original or AI cleaned text\nClean AI Text\nRemove hidden characters, strange formatting, and other signs that AI wrote the text.\nSmart Clipboard\nSee the original and cleaned versions of everything you copy and paste the one you want, instantly.\nClean Documents\nDrop in a document a",
-      "pricing": "paid",
+      "id": "f4a28e62-e071-4ac4-90e0-8acb9f9c42c2",
+      "name": "Audit your site's structure for AI search crawlers (ChatGPT",
+      "url": "https://ukaiseoconsultant.co.uk/ai-driven-seo-audits/",
+      "oneLiner": "What is Included in Your Free AI Visibility Report?",
+      "description": "What is Included in Your Free AI Visibility Report?\nYour AI Search Visibility Breakdown\nIdentified gaps in schema connectivity and generative bot extraction signals.\nTrusted by Business Owners Across the UK\nSee how our AI visibility audits and optimization strategies are helping local companies get discovered by generative search engines.\n“We always focused on traditional SEO, but realized we were",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
@@ -219,16 +203,16 @@
       "categories": [
         "code",
         "writing",
-        "audio"
+        "search"
       ]
     },
     {
-      "id": "a8d032f7-60ba-4089-8b9d-983557f1d3d0",
-      "name": "ManifestGo",
-      "url": "https://manifestgo.app/",
-      "oneLiner": "ManifestGo is an AI Chrome extension builder.",
-      "description": "What is ManifestGo?+\nManifestGo is an AI Chrome extension builder. Describe an extension in plain English and it generates the complete Manifest V3 project — popup, background service worker, content scripts, options page, and icons — with live preview and a ready-to-install .zip.\nAre generated extensions Manifest V3 compatible?+\nYes. Every project uses manifest_version 3, a background service wor",
-      "pricing": "paid",
+      "id": "2cb54ddf-879e-4e46-bae1-a839d1e87843",
+      "name": "An extension to capture and annotate screenshots",
+      "url": "https://chromewebstore.google.com/detail/webmend-â-full-page-scree/blfeopjadgdflmnibdobadhonmoenijj",
+      "oneLiner": "Full page screenshot & element capture.",
+      "description": "Webmend – Full Page Screenshot, Annotate & Report Website Bugs\nOverview\nFull page screenshot & element capture. Annotate, blur, crop and save as PNG, or send a bug report straight to the site owner.\nWebmend is a full page screenshot and screen capture tool with a built-in screenshot editor. Capture an entire scrolling page, the visible area, a selected region or a single element. Then annotate it ",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
@@ -240,11 +224,11 @@
       ]
     },
     {
-      "id": "e1e0e605-98fd-4249-8147-0d145265daee",
-      "name": "Open-source free meme generator",
-      "url": "https://github.com/terryds/memegenscript",
-      "oneLiner": "A free meme generator that runs entirely on Cloudflare Workers: an in-browser editor for 450+ templates, plus a URL-based API where every meme is just a link.",
-      "description": "A free meme generator that runs entirely on Cloudflare Workers: an in-browser editor for 450+ templates, plus a URL-based API where every meme is just a link.\n- Editor pages: one page per template with draggable, individually styled text boxes, your own image layers, custom backgrounds, undo/redo, and PNG/JPG export. No signup, no server round-trips while you edit.\n- Meme API:\nGET /images/{templat",
+      "id": "74eb8484-208c-4a96-8f12-55e798c4bcdc",
+      "name": "Open Source AI Employees",
+      "url": "https://github.com/markfulton/ai-employees",
+      "oneLiner": "The AI agent you already use.",
+      "description": "60 scheduled routines. Your own machine. The AI agent you already use.\nThe eight AI Employees • Agent Ops Club • Live sessions • Software library • FAQ\n⭐ Found something useful? Star the repo. It takes a second and helps the next person find it.\nAn AI Employee is a folder of scheduled routines that covers one business role. It runs on your own machine, on the AI agent you already use, and briefs y",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -252,12 +236,46 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "44954054-a49b-49bd-99a2-26de8b0de1ec",
+      "id": "ef3fb906-6481-4db4-b043-082ce732e99b",
+      "name": "Bitcoin-rs",
+      "url": "https://github.com/gosuda/bitcoin-rs",
+      "oneLiner": "A Bitcoin full-node project for developers exploring typed Rust integration, node-owned indexing, and familiar Bitcoin interfaces.",
+      "description": "A Bitcoin full-node project for developers exploring typed Rust integration, node-owned indexing, and familiar Bitcoin interfaces.\nRun locally. Inspect the contracts. Share one reproducible result.\nGetting started · Documentation · Contributing · Benchmarks and limitations\nBitcoin Core is the most successful implementation of Bitcoin. Its conservatism, stability, and compatibility discipline are m",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "rag"
+      ]
+    },
+    {
+      "id": "1fb9ef84-acd9-4cc4-994e-0b5c3b381991",
+      "name": "Mini-AGI",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "oneLiner": "mini-AGI - is a continual learning byte-level language model that assembles its own architecture, trains from scratch on a single 8 GB VRAM GPU, and keeps learning from everything ",
+      "description": "mini-AGI - is a continual learning byte-level language model that assembles its own architecture, trains from scratch on a single 8 GB VRAM GPU, and keeps learning from everything it reads. It stores its weights as ordinary files on disk and pages them onto the card as it needs them, so the parameter count is bounded by free disk space rather than by VRAM. It grows new capacity while training when",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/volotat/mini-AGI",
+      "categories": [
+        "code",
+        "design",
+        "rag"
+      ]
+    },
+    {
+      "id": "e8ec642f-d864-4939-8cde-1bd3825e04e7",
       "name": "skills",
       "url": "https://github.com/isas1/skills",
       "oneLiner": "Two skills for explaining and summarising work.",
@@ -272,7 +290,58 @@
       ]
     },
     {
-      "id": "f40c81a9-5cfa-441a-b1aa-1fb822057de4",
+      "id": "40938452-44de-4fc3-8e93-6f021ba8246d",
+      "name": "ThinkingOrbs",
+      "url": "https://github.com/haplollc/ThinkingOrbs",
+      "oneLiner": "Dotted, genuinely 3D loading indicators for AI and agent interfaces in SwiftUI.",
+      "description": "Dotted, genuinely 3D loading indicators for AI and agent interfaces in SwiftUI.\nNine hand-tuned designs, two purpose-tuned sizes, one line to drop in.\nThinkingOrb(.searching)\nThat is the whole integration. Eight of the nine designs are real 3D forms, rotated, depth-shaded and z-sorted, and the ninth is a morphing outline. All of them are drawn only in grayscale dots, so they sit quietly in any int",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/haplollc/ThinkingOrbs",
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "1cd494ea-8c68-4297-a528-1ccea97e2f6b",
+      "name": "hunch",
+      "url": "https://github.com/carldaws/hunch",
+      "oneLiner": "Probabilistic control flow for Ruby.",
+      "description": "Probabilistic control flow for Ruby.\nHunch lets you ask questions about text or application data and use the answers in your Ruby code.\nif Hunch.almost_certainly?(\"this order is fraudulent\", given: order.attributes)\norder.hold!\nend\nYou can get a probability, choose between options, or rate something on a scale. Questions are written in plain English; answers come back as Ruby values.\nHunch uses Ty",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "65961e2a-510c-4d88-9f21-b97d924b163e",
+      "name": "pi-skill-orchestrator",
+      "url": "https://github.com/badgids/pi-skill-orchestrator",
+      "oneLiner": "Copyright: © 2026 Alan Guice (Badgids).",
+      "description": "Author/Developer: Alan Guice (Badgids)\nCopyright: © 2026 Alan Guice (Badgids).\nLicense: MIT License\nVersion: 0.1.26\n— All the skills, none of the bloat\nPi Skill Orchestrator is a Pi extension for people who use a lot of Agent Skills. It keeps Pi's normal skill autocomplete, but it stops the complete skill catalog from taking space in the LLM system prompt on every turn.\nIt adds lazy skill search, ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/badgids/pi-skill-orchestrator.git",
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "92652f85-c056-4e8b-95f2-3f87f56f2a1a",
       "name": "jev-cli",
       "url": "https://github.com/Nasrallah-AL/jev-cli",
       "oneLiner": "Fast, typed AI judgments from the command line, powered by TypeSafe's Jev model.",
@@ -284,12 +353,29 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "security",
-        "writing"
+        "writing",
+        "security"
       ]
     },
     {
-      "id": "7bcef399-1ecb-40a8-9b36-c3c9edf3f8e6",
+      "id": "23d83c2e-3b49-4fc8-9b54-5c8e4b958fe0",
+      "name": "threeforge",
+      "url": "https://github.com/tallslab/threeforge",
+      "oneLiner": "Frame-budget compiler and diagnostics for three.",
+      "description": "Frame-budget compiler and diagnostics for three.js games (r186, three/webgpu\nwith its WebGL2 fallback).\nThree.js stays the renderer. threeforge rewrites a naively assembled scene into a batched one at load time and\nmeasures every cost category of the frame in one ledger, with hints that say what to fix. Desktop and mobile;\nevery claim is proven on a fixed benchmark suite on both backends.\nDraw cal",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "f5d4ca59-7847-48f0-9013-68a740cc0a18",
       "name": "AL1S-WMS",
       "url": "https://github.com/RicterZ/AL1S-WMS",
       "oneLiner": "Stocktaking, purchasing, and finance share one data trail.",
@@ -306,11 +392,11 @@
       ]
     },
     {
-      "id": "93424718-052b-432a-9af2-5e00e68184c8",
-      "name": "ai-apis-you-can-ship-today",
-      "url": "https://github.com/cporter202/ai-apis-you-can-ship-today",
-      "oneLiner": "Want to learn how to vibe code like the pros?",
-      "description": "At A Glance | Start Here | Explore The Stack | Why This Repo Wins | Star History\nWant to learn how to vibe code like the pros? Join my Skool community! 🎯\nI'll show you how to set up applications to use these APIs and start making money! I have the best tech stack when it comes to vibe coding that virtually costs nothing. Forget tools like Loveable, Replit, Manus, Base44, etc.\nThe ultimate collecti",
+      "id": "0f745271-a81c-4e7a-8819-daf6b2a72dcf",
+      "name": "jev-codex-router",
+      "url": "https://github.com/0xNatoshi/jev-codex-router",
+      "oneLiner": "Per-turn model routing for Codex, driven by Jev (TypeSafe System One).",
+      "description": "Per-turn model routing for Codex, driven by Jev (TypeSafe System One).\nJev chooses a model and thinking effort together for each model call, including continuations after tools. Every route uses standard speed. The objective is sufficient capability for the next decision with no unnecessary quota consumption.\nHistorical simulation: ≈ −60 % vs full Astra on 237 turns under the old policy. This is n",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -318,46 +404,29 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "e50b4c4d-4aac-4e33-bd81-b9c41df06727",
-      "name": "AiGuard",
-      "url": "https://github.com/Technicalflight/AiGuard",
-      "oneLiner": "# Linux（deb + AppImage；需要 WebKitGTK 4.",
-      "description": "敏感信息不出本机的 AI 流量守护工具\n在本地拦截发往 AI 服务的请求，自动把身份证、手机号、API Key 等敏感信息替换为可还原的占位符； AI 回复到达后，在本地流式还原为真实数据 —— 原文永不出网、永不落盘。\nImportant\nAiGuard 目前处于早期开发阶段（v0.1.x），配置格式与内部接口随时可能变化。项目基于 AGPL-3.0 开源——欢迎 Star、Issue 与 PR。\nAiGuard 是一个本地优先的 AI 流量安全网关：以系统代理 + 自签根证书接管发往 AI 服务的 HTTPS 流量，在请求出网前完成敏感信息脱敏，在响应回程时完成流式还原，并全程只读审计上游行为。它不代理你的数据到任何第三方——守护管道跑在你自己机器上。\n- 基于 系统代理 + PAC 自动接管：仅 AI 域名流量进入守护管道，其余流量直连不受影响\n- 覆盖 OpenAI / Anthr",
+      "id": "4fa390ea-f2ce-49ef-9a46-6388fb9c90d0",
+      "name": "Zcode2Api",
+      "url": "https://github.com/D3-vin/Zcode2Api",
+      "oneLiner": "OpenAI & Anthropic-compatible proxy for Z.",
+      "description": "OpenAI & Anthropic-compatible proxy for Z.AI (ZCode Start Plan) with JWT account pool, automatic failover, captcha solving, and smart proxy rotation.\nFeatures • Quick Start • Usage • Configuration • API Endpoints • Contact\n- 🚀 Single Binary — server, captcha solver, and token pool in one executable\n- 🔓 Dual Protocol — Anthropic Messages (\n/v1/messages\n) + OpenAI Chat (/v1/chat/completions\n) - 🧩 Ac",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Technicalflight/AiGuard.git",
+      "githubUrl": "https://github.com/D3-vin/Zcode2Api.git",
       "categories": [
         "code",
         "design",
-        "security"
+        "data"
       ]
     },
     {
-      "id": "ac42709a-4348-425c-86a9-9e1a56d83ef8",
-      "name": "agentscope-java",
-      "url": "https://github.com/agentscope-ai-java/agentscope-java",
-      "oneLiner": "0 is a production-ready framework for building distributed, enterprise-grade agents, providing essential abstractions that work with rising model capability and built-in support fo",
-      "description": "AgentScope Java 2.0 is a production-ready framework for building distributed, enterprise-grade agents, providing essential abstractions that work with rising model capability and built-in support for long-running, safely-controlled agent execution.\n- Event System → A unified event stream with 31 typed events for real-time frontend rendering and human-in-the-loop.\n- Permission System → Tool-call ga",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "d14d3490-8576-4008-a16b-052f71c1840a",
+      "id": "68ae4ced-cb0d-41a7-b077-d8e6e46f9609",
       "name": "agent-router",
       "url": "https://github.com/nidhi-singh02/agent-router",
       "oneLiner": "Local-first, quota-aware routing for AI coding agents in Herdr.",
@@ -374,11 +443,28 @@
       ]
     },
     {
-      "id": "c5e883f3-684d-422e-a900-5ffdee7c4a8b",
-      "name": "Superpowers_Multi_AI",
-      "url": "https://github.com/RectangleStory/Superpowers_Multi_AI",
-      "oneLiner": "Stop \"vibe coding\" and shifting your AI into chaotic, hallucinating loops.",
-      "description": "License: BSD 3-Clause License\nStop \"vibe coding\" and shifting your AI into chaotic, hallucinating loops. Superpowers AI is a production-grade, modular, high-discipline framework designed to transform vanilla LLMs (Claude Code, Cursor, GitHub Copilot) into methodical, context-aware Senior Engineers. By injecting deterministic behavioral gates, this framework forces AIs to plan, isolate, and debug s",
+      "id": "90d1d418-78a2-4be5-9bff-71135fceb52c",
+      "name": "Accordia",
+      "url": "https://www.getaccordia.com",
+      "oneLiner": "We answer the most common concerns about launch timing, integrations, privacy, and how this actually works in a real engineering workflow.",
+      "description": "Frequently asked questions\nWe answer the most common concerns about launch timing, integrations, privacy, and how this actually works in a real engineering workflow.\nHow does data sharing between manager and report actually work?expand_more\nAccordia keeps manager and report views connected through shared session summaries and action items. Each person sees only the information relevant to their ro",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "productivity",
+        "security"
+      ]
+    },
+    {
+      "id": "2157bae3-f7ac-451a-8661-77ccb16db9d2",
+      "name": "Skillgesture",
+      "url": "https://github.com/Gabry848/skillgesture",
+      "oneLiner": "Skillgesture is a local MCP server for organizing and providing skills to AI agents.",
+      "description": "Skillgesture is a local MCP server for organizing and providing skills to AI agents. Skills are stored in a central repository, organized as group → skill → subskill, and loaded in full only when an agent requests them.\n- central repository in\n~/.skillgesture\n; - skill content stored as Markdown;\n- catalog, associations, and sessions persisted as JSON;\n- global skills or skills associated with exa",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -386,25 +472,8 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
+        "agents",
         "writing"
-      ]
-    },
-    {
-      "id": "02e52c73-5a5d-4ac3-a33f-449e7db861ba",
-      "name": "Architectural Guardrails for AI native development",
-      "url": "https://github.com/cxgrd/cli",
-      "oneLiner": "CXGRD scans your project, builds a dependency graph, and gives AI assistants the architectural context they need to make safer changes.",
-      "description": "CXGRD maps blast radius across your codebase, so AI tools know what they will break - before they write a line\nCXGRD scans your project, builds a dependency graph, and gives AI assistants the architectural context they need to make safer changes.\n- Tell you exactly what will break before a change lands.\n- Enrich AI prompts with project structure, dependencies, and blast-radius analysis.\n- Validate",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "marketing",
-        "security"
       ]
     }
   ]
