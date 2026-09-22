@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T12:11:53.685977+00:00",
-  "count": 28,
+  "generatedAt": "2026-09-22T11:05:55.568248+00:00",
+  "count": 24,
   "tools": [
     {
-      "id": "785f1e47-dd13-49c0-a26e-2ff65a18c72e",
+      "id": "79dc687d-d818-49e8-bdad-90c37476e410",
       "name": "jev-use",
       "url": "https://github.com/savka777/jev-use",
       "oneLiner": "Voice and typed computer use for macOS.",
@@ -15,12 +15,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "voice"
+        "voice",
+        "audio"
       ]
     },
     {
-      "id": "be519a36-dc94-4622-8ac1-3e62c1d17c7b",
+      "id": "ce14f846-4b6a-4c61-bac3-0929db4dc033",
       "name": "ai-engineering-interview-questions-company-wise",
       "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
       "oneLiner": "Real interview questions asked in AI Engineering interviews at 35 companies, organized company by company, with answers linked wherever we have them.",
@@ -32,12 +32,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "rag",
-        "voice"
+        "voice",
+        "rag"
       ]
     },
     {
-      "id": "fde930c1-c62b-4f4c-bcf0-a0d6ceae11c1",
+      "id": "503e8e66-db22-4305-b617-ec8c94438ffc",
       "name": "awesome-jev",
       "url": "https://github.com/kraayenjon/awesome-jev",
       "oneLiner": "A curated list of Jev use cases, projects, SDKs, tools, and learning resources.",
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "id": "78b279c2-b968-4b9b-bf79-cf9f331b2331",
+      "id": "d9f09183-7530-402f-93df-d2e204669f12",
       "name": "awesome-jev-usecases",
       "url": "https://github.com/anandi1989/awesome-jev-usecases",
       "oneLiner": "This is the community's living index of what people are actually shipping with TypeSafe AI's System One decision model: real repos, real measurements, and the patterns that already",
@@ -66,16 +66,16 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "writing",
-        "productivity"
+        "productivity",
+        "writing"
       ]
     },
     {
-      "id": "095e0f23-801f-41e8-8278-c93754b323d4",
+      "id": "c27a8502-16f1-4f12-b1c4-a651035f6f69",
       "name": "TypeLLM",
       "url": "https://github.com/TypeLLM/TypeLLM",
-      "oneLiner": "and a configurable per-field thinking budget, followed by type-safe constrained decoding.",
-      "description": "- [2026/09/19] Added optional thinking mode with\nthinking=True/False\nand a configurable per-field thinking budget, followed by type-safe constrained decoding. Thinking is off by default. - [2026/09/18] Added integer and float outputs through tokenizer-native\nconstrained decoding for JSON Schema\ninteger\nandnumber\nfields.\nTypeLLM extends autoregressive LLMs with type-safe generation. Models can stil",
+      "oneLiner": "dependency graphs with incremental prefix reuse.",
+      "description": "- [2026/09/22] Added\ndepends_on\ndependency graphs with incremental prefix reuse. - [2026/09/19] Added optional thinking mode with a per-field budget.\n- [2026/09/18] Added constrained\ninteger\nandnumber\noutputs.\nTypeLLM extends autoregressive LLMs with type-safe generation. Models can still think and generate freely when needed, while producing guaranteed typed outputs when structure matters. Define",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "id": "fa63f677-397a-4282-b47d-f4293263271f",
+      "id": "b761d018-f5f6-416c-9a8e-e7899f764d8b",
       "name": "HA-Jev",
       "url": "https://github.com/AboveColin/HA-Jev",
       "oneLiner": "Ask TypeSafe Jev questions about your house and get numbers back.",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "id": "f7b447f7-d9bf-4441-ab6d-10af82d32b43",
+      "id": "18f10758-b28f-4c86-9b10-0d7fa80ef72d",
       "name": "templatesgrokbot.com",
       "url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
       "oneLiner": "com is a library of 6,000+ ready-made Grok Bot templates.",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "id": "973f8fca-d3f6-482d-a24d-d0fa52b968b8",
+      "id": "d7164ae0-074d-49f9-94d6-8e0e3f571a5c",
       "name": "semdecide",
       "url": "https://github.com/sharziki/semdecide",
       "oneLiner": "Typed semantic decisions for Unix pipelines and CI, powered by TypeSafe AI Jev.",
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "id": "1cd0d311-97e5-4f12-980c-5033c5db2d4e",
+      "id": "24a8ad39-485d-429e-9d62-0292ec03ab73",
       "name": "reader-source",
       "url": "https://github.com/Marvy101/reader-source",
       "oneLiner": "An open-source, native AI reading workspace for macOS.",
@@ -156,63 +156,12 @@
       ]
     },
     {
-      "id": "b56ca517-3302-40f9-8b3c-89f2467605b9",
-      "name": "modelnap",
-      "url": "https://github.com/eriktaveras/modelnap",
-      "oneLiner": "Let idle local LLMs sleep.",
-      "description": "Let idle local LLMs sleep. Get your Mac's memory back.\nEnglish · Español\nWebsite · Download · Features · Install · How it works · Development · Contributing\nA 20–30 GB local model stays in RAM even when you're not using it. Turning Ollama off isn't obvious either: it depends on how it was installed, and if you do it the wrong way, macOS starts it again on its own. ModelNap lets the model sleep whe",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "writing"
-      ]
-    },
-    {
-      "id": "3c8eafd5-9cac-444b-89a4-7db8e83ce7c5",
-      "name": "See what ChatGPT",
-      "url": "https://kelriva.ai/ai-visibility-score",
-      "oneLiner": "What does AI actually say about your business?",
-      "description": "What does AI actually say about your business?\nWe run 8 real questions a prospective client would actually ask, live against ChatGPT, Claude, Gemini and Perplexity — and show you the verbatim answers.\nNot a simulated score. Just your website and a work email; we read the rest off your own site.\nWe ran this on ourselves. Twice. Here’s what we found.\nThe tools that track this charge by the month. We",
+      "id": "a30419bc-7a96-49c0-b3fc-550320e81551",
+      "name": "aSPARK",
+      "url": "https://github.com/a-lottes/aSPARK",
+      "oneLiner": "An agile AI product team for Claude Code.",
+      "description": "An agile AI product team for Claude Code. You bring the idea. A Product Owner challenges it, an Engineering Manager plans it, the Developer builds it, a Reviewer audits the diff, a QA Tester clicks through your app in a real browser, and a Release Manager ships it — and nothing moves to the next phase until the previous gate is green.\naSPARK is a Claude Code plugin. No service, no account, no runt",
       "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "voice"
-      ]
-    },
-    {
-      "id": "f4a28e62-e071-4ac4-90e0-8acb9f9c42c2",
-      "name": "Audit your site's structure for AI search crawlers (ChatGPT",
-      "url": "https://ukaiseoconsultant.co.uk/ai-driven-seo-audits/",
-      "oneLiner": "What is Included in Your Free AI Visibility Report?",
-      "description": "What is Included in Your Free AI Visibility Report?\nYour AI Search Visibility Breakdown\nIdentified gaps in schema connectivity and generative bot extraction signals.\nTrusted by Business Owners Across the UK\nSee how our AI visibility audits and optimization strategies are helping local companies get discovered by generative search engines.\n“We always focused on traditional SEO, but realized we were",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "writing",
-        "search"
-      ]
-    },
-    {
-      "id": "2cb54ddf-879e-4e46-bae1-a839d1e87843",
-      "name": "An extension to capture and annotate screenshots",
-      "url": "https://chromewebstore.google.com/detail/webmend-â-full-page-scree/blfeopjadgdflmnibdobadhonmoenijj",
-      "oneLiner": "Full page screenshot & element capture.",
-      "description": "Webmend – Full Page Screenshot, Annotate & Report Website Bugs\nOverview\nFull page screenshot & element capture. Annotate, blur, crop and save as PNG, or send a bug report straight to the site owner.\nWebmend is a full page screenshot and screen capture tool with a built-in screenshot editor. Capture an entire scrolling page, the visible area, a selected region or a single element. Then annotate it ",
-      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
@@ -224,73 +173,40 @@
       ]
     },
     {
-      "id": "74eb8484-208c-4a96-8f12-55e798c4bcdc",
-      "name": "Open Source AI Employees",
-      "url": "https://github.com/markfulton/ai-employees",
-      "oneLiner": "The AI agent you already use.",
-      "description": "60 scheduled routines. Your own machine. The AI agent you already use.\nThe eight AI Employees • Agent Ops Club • Live sessions • Software library • FAQ\n⭐ Found something useful? Star the repo. It takes a second and helps the next person find it.\nAn AI Employee is a folder of scheduled routines that covers one business role. It runs on your own machine, on the AI agent you already use, and briefs y",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "ef3fb906-6481-4db4-b043-082ce732e99b",
-      "name": "Bitcoin-rs",
-      "url": "https://github.com/gosuda/bitcoin-rs",
-      "oneLiner": "A Bitcoin full-node project for developers exploring typed Rust integration, node-owned indexing, and familiar Bitcoin interfaces.",
-      "description": "A Bitcoin full-node project for developers exploring typed Rust integration, node-owned indexing, and familiar Bitcoin interfaces.\nRun locally. Inspect the contracts. Share one reproducible result.\nGetting started · Documentation · Contributing · Benchmarks and limitations\nBitcoin Core is the most successful implementation of Bitcoin. Its conservatism, stability, and compatibility discipline are m",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "rag"
-      ]
-    },
-    {
-      "id": "1fb9ef84-acd9-4cc4-994e-0b5c3b381991",
-      "name": "Mini-AGI",
-      "url": "https://github.com/volotat/mini-AGI/",
-      "oneLiner": "mini-AGI - is a continual learning byte-level language model that assembles its own architecture, trains from scratch on a single 8 GB VRAM GPU, and keeps learning from everything ",
-      "description": "mini-AGI - is a continual learning byte-level language model that assembles its own architecture, trains from scratch on a single 8 GB VRAM GPU, and keeps learning from everything it reads. It stores its weights as ordinary files on disk and pages them onto the card as it needs them, so the parameter count is bounded by free disk space rather than by VRAM. It grows new capacity while training when",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/volotat/mini-AGI",
-      "categories": [
-        "code",
-        "design",
-        "rag"
-      ]
-    },
-    {
-      "id": "e8ec642f-d864-4939-8cde-1bd3825e04e7",
-      "name": "skills",
-      "url": "https://github.com/isas1/skills",
-      "oneLiner": "Two skills for explaining and summarising work.",
-      "description": "Two skills for explaining and summarising work. They route on what you want to end up holding, not on which words you used: an explanation in chat, or a page.\nSo eli5 succinct on this regex\nexplains it in chat, summary\n(or simple summary\n) writes a plain page, and summary, make it ADHD friendly\nwrites the same page in accessible mode.\nThis page was generated by the summary\nskill, run on this repo.",
+      "id": "c1de3f33-25b1-4e35-9071-5ab3a9fd7640",
+      "name": "jeview",
+      "url": "https://github.com/andududu/jeview",
+      "oneLiner": "txt says how to use a running Jeview, and AGENTS.",
+      "description": "Agents: llms.txt says how to use a running Jeview, and AGENTS.md how to work on this repository.\nAn unofficial local visualizer for Jev (TypeSafe System One): a live view of every call your code makes. Jeview is an independent project. It is not affiliated with TypeSafe AI, nor made or endorsed by it.\nyour code → Jeview (127.0.0.1:4777) → TypeSafe (api.typesafe.ai)\nJeview is a gateway: it sits bet",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
+        "data",
+        "agents"
+      ]
+    },
+    {
+      "id": "31f9c8d7-9546-450a-ae9b-b40a1bb4e24a",
+      "name": "skills",
+      "url": "https://github.com/isas1/skills",
+      "oneLiner": "Two skills for explaining and summarising work.",
+      "description": "Two skills for explaining and summarising work. They route on what you want to end up holding, not on which words you used: an explanation in chat, or a page.\nSo eli5 succinct on this regex\nexplains it in chat, summary\n(or simple summary\n) writes a plain page, and summary, make it ADHD friendly\nwrites the same page in accessible mode.\nYou don't need a skill for most of this. The whole idea is a co",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
         "design"
       ]
     },
     {
-      "id": "40938452-44de-4fc3-8e93-6f021ba8246d",
+      "id": "cced82bb-9945-452c-8903-c78a1d6e29cb",
       "name": "ThinkingOrbs",
       "url": "https://github.com/haplollc/ThinkingOrbs",
       "oneLiner": "Dotted, genuinely 3D loading indicators for AI and agent interfaces in SwiftUI.",
@@ -307,7 +223,7 @@
       ]
     },
     {
-      "id": "1cd494ea-8c68-4297-a528-1ccea97e2f6b",
+      "id": "4ddd48a8-f284-42b5-bf37-6240a6313240",
       "name": "hunch",
       "url": "https://github.com/carldaws/hunch",
       "oneLiner": "Probabilistic control flow for Ruby.",
@@ -324,7 +240,7 @@
       ]
     },
     {
-      "id": "65961e2a-510c-4d88-9f21-b97d924b163e",
+      "id": "4f22d12b-b392-4a3d-9e6f-2259b99f80ad",
       "name": "pi-skill-orchestrator",
       "url": "https://github.com/badgids/pi-skill-orchestrator",
       "oneLiner": "Copyright: © 2026 Alan Guice (Badgids).",
@@ -341,7 +257,7 @@
       ]
     },
     {
-      "id": "92652f85-c056-4e8b-95f2-3f87f56f2a1a",
+      "id": "44352360-1d55-42c5-9e1b-b1878498a324",
       "name": "jev-cli",
       "url": "https://github.com/Nasrallah-AL/jev-cli",
       "oneLiner": "Fast, typed AI judgments from the command line, powered by TypeSafe's Jev model.",
@@ -353,12 +269,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "writing",
-        "security"
+        "security",
+        "writing"
       ]
     },
     {
-      "id": "23d83c2e-3b49-4fc8-9b54-5c8e4b958fe0",
+      "id": "7e6a08b8-3d40-42ed-b83d-7eeb1ef5d96a",
       "name": "threeforge",
       "url": "https://github.com/tallslab/threeforge",
       "oneLiner": "Frame-budget compiler and diagnostics for three.",
@@ -375,7 +291,7 @@
       ]
     },
     {
-      "id": "f5d4ca59-7847-48f0-9013-68a740cc0a18",
+      "id": "45d9dedb-e25a-4a73-a952-42a206c6204a",
       "name": "AL1S-WMS",
       "url": "https://github.com/RicterZ/AL1S-WMS",
       "oneLiner": "Stocktaking, purchasing, and finance share one data trail.",
@@ -392,11 +308,28 @@
       ]
     },
     {
-      "id": "0f745271-a81c-4e7a-8819-daf6b2a72dcf",
+      "id": "7205548f-42e6-427c-a51c-361684e64d1c",
       "name": "jev-codex-router",
       "url": "https://github.com/0xNatoshi/jev-codex-router",
-      "oneLiner": "Per-turn model routing for Codex, driven by Jev (TypeSafe System One).",
-      "description": "Per-turn model routing for Codex, driven by Jev (TypeSafe System One).\nJev chooses a model and thinking effort together for each model call, including continuations after tools. Every route uses standard speed. The objective is sufficient capability for the next decision with no unnecessary quota consumption.\nHistorical simulation: ≈ −60 % vs full Astra on 237 turns under the old policy. This is n",
+      "oneLiner": "md, and the release checklist.",
+      "description": "Contributing? See CONTRIBUTING.md, SECURITY.md, and the release checklist.\nPer-call model routing for Codex, driven by Jev (TypeSafe System One).\nJev chooses a model and thinking effort together for each model call, including continuations after tools. Every route uses standard speed. The objective is sufficient capability for the next decision with no unnecessary quota consumption.\nHistorical sim",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "abb11aa4-e3d1-4d3c-bf6d-6ceadf430b65",
+      "name": "ai-apis-you-can-ship-today",
+      "url": "https://github.com/cporter202/ai-apis-you-can-ship-today",
+      "oneLiner": "Want to learn how to vibe code like the pros?",
+      "description": "At A Glance | Start Here | Explore The Stack | Why This Repo Wins | Star History\nWant to learn how to vibe code like the pros? Join my Skool community! 🎯\nI'll show you how to set up applications to use these APIs and start making money! I have the best tech stack when it comes to vibe coding that virtually costs nothing. Forget tools like Loveable, Replit, Manus, Base44, etc.\nThe ultimate collecti",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -409,24 +342,7 @@
       ]
     },
     {
-      "id": "4fa390ea-f2ce-49ef-9a46-6388fb9c90d0",
-      "name": "Zcode2Api",
-      "url": "https://github.com/D3-vin/Zcode2Api",
-      "oneLiner": "OpenAI & Anthropic-compatible proxy for Z.",
-      "description": "OpenAI & Anthropic-compatible proxy for Z.AI (ZCode Start Plan) with JWT account pool, automatic failover, captcha solving, and smart proxy rotation.\nFeatures • Quick Start • Usage • Configuration • API Endpoints • Contact\n- 🚀 Single Binary — server, captcha solver, and token pool in one executable\n- 🔓 Dual Protocol — Anthropic Messages (\n/v1/messages\n) + OpenAI Chat (/v1/chat/completions\n) - 🧩 Ac",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/D3-vin/Zcode2Api.git",
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "68ae4ced-cb0d-41a7-b077-d8e6e46f9609",
+      "id": "354c7703-e57a-4ec2-a036-5721eab15f07",
       "name": "agent-router",
       "url": "https://github.com/nidhi-singh02/agent-router",
       "oneLiner": "Local-first, quota-aware routing for AI coding agents in Herdr.",
@@ -438,33 +354,16 @@
       "githubUrl": "https://github.com/nidhi-singh02/agent-router.git",
       "categories": [
         "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "90d1d418-78a2-4be5-9bff-71135fceb52c",
-      "name": "Accordia",
-      "url": "https://www.getaccordia.com",
-      "oneLiner": "We answer the most common concerns about launch timing, integrations, privacy, and how this actually works in a real engineering workflow.",
-      "description": "Frequently asked questions\nWe answer the most common concerns about launch timing, integrations, privacy, and how this actually works in a real engineering workflow.\nHow does data sharing between manager and report actually work?expand_more\nAccordia keeps manager and report views connected through shared session summaries and action items. Each person sees only the information relevant to their ro",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
         "data",
-        "productivity",
-        "security"
+        "agents"
       ]
     },
     {
-      "id": "2157bae3-f7ac-451a-8661-77ccb16db9d2",
-      "name": "Skillgesture",
-      "url": "https://github.com/Gabry848/skillgesture",
-      "oneLiner": "Skillgesture is a local MCP server for organizing and providing skills to AI agents.",
-      "description": "Skillgesture is a local MCP server for organizing and providing skills to AI agents. Skills are stored in a central repository, organized as group → skill → subskill, and loaded in full only when an agent requests them.\n- central repository in\n~/.skillgesture\n; - skill content stored as Markdown;\n- catalog, associations, and sessions persisted as JSON;\n- global skills or skills associated with exa",
+      "id": "418db584-262b-4f89-a253-1d81a917a65d",
+      "name": "Study",
+      "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+      "oneLiner": "School researchers reviewed nearly 200 studies on how artificial intelligence affects children and young people’s ability to learn and think.",
+      "description": "Young users ditch Google for AI, with unknown consequences\nSchool researchers reviewed nearly 200 studies on how artificial intelligence affects children and young people’s ability to learn and think. They found that we know very little about how AI use impacts younger school children.\nIn brief\nResearchers wanted to find out how AI tools affect students' critical thinking and problem-solving abili",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -472,8 +371,42 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "writing"
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "4eea8aa2-c61f-4bad-abdd-eaf8bb031f92",
+      "name": "Watch all the AI agents on your machine",
+      "url": "https://github.com/markwylde/all-your-agents",
+      "oneLiner": "Watch every coding agent on this machine, and inspect the sessions they leave behind.",
+      "description": "Watch every coding agent on this machine, and inspect the sessions they leave behind.\nSubagents covers start, end, background and nested.\nclaude -p\nwrites no live index entry, so a print-mode run appears in history only.- Grok's\ntool_started\ncarries no call id, so the current tool is identified by name. Two tools with the same name running at once show as one. - A failed turn is reported as\nfailed",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data",
+        "agents"
+      ]
+    },
+    {
+      "id": "242caa6b-2058-4917-b0e9-e2cd7e1c59e9",
+      "name": "Z8Log",
+      "url": "https://z8log.com/welcome",
+      "oneLiner": "Structured logs,without the noise.",
+      "description": "Structured logs,without the noise.\nSend logs, investigate errors, and manage dashboards and charts from your IDE with AI skills. Explore your data here, too.\n/// Dashboards\nNumbers that answer questions.\nEach Dashboard set holds up to 12 cards. Your plan includes 1, 2, or 5 sets per dataset. Each card is one formula over your logs, computed live for the timeframe you pick.\n- Count events, count di",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
       ]
     }
   ]
