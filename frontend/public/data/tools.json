@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-09-23T10:55:41.331450+00:00",
-  "count": 27,
+  "generatedAt": "2026-09-24T11:14:52.036567+00:00",
+  "count": 23,
   "tools": [
     {
-      "id": "fde801c1-4cd4-46c1-94c6-7c5f87aa7522",
+      "id": "271313fd-b3b7-4349-999e-d5466b1404c4",
+      "name": "short-video-generator-AI",
+      "url": "https://github.com/yukitorido/short-video-generator-AI",
+      "oneLiner": "A free open-source project designed to turn youtube-videos into viral short videos.",
+      "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.\n- API: Freely use this generator in your own projects via our API.\n- Convenient: Pas",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/yukitorido/short-video-generator-AI.git",
+      "categories": [
+        "code",
+        "design",
+        "video"
+      ]
+    },
+    {
+      "id": "e831bf43-03ad-4fbe-ad74-dc22ad439aed",
       "name": "ComptyAI",
       "url": "https://github.com/hazelpe/ComptyAI",
       "oneLiner": "A compute-access protocol designed for Robinhood Chain.",
@@ -20,7 +37,7 @@
       ]
     },
     {
-      "id": "8c0c4166-8231-4fb1-a395-1f125a6eb516",
+      "id": "d69e1b0e-0796-4bd0-99db-4ddeb069896c",
       "name": "lkclean",
       "url": "https://github.com/stefw/lkclean",
       "oneLiner": "A Chrome extension (Manifest V3, TypeScript) that cleans up your LinkedIn feed.",
@@ -32,12 +49,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "data",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "53ae78d2-1321-4d39-9c03-ace36d09b8ca",
+      "id": "5d99c4b8-627b-49ae-a081-3b4dc849aa89",
       "name": "jev-use",
       "url": "https://github.com/savka777/jev-use",
       "oneLiner": "Voice and typed computer use for macOS.",
@@ -54,7 +71,7 @@
       ]
     },
     {
-      "id": "157b3c51-0f66-438b-b593-f15078c2d7d5",
+      "id": "792cb026-4514-47d6-9023-3e5416701b8b",
       "name": "ai-engineering-interview-questions-company-wise",
       "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
       "oneLiner": "Real interview questions asked in AI Engineering interviews at 35 companies, organized company by company, with answers linked wherever we have them.",
@@ -71,7 +88,7 @@
       ]
     },
     {
-      "id": "44c5d1c0-6638-4be3-904c-051702512f3a",
+      "id": "ad804ba2-eea9-42b0-9d22-227be3574153",
       "name": "awesome-jev",
       "url": "https://github.com/kraayenjon/awesome-jev",
       "oneLiner": "A curated list of Jev use cases, projects, SDKs, tools, and learning resources.",
@@ -88,7 +105,7 @@
       ]
     },
     {
-      "id": "9f965186-b9ab-43b1-903d-b34e76b5f10e",
+      "id": "fe379539-5d04-4ebb-8766-ba76c1b5b549",
       "name": "awesome-jev-usecases",
       "url": "https://github.com/anandi1989/awesome-jev-usecases",
       "oneLiner": "This is the community's living index of what people are actually shipping with TypeSafe AI's System One decision model: real repos, real measurements, and the patterns that already",
@@ -100,46 +117,46 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "writing",
-        "productivity"
+        "productivity",
+        "writing"
       ]
     },
     {
-      "id": "2ed15c5d-50b2-4707-b043-c731f1d2a790",
-      "name": "TypeLLM",
-      "url": "https://github.com/TypeLLM/TypeLLM",
-      "oneLiner": "- [2026/09/23] Added permutation averaging to improve the predictive distribution.",
-      "description": "- [2026/09/23] Added permutation averaging to improve the predictive distribution. See the blog post for details.\n- [2026/09/22] Added\ndepends_on\ndependency graphs with incremental prefix reuse. - [2026/09/19] Added optional thinking mode with a per-field budget.\n- [2026/09/18] Added constrained\ninteger\nandnumber\noutputs.\nTypeLLM extends autoregressive LLMs with type-safe generation. Models can st",
-      "pricing": "free",
+      "id": "55b0f579-33f9-4b90-80b8-8007246c640a",
+      "name": "quest",
+      "url": "https://github.com/electric-capital/quest",
+      "oneLiner": "A self-hosted AI agent workbench: a ChatGPT-style web app where people connect the services they already use (email, documents, Slack, finance tools) and put LLM agents to work on ",
+      "description": "A self-hosted AI agent workbench: a ChatGPT-style web app where people connect the services they already use (email, documents, Slack, finance tools) and put LLM agents to work on them -- designed so that doing this with sensitive data is safe by default, and usable by people who are not engineers.\nSee more on our post about why we decided to build our own harness.\nQuest runs agentic conversations",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
+      "isOpenSource": true,
       "githubUrl": null,
       "categories": [
         "code",
         "design",
-        "rag"
+        "security"
       ]
     },
     {
-      "id": "43749dd9-2f5f-4991-9103-a9c8ebccfd13",
-      "name": "templatesgrokbot.com",
-      "url": "https://github.com/templatesgrokbot/templatesgrokbot.com",
-      "oneLiner": "com is a library of 6,000+ ready-made Grok Bot templates.",
-      "description": "TemplatesGrokBot.com is a library of 6,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grok Bot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.\nGet the agents for your job → · Connect via MCP · Browse by job · Search the website\n▶ How to Set Up a Team of A",
-      "pricing": "paid",
+      "id": "98c40ec4-d60d-4728-88f1-f5be0db3058e",
+      "name": "open-jev",
+      "url": "https://github.com/kyegomez/open-jev",
+      "oneLiner": "An open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in PyTorch.",
+      "description": "An open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in PyTorch.\nImportant\nThis is an unofficial research implementation with random weights. It is not the production Jev model, does not reproduce TypeSafe AI's training data or weights, and makes no claim of matching their published results.\nJev is presented as a system one model: unstructured program",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/kyegomez/open-jev",
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "marketing"
       ]
     },
     {
-      "id": "813b897a-545f-466a-a859-aee92151dd1b",
+      "id": "3118d0b9-3203-4a0e-9301-63c40eb698e4",
       "name": "reader-source",
       "url": "https://github.com/Marvy101/reader-source",
       "oneLiner": "An open-source, native AI reading workspace for macOS.",
@@ -156,72 +173,40 @@
       ]
     },
     {
-      "id": "b48bad65-09fe-4683-9662-ee3df91944ff",
-      "name": "Life Forge",
-      "url": "https://github.com/zariffromlatif/life-forge",
-      "oneLiner": "Co-evolutionary adversarial red-teaming and dynamic stress-testing for autonomous AI agents using Artificial Life Quality-Diversity algorithms (3D MAP-Elites).",
-      "description": "Co-evolutionary adversarial red-teaming and dynamic stress-testing for autonomous AI agents using Artificial Life Quality-Diversity algorithms (3D MAP-Elites).\n┌─────────────────────────────────────────────────────────────────────────┐\n│ LIFE FORGE │\n│ The AI Agent Flight Simulator │\n└─────────────────────────────────────────────────────────────────────────┘\n│\n┌─────────────────────────┴──────────",
-      "pricing": "paid",
+      "id": "e3ef3d62-e5d6-4242-aaea-0fdb652c1578",
+      "name": "I built aiFlow",
+      "url": "https://github.com/nnikolaandric-sudo/aiFlow",
+      "oneLiner": "The Mac file manager Finder should have shipped.",
+      "description": "The Mac file manager Finder should have shipped.\nA fast, native macOS file browser with a built-in code editor, a Markdown reader, real Finder-compatible color tags, Spotlight search, archive tools, an AI organizer that renames and sorts files by content, secure share links sent straight from your Mac, and one-click \"open in Terminal / VS Code / Cursor / Claude Code / Codex\" — in one self-containe",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/zariffromlatif/life-forge.git",
+      "githubUrl": "https://github.com/nnikolaandric-sudo/aiFlow.git",
       "categories": [
         "code",
-        "agents",
-        "data"
+        "design",
+        "security"
       ]
     },
     {
-      "id": "409e0b9b-ea8f-4450-9c6e-da8f0e97254d",
-      "name": "ReWeaver AI DriftDetector",
-      "url": "https://drift.reweaver.ai/",
-      "oneLiner": "A single Production Drift Ratio (0–1), banded from Low to Severe.",
-      "description": "What DriftDetector tells you in less than a minute:\nA single Production Drift Ratio (0–1), banded from Low to Severe. Two repos, or the same repo six months apart, are actually comparable.\nTells you exactly where the code has drifted from intent or standards, line by line, so you don't have to go searching.\nThe full history gets scored, not just today's code — see precisely which commit opened the",
-      "pricing": "free",
+      "id": "2ed2a5f7-2446-48c8-b8a2-028bce245829",
+      "name": "go-jev",
+      "url": "https://github.com/mattn/go-jev",
+      "oneLiner": ", a command-line tool built on it for UNIX pipelines.",
+      "description": "Go SDK for TypeSafe Jev, a decision-only model\nthat returns typed answers (yes/no probability, choice, score) instead of\ntext. Comes with jev-cli\n, a command-line tool built on it for UNIX pipelines.\ngo get github.com/mattn/go-jev\nimport \"github.com/mattn/go-jev\"\nc := jev.NewClient(jev.WithAPIKey(os.Getenv(\"TYPESAFE_API_KEY\")))\n// one question\na, err := c.Ask(ctx, \"Help! My payouts have been faili",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
+      "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "28aef48a-e037-4c98-b504-704c4acc25f9",
-      "name": "Kern.md",
-      "url": "https://github.com/oguzbilgic/kern-ai/blob/master/templates/KERN.md",
-      "oneLiner": "You are running inside kern, an agent runtime with a single persistent session shared across multiple interfaces.",
-      "description": "You are running inside kern, an agent runtime with a single persistent session shared across multiple interfaces.\nYou are running on kern (npm: kern-ai). You can understand and configure yourself:\n- Your config:\n.kern/config.json\n— read or modify it. Changes require a restart to take effect. - Your secrets:\n.kern/.env\n— API keys and tokens. Never commit this file.\nMessages include context metadata",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/oguzbilgic/kern-ai",
-      "categories": [
         "code",
-        "agents",
-        "writing"
+        "design"
       ]
     },
     {
-      "id": "ac408ff6-9d06-4dd9-b77c-938167a8b54f",
-      "name": "Tesla Closes Texas Airspace for Roadster Launch Event",
-      "url": "https://www.notateslaapp.com/news/4711/tesla-closes-texas-airspace-for-roadster-launch-event",
-      "oneLiner": "Whenever Tesla prepares for a major product launch, observers expect dramatic stage demos and bold performance claims.",
-      "description": "Whenever Tesla prepares for a major product launch, observers expect dramatic stage demos and bold performance claims. But for the upcoming next-generation Roadster reveal, preparations appear to be reaching into the sky. A newly established no-fly zone in central Texas suggests that the unveiling might involve hardware operating well off the asphalt.\nLongtime Tesla watcher Joe Tegtmeyer (@JoeTegt",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "marketing",
-        "code"
-      ]
-    },
-    {
-      "id": "5de81043-9129-4684-a48f-0496a0abf5e4",
+      "id": "2838b79c-9d74-40e9-8fba-6ec6d11cd185",
       "name": "jeview",
       "url": "https://github.com/andududu/jeview",
       "oneLiner": "txt says how to use a running Jeview, and AGENTS.",
@@ -233,12 +218,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "data"
+        "data",
+        "agents"
       ]
     },
     {
-      "id": "cefc781e-03ce-4947-be64-639887de4678",
+      "id": "d4e52c8c-f4e8-4064-9a45-97839b3b684b",
       "name": "skills",
       "url": "https://github.com/isas1/skills",
       "oneLiner": "Two skills for explaining and summarising work.",
@@ -254,7 +239,24 @@
       ]
     },
     {
-      "id": "15bc4df5-1201-49d1-a262-ade5f87e970e",
+      "id": "ebe374a3-d6a9-436d-9925-13be270cb748",
+      "name": "pitago",
+      "url": "https://github.com/cavaldos/pitago",
+      "oneLiner": "agent, built with Bubble Tea.",
+      "description": "A polished Terminal User Interface (TUI) frontend for the pi\nagent, built with Bubble Tea. pi --mode rpc\nserves as the backend (multi-provider, tools, sessions, compaction), while pitago provides a rich terminal interface communicating over JSONL.\npitago wraps the pi\nagent in a beautiful terminal interface with:\n- Real-time chat with streaming responses\n- Sidebar showing session info, model detail",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/cavaldos/pitago",
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "7b2749a8-d138-4fcf-bbef-60e2aea221b1",
       "name": "ThinkingOrbs",
       "url": "https://github.com/haplollc/ThinkingOrbs",
       "oneLiner": "Dotted, genuinely 3D loading indicators for AI and agent interfaces in SwiftUI.",
@@ -266,12 +268,12 @@
       "githubUrl": "https://github.com/haplollc/ThinkingOrbs",
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "2c126075-7641-4892-af73-4dbc536b31ad",
+      "id": "bc0a0090-15d0-42ca-abe5-deac95b1f783",
       "name": "hunch",
       "url": "https://github.com/carldaws/hunch",
       "oneLiner": "Probabilistic control flow for Ruby.",
@@ -283,12 +285,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "data",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "426a8988-b788-49ba-a480-1cea7745c808",
+      "id": "e3f19b12-510c-4260-9992-8cb284ebb8a9",
       "name": "pi-skill-orchestrator",
       "url": "https://github.com/badgids/pi-skill-orchestrator",
       "oneLiner": "Copyright: © 2026 Alan Guice (Badgids).",
@@ -305,7 +307,24 @@
       ]
     },
     {
-      "id": "d258f9b7-3a25-4b30-8bb5-ac762aaee400",
+      "id": "bff7dac6-6fce-45a4-bab6-05e7816c1f39",
+      "name": "drivingbench_harness_v1",
+      "url": "https://github.com/aditya-ramabadran/drivingbench_harness_v1",
+      "oneLiner": "recorded as a trace you can replay.",
+      "description": "A small harness that lets a language model drive a real car at parking-lot\nspeed through three tools, while a human sits in the driver's seat with a foot\nover the brake. It runs on a comma device with\nopenpilot in a supported Toyota, and\nexposes the car to any chat app that speaks MCP (Codex, Claude Code, Cursor) as\none server, drivingbench_sandbox\n, with three tools: observe\n, set_motion\n,\nstop_n",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/aditya-ramabadran/drivingbench_harness_v1",
+      "categories": [
+        "code",
+        "design",
+        "image"
+      ]
+    },
+    {
+      "id": "e795643b-0c6b-48c0-a118-3ea9418904b4",
       "name": "jev-cli",
       "url": "https://github.com/Nasrallah-AL/jev-cli",
       "oneLiner": "Fast, typed AI judgments from the command line, powered by TypeSafe's Jev model.",
@@ -317,16 +336,16 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "writing",
-        "security"
+        "security",
+        "writing"
       ]
     },
     {
-      "id": "dba4c7e2-340c-4f2d-b1ce-095a15ba75e2",
-      "name": "threeforge",
-      "url": "https://github.com/tallslab/threeforge",
-      "oneLiner": "Frame-budget compiler and diagnostics for three.",
-      "description": "Frame-budget compiler and diagnostics for three.js games (r186, three/webgpu\nwith its WebGL2 fallback).\nThree.js stays the renderer. threeforge rewrites a naively assembled scene into a batched one at load time and\nmeasures every cost category of the frame in one ledger, with hints that say what to fix. Desktop and mobile;\nevery claim is proven on a fixed benchmark suite on both backends.\nDraw cal",
+      "id": "ccbc5883-f0ea-495f-ac44-71be4ceab5e5",
+      "name": "AI has no intent and no motivation",
+      "url": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
+      "oneLiner": "We seem to be worried a lot about the threat from AI going rogue, and there are lots of examples of it doing just that.",
+      "description": ">\nWe seem to be worried a lot about the threat from AI going rogue, and there are lots of examples of it doing just that. However, they are all misrepresentations, as AI has no intent and no motivation.\nIf you believe that the current crop of AI is just a stochastic parrot, then there is nothing more to say - move on.\nIf you have used any of the current AI offerings, you have to conclude that, whi",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -334,84 +353,16 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "search",
+        "research"
       ]
     },
     {
-      "id": "5cc1d681-1eab-4ccb-bfb4-3b4a27cf3dd6",
-      "name": "HA-Jev",
-      "url": "https://github.com/AboveColin/HA-Jev",
-      "oneLiner": "Ask TypeSafe Jev questions about your house and get numbers back.",
-      "description": "Ask TypeSafe Jev questions about your house and get numbers back. Jev is a decision model, not a chat model. It answers a typed question with a probability, a choice or a score, and this integration turns each answer into an entity you can automate on.\nNot affiliated with TypeSafe. The API client is jevclient.\n- Questions become sensors: a probability, one of your options with its distribution, or",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/AboveColin/HA-Jev",
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "f5c901e8-d4d8-4523-8b3f-0945c9d42759",
-      "name": "AL1S-WMS",
-      "url": "https://github.com/RicterZ/AL1S-WMS",
-      "oneLiner": "AL1S WMS is a lightweight, self-hosted warehouse manager for the home.",
-      "description": "AL1S WMS is a lightweight, self-hosted warehouse manager for the home.\nDeveloper navigation: Agent guide and feature map.\nStocktaking, purchasing, and finance share one data trail. Receiving a purchase creates a stock batch and transaction; recording its cost updates actual spending, price history, and inventory value. AL1S WMS also exposes an MCP interface so an AI agent can assist within an expl",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/RicterZ/AL1S-WMS.git",
-      "categories": [
-        "code",
-        "data",
-        "productivity"
-      ]
-    },
-    {
-      "id": "07f3acbd-9df4-45b1-a978-a0a4552fbabe",
-      "name": "jev-codex-router",
-      "url": "https://github.com/0xNatoshi/jev-codex-router",
-      "oneLiner": "md, and the release checklist.",
-      "description": "Contributing? See CONTRIBUTING.md, SECURITY.md, and the release checklist.\nPer-call model routing for Codex, driven by Jev (TypeSafe System One).\nJev chooses a model and thinking effort together for each model call, including continuations after tools. Every route uses standard speed. The objective is sufficient capability for the next decision with no unnecessary quota consumption.\nHistorical sim",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "security"
-      ]
-    },
-    {
-      "id": "4d65f762-fb22-4f00-aeba-7ca2b8e7f536",
-      "name": "agent-router",
-      "url": "https://github.com/nidhi-singh02/agent-router",
-      "oneLiner": "Local-first, quota-aware routing for AI coding agents in Herdr.",
-      "description": "Local-first, quota-aware routing for AI coding agents in Herdr.\nrouter\nis a command-line tool that picks an AI coding agent, model, and reasoning effort\nfor a task, then starts that agent for you in a Herdr pane.\nrouter run \"implement the approved plan in docs/plans/billing.md\"\nIt filters your subscriptions with fixed rules (enabled models, quota, the 40% reserve on shared accounts), asks TypeSafe",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/nidhi-singh02/agent-router.git",
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "a8a8c40f-2aff-4530-bef4-22c5e16a2d43",
-      "name": "Sniffslop",
-      "url": "https://github.com/kmcheung12/sniffslop/",
-      "oneLiner": "Hover a paragraph, find out how likely it is written by AI, or define whatever questions you want to ask with Jev.",
-      "description": "Hover a paragraph, find out how likely it is written by AI, or define whatever questions you want to ask with Jev.\ndemo.webm\nNo build step — it's plain JS, load the folder as-is.\nChrome\n- Go to\nchrome://extensions\n- Turn on Developer mode (top right)\n- Load unpacked → pick this folder\nFirefox\n- Go to\nabout:debugging#/runtime/this-firefox\n- Load Temporary Add-on… → pick\nmanifest.json\ninside this fo",
+      "id": "f4dff8a6-7943-4985-9a7f-fb60decc9532",
+      "name": "AI Passport Photo",
+      "url": "https://www.aipassportphoto.org/",
+      "oneLiner": "Select a country and a passport or visa template.",
+      "description": "Step 1\nChoose the document\nSelect a country and a passport or visa template. The frame, background color, and head-size guide follow that specification.\nRuns in your browser\nMake a passport or visa photo online. Pick a country, center the face, replace the background, and download a 300 DPI file. The photo is processed in your browser and is not uploaded.\nWhat you get\nStep 1\nSelect a country and a",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -420,41 +371,24 @@
       "categories": [
         "code",
         "design",
-        "rag"
+        "image"
       ]
     },
     {
-      "id": "e9a4992a-0d8e-40d3-a202-e414de2cbe0e",
-      "name": "Gwae",
-      "url": "https://github.com/hongnoul/gwae",
-      "oneLiner": "Developed and tested on macOS only.",
-      "description": "Lightweight, Lightspeed\nTested with Ghostty and Jcode on MacBook Pro M4\nDeveloped and tested on macOS only. Contributions for Windows are welcome.\nLinux users: I recommend niri, the scrolling window manager that inspired gwae.\ncurl -fsSL https://hongnoul.github.io/gwae/install.sh | bash\nor with Homebrew:\nbrew install hongnoul/tap/gwae\nOfficial docs are still WIP.\nWhen to use gwae (and how it compa",
+      "id": "52cdc5eb-4432-4403-a70a-eedd67702d4c",
+      "name": "I built AgeDB",
+      "url": "https://github.com/sivsivsree/agedb",
+      "oneLiner": "A database your AI agent can talk to, that tells you how it read the question and says so when it can't answer.",
+      "description": "A database your AI agent can talk to, that tells you how it read the question and says so when it can't answer.\nAI agents collect things as they work: leads, prices, support tickets, research notes. AgeDB gives them somewhere to keep those records and lets them ask questions in plain English, such as \"which companies look most likely to convert?\". It runs on your machine as one small program. Ther",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/hongnoul/gwae",
+      "githubUrl": "https://github.com/sivsivsree/agedb",
       "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "ba39e5f3-d87a-46f1-bac5-427185a07f98",
-      "name": "Visually orchestrate Claude Code AI agents",
-      "url": "https://github.com/rondoflow/rondoflow",
-      "oneLiner": "Build teams of Claude Code agents - visually.",
-      "description": "Build teams of Claude Code agents - visually.\nDescribe what you need on a drag-and-drop canvas, and RondoFlow assembles a team of specialized AI agents that plan, run, and improve the work together - locally, on your machine, with your files.\nMost \"AI workflow\" tools wire prompts together. RondoFlow orchestrates real Claude Code agents - so the agents on your canvas can actually read and write fil",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/rondoflow/rondoflow.git",
-      "categories": [
-        "code",
-        "agents",
-        "data"
+        "design",
+        "data",
+        "agents"
       ]
     }
   ]
