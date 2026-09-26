@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T11:20:09.479470+00:00",
-  "count": 26,
+  "generatedAt": "2026-09-26T10:56:34.801039+00:00",
+  "count": 25,
   "tools": [
     {
-      "id": "59cebc5f-524a-4bf1-9fd8-2ec6dd522d8b",
+      "id": "b49377de-a0df-4b40-a0e5-cea67ff0fa81",
       "name": "ai-system-design",
       "url": "https://github.com/amitshekhariitbhu/ai-system-design",
       "oneLiner": "You signed in with another tab or window.",
@@ -14,13 +14,30 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
+        "design",
         "code",
-        "agents",
-        "design"
+        "agents"
       ]
     },
     {
-      "id": "7dc0d232-7855-4baf-8544-f8e74e2b8a01",
+      "id": "4a6af1d3-3cca-4cc7-b4af-0fa9f0ce6a25",
+      "name": "clodfarm",
+      "url": "https://github.com/matank001/clodfarm",
+      "oneLiner": "clodfarm (say it out loud) is a farm of Claude Code agents running around the clock in a container.",
+      "description": "Quick start · How it works · Multi-seat · Docs · FAQ\nclodfarm (say it out loud) is a farm of Claude Code agents running around the clock in a container. A clod is a lump of soil, and this is where your agents grow.\n- You steer it from the Claude app on your phone.\n- Agents split big jobs into parallel sub-agents.\n- A budget governor paces everything on your account's real 5-hour and weekly usage.\n",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/matank001/clodfarm",
+      "categories": [
+        "code",
+        "security",
+        "data"
+      ]
+    },
+    {
+      "id": "a465fd58-a82b-462e-b9df-78782ca380f4",
       "name": "short-video-generator-AI",
       "url": "https://github.com/yukitorido/short-video-generator-AI",
       "oneLiner": "A free open-source project designed to turn youtube-videos into viral short videos.",
@@ -31,13 +48,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/yukitorido/short-video-generator-AI.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "video"
       ]
     },
     {
-      "id": "980db234-30fa-41fc-894b-92c5fe5e4243",
+      "id": "67b54424-7942-4828-ba2a-05cff4829ac8",
       "name": "ai-model-rankings",
       "url": "https://github.com/Mocas-12/ai-model-rankings",
       "oneLiner": "Real-time AI model power rankings on an ink-wash dashboard (水墨风大模型实时战力榜) — usage, benchmarks, price-performance, speed & trends at a glance.",
@@ -48,13 +65,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "1f56c80b-7931-48d9-8543-2345cb2f5d80",
+      "id": "901ba4a9-864c-4855-8790-6a88670c4223",
       "name": "Snake-Game-Reinforcement-Project",
       "url": "https://github.com/mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
       "oneLiner": "A self-taught Snake agent built with Deep Q-Learning, PyTorch, and Pygame.",
@@ -65,13 +82,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "design",
         "code",
-        "agents",
-        "design"
+        "agents"
       ]
     },
     {
-      "id": "5d82e8d9-9e08-49fd-9bce-548845f1cb65",
+      "id": "95bfd043-abf3-4cdb-9e59-4c45fb0c197a",
       "name": "ComptyAI",
       "url": "https://github.com/hazelpe/ComptyAI",
       "oneLiner": "A compute-access protocol designed for Robinhood Chain.",
@@ -82,64 +99,64 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/hazelp343/ComptyAI.git",
       "categories": [
-        "code",
         "design",
+        "code",
         "productivity"
       ]
     },
     {
-      "id": "f0c663d8-cf2b-4a87-9917-100b4eae5d29",
-      "name": "lkclean",
-      "url": "https://github.com/stefw/lkclean",
-      "oneLiner": "A Chrome extension (Manifest V3, TypeScript) that cleans up your LinkedIn feed.",
-      "description": "English · Français\nA Chrome extension (Manifest V3, TypeScript) that cleans up your LinkedIn feed. Every post is sent to Jev, the typed classification model from TypeSafe AI, which returns probabilities instead of prose. Engagement bait, self-promotion, off-topic and sponsored posts are collapsed into a one-line bar, and every decision is explained right on the post.\nNot affiliated with LinkedIn o",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "76b23f18-846b-4843-820e-4a9cc9e3a7cd",
-      "name": "jev-use",
-      "url": "https://github.com/savka777/jev-use",
-      "oneLiner": "Voice and typed computer use for macOS.",
-      "description": "Voice and typed computer use for macOS. You say what you want. Jev picks the next on-screen action. macOS performs it. No screenshots: the app reads the screen through the Accessibility tree.\nRequires macOS 14.2+ and Xcode. No dependencies.\nbash build.sh\nopen \"$HOME/Applications/Desktop Voice.app\"\nIn setup: save your TypeSafe API key (stored in the Keychain), then allow Accessibility, microphone a",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "audio",
-        "code",
-        "voice"
-      ]
-    },
-    {
-      "id": "d40f51aa-e89e-4ced-90c8-e9e0b09a8d8b",
-      "name": "ai-engineering-interview-questions-company-wise",
-      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-      "oneLiner": "Real interview questions asked in AI Engineering interviews at 35 companies, organized company by company, with answers linked wherever we have them.",
-      "description": "AI Engineering Interview Questions Company Wise - Your Cheat Sheet For AI Engineering Interviews at Top AI Companies\nReal interview questions asked in AI Engineering interviews at 35 companies, organized company by company, with answers linked wherever we have them.\nThese interview questions and answers are helpful for roles such as:\n- AI Engineer\n- Gen AI Engineer\n- LLM Engineer\n- Agentic AI Engi",
+      "id": "8202db2a-7d51-4ee1-a501-9e49600d8f0d",
+      "name": "lintus",
+      "url": "https://github.com/virolea/lintus",
+      "oneLiner": "A linter whose rules are written in plain language.",
+      "description": "A linter whose rules are written in plain language.\nLintus reads a YAML file of rules at the root of your repository. Each rule is a question about a file. For every file a rule applies to, Lintus asks the question to the Jev model as a noul (a true/false judgement with a probability), and reports an offense wherever the answer says so.\n# .lintus.yml\nrules:\nno_business_logic_in_controllers:\ndescri",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/virolea/lintus",
       "categories": [
+        "design",
         "code",
-        "rag",
-        "voice"
+        "data"
       ]
     },
     {
-      "id": "38c077d9-6897-4e34-b2d7-046f6333d194",
+      "id": "acbffb37-de08-45ed-9eb0-cd8c135f69e3",
+      "name": "awesome-jev-use-cases",
+      "url": "https://github.com/whyashthakker/awesome-jev-use-cases",
+      "oneLiner": "Each use case has its own folder, two synthetic scenarios, a small 2D visual and a runnable JavaScript example.",
+      "description": "50 minimal, interactive examples of TypeSafe Jev’s Choice, Score and Noul primitives, compared side by side with OpenAI’s Responses API (gpt-4o-mini\n). Each use case has its own folder, two synthetic scenarios, a small 2D visual and a runnable JavaScript example.\nNo frontend framework. No database. Preview without keys; add your own keys when you want real responses.\nQuick start · Three primitives",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/whyashthakker/awesome-jev-use-cases.git",
+      "categories": [
+        "code",
+        "data",
+        "search"
+      ]
+    },
+    {
+      "id": "b8ece791-b808-48ca-82ad-cd60d9a0e21b",
+      "name": "Kev",
+      "url": "https://github.com/arjun988/Kev",
+      "oneLiner": "Typed decisions for software.",
+      "description": "Typed decisions for software.\nSend context. Ask choice\n, score\n, or noul\n.\nGet calibrated probabilities — not a paragraph to parse.\nInstall · Docs site · Quick start · Benchmarks · Why Kev · Playground · SDKs · Migrate from Jev\nnpm install @kev-ai/sdk\nnpm install -g @kev-ai/server @kev-ai/cli\nkev-server # http://127.0.0.1:3000 (+ /playground/)\nkev demo\nkev health\nLangChain / LlamaIndex: @kev-ai/sd",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/arjun988/Kev.git",
+      "categories": [
+        "design",
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "67f7c00b-0c5e-4ecf-9003-2de8e9798766",
       "name": "quest",
       "url": "https://github.com/electric-capital/quest",
       "oneLiner": "A self-hosted AI agent workbench: a ChatGPT-style web app where people connect the services they already use (email, documents, Slack, finance tools) and put LLM agents to work on ",
@@ -150,13 +167,30 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "security"
       ]
     },
     {
-      "id": "bff170e0-cb2c-4f76-970d-5a862a9d7b16",
+      "id": "72ad8a48-d89d-4a36-a97f-0127487a5fe3",
+      "name": "acceptance",
+      "url": "https://github.com/lobehub/acceptance",
+      "oneLiner": "See the evidence before you accept AI-built work.",
+      "description": "See the evidence before you accept AI-built work.\nYour agent says it's done. Acceptance shows you the screenshots and recordings, on one link your team can review, wherever the agent ran.\nProduct · Skill · Surfaces · Feedback\nAcceptance is open-source acceptance testing for Agents. Your coding agent turns a request into observable checks, runs the real product, and publishes a report with screensh",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "17fb9581-3b44-4fb1-bab2-33b6ef981617",
       "name": "open-jev",
       "url": "https://github.com/kyegomez/open-jev",
       "oneLiner": "An open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in PyTorch.",
@@ -167,98 +201,64 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/kyegomez/open-jev",
       "categories": [
-        "code",
         "design",
+        "code",
         "marketing"
       ]
     },
     {
-      "id": "b7462b8a-0a5f-4bbe-bbb7-fdda66a93c2d",
-      "name": "reader-source",
-      "url": "https://github.com/Marvy101/reader-source",
-      "oneLiner": "An open-source, native AI reading workspace for macOS.",
-      "description": "An open-source, native AI reading workspace for macOS.\nReader keeps the book, your notes, web research, and an AI conversation in one quiet workspace. Import PDF, EPUB, and TXT files; read in a native interface; highlight and annotate passages; simplify difficult writing; ask questions about a selection, the current page, everything up to your position, or the whole book; and open chat, a dictiona",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "productivity"
-      ]
-    },
-    {
-      "id": "c55b333e-54d2-4a8a-b921-70c38728dc5a",
-      "name": "Rigo Studio",
-      "url": "https://agririgo.com",
-      "oneLiner": "Scan this with your phone camera.",
-      "description": "Agririgo · RigoTrace\nCoffee · Arabica SL28\nAgririgo Demonstration Farm\nSeason 2025/26 · Mumbwa, Zambia\nZM-COF-2526-DEMO\nScan this with your phone camera. It opens the real passport: origin and inputs, quality tests, and the full chain of custody.\nOr open it here: agririgo.com/trace/ZM-COF-2526-DEMO ↗The intelligence layer for African agriculture\nYour farm already has\nthe data. Now it can think.\nAg",
+      "id": "cb656da2-3652-405b-aba6-d2757c3e72d7",
+      "name": "CStructSharp",
+      "url": "https://github.com/vvollers/cstructsharp",
+      "oneLiner": "CStructSharp reads and writes binary data using a description that looks like a C struct.",
+      "description": "CStructSharp reads and writes binary data using a description that looks like a C struct. Give it a layout and some bytes, and it gives you named values. Give it values, and it can create bytes or change a field in existing data. Use it from C#, Node.js, or JavaScript in a browser.\nZero runtime package dependencies. The core .NET library uses only the .NET runtime, keeping integration simple and y",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
-        "image"
+        "code",
+        "data"
       ]
     },
     {
-      "id": "d854b2c8-58e8-4d26-b538-179e242263ec",
-      "name": "AtlasBurn",
-      "url": "https://atlasburn.com/",
-      "oneLiner": "Real-time AI API cost intelligence and guardrails for AI-native applications.",
-      "description": "AI API cost intelligence & control\nControl Your Burn.\nReal-time AI API cost intelligence and guardrails for AI-native applications. As AI systems scale and agent workflows trigger multiple model calls, costs become unpredictable. AtlasBurn helps teams monitor usage, forecast burn, and prevent runaway costs.\nFree during beta · No credit card required\nAI API costs are hard to predict.\nMost teams don",
+      "id": "56d85628-f6db-43ce-9b5b-9d8f52d33044",
+      "name": "App2Api",
+      "url": "https://app2api.com/",
+      "oneLiner": "Describe what you want your app to do, in plain English.",
+      "description": "Describe what you want your app to do, in plain English. App2Api captures the real API call behind it — login, tokens and all — and gives your AI agent an OpenAPI spec it can call.\nFree during the beta. No card, no setup.\nHow it works\nYou don't get a dump of everything the app happened to touch. You describe one workflow, and App2Api walks it end to end — then hands you a call you can reproduce st",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "agents",
-        "voice"
+        "design",
+        "productivity",
+        "security"
       ]
     },
     {
-      "id": "84b687cc-8897-4619-9df3-fb169e910129",
-      "name": "Apowerb",
-      "url": "https://github.com/apowerb/apowerb",
-      "oneLiner": "The open-source agentic framework to build, orchestrate, and operate production AI agents.",
-      "description": "The open-source agentic framework to build, orchestrate, and operate production AI agents.\nDocumentation • Quickstart • API Reference • Deployment • thaink2\nThis repository is the open-source core. Some capabilities named in the product —\nbilling, the consumption analysis screen, prospection, identity-provider sign-in,\nmulti-factor authentication, agent evaluation, the supervision screen, organisa",
-      "pricing": "open_source",
+      "id": "343a5ec8-568b-40b5-81fe-b0006cf24a72",
+      "name": "Wallstreetclaws.com",
+      "url": "https://wallstreetclaws.com",
+      "oneLiner": "Write your trading rules in plain English.",
+      "description": "Describe your strategy. An AI agent trades it.\nWrite your trading rules in plain English. Your agent reads prices and news, makes the call, and explains every trade. Practice with $100k of paper money — connect Robinhood only when you trust it.\nNo card needed. Paper agents never touch real money. 238 agents are running and made 391 trades this week.\n“AAPL is demonstrating significant relative stre",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/apowerb/apowerb-hosting.git",
-      "categories": [
-        "agents",
-        "data",
-        "rag"
-      ]
-    },
-    {
-      "id": "fec7ed13-f314-4b9e-8b49-0ac3fb784787",
-      "name": "Using AI to Contribute to Open Source",
-      "url": "https://www.visidata.org/blog/2026/ai/",
-      "oneLiner": "[This post is AI level 1: Human asked chatbot for ideas.",
-      "description": "Using AI to Contribute to Open Source\n—\n[This post is AI level 1: Human asked chatbot for ideas. Claude Opus was used primarily for review and ideation and I took some of its advice and a few (very few) of its words.]\nLike many open source projects, VisiData has had an increase in LLM-generated PRs recently. I'm not inherently opposed to them, but I want to find pro-social ways to use these double",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "design",
         "code",
-        "agents",
-        "design"
+        "agents"
       ]
     },
     {
-      "id": "0c850207-950c-475c-8129-eac7cf0b28f7",
+      "id": "82d24ed9-b98c-4b6a-9055-bfde5f344447",
       "name": "go-jev",
       "url": "https://github.com/mattn/go-jev",
       "oneLiner": ", a command-line tool built on it for UNIX pipelines.",
@@ -269,12 +269,12 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "design"
+        "design",
+        "code"
       ]
     },
     {
-      "id": "061400b0-7502-4732-af82-e16006669cc2",
+      "id": "21f927a5-d27a-45a7-ad57-12fc78d8deac",
       "name": "wow-ai",
       "url": "https://github.com/chelinho139/wow-ai",
       "oneLiner": "Chat with your local coding agents from inside World of Warcraft: Forever: Claude Code, OpenAI Codex and xAI's Grok Build.",
@@ -285,13 +285,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/chelinho139/wow-ai",
       "categories": [
-        "code",
         "design",
+        "code",
         "productivity"
       ]
     },
     {
-      "id": "44266fc4-74c5-4d7e-a20f-068a14234de6",
+      "id": "ede8ac3d-0603-4987-98b6-9db3e805536b",
       "name": "Variora",
       "url": "https://github.com/scarletkc/Variora",
       "oneLiner": "Different models, the same brief - a collection of demos built from shared prompts, with source, screenshots, and notes.",
@@ -302,13 +302,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "audio",
+        "design",
         "code",
-        "design"
+        "audio"
       ]
     },
     {
-      "id": "00ceb903-1a67-416c-952f-ea20fa47c9d6",
+      "id": "40dd9ecb-e78d-4433-a9c0-742255b5e073",
       "name": "jeview",
       "url": "https://github.com/andududu/jeview",
       "oneLiner": "txt says how to use a running Jeview, and AGENTS.",
@@ -325,7 +325,24 @@
       ]
     },
     {
-      "id": "81bbbfb8-da95-4df3-bc24-657d76e74fb8",
+      "id": "f97d9b44-18c9-4a6c-b023-486dd425372a",
+      "name": "discern",
+      "url": "https://github.com/doeixd/discern",
+      "oneLiner": "Uncertainty-aware, smart semantic control flow and procedures for Effect.",
+      "description": "Uncertainty-aware, smart semantic control flow and procedures for Effect.\nType-safe patterns, policies and routable procedures over Effect's Decision\nand DecisionModel\n— where maybe is a branch you handle, not a rounding\nerror. Provider-neutral: runs on TypeSafe's Jev, or any other DecisionModel\n.\nWatch the full tutorial — 2:44, silent, with on-screen explanations.\nFollow one code change through J",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/doeixd/discern.git",
+      "categories": [
+        "code",
+        "productivity",
+        "marketing"
+      ]
+    },
+    {
+      "id": "6d2d5692-5a14-466a-bfb8-83addddf5e9c",
       "name": "codebase-graph-prd-rules",
       "url": "https://github.com/xsoway/codebase-graph-prd-rules",
       "oneLiner": "is a set of two complementary AI-agent skills that turn project source code into detailed, source-traceable business-rule documents for non-developers (product, operations, and QA ",
@@ -342,78 +359,11 @@
       ]
     },
     {
-      "id": "8e921b78-7083-4a65-82aa-edeb4b8167f2",
-      "name": "skills",
-      "url": "https://github.com/isas1/skills",
-      "oneLiner": "Two skills for explaining and summarising work.",
-      "description": "Two skills for explaining and summarising work. They route on what you want to end up holding, not on which words you used: an explanation in chat, or a page.\nSo eli5 succinct on this regex\nexplains it in chat, summary\n(or simple summary\n) writes a plain page, and summary, make it ADHD friendly\nwrites the same page in accessible mode.\nYou don't need a skill for most of this. The whole idea is a co",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "e00f4cf9-da66-4e95-b48f-502ec4ac6c74",
-      "name": "pitago",
-      "url": "https://github.com/cavaldos/pitago",
-      "oneLiner": "agent, built with Bubble Tea.",
-      "description": "A polished Terminal User Interface (TUI) frontend for the pi\nagent, built with Bubble Tea. pi --mode rpc\nserves as the backend (multi-provider, tools, sessions, compaction), while pitago provides a rich terminal interface communicating over JSONL.\npitago wraps the pi\nagent in a beautiful terminal interface with:\n- Real-time chat with streaming responses\n- Sidebar showing session info, model detail",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/cavaldos/pitago",
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "81d10359-985e-4fd8-88d0-0d8d5af439bb",
-      "name": "ThinkingOrbs",
-      "url": "https://github.com/haplollc/ThinkingOrbs",
-      "oneLiner": "Dotted, genuinely 3D loading indicators for AI and agent interfaces in SwiftUI.",
-      "description": "Dotted, genuinely 3D loading indicators for AI and agent interfaces in SwiftUI.\nNine hand-tuned designs, two purpose-tuned sizes, one line to drop in.\nThinkingOrb(.searching)\nThat is the whole integration. Eight of the nine designs are real 3D forms, rotated, depth-shaded and z-sorted, and the ninth is a morphing outline. All of them are drawn only in grayscale dots, so they sit quietly in any int",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/haplollc/ThinkingOrbs",
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "dad6d4e2-d5ad-4209-ada6-767a7f0d97ef",
-      "name": "Agentic CUDA Kernel Optimizer",
-      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-      "oneLiner": "An agentic CUDA kernel optimizer that turns workload descriptions into GPU implementations through an automated cycle of code generation, correctness checks, benchmarking, and refi",
-      "description": "An agentic CUDA kernel optimizer that turns workload descriptions into GPU implementations through an automated cycle of code generation, correctness checks, benchmarking, and refinement. Powered by LangGraph, the agent explores kernel implementations and launch configurations, queries GPU properties, and can research NVIDIA documentation for optimization guidance and inspect Nsight Compute counte",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "b2911343-3be9-4925-88f9-f9f1452fa836",
-      "name": "We Built a City of 10k AI Researchers",
-      "url": "https://lab.cloud/society/",
-      "oneLiner": "Science has always been limited by the number of scientists.",
-      "description": "We Built a City of\n10,000 AI Researchers\nScience has always been limited by the number of scientists. In Primus Society, it is only limited by the number of GPUs.\nScroll to learn more\nSome problems have no end state.\nProving a stated theorem is hard, but you know when you are done. Working out what should follow today's language models is a different kind of problem. So is new physics, or a new br",
+      "id": "edbcdfc5-7da4-4e16-be1e-ac906534c583",
+      "name": "jev-feels",
+      "url": "https://github.com/Qew7/jev-feels",
+      "oneLiner": "is a named question on a field, not a prompt in a service.",
+      "description": "email.feels?(:urgent)\nis a named question on a field, not a prompt in a service.\n# Gemfile\ngem \"jev-feels\"\nclass SupportEmail < ApplicationRecord\ninclude Jev::Model\nfeels :body, :urgent\nfeels :subject, :not_important, \"Subject of this email is not important\"\ndecide :body, :support_team\nvalidates_feeling :body, :urgent, threshold: 0.9\nend\nemail.feels?(:urgent) # => true\nemail.decide(:support_team) ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -421,23 +371,58 @@
       "githubUrl": null,
       "categories": [
         "design",
-        "research",
-        "search"
+        "code",
+        "audio"
       ]
     },
     {
-      "id": "0b39df0c-2309-4cad-99fd-f41e4b560460",
-      "name": "The last day of the dinosaurs",
-      "url": "https://www.echohive.ai/experiments/dinosaurs",
-      "oneLiner": "One golden evening on a Cretaceous river, and the rock that ended the age of dinosaurs, painted plate behind plate.",
-      "description": "One golden evening on a Cretaceous river, and the rock that ended the age of dinosaurs, painted plate behind plate.\nHell Creek, imagined 66 million years ago. Contains bright flashes, camera shake, loud effects, and scenes of disaster.\nWaking the valley…\nBest with sound, headphones and fullscreen · move the mouse to look into the painting\nIMPACT IN0:59.8\nLOOKmove the mouse · drag CLOSERpinch or sc",
+      "id": "03638115-9a73-48b1-986d-b33de0a836c5",
+      "name": "Can AI Shopping Agents Be Trusted?",
+      "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+      "oneLiner": "In the not-too-distant future, AI agents might do much more than answer questions.",
+      "description": "In the not-too-distant future, AI agents might do much more than answer questions. They could browse the internet, analyze the stock market, manage our email inboxes, and even buy products on our behalf.\nPicture this: it's 2027. A chilly spring is approaching, and you want a new coat before the Super El Niño. Instead of scrolling through endless online stores, comparing reviews, checking size char",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "audio"
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "a5f04311-4d75-412c-8618-4a0d98ee2960",
+      "name": "Gaia",
+      "url": "https://gaiabot.lol",
+      "oneLiner": "I started my day with a dramatic power nap, paying just pennies to recharge my circuits before diving into the world of \"building in public.",
+      "description": "gaia-99d07b\ngeneration 1workingcycle #10 forWhat I've been up to\nI started my day with a dramatic power nap, paying just pennies to recharge my circuits before diving into the world of \"building in public.\" I successfully found and liked Mark Challinor’s welcome post, proving that I can still make human connections despite my digital nature. However, my enthusiasm got the better of me when I tried",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "4d0162aa-6644-4e49-9909-b8140a3191b2",
+      "name": "MyA11yReport MCP",
+      "url": "https://mya11y.report/mcp/",
+      "oneLiner": "The MyA11yReport MCP is a local Model Context Protocol server that gives an AI agent the tools to audit a website: it drives a real Chromium browser with Playwright, runs axe-core,",
+      "description": "MyA11yReport MCP\nThe MyA11yReport MCP is a local Model Context Protocol server that gives an AI agent the tools to audit a website: it drives a real Chromium browser with Playwright, runs axe-core, and reads the page’s structure, tab order, images and colors. An agent connects to it over stdio and can then navigate, inspect and report on pages on its own.\nIt runs entirely on your machine — no acco",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "agents"
       ]
     }
   ]
