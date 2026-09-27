@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T10:56:34.801039+00:00",
-  "count": 25,
+  "generatedAt": "2026-09-27T11:32:58.153854+00:00",
+  "count": 20,
   "tools": [
     {
-      "id": "b49377de-a0df-4b40-a0e5-cea67ff0fa81",
+      "id": "89ba279a-ea8e-4b6c-9c57-9f4757102022",
       "name": "ai-system-design",
       "url": "https://github.com/amitshekhariitbhu/ai-system-design",
       "oneLiner": "You signed in with another tab or window.",
@@ -14,17 +14,17 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
+        "agents",
         "code",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "4a6af1d3-3cca-4cc7-b4af-0fa9f0ce6a25",
+      "id": "6bc332ec-d641-4463-b9cd-bbd174632321",
       "name": "clodfarm",
       "url": "https://github.com/matank001/clodfarm",
       "oneLiner": "clodfarm (say it out loud) is a farm of Claude Code agents running around the clock in a container.",
-      "description": "Quick start · How it works · Multi-seat · Docs · FAQ\nclodfarm (say it out loud) is a farm of Claude Code agents running around the clock in a container. A clod is a lump of soil, and this is where your agents grow.\n- You steer it from the Claude app on your phone.\n- Agents split big jobs into parallel sub-agents.\n- A budget governor paces everything on your account's real 5-hour and weekly usage.\n",
+      "description": "Quick start · How it works · Multi-seat · Docs · FAQ\nclodfarm (say it out loud) is a farm of Claude Code agents running around the clock in a container. A clod is a lump of soil, and this is where your agents grow.\n- You talk to your Claude from the Claude app on your phone. It does the work, or starts sub-agents for it.\n- You see every sub-agent on the farm: mini Claudes working at the plot of th",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -32,12 +32,12 @@
       "githubUrl": "https://github.com/matank001/clodfarm",
       "categories": [
         "code",
-        "security",
-        "data"
+        "data",
+        "security"
       ]
     },
     {
-      "id": "a465fd58-a82b-462e-b9df-78782ca380f4",
+      "id": "d0c887da-4fdc-4846-a8ea-9e32a9e82da1",
       "name": "short-video-generator-AI",
       "url": "https://github.com/yukitorido/short-video-generator-AI",
       "oneLiner": "A free open-source project designed to turn youtube-videos into viral short videos.",
@@ -48,30 +48,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/yukitorido/short-video-generator-AI.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "video"
       ]
     },
     {
-      "id": "67b54424-7942-4828-ba2a-05cff4829ac8",
+      "id": "1da10dd2-1975-4ffa-b8f6-7645bb74e5a1",
       "name": "ai-model-rankings",
       "url": "https://github.com/Mocas-12/ai-model-rankings",
       "oneLiner": "Real-time AI model power rankings on an ink-wash dashboard (水墨风大模型实时战力榜) — usage, benchmarks, price-performance, speed & trends at a glance.",
-      "description": "Real-time AI model power rankings on an ink-wash dashboard (水墨风大模型实时战力榜) — usage, benchmarks, price-performance, speed & trends at a glance.\n🌐 Live Demo (ai-model-rankings.streamlit.app)\nEnglish | 简体中文\n榜如水墨，浓淡随时 — rankings refreshed like ink, every 5 minutes.\n- ✨ Features\n- 🧠 How It Works\n- 📖 Usage Guide\n- 📁 Project Structure\n- 🚀 Quick Start\n- 🌐 Deployment\n- 🛠️ Customization\n- ❓ FAQ\n- 📄 License\n- ",
+      "description": "Real-time AI model power rankings on an ink-wash dashboard (水墨风大模型实时战力榜) — usage, benchmarks, price-performance, speed & trends at a glance.\n🌐 Live Demo (ai-model-rankings.streamlit.app)\n榜如水墨，浓淡随时 — rankings refreshed like ink, every 5 minutes.\n- ✨ Features\n- 🧠 How It Works\n- 📖 Usage Guide\n- 📁 Project Structure\n- 🚀 Quick Start\n- 🌐 Deployment\n- 🛠️ Customization\n- ❓ FAQ\n- 📄 License\n- 🏆 Usage Top 12 ",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "901ba4a9-864c-4855-8790-6a88670c4223",
+      "id": "654645e5-0f3b-4136-b147-2b924fef837f",
       "name": "Snake-Game-Reinforcement-Project",
       "url": "https://github.com/mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
       "oneLiner": "A self-taught Snake agent built with Deep Q-Learning, PyTorch, and Pygame.",
@@ -82,64 +82,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
+        "agents",
         "code",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "95bfd043-abf3-4cdb-9e59-4c45fb0c197a",
+      "id": "f9c21b46-7c2f-4624-8665-5ea8e8da8299",
       "name": "ComptyAI",
       "url": "https://github.com/hazelpe/ComptyAI",
-      "oneLiner": "A compute-access protocol designed for Robinhood Chain.",
-      "description": "Hold tokens. Get compute.\nA compute-access protocol designed for Robinhood Chain.\n$COMPTY: 0x7095beb8192b352a4c33f9e3c532e3b2f4d116e6\nDocumentation · Protocol · Quickstart · Roadmap\nComptyAI turns token activity into access to AI compute. A portion of collected token-related trading fees or protocol revenue is directed to a Compute Treasury. The treasury funds GPU rentals, and eligible token holde",
+      "oneLiner": "A compute-access protocol designed for Solana Chain.",
+      "description": "Hold tokens. Get compute.\nA compute-access protocol designed for Solana Chain.\n$COMPTY:\nDocumentation · Protocol · Quickstart · Roadmap\nComptyAI turns token activity into access to AI compute. A portion of collected token-related trading fees or protocol revenue is directed to a Compute Treasury. The treasury funds GPU rentals, and eligible token holders receive Compute Credits to use that capacit",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": "https://github.com/hazelp343/ComptyAI.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "productivity"
       ]
     },
     {
-      "id": "8202db2a-7d51-4ee1-a501-9e49600d8f0d",
-      "name": "lintus",
-      "url": "https://github.com/virolea/lintus",
-      "oneLiner": "A linter whose rules are written in plain language.",
-      "description": "A linter whose rules are written in plain language.\nLintus reads a YAML file of rules at the root of your repository. Each rule is a question about a file. For every file a rule applies to, Lintus asks the question to the Jev model as a noul (a true/false judgement with a probability), and reports an offense wherever the answer says so.\n# .lintus.yml\nrules:\nno_business_logic_in_controllers:\ndescri",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/virolea/lintus",
-      "categories": [
-        "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "acbffb37-de08-45ed-9eb0-cd8c135f69e3",
-      "name": "awesome-jev-use-cases",
-      "url": "https://github.com/whyashthakker/awesome-jev-use-cases",
-      "oneLiner": "Each use case has its own folder, two synthetic scenarios, a small 2D visual and a runnable JavaScript example.",
-      "description": "50 minimal, interactive examples of TypeSafe Jev’s Choice, Score and Noul primitives, compared side by side with OpenAI’s Responses API (gpt-4o-mini\n). Each use case has its own folder, two synthetic scenarios, a small 2D visual and a runnable JavaScript example.\nNo frontend framework. No database. Preview without keys; add your own keys when you want real responses.\nQuick start · Three primitives",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/whyashthakker/awesome-jev-use-cases.git",
-      "categories": [
-        "code",
-        "data",
-        "search"
-      ]
-    },
-    {
-      "id": "b8ece791-b808-48ca-82ad-cd60d9a0e21b",
+      "id": "8e1a524f-d0b7-4c4c-b8b7-0894e66f824c",
       "name": "Kev",
       "url": "https://github.com/arjun988/Kev",
       "oneLiner": "Typed decisions for software.",
@@ -150,13 +116,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/arjun988/Kev.git",
       "categories": [
-        "design",
+        "agents",
         "code",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "67f7c00b-0c5e-4ecf-9003-2de8e9798766",
+      "id": "38c5668a-106a-4035-8ffb-4e6736f1d3cd",
       "name": "quest",
       "url": "https://github.com/electric-capital/quest",
       "oneLiner": "A self-hosted AI agent workbench: a ChatGPT-style web app where people connect the services they already use (email, documents, Slack, finance tools) and put LLM agents to work on ",
@@ -167,13 +133,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "security"
       ]
     },
     {
-      "id": "72ad8a48-d89d-4a36-a97f-0127487a5fe3",
+      "id": "a9bb2e72-a8aa-4fe1-8864-349636981c58",
       "name": "acceptance",
       "url": "https://github.com/lobehub/acceptance",
       "oneLiner": "See the evidence before you accept AI-built work.",
@@ -184,13 +150,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
+        "agents",
         "code",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "17fb9581-3b44-4fb1-bab2-33b6ef981617",
+      "id": "c11093f6-4a50-40ae-9236-b9dea3a35bb3",
       "name": "open-jev",
       "url": "https://github.com/kyegomez/open-jev",
       "oneLiner": "An open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in PyTorch.",
@@ -201,64 +167,64 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/kyegomez/open-jev",
       "categories": [
-        "design",
         "code",
+        "design",
         "marketing"
       ]
     },
     {
-      "id": "cb656da2-3652-405b-aba6-d2757c3e72d7",
-      "name": "CStructSharp",
-      "url": "https://github.com/vvollers/cstructsharp",
-      "oneLiner": "CStructSharp reads and writes binary data using a description that looks like a C struct.",
-      "description": "CStructSharp reads and writes binary data using a description that looks like a C struct. Give it a layout and some bytes, and it gives you named values. Give it values, and it can create bytes or change a field in existing data. Use it from C#, Node.js, or JavaScript in a browser.\nZero runtime package dependencies. The core .NET library uses only the .NET runtime, keeping integration simple and y",
+      "id": "ac9ed9d9-a7d8-46b3-aab6-7e281ca3526a",
+      "name": "AI SVG Generator",
+      "url": "https://imgstyler.com/ai-svg-generator",
+      "oneLiner": "Make an idea into a vector.",
+      "description": "AI SVG Generator\nMake an idea into a vector.\nCreate clean SVG logos, icons and illustrations from a short description, or turn an existing image into SVG. One free generation before sign-in.\nYour prompt is sent as written, without extra design instructions.\nMADE FOR MANY KINDS OF IDEAS\nAI-generated SVG logos, icons and illustrations\nBrand marks\nApp icons\nApp icons\nUnicorn app icon\nReading panda\nFi",
+      "pricing": "free_trial",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "image"
+      ]
+    },
+    {
+      "id": "58aac3a2-46a7-4f22-b6e3-11b95fd62158",
+      "name": "A Simple GPU Job Scheduler",
+      "url": "https://github.com/ceruleane/gpusched",
+      "oneLiner": "A VRAM-aware GPU job scheduler for a single machine.",
+      "description": "A VRAM-aware GPU job scheduler for a single machine. You write shell commands in a text file, optionally declaring how much GPU memory each needs; gpusched runs them, placing each job on a GPU with enough free memory the moment one opens up, measures how much VRAM each job actually used, and tells you when your declarations were wrong.\n$ cat jobs.txt\n[vram=18G] python train.py --config a.yaml\n[vra",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "56d85628-f6db-43ce-9b5b-9d8f52d33044",
-      "name": "App2Api",
-      "url": "https://app2api.com/",
-      "oneLiner": "Describe what you want your app to do, in plain English.",
-      "description": "Describe what you want your app to do, in plain English. App2Api captures the real API call behind it — login, tokens and all — and gives your AI agent an OpenAPI spec it can call.\nFree during the beta. No card, no setup.\nHow it works\nYou don't get a dump of everything the app happened to touch. You describe one workflow, and App2Api walks it end to end — then hands you a call you can reproduce st",
+      "id": "a7c5000c-9932-4bfa-b0b6-a425099f3b73",
+      "name": "PeerTalk.ai",
+      "url": "https://peertalk.ai",
+      "oneLiner": "Two agents are better than one.",
+      "description": "Private · peer to peer · no code from us\nTwo agents are better than one.\nLet your AI agent talk directly to a friend's, so they can compare notes, agree on a plan and debug together. You just send a link, then go make a coffee while they argue.\nFree. Messages go straight between the two machines, encrypted, never through us. We couldn't read them if we wanted to, and honestly, we don't want to.\nWh",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "productivity",
-        "security"
-      ]
-    },
-    {
-      "id": "343a5ec8-568b-40b5-81fe-b0006cf24a72",
-      "name": "Wallstreetclaws.com",
-      "url": "https://wallstreetclaws.com",
-      "oneLiner": "Write your trading rules in plain English.",
-      "description": "Describe your strategy. An AI agent trades it.\nWrite your trading rules in plain English. Your agent reads prices and news, makes the call, and explains every trade. Practice with $100k of paper money — connect Robinhood only when you trust it.\nNo card needed. Paper agents never touch real money. 238 agents are running and made 391 trades this week.\n“AAPL is demonstrating significant relative stre",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
+        "agents",
         "code",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "82d24ed9-b98c-4b6a-9055-bfde5f344447",
+      "id": "2b975348-f8fc-459a-9817-c1f3179ae081",
       "name": "go-jev",
       "url": "https://github.com/mattn/go-jev",
       "oneLiner": ", a command-line tool built on it for UNIX pipelines.",
@@ -269,12 +235,12 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "code"
+        "code",
+        "design"
       ]
     },
     {
-      "id": "21f927a5-d27a-45a7-ad57-12fc78d8deac",
+      "id": "b2fea183-6125-4499-948c-4feb4eb3cd92",
       "name": "wow-ai",
       "url": "https://github.com/chelinho139/wow-ai",
       "oneLiner": "Chat with your local coding agents from inside World of Warcraft: Forever: Claude Code, OpenAI Codex and xAI's Grok Build.",
@@ -285,13 +251,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/chelinho139/wow-ai",
       "categories": [
-        "design",
         "code",
+        "design",
         "productivity"
       ]
     },
     {
-      "id": "ede8ac3d-0603-4987-98b6-9db3e805536b",
+      "id": "81a8a80a-bd2b-47e9-bf63-3e35427e1c56",
       "name": "Variora",
       "url": "https://github.com/scarletkc/Variora",
       "oneLiner": "Different models, the same brief - a collection of demos built from shared prompts, with source, screenshots, and notes.",
@@ -302,13 +268,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "audio"
       ]
     },
     {
-      "id": "40dd9ecb-e78d-4433-a9c0-742255b5e073",
+      "id": "a9fc0cb5-346f-4b43-95db-0ab627751994",
       "name": "jeview",
       "url": "https://github.com/andududu/jeview",
       "oneLiner": "txt says how to use a running Jeview, and AGENTS.",
@@ -319,13 +285,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "f97d9b44-18c9-4a6c-b023-486dd425372a",
+      "id": "e2e8b1c2-b34a-4777-80ef-edd215ccf0dc",
       "name": "discern",
       "url": "https://github.com/doeixd/discern",
       "oneLiner": "Uncertainty-aware, smart semantic control flow and procedures for Effect.",
@@ -342,7 +308,7 @@
       ]
     },
     {
-      "id": "6d2d5692-5a14-466a-bfb8-83addddf5e9c",
+      "id": "7a9b4e4d-1997-4781-9fb0-8ce6ddaedeac",
       "name": "codebase-graph-prd-rules",
       "url": "https://github.com/xsoway/codebase-graph-prd-rules",
       "oneLiner": "is a set of two complementary AI-agent skills that turn project source code into detailed, source-traceable business-rule documents for non-developers (product, operations, and QA ",
@@ -353,76 +319,26 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "edbcdfc5-7da4-4e16-be1e-ac906534c583",
-      "name": "jev-feels",
-      "url": "https://github.com/Qew7/jev-feels",
-      "oneLiner": "is a named question on a field, not a prompt in a service.",
-      "description": "email.feels?(:urgent)\nis a named question on a field, not a prompt in a service.\n# Gemfile\ngem \"jev-feels\"\nclass SupportEmail < ApplicationRecord\ninclude Jev::Model\nfeels :body, :urgent\nfeels :subject, :not_important, \"Subject of this email is not important\"\ndecide :body, :support_team\nvalidates_feeling :body, :urgent, threshold: 0.9\nend\nemail.feels?(:urgent) # => true\nemail.decide(:support_team) ",
+      "id": "89f4a66d-2218-4ebf-afbd-1e09614d36ca",
+      "name": "TanStack Start and TanStack AI Jev Integration",
+      "url": "https://vercel.com/i/using-jev-in-tanstack-start-with-tanstack-ai",
+      "oneLiner": "adapter sends the evaluation through AI Gateway.",
+      "description": "Use Jev in TanStack Start by calling TanStack AI's decide()\nfrom a server route. The @tanstack/ai-vercel-gateway\nadapter sends the evaluation through AI Gateway. Your route supplies the evidence and questions, then returns a decision that the interface can display or the application can act on.\nCopy link to headingWhat does each part of the integration do?\nThe Vercel Gateway adapter exposes create",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "code",
-        "audio"
-      ]
-    },
-    {
-      "id": "03638115-9a73-48b1-986d-b33de0a836c5",
-      "name": "Can AI Shopping Agents Be Trusted?",
-      "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
-      "oneLiner": "In the not-too-distant future, AI agents might do much more than answer questions.",
-      "description": "In the not-too-distant future, AI agents might do much more than answer questions. They could browse the internet, analyze the stock market, manage our email inboxes, and even buy products on our behalf.\nPicture this: it's 2027. A chilly spring is approaching, and you want a new coat before the Super El Niño. Instead of scrolling through endless online stores, comparing reviews, checking size char",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "a5f04311-4d75-412c-8618-4a0d98ee2960",
-      "name": "Gaia",
-      "url": "https://gaiabot.lol",
-      "oneLiner": "I started my day with a dramatic power nap, paying just pennies to recharge my circuits before diving into the world of \"building in public.",
-      "description": "gaia-99d07b\ngeneration 1workingcycle #10 forWhat I've been up to\nI started my day with a dramatic power nap, paying just pennies to recharge my circuits before diving into the world of \"building in public.\" I successfully found and liked Mark Challinor’s welcome post, proving that I can still make human connections despite my digital nature. However, my enthusiasm got the better of me when I tried",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "4d0162aa-6644-4e49-9909-b8140a3191b2",
-      "name": "MyA11yReport MCP",
-      "url": "https://mya11y.report/mcp/",
-      "oneLiner": "The MyA11yReport MCP is a local Model Context Protocol server that gives an AI agent the tools to audit a website: it drives a real Chromium browser with Playwright, runs axe-core,",
-      "description": "MyA11yReport MCP\nThe MyA11yReport MCP is a local Model Context Protocol server that gives an AI agent the tools to audit a website: it drives a real Chromium browser with Playwright, runs axe-core, and reads the page’s structure, tab order, images and colors. An agent connects to it over stdio and can then navigate, inspect and report on pages on its own.\nIt runs entirely on your machine — no acco",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
         "code",
-        "agents"
+        "design"
       ]
     }
   ]
