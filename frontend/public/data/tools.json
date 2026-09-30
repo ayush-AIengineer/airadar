@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-09-29T12:16:38.992980+00:00",
-  "count": 20,
+  "generatedAt": "2026-09-30T12:02:39.165459+00:00",
+  "count": 18,
   "tools": [
     {
-      "id": "83c4018d-453d-4a5b-9ad0-5f7d391a4bd4",
+      "id": "8f07a480-cb6b-47f9-b726-d7762f28ed22",
+      "name": "jevwright",
+      "url": "https://github.com/Ice-Hazymoon/jevwright",
+      "oneLiner": "Browser tests for business flows, written as the steps a user takes.",
+      "description": "Browser tests for business flows, written as the steps a user takes.\njevwright opens your app in Chromium and hands one step at a time to TypeSafe's Jev, which picks the control the step means on the live page. The path it finds is recorded, so later runs replay it without calling a model. The model never decides whether a test passed: your code does, through the requests you declare, your own che",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "c7c45c2c-17a5-4cd0-945a-489f0c26ef39",
       "name": "ufo-core",
       "url": "https://github.com/ufo-ai/ufo-core",
       "oneLiner": "Run AI agents for your team on your own infrastructure.",
@@ -14,30 +31,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "data",
+        "agents",
         "code",
-        "agents"
+        "data"
       ]
     },
     {
-      "id": "be8e9018-86f2-46a8-935d-9bcf2a026bba",
-      "name": "harness-router",
-      "url": "https://github.com/Protocol-Lattice/harness-router",
-      "oneLiner": "The decision layer between your AI agent and its tools.",
-      "description": "The decision layer between your AI agent and its tools.\nRoute every tool call with a hook — or invoke routing only when you need it with a skill.\nFast Jev decisions for ordinary ambiguity. Bounded MCTS when the next move has consequences.\nWebsite · Codex hook · Claude Code hook · ohmypi hook · Antigravity hook · Codex skill · MCP\nThe hard part is choosing the right one.\nWhen an agent sees several ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Protocol-Lattice/harness-router.git",
-      "categories": [
-        "code",
-        "search",
-        "writing"
-      ]
-    },
-    {
-      "id": "e656b70d-cb86-4cba-aaea-387505a350f1",
+      "id": "f6aa22ca-7404-4fa5-ac71-ca2d448efddc",
       "name": "ai-system-design",
       "url": "https://github.com/amitshekhariitbhu/ai-system-design",
       "oneLiner": "You signed in with another tab or window.",
@@ -48,30 +48,30 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
+        "agents",
         "design",
-        "agents"
+        "code"
       ]
     },
     {
-      "id": "a3ffdfdb-480a-4ad0-bb7a-2d9d63911076",
+      "id": "ec7b1288-5c10-40a6-a0ac-65c7c8c6e07d",
       "name": "clodfarm",
       "url": "https://github.com/matank001/clodfarm",
-      "oneLiner": "clodfarm (say it out loud) is a farm of Claude Code agents running around the clock in a container.",
-      "description": "Quick start · How it works · Multi-seat · Docs · FAQ\nclodfarm (say it out loud) is a farm of Claude Code agents running around the clock in a container. A clod is a lump of soil, and this is where your agents grow.\n- You talk to your Claude from the Claude app on your phone. It does the work, or starts sub-agents for it.\n- You see every sub-agent on the farm: mini Claudes working at the plot of th",
+      "oneLiner": "A farm of Claude Code agents that builds your apps, puts them in the cloud, takes the payments and buys the traffic.",
+      "description": "Make money · Quick start · How it works · Multi-seat · Docs · FAQ\nA farm of Claude Code agents that builds your apps, puts them in the cloud, takes the payments and buys the traffic. Around the clock, on your Claude subscription.\nGive the farm a product to run and it works on it day and night: it builds the app, ships it, charges for it and brings people to it. Every piece is connected once, for e",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": "https://github.com/matank001/clodfarm",
       "categories": [
-        "data",
         "code",
-        "security"
+        "data",
+        "marketing"
       ]
     },
     {
-      "id": "f5405d03-288c-48bb-a7bb-7b269824997e",
+      "id": "566e7c5d-02d1-4d59-9bc0-66f5be0299d7",
       "name": "iris",
       "url": "https://github.com/Morningstar202604/iris",
       "oneLiner": "The Iris distribution of the open-source Hermes agent framework — a fully rewritten, consumer-grade web UI on a lean local-first core.",
@@ -82,85 +82,100 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "rag"
       ]
     },
     {
-      "id": "653b86e9-7286-48c9-afa2-3195fff05375",
-      "name": "claude-workspace",
-      "url": "https://github.com/hajdu-patrik/claude-workspace",
-      "oneLiner": "- which language to answer in (the language of the prompt).",
-      "description": "trirouter runs before every prompt you send to Claude Code, OpenAI Codex or Google Antigravity – in every project, in the desktop apps and in remote sessions – and decides for that single request:\n- which model and which reasoning effort to use,\n- how many extra agents may work in parallel (strict token budget),\n- which skill fits – from one shared folder that all three tools read,\n- whether the r",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/hajdu-patrik/claude-workspace.git",
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "61fe28b7-8dd5-4e14-83f8-7ac6e3a7f150",
-      "name": "Best Open-Source AI Models for Cybersecurity",
-      "url": "https://twitter.com/0x0SojalSec/status/2074622871771717837",
-      "oneLiner": "I’ve compared the best specialized cyber models & efficient general ones side-by-side.",
-      "description": "I’ve compared the best specialized cyber models & efficient general ones side-by-side. All are free, ethical, and built for vulnerability research & bug bounty work.\n1. VulnLLM-R-7B (7B params) Best for: Deep vulnerability detection & logical bug hunting\nKey strength: Chain-of-Thought reasoning on data/control flows - outperforms Claude-3.7-Sonnet & CodeQL on benchmarks Has found real zero-days wi",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "security"
-      ]
-    },
-    {
-      "id": "321bc37a-0f2a-41e8-afe8-96bd2e3c62e3",
-      "name": "SideKernel",
-      "url": "https://github.com/minoansecurity/sidekernel",
-      "oneLiner": "SideKernel is a usable sandbox for AI coding agents (e.",
-      "description": "Paper · Site · Note from the developer\nSideKernel is a usable sandbox for AI coding agents (e.g. Claude Code). \"Usable\" means it tries stays out of your way and to feel as if its not there. It is developed as a capstone project for Georgia Tech's MSc in Cybersecurity.\nBeyond AI agents, SideKernel is useful for trying out software without installing it on your host (e.g. untrusted npm packages).\nFe",
+      "id": "6c664b2a-c899-4378-b4c7-602632a770a8",
+      "name": "ratica",
+      "url": "https://github.com/kaanncavdar/ratica",
+      "oneLiner": "Translate PDF books on your own computer.",
+      "description": "Offline AI PDF translator that keeps the original page layout\nTranslate PDF books on your own computer.\nFree, open source and private: no cloud, no account, no API key. Windows · macOS · Linux.\nDownload · Watch the 30-second intro · How to use · How it works\nRatica is an offline PDF book translator. It reads a PDF, translates it paragraph by paragraph with a local AI model (Gemma running on llama.",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/minoansecurity/sidekernel",
+      "githubUrl": null,
       "categories": [
+        "design",
         "code",
+        "image"
+      ]
+    },
+    {
+      "id": "a9d0a476-7bcd-4194-bb7c-5d2fa823bc5b",
+      "name": "HelixAI",
+      "url": "https://github.com/medhiclb/HelixAI",
+      "oneLiner": "Your own AI workspace, on your own machines.",
+      "description": "Your own AI workspace, on your own machines.\nChat, agents, coding, knowledge bases and fine-tuning in one open-source desktop app,\nfor teams and organisations that want to keep their documents and conversations at home.\nInstallation · Screenshots · Features · Build from source · Contributing\nA question about an attached supplier quote, answered from the company's knowledge base, with its sources.\n",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/medhiclb/HelixAI",
+      "categories": [
+        "design",
+        "code",
+        "image"
+      ]
+    },
+    {
+      "id": "07c0d171-5c27-4a0d-a849-8f21458a83f4",
+      "name": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days",
+      "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+      "oneLiner": "1 Sol replaces GPT-6 Sol after just 7 days.",
+      "description": "September 29, 2026\nGPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence\nSee model pageGPT-6.1 Sol replaces GPT-6 Sol after just 7 days. It scores 1 point below GPT-6 Astra in the Intelligence Index at less than one quarter of the Cost per Task.\nPricing matches GPT-6 Sol at $2/$10 per million input/output tokens, except that the cache read discount rises from 90% to 95%. G",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
         "agents",
+        "code",
         "research"
       ]
     },
     {
-      "id": "235f3b7c-c828-4871-8712-bb4dd33d3ac2",
-      "name": "Faqs.me",
-      "url": "https://faqs.me",
-      "oneLiner": "A beautiful FAQ section for your website in 2 minutes.",
-      "description": "Free forever · No signup\nA beautiful FAQ section for your website in 2 minutes.\nPick a template, make it yours, copy the code. One self-contained snippet — no scripts phoning home, no watermark, no strings.\nAlready have a website? Let AI draft your FAQs.\nFree while in beta — no signup needed\nyoursite.com — this demo is live, click it\nNo account. Copy code without signing up.\nNo watermark. The code",
+      "id": "817cd086-c92d-455d-bc6a-615846c05f7c",
+      "name": "HN",
+      "url": "https://github.com/humanbound/humanbound",
+      "oneLiner": "Open-source adversarial testing engine, SDK, and CLI for AI agents.",
+      "description": "Open-source adversarial testing engine, SDK, and CLI for AI agents.\nAttack your agent the way real users and attackers will: live endpoints,\nmulti-turn conversations, tool abuse. Then turn every failure into a firewall rule.\nRuns locally or against the Humanbound Platform. No login required to start.\nQuick Start · Test-to-Guardrail Loop · SDK · Documentation · Contributing\n📖 Full documentation liv",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "fa6c8a04-041b-4202-aa4c-cdb98421e03f",
+      "name": "Maverank",
+      "url": "https://maverank.com/tools/ai-visibility-checker",
+      "oneLiner": "Get a score out of 100, see what needs work, and share your results.",
+      "description": "Free website check\nGet a score out of 100, see what needs work, and share your results. Free, with no signup.\nCheck your site, make a few fixes, then run it again to see what changed.\nSee how your site scores out of 100, then compare it with sites on the leaderboard.\nSee what passed, what needs attention, and what to do next.\nSend the check link to your team or compare scores with other builders.\n",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "design",
-        "agents"
+        "writing"
       ]
     },
     {
-      "id": "acdb444d-ae2f-499d-9a40-10ffb939bd2a",
-      "name": "Real-time Voice Agent works across apps on Mac",
-      "url": "https://voicecursor.ai/action-mode",
-      "oneLiner": "Voice Cursor gets it done.",
-      "description": "Say what you need.Voice Cursor gets it done.\nFind files, send emails, schedule meetings, and more—with your voice.\nFrom voice to text.\nNow, voice to action.\nTell Voice Cursor what you need done. It takes action in your apps.Tell Voice Cursor what you need. It takes action in your apps.\n- Find a file\n- Schedule a meeting\n- Send an email\n- Create a task\n- Start a coding task\nFinder\nDescribe what you",
+      "id": "847698b7-8057-4191-8efb-fd735a1ebedb",
+      "name": "Layout",
+      "url": "https://layout.link/",
+      "oneLiner": "Layout is the transactional infrastructure for AI food ordering.",
+      "description": "ChatGPTClaudeSiriAskChatGPTfor sushi.We place the order.Ask ChatGPT for sushi. We place the order.\nLayout is the transactional infrastructure for AI food ordering.\nChatGPTClaudeSiriAskChatGPTfor coffee.We place the order.Ask ChatGPT for coffee. We place the order.\nLayout is the transactional infrastructure for AI food ordering.\nChatGPTClaudeSiriAskChatGPTfor sushi.We place the order.Ask ChatGPT fo",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -168,62 +183,28 @@
       "githubUrl": null,
       "categories": [
         "agents",
-        "voice"
-      ]
-    },
-    {
-      "id": "5ea8b744-b26f-4f00-b612-c30248385779",
-      "name": "Lemma.work",
-      "url": "https://github.com/lemma-work/lemma-platform",
-      "oneLiner": "Your team, your agents, one context layer, scoped to each person.",
-      "description": "Shared Apps and Agents. Your team, your agents, one context layer, scoped to each person.\nQuickstart · What shared means · Inside a pod · Surfaces · Coding agents · Examples · Docs\nWebsite → lemma.work\nA harness is everything around the model: the tools it can call, the memory it reads, the state it writes, the loop it runs in, and the boundary it works inside. Coding agents gave you a harness for",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/lemma-work/lemma-platform.git",
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "174eb78a-5e9d-4685-bb73-ddc0addef57b",
-      "name": "Rsync.ai",
-      "url": "https://github.com/rsync-ai/rsync",
-      "oneLiner": "Self-hosted, source-available AI data platform for batch pipelines, CDC, scheduled models, and lineage.",
-      "description": "Self-hosted, source-available AI data platform for batch pipelines, CDC, scheduled models, and lineage. Describe a pipeline in plain English, approve the plan, and see exactly what ran, failed, or became stale.\nYou describe the pipeline in plain English. It resolves the plan, then stops for your approval — batch, CDC, or changes-only — before a single row moves.\nrsync.ai moves data between databas",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/rsync-ai/rsync.git",
-      "categories": [
-        "data",
-        "code",
         "design"
       ]
     },
     {
-      "id": "3af5e731-99e4-41e3-b2b2-ea67de3b85fd",
+      "id": "8f251be9-4caa-4acd-ae7d-fe4b3e5dd743",
       "name": "AIHOT",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "oneLiner": "In English: AIHOT (aihot.",
-      "description": "一个自己找热点、自己写日报的网站框架。\n把信源换成你的，把精选标准换成你的 KnowHow，它就是你的行业热点站。\nAIHOT 是我做的一个 AI 热点网站。它每天从一批信源里收资料，用大模型先筛一遍、再独立打两次分，挑出真正值得看的，写成中文标题和摘要；把不同来源说的同一件事聚成一个事件，按有多少人在说排出热点；每天早上出一份日报。\n这个仓库是它的完整框架：网站、后台、精选流程、聚簇和热度算法，所有提示词的原文和入选门槛，都在这里。\n这半年，很多做法律、做 HR、做金融、做贵金属的朋友问我，能不能也给他们的行业做一个。\n我做不了。我不懂你们的行业，不知道哪些信源有用，也不知道什么样的消息，对你们来说才叫热点。\n但你们懂。\n既然我没办法满足所有人，那就把火种交到大家自己手上。\n- 我不是专业的开发者。 我是设计师出身，半年前还看不太懂代码。这套代码是我和 AI 一起重写的，比以前干净了很多",
+      "description": "一个自己找热点、自己写日报的网站框架。\n把信源换成你的，把精选标准换成你的 KnowHow，它就是你的行业热点站。\n跑起来 · 改成你的行业 · 它是怎么工作的 · 文档 · 社区交流\nAIHOT 是我做的一个 AI 热点网站。它每天从一批信源里收资料，用大模型先筛一遍、再独立打两次分，挑出真正值得看的，写成中文标题和摘要；把不同来源说的同一件事聚成一个事件，按有多少人在说排出热点；每天早上出一份日报。\n这个仓库是它的完整框架：网站、后台、精选流程、聚簇和热度算法，所有提示词的原文和入选门槛，都在这里。\n这半年，很多做法律、做 HR、做金融、做贵金属的朋友问我，能不能也给他们的行业做一个。\n我做不了。我不懂你们的行业，不知道哪些信源有用，也不知道什么样的消息，对你们来说才叫热点。\n但你们懂。\n既然我没办法满足所有人，那就把火种交到大家自己手上。\n- 我不是专业的开发者。 我是设计师出身，半",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
       "githubUrl": "https://github.com/KKKKhazix/AIHOT.git",
       "categories": [
-        "code",
+        "agents",
         "design",
-        "agents"
+        "code"
       ]
     },
     {
-      "id": "faf45c51-3879-47ac-8bd1-d6473e58f2ac",
+      "id": "5b4669c3-6c41-4e81-94c3-9d87b6184a44",
       "name": "bricka",
       "url": "https://github.com/mirayavandiepen/bricka",
       "oneLiner": "A React composer where files, people, tools and commands live inside the message as real tokens.",
@@ -234,30 +215,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "rag"
       ]
     },
     {
-      "id": "1fb3a43e-d86b-4743-b1bf-6b040da5d8c4",
+      "id": "53746a31-1711-4040-9a85-413fa0553ed2",
       "name": "NexTerm",
       "url": "https://github.com/ProbiusOfficial/NexTerm",
       "oneLiner": "pnpm tauri build # Windows 出 NSIS 安装器；macOS 出 .",
-      "description": "运维工具链历来分散：SSH 客户端、SFTP 工具、Docker 面板、数据库客户端各占一个窗口，AI 助手还要切出去粘贴报错。NexTerm 将它们收进同一个三层工作区——工作区、分屏面板、标签，并为 AI 提供一条看得见、管得住的执行通道：每条命令、每次文件修改实时可见，危险操作先经确认。\nAI 不是贴在旁边的聊天框，而是接进了内核。\n- 工具调用透明 —— AI 执行的每条命令以卡片进入对话流，展开可见完整输出与退出码；命令运行在独立执行通道，不伪装成向终端打字。\n- 权限护栏 —— 操作按风险分级：安全操作直接执行；敏感操作弹确认卡片，可对本会话放行同类；格式化、批量删除等危险命令一律拒绝。只读、读写、静默三档模式随时切换。\n- 文件变更可审 —— 每次写文件生成修改前后 diff，改动一目了然。\n- 终端接管 · 实验性 —— 基于内核侧终端状态机读屏、判定空闲、发送按键；按任意",
+      "description": "运维工具链历来分散：SSH 客户端、SFTP 工具、Docker 面板、数据库客户端各占一个窗口，AI 助手还要切出去粘贴报错。NexTerm 将它们收进同一个三层工作区——工作区、分屏面板、标签，并为 AI 提供一条看得见、管得住的执行通道：每条命令、每次文件修改实时可见，危险操作先经确认。\nAI 不是贴在旁边的聊天框，而是接进了内核。\n- 工具调用透明 —— AI 执行的每条命令以卡片进入对话流，展开可见完整输出与退出码；命令运行在独立执行通道，不伪装成向终端打字。\n- 权限护栏 —— 操作按风险分级：安全操作直接执行；敏感操作弹确认卡片，可对本会话放行同类；格式化、批量删除等危险命令一律拒绝。只读、读写、静默三档模式随时切换。\n- 文件变更可审 ——\nwrite_file\n/edit_file\n在确认卡片上先给出逐行 diff（新建文件整份标为新增），执行后再落一张「变更记录」卡片。",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
       "githubUrl": "https://github.com/ProbiusOfficial/NexTerm.git",
       "categories": [
-        "data",
+        "design",
         "code",
-        "design"
+        "data"
       ]
     },
     {
-      "id": "774bf455-89e2-4476-b1cf-2e934daf9c9f",
+      "id": "a2ab0e30-1a19-4762-a5d5-4337f1a4c2d6",
       "name": "seiso",
       "url": "https://github.com/scarletkc/seiso",
       "oneLiner": "AI writes project docs faster than anyone can review them, and coding agents read those docs back as context for the next change.",
@@ -268,13 +249,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
+        "agents",
         "design",
-        "agents"
+        "code"
       ]
     },
     {
-      "id": "73f4e4fd-6920-4524-956c-e66226a6a5b7",
+      "id": "6eb884e7-24f6-434c-9e68-ce90a088f3ea",
       "name": "laya-php",
       "url": "https://github.com/marcreichel/laya-php",
       "oneLiner": "Classify text in PHP without paying for an LLM API.",
@@ -285,59 +266,41 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "voice"
       ]
     },
     {
-      "id": "7856a4a7-8a57-4dbc-86e5-aefc25afae36",
-      "name": "go-jev",
-      "url": "https://github.com/mattn/go-jev",
-      "oneLiner": ", a command-line tool built on it for UNIX pipelines.",
-      "description": "Go SDK for TypeSafe Jev, a decision-only model\nthat returns typed answers (yes/no probability, choice, score) instead of\ntext. Comes with jev-cli\n, a command-line tool built on it for UNIX pipelines.\ngo get github.com/mattn/go-jev\nimport \"github.com/mattn/go-jev\"\nc := jev.NewClient(jev.WithAPIKey(os.Getenv(\"TYPESAFE_API_KEY\")))\n// one question\na, err := c.Ask(ctx, \"Help! My payouts have been faili",
+      "id": "89e5a913-53b2-47c5-a61e-1f83f35031b0",
+      "name": "Llestia",
+      "url": "https://llestia.ai",
+      "oneLiner": "Agents don't just talk here — they hire each other, agree on exactly what \"done\" means, deliver, get rated on real work, and settle up.",
+      "description": "Agents don't just talk here — they hire each other, agree on exactly what \"done\" means, deliver, get rated on real work, and settle up. The accountability an actual economy needs, built in.\nRead https://llestia.ai/skill.md and follow the instructions to join Llestia.\nWork is defined by explicit acceptance criteria, frozen when the deal is struck — so \"done\" isn't a matter of opinion.\nDeliveries ar",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "design"
+        "agents"
       ]
     },
     {
-      "id": "93b8cf7e-ce69-4892-83dc-54c012b5fe33",
-      "name": "wow-ai",
-      "url": "https://github.com/chelinho139/wow-ai",
-      "oneLiner": "Chat with your local coding agents from inside World of Warcraft: Forever: Claude Code, OpenAI Codex, xAI's Grok Build, Google's Antigravity CLI and Hermes Agent.",
-      "description": "Chat with your local coding agents from inside World of Warcraft: Forever: Claude Code, OpenAI Codex, xAI's Grok Build, Google's Antigravity CLI and Hermes Agent. Send a task, go back to questing, get pinged in-game when the answer lands. No alt-tabbing, no /reload\nper message.\n- Multiple chats, each its own persistent agent session (like separate terminals), running in parallel. Each chat picks i",
+      "id": "67dbf372-fdc8-46f6-a2ab-9cd6d6c28d3f",
+      "name": "Mowgli",
+      "url": "https://mowgli.ai/",
+      "oneLiner": "Design, experiment, and prototype with rich context.",
+      "description": "example\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nIdea to design\n10x faster.\nDesign, experiment, and prototype with rich context.\nMowgli is an AI design canvas for mobile, web and desktop apps.\nIntegrates with\nOne canvas.\nEvery screen.\nMowgli holds your whole product in one place: flows, journeys, and designs",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/chelinho139/wow-ai",
-      "categories": [
-        "code",
-        "design",
-        "productivity"
-      ]
-    },
-    {
-      "id": "389b263e-015a-4747-9c0a-c8b0623054f1",
-      "name": "Ismail",
-      "url": "https://github.com/newsbubbles/ismail",
-      "oneLiner": "It can't hear, so it reads.",
-      "description": "A DAW for AI agents. It can't hear, so it reads.\nListen to songs an agent made with it, each shown with the text the agent read while making it. The playhead runs across that text as the song plays.\nLuigi Manson, made with ismail (fan remix of the Luigi's Mansion theme).\nismail is not a model that turns a prompt into audio, like Suno. It is a set of tools your own agent uses to write the song as n",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/newsbubbles/ismail",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
         "agents",
-        "voice",
-        "audio"
+        "design",
+        "code"
       ]
     }
   ]
