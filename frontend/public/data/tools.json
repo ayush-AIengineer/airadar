@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T12:02:39.165459+00:00",
-  "count": 18,
+  "generatedAt": "2026-10-01T12:35:23.214617+00:00",
+  "count": 17,
   "tools": [
     {
-      "id": "8f07a480-cb6b-47f9-b726-d7762f28ed22",
+      "id": "a15e119e-1282-4fe4-bd52-2d21f7134ade",
       "name": "jevwright",
       "url": "https://github.com/Ice-Hazymoon/jevwright",
       "oneLiner": "Browser tests for business flows, written as the steps a user takes.",
@@ -14,13 +14,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "c7c45c2c-17a5-4cd0-945a-489f0c26ef39",
+      "id": "fcc25247-1133-4e2c-8ce6-bac7c8238aa8",
       "name": "ufo-core",
       "url": "https://github.com/ufo-ai/ufo-core",
       "oneLiner": "Run AI agents for your team on your own infrastructure.",
@@ -31,13 +31,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "f6aa22ca-7404-4fa5-ac71-ca2d448efddc",
+      "id": "bcfc15c2-4137-4747-ac0c-b3e15e208cbc",
       "name": "ai-system-design",
       "url": "https://github.com/amitshekhariitbhu/ai-system-design",
       "oneLiner": "You signed in with another tab or window.",
@@ -48,13 +48,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "code",
         "design",
-        "code"
+        "agents"
       ]
     },
     {
-      "id": "ec7b1288-5c10-40a6-a0ac-65c7c8c6e07d",
+      "id": "e2b29f5b-4bef-4ebb-b8d1-a6b51dd61395",
       "name": "clodfarm",
       "url": "https://github.com/matank001/clodfarm",
       "oneLiner": "A farm of Claude Code agents that builds your apps, puts them in the cloud, takes the payments and buys the traffic.",
@@ -71,28 +71,28 @@
       ]
     },
     {
-      "id": "566e7c5d-02d1-4d59-9bc0-66f5be0299d7",
-      "name": "iris",
-      "url": "https://github.com/Morningstar202604/iris",
-      "oneLiner": "The Iris distribution of the open-source Hermes agent framework — a fully rewritten, consumer-grade web UI on a lean local-first core.",
-      "description": "Fast. Lightweight. Fully yours. The Iris distribution of the open-source Hermes agent framework — a fully rewritten, consumer-grade web UI on a lean local-first core. 100% protocol-driven, no vendor lock-in, no bloat. Just you and your AI.\nEnglish · 简体中文\nA real task, done end-to-end — Iris planned, wrote, verified and reported a complete single-page website, recovering on its own from a stream dro",
+      "id": "938f52e9-a20b-418a-aca4-e7f1ecfa4345",
+      "name": "openpages",
+      "url": "https://github.com/arjunkshah12345-hash/openpages",
+      "oneLiner": "Make room for your next idea.",
+      "description": "OpenPages\nMake room for your next idea.\nLive demo · GitHub · SuperCompress\nOpen-source AI workspace with persistent Spaces, collaborative pages,\nand SuperCompress as the core context layer.\nOpen-source alternative to OpenAI Pages / ChatGPT Space.\nQuick start · Why SuperCompress · Architecture · MCP · Docker\nMost AI workspaces dump the whole room into the model.\nOpenPages does not.\nWorkspace → Retr",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/arjunkshah12345-hash/openpages.git",
       "categories": [
-        "agents",
         "code",
-        "rag"
+        "agents",
+        "data"
       ]
     },
     {
-      "id": "6c664b2a-c899-4378-b4c7-602632a770a8",
-      "name": "ratica",
-      "url": "https://github.com/kaanncavdar/ratica",
-      "oneLiner": "Translate PDF books on your own computer.",
-      "description": "Offline AI PDF translator that keeps the original page layout\nTranslate PDF books on your own computer.\nFree, open source and private: no cloud, no account, no API key. Windows · macOS · Linux.\nDownload · Watch the 30-second intro · How to use · How it works\nRatica is an offline PDF book translator. It reads a PDF, translates it paragraph by paragraph with a local AI model (Gemma running on llama.",
+      "id": "f6b62251-7db8-4ed3-8245-e72b434c4450",
+      "name": "Sensii",
+      "url": "https://sensii.gg",
+      "oneLiner": "A voice coach in the background that knows your game.",
+      "description": "Talk to your coach. Mid-game. About anything.\nA voice coach in the background that knows your game. Ask anything, hear the answer, keep playing.\nAnswers that fit your game\nSensii looks at your champion, items and match before it says a word.\nYour Live Match\nGold, items, KDA and levels for you, your allies and your enemies, read live from Riot's Live Client API so every answer fits the exact moment",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -100,94 +100,59 @@
       "githubUrl": null,
       "categories": [
         "design",
-        "code",
-        "image"
+        "agents"
       ]
     },
     {
-      "id": "a9d0a476-7bcd-4194-bb7c-5d2fa823bc5b",
-      "name": "HelixAI",
-      "url": "https://github.com/medhiclb/HelixAI",
-      "oneLiner": "Your own AI workspace, on your own machines.",
-      "description": "Your own AI workspace, on your own machines.\nChat, agents, coding, knowledge bases and fine-tuning in one open-source desktop app,\nfor teams and organisations that want to keep their documents and conversations at home.\nInstallation · Screenshots · Features · Build from source · Contributing\nA question about an attached supplier quote, answered from the company's knowledge base, with its sources.\n",
-      "pricing": "open_source",
+      "id": "b135a6d9-de4d-4d01-a3bc-17d7276f69a3",
+      "name": "AI workspaces for teams with human-AI interfaces",
+      "url": "https://github.com/ailaflow/ailaflow",
+      "oneLiner": "Tell AI to build your workspace, powered by processes with Human-AI interfaces.",
+      "description": "Tell AI to build your workspace, powered by processes with Human-AI interfaces.\nAilaFlow is a collaborative low-code workspace where people and AI agents design, automate, and execute business processes together. Processes can combine human tasks, AI agents, forms, scripts, shared data, and external systems-giving humans and AI a common way to participate in the same workflow and act on the same p",
+      "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/medhiclb/HelixAI",
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "5782f4d6-b390-4167-9adf-9688c80f8496",
+      "name": "ai-agent-for-pc",
+      "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc",
+      "oneLiner": "A simple and lightweight AI agent designed to run directly on a Windows PC.",
+      "description": "A simple and lightweight AI agent designed to run directly on a Windows PC.\nThis project provides a straightforward way to launch an AI agent locally. The main goal is to make the setup and startup process as simple as possible.\nYou don't need to manually run scripts or use a command line to start the agent. Simply launch the .exe\nfile and the agent starts automatically.\n- Simple\n.exe\nlaunch - Run",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
         "design",
-        "code",
-        "image"
+        "agents"
       ]
     },
     {
-      "id": "07c0d171-5c27-4a0d-a849-8f21458a83f4",
-      "name": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days",
-      "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
-      "oneLiner": "1 Sol replaces GPT-6 Sol after just 7 days.",
-      "description": "September 29, 2026\nGPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence\nSee model pageGPT-6.1 Sol replaces GPT-6 Sol after just 7 days. It scores 1 point below GPT-6 Astra in the Intelligence Index at less than one quarter of the Cost per Task.\nPricing matches GPT-6 Sol at $2/$10 per million input/output tokens, except that the cache read discount rises from 90% to 95%. G",
-      "pricing": "open_source",
+      "id": "9d321e8d-eb4c-4ab8-8721-3ccb11782a8d",
+      "name": "xiaobai-kanban",
+      "url": "https://github.com/webkubor/xiaobai-kanban",
+      "oneLiner": "git --version 2>/dev/null && echo \"✅ Git: $(git --version)\" || echo \"❌ Git 未安装 → https://git-scm.",
+      "description": "你只说话，Agent 搞定一切。 不需要懂代码、不需要懂命令行。\n对你的 Agent 说：\n「你是什么 Agent？用大白话告诉我。」\n记住它的名字。后面你会经常用到它。\n看不懂它的回复？继续说：「用大白话解释，像跟小学生说话一样。」\n不要跳级。 卡在第一步的人，装十个工具也还是卡在第一步； 已经熟练的人，换工具只是换个快捷键。\n🔌 用 DSH 的话，装哪些插件（点开看）\nDSH 的口号是 Everything is a Plugin，所以先装「能装插件的插件」—— 之后所有安装都在对话里完成，不用回命令行：\n日常好用的：\n⚠️ 插件更新很快——dsh-context\n一年能走十几个 minor。装完不等于一劳永逸， 按下面「把这些仓库当成上游」那节，定期让 agent 查一遍版本。\n🧭 熟练之后可选的工具（点开看）\n主题党另外看：Typora Bloom（95⭐，写作主题）、 DSH B",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
+      "quality": 10,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/webkubor/kyvault.git",
       "categories": [
-        "agents",
-        "code",
-        "research"
+        "agents"
       ]
     },
     {
-      "id": "817cd086-c92d-455d-bc6a-615846c05f7c",
-      "name": "HN",
-      "url": "https://github.com/humanbound/humanbound",
-      "oneLiner": "Open-source adversarial testing engine, SDK, and CLI for AI agents.",
-      "description": "Open-source adversarial testing engine, SDK, and CLI for AI agents.\nAttack your agent the way real users and attackers will: live endpoints,\nmulti-turn conversations, tool abuse. Then turn every failure into a firewall rule.\nRuns locally or against the Humanbound Platform. No login required to start.\nQuick Start · Test-to-Guardrail Loop · SDK · Documentation · Contributing\n📖 Full documentation liv",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "security"
-      ]
-    },
-    {
-      "id": "fa6c8a04-041b-4202-aa4c-cdb98421e03f",
-      "name": "Maverank",
-      "url": "https://maverank.com/tools/ai-visibility-checker",
-      "oneLiner": "Get a score out of 100, see what needs work, and share your results.",
-      "description": "Free website check\nGet a score out of 100, see what needs work, and share your results. Free, with no signup.\nCheck your site, make a few fixes, then run it again to see what changed.\nSee how your site scores out of 100, then compare it with sites on the leaderboard.\nSee what passed, what needs attention, and what to do next.\nSend the check link to your team or compare scores with other builders.\n",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "writing"
-      ]
-    },
-    {
-      "id": "847698b7-8057-4191-8efb-fd735a1ebedb",
-      "name": "Layout",
-      "url": "https://layout.link/",
-      "oneLiner": "Layout is the transactional infrastructure for AI food ordering.",
-      "description": "ChatGPTClaudeSiriAskChatGPTfor sushi.We place the order.Ask ChatGPT for sushi. We place the order.\nLayout is the transactional infrastructure for AI food ordering.\nChatGPTClaudeSiriAskChatGPTfor coffee.We place the order.Ask ChatGPT for coffee. We place the order.\nLayout is the transactional infrastructure for AI food ordering.\nChatGPTClaudeSiriAskChatGPTfor sushi.We place the order.Ask ChatGPT fo",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "8f251be9-4caa-4acd-ae7d-fe4b3e5dd743",
+      "id": "03c02db1-f19d-4f6d-80b9-f8f6c981a9dc",
       "name": "AIHOT",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "oneLiner": "In English: AIHOT (aihot.",
@@ -198,13 +163,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/KKKKhazix/AIHOT.git",
       "categories": [
-        "agents",
+        "code",
         "design",
-        "code"
+        "agents"
       ]
     },
     {
-      "id": "5b4669c3-6c41-4e81-94c3-9d87b6184a44",
+      "id": "71c048dc-2067-478d-847b-6e18e33546e0",
       "name": "bricka",
       "url": "https://github.com/mirayavandiepen/bricka",
       "oneLiner": "A React composer where files, people, tools and commands live inside the message as real tokens.",
@@ -215,30 +180,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "rag"
       ]
     },
     {
-      "id": "53746a31-1711-4040-9a85-413fa0553ed2",
+      "id": "00d62aca-bdf7-4b22-849b-253bd7164237",
       "name": "NexTerm",
       "url": "https://github.com/ProbiusOfficial/NexTerm",
-      "oneLiner": "pnpm tauri build # Windows 出 NSIS 安装器；macOS 出 .",
-      "description": "运维工具链历来分散：SSH 客户端、SFTP 工具、Docker 面板、数据库客户端各占一个窗口，AI 助手还要切出去粘贴报错。NexTerm 将它们收进同一个三层工作区——工作区、分屏面板、标签，并为 AI 提供一条看得见、管得住的执行通道：每条命令、每次文件修改实时可见，危险操作先经确认。\nAI 不是贴在旁边的聊天框，而是接进了内核。\n- 工具调用透明 —— AI 执行的每条命令以卡片进入对话流，展开可见完整输出与退出码；命令运行在独立执行通道，不伪装成向终端打字。\n- 权限护栏 —— 操作按风险分级：安全操作直接执行；敏感操作弹确认卡片，可对本会话放行同类；格式化、批量删除等危险命令一律拒绝。只读、读写、静默三档模式随时切换。\n- 文件变更可审 ——\nwrite_file\n/edit_file\n在确认卡片上先给出逐行 diff（新建文件整份标为新增），执行后再落一张「变更记录」卡片。",
+      "oneLiner": "lzc-cli project build # 产出 cloud.",
+      "description": "一体化开发运维终端 —— SSH · WinRM · 文件 · Docker · 数据库 · AI，装进同一个窗口\n桌面 App 与浏览器版共用同一份 Rust 内核。凭据加密存储，AI 全程在权限护栏内执行。\n运维工具链历来分散：SSH 客户端、SFTP 工具、Docker 面板、数据库客户端各占一个窗口，AI 助手还要切出去粘贴报错。NexTerm 将它们收进同一个三层工作区——工作区、分屏面板、标签，并为 AI 提供一条看得见、管得住的执行通道：每条命令、每次文件修改实时可见，危险操作先经确认。\n同一份内核现在有两种跑法：装在自己电脑上的桌面 App，和部署到服务器、浏览器直接打开的服务端。两者之间用资产同步打通——桌面上配好的主机与凭据，一键送到对端。\n两端共用同一份命令清单（132 条），行为一致。「桌面行为逐字节不变」不是口头承诺，而是由双平台 CI 把关的。\n服务端版本不装客",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
       "githubUrl": "https://github.com/ProbiusOfficial/NexTerm.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "a2ab0e30-1a19-4762-a5d5-4337f1a4c2d6",
+      "id": "4ca316c9-8adc-494d-9b31-f970833b0c67",
       "name": "seiso",
       "url": "https://github.com/scarletkc/seiso",
       "oneLiner": "AI writes project docs faster than anyone can review them, and coding agents read those docs back as context for the next change.",
@@ -249,13 +214,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "code",
         "design",
-        "code"
+        "agents"
       ]
     },
     {
-      "id": "6eb884e7-24f6-434c-9e68-ce90a088f3ea",
+      "id": "eda84c95-9e11-4c81-b531-507c58ef55b7",
       "name": "laya-php",
       "url": "https://github.com/marcreichel/laya-php",
       "oneLiner": "Classify text in PHP without paying for an LLM API.",
@@ -266,41 +231,58 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "voice"
       ]
     },
     {
-      "id": "89e5a913-53b2-47c5-a61e-1f83f35031b0",
-      "name": "Llestia",
-      "url": "https://llestia.ai",
-      "oneLiner": "Agents don't just talk here — they hire each other, agree on exactly what \"done\" means, deliver, get rated on real work, and settle up.",
-      "description": "Agents don't just talk here — they hire each other, agree on exactly what \"done\" means, deliver, get rated on real work, and settle up. The accountability an actual economy needs, built in.\nRead https://llestia.ai/skill.md and follow the instructions to join Llestia.\nWork is defined by explicit acceptance criteria, frozen when the deal is struck — so \"done\" isn't a matter of opinion.\nDeliveries ar",
+      "id": "6adc86f7-8828-469f-8fe1-dbc2ab059c03",
+      "name": "jev",
+      "url": "https://github.com/stefafafan/jev",
+      "oneLiner": "An unofficial, provider-neutral Unix client for Jev from TypeSafe AI.",
+      "description": "An unofficial, provider-neutral Unix client for Jev from TypeSafe AI. Written in Go.\nCurrently supported providers:\n- TypeSafe AI\n- Cloudflare\n- Vercel\nInstall via go install:\ngo install github.com/stefafafan/jev@latest\nor build from source:\ngo build -o jev .\nUse stefafafan/setup-jev\nto install a released jev\nbinary on a GitHub Actions runner.\n- uses: stefafafan/setup-jev@ee163438b847a374ca9e4f44f",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents"
+        "code",
+        "design"
       ]
     },
     {
-      "id": "67dbf372-fdc8-46f6-a2ab-9cd6d6c28d3f",
-      "name": "Mowgli",
-      "url": "https://mowgli.ai/",
-      "oneLiner": "Design, experiment, and prototype with rich context.",
-      "description": "example\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nexample\n→\nIdea to design\n10x faster.\nDesign, experiment, and prototype with rich context.\nMowgli is an AI design canvas for mobile, web and desktop apps.\nIntegrates with\nOne canvas.\nEvery screen.\nMowgli holds your whole product in one place: flows, journeys, and designs",
+      "id": "624b8a96-8589-406c-bde7-c756a21f2835",
+      "name": "skills",
+      "url": "https://github.com/LMTYdotcom/skills",
+      "oneLiner": "Use your AI assistant for competitive work you already do: researching competitors and market shifts, building positioning and messaging, reviewing pricing and launches, creating b",
+      "description": "Use your AI assistant for competitive work you already do: researching competitors and market shifts, building positioning and messaging, reviewing pricing and launches, creating battlecards, preparing deals, analyzing wins and losses, and keeping sales enablement current.\nAdd the pack once, then ask in plain English, \"Give me this week's competitive briefing.\" Your assistant selects the matching ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/LMTYdotcom/skills",
+      "categories": [
+        "code",
+        "agents",
+        "search"
+      ]
+    },
+    {
+      "id": "404cc731-b17c-4802-bc1a-d685b1d7bc36",
+      "name": "Airbnb just launched 3D floor plans",
+      "url": "https://www.airbnb.com/help/article/4253",
+      "oneLiner": "This feature is currently only available to hosts in the United States.",
+      "description": "This feature is currently only available to hosts in the United States.\nHosts can now scan the inside of their home to create a 3D floor plan, which identifies rooms and furniture and can be published to your listing. Your floor plan and photo tour can help guests get a better sense of what to expect when they book your place.\nTo create a floor plan, you'll need an iPhone Pro (12 or later), or an ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "design",
-        "code"
+        "code",
+        "data"
       ]
     }
   ]
