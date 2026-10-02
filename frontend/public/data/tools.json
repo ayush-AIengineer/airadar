@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-01T12:35:23.214617+00:00",
-  "count": 17,
+  "generatedAt": "2026-10-02T12:00:24.320562+00:00",
+  "count": 20,
   "tools": [
     {
-      "id": "a15e119e-1282-4fe4-bd52-2d21f7134ade",
+      "id": "ed47a050-2375-43d7-9d46-bb2c55ba62b0",
       "name": "jevwright",
       "url": "https://github.com/Ice-Hazymoon/jevwright",
       "oneLiner": "Browser tests for business flows, written as the steps a user takes.",
@@ -14,13 +14,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "data"
       ]
     },
     {
-      "id": "fcc25247-1133-4e2c-8ce6-bac7c8238aa8",
+      "id": "998ab8ab-9839-4cc1-8d3f-1a2dc0f2fac2",
       "name": "ufo-core",
       "url": "https://github.com/ufo-ai/ufo-core",
       "oneLiner": "Run AI agents for your team on your own infrastructure.",
@@ -31,47 +31,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "bcfc15c2-4137-4747-ac0c-b3e15e208cbc",
-      "name": "ai-system-design",
-      "url": "https://github.com/amitshekhariitbhu/ai-system-design",
-      "oneLiner": "You signed in with another tab or window.",
-      "description": "Skip to content\nNavigation Menu\nSign in\nAppearance settings\nPlatform\nAI CODE CREATION\nGitHub Copilot\nWrite better code with AI\nGitHub Copilot app\nDirect agents from issue to merge\nMCP Registry\nIntegrate external tools\nDEVELOPER WORKFLOWS\nActions\nAutomate any workflow\nCodespaces\nInstant dev environments\nIssues\nPlan and track work\nCode Review\nManage code changes\nCode Quality\nEnforce quality at merge",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "e2b29f5b-4bef-4ebb-b8d1-a6b51dd61395",
-      "name": "clodfarm",
-      "url": "https://github.com/matank001/clodfarm",
-      "oneLiner": "A farm of Claude Code agents that builds your apps, puts them in the cloud, takes the payments and buys the traffic.",
-      "description": "Make money · Quick start · How it works · Multi-seat · Docs · FAQ\nA farm of Claude Code agents that builds your apps, puts them in the cloud, takes the payments and buys the traffic. Around the clock, on your Claude subscription.\nGive the farm a product to run and it works on it day and night: it builds the app, ships it, charges for it and brings people to it. Every piece is connected once, for e",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/matank001/clodfarm",
-      "categories": [
-        "code",
-        "data",
-        "marketing"
-      ]
-    },
-    {
-      "id": "938f52e9-a20b-418a-aca4-e7f1ecfa4345",
+      "id": "26662d97-32c8-49ca-b55a-0ebc516928ba",
       "name": "openpages",
       "url": "https://github.com/arjunkshah12345-hash/openpages",
       "oneLiner": "Make room for your next idea.",
@@ -82,17 +48,85 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/arjunkshah12345-hash/openpages.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "f6b62251-7db8-4ed3-8245-e72b434c4450",
-      "name": "Sensii",
-      "url": "https://sensii.gg",
-      "oneLiner": "A voice coach in the background that knows your game.",
-      "description": "Talk to your coach. Mid-game. About anything.\nA voice coach in the background that knows your game. Ask anything, hear the answer, keep playing.\nAnswers that fit your game\nSensii looks at your champion, items and match before it says a word.\nYour Live Match\nGold, items, KDA and levels for you, your allies and your enemies, read live from Riot's Live Client API so every answer fits the exact moment",
+      "id": "7024ffe3-a98c-45f8-923d-1f520fd1fc1c",
+      "name": "AI godfather Yann LeCun",
+      "url": "https://fortune.com/2026/10/01/yann-lecun-anthropic-ceo-dario-amodei-deluded-crazy-cybersecurity/",
+      "oneLiner": "- AI ‘godfather’ Yann LeCun says Anthropic’s Dario Amodei is ‘deluded’ and ‘crazy.",
+      "description": "Good morning. On Fortune’s radar today:\n- AI ‘godfather’ Yann LeCun says Anthropic’s Dario Amodei is ‘deluded’ and ‘crazy.’\n- Diesel export ban: The cure may be worse than the disease.\n- Markets: Bond rout deepens as the 10-year yield hits a 25-year high.\n- Chart: Most U.S. jobs are created by small businesses.\n- AI could be creating a $2.2 trillion market.\n- Hidden for 50 years, unseen works by v",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "e6be7939-eb10-43dd-a6eb-9c172ab19cdc",
+      "name": "AI training of copyrighted material not fair use",
+      "url": "https://www.courthousenews.com/ai-training-of-copyrighted-material-not-fair-use-third-circuit/",
+      "oneLiner": "PHILADELPHIA (CN) — The Third Circuit rejected an artificial intelligence company’s fair use defense after it trained its AI on a competitor’s product, finding the training constit",
+      "description": "PHILADELPHIA (CN) — The Third Circuit rejected an artificial intelligence company’s fair use defense after it trained its AI on a competitor’s product, finding the training constituted copyright infringement — and potentially setting a landmark precedent for artificial intelligence.\nThomson Reuters sued now-defunct AI startup ROSS Intelligence in 2020, claiming ROSS took headnotes — short descript",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "55fe20b1-0094-4677-8f24-b7fee3a16f5e",
+      "name": "Microsoft launches MAI-Transcribe-2-Streaming",
+      "url": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
+      "oneLiner": "Our first streaming transcription model debuts at no.",
+      "description": "Our first streaming transcription model debuts at no. 1 on Artificial Analysis\nAlong with today’s launch of our top-ranking MAI-Transcribe-2-Streaming, we’re also announcing two new voice models: MAI‑Voice‑2.1 and our blazing-fast variant, MAI‑Voice‑2.1‑Flash.\nTogether, they give users the fast and fluid building blocks to create conversational experiences, with no compromise on accuracy or voice ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "voice",
+        "audio"
+      ]
+    },
+    {
+      "id": "b161e0eb-f9c1-4e1c-8f2a-7ab458864e5c",
+      "name": "Yokka",
+      "url": "https://yokka.ai/",
+      "oneLiner": "One kanban board tracks every agent you run, coding or not, shows what's done and what's stuck, and pings you the moment one needs you.",
+      "description": "Run more coding agents. Babysit none.\nOne kanban board tracks every agent you run, coding or not, shows what's done and what's stuck, and pings you the moment one needs you. So you can stop checking your terminals to see what your agents are doing.\nNo card or account needed.\n- Your code stays on your machine\n- Encrypted in transit and at rest\n- Hosted in the EU\n13,418 agents connected so far\nAcme ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "search"
+      ]
+    },
+    {
+      "id": "efa52181-6ef3-41bc-b9ec-ccc73208f978",
+      "name": "A practical AI Evaluation pattern",
+      "url": "https://deepsense.ai/blog/the-top-scoring-model-is-not-always-the-best-production-choice-how-to-evaluate-ai-systems-beyond-public-benchmarks/",
+      "oneLiner": "Should AI leaders still follow model benchmarks?",
+      "description": "Table of contents\nShould AI leaders still follow model benchmarks? Yes, but mainly to understand what is worth testing next, not to assume that the top-performing model will be the best fit for the particular use case.\nIn this issue:\n- We’ll explain where public benchmarks are useful, where they stop being meaningful, and how to use them to build a credible shortlist rather than make a deployment ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -100,28 +134,29 @@
       "githubUrl": null,
       "categories": [
         "design",
-        "agents"
+        "agents",
+        "code"
       ]
     },
     {
-      "id": "b135a6d9-de4d-4d01-a3bc-17d7276f69a3",
-      "name": "AI workspaces for teams with human-AI interfaces",
-      "url": "https://github.com/ailaflow/ailaflow",
-      "oneLiner": "Tell AI to build your workspace, powered by processes with Human-AI interfaces.",
-      "description": "Tell AI to build your workspace, powered by processes with Human-AI interfaces.\nAilaFlow is a collaborative low-code workspace where people and AI agents design, automate, and execute business processes together. Processes can combine human tasks, AI agents, forms, scripts, shared data, and external systems-giving humans and AI a common way to participate in the same workflow and act on the same p",
-      "pricing": "free",
+      "id": "9dfc8636-ea27-48cf-82af-5ae238d5dff6",
+      "name": "little-chits",
+      "url": "https://github.com/Blackwellboy/little-chits",
+      "oneLiner": "A living artificial civilisation you can watch.",
+      "description": "A living artificial civilisation you can watch. Tiny AI creatures (chits) wake up on an island knowing almost nothing. They get hungry, get cold and grow tired. They experiment with what they find, discover how things combine, build homes and workshops together, teach each other (or can't), have children, grow old, and leave behind a world that remembers them.\nYou can plug any LLM into their minds",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Blackwellboy/little-chits",
       "categories": [
-        "code",
         "design",
-        "agents"
+        "agents",
+        "code"
       ]
     },
     {
-      "id": "5782f4d6-b390-4167-9adf-9688c80f8496",
+      "id": "1b541588-04ca-49b5-8208-bf6485cb1378",
       "name": "ai-agent-for-pc",
       "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc",
       "oneLiner": "A simple and lightweight AI agent designed to run directly on a Windows PC.",
@@ -137,7 +172,24 @@
       ]
     },
     {
-      "id": "9d321e8d-eb4c-4ab8-8721-3ccb11782a8d",
+      "id": "983262e9-b0e6-495e-afc5-fa5d2490302e",
+      "name": "strands-decider",
+      "url": "https://github.com/strands-labs/strands-decider",
+      "oneLiner": "Strands decider is one of a new class of decision models, or \"system one\" models.",
+      "description": "Strands decider is one of a new class of decision models, or \"system one\" models. Unlike an LLM, which can generate arbitrary text, a decision model picks between sets of options and rates things on a scale. This class of model works best for problems that fall between LLMs and traditional classification models: it is a general-purpose classification and scoring model that responds faster than an ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "writing"
+      ]
+    },
+    {
+      "id": "cf58a6e9-20bd-4ccb-8ae9-230e4c7ae6c7",
       "name": "xiaobai-kanban",
       "url": "https://github.com/webkubor/xiaobai-kanban",
       "oneLiner": "git --version 2>/dev/null && echo \"✅ Git: $(git --version)\" || echo \"❌ Git 未安装 → https://git-scm.",
@@ -152,7 +204,7 @@
       ]
     },
     {
-      "id": "03c02db1-f19d-4f6d-80b9-f8f6c981a9dc",
+      "id": "27410470-0864-436c-a560-c8f3491cf93b",
       "name": "AIHOT",
       "url": "https://github.com/KKKKhazix/AIHOT",
       "oneLiner": "In English: AIHOT (aihot.",
@@ -163,13 +215,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/KKKKhazix/AIHOT.git",
       "categories": [
-        "code",
         "design",
-        "agents"
+        "agents",
+        "code"
       ]
     },
     {
-      "id": "71c048dc-2067-478d-847b-6e18e33546e0",
+      "id": "8c3218c3-f1d8-4dfa-98f7-beadd9ec6270",
       "name": "bricka",
       "url": "https://github.com/mirayavandiepen/bricka",
       "oneLiner": "A React composer where files, people, tools and commands live inside the message as real tokens.",
@@ -180,30 +232,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "rag"
       ]
     },
     {
-      "id": "00d62aca-bdf7-4b22-849b-253bd7164237",
-      "name": "NexTerm",
-      "url": "https://github.com/ProbiusOfficial/NexTerm",
-      "oneLiner": "lzc-cli project build # 产出 cloud.",
-      "description": "一体化开发运维终端 —— SSH · WinRM · 文件 · Docker · 数据库 · AI，装进同一个窗口\n桌面 App 与浏览器版共用同一份 Rust 内核。凭据加密存储，AI 全程在权限护栏内执行。\n运维工具链历来分散：SSH 客户端、SFTP 工具、Docker 面板、数据库客户端各占一个窗口，AI 助手还要切出去粘贴报错。NexTerm 将它们收进同一个三层工作区——工作区、分屏面板、标签，并为 AI 提供一条看得见、管得住的执行通道：每条命令、每次文件修改实时可见，危险操作先经确认。\n同一份内核现在有两种跑法：装在自己电脑上的桌面 App，和部署到服务器、浏览器直接打开的服务端。两者之间用资产同步打通——桌面上配好的主机与凭据，一键送到对端。\n两端共用同一份命令清单（132 条），行为一致。「桌面行为逐字节不变」不是口头承诺，而是由双平台 CI 把关的。\n服务端版本不装客",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ProbiusOfficial/NexTerm.git",
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "4ca316c9-8adc-494d-9b31-f970833b0c67",
+      "id": "2630e0b3-01c5-4ffe-a00c-7fe659f57239",
       "name": "seiso",
       "url": "https://github.com/scarletkc/seiso",
       "oneLiner": "AI writes project docs faster than anyone can review them, and coding agents read those docs back as context for the next change.",
@@ -214,13 +249,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
-        "agents"
+        "agents",
+        "code"
       ]
     },
     {
-      "id": "eda84c95-9e11-4c81-b531-507c58ef55b7",
+      "id": "514b8878-1be0-4973-ade2-30c96801a01c",
       "name": "laya-php",
       "url": "https://github.com/marcreichel/laya-php",
       "oneLiner": "Classify text in PHP without paying for an LLM API.",
@@ -231,13 +266,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "voice"
       ]
     },
     {
-      "id": "6adc86f7-8828-469f-8fe1-dbc2ab059c03",
+      "id": "b31df187-7a63-4385-9e8f-ea04a0644206",
       "name": "jev",
       "url": "https://github.com/stefafafan/jev",
       "oneLiner": "An unofficial, provider-neutral Unix client for Jev from TypeSafe AI.",
@@ -248,12 +283,12 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "design"
+        "design",
+        "code"
       ]
     },
     {
-      "id": "624b8a96-8589-406c-bde7-c756a21f2835",
+      "id": "b00461f0-bc51-4bc0-a1bd-0ef6b20d91da",
       "name": "skills",
       "url": "https://github.com/LMTYdotcom/skills",
       "oneLiner": "Use your AI assistant for competitive work you already do: researching competitors and market shifts, building positioning and messaging, reviewing pricing and launches, creating b",
@@ -264,25 +299,41 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/LMTYdotcom/skills",
       "categories": [
-        "code",
         "agents",
+        "code",
         "search"
       ]
     },
     {
-      "id": "404cc731-b17c-4802-bc1a-d685b1d7bc36",
-      "name": "Airbnb just launched 3D floor plans",
-      "url": "https://www.airbnb.com/help/article/4253",
-      "oneLiner": "This feature is currently only available to hosts in the United States.",
-      "description": "This feature is currently only available to hosts in the United States.\nHosts can now scan the inside of their home to create a 3D floor plan, which identifies rooms and furniture and can be published to your listing. Your floor plan and photo tour can help guests get a better sense of what to expect when they book your place.\nTo create a floor plan, you'll need an iPhone Pro (12 or later), or an ",
+      "id": "fb4e9139-7629-4d7c-89cb-eb9c70250539",
+      "name": "ReadMini",
+      "url": "https://readmini.com",
+      "oneLiner": "Read only what’s worth reading.",
+      "description": "Read only what’s worth reading.\nReadMini cuts the filler and repetition while keeping the ideas, evidence, and caveats that matter.\nThe original article, minus what did not earn your time.\nPaste a link. ReadMini keeps every claim, number, caveat and piece of evidence that matters, drops the rest, and tells you how much reading that saves.\nWhy trust the number?\nCalculated, not guessed\nReadMini deci",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "0c09b148-1e18-417c-bd34-fce82ce2935c",
+      "name": "AilaFlow",
+      "url": "https://ailaflow.com/",
+      "oneLiner": "Make workflows available to the right people and groups.",
+      "description": "01\nControl access\nMake workflows available to the right people and groups.\nAI workspace for teams\nConnect your tools, data, and workflows in an AI workspace built around your business. Define what AI can do and when people need to approve. Your team works through AI chat and simple forms - no technical expertise needed for everyday use.\nBuild your next workflow\nAilaFlow requires Docker to be insta",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
         "code",
-        "data"
+        "productivity"
       ]
     }
   ]
