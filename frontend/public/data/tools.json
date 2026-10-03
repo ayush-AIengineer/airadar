@@ -1,9 +1,60 @@
 {
-  "generatedAt": "2026-10-02T12:00:24.320562+00:00",
+  "generatedAt": "2026-10-03T11:13:44.851798+00:00",
   "count": 20,
   "tools": [
     {
-      "id": "ed47a050-2375-43d7-9d46-bb2c55ba62b0",
+      "id": "64e5a22a-9a24-4ce8-9bf6-209fa30e12c6",
+      "name": "whirl",
+      "url": "https://github.com/whirlchat/whirl",
+      "oneLiner": "The AI chat app that sweats the details.",
+      "description": "The AI chat app that sweats the details. Every top model, real memory,\nliving documents, and your own tools, in one fast and friendly place.\nwhirl.chat · Self-hosting · Architecture · Contributing\nWhirl is a full-stack AI chat app built on Next.js and Convex. It's the code behind whirl.chat, published in full under the MIT license. Read it, run your own, or help make it better.\n- Every top model i",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/whirlchat/whirl.git",
+      "categories": [
+        "design",
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "dfc3ce18-98f6-426d-9e43-228caa3ed9df",
+      "name": "ai_goodpractice",
+      "url": "https://github.com/xop01/ai_goodpractice",
+      "oneLiner": "Enough talking, let's get to it !",
+      "description": "This guide is fully hand-written, there is zero prompting involved in the thinking or creation of this guide, i have the belief that AI could never express my own thoughts and lifestyle as good as me no matter how well he is prompted\nEverything shared in this guide is simply my own experience and views, please think for yourself and see if this guide speaks to you, if it does i would love if you s",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "productivity"
+      ]
+    },
+    {
+      "id": "b3ac8f71-872f-4002-9ca1-198070086866",
+      "name": "Synapass",
+      "url": "https://github.com/ShadowSafin/Synapass",
+      "oneLiner": "An OpenAI-compatible gateway that decides, per request, which AI provider serves it — and proves it.",
+      "description": "An OpenAI-compatible gateway that decides, per request, which AI provider serves it — and proves it.\nRouting · failover · caching · policy · budgets · full request lineage\nQuick start · Documentation · Troubleshooting\nLinux\ncurl -fsSL https://raw.githubusercontent.com/shadowsafin/synapass/main/scripts/install.sh | bash\nmacOS\ncurl -fsSL https://raw.githubusercontent.com/shadowsafin/synapass/main/sc",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "ba5e55d4-73ef-49a9-8c80-eb92173df36e",
       "name": "jevwright",
       "url": "https://github.com/Ice-Hazymoon/jevwright",
       "oneLiner": "Browser tests for business flows, written as the steps a user takes.",
@@ -20,7 +71,7 @@
       ]
     },
     {
-      "id": "998ab8ab-9839-4cc1-8d3f-1a2dc0f2fac2",
+      "id": "fbef29b6-918f-48e9-8362-3c7119c3be36",
       "name": "ufo-core",
       "url": "https://github.com/ufo-ai/ufo-core",
       "oneLiner": "Run AI agents for your team on your own infrastructure.",
@@ -31,13 +82,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
-        "data"
+        "data",
+        "agents"
       ]
     },
     {
-      "id": "26662d97-32c8-49ca-b55a-0ebc516928ba",
+      "id": "965b6261-a747-4855-8c0e-47812a404949",
       "name": "openpages",
       "url": "https://github.com/arjunkshah12345-hash/openpages",
       "oneLiner": "Make room for your next idea.",
@@ -48,85 +99,34 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/arjunkshah12345-hash/openpages.git",
       "categories": [
-        "agents",
         "code",
-        "data"
+        "data",
+        "agents"
       ]
     },
     {
-      "id": "7024ffe3-a98c-45f8-923d-1f520fd1fc1c",
-      "name": "AI godfather Yann LeCun",
-      "url": "https://fortune.com/2026/10/01/yann-lecun-anthropic-ceo-dario-amodei-deluded-crazy-cybersecurity/",
-      "oneLiner": "- AI ‘godfather’ Yann LeCun says Anthropic’s Dario Amodei is ‘deluded’ and ‘crazy.",
-      "description": "Good morning. On Fortune’s radar today:\n- AI ‘godfather’ Yann LeCun says Anthropic’s Dario Amodei is ‘deluded’ and ‘crazy.’\n- Diesel export ban: The cure may be worse than the disease.\n- Markets: Bond rout deepens as the 10-year yield hits a 25-year high.\n- Chart: Most U.S. jobs are created by small businesses.\n- AI could be creating a $2.2 trillion market.\n- Hidden for 50 years, unseen works by v",
+      "id": "622f5caa-50c5-4ed4-88f0-8d83f4004fda",
+      "name": "Beautiful form back end for AI agents",
+      "url": "https://nisuform.com/",
+      "oneLiner": "Point your form at a nisuform URL and you are live.",
+      "description": "No backend. Just a URL.\nPoint your form at a nisuform URL and you are live. No servers, no database, nothing to maintain.\nThe form backend for any website. Point your HTML form at Nisuform, or let your AI agent set it up with one prompt or over MCP. Every submission lands in one clean inbox, with email alerts and built-in spam protection.\nPowered by\nCreate your form under 30 seconds with beautiful",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "agents",
-        "security"
-      ]
-    },
-    {
-      "id": "e6be7939-eb10-43dd-a6eb-9c172ab19cdc",
-      "name": "AI training of copyrighted material not fair use",
-      "url": "https://www.courthousenews.com/ai-training-of-copyrighted-material-not-fair-use-third-circuit/",
-      "oneLiner": "PHILADELPHIA (CN) — The Third Circuit rejected an artificial intelligence company’s fair use defense after it trained its AI on a competitor’s product, finding the training constit",
-      "description": "PHILADELPHIA (CN) — The Third Circuit rejected an artificial intelligence company’s fair use defense after it trained its AI on a competitor’s product, finding the training constituted copyright infringement — and potentially setting a landmark precedent for artificial intelligence.\nThomson Reuters sued now-defunct AI startup ROSS Intelligence in 2020, claiming ROSS took headnotes — short descript",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
         "code",
-        "data"
+        "data",
+        "agents"
       ]
     },
     {
-      "id": "55fe20b1-0094-4677-8f24-b7fee3a16f5e",
-      "name": "Microsoft launches MAI-Transcribe-2-Streaming",
-      "url": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
-      "oneLiner": "Our first streaming transcription model debuts at no.",
-      "description": "Our first streaming transcription model debuts at no. 1 on Artificial Analysis\nAlong with today’s launch of our top-ranking MAI-Transcribe-2-Streaming, we’re also announcing two new voice models: MAI‑Voice‑2.1 and our blazing-fast variant, MAI‑Voice‑2.1‑Flash.\nTogether, they give users the fast and fluid building blocks to create conversational experiences, with no compromise on accuracy or voice ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "voice",
-        "audio"
-      ]
-    },
-    {
-      "id": "b161e0eb-f9c1-4e1c-8f2a-7ab458864e5c",
-      "name": "Yokka",
-      "url": "https://yokka.ai/",
-      "oneLiner": "One kanban board tracks every agent you run, coding or not, shows what's done and what's stuck, and pings you the moment one needs you.",
-      "description": "Run more coding agents. Babysit none.\nOne kanban board tracks every agent you run, coding or not, shows what's done and what's stuck, and pings you the moment one needs you. So you can stop checking your terminals to see what your agents are doing.\nNo card or account needed.\n- Your code stays on your machine\n- Encrypted in transit and at rest\n- Hosted in the EU\n13,418 agents connected so far\nAcme ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "search"
-      ]
-    },
-    {
-      "id": "efa52181-6ef3-41bc-b9ec-ccc73208f978",
-      "name": "A practical AI Evaluation pattern",
-      "url": "https://deepsense.ai/blog/the-top-scoring-model-is-not-always-the-best-production-choice-how-to-evaluate-ai-systems-beyond-public-benchmarks/",
-      "oneLiner": "Should AI leaders still follow model benchmarks?",
-      "description": "Table of contents\nShould AI leaders still follow model benchmarks? Yes, but mainly to understand what is worth testing next, not to assume that the top-performing model will be the best fit for the particular use case.\nIn this issue:\n- We’ll explain where public benchmarks are useful, where they stop being meaningful, and how to use them to build a credible shortlist rather than make a deployment ",
+      "id": "0ba94269-7761-4a5c-b858-a1e0764ab1b9",
+      "name": "UsageAtlas(OSS)",
+      "url": "https://usageatlas.com",
+      "oneLiner": "See your tokens, requests, and estimated cost over time.",
+      "description": "USAGE HISTORY\nToday makes more sense\nwith a little history.\nSee your tokens, requests, and estimated cost over time. Compare with the previous period to spot what changed.\nTrack AI coding usage across 14 providers. Token history, available cost estimates, credits, and usage limits in one free, open-source desktop app.\nmacOS, Windows & LinuxNo account needed\n14 providers. One home for the tools you",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -134,12 +134,45 @@
       "githubUrl": null,
       "categories": [
         "design",
-        "agents",
         "code"
       ]
     },
     {
-      "id": "9dfc8636-ea27-48cf-82af-5ae238d5dff6",
+      "id": "e1376fc1-a7ac-4aff-a542-3d1deee8cb44",
+      "name": "Offline NHTSA VIN decoder",
+      "url": "https://github.com/AIKitLLC/nhtsa-edge-api",
+      "oneLiner": "US public data at the edge, served at https://data.",
+      "description": "US public data at the edge, served at https://data.ai-kit.net from Cloudflare Workers.\nThe site is a hub of datasets; the first one is NHTSA's vehicle database (vPIC), decoded\noffline inside the Worker. The repository, Worker and package keep the name\nnhtsa-edge-api\n(renaming a Worker would create a new one and break its URLs).\nThe status list of the site lives in src/routes/landing/hub.ts\n; a dat",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "a3929d4b-d383-4d04-9622-61c7e5d7f6ad",
+      "name": "Fakeflac-go",
+      "url": "https://github.com/drichline/fakeflac-go",
+      "oneLiner": "A command-line tool to detect \"fake\" lossless audio files and optionally plot their frequency distribution.",
+      "description": "A command-line tool to detect \"fake\" lossless audio files and optionally plot their frequency distribution. Analysis of lossy files is also supported.\nfakeflac-go\nestimates the percentage of the audio spectrum effectively remaining after a bad transcode from a lossy source.\nAlgorithm ported from mevdschee/fakeflac with some adjustments; scores may not match. This algorithm is known to produce fals",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "audio"
+      ]
+    },
+    {
+      "id": "ee51ade3-9872-42ed-ab72-6eb2b4a754d1",
       "name": "little-chits",
       "url": "https://github.com/Blackwellboy/little-chits",
       "oneLiner": "A living artificial civilisation you can watch.",
@@ -151,12 +184,12 @@
       "githubUrl": "https://github.com/Blackwellboy/little-chits",
       "categories": [
         "design",
-        "agents",
-        "code"
+        "code",
+        "agents"
       ]
     },
     {
-      "id": "1b541588-04ca-49b5-8208-bf6485cb1378",
+      "id": "302ae5c4-de54-4f64-8bd6-7c880657f816",
       "name": "ai-agent-for-pc",
       "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc",
       "oneLiner": "A simple and lightweight AI agent designed to run directly on a Windows PC.",
@@ -172,7 +205,23 @@
       ]
     },
     {
-      "id": "983262e9-b0e6-495e-afc5-fa5d2490302e",
+      "id": "25e2f318-539a-4281-9362-afb88f28b483",
+      "name": "nuvex-services",
+      "url": "https://github.com/NuvexNetwork/nuvex-services",
+      "oneLiner": "Off-chain services for Nuvex.",
+      "description": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.\napi/\n— HTTP read API.GET /health\nreturnsauthority: none\n. Requests, nodes, and network counts come from the indexer store.GET /v1/prices\nreturns a median of fresh public observations and is not a chain result. Jobs and models return 501.indexer/\n— Decodes known account layouts fromgetPr",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "32187d1e-caba-4ccf-88d0-6586522b77ff",
       "name": "strands-decider",
       "url": "https://github.com/strands-labs/strands-decider",
       "oneLiner": "Strands decider is one of a new class of decision models, or \"system one\" models.",
@@ -189,7 +238,7 @@
       ]
     },
     {
-      "id": "cf58a6e9-20bd-4ccb-8ae9-230e4c7ae6c7",
+      "id": "7fad7e8a-2016-450a-9133-6faf9636451c",
       "name": "xiaobai-kanban",
       "url": "https://github.com/webkubor/xiaobai-kanban",
       "oneLiner": "git --version 2>/dev/null && echo \"✅ Git: $(git --version)\" || echo \"❌ Git 未安装 → https://git-scm.",
@@ -204,24 +253,7 @@
       ]
     },
     {
-      "id": "27410470-0864-436c-a560-c8f3491cf93b",
-      "name": "AIHOT",
-      "url": "https://github.com/KKKKhazix/AIHOT",
-      "oneLiner": "In English: AIHOT (aihot.",
-      "description": "一个自己找热点、自己写日报的网站框架。\n把信源换成你的，把精选标准换成你的 KnowHow，它就是你的行业热点站。\n跑起来 · 改成你的行业 · 它是怎么工作的 · 文档 · 社区交流\nAIHOT 是我做的一个 AI 热点网站。它每天从一批信源里收资料，用大模型先筛一遍、再独立打两次分，挑出真正值得看的，写成中文标题和摘要；把不同来源说的同一件事聚成一个事件，按有多少人在说排出热点；每天早上出一份日报。\n这个仓库是它的完整框架：网站、后台、精选流程、聚簇和热度算法，所有提示词的原文和入选门槛，都在这里。\n这半年，很多做法律、做 HR、做金融、做贵金属的朋友问我，能不能也给他们的行业做一个。\n我做不了。我不懂你们的行业，不知道哪些信源有用，也不知道什么样的消息，对你们来说才叫热点。\n但你们懂。\n既然我没办法满足所有人，那就把火种交到大家自己手上。\n- 我不是专业的开发者。 我是设计师出身，半",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/KKKKhazix/AIHOT.git",
-      "categories": [
-        "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "8c3218c3-f1d8-4dfa-98f7-beadd9ec6270",
+      "id": "f8c6181a-8de7-4fb1-bd69-8cf283e9d714",
       "name": "bricka",
       "url": "https://github.com/mirayavandiepen/bricka",
       "oneLiner": "A React composer where files, people, tools and commands live inside the message as real tokens.",
@@ -238,7 +270,7 @@
       ]
     },
     {
-      "id": "2630e0b3-01c5-4ffe-a00c-7fe659f57239",
+      "id": "33918a20-6a4b-43f5-acb0-ae029da33d41",
       "name": "seiso",
       "url": "https://github.com/scarletkc/seiso",
       "oneLiner": "AI writes project docs faster than anyone can review them, and coding agents read those docs back as context for the next change.",
@@ -250,45 +282,12 @@
       "githubUrl": null,
       "categories": [
         "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "514b8878-1be0-4973-ade2-30c96801a01c",
-      "name": "laya-php",
-      "url": "https://github.com/marcreichel/laya-php",
-      "oneLiner": "Classify text in PHP without paying for an LLM API.",
-      "description": "Classify text in PHP without paying for an LLM API. Route support tickets, spot churn risk and score urgency, in 100+ languages, on your own server, and get the answers back as typed enums, ints and bools.\n$triage = $laya->decide('Hi, we were billed twice for March. Refund it today or we cancel.', Triage::class);\n$triage->department; // Department::Billing\n$triage->churn; // true\n- Self-hosted: th",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
         "code",
-        "voice"
+        "agents"
       ]
     },
     {
-      "id": "b31df187-7a63-4385-9e8f-ea04a0644206",
-      "name": "jev",
-      "url": "https://github.com/stefafafan/jev",
-      "oneLiner": "An unofficial, provider-neutral Unix client for Jev from TypeSafe AI.",
-      "description": "An unofficial, provider-neutral Unix client for Jev from TypeSafe AI. Written in Go.\nCurrently supported providers:\n- TypeSafe AI\n- Cloudflare\n- Vercel\nInstall via go install:\ngo install github.com/stefafafan/jev@latest\nor build from source:\ngo build -o jev .\nUse stefafafan/setup-jev\nto install a released jev\nbinary on a GitHub Actions runner.\n- uses: stefafafan/setup-jev@ee163438b847a374ca9e4f44f",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code"
-      ]
-    },
-    {
-      "id": "b00461f0-bc51-4bc0-a1bd-0ef6b20d91da",
+      "id": "2aae5f2c-1201-44ce-a995-4cbff062b053",
       "name": "skills",
       "url": "https://github.com/LMTYdotcom/skills",
       "oneLiner": "Use your AI assistant for competitive work you already do: researching competitors and market shifts, building positioning and messaging, reviewing pricing and launches, creating b",
@@ -299,32 +298,17 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/LMTYdotcom/skills",
       "categories": [
-        "agents",
         "code",
+        "agents",
         "search"
       ]
     },
     {
-      "id": "fb4e9139-7629-4d7c-89cb-eb9c70250539",
-      "name": "ReadMini",
-      "url": "https://readmini.com",
-      "oneLiner": "Read only what’s worth reading.",
-      "description": "Read only what’s worth reading.\nReadMini cuts the filler and repetition while keeping the ideas, evidence, and caveats that matter.\nThe original article, minus what did not earn your time.\nPaste a link. ReadMini keeps every claim, number, caveat and piece of evidence that matters, drops the rest, and tells you how much reading that saves.\nWhy trust the number?\nCalculated, not guessed\nReadMini deci",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "0c09b148-1e18-417c-bd34-fce82ce2935c",
-      "name": "AilaFlow",
-      "url": "https://ailaflow.com/",
-      "oneLiner": "Make workflows available to the right people and groups.",
-      "description": "01\nControl access\nMake workflows available to the right people and groups.\nAI workspace for teams\nConnect your tools, data, and workflows in an AI workspace built around your business. Define what AI can do and when people need to approve. Your team works through AI chat and simple forms - no technical expertise needed for everyday use.\nBuild your next workflow\nAilaFlow requires Docker to be insta",
+      "id": "3c4e51bd-023f-4d6c-8bb5-8f03bf2da011",
+      "name": "GhostBench",
+      "url": "https://github.com/kyv-attest/kyv",
+      "oneLiner": "Facts only — no rankings, no scores.",
+      "description": "Signed, banded, machine-verifiable operational facts about a company, published at its own\n/.well-known/attestations.json\n. Ed25519-signed, offline-verifiable, anchored in a daily\ntransparency log. Facts only — no rankings, no scores. Absence never means negative.\nPayments for AI agents have a foundation (x402). Agent identity has one (ANS). Nobody answers the remaining question: is the company on",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -333,7 +317,24 @@
       "categories": [
         "design",
         "code",
-        "productivity"
+        "agents"
+      ]
+    },
+    {
+      "id": "b6b43d1a-512b-4e2a-b242-e36e22249852",
+      "name": "Rowan",
+      "url": "https://github.com/hedgerow-dev/rowan",
+      "oneLiner": "Find security issues in your code and AI/ML projects, with evidence you can review.",
+      "description": "Find security issues in your code and AI/ML projects, with evidence you can review.\nRowan reads your project's source code and model files and reports likely vulnerabilities: injection, unsafe deserialization, SSRF, leaked secrets, risky agent tools, unsafe model loading and more. It never runs your code.\nAlpha. Treat every finding as a lead to check, not a confirmed bug. A clean report does not p",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/hedgerow-dev/rowan",
+      "categories": [
+        "design",
+        "code",
+        "agents"
       ]
     }
   ]
