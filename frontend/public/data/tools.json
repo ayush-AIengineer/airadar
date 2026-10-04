@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-03T11:13:44.851798+00:00",
-  "count": 20,
+  "generatedAt": "2026-10-04T11:53:14.618419+00:00",
+  "count": 19,
   "tools": [
     {
-      "id": "64e5a22a-9a24-4ce8-9bf6-209fa30e12c6",
+      "id": "835cbeeb-80b1-4002-b2f8-5028a34a6a35",
       "name": "whirl",
       "url": "https://github.com/whirlchat/whirl",
       "oneLiner": "The AI chat app that sweats the details.",
@@ -14,13 +14,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/whirlchat/whirl.git",
       "categories": [
-        "design",
         "code",
+        "design",
         "security"
       ]
     },
     {
-      "id": "dfc3ce18-98f6-426d-9e43-228caa3ed9df",
+      "id": "fdc66400-a45d-43e5-bd0d-9643fcc5a8a2",
       "name": "ai_goodpractice",
       "url": "https://github.com/xop01/ai_goodpractice",
       "oneLiner": "Enough talking, let's get to it !",
@@ -31,13 +31,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "productivity"
       ]
     },
     {
-      "id": "b3ac8f71-872f-4002-9ca1-198070086866",
+      "id": "b3897c0e-e390-4af5-bd5f-c1915aa87a24",
+      "name": "little-chits",
+      "url": "https://github.com/Blackwellboy/little-chits",
+      "oneLiner": "A living artificial civilisation you can watch.",
+      "description": "A living artificial civilisation you can watch. Tiny AI creatures (chits) wake up on an island knowing almost nothing. They get hungry, get cold and grow tired. They experiment with what they find, discover how things combine, build homes and workshops together, teach each other (or can't), have children, grow old, and leave behind a world that remembers them.\nYou can plug any LLM into their minds",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Blackwellboy/little-chits",
+      "categories": [
+        "code",
+        "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "7db0fbed-5e76-46ce-8b48-3ce94af4014a",
       "name": "Synapass",
       "url": "https://github.com/ShadowSafin/Synapass",
       "oneLiner": "An OpenAI-compatible gateway that decides, per request, which AI provider serves it — and proves it.",
@@ -54,7 +71,7 @@
       ]
     },
     {
-      "id": "ba5e55d4-73ef-49a9-8c80-eb92173df36e",
+      "id": "6a4b1d2b-02c5-404e-8472-27caf546e9e4",
       "name": "jevwright",
       "url": "https://github.com/Ice-Hazymoon/jevwright",
       "oneLiner": "Browser tests for business flows, written as the steps a user takes.",
@@ -65,30 +82,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "fbef29b6-918f-48e9-8362-3c7119c3be36",
-      "name": "ufo-core",
-      "url": "https://github.com/ufo-ai/ufo-core",
-      "oneLiner": "Run AI agents for your team on your own infrastructure.",
-      "description": "▗▟█▙▖ ▗▟█▙▖ ▐██▘ ▐██▌ ▐███████▘ ▄▟██████▙▄\n█▓███ ███▓█ ▝██ ██ ▐██ ▄█▛▀ ▝▜██▄\n▝▀█▀▘ ▝▀█▀▘ ██ ██ ▐██ ▟█▛ ▝██▌\n██ ██ ▐██▄▄▄▄▄ ██▘ ▐██\n██ ██ ▐██▀▀▀▀▀ ██▌ ▐██\n▗▟█▙▖ ██ ██ ▐██ ▜██▖ ▟█▌\n▓████ ▜█▙▖ ▄▟██ ▐██ ▀██▄▖ ▄██▀\n▝▀█▀▘ ▀█████▛▀██▌ ▐██▖ ▀▜██████▛▀\nRun AI agents for your team on your own infrastructure.\nThe same runtime powers UFO's hosted service.\nSelf-host · How it works · Use hosted · Security model",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
         "code",
         "data",
-        "agents"
+        "writing"
       ]
     },
     {
-      "id": "965b6261-a747-4855-8c0e-47812a404949",
+      "id": "8a531ef1-9185-43cd-8b2b-955c045cc947",
       "name": "openpages",
       "url": "https://github.com/arjunkshah12345-hash/openpages",
       "oneLiner": "Make room for your next idea.",
@@ -99,17 +99,17 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/arjunkshah12345-hash/openpages.git",
       "categories": [
+        "agents",
         "code",
-        "data",
-        "agents"
+        "data"
       ]
     },
     {
-      "id": "622f5caa-50c5-4ed4-88f0-8d83f4004fda",
-      "name": "Beautiful form back end for AI agents",
-      "url": "https://nisuform.com/",
-      "oneLiner": "Point your form at a nisuform URL and you are live.",
-      "description": "No backend. Just a URL.\nPoint your form at a nisuform URL and you are live. No servers, no database, nothing to maintain.\nThe form backend for any website. Point your HTML form at Nisuform, or let your AI agent set it up with one prompt or over MCP. Every submission lands in one clean inbox, with email alerts and built-in spam protection.\nPowered by\nCreate your form under 30 seconds with beautiful",
+      "id": "58792b33-ce9e-4db8-b9b3-efdf113386d8",
+      "name": "AI can clone your indie game",
+      "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
+      "oneLiner": "And that’s really the most important part!",
+      "description": "And that’s really the most important part! The reports of the death of building in public are greatly exaggerated.\nState-of-the-art AI models are undeniably capable\nThere's no getting around the fact that agentic AI is good at operating in all modalities required to make a video game. I’m sure you’ve seen some of those posts: people are using AI to generate an entire game, based on a few reference",
       "pricing": "paid",
       "country": null,
       "quality": 25,
@@ -117,79 +117,97 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "data",
-        "agents"
+        "design",
+        "video"
       ]
     },
     {
-      "id": "0ba94269-7761-4a5c-b858-a1e0764ab1b9",
-      "name": "UsageAtlas(OSS)",
-      "url": "https://usageatlas.com",
-      "oneLiner": "See your tokens, requests, and estimated cost over time.",
-      "description": "USAGE HISTORY\nToday makes more sense\nwith a little history.\nSee your tokens, requests, and estimated cost over time. Compare with the previous period to spot what changed.\nTrack AI coding usage across 14 providers. Token history, available cost estimates, credits, and usage limits in one free, open-source desktop app.\nmacOS, Windows & LinuxNo account needed\n14 providers. One home for the tools you",
+      "id": "1e29b722-ed46-4ddf-b2ec-34a1224a2d50",
+      "name": "ViralReel",
+      "url": "https://www.viralreel.app/",
+      "oneLiner": "Upload two front-facing photos and step into the iconic orange booth — auto lip-sync, gestures and lighting included.",
+      "description": "Original Hotel Lobby12.4M made\n#hotellobbyai is trending1.2M videos made\nMake the viral Hotel Lobby AI template video in 60 seconds\nUpload two front-facing photos and step into the iconic orange booth — auto lip-sync, gestures and lighting included.\n1,240,000+ creators joined this week\nTemplates\nPick a template, upload two photos, done\nEvery template is a tuned variant of the viral format — click ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "image",
+        "video"
+      ]
+    },
+    {
+      "id": "268808c0-eb23-4526-9de2-8245ac763aad",
+      "name": "Solvi 1.0",
+      "url": "https://github.com/solvi-ai/solvi",
+      "oneLiner": "Decision systems you can check.",
+      "description": "Decision systems you can check. You describe what to compute with plain Python functions and checks; a model — an LLM, your own classifier or a small local one — proposes where judgement is needed; solvi's checks decide. Every answer comes with a confidence, a reason you can check (the rule's inputs, a formula over computed facts, or a quote with character offsets in the source) and a hash-chained",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/solvi-ai/solvi",
+      "categories": [
+        "code",
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "8f96ff6f-8e67-462f-b74e-74cad8e0c44d",
+      "name": "Thirds.ai",
+      "url": "https://thirds.ai",
+      "oneLiner": "Start from a designer-made template, or ask ChatGPT or Claude for one, and add your logo and colours.",
+      "description": "On-brand images and PDFs\nBeautiful, on-brand images and PDFs from templates you set up once\nStart from a designer-made template, or ask ChatGPT or Claude for one, and add your logo and colours. From then on, you or your AI assistant make as many new files from it as you need, each one finished and in your brand.\nFree to start. No card needed.\nYour brand\nor\n- 01Pick a template you like\n- 02Add your",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "image"
+      ]
+    },
+    {
+      "id": "96cb0a7d-a291-4b9f-806f-aed398aa5347",
+      "name": "Artbucket",
+      "url": "https://github.com/pwnera/artbucket",
+      "oneLiner": "Your brand's source of truth, open source.",
+      "description": "Your brand's source of truth, open source.\nWhich logo is current? What colors should an agent use? Is this photo cleared for paid social in Germany?\nArtbucket keeps a brand's assets, rules, rights and releases together, and gives the same answer to people, AI agents and code. People read it in the web app and on portals, agents query it over MCP, code consumes it through the API, the CLI and Git.\n",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/pwnera/artbucket.git",
       "categories": [
-        "design",
-        "code"
-      ]
-    },
-    {
-      "id": "e1376fc1-a7ac-4aff-a542-3d1deee8cb44",
-      "name": "Offline NHTSA VIN decoder",
-      "url": "https://github.com/AIKitLLC/nhtsa-edge-api",
-      "oneLiner": "US public data at the edge, served at https://data.",
-      "description": "US public data at the edge, served at https://data.ai-kit.net from Cloudflare Workers.\nThe site is a hub of datasets; the first one is NHTSA's vehicle database (vPIC), decoded\noffline inside the Worker. The repository, Worker and package keep the name\nnhtsa-edge-api\n(renaming a Worker would create a new one and break its URLs).\nThe status list of the site lives in src/routes/landing/hub.ts\n; a dat",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
+        "agents",
         "code",
-        "data"
+        "design"
       ]
     },
     {
-      "id": "a3929d4b-d383-4d04-9622-61c7e5d7f6ad",
-      "name": "Fakeflac-go",
-      "url": "https://github.com/drichline/fakeflac-go",
-      "oneLiner": "A command-line tool to detect \"fake\" lossless audio files and optionally plot their frequency distribution.",
-      "description": "A command-line tool to detect \"fake\" lossless audio files and optionally plot their frequency distribution. Analysis of lossy files is also supported.\nfakeflac-go\nestimates the percentage of the audio spectrum effectively remaining after a bad transcode from a lossy source.\nAlgorithm ported from mevdschee/fakeflac with some adjustments; scores may not match. This algorithm is known to produce fals",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "audio"
-      ]
-    },
-    {
-      "id": "ee51ade3-9872-42ed-ab72-6eb2b4a754d1",
-      "name": "little-chits",
-      "url": "https://github.com/Blackwellboy/little-chits",
-      "oneLiner": "A living artificial civilisation you can watch.",
-      "description": "A living artificial civilisation you can watch. Tiny AI creatures (chits) wake up on an island knowing almost nothing. They get hungry, get cold and grow tired. They experiment with what they find, discover how things combine, build homes and workshops together, teach each other (or can't), have children, grow old, and leave behind a world that remembers them.\nYou can plug any LLM into their minds",
+      "id": "30268b03-5519-43f2-aaa4-eaac86a8a937",
+      "name": "CogniBlock",
+      "url": "https://github.com/CogniBlock/CogniBlock",
+      "oneLiner": "Watch every step run live.",
+      "description": "Drag. Connect. Watch every step run live.\nPlayground · Docs · How it works · X\n- What is CogniBlock?\n- Why it is worth a look\n- By the numbers\n- How a pipeline works\n- The block library\n- Architecture\n- Sharing a pipeline\n- Use the engine as a package\n- Run it yourself\n- Deploy\n- Repository layout\n- Security and privacy\n- What we are exploring next\n- The token\n- Contributing\nCogniBlock makes a pip",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Blackwellboy/little-chits",
+      "githubUrl": "https://github.com/CogniBlock/CogniBlock.git",
       "categories": [
-        "design",
         "code",
-        "agents"
+        "design",
+        "image"
       ]
     },
     {
-      "id": "302ae5c4-de54-4f64-8bd6-7c880657f816",
+      "id": "aa0f658d-4b66-4007-8e26-3a216287f5de",
       "name": "ai-agent-for-pc",
       "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc",
       "oneLiner": "A simple and lightweight AI agent designed to run directly on a Windows PC.",
@@ -200,12 +218,12 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "agents"
+        "agents",
+        "design"
       ]
     },
     {
-      "id": "25e2f318-539a-4281-9362-afb88f28b483",
+      "id": "c1cf523e-3856-469e-9ba7-8a7e946f07d8",
       "name": "nuvex-services",
       "url": "https://github.com/NuvexNetwork/nuvex-services",
       "oneLiner": "Off-chain services for Nuvex.",
@@ -221,7 +239,7 @@
       ]
     },
     {
-      "id": "32187d1e-caba-4ccf-88d0-6586522b77ff",
+      "id": "1ce6e243-d117-4903-96bc-7d1cae92e395",
       "name": "strands-decider",
       "url": "https://github.com/strands-labs/strands-decider",
       "oneLiner": "Strands decider is one of a new class of decision models, or \"system one\" models.",
@@ -232,13 +250,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "writing"
       ]
     },
     {
-      "id": "7fad7e8a-2016-450a-9133-6faf9636451c",
+      "id": "ae9e3247-35a2-4354-b660-7ab10299155c",
       "name": "xiaobai-kanban",
       "url": "https://github.com/webkubor/xiaobai-kanban",
       "oneLiner": "git --version 2>/dev/null && echo \"✅ Git: $(git --version)\" || echo \"❌ Git 未安装 → https://git-scm.",
@@ -253,7 +271,7 @@
       ]
     },
     {
-      "id": "f8c6181a-8de7-4fb1-bd69-8cf283e9d714",
+      "id": "a0925f48-9ac4-43f3-9ce4-23cbd9d50072",
       "name": "bricka",
       "url": "https://github.com/mirayavandiepen/bricka",
       "oneLiner": "A React composer where files, people, tools and commands live inside the message as real tokens.",
@@ -264,30 +282,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "rag"
       ]
     },
     {
-      "id": "33918a20-6a4b-43f5-acb0-ae029da33d41",
-      "name": "seiso",
-      "url": "https://github.com/scarletkc/seiso",
-      "oneLiner": "AI writes project docs faster than anyone can review them, and coding agents read those docs back as context for the next change.",
-      "description": "AI writes project docs faster than anyone can review them, and coding agents read those docs back as context for the next change. People and agents alike take the page at its word, so a stale version number or a field list updated in only one of its three copies misleads all of them. And AI makes the same few mistakes over and over.\nseiso defines one convention for how Markdown in a repository is ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "2aae5f2c-1201-44ce-a995-4cbff062b053",
+      "id": "d79191a7-d5de-4226-90da-2ffd644ba6b1",
       "name": "skills",
       "url": "https://github.com/LMTYdotcom/skills",
       "oneLiner": "Use your AI assistant for competitive work you already do: researching competitors and market shifts, building positioning and messaging, reviewing pricing and launches, creating b",
@@ -298,43 +299,26 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/LMTYdotcom/skills",
       "categories": [
-        "code",
         "agents",
+        "code",
         "search"
       ]
     },
     {
-      "id": "3c4e51bd-023f-4d6c-8bb5-8f03bf2da011",
-      "name": "GhostBench",
-      "url": "https://github.com/kyv-attest/kyv",
-      "oneLiner": "Facts only — no rankings, no scores.",
-      "description": "Signed, banded, machine-verifiable operational facts about a company, published at its own\n/.well-known/attestations.json\n. Ed25519-signed, offline-verifiable, anchored in a daily\ntransparency log. Facts only — no rankings, no scores. Absence never means negative.\nPayments for AI agents have a foundation (x402). Agent identity has one (ANS). Nobody answers the remaining question: is the company on",
+      "id": "090554e8-6ed2-497f-b397-e6676012b8de",
+      "name": "Telegram AI Video Generator",
+      "url": "https://videoall.ai/telegram-ai-video-generator",
+      "oneLiner": "Refined material detail and cinematic texture control for premium narrative scenes.",
+      "description": "Texture-Controlled Storytelling\nRefined material detail and cinematic texture control for premium narrative scenes.\nCreate original videos for Telegram from a text prompt or image. Generate on VideoAll, download the finished clip, then share it to your Telegram channel or group.\nExample Library\nPick the right model for cinematic scenes, nature, character action, and product reveals in the Text-to-",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "b6b43d1a-512b-4e2a-b242-e36e22249852",
-      "name": "Rowan",
-      "url": "https://github.com/hedgerow-dev/rowan",
-      "oneLiner": "Find security issues in your code and AI/ML projects, with evidence you can review.",
-      "description": "Find security issues in your code and AI/ML projects, with evidence you can review.\nRowan reads your project's source code and model files and reports likely vulnerabilities: injection, unsafe deserialization, SSRF, leaked secrets, risky agent tools, unsafe model loading and more. It never runs your code.\nAlpha. Treat every finding as a lead to check, not a confirmed bug. A clean report does not p",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/hedgerow-dev/rowan",
-      "categories": [
-        "design",
-        "code",
-        "agents"
+        "image",
+        "video"
       ]
     }
   ]
