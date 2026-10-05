@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-10-04T11:53:14.618419+00:00",
-  "count": 19,
+  "generatedAt": "2026-10-05T13:49:17.926216+00:00",
+  "count": 30,
   "tools": [
     {
-      "id": "835cbeeb-80b1-4002-b2f8-5028a34a6a35",
+      "id": "f9f894b3-9fef-4dd9-ba4a-72e7d6e09aaa",
+      "name": "pi-forge",
+      "url": "https://github.com/djtoon/pi-forge",
+      "oneLiner": "pi-Forge is an agent harness that builds agent harnesses, on top of pi.",
+      "description": "pi-Forge is an agent harness that builds agent harnesses, on top of pi.\nTell it about your work. It interviews you, then generates a custom agent for that work: specialized tools, a system prompt, guardrails, a theme, a logo, and domain views (a 3D molecule viewer, charts, tables, a pixel-sprite editor…). Every harness it builds runs:\n- in a browser UI with your views, a live plan, and file output",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/djtoon/pi-forge.git",
+      "categories": [
+        "design",
+        "data",
+        "agents"
+      ]
+    },
+    {
+      "id": "9603557b-3119-4314-8662-68e8cf15b230",
       "name": "whirl",
       "url": "https://github.com/whirlchat/whirl",
       "oneLiner": "The AI chat app that sweats the details.",
@@ -20,7 +37,7 @@
       ]
     },
     {
-      "id": "fdc66400-a45d-43e5-bd0d-9643fcc5a8a2",
+      "id": "7cafab45-fb93-4994-846a-f5111aed2cce",
       "name": "ai_goodpractice",
       "url": "https://github.com/xop01/ai_goodpractice",
       "oneLiner": "Enough talking, let's get to it !",
@@ -31,13 +48,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "productivity"
       ]
     },
     {
-      "id": "b3897c0e-e390-4af5-bd5f-c1915aa87a24",
+      "id": "50443a79-1858-4df5-bedd-ccc347062f88",
       "name": "little-chits",
       "url": "https://github.com/Blackwellboy/little-chits",
       "oneLiner": "A living artificial civilisation you can watch.",
@@ -54,7 +71,7 @@
       ]
     },
     {
-      "id": "7db0fbed-5e76-46ce-8b48-3ce94af4014a",
+      "id": "311103be-c306-4868-9d0a-a80faa356d66",
       "name": "Synapass",
       "url": "https://github.com/ShadowSafin/Synapass",
       "oneLiner": "An OpenAI-compatible gateway that decides, per request, which AI provider serves it — and proves it.",
@@ -71,24 +88,7 @@
       ]
     },
     {
-      "id": "6a4b1d2b-02c5-404e-8472-27caf546e9e4",
-      "name": "jevwright",
-      "url": "https://github.com/Ice-Hazymoon/jevwright",
-      "oneLiner": "Browser tests for business flows, written as the steps a user takes.",
-      "description": "Browser tests for business flows, written as the steps a user takes.\njevwright opens your app in Chromium and hands one step at a time to TypeSafe's Jev, which picks the control the step means on the live page. The path it finds is recorded, so later runs replay it without calling a model. The model never decides whether a test passed: your code does, through the requests you declare, your own che",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "writing"
-      ]
-    },
-    {
-      "id": "8a531ef1-9185-43cd-8b2b-955c045cc947",
+      "id": "844dfb4f-c957-4b06-9d41-b0dec5982a1e",
       "name": "openpages",
       "url": "https://github.com/arjunkshah12345-hash/openpages",
       "oneLiner": "Make room for your next idea.",
@@ -99,98 +99,301 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/arjunkshah12345-hash/openpages.git",
       "categories": [
-        "agents",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "58792b33-ce9e-4db8-b9b3-efdf113386d8",
-      "name": "AI can clone your indie game",
-      "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
-      "oneLiner": "And that’s really the most important part!",
-      "description": "And that’s really the most important part! The reports of the death of building in public are greatly exaggerated.\nState-of-the-art AI models are undeniably capable\nThere's no getting around the fact that agentic AI is good at operating in all modalities required to make a video game. I’m sure you’ve seen some of those posts: people are using AI to generate an entire game, based on a few reference",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "video"
-      ]
-    },
-    {
-      "id": "1e29b722-ed46-4ddf-b2ec-34a1224a2d50",
-      "name": "ViralReel",
-      "url": "https://www.viralreel.app/",
-      "oneLiner": "Upload two front-facing photos and step into the iconic orange booth — auto lip-sync, gestures and lighting included.",
-      "description": "Original Hotel Lobby12.4M made\n#hotellobbyai is trending1.2M videos made\nMake the viral Hotel Lobby AI template video in 60 seconds\nUpload two front-facing photos and step into the iconic orange booth — auto lip-sync, gestures and lighting included.\n1,240,000+ creators joined this week\nTemplates\nPick a template, upload two photos, done\nEvery template is a tuned variant of the viral format — click ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "image",
-        "video"
-      ]
-    },
-    {
-      "id": "268808c0-eb23-4526-9de2-8245ac763aad",
-      "name": "Solvi 1.0",
-      "url": "https://github.com/solvi-ai/solvi",
-      "oneLiner": "Decision systems you can check.",
-      "description": "Decision systems you can check. You describe what to compute with plain Python functions and checks; a model — an LLM, your own classifier or a small local one — proposes where judgement is needed; solvi's checks decide. Every answer comes with a confidence, a reason you can check (the rule's inputs, a formula over computed facts, or a quote with character offsets in the source) and a hash-chained",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/solvi-ai/solvi",
-      "categories": [
         "code",
         "data",
-        "security"
+        "agents"
       ]
     },
     {
-      "id": "8f96ff6f-8e67-462f-b74e-74cad8e0c44d",
-      "name": "Thirds.ai",
-      "url": "https://thirds.ai",
-      "oneLiner": "Start from a designer-made template, or ask ChatGPT or Claude for one, and add your logo and colours.",
-      "description": "On-brand images and PDFs\nBeautiful, on-brand images and PDFs from templates you set up once\nStart from a designer-made template, or ask ChatGPT or Claude for one, and add your logo and colours. From then on, you or your AI assistant make as many new files from it as you need, each one finished and in your brand.\nFree to start. No card needed.\nYour brand\nor\n- 01Pick a template you like\n- 02Add your",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "image"
-      ]
-    },
-    {
-      "id": "96cb0a7d-a291-4b9f-806f-aed398aa5347",
-      "name": "Artbucket",
-      "url": "https://github.com/pwnera/artbucket",
-      "oneLiner": "Your brand's source of truth, open source.",
-      "description": "Your brand's source of truth, open source.\nWhich logo is current? What colors should an agent use? Is this photo cleared for paid social in Germany?\nArtbucket keeps a brand's assets, rules, rights and releases together, and gives the same answer to people, AI agents and code. People read it in the web app and on portals, agents query it over MCP, code consumes it through the API, the CLI and Git.\n",
+      "id": "c1f14b4d-bb52-45e5-b53f-0fb0dbecf8cb",
+      "name": "Accept 'bad things' in return for benefits of AI",
+      "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+      "oneLiner": "Sam Altman says he believes the world should accept “bad things” happening with AI in exchange for the benefits of the technology.",
+      "description": "Sam Altman says he believes the world should accept “bad things” happening with AI in exchange for the benefits of the technology.\nThe chief executive of OpenAI cited hacks, scams and “other bad things that will happen” in an interview that sparked an instant backlash from critics of the big AI companies. His comments came after one of his company’s safety experts resigned, saying at the weekend t",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/pwnera/artbucket.git",
+      "githubUrl": null,
       "categories": [
-        "agents",
         "code",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "30268b03-5519-43f2-aaa4-eaac86a8a937",
+      "id": "1d84d367-1c4a-447c-90c9-7c16448f2e15",
+      "name": "Seylo",
+      "url": "https://seylo.co",
+      "oneLiner": "Everything a project gathers.",
+      "description": "Everything a project gathers.In one place.\nSave pictures, pages, notes, files and AI chats into one project. Then let your AI work from all of it.\nWeb · iPhone · Chrome extension\nSave pictures, pages, notes, files and AI chats into one project. Then let your AI work from all of it.\nWeb · iPhone · Chrome extension\nRight-click any picture, page or passage and choose Save to Seylo. In ChatGPT, Claude",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "productivity"
+      ]
+    },
+    {
+      "id": "1b79c7d9-6135-4399-b590-47b018976b31",
+      "name": "Hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "oneLiner": "Hindsight™ is an agent memory system built to create smarter agents that learn over time.",
+      "description": "Hindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on recalling conversation history. Hindsight is focused on making agents that learn, not just remember.\nhindsight-learning-demo.mp4\nIt eliminates the shortcomings of alternative techniques such as RAG and knowledge graph and delivers state-of-the-art performance on long term me",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/vectorize-io/hindsight",
+      "categories": [
+        "code",
+        "data",
+        "agents"
+      ]
+    },
+    {
+      "id": "189bd3f7-849a-4b3c-89ef-e4a2052b1a65",
+      "name": "AcruxCore",
+      "url": "https://github.com/AcruxCore/AcruxCore",
+      "oneLiner": "and see every call, every tool failure and every change.",
+      "description": "Version your prompts and the tools they call, run both through one gateway,\nand see every call, every tool failure and every change.\nWebsite · Docs · Blog · Changelog · Self-hosting\nCreate a prompt · commit a version · attach a tool · run it on a real model · open the trace — one task, start to finish.\nPrompt platforms version the prompt. The tools that a prompt calls usually stay in your code, wi",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/AcruxCore/AcruxCore.git",
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "1caa7b43-8ffd-4b8a-ada7-b27304c66ef7",
+      "name": "Reright.it",
+      "url": "https://reright.it/",
+      "oneLiner": "You want your agents to write your emails, messages, commits, etc.",
+      "description": "Human approval for agent-written text\nYou want your agents to write your emails, messages, commits, etc., but AI writing has become dead simple to spot!\nWith Reright, your agents are forced to send those messages for your approval.\nEach message arrives as an editable draft with all the context you need: what it's about, who will read it, and why the agent wrote it.\nYou can edit it, trim it down (r",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data",
+        "agents"
+      ]
+    },
+    {
+      "id": "6af75967-e1d9-48f7-87cc-e935420b1979",
+      "name": "AI Agents Are Disrupting Open Source Security Disclosure",
+      "url": "https://www.infoq.com/news/2026/10/open-source-ai-security/",
+      "oneLiner": "A recent article by Anil Madhavapeddy argues that AI agents can turn publicly available clues about software vulnerabilities into working exploits, reducing the effectiveness of tr",
+      "description": "A recent article by Anil Madhavapeddy argues that AI agents can turn publicly available clues about software vulnerabilities into working exploits, reducing the effectiveness of traditional disclosure embargoes in open source projects. The author highlights the need for faster patching and release processes as the time between vulnerability disclosure and exploitation shrinks.\nDescribing his exper",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "4bc98c27-b23d-435e-ae45-4449e9fb8fb2",
+      "name": "Decision models remove training",
+      "url": "https://agentunicorn.ai/research/decision-models-production",
+      "oneLiner": "Jev-like Decision Models Make Prototyping Trivial.",
+      "description": "Jev-like Decision Models Make Prototyping Trivial. Production Still Requires ML Engineering\nA reusable decision model can remove task-specific training from the critical path. It cannot remove task specification, representative evidence, calibration, selective automation, replay, monitoring, or change control. What actually changes in the ML lifecycle — and what does not.\nContents\nA reusable decis",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "productivity"
+      ]
+    },
+    {
+      "id": "1a1aac0e-72f9-4559-80d0-25acdc66bd32",
+      "name": "I built a 3D globe of upcoming AI conferences",
+      "url": "https://aieventsworld.com/en/",
+      "oneLiner": "World Summit AI 2026 is an AI summit taking place October 7-8, 2026 at Taets Art & Event Park, Amsterdam.",
+      "description": "Upcoming AI Conferences\n- World Summit AI 2026 – Amsterdam, Netherlands (2026-10-07 to 2026-10-08)\nWorld Summit AI 2026 is an AI summit taking place October 7-8, 2026 at Taets Art & Event Park, Amsterdam.\n- Cypher 2026 – Bengaluru, India (2026-10-07 to 2026-10-09)\nCypher 2026 is the 10th edition of the AI summit and expo taking place October 7-9, 2026 at KTPO Whitefield, Bengaluru.\n- AI Engineer N",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "a3779b5d-5c21-463c-831f-6911b57a7970",
+      "name": "PromptWorkbench",
+      "url": "https://github.com/JoinPolitician/PromptWorkbench",
+      "oneLiner": "A practical workspace for creating, comparing, and documenting AI prompts.",
+      "description": "A practical workspace for creating, comparing, and documenting AI prompts.\nPromptWorkbench is a desktop-oriented AI project focused on practical workflows and straightforward configuration.\n- Prompt collections\n- Prompt versioning\n- Response comparison\n- Reusable variables\n- Prompt export\n- Windows 10 or Windows 11\n- PowerShell 5.1 or newer\n- A compatible AI model, API endpoint, or local runtime\n-",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "productivity",
+        "rag"
+      ]
+    },
+    {
+      "id": "52ef8348-8fcb-4957-b0c0-3fe1dfd1a85a",
+      "name": "LocalModelManager",
+      "url": "https://github.com/RadianceTreasurer/LocalModelManager",
+      "oneLiner": "A desktop utility for organizing locally available AI models and configurations.",
+      "description": "A desktop utility for organizing locally available AI models and configurations.\nLocalModelManager is a desktop-oriented AI project focused on practical workflows and straightforward configuration.\n- Model inventory\n- Configuration profiles\n- Endpoint management\n- Model metadata\n- Runtime diagnostics\n- Windows 10 or Windows 11\n- PowerShell 5.1 or newer\n- A compatible AI model, API endpoint, or loc",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "data",
+        "rag"
+      ]
+    },
+    {
+      "id": "ea13ca14-8e53-4068-81f4-19d18d5832ae",
+      "name": "CodeAssistant",
+      "url": "https://github.com/EnamelMidgeLightning/CodeAssistant",
+      "oneLiner": "A developer utility for organizing AI-assisted coding workflows.",
+      "description": "A developer utility for organizing AI-assisted coding workflows.\nCodeAssistant is a desktop-oriented AI project focused on practical workflows and straightforward configuration.\n- Code explanation\n- Refactoring workflows\n- Error analysis\n- Reusable snippets\n- Configurable AI backend\n- Windows 10 or Windows 11\n- PowerShell 5.1 or newer\n- A compatible AI model, API endpoint, or local runtime\n- Inter",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "f1b45dee-b06a-4fe2-96b7-20305b045851",
+      "name": "AudioLabAI",
+      "url": "https://github.com/FigureEconomic/AudioLabAI",
+      "oneLiner": "A workspace for speech, transcription, and AI-assisted audio workflows.",
+      "description": "A workspace for speech, transcription, and AI-assisted audio workflows.\nAudioLabAI is a desktop-oriented AI project focused on practical workflows and straightforward configuration.\n- Audio management\n- Speech-to-text workflow\n- Transcript editing\n- Speaker notes\n- TXT and SRT export\n- Windows 10 or Windows 11\n- PowerShell 5.1 or newer\n- A compatible AI model, API endpoint, or local runtime\n- Inte",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "productivity",
+        "audio",
+        "voice"
+      ]
+    },
+    {
+      "id": "bf17a7e3-0e60-4e36-ab9d-204a4abf8383",
+      "name": "AIWriter",
+      "url": "https://github.com/TarantulaSmelter/AIWriter",
+      "oneLiner": "A focused writing workspace for drafting, editing, and summarizing text with AI.",
+      "description": "A focused writing workspace for drafting, editing, and summarizing text with AI.\nAIWriter is a desktop-oriented AI project focused on practical workflows and straightforward configuration.\n- Draft editor\n- Rewrite presets\n- Tone adjustment\n- Summarization\n- Markdown export\n- Windows 10 or Windows 11\n- PowerShell 5.1 or newer\n- A compatible AI model, API endpoint, or local runtime\n- Internet access",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "writing",
+        "rag"
+      ]
+    },
+    {
+      "id": "ef54f014-0d80-43e5-9089-448df9702b60",
+      "name": "AIUtilitiesPack",
+      "url": "https://github.com/Goldenchoquest/AIUtilitiesPack",
+      "oneLiner": "A collection of utilities for common AI-assisted desktop workflows.",
+      "description": "A collection of utilities for common AI-assisted desktop workflows.\nAIUtilitiesPack is a desktop-oriented AI project focused on practical workflows and straightforward configuration.\n- Text cleanup\n- Prompt formatter\n- JSON response viewer\n- Markdown converter\n- Workspace tools\n- Windows 10 or Windows 11\n- PowerShell 5.1 or newer\n- A compatible AI model, API endpoint, or local runtime\n- Internet a",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "productivity",
+        "rag"
+      ]
+    },
+    {
+      "id": "4131cbe5-42a3-40bb-89dd-762e668f6125",
+      "name": "AIChatDesktop",
+      "url": "https://github.com/MythicLieutenantFeel/AIChatDesktop",
+      "oneLiner": "A lightweight desktop workspace for interacting with conversational AI models.",
+      "description": "A lightweight desktop workspace for interacting with conversational AI models.\nAIChatDesktop is a desktop-oriented AI project focused on practical workflows and straightforward configuration.\n- Desktop chat interface\n- Conversation history\n- Conversation search\n- Custom system prompts\n- Configurable model endpoint\n- Windows 10 or Windows 11\n- PowerShell 5.1 or newer\n- A compatible AI model, API en",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "productivity",
+        "rag"
+      ]
+    },
+    {
+      "id": "54125ba8-5cca-47be-a76d-27221517eeae",
+      "name": "OpenCardboard",
+      "url": "https://github.com/rakesh0x/OpenCardboard",
+      "oneLiner": "Watch the real timeline update — cuts, captions, beat sync, motion graphics — while your files never leave your machine.",
+      "description": "Drop in raw footage. Describe the edit. Watch the real timeline update — cuts, captions, beat sync, motion graphics — while your files never leave your machine.\nMIT License · macOS / Windows / Linux · Electron + React + ffmpeg\nThe screenshot above is a real session: footage imported, transcribed locally, silence removed, captions generated from the transcript, and the video track re-cut to the bea",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "db6bd863-cbad-406f-ba2d-e7cd7c37cd63",
+      "name": "ai-content-dashboard",
+      "url": "https://github.com/harshith-vaddiparthy/ai-content-dashboard",
+      "oneLiner": "Generate blog posts, newsletters, and real AI video — then manage and track it all from one dashboard.",
+      "description": "Generate blog posts, newsletters, and real AI video — then manage and track it all from one dashboard.\n- Overview\n- Features\n- Tech Stack\n- Architecture\n- Project Structure\n- Getting Started\n- Environment Variables\n- Available Scripts\n- Roadmap\n- Contributing\n- License\nAI Content Dashboard is a single-user web app for creators. It takes you from idea to finished content without leaving the dashboa",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/harshith-vaddiparthy/ai-content-dashboard.git",
+      "categories": [
+        "design",
+        "data",
+        "writing"
+      ]
+    },
+    {
+      "id": "477769e1-8ba9-4552-be24-7b740c5357d0",
       "name": "CogniBlock",
       "url": "https://github.com/CogniBlock/CogniBlock",
       "oneLiner": "Watch every step run live.",
@@ -207,7 +410,7 @@
       ]
     },
     {
-      "id": "aa0f658d-4b66-4007-8e26-3a216287f5de",
+      "id": "72f49878-1bd6-4214-b9ca-16884e87c32e",
       "name": "ai-agent-for-pc",
       "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc",
       "oneLiner": "A simple and lightweight AI agent designed to run directly on a Windows PC.",
@@ -218,12 +421,12 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "c1cf523e-3856-469e-9ba7-8a7e946f07d8",
+      "id": "e9dfb49f-31cc-4cc9-9cd4-b4d7df8b125a",
       "name": "nuvex-services",
       "url": "https://github.com/NuvexNetwork/nuvex-services",
       "oneLiner": "Off-chain services for Nuvex.",
@@ -239,7 +442,7 @@
       ]
     },
     {
-      "id": "1ce6e243-d117-4903-96bc-7d1cae92e395",
+      "id": "724131df-e075-4ebe-8fcf-5f98a2891f94",
       "name": "strands-decider",
       "url": "https://github.com/strands-labs/strands-decider",
       "oneLiner": "Strands decider is one of a new class of decision models, or \"system one\" models.",
@@ -256,7 +459,7 @@
       ]
     },
     {
-      "id": "ae9e3247-35a2-4354-b660-7ab10299155c",
+      "id": "8bd0ca1b-d607-4253-9ff8-970ab9856a72",
       "name": "xiaobai-kanban",
       "url": "https://github.com/webkubor/xiaobai-kanban",
       "oneLiner": "git --version 2>/dev/null && echo \"✅ Git: $(git --version)\" || echo \"❌ Git 未安装 → https://git-scm.",
@@ -271,54 +474,33 @@
       ]
     },
     {
-      "id": "a0925f48-9ac4-43f3-9ce4-23cbd9d50072",
-      "name": "bricka",
-      "url": "https://github.com/mirayavandiepen/bricka",
-      "oneLiner": "A React composer where files, people, tools and commands live inside the message as real tokens.",
-      "description": "A React composer where files, people, tools and commands live inside the message as real tokens.\nBricka (Swedish for a small tile or token, like a game piece or a name tag), pronounced /ˈbrɪkːa/\n, like “BRICK-ah”.\nbricka-github.mp4\nA user types:\nFix @Composer.tsx using @design-system and check /accessibility\nIn a normal textarea that is just a string. In Bricka, Composer.tsx\n, design-system\nand ac",
+      "id": "8748f557-5cd0-4dd4-8027-ed7e2a8b2682",
+      "name": "Twrctrl",
+      "url": "https://twrctrl.com/",
+      "oneLiner": "You work TOWER and GROUND together.",
+      "description": "TUTORIAL\nBy Franklín Andrésson\nVersion dev\nIN DEVELOPMENT\nHOW TO PLAY?\nCONTROLS\nTHE JOB\nYou work TOWER and GROUND together. Click or tap an aircraft on the map, or its strip, to fill the callsign, then type the clearance into RADIO and press Enter.\nThe dropdown lists the legal next words: arrows to pick, Enter to send. The route draws on the map before the clearance goes out, flashing while it is ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "design",
-        "rag"
+        "code"
       ]
     },
     {
-      "id": "d79191a7-d5de-4226-90da-2ffd644ba6b1",
-      "name": "skills",
-      "url": "https://github.com/LMTYdotcom/skills",
-      "oneLiner": "Use your AI assistant for competitive work you already do: researching competitors and market shifts, building positioning and messaging, reviewing pricing and launches, creating b",
-      "description": "Use your AI assistant for competitive work you already do: researching competitors and market shifts, building positioning and messaging, reviewing pricing and launches, creating battlecards, preparing deals, analyzing wins and losses, and keeping sales enablement current.\nAdd the pack once, then ask in plain English, \"Give me this week's competitive briefing.\" Your assistant selects the matching ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/LMTYdotcom/skills",
-      "categories": [
-        "agents",
-        "code",
-        "search"
-      ]
-    },
-    {
-      "id": "090554e8-6ed2-497f-b397-e6676012b8de",
-      "name": "Telegram AI Video Generator",
-      "url": "https://videoall.ai/telegram-ai-video-generator",
-      "oneLiner": "Refined material detail and cinematic texture control for premium narrative scenes.",
-      "description": "Texture-Controlled Storytelling\nRefined material detail and cinematic texture control for premium narrative scenes.\nCreate original videos for Telegram from a text prompt or image. Generate on VideoAll, download the finished clip, then share it to your Telegram channel or group.\nExample Library\nPick the right model for cinematic scenes, nature, character action, and product reveals in the Text-to-",
+      "id": "d7f95aba-0f82-44b7-89c9-5f2d4f65e557",
+      "name": "The Velocity Trap",
+      "url": "https://colineberhardt.github.io/the-velocity-trap/",
+      "oneLiner": "A business fable for the AI age, in the tradition of The Phoenix Project.",
+      "description": "The Velocity Trap\na novella\nA business fable for the AI age, in the tradition of The Phoenix Project.\nA critical blood result goes nowhere, and a doctor’s pager stays silent all night. A junior engineer read every line of the change, and still didn’t know what he’d deleted. A senior engineer wrote the warning down eleven months earlier, and was moved off the team for it. An entire engineering floo",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "image",
-        "video"
+        "agents"
       ]
     }
   ]
