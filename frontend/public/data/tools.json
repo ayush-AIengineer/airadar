@@ -1,9 +1,42 @@
 {
-  "generatedAt": "2026-10-07T12:47:47.600472+00:00",
-  "count": 28,
+  "generatedAt": "2026-10-08T12:56:46.624826+00:00",
+  "count": 33,
   "tools": [
     {
-      "id": "6513ab29-d561-47ac-80c3-4a81a5073a73",
+      "id": "92428858-40d2-4742-81bd-097c0f512113",
+      "name": "zcode-claim-9router",
+      "url": "https://github.com/0xgetz/zcode-claim-9router",
+      "oneLiner": "ai account → mint a ZCode JWT → claim the free Start Plan → connect GLM to 9Router.",
+      "description": "Take an existing z.ai account → mint a ZCode JWT → claim the free Start Plan → connect GLM to 9Router.\nThe whole pipeline runs from a full web console that the bridge injects into your browser — no terminal, no ports, no tunnels. Four pages: Dashboard, Accounts, Capture, Results.\nDashboard — inject → claim → connect, plus a one-click “Run full pipeline”.\nBatch account manager (add / import JSON / ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "productivity"
+      ]
+    },
+    {
+      "id": "bfd494a7-1ae4-4b69-83ab-be0514f3b2ee",
+      "name": "aurelio-finance",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "oneLiner": "Aurelio is a wealth-management and financial-planning app that runs on your own computer, with an AI advisor you can talk to.",
+      "description": "Aurelio is a wealth-management and financial-planning app that runs on your own computer, with an AI advisor you can talk to. Your records are kept on your machine. The AI part is optional: it goes through OpenRouter with your own key.\nYou need Git, Node.js 22 or later and uv. Then:\ngit clone https://github.com/LosaLosSantos/aurelio-finance.git\ncd aurelio-finance\n./start.sh --demo # macOS and Linu",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/LosaLosSantos/aurelio-finance.git",
+      "categories": [
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "b14df707-64e5-412d-975f-875e04b978ef",
       "name": "motionmaxxing",
       "url": "https://github.com/Tejashmakwana/motionmaxxing",
       "oneLiner": "Your keyframes get a face rating: first the default (mid), then the measured version (maxxed).",
@@ -20,7 +53,7 @@
       ]
     },
     {
-      "id": "d8b4a34f-f700-4ffc-8ae6-240170e3afcd",
+      "id": "87ebe0e8-f107-4348-ace9-354d90752d49",
       "name": "openchart",
       "url": "https://github.com/longsurf-ai/openchart",
       "oneLiner": "OpenChart brings AI agents into every step of your investment journey: statistical and technical analysis with code and charts, real-time responses to market events with alerts, op",
@@ -37,16 +70,16 @@
       ]
     },
     {
-      "id": "4e98eb7d-8a8e-4ac4-b787-98f1cc001e8a",
+      "id": "1d42948b-afe2-4205-993a-6dc99ac5ea7a",
       "name": "AiPC",
       "url": "https://github.com/SysikNagibator/AiPC",
       "oneLiner": "This tool is for personal automation and testing on your own machine.",
-      "description": "This tool is for personal automation and testing on your own machine. Do not use it for unauthorized access.\nGive the agent \"this\" — and it gets a real PC.\nScreen, mouse, keyboard, your browser, files, terminal, SSH — via the model's native tools.\nRU README: Russian version · Skills: SKILL.md · IDE matrix: docs/IDES.md\n- What it is\n- Why AiPC\n- Read this first: risks\n- Quick start\n- The\naipc\nmenu ",
+      "description": "This tool is for personal automation and testing on your own machine. Do not use it for unauthorized access.\nGive the agent \"this\" — and it gets a real PC.\nScreen, mouse, keyboard, your browser, files, terminal, SSH — via the model's native tools.\n🌐 Site: aipc.sysik.mom · RU README: Russian version · Skills: SKILL.md · IDE matrix: docs/IDES.md\n- What it is\n- Why AiPC\n- Read this first: risks\n- Qui",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/SysikNagibator/AiPC.git",
+      "githubUrl": null,
       "categories": [
         "code",
         "design",
@@ -54,7 +87,7 @@
       ]
     },
     {
-      "id": "7c86bcf9-5720-4938-b7a4-ea96fb41b9c8",
+      "id": "450a2fa2-a9ce-4ff3-91a9-d3ef2929b61f",
       "name": "pi-forge",
       "url": "https://github.com/djtoon/pi-forge",
       "oneLiner": "pi-Forge is an agent harness that builds agent harnesses, on top of pi.",
@@ -66,12 +99,29 @@
       "githubUrl": "https://github.com/djtoon/pi-forge.git",
       "categories": [
         "design",
-        "data",
-        "agents"
+        "agents",
+        "data"
       ]
     },
     {
-      "id": "86568d8a-1246-4dac-b1f4-36fd1befaf8f",
+      "id": "51e27088-73b7-406d-afd0-47ebeda267db",
+      "name": "vibestart",
+      "url": "https://github.com/VinkyDev/vibestart",
+      "oneLiner": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in.",
+      "description": "Compose. Verify. Ship.\nCompose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in.\nEnglish · 简体中文\nvibestart-launch-en.mp4\nPick each layer in the web studio and copy the command it builds, or answer the prompts in your terminal:\nnpx vibestart-cli my-app\nPaste this command, along with what you want to build, in",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "c93e7131-1155-4b57-a208-e655cfd30f60",
       "name": "ai-domain-name-generator",
       "url": "https://github.com/paveldevyatov/ai-domain-name-generator",
       "oneLiner": "A single, self-contained prompt that turns Claude, ChatGPT, or any other capable AI into a domain name generator and domain availability checker in one.",
@@ -88,7 +138,24 @@
       ]
     },
     {
-      "id": "0392c68a-551e-4ba8-81cb-ea37774a200a",
+      "id": "3073fe10-4a79-45e1-b423-18b63442aae7",
+      "name": "nexus-cloud",
+      "url": "https://github.com/Nexilume-AI/nexus-cloud",
+      "oneLiner": "Try Nexus Cloud online: Explore Nexus Cloud in your browser, or self-host to get started.",
+      "description": "Your Agents. Your models. Your devices.\nEnglish · Chinese\nMotivation · Watch the workflow · Features · Use cases · Quick start · Documentation · Ecosystem downloads · Contributing · Citation\nTry Nexus Cloud online: Explore Nexus Cloud in your browser, or self-host to get started.\nAn Execution Fabric for AI Agents Across Cloud, Edge, and Devices.\nYour files may be on your computer, your next task i",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Nexilume-AI/nexus-cloud.git",
+      "categories": [
+        "code",
+        "agents",
+        "productivity"
+      ]
+    },
+    {
+      "id": "d73cab1a-7e8b-463d-908e-771750c94035",
       "name": "TinyLuma",
       "url": "https://github.com/ThetaCursed/TinyLuma",
       "oneLiner": "Lightweight, native post-processor and batch editor for AI-generated images.",
@@ -105,7 +172,24 @@
       ]
     },
     {
-      "id": "fa9e25f0-f56b-4a4c-88c9-aeedc693762b",
+      "id": "2e09bb91-1c8c-483f-98ed-6a490ca40822",
+      "name": "box",
+      "url": "https://github.com/strands-agents/box",
+      "oneLiner": "Strands Box is an open source sandbox for AI agents.",
+      "description": "Strands Box is an open source sandbox for AI agents. It combines operating-system isolation with semantic policies written in Dogwood, so you can control what agents can access and the conditions under which they can act.\nBox is harness-agnostic. You choose the agent program or binary to run, configure\nits access in box.toml\n, and write its policies in policy.dw\n.\nThe host OS enforces the direct a",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/strands-agents/box.git",
+      "categories": [
+        "code",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "4da57cc3-c548-4bbd-b51a-a1b2da228764",
       "name": "wayvoice",
       "url": "https://github.com/pavlenkosa/wayvoice",
       "oneLiner": "Offline voice typing and speech-to-text for Linux, GNOME and Wayland.",
@@ -122,7 +206,7 @@
       ]
     },
     {
-      "id": "612e4971-e1b6-44bd-8674-e95fa51edf7c",
+      "id": "7a35d3d1-13a0-46e5-a4ea-f49281bfdd45",
       "name": "whirl",
       "url": "https://github.com/whirlchat/whirl",
       "oneLiner": "The AI chat app that sweats the details.",
@@ -139,7 +223,7 @@
       ]
     },
     {
-      "id": "a0c5aea0-99f4-4a17-984f-8ae1bacf82fb",
+      "id": "1d255feb-ac23-4d8a-a768-0ad0488a88ed",
       "name": "ai_goodpractice",
       "url": "https://github.com/xop01/ai_goodpractice",
       "oneLiner": "Enough talking, let's get to it !",
@@ -156,96 +240,28 @@
       ]
     },
     {
-      "id": "5788cb2d-9dd4-47f6-93b2-62aa7791cfff",
-      "name": "little-chits",
-      "url": "https://github.com/Blackwellboy/little-chits",
-      "oneLiner": "A living artificial civilisation you can watch.",
-      "description": "A living artificial civilisation you can watch. Tiny AI creatures (chits) wake up on an island knowing almost nothing. They get hungry, get cold and grow tired. They experiment with what they find, discover how things combine, build homes and workshops together, teach each other (or can't), have children, grow old, and leave behind a world that remembers them.\nYou can plug any LLM into their minds",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Blackwellboy/little-chits",
-      "categories": [
-        "code",
-        "design",
-        "writing"
-      ]
-    },
-    {
-      "id": "133414d5-0590-44a2-a253-60593293ae3c",
-      "name": "ThinkTerm",
-      "url": "https://github.com/RoversX/ThinkTerm",
-      "oneLiner": "⭐ Consider starring ThinkTerm!",
-      "description": "English · 简体中文 · 日本語 · Français · Deutsch\nDownload here - Get the latest release\n🍺 Homebrew (macOS):\nbrew install --cask roversx/tap/thinkterm\n🌐 Website: closex.org/thinkterm\n📚 Documentation: docs.closex.org/thinkterm\n⭐ Consider starring ThinkTerm!\nYour machines fuse into one.\nThinkTerm is an open-source terminal with a built-in multiplexer, written in Rust, built on WezTerm. Its mux server runs y",
+      "id": "a679c7be-382a-443f-b522-3323c7d2efeb",
+      "name": "ai-data-extractor",
+      "url": "https://github.com/nachisama/ai-data-extractor",
+      "oneLiner": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversation",
+      "description": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversations before an app's local database gets cleared.\nAuto-discovers and extracts complete conversation history, including:\n- User messages & assistant responses\n- Code context (file paths, selections, snippets)\n- Code diffs / ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/RoversX/ThinkTerm.git",
-      "categories": [
-        "code",
-        "agents",
-        "productivity"
-      ]
-    },
-    {
-      "id": "f0c960c9-b3bf-41c5-8ff8-49e543d15c81",
-      "name": "Synapass",
-      "url": "https://github.com/ShadowSafin/Synapass",
-      "oneLiner": "An OpenAI-compatible gateway that decides, per request, which AI provider serves it — and proves it.",
-      "description": "An OpenAI-compatible gateway that decides, per request, which AI provider serves it — and proves it.\nRouting · failover · caching · policy · budgets · full request lineage\nQuick start · Documentation · Troubleshooting\nLinux\ncurl -fsSL https://raw.githubusercontent.com/shadowsafin/synapass/main/scripts/install.sh | bash\nmacOS\ncurl -fsSL https://raw.githubusercontent.com/shadowsafin/synapass/main/sc",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "code",
-        "security",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "3d66f928-59f0-419b-8100-6974daaeb04b",
-      "name": "Muse-Skill-Hub",
-      "url": "https://github.com/wahyunuriman999/Muse-Skill-Hub",
-      "oneLiner": "An open, LLM-agnostic capability runtime for AI agents.",
-      "description": "An open, LLM-agnostic capability runtime for AI agents. Define capabilities once. Discover them dynamically. Execute them through typed tools. Enforce permissions at runtime. Keep failures honest. Created by Wahyu Nur Iman.\nGenerated from registry + test suite — do not hand-edit. Run python tools/sync_readme.py\n.\nVersion 2.3.0 · 97 skills · 96 executable drivers (1 honest stubs) · 222 MCP tools · ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "security",
-        "voice"
-      ]
-    },
-    {
-      "id": "22b0eab6-602d-4c4b-b226-9fc7453f3aff",
-      "name": "PanelAlpha Engine",
-      "url": "https://engine.panelalpha.com/",
-      "oneLiner": "Easy for anyone, not just sysadmins.",
-      "description": "Your AI agent running\nyour server. Under Control.\nOpen source. Self-hosted. Easy for anyone, not just sysadmins.\nThree simple steps to set it up. That’s it.\nAll it takes is just one command:\nFollow simple instructions after installation.\nUse your favorite AI agent:\nOne VPS. Multiple projects. Works with anything.\nYour own tools, AI-built projects or open source software you found online.\nIt doesn’",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "agents"
-      ]
-    },
-    {
-      "id": "5a4496ef-d893-40d5-8e2a-33e92c8b5468",
-      "name": "Monolith / an engine-building game about software startups",
-      "url": "https://monolithgame.app/",
-      "oneLiner": "A competitive engine builder where you grow a software company and try to keep it running.",
-      "description": "A competitive engine builder where you grow a software company and try to keep it running.\nNot logged in\nMonolith is built for a big screen. It plays much better in a laptop browser.\nA competitive engine builder where you grow a software company and try to keep it running.\nPermanently delete your account, email, ratings, and agent keys. Past games may remain in anonymized form.\nNothing after a few",
+      "id": "4d48bc0f-f459-47cd-8c4e-be0367446d20",
+      "name": "Momenial for Events",
+      "url": "https://pentas.id/",
+      "oneLiner": "White-label ticketing that lives on your own web address.",
+      "description": "White-label ticketing that lives on your own web address. Keep the brand and the attendee data—and get your first event live in three minutes.\nCreate your eventBuild the whole thing before you sign up—no account or card to start.\nRather talk first? Message us on WhatsApp\nUnlimited events, on every plan.\nFull access to forms, e-tickets, and check-in.\nBank transfer, PayPal and your own gateway — no ",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -253,45 +269,179 @@
       "githubUrl": null,
       "categories": [
         "design",
-        "agents"
+        "marketing"
       ]
     },
     {
-      "id": "b2408a2f-9aae-44ea-8514-79ae8e7d554f",
-      "name": "Chorus",
-      "url": "https://github.com/askchorus/chorus",
-      "oneLiner": "One question, every AI at once.",
-      "description": "One question, every AI at once.\nA native Mac app that puts ChatGPT, Claude, Gemini and more side by side,\nsigned in with the accounts you already have. No API key needed.\n- Side by side — one prompt reaches every AI at once and the answers land next to each other. No tab-hopping.\n- Compare in one click — add any OpenAI-compatible API model and it reads every answer, then lays out where they agree ",
+      "id": "49366095-d51b-4fec-bc76-e874174170e5",
+      "name": "Privatrak",
+      "url": "https://privatrak.com",
+      "oneLiner": "Use the visual Element Picker to track any interaction.",
+      "description": "Product analytics anyone can set up without compromising privacy\nUse the visual Element Picker to track any interaction. No code needed. Conversion funnels, feature tracking, flows, and dashboards, all with zero cookies and zero consent banners.\nFree plan, no credit card needed. The demo needs no sign-up.\n0\nCode needed\n0\nCookies used\n0\nConsent banners\n100%\nGDPR compliant\nDeep product insights. Zer",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "62ecdd5b-4be2-4300-baec-ba370e00624b",
+      "name": "Open-Source DaiDocs now beats Graphify by 218x low tokens",
+      "url": "https://github.com/Kerneta/daidocs",
+      "oneLiner": "Open plain-text memory for AI, covering both your history and your code.",
+      "description": "English · 简体中文\nOpen plain-text memory for AI, covering both your history and your code.\nYour assistant's memory becomes files on your disk that you can open, grep and keep: .dai\nfor documents and session history, .cai\nfor a graph of your code.\nOne of the most complete memory systems there is. Most tools remember one half: either your conversations or your code. This remembers both, in the same pla",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/askchorus/chorus.git",
+      "githubUrl": "https://github.com/Kerneta/daidocs",
       "categories": [
         "code",
-        "design",
-        "security"
+        "agents",
+        "writing"
       ]
     },
     {
-      "id": "283f9d38-a626-4e05-9a02-41e7dd61bd0b",
-      "name": "brow",
-      "url": "https://github.com/efim0v/brow",
-      "oneLiner": "A macOS app that shows the usage and rate limits of every Claude Code account you have, right in the MacBook notch: the 5-hour limit, the weekly limit, and when each resets.",
-      "description": "A macOS app that shows the usage and rate limits of every Claude Code account you have, right in the MacBook notch: the 5-hour limit, the weekly limit, and when each resets. One click signs you in to an account in a browser profile that belongs to that account alone.\nIt is for people who keep several Claude subscriptions and run a separate stream of AI-assisted work on each. Brow shows at a glance",
+      "id": "15ecdc60-937b-4447-9ff2-07cf4e391057",
+      "name": "IsCited",
+      "url": "https://iscited-enzovezzaros-projects.vercel.app",
+      "oneLiner": "When someone asks ChatGPT or Perplexity for a recommendation, does your site get cited — or do your competitors?",
+      "description": "IsCitedFREE SCAN\nIs your site\ninvisible to AI?\nWhen someone asks ChatGPT or Perplexity for a recommendation, does your site get cited — or do your competitors? Scan any domain in 10 seconds and see exactly what AI can't find.\n10 seconds · no signup · free, forever\n1\nWe scan like an AI agent\nllms.txt, robots.txt, sitemap, structured data, speed — everything ChatGPT, Perplexity and Gemini look for.\n",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents"
+      ]
+    },
+    {
+      "id": "b7ffac36-f376-49dd-8a21-4778b81adea5",
+      "name": "Quady3D",
+      "url": "https://quady3d.com",
+      "oneLiner": "Quady3D AI turns images, text, sketches, or multiple views into 3D models you can preview and download.",
+      "description": "- Quality tier: Medium\n- Mesh detail: 500K Triangle\n- File format: GLB\n- Reference matching: Follow reference\nAI 3D Model Generator\nQuady3D AI turns images, text, sketches, or multiple views into 3D models you can preview and download.\nTry basic models · 40 free credits once after email verification.Start with what you have.\nImage to 3D\nTurn one clear reference into an inspectable 3D model.\nStart ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "productivity"
+      ]
+    },
+    {
+      "id": "8cbb6324-36d9-44f4-ba97-a5b319eb5690",
+      "name": "Coding Agent with Cost Saving Built-In",
+      "url": "https://www.wiyomi.com/",
+      "oneLiner": "Ask Wiyomi to code, research, write, or solve.",
+      "description": "01\nGive it a task\nAsk Wiyomi to code, research, write, or solve.\nCode, research, and work more efficiently with built-in strategies that save up to 70% on tokens.\nHow it works\nWiyomi combines built-in strategies, smart routing, and memory to help developers save tokens daily.\n01\nAsk Wiyomi to code, research, write, or solve.\n02\nWiyomi runs the task with smart routing and built-in strategies.\n03\nWi",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "20314fb8-4437-45c1-9562-4e7a4a97c43d",
+      "name": "\"Software is over\"",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "oneLiner": "For a while, those hoping to avoid the difficulty and expense of dealing with Adobe’s Creative Suite have been able to use several free and/or open source alternatives that replica",
+      "description": "For a while, those hoping to avoid the difficulty and expense of dealing with Adobe’s Creative Suite have been able to use several free and/or open source alternatives that replicate some or all of those capabilities. Now, one developer is using AI-powered reverse engineering to mimic the look, feel, and functionality of Adobe’s well-known software with what he hopes will soon be perfect fidelity.",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "image"
+      ]
+    },
+    {
+      "id": "e4f2caf9-6987-4851-8094-e06dfd57eeea",
+      "name": "LLMSchema",
+      "url": "https://github.com/tordrt/LLMSchema",
+      "oneLiner": "Simple database schema docs for LLMs and AI agents.",
+      "description": "Simple database schema docs for LLMs and AI agents.\nLLMSchema extracts database schemas from PostgreSQL, MySQL, and SQLite into simple, concise Markdown documentation. See example output.\nAI coding agents need an accurate understanding of your database schema to work effectively on your application. Without dedicated schema documentation, they often have to reconstruct it from application code and",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "d1fae3e7-070e-4afa-83e2-245e4997638f",
+      "name": "Pluto AI model",
+      "url": "https://github.com/dib-artificial/Pluto",
+      "oneLiner": "Pluto — Talk to your hardware instead of programming it.",
+      "description": "Pluto — Talk to your hardware instead of programming it.\nPluto is a Natural Language system designed to run directly inside microcontrollers (MCUs) and control the hardware from within the chip itself — without requiring traditional programming for every new task.\nPluto is designed to operate with an extremely small memory footprint and can run effectively with approximately 0.5 MB of RAM.\nPluto c",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "rag"
+      ]
+    },
+    {
+      "id": "f160fb86-5a6a-47f1-b5a6-5605807fcff0",
+      "name": "gluon",
+      "url": "https://github.com/fidipro/gluon",
+      "oneLiner": "Gluon is a control platform for coding agents: run Claude Code, Codex, Antigravity, Grok Build, OpenCode and Kimi Code side by side in one terminal frame, on your own API keys or s",
+      "description": "Gluon is a control platform for coding agents: run Claude Code, Codex, Antigravity, Grok Build, OpenCode and Kimi Code side by side in one terminal frame, on your own API keys or subscriptions.\nGluon enables two things:\n- Choosing the most cost-effective agent for each session, within one harness or across several. An agent is a harness × model × effort. Gluon works out a spec with you, then route",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/efim0v/brow.git",
+      "githubUrl": "https://github.com/fidipro/gluon",
       "categories": [
         "code",
-        "design",
+        "agents",
         "security"
       ]
     },
     {
-      "id": "cc203e8c-7304-410c-aa61-b36ad2010ea5",
+      "id": "6c9275d1-dfe4-43d1-902c-35b56b701eff",
+      "name": "grove",
+      "url": "https://github.com/efim0v/grove",
+      "oneLiner": "A macOS menu-bar app for running Claude Code and other AI coding agents on a product that is split across several repositories.",
+      "description": "A macOS menu-bar app for running Claude Code and other AI coding agents on a product that is split across several repositories.\nGrove gives every feature its own workspace: one directory holding a git worktree of each repository. Claude Code starts in that directory and sees one consistent branch of the whole product, so parallel agent sessions never trip over each other's branches. Grove also mov",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/efim0v/grove.git",
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "e9b4b739-cc19-4b9b-a967-dc867214e736",
       "name": "OpenCardboard",
       "url": "https://github.com/rakesh0x/OpenCardboard",
       "oneLiner": "Watch the real timeline update — cuts, captions, beat sync, motion graphics — while your files never leave your machine.",
@@ -308,7 +458,7 @@
       ]
     },
     {
-      "id": "ae93d4c3-8ae2-4e9c-8051-ca73ac8e5a9b",
+      "id": "6b3d41c9-8538-411d-8f90-8e2d3a33071b",
       "name": "ai-content-dashboard",
       "url": "https://github.com/harshith-vaddiparthy/ai-content-dashboard",
       "oneLiner": "Generate blog posts, newsletters, and real AI video — then manage and track it all from one dashboard.",
@@ -320,12 +470,12 @@
       "githubUrl": "https://github.com/harshith-vaddiparthy/ai-content-dashboard.git",
       "categories": [
         "design",
-        "data",
-        "writing"
+        "writing",
+        "data"
       ]
     },
     {
-      "id": "7c37a2e6-07a4-482d-af32-f533dce62256",
+      "id": "6c1d91cc-6c21-40be-82b8-8dac04610f15",
       "name": "CogniBlock",
       "url": "https://github.com/CogniBlock/CogniBlock",
       "oneLiner": "Watch every step run live.",
@@ -342,28 +492,11 @@
       ]
     },
     {
-      "id": "9997c785-51e5-42ce-bcec-ae240c9e2b27",
-      "name": "codex-latex-editor",
-      "url": "https://github.com/Fr0zenWatter/codex-latex-editor",
-      "oneLiner": "Keep your paper beside your Codex conversation.",
-      "description": "Keep your paper beside your Codex conversation. LaTeX Codex opens your source and PDF in the Codex app's right sidebar. Collect annotations, send them together in the main chat, and review the results beside the conversation.\nOnce installed, just ask: “Use latex-codex to open main.tex.” Edit directly or tell Codex what to change; your files save automatically and the PDF updates using your local T",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "rag"
-      ]
-    },
-    {
-      "id": "824a5b30-8f5b-4ec8-9dfc-8e035a0c8f40",
-      "name": "LibLayaX",
-      "url": "https://github.com/DaragonTech/LibLayaX",
-      "oneLiner": "Fast local AI decisions inside your application.",
-      "description": "Fast local AI decisions inside your application. LibLayaX runs the Laya AI model in-process, as an ordinary library, on six platforms: hundreds of decisions per second on a laptop GPU, with no server and no cloud. An unofficial C API library built on laya.cpp. Version 1.0.15.\nLaya is an AI model for decisions: a transformer neural network (ModernBERT-large for English, mmBERT for 100+ languages) t",
+      "id": "6dd4bbfe-c90e-4a6f-bfa2-90e13f845764",
+      "name": "I indexed 166,000 AI agent setups on GitHub",
+      "url": "https://favz.co/",
+      "oneLiner": "Favz reads the agent config checked in to public GitHub repos and counts the MCP servers, skills and plugins in it.",
+      "description": "What people really set up in their AI agents\nFavz reads the agent config checked in to public GitHub repos and counts the MCP servers, skills and plugins in it. Not stars, not posts: what is set up. 166,014 repos so far, and it grows each day.\nThe census: every repo found so far\nSince 2026-09-22 a collector has been looking for every public GitHub repo with AI agent config. This is not the random ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -376,94 +509,28 @@
       ]
     },
     {
-      "id": "13f3dfd6-a736-4c5b-9baf-f499a3cd3853",
-      "name": "Reasons to Dislike AI Coding",
-      "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
-      "oneLiner": "I covered this before in Art or tool?",
-      "description": "Code as Art\nI covered this before in Art or tool? If you think of software as artistic output then generated software isn’t real because it doesn’t have the creative ineffability that’s a sign of true art.\nThere’s no argument against this one except that the people who want software typically aren’t paying for artworks, they’re paying for outcomes. And the outcomes of using a given artefact are th",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "writing"
-      ]
-    },
-    {
-      "id": "9ad51bbc-1c1e-4ffd-b46f-ecc0bb800111",
-      "name": "Forever Junior",
-      "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
-      "oneLiner": "Software engineering is going through an AI revolution we’re all still trying to understand.",
-      "description": "It’s an agentic world.\nSoftware engineering is going through an AI revolution we’re all still trying to understand. For years, we’ve been told software engineers are six months from extinction. Some still believe the job is disappearing. Others say it’s simply changing.\nMy experience says it’s the latter.\nMy fear with AI\nI’ve seen a real shift in priorities for engineers, but the job itself is ver",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "search"
-      ]
-    },
-    {
-      "id": "d4d36b5c-6e6f-4598-bed9-59e25a413ea2",
-      "name": "CloudGrip",
-      "url": "https://github.com/Aliyunazeer/cloudgrip-backend",
-      "oneLiner": "A lightweight, self-hosted AI proxy gateway and dashboard built with Node.",
-      "description": "A lightweight, self-hosted AI proxy gateway and dashboard built with Node.js, Express, and SQLite to manage LLM API budgets and control execution loops.\nRunaway agent loops and unmonitored context reloads can drain your API budget overnight. CloudGrip acts as a local circuit-breaker proxy, enforcing strict budget caps and giving you real-time visibility over your API spend and request logs.\n- Budg",
+      "id": "1222db71-11b1-4c1d-9372-c8d31cc5317e",
+      "name": "Let your AI agents paint big arrows",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "oneLiner": "): one small macOS CLI and an agent skill.",
+      "description": "big-arrow-on-the-screen (bigarrow\n): one small macOS CLI and an agent skill. Click-through, never steals the focus, gone by itself. MIT.\nYour AI agent can refactor a monorepo, write a migration and explain monads, but when it needs you to click one button it prints \"please click Allow in the dialog\" into a terminal you are not looking at.\nbigarrow\ngives it a finger.\nbigarrow point --element \"Allow",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Aliyunazeer/cloudgrip-backend.git",
-      "categories": [
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "fa32bed5-e8c9-4aed-917b-ff3d3fdf008f",
-      "name": "The two halves of the AI software wave",
-      "url": "https://www.modernpath.ai/blog/future-of-software-agentic-engineering",
-      "oneLiner": "What does the future of software look like?",
-      "description": "What does the future of software look like?\nHow AI is changing both how software is built and what software does?\nIf we look things from first-principles, given the pressures that are actually acting on software right now: let's consider what the software end game must look like. If the reasoning is sound, the shape it points at should be less like a bet and more like the only door left open.\nTwo ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/openclaw/Peekaboo",
       "categories": [
         "code",
         "design",
-        "data"
+        "agents"
       ]
     },
     {
-      "id": "721afc13-0477-4b57-a9d9-8eeb8daaca6b",
-      "name": "GitHub Action to check AI-written code changes no files",
-      "url": "https://github.com/yuyuyuyuyu-dev/assert-no-unexpected-changes",
-      "oneLiner": "This action asserts that your desktop app, CLI tool or anything else makes no unexpected changes.",
-      "description": "This action asserts that your desktop app, CLI tool or anything else makes no unexpected changes.\nTable of Contents\nThis GitHub Action was built to verify that code an AI wrote does nothing \"strange\", treating the code as a black box.\nI was about to post on social media that I had built a desktop app when a thought stopped me: if I say an AI built it, some people are going to worry that it will do",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "image"
-      ]
-    },
-    {
-      "id": "6c41ffa5-9466-44c6-8bc0-2e57510382d4",
-      "name": "Slopguesser",
-      "url": "https://slopguesser.dev",
-      "oneLiner": "Skip to contentCan you tell who wrote the code – AI or human?",
-      "description": "Skip to contentCan you tell who wrote the code – AI or human?\n111 players\n- segfaultCoder67\n- vibeCoder43\n- QuantumIntern44\n- nestedIntern78\n- LazyMerger29\n- recursiveWhisperer79\n- hotfixNinja67\n- mutexDeployer42\n- RubberDuck47\n- VerboseGoblin34\n- vibeReviewer28\n- LegacyMerger96\n- GreedyDebugger82\n- undefinedLinter88\n- HotfixGoblin43\n- caffeinatedGoblin48\n- verboseReviewer45\n- MutexTypist16\n- depr",
+      "id": "0b3a2cca-de31-4888-b7aa-ed57f8642152",
+      "name": "Staffcoder",
+      "url": "https://www.staffcoder.com",
+      "oneLiner": "Staffcoder is a hands-on coding environment where developers solve real engineering problems, from modern frameworks to DevOps tooling, inside a professional IDE.",
+      "description": "Staffcoder is a hands-on coding environment where developers solve real engineering problems, from modern frameworks to DevOps tooling, inside a professional IDE. 1000+ challenges across 40+ learning paths.\nPractice inside real frameworks instead of isolated algorithms. Every challenge runs in a live environment (React, Next.js, Vue, Django), just like the job.\nWork on full-stack architecture and ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -471,6 +538,23 @@
       "githubUrl": null,
       "categories": [
         "code"
+      ]
+    },
+    {
+      "id": "28c3e1ad-6690-481e-b712-9356eca3cb14",
+      "name": "Proton Drive for Linux",
+      "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+      "oneLiner": "A FUSE virtual filesystem that mounts Proton Drive as a local folder on Linux.",
+      "description": "proton-drive-linux-fs¶\nA FUSE virtual filesystem that mounts Proton Drive as a local folder on Linux.\nWhat it does¶\nThis package mounts your Proton Drive at a directory you choose. All the files and folders are listed from Proton's metadata directly. But we also don't download the file content from all your files either, instead the files are downloaded on demand when you read them. This is a \"laz",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "writing",
+        "data"
       ]
     }
   ]
