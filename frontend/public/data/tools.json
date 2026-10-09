@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T12:56:46.624826+00:00",
-  "count": 33,
+  "generatedAt": "2026-10-09T12:42:37.315945+00:00",
+  "count": 24,
   "tools": [
     {
-      "id": "92428858-40d2-4742-81bd-097c0f512113",
+      "id": "bc58cda7-f894-4349-9ab3-fde7aefb825f",
       "name": "zcode-claim-9router",
       "url": "https://github.com/0xgetz/zcode-claim-9router",
       "oneLiner": "ai account → mint a ZCode JWT → claim the free Start Plan → connect GLM to 9Router.",
@@ -20,23 +20,7 @@
       ]
     },
     {
-      "id": "bfd494a7-1ae4-4b69-83ab-be0514f3b2ee",
-      "name": "aurelio-finance",
-      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-      "oneLiner": "Aurelio is a wealth-management and financial-planning app that runs on your own computer, with an AI advisor you can talk to.",
-      "description": "Aurelio is a wealth-management and financial-planning app that runs on your own computer, with an AI advisor you can talk to. Your records are kept on your machine. The AI part is optional: it goes through OpenRouter with your own key.\nYou need Git, Node.js 22 or later and uv. Then:\ngit clone https://github.com/LosaLosSantos/aurelio-finance.git\ncd aurelio-finance\n./start.sh --demo # macOS and Linu",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/LosaLosSantos/aurelio-finance.git",
-      "categories": [
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "b14df707-64e5-412d-975f-875e04b978ef",
+      "id": "56797dc7-8f9a-4224-9f54-3ed317e0c04d",
       "name": "motionmaxxing",
       "url": "https://github.com/Tejashmakwana/motionmaxxing",
       "oneLiner": "Your keyframes get a face rating: first the default (mid), then the measured version (maxxed).",
@@ -53,7 +37,24 @@
       ]
     },
     {
-      "id": "87ebe0e8-f107-4348-ace9-354d90752d49",
+      "id": "168065a5-2cc2-4fcb-a4b1-0570a19ac27c",
+      "name": "markov",
+      "url": "https://github.com/ienapliss/markov",
+      "oneLiner": "A general-purpose LLM harness and coding agent implemented as a single, hackable Bash script.",
+      "description": "A general-purpose LLM harness and coding agent implemented as a single, hackable Bash script.\nMarkov\nworks with just curl\n, jq, and very common Unix utilities as its\ndependencies, so you can download the script file and run it right away,\nprovided you have Bash 5+.\nFor markov\n, everything else is OSP\n(On-Site Procurement).\nMarkov\ninfiltrates your system without any other baggage, working only with",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "9068325c-38ad-4f97-9b32-2d2ae9893ba6",
       "name": "openchart",
       "url": "https://github.com/longsurf-ai/openchart",
       "oneLiner": "OpenChart brings AI agents into every step of your investment journey: statistical and technical analysis with code and charts, real-time responses to market events with alerts, op",
@@ -64,13 +65,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/longsurf-ai/openchart.git",
       "categories": [
+        "agents",
         "code",
-        "design",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "1d42948b-afe2-4205-993a-6dc99ac5ea7a",
+      "id": "6756c90d-d0f1-4b9d-b198-a0fb0c7e5ee3",
       "name": "AiPC",
       "url": "https://github.com/SysikNagibator/AiPC",
       "oneLiner": "This tool is for personal automation and testing on your own machine.",
@@ -82,12 +83,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "audio"
+        "audio",
+        "design"
       ]
     },
     {
-      "id": "450a2fa2-a9ce-4ff3-91a9-d3ef2929b61f",
+      "id": "e62b0cbd-4151-42ee-bbd4-0c23b64579a5",
       "name": "pi-forge",
       "url": "https://github.com/djtoon/pi-forge",
       "oneLiner": "pi-Forge is an agent harness that builds agent harnesses, on top of pi.",
@@ -98,13 +99,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/djtoon/pi-forge.git",
       "categories": [
-        "design",
         "agents",
-        "data"
+        "data",
+        "design"
       ]
     },
     {
-      "id": "51e27088-73b7-406d-afd0-47ebeda267db",
+      "id": "1c9459fc-541a-409b-958a-f97829e9ca90",
       "name": "vibestart",
       "url": "https://github.com/VinkyDev/vibestart",
       "oneLiner": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in.",
@@ -115,13 +116,30 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "c93e7131-1155-4b57-a208-e655cfd30f60",
+      "id": "9d7cbe79-9110-4f52-8b04-29459fc5e762",
+      "name": "shioriai2api",
+      "url": "https://github.com/0xgetz/shioriai2api",
+      "oneLiner": "ai into an OpenAI-compatible API.",
+      "description": "Turn shiori.ai into an OpenAI-compatible API.\nA lightweight, dependency-free Go proxy that speaks the OpenAI Chat Completions protocol.\nshioriai2api\nwraps the shiori.ai web app behind a clean,\nOpenAI-compatible HTTP API. It is written in pure Go using only the standard\nlibrary, so it ships as a single static binary with no runtime dependencies.\nPoint any OpenAI client at it — Cherry Studio, LobeCh",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "9db2bee3-7fd0-421c-8525-b3c9e1419247",
       "name": "ai-domain-name-generator",
       "url": "https://github.com/paveldevyatov/ai-domain-name-generator",
       "oneLiner": "A single, self-contained prompt that turns Claude, ChatGPT, or any other capable AI into a domain name generator and domain availability checker in one.",
@@ -132,13 +150,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "search"
       ]
     },
     {
-      "id": "3073fe10-4a79-45e1-b423-18b63442aae7",
+      "id": "ba0f560a-4c08-4988-8a52-3256c015fd49",
       "name": "nexus-cloud",
       "url": "https://github.com/Nexilume-AI/nexus-cloud",
       "oneLiner": "Try Nexus Cloud online: Explore Nexus Cloud in your browser, or self-host to get started.",
@@ -149,13 +167,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/Nexilume-AI/nexus-cloud.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "productivity"
       ]
     },
     {
-      "id": "d73cab1a-7e8b-463d-908e-771750c94035",
+      "id": "aedda891-e587-4283-8cc7-8790844a2c22",
       "name": "TinyLuma",
       "url": "https://github.com/ThetaCursed/TinyLuma",
       "oneLiner": "Lightweight, native post-processor and batch editor for AI-generated images.",
@@ -172,75 +190,7 @@
       ]
     },
     {
-      "id": "2e09bb91-1c8c-483f-98ed-6a490ca40822",
-      "name": "box",
-      "url": "https://github.com/strands-agents/box",
-      "oneLiner": "Strands Box is an open source sandbox for AI agents.",
-      "description": "Strands Box is an open source sandbox for AI agents. It combines operating-system isolation with semantic policies written in Dogwood, so you can control what agents can access and the conditions under which they can act.\nBox is harness-agnostic. You choose the agent program or binary to run, configure\nits access in box.toml\n, and write its policies in policy.dw\n.\nThe host OS enforces the direct a",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/strands-agents/box.git",
-      "categories": [
-        "code",
-        "agents",
-        "security"
-      ]
-    },
-    {
-      "id": "4da57cc3-c548-4bbd-b51a-a1b2da228764",
-      "name": "wayvoice",
-      "url": "https://github.com/pavlenkosa/wayvoice",
-      "oneLiner": "Offline voice typing and speech-to-text for Linux, GNOME and Wayland.",
-      "description": "Offline voice typing and speech-to-text for Linux, GNOME and Wayland.\nPress a hotkey, speak naturally, and WayVoice turns your speech into text in the app you're already using.\nInstall · How it works · Recognition engines · CLI · Privacy\nWayVoice is an open-source Linux dictation app for system-wide voice input. Instead of opening a separate transcription window, you put the cursor where you want ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "voice"
-      ]
-    },
-    {
-      "id": "7a35d3d1-13a0-46e5-a4ea-f49281bfdd45",
-      "name": "whirl",
-      "url": "https://github.com/whirlchat/whirl",
-      "oneLiner": "The AI chat app that sweats the details.",
-      "description": "The AI chat app that sweats the details. Every top model, real memory,\nliving documents, and your own tools, in one fast and friendly place.\nwhirl.chat · Self-hosting · Architecture · Contributing\nWhirl is a full-stack AI chat app built on Next.js and Convex. It's the code behind whirl.chat, published in full under the MIT license. Read it, run your own, or help make it better.\n- Every top model i",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/whirlchat/whirl.git",
-      "categories": [
-        "code",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "1d255feb-ac23-4d8a-a768-0ad0488a88ed",
-      "name": "ai_goodpractice",
-      "url": "https://github.com/xop01/ai_goodpractice",
-      "oneLiner": "Enough talking, let's get to it !",
-      "description": "This guide is fully hand-written, there is zero prompting involved in the thinking or creation of this guide, i have the belief that AI could never express my own thoughts and lifestyle as good as me no matter how well he is prompted\nEverything shared in this guide is simply my own experience and views, please think for yourself and see if this guide speaks to you, if it does i would love if you s",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "productivity"
-      ]
-    },
-    {
-      "id": "a679c7be-382a-443f-b522-3323c7d2efeb",
+      "id": "c38c7ca1-e0a8-4d3f-8527-02ec7dcac859",
       "name": "ai-data-extractor",
       "url": "https://github.com/nachisama/ai-data-extractor",
       "oneLiner": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversation",
@@ -251,116 +201,33 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "4d48bc0f-f459-47cd-8c4e-be0367446d20",
-      "name": "Momenial for Events",
-      "url": "https://pentas.id/",
-      "oneLiner": "White-label ticketing that lives on your own web address.",
-      "description": "White-label ticketing that lives on your own web address. Keep the brand and the attendee data—and get your first event live in three minutes.\nCreate your eventBuild the whole thing before you sign up—no account or card to start.\nRather talk first? Message us on WhatsApp\nUnlimited events, on every plan.\nFull access to forms, e-tickets, and check-in.\nBank transfer, PayPal and your own gateway — no ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "marketing"
-      ]
-    },
-    {
-      "id": "49366095-d51b-4fec-bc76-e874174170e5",
-      "name": "Privatrak",
-      "url": "https://privatrak.com",
-      "oneLiner": "Use the visual Element Picker to track any interaction.",
-      "description": "Product analytics anyone can set up without compromising privacy\nUse the visual Element Picker to track any interaction. No code needed. Conversion funnels, feature tracking, flows, and dashboards, all with zero cookies and zero consent banners.\nFree plan, no credit card needed. The demo needs no sign-up.\n0\nCode needed\n0\nCookies used\n0\nConsent banners\n100%\nGDPR compliant\nDeep product insights. Zer",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "security"
-      ]
-    },
-    {
-      "id": "62ecdd5b-4be2-4300-baec-ba370e00624b",
-      "name": "Open-Source DaiDocs now beats Graphify by 218x low tokens",
-      "url": "https://github.com/Kerneta/daidocs",
-      "oneLiner": "Open plain-text memory for AI, covering both your history and your code.",
-      "description": "English · 简体中文\nOpen plain-text memory for AI, covering both your history and your code.\nYour assistant's memory becomes files on your disk that you can open, grep and keep: .dai\nfor documents and session history, .cai\nfor a graph of your code.\nOne of the most complete memory systems there is. Most tools remember one half: either your conversations or your code. This remembers both, in the same pla",
-      "pricing": "free",
+      "id": "3ae8a443-8d45-4b51-a973-4aeac0bfd8cf",
+      "name": "aurelio-finance",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "oneLiner": "Aurelio is a wealth-management and financial-planning app that runs on your own computer, with an AI advisor you can talk to.",
+      "description": "Aurelio is a wealth-management and financial-planning app that runs on your own computer, with an AI advisor you can talk to. Your records are kept on your machine. The AI part is optional: it goes through OpenRouter with your own key.\nYou need Git, Node.js 22 or later and uv. Then:\ngit clone https://github.com/LosaLosSantos/aurelio-finance.git\ncd aurelio-finance\n./start.sh --demo # macOS and Linu",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Kerneta/daidocs",
+      "githubUrl": "https://github.com/LosaLosSantos/aurelio-finance.git",
       "categories": [
         "code",
-        "agents",
-        "writing"
+        "data"
       ]
     },
     {
-      "id": "15ecdc60-937b-4447-9ff2-07cf4e391057",
-      "name": "IsCited",
-      "url": "https://iscited-enzovezzaros-projects.vercel.app",
-      "oneLiner": "When someone asks ChatGPT or Perplexity for a recommendation, does your site get cited — or do your competitors?",
-      "description": "IsCitedFREE SCAN\nIs your site\ninvisible to AI?\nWhen someone asks ChatGPT or Perplexity for a recommendation, does your site get cited — or do your competitors? Scan any domain in 10 seconds and see exactly what AI can't find.\n10 seconds · no signup · free, forever\n1\nWe scan like an AI agent\nllms.txt, robots.txt, sitemap, structured data, speed — everything ChatGPT, Perplexity and Gemini look for.\n",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents"
-      ]
-    },
-    {
-      "id": "b7ffac36-f376-49dd-8a21-4778b81adea5",
-      "name": "Quady3D",
-      "url": "https://quady3d.com",
-      "oneLiner": "Quady3D AI turns images, text, sketches, or multiple views into 3D models you can preview and download.",
-      "description": "- Quality tier: Medium\n- Mesh detail: 500K Triangle\n- File format: GLB\n- Reference matching: Follow reference\nAI 3D Model Generator\nQuady3D AI turns images, text, sketches, or multiple views into 3D models you can preview and download.\nTry basic models · 40 free credits once after email verification.Start with what you have.\nImage to 3D\nTurn one clear reference into an inspectable 3D model.\nStart ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "productivity"
-      ]
-    },
-    {
-      "id": "8cbb6324-36d9-44f4-ba97-a5b319eb5690",
-      "name": "Coding Agent with Cost Saving Built-In",
-      "url": "https://www.wiyomi.com/",
-      "oneLiner": "Ask Wiyomi to code, research, write, or solve.",
-      "description": "01\nGive it a task\nAsk Wiyomi to code, research, write, or solve.\nCode, research, and work more efficiently with built-in strategies that save up to 70% on tokens.\nHow it works\nWiyomi combines built-in strategies, smart routing, and memory to help developers save tokens daily.\n01\nAsk Wiyomi to code, research, write, or solve.\n02\nWiyomi runs the task with smart routing and built-in strategies.\n03\nWi",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "20314fb8-4437-45c1-9562-4e7a4a97c43d",
-      "name": "\"Software is over\"",
-      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-      "oneLiner": "For a while, those hoping to avoid the difficulty and expense of dealing with Adobe’s Creative Suite have been able to use several free and/or open source alternatives that replica",
-      "description": "For a while, those hoping to avoid the difficulty and expense of dealing with Adobe’s Creative Suite have been able to use several free and/or open source alternatives that replicate some or all of those capabilities. Now, one developer is using AI-powered reverse engineering to mimic the look, feel, and functionality of Adobe’s well-known software with what he hopes will soon be perfect fidelity.",
+      "id": "16d8cffc-3a2c-4eea-8c72-0495bd9cb52a",
+      "name": "affectui",
+      "url": "https://github.com/flohoeller/affectui",
+      "oneLiner": "You signed in with another tab or window.",
+      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nStar17 (17)You must be signed in to star a repository\nAbout\nHandcrafted React components, illustrations and motion for AI products. One file each, calm motion, da",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -369,62 +236,94 @@
       "categories": [
         "code",
         "design",
-        "image"
+        "writing"
       ]
     },
     {
-      "id": "e4f2caf9-6987-4851-8094-e06dfd57eeea",
-      "name": "LLMSchema",
-      "url": "https://github.com/tordrt/LLMSchema",
-      "oneLiner": "Simple database schema docs for LLMs and AI agents.",
-      "description": "Simple database schema docs for LLMs and AI agents.\nLLMSchema extracts database schemas from PostgreSQL, MySQL, and SQLite into simple, concise Markdown documentation. See example output.\nAI coding agents need an accurate understanding of your database schema to work effectively on your application. Without dedicated schema documentation, they often have to reconstruct it from application code and",
+      "id": "0fe0c93e-3273-46c8-ab50-1febe0c2a401",
+      "name": "I let Claude refactor my old game",
+      "url": "https://github.com/victorqribeiro/aimAndShoot",
+      "oneLiner": "You're Nole Ksum (the k is silent), a citizen concern about the uprising of the machine who decided to take matters into your own hands and put an end to all artificial intelligenc",
+      "description": "You're Nole Ksum (the k is silent), a citizen concern about the uprising of the machine who decided to take matters into your own hands and put an end to all artificial intelligence. You must kill all the evil robots controlled by Neural Networks and stop them from evolving into more dangerous beings. The entire human race counts on you, don't let them down.\nPlay it here\nw, a, s, d - Move the play",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "d24fa2ff-91ee-416b-90ac-cee3312e0b29",
+      "name": "SpectroMood",
+      "url": "https://github.com/ketul93/spectromood",
+      "oneLiner": "Speech emotion detection with a decision model.",
+      "description": "Speech emotion detection with a decision model. Turn a voice into labelled plots and plain-language measurements, then let Cloudflare Clef decide how the speaker feels.\nDashboard playing benchmark clips through a virtual microphone; results are clef-flash's real answers.\nSpectroMood is an open experiment: can a general-purpose decision model, which was never trained on audio, recognise emotion in ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/ketul93/spectromood.git",
+      "categories": [
         "code",
+        "voice",
+        "audio"
+      ]
+    },
+    {
+      "id": "a75ae524-5f87-47cd-a36a-b98b955abeec",
+      "name": "Welcome to Gemini at Work 2026",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+      "oneLiner": "Editor’s note: This article is adapted from Thomas Kurian’s keynote address at Gemini at Work 2026.",
+      "description": "Welcome to Gemini at Work 2026: Introducing the Gemini agent\nThomas Kurian\nCEO, Google Cloud\nEditor’s note: This article is adapted from Thomas Kurian’s keynote address at Gemini at Work 2026. It includes a number of announcements:\n-\nGemini, a single, universal agent for work that answers your questions, handles your knowledge work, creates your images and media, and writes and runs code.\n-\nInline",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "d1fae3e7-070e-4afa-83e2-245e4997638f",
-      "name": "Pluto AI model",
-      "url": "https://github.com/dib-artificial/Pluto",
-      "oneLiner": "Pluto — Talk to your hardware instead of programming it.",
-      "description": "Pluto — Talk to your hardware instead of programming it.\nPluto is a Natural Language system designed to run directly inside microcontrollers (MCUs) and control the hardware from within the chip itself — without requiring traditional programming for every new task.\nPluto is designed to operate with an extremely small memory footprint and can run effectively with approximately 0.5 MB of RAM.\nPluto c",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "rag"
-      ]
-    },
-    {
-      "id": "f160fb86-5a6a-47f1-b5a6-5605807fcff0",
+      "id": "e4b8138f-258b-4dfb-a294-db942925ac9c",
       "name": "gluon",
       "url": "https://github.com/fidipro/gluon",
-      "oneLiner": "Gluon is a control platform for coding agents: run Claude Code, Codex, Antigravity, Grok Build, OpenCode and Kimi Code side by side in one terminal frame, on your own API keys or s",
-      "description": "Gluon is a control platform for coding agents: run Claude Code, Codex, Antigravity, Grok Build, OpenCode and Kimi Code side by side in one terminal frame, on your own API keys or subscriptions.\nGluon enables two things:\n- Choosing the most cost-effective agent for each session, within one harness or across several. An agent is a harness × model × effort. Gluon works out a spec with you, then route",
+      "oneLiner": "Gluon is a control platform for coding agents.",
+      "description": "Gluon is a control platform for coding agents. It lets you:\n- Choose the most cost-effective combination of harness × model × effort for each session. Gluon works out a spec with you, then routes with configurable rules.\n- Manage your agents' sessions, with cost and context observability and analytics.\n- Run Claude Code, Codex, Antigravity, Grok Build, OpenCode and Kimi Code side by side in one te",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
       "githubUrl": "https://github.com/fidipro/gluon",
       "categories": [
-        "code",
         "agents",
+        "code",
         "security"
       ]
     },
     {
-      "id": "6c9275d1-dfe4-43d1-902c-35b56b701eff",
+      "id": "8d211107-f368-42f2-8159-3c6812a51313",
+      "name": "brow",
+      "url": "https://github.com/efim0v/brow",
+      "oneLiner": "A macOS app that shows the usage and rate limits of every Claude Code account you have, right in the MacBook notch: the 5-hour limit, the weekly limit, and when each resets.",
+      "description": "A macOS app that shows the usage and rate limits of every Claude Code account you have, right in the MacBook notch: the 5-hour limit, the weekly limit, and when each resets. One click signs you in to an account in a browser profile that belongs to that account alone.\nIt is for people who keep several Claude subscriptions and run a separate stream of AI-assisted work on each. Brow shows at a glance",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/efim0v/brow.git",
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "a7fa358a-1dc2-41eb-932f-f0e660b6a367",
       "name": "grove",
       "url": "https://github.com/efim0v/grove",
       "oneLiner": "A macOS menu-bar app for running Claude Code and other AI coding agents on a product that is split across several repositories.",
@@ -435,13 +334,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/efim0v/grove.git",
       "categories": [
+        "agents",
         "code",
-        "design",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "e9b4b739-cc19-4b9b-a967-dc867214e736",
+      "id": "9a22a21a-2d60-46ed-b7a0-3fb430e8d19c",
       "name": "OpenCardboard",
       "url": "https://github.com/rakesh0x/OpenCardboard",
       "oneLiner": "Watch the real timeline update — cuts, captions, beat sync, motion graphics — while your files never leave your machine.",
@@ -453,12 +352,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "data"
+        "data",
+        "design"
       ]
     },
     {
-      "id": "6b3d41c9-8538-411d-8f90-8e2d3a33071b",
+      "id": "66f7d3c6-fcb5-4135-b0c2-a38472c09abb",
       "name": "ai-content-dashboard",
       "url": "https://github.com/harshith-vaddiparthy/ai-content-dashboard",
       "oneLiner": "Generate blog posts, newsletters, and real AI video — then manage and track it all from one dashboard.",
@@ -469,13 +368,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/harshith-vaddiparthy/ai-content-dashboard.git",
       "categories": [
+        "data",
         "design",
-        "writing",
-        "data"
+        "writing"
       ]
     },
     {
-      "id": "6c1d91cc-6c21-40be-82b8-8dac04610f15",
+      "id": "730987b2-3e8c-4152-b3bb-b3ec88ec52ff",
       "name": "CogniBlock",
       "url": "https://github.com/CogniBlock/CogniBlock",
       "oneLiner": "Watch every step run live.",
@@ -492,24 +391,7 @@
       ]
     },
     {
-      "id": "6dd4bbfe-c90e-4a6f-bfa2-90e13f845764",
-      "name": "I indexed 166,000 AI agent setups on GitHub",
-      "url": "https://favz.co/",
-      "oneLiner": "Favz reads the agent config checked in to public GitHub repos and counts the MCP servers, skills and plugins in it.",
-      "description": "What people really set up in their AI agents\nFavz reads the agent config checked in to public GitHub repos and counts the MCP servers, skills and plugins in it. Not stars, not posts: what is set up. 166,014 repos so far, and it grows each day.\nThe census: every repo found so far\nSince 2026-09-22 a collector has been looking for every public GitHub repo with AI agent config. This is not the random ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "1222db71-11b1-4c1d-9372-c8d31cc5317e",
+      "id": "d741b5f3-8c0e-4cd2-b6bf-204f6d99f407",
       "name": "Let your AI agents paint big arrows",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "oneLiner": "): one small macOS CLI and an agent skill.",
@@ -520,41 +402,9 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/openclaw/Peekaboo",
       "categories": [
+        "agents",
         "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "0b3a2cca-de31-4888-b7aa-ed57f8642152",
-      "name": "Staffcoder",
-      "url": "https://www.staffcoder.com",
-      "oneLiner": "Staffcoder is a hands-on coding environment where developers solve real engineering problems, from modern frameworks to DevOps tooling, inside a professional IDE.",
-      "description": "Staffcoder is a hands-on coding environment where developers solve real engineering problems, from modern frameworks to DevOps tooling, inside a professional IDE. 1000+ challenges across 40+ learning paths.\nPractice inside real frameworks instead of isolated algorithms. Every challenge runs in a live environment (React, Next.js, Vue, Django), just like the job.\nWork on full-stack architecture and ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "28c3e1ad-6690-481e-b712-9356eca3cb14",
-      "name": "Proton Drive for Linux",
-      "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
-      "oneLiner": "A FUSE virtual filesystem that mounts Proton Drive as a local folder on Linux.",
-      "description": "proton-drive-linux-fs¶\nA FUSE virtual filesystem that mounts Proton Drive as a local folder on Linux.\nWhat it does¶\nThis package mounts your Proton Drive at a directory you choose. All the files and folders are listed from Proton's metadata directly. But we also don't download the file content from all your files either, instead the files are downloaded on demand when you read them. This is a \"laz",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "writing",
-        "data"
+        "design"
       ]
     }
   ]
