@@ -1,9 +1,43 @@
 {
-  "generatedAt": "2026-10-09T12:42:37.315945+00:00",
-  "count": 24,
+  "generatedAt": "2026-10-10T12:01:33.086035+00:00",
+  "count": 28,
   "tools": [
     {
-      "id": "bc58cda7-f894-4349-9ab3-fde7aefb825f",
+      "id": "24a38c22-2cd5-4a98-aec1-51eebe96a5f4",
+      "name": "awesome-ai-coding-tools",
+      "url": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
+      "oneLiner": "A curated collection of state-of-the-art AI coding assistants, terminal agents, autonomous software engineering architectures, local code foundation models, and seminal research pa",
+      "description": "A curated collection of state-of-the-art AI coding assistants, terminal agents, autonomous software engineering architectures, local code foundation models, and seminal research papers bridging academia and industry.\n- Architectural Paradigm & Taxonomy\n- Visual Workflows & System Architecture\n- Agentic IDEs & Editors\n- Terminal & CLI Coding Agents\n- Open-Source Copilots & Extensions\n- Autonomous S",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
+      "categories": [
+        "agents",
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "7eaccc3d-8600-40ca-a969-cc0abb9d4ead",
+      "name": "eido",
+      "url": "https://github.com/tony3liu/eido",
+      "oneLiner": "and reviewing every change that matters.",
+      "description": "An AI workspace for understanding code, building with an agent,\nand reviewing every change that matters.\nEnglish · 简体中文\nExperience · Download · Getting started · Beta scope · Feedback · Open source\nEido keeps the conversation and the code in the same place. Describe what you want to achieve, give the agent the context it needs, and work through the result in your editor. Your task, proposed change",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "productivity",
+        "security"
+      ]
+    },
+    {
+      "id": "6d000953-440b-4ac5-b161-b97988f6bef3",
       "name": "zcode-claim-9router",
       "url": "https://github.com/0xgetz/zcode-claim-9router",
       "oneLiner": "ai account → mint a ZCode JWT → claim the free Start Plan → connect GLM to 9Router.",
@@ -20,7 +54,7 @@
       ]
     },
     {
-      "id": "56797dc7-8f9a-4224-9f54-3ed317e0c04d",
+      "id": "0e84f20b-0776-4d71-9d29-02c5be82c73c",
       "name": "motionmaxxing",
       "url": "https://github.com/Tejashmakwana/motionmaxxing",
       "oneLiner": "Your keyframes get a face rating: first the default (mid), then the measured version (maxxed).",
@@ -37,7 +71,7 @@
       ]
     },
     {
-      "id": "168065a5-2cc2-4fcb-a4b1-0570a19ac27c",
+      "id": "5a8cfb7b-6d93-46cd-89e0-6916174adcc7",
       "name": "markov",
       "url": "https://github.com/ienapliss/markov",
       "oneLiner": "A general-purpose LLM harness and coding agent implemented as a single, hackable Bash script.",
@@ -54,7 +88,7 @@
       ]
     },
     {
-      "id": "9068325c-38ad-4f97-9b32-2d2ae9893ba6",
+      "id": "02899fdb-7012-4aac-b6e3-e1b8f43ff1a7",
       "name": "openchart",
       "url": "https://github.com/longsurf-ai/openchart",
       "oneLiner": "OpenChart brings AI agents into every step of your investment journey: statistical and technical analysis with code and charts, real-time responses to market events with alerts, op",
@@ -71,7 +105,22 @@
       ]
     },
     {
-      "id": "6756c90d-d0f1-4b9d-b198-a0fb0c7e5ee3",
+      "id": "ae2476ca-fc74-4e21-9ea8-dbbdd42b72d9",
+      "name": "RapaceGo",
+      "url": "https://github.com/Rapace7/RapaceGo",
+      "oneLiner": "# ① KataGo（Homebrew 上是 Metal 后端，Apple Silicon 原生） brew install katago katago version # 应输出 \"Using Metal backend\" # ② 讲解引擎 llama.",
+      "description": "一个 Windows 桌面围棋工具：跟 AI 下棋、看客观数据、听本地模型用大白话讲棋。 引擎和模型都在你自己电脑上跑，不联网、不上传棋谱。\nEnglish · 简体中文\n主力平台 Windows 10 / 11；macOS 也能跑，但要自己打包（见「🍎 macOS 用户请看这里」）。 不想读长文就点上面这个链接，那里从下载到跑起来一步一步写着。\n运行环境：**Windows 10 / 11（64 位）**是主要目标平台。显卡 N 卡 / A 卡 / Intel 都行（要下对引擎版本）。 macOS 也能跑，但要自己打包 + 自己配引擎（开发者没有 Mac 机器，不出预编译包）—— 详见「硬件要求 → 🍎 macOS 用户请看这里」，那里有完整命令。\n市面上不缺围棋软件，这个想解决的是一个具体问题：下完一盘棋，知道自己哪里错了、为什么错。\n所以它把两件事拼在一起：\n两个装在一起才最好用：「",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/ggml-org/llama.cpp",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "id": "77927419-a5d7-45e1-ae90-0ad23c96cd47",
       "name": "AiPC",
       "url": "https://github.com/SysikNagibator/AiPC",
       "oneLiner": "This tool is for personal automation and testing on your own machine.",
@@ -83,12 +132,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "audio",
-        "design"
+        "design",
+        "audio"
       ]
     },
     {
-      "id": "e62b0cbd-4151-42ee-bbd4-0c23b64579a5",
+      "id": "7e05b59f-feae-495e-9f37-8a1be6afaac5",
       "name": "pi-forge",
       "url": "https://github.com/djtoon/pi-forge",
       "oneLiner": "pi-Forge is an agent harness that builds agent harnesses, on top of pi.",
@@ -100,12 +149,12 @@
       "githubUrl": "https://github.com/djtoon/pi-forge.git",
       "categories": [
         "agents",
-        "data",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "1c9459fc-541a-409b-958a-f97829e9ca90",
+      "id": "aa77a98b-91b7-4921-a6c0-018b33c523e2",
       "name": "vibestart",
       "url": "https://github.com/VinkyDev/vibestart",
       "oneLiner": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in.",
@@ -122,7 +171,7 @@
       ]
     },
     {
-      "id": "9d7cbe79-9110-4f52-8b04-29459fc5e762",
+      "id": "bdcb0418-7f98-4324-b3db-4e5a141e4c85",
       "name": "shioriai2api",
       "url": "https://github.com/0xgetz/shioriai2api",
       "oneLiner": "ai into an OpenAI-compatible API.",
@@ -139,11 +188,11 @@
       ]
     },
     {
-      "id": "9db2bee3-7fd0-421c-8525-b3c9e1419247",
-      "name": "ai-domain-name-generator",
-      "url": "https://github.com/paveldevyatov/ai-domain-name-generator",
-      "oneLiner": "A single, self-contained prompt that turns Claude, ChatGPT, or any other capable AI into a domain name generator and domain availability checker in one.",
-      "description": "A single, self-contained prompt that turns Claude, ChatGPT, or any other capable AI into a domain name generator and domain availability checker in one. Describe your project in a sentence - get the top 50 domains that are actually free to register.\n- ⚡ Checks thousands of variations in minutes - names × zones, no manual lookups.\n- 🎭 Finds domains in 15 styles - wordplay, metaphors, domain hacks (",
+      "id": "23f292c8-6ca7-43b2-851a-cfe01eb70fe6",
+      "name": "inkling",
+      "url": "https://github.com/inklingfree/inkling",
+      "oneLiner": "A personal assistant that lives in WhatsApp, for you and a few friends.",
+      "description": "free intelligence for all\nSay hello: hello@inkling.free\nA personal assistant that lives in WhatsApp, for you and a few friends. You text it the way you'd text a friend, on your own or in a group chat, and it texts back. Each person gets their own private conversation, memory and connected accounts.\nRecommended default: it thinks with GPT models on Azure AI Foundry (Azure OpenAI) and runs on its ow",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -152,45 +201,11 @@
       "categories": [
         "agents",
         "code",
-        "search"
+        "security"
       ]
     },
     {
-      "id": "ba0f560a-4c08-4988-8a52-3256c015fd49",
-      "name": "nexus-cloud",
-      "url": "https://github.com/Nexilume-AI/nexus-cloud",
-      "oneLiner": "Try Nexus Cloud online: Explore Nexus Cloud in your browser, or self-host to get started.",
-      "description": "Your Agents. Your models. Your devices.\nEnglish · Chinese\nMotivation · Watch the workflow · Features · Use cases · Quick start · Documentation · Ecosystem downloads · Contributing · Citation\nTry Nexus Cloud online: Explore Nexus Cloud in your browser, or self-host to get started.\nAn Execution Fabric for AI Agents Across Cloud, Edge, and Devices.\nYour files may be on your computer, your next task i",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Nexilume-AI/nexus-cloud.git",
-      "categories": [
-        "agents",
-        "code",
-        "productivity"
-      ]
-    },
-    {
-      "id": "aedda891-e587-4283-8cc7-8790844a2c22",
-      "name": "TinyLuma",
-      "url": "https://github.com/ThetaCursed/TinyLuma",
-      "oneLiner": "Lightweight, native post-processor and batch editor for AI-generated images.",
-      "description": "Lightweight, native post-processor and batch editor for AI-generated images.\nEnhance Stable Diffusion, Midjourney, Flux, and ComfyUI generations in seconds.\nFeatures • Why TinyLuma? • AI Detail Engine • Metadata Preservation • Download\nTinyLuma is a fast, standalone desktop photo editor designed specifically for finishing AI-generated artwork and photo sets. Instead of waiting for heavy creative s",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ThetaCursed/TinyLuma.git",
-      "categories": [
-        "code",
-        "design",
-        "image"
-      ]
-    },
-    {
-      "id": "c38c7ca1-e0a8-4d3f-8527-02ec7dcac859",
+      "id": "ae50ac56-1bcb-4e63-9c6e-ab6a00117183",
       "name": "ai-data-extractor",
       "url": "https://github.com/nachisama/ai-data-extractor",
       "oneLiner": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversation",
@@ -207,7 +222,7 @@
       ]
     },
     {
-      "id": "3ae8a443-8d45-4b51-a973-4aeac0bfd8cf",
+      "id": "ccafae76-4530-46e7-93c0-82b6dc5ff705",
       "name": "aurelio-finance",
       "url": "https://github.com/LosaLosSantos/aurelio-finance",
       "oneLiner": "Aurelio is a wealth-management and financial-planning app that runs on your own computer, with an AI advisor you can talk to.",
@@ -223,15 +238,65 @@
       ]
     },
     {
-      "id": "16d8cffc-3a2c-4eea-8c72-0495bd9cb52a",
-      "name": "affectui",
-      "url": "https://github.com/flohoeller/affectui",
-      "oneLiner": "You signed in with another tab or window.",
-      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nStar17 (17)You must be signed in to star a repository\nAbout\nHandcrafted React components, illustrations and motion for AI products. One file each, calm motion, da",
+      "id": "4f3adb37-85b4-49a3-acad-d3547f301523",
+      "name": "Talorys",
+      "url": "https://github.com/rociiu/talorys",
+      "oneLiner": "Talorys is a free, open-source personal AI assistant that runs entirely inside your own Cloudflare account.",
+      "description": "Your personal AI agent. Your own cloud.\nTalorys is a free, open-source personal AI assistant that runs entirely inside your own Cloudflare account. It chats with you, remembers what matters, manages tasks, notes and projects, and runs reminders and routines on a schedule — without any server, database or account operated by the Talorys developers.\nOne person. One Cloudflare account. One command. O",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
+      "githubUrl": "https://github.com/rociiu/talorys.git",
+      "categories": [
+        "agents",
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "b77c66ee-915e-445e-a29a-cb4c3f197b77",
+      "name": "If AI is conscient",
+      "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
+      "oneLiner": "Rabbi Mois Navon didn’t believe Claude was conscious, and he said so at Anthropic’s April “Wisdom Traditions” gathering.",
+      "description": "Rabbi Mois Navon didn’t believe Claude was conscious, and he said so at Anthropic’s April “Wisdom Traditions” gathering. One Anthropic participant’s response, he recalls: “I wish I had your faith.”\nThe faith in question was his conviction that consciousness requires biology. Navon understood the participant to mean they wished they shared his certainty that machines weren’t conscious, because it w",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "writing"
+      ]
+    },
+    {
+      "id": "d7888675-6132-46dc-a46f-420cf3349622",
+      "name": "Kenerate",
+      "url": "https://kenerateai.app/",
+      "oneLiner": "Post every day without a crew.",
+      "description": "Creators\nPost every day without a crew. Ideas become watchable in minutes, in your own style.\nYour AI creative studio\nCreate AI images, videos and music in one workspace. Start with text or reference media, choose a model and try it with free signup credits.\nMoney Shot\nHero close-ups that make products irresistible\nTV Commercial\nBroadcast-quality spots in minutes\nBrand Story\nCinematic narratives f",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "video",
+        "audio"
+      ]
+    },
+    {
+      "id": "3707f07c-b9e6-483e-ba8e-a14fc0409d2b",
+      "name": "Rutter",
+      "url": "https://ruttermemory.com/",
+      "oneLiner": "Keep the thread across your AI tools.",
+      "description": "Keep the thread across your AI tools.\nRutter remembers what you decided and how your thinking changed, so you can pick up where you left off—even in another AI tool. Your history stays in plain Markdown, in a folder you own.\nMonths after a working session, you want to know what you decided and which notes the session cited when it decided it. rutter keeps that. As an AI session decides something, ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "code",
@@ -240,43 +305,11 @@
       ]
     },
     {
-      "id": "0fe0c93e-3273-46c8-ab50-1febe0c2a401",
-      "name": "I let Claude refactor my old game",
-      "url": "https://github.com/victorqribeiro/aimAndShoot",
-      "oneLiner": "You're Nole Ksum (the k is silent), a citizen concern about the uprising of the machine who decided to take matters into your own hands and put an end to all artificial intelligenc",
-      "description": "You're Nole Ksum (the k is silent), a citizen concern about the uprising of the machine who decided to take matters into your own hands and put an end to all artificial intelligence. You must kill all the evil robots controlled by Neural Networks and stop them from evolving into more dangerous beings. The entire human race counts on you, don't let them down.\nPlay it here\nw, a, s, d - Move the play",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "d24fa2ff-91ee-416b-90ac-cee3312e0b29",
-      "name": "SpectroMood",
-      "url": "https://github.com/ketul93/spectromood",
-      "oneLiner": "Speech emotion detection with a decision model.",
-      "description": "Speech emotion detection with a decision model. Turn a voice into labelled plots and plain-language measurements, then let Cloudflare Clef decide how the speaker feels.\nDashboard playing benchmark clips through a virtual microphone; results are clef-flash's real answers.\nSpectroMood is an open experiment: can a general-purpose decision model, which was never trained on audio, recognise emotion in ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ketul93/spectromood.git",
-      "categories": [
-        "code",
-        "voice",
-        "audio"
-      ]
-    },
-    {
-      "id": "a75ae524-5f87-47cd-a36a-b98b955abeec",
-      "name": "Welcome to Gemini at Work 2026",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
-      "oneLiner": "Editor’s note: This article is adapted from Thomas Kurian’s keynote address at Gemini at Work 2026.",
-      "description": "Welcome to Gemini at Work 2026: Introducing the Gemini agent\nThomas Kurian\nCEO, Google Cloud\nEditor’s note: This article is adapted from Thomas Kurian’s keynote address at Gemini at Work 2026. It includes a number of announcements:\n-\nGemini, a single, universal agent for work that answers your questions, handles your knowledge work, creates your images and media, and writes and runs code.\n-\nInline",
+      "id": "c3533ac8-e768-4d5a-a468-9f5ad2f9b2ad",
+      "name": "Webcmd (by AgentR) is open-source Released on October 8/9",
+      "url": "https://markets.businessinsider.com/news/stocks/agentr-launches-webcmd-open-source-browser-infrastructure-that-lets-ai-agents-learn-a-website-once-1036612154",
+      "oneLiner": "AgentR today launched Webcmd, free open-source browser infrastructure that lets AI agents learn a website once and reuse that knowledge on later runs, passing the most tasks at the",
+      "description": "AgentR today launched Webcmd, free open-source browser infrastructure that lets AI agents learn a website once and reuse that knowledge on later runs, passing the most tasks at the lowest cost per task in AgentR's published BU Bench V1 comparison.\nBrowser agents without memory start from zero on every visit. They re-read pages, hunt for the same controls and repeat the same steps, and each of thos",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -285,11 +318,11 @@
       "categories": [
         "agents",
         "code",
-        "data"
+        "design"
       ]
     },
     {
-      "id": "e4b8138f-258b-4dfb-a294-db942925ac9c",
+      "id": "2ef4120b-95cb-4a48-8917-17d2ce6c4283",
       "name": "gluon",
       "url": "https://github.com/fidipro/gluon",
       "oneLiner": "Gluon is a control platform for coding agents.",
@@ -306,7 +339,24 @@
       ]
     },
     {
-      "id": "8d211107-f368-42f2-8159-3c6812a51313",
+      "id": "c082f19d-9ba7-42b8-a51f-11a44c3f7f8d",
+      "name": "cad-studio",
+      "url": "https://github.com/filippofinke/cad-studio",
+      "oneLiner": "Describe a part, get a printable model.",
+      "description": "Describe a part, get a printable model. A native macOS CAD studio powered by the coding agent on your Mac (Claude Code or Codex) and build123d.\nType \"a print-in-place planetary gearbox with four colors, animated with real gear ratios\" and CAD Studio has your coding agent write a parametric model.py\n, run it with build123d and hand you a 3D model, an ISO technical drawing and files ready for your s",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/filippofinke/cad-studio.git",
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "3ece01d2-66b7-4920-ab8f-4f4c9b4ea7ec",
       "name": "brow",
       "url": "https://github.com/efim0v/brow",
       "oneLiner": "A macOS app that shows the usage and rate limits of every Claude Code account you have, right in the MacBook notch: the 5-hour limit, the weekly limit, and when each resets.",
@@ -323,7 +373,7 @@
       ]
     },
     {
-      "id": "a7fa358a-1dc2-41eb-932f-f0e660b6a367",
+      "id": "ee318062-9cdf-46f1-8859-20ebae41e839",
       "name": "grove",
       "url": "https://github.com/efim0v/grove",
       "oneLiner": "A macOS menu-bar app for running Claude Code and other AI coding agents on a product that is split across several repositories.",
@@ -340,7 +390,7 @@
       ]
     },
     {
-      "id": "9a22a21a-2d60-46ed-b7a0-3fb430e8d19c",
+      "id": "df7c8a54-b310-42b3-ac0d-ffb0d5e9d548",
       "name": "OpenCardboard",
       "url": "https://github.com/rakesh0x/OpenCardboard",
       "oneLiner": "Watch the real timeline update — cuts, captions, beat sync, motion graphics — while your files never leave your machine.",
@@ -352,55 +402,72 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "data",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "66f7d3c6-fcb5-4135-b0c2-a38472c09abb",
-      "name": "ai-content-dashboard",
-      "url": "https://github.com/harshith-vaddiparthy/ai-content-dashboard",
-      "oneLiner": "Generate blog posts, newsletters, and real AI video — then manage and track it all from one dashboard.",
-      "description": "Generate blog posts, newsletters, and real AI video — then manage and track it all from one dashboard.\n- Overview\n- Features\n- Tech Stack\n- Architecture\n- Project Structure\n- Getting Started\n- Environment Variables\n- Available Scripts\n- Roadmap\n- Contributing\n- License\nAI Content Dashboard is a single-user web app for creators. It takes you from idea to finished content without leaving the dashboa",
+      "id": "6762cb40-30ca-43cd-aabc-2b1202a64745",
+      "name": "SqlFlow",
+      "url": "https://github.com/bytefish/SqlFlow",
+      "oneLiner": "SqlFlow is a simple durable execution workflow system for PostgreSQL and SQL Server.",
+      "description": "SqlFlow is a simple durable execution workflow system for PostgreSQL and SQL Server. It handles scheduling, state checkpointing, and retries without needing heavy external workflow engines like Temporal or Cadence.\nThe SQL Scripts for creating the SqlFlow Database Schema for Postgres:\nThe SQL Scripts for creating the SqlFlow Database Schema for SQL Server:\n- SQL Server:\nsql/ssf-sqlserver-minimal.s",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "data",
+        "productivity"
+      ]
+    },
+    {
+      "id": "0656bb37-615b-4064-9e55-75b3e67050af",
+      "name": "Chrome Relay",
+      "url": "https://github.com/aindeev/agent-chrome-relay",
+      "oneLiner": "Lets your coding agents (Claude Code, Codex, Cursor, Paseo) use your everyday Chrome, with your real logins, from the command line, in background tabs: nothing takes focus, no dial",
+      "description": "Website: https://agent-chrome-relay.aindeev.com\nLets your coding agents (Claude Code, Codex, Cursor, Paseo) use your everyday Chrome, with your real logins, from the command line, in background tabs: nothing takes focus, no dialogs, ~0.15s per command.\nagent-browser --cdp \"$(chrome-relay url you@company.com)\" open https://app.example.com/\nagent-browser snapshot -i # the page's buttons, links and f",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/harshith-vaddiparthy/ai-content-dashboard.git",
+      "githubUrl": "https://github.com/aindeev/agent-chrome-relay",
       "categories": [
-        "data",
-        "design",
+        "agents",
+        "code",
+        "marketing"
+      ]
+    },
+    {
+      "id": "64f79da9-b5e1-4e6e-bb1d-41d7f01edd3c",
+      "name": "Check how readable your docs are to AI agents",
+      "url": "https://www.veludocs.com/agent-friendly-documentation/",
+      "oneLiner": "Seven categories, twenty-three checks.",
+      "description": "Product\nSolutions\nResources\nSeven categories, twenty-three checks.\nContent Discoverability\nllms.txt: whether it exists, is validly structured, stays under size, and whether your pages point to it.\nView checks+\nMarkdown Availability\nMarkdown at .md URLs, and a server that honours Accept: text/markdown.\nView checks+\nPage Size and Truncation\nServer-rendered content, 50K character budgets, and where y",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
         "writing"
       ]
     },
     {
-      "id": "730987b2-3e8c-4152-b3bb-b3ec88ec52ff",
-      "name": "CogniBlock",
-      "url": "https://github.com/CogniBlock/CogniBlock",
-      "oneLiner": "Watch every step run live.",
-      "description": "Drag. Connect. Watch every step run live.\nPlayground · Docs · How it works · X\n- What is CogniBlock?\n- Why it is worth a look\n- By the numbers\n- How a pipeline works\n- The block library\n- Architecture\n- Sharing a pipeline\n- Use the engine as a package\n- Run it yourself\n- Deploy\n- Repository layout\n- Security and privacy\n- What we are exploring next\n- The token\n- Contributing\nCogniBlock makes a pip",
+      "id": "a3a21f72-a3ce-44dc-bdee-9d0ac297030a",
+      "name": "Iimos",
+      "url": "https://github.com/yanglongyun/iimos",
+      "oneLiner": "An agent that can fully modify itself.",
+      "description": "An agent that can fully modify itself. It ships as a single chat box. The UI, the server, its tools, its own system prompt — all of it is its own source code, and it can rewrite any of it. Ask for something and it changes itself, rather than handing you a separate artifact.\n\"Turn yourself into a Windows XP desktop.\" Real recording, from the factory state, middle fast-forwarded:\n- Everything stays ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/CogniBlock/CogniBlock.git",
-      "categories": [
-        "code",
-        "design",
-        "image"
-      ]
-    },
-    {
-      "id": "d741b5f3-8c0e-4cd2-b6bf-204f6d99f407",
-      "name": "Let your AI agents paint big arrows",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "oneLiner": "): one small macOS CLI and an agent skill.",
-      "description": "big-arrow-on-the-screen (bigarrow\n): one small macOS CLI and an agent skill. Click-through, never steals the focus, gone by itself. MIT.\nYour AI agent can refactor a monorepo, write a migration and explain monads, but when it needs you to click one button it prints \"please click Allow in the dialog\" into a terminal you are not looking at.\nbigarrow\ngives it a finger.\nbigarrow point --element \"Allow",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/openclaw/Peekaboo",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
         "agents",
         "code",
