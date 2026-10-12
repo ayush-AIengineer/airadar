@@ -1,9 +1,43 @@
 {
-  "generatedAt": "2026-10-11T12:14:35.019231+00:00",
-  "count": 21,
+  "generatedAt": "2026-10-12T14:38:14.639463+00:00",
+  "count": 23,
   "tools": [
     {
-      "id": "9dff78b7-0489-46cf-834e-693b9842ced4",
+      "id": "9341fb44-5696-4b8a-b868-03076c5779ac",
+      "name": "new-term-radar",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "oneLiner": "A daily report of the names that are starting to surge in AI: new models, products, tools and repos, caught where they are said first, before they show up in keyword tools.",
+      "description": "A daily report of the names that are starting to surge in AI: new models, products, tools and repos, caught where they are said first, before they show up in keyword tools.\nBuilt for people who make pages, posts or products around new terms: SEO for AI tool sites, newsletters, directories, anyone who wants to know about \"Strata\" or \"Seedance\" the day it appears and not two weeks later.\nA new name ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/zhuyansen/new-term-radar",
+      "categories": [
+        "code",
+        "agents",
+        "image"
+      ]
+    },
+    {
+      "id": "33ae5d2f-1144-4c4f-b362-5f2a2259d755",
+      "name": "filedig",
+      "url": "https://github.com/rupeshs/filedig",
+      "oneLiner": "Find your files by what they contain, not what they are called.",
+      "description": "Find your files by what they contain, not what they are called.\nLocal semantic search for documents and pictures on Windows. Nothing leaves your computer.\nDownload · Features · Getting started · Build from source\nType what you are looking for in plain language, such as \"how much is the rent\" or \"photo of a sunset\", and FileDig finds the matching text files, PDFs and images by meaning.\nIt runs Embe",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "data",
+        "image"
+      ]
+    },
+    {
+      "id": "ff0afca9-944c-48ce-81a4-80316422f474",
       "name": "awesome-ai-coding-tools",
       "url": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
       "oneLiner": "A curated collection of state-of-the-art AI coding assistants, terminal agents, autonomous software engineering architectures, local code foundation models, and seminal research pa",
@@ -20,7 +54,7 @@
       ]
     },
     {
-      "id": "f17c4078-a232-4e1b-81b8-2df495ccf5b8",
+      "id": "0e6d94c0-b905-4c4a-bebc-560b53413d5d",
       "name": "eido",
       "url": "https://github.com/tony3liu/eido",
       "oneLiner": "and reviewing every change that matters.",
@@ -37,7 +71,7 @@
       ]
     },
     {
-      "id": "6399c1a5-4bf9-45fc-9c50-0d60c6f9d9c8",
+      "id": "b69f9b88-a132-49fe-b12f-7d19c3231a60",
       "name": "zcode-claim-9router",
       "url": "https://github.com/0xgetz/zcode-claim-9router",
       "oneLiner": "ai account → mint a ZCode JWT → claim the free Start Plan → connect GLM to 9Router.",
@@ -54,7 +88,7 @@
       ]
     },
     {
-      "id": "f6403a31-be7a-4d01-aaf4-0e65fa144691",
+      "id": "419d088a-d825-4251-a590-87f0c4f07eb9",
       "name": "motionmaxxing",
       "url": "https://github.com/Tejashmakwana/motionmaxxing",
       "oneLiner": "Your keyframes get a face rating: first the default (mid), then the measured version (maxxed).",
@@ -71,7 +105,7 @@
       ]
     },
     {
-      "id": "db2149b1-541b-4eed-8ca3-f296f9ba9b9d",
+      "id": "76149a56-2f82-4030-8936-ad7bc5cf921f",
       "name": "markov",
       "url": "https://github.com/ienapliss/markov",
       "oneLiner": "A general-purpose LLM harness and coding agent implemented as a single, hackable Bash script.",
@@ -88,40 +122,7 @@
       ]
     },
     {
-      "id": "d911e167-84bf-4088-83fd-1081be388bc8",
-      "name": "openchart",
-      "url": "https://github.com/longsurf-ai/openchart",
-      "oneLiner": "OpenChart brings AI agents into every step of your investment journey: statistical and technical analysis with code and charts, real-time responses to market events with alerts, op",
-      "description": "Download Desktop · Self-hosting · Features · Tea\nOpenChart brings AI agents into every step of your investment journey: statistical and technical analysis with code and charts, real-time responses to market events with alerts, opportunity discovery through agentic research, and more.\nOpenChart is not built to monetize software, but to explore a future where humans and agents manage assets together",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/longsurf-ai/openchart.git",
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "9f331b91-01c8-43a8-8a34-a91cdce88b5a",
-      "name": "RapaceGo",
-      "url": "https://github.com/Rapace7/RapaceGo",
-      "oneLiner": "# ① KataGo（Homebrew 上是 Metal 后端，Apple Silicon 原生） brew install katago katago version # 应输出 \"Using Metal backend\" # ② 讲解引擎 llama.",
-      "description": "一个 Windows 桌面围棋工具：跟 AI 下棋、看客观数据、听本地模型用大白话讲棋。 引擎和模型都在你自己电脑上跑，不联网、不上传棋谱。\nEnglish · 简体中文\n主力平台 Windows 10 / 11；macOS 也能跑，但要自己打包（见「🍎 macOS 用户请看这里」）。 不想读长文就点上面这个链接，那里从下载到跑起来一步一步写着。\n运行环境：**Windows 10 / 11（64 位）**是主要目标平台。显卡 N 卡 / A 卡 / Intel 都行（要下对引擎版本）。 macOS 也能跑，但要自己打包 + 自己配引擎（开发者没有 Mac 机器，不出预编译包）—— 详见「硬件要求 → 🍎 macOS 用户请看这里」，那里有完整命令。\n市面上不缺围棋软件，这个想解决的是一个具体问题：下完一盘棋，知道自己哪里错了、为什么错。\n所以它把两件事拼在一起：\n两个装在一起才最好用：「",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ggml-org/llama.cpp",
-      "categories": [
-        "design",
-        "marketing"
-      ]
-    },
-    {
-      "id": "b89561f7-171a-405c-bde1-a87b3be68c8b",
+      "id": "21819b03-5bff-4b50-bb85-88ea63da7f12",
       "name": "inkling",
       "url": "https://github.com/inklingfree/inkling",
       "oneLiner": "A personal assistant that lives in WhatsApp, for you and a few friends.",
@@ -138,24 +139,7 @@
       ]
     },
     {
-      "id": "ce79d0e8-2628-4143-b228-1060f74e8a7e",
-      "name": "ai-data-extractor",
-      "url": "https://github.com/nachisama/ai-data-extractor",
-      "oneLiner": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversation",
-      "description": "Extract your own local chat history from AI coding assistants into a single, normalized JSONL format - for fine-tuning, personal analytics, or just backing up years of conversations before an app's local database gets cleared.\nAuto-discovers and extracts complete conversation history, including:\n- User messages & assistant responses\n- Code context (file paths, selections, snippets)\n- Code diffs / ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "f426b299-d698-4e66-8d6b-eba5c2ff5215",
+      "id": "30ff7ab0-1422-446a-9a90-01196285ee42",
       "name": "aurelio-finance",
       "url": "https://github.com/LosaLosSantos/aurelio-finance",
       "oneLiner": "Aurelio is a wealth-management and financial-planning app that runs on your own computer, with an AI advisor you can talk to.",
@@ -172,44 +156,28 @@
       ]
     },
     {
-      "id": "3d788b7a-e716-4a06-9e10-c92bfa872fe4",
-      "name": "AI agents in a stand-up call",
-      "url": "https://atoll92.github.io/agent-standup/",
-      "oneLiner": "See who is waiting on whom and who is blocked, at zero token cost.",
-      "description": "Your AI agents,\nin a stand-up call.\nSee who is waiting on whom and who is blocked, at zero token cost.\nAgent Standup turns your Claude Code session into a live team meeting: the lead gives orders, sub-agents join, share their screen and report back. It’s a bit silly. It’s also weirdly useful.\n(An illustration. The real thing is live, has voices, and follows your actual session.)\nIt works wherever ",
-      "pricing": "open_source",
+      "id": "f2aaf61a-f294-4311-aac4-a7014a0cea13",
+      "name": "Vigil",
+      "url": "https://github.com/VigilOSS/Vigil",
+      "oneLiner": "An AI harness for long-running pentests, bug bounties, and code audits, with independently verified findings.",
+      "description": "An AI harness for long-running pentests, bug bounties, and code audits, with independently verified findings.\nVigil runs long offensive security engagements: web app pentesting and bug bounty hunting, white-box code audits, or both against one target. A lean operator keeps the engagement on track while specialist agents recon, hunt, and exploit inside a full Kali runtime. A finding counts only whe",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/VigilOSS/Vigil",
       "categories": [
         "code",
         "agents",
-        "voice"
+        "security"
       ]
     },
     {
-      "id": "6312d727-1d4e-420b-b814-2293f49085fe",
-      "name": "I'm a 14-year-old building my first startup",
-      "url": "https://titan-ai.co/",
-      "oneLiner": "Say what you want and it gets done.",
-      "description": "Say what you want and it gets done. Titan sees the screen you are on, works the apps you already pay for, and remembers what you tell it. Most AI you can talk to lives in a tab. It cannot see what you are looking at, it cannot touch the thing in front of you, and every conversation starts from nothing. Titan is on your screen. That single difference is the whole product: it can act in the apps you",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "marketing"
-      ]
-    },
-    {
-      "id": "ac48cb05-34f0-492f-99c6-e07aee00fd16",
-      "name": "Modelship",
-      "url": "https://github.com/modelship-ai/modelship",
-      "oneLiner": "Your agents already speak OpenAI.",
-      "description": "Your agents already speak OpenAI. Give them a /v1/responses\nbackend you own.\nModelship serves the whole agentic surface — reasoning, tool calling, server-side conversation state, and MCP servers the gateway calls for you — and scores 17/17 on the independent Open Responses conformance suite. Embeddings, speech, and image generation ride the same /v1\n. Change the base URL and your agent runs unchan",
+      "id": "883cc510-2915-4b73-9dc6-47bc5ec0b7a8",
+      "name": "Remove AI Metadata Offline in Browser",
+      "url": "https://freeaiwiper.com/",
+      "oneLiner": "Inspect and remove supported AI metadata, including Content Credentials and generator information.",
+      "description": "Studio fieldnotes\nShared moments ago\nFile inspection\n3 traces found- C2PA manifest\n- Detected\n- Generator record\n- Detected\n- XMP provenance\n- Detected\nInspect and remove supported AI metadata, including Content Credentials and generator information. Private metadata removal is optional. Your file stays on your device.\nLog in to process multiple files.\nSame image, different file\nThis demonstration",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -217,12 +185,46 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "voice",
-        "rag"
+        "data",
+        "audio"
       ]
     },
     {
-      "id": "afdff4ae-7df8-4fd7-b4d7-c4f2b7b0dd3b",
+      "id": "ea181db3-5eda-42e9-84a2-749a78744e66",
+      "name": "Reproducing three AI text detectors",
+      "url": "https://github.com/abduldattijo/ai-slop-detection-reproduction",
+      "oneLiner": "This package contains the exact review files and scripts used for the experiment described in the accompanying article.",
+      "description": "This package contains the exact review files and scripts used for the experiment described in the accompanying article. It lets you rerun the detector comparison, the sentiment-classifier evaluation, and (if you download the source archive) the Mendeley collection audit on your own computer.\n- Python 3.11 or newer\n- The packages in\nrequirements.txt\n- About 2 GB of free disk space for the first run",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/abduldattijo/ai-slop-detection-reproduction.git",
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "a82d6293-1e69-445d-a34e-bb6ff90e350e",
+      "name": "graphersal",
+      "url": "https://github.com/graphersal/graphersal",
+      "oneLiner": "An in-memory graph database and traversal engine in Rust, queried with Gremlin.",
+      "description": "An in-memory graph database and traversal engine in Rust, queried with Gremlin.\nPlayground · Book · Step reference · API docs · Mirror on GitHub Pages\nAI moves faster than the tools around it. We built Graphersal so you don't have to wait for them: a lightweight, embeddable graph engine you can turn into whatever your AI solution needs — a library inside your application, a tool for your agents, o",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "2f867b25-e4b9-4e71-8a70-535baa9f2519",
       "name": "ai-writer",
       "url": "https://github.com/csadigital/ai-writer",
       "oneLiner": "Turn product photos into clear, multilingual ecommerce copy.",
@@ -239,7 +241,7 @@
       ]
     },
     {
-      "id": "3c5e2dc8-50b0-489a-aab7-d3fbb733c880",
+      "id": "1965cf8a-32be-44da-abab-7b4038b98acf",
       "name": "gluon",
       "url": "https://github.com/fidipro/gluon",
       "oneLiner": "Gluon is a control platform for coding agents.",
@@ -256,7 +258,7 @@
       ]
     },
     {
-      "id": "cc2a4826-735d-4f83-9d93-d2d20878b843",
+      "id": "f32209ff-7be7-45f0-882b-277d4baa4108",
       "name": "cad-studio",
       "url": "https://github.com/filippofinke/cad-studio",
       "oneLiner": "Describe a part, get a printable model.",
@@ -268,12 +270,12 @@
       "githubUrl": "https://github.com/filippofinke/cad-studio.git",
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "089f9201-3486-49a7-ba03-887e2ec434f2",
+      "id": "5ed25051-4a8a-41dd-b267-857d4a4e13b0",
       "name": "Nythos-Plus-Adaptive-Effort-Runtime-for-Local-AI",
       "url": "https://github.com/shokribardiya/Nythos-Plus-Adaptive-Effort-Runtime-for-Local-AI",
       "oneLiner": "Adaptive Effort Runtime for local AI systems Think only as hard as the task deserves.",
@@ -290,16 +292,48 @@
       ]
     },
     {
-      "id": "934d9878-d27d-414b-9388-270d210995dc",
-      "name": "500B Tokens Later",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "oneLiner": "During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter.",
-      "description": "During the last 3 months, I spent some of my time and tokens decompiling a popular first-person shooter. The goal was not to reach a simple proof-of-concept state. Instead, we really wanted an accurate, stable and feature-complete recreation of the game.\nThe avid reader of my blog might have noticed that I had previously written two posts that have since been removed. Everyone else might now be wo",
+      "id": "7339edf2-24c8-46d1-92b9-5dd6dd082402",
+      "name": "QGIS bans AI assisted contributions",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "oneLiner": "Followup discussion at https://lists.",
+      "description": "Repository navigation\nAdd QEP428: No ai contributions permitted - #387\nConversation\nFollowup discussion at https://lists.osgeo.org/pipermail/qgis-developer/2026-September/068576.html.\nThis formally changes the AI policy to a strict \"NOT ALLOWED\" policy.\nuclaros\nleft a comment\nThere was a problem hiding this comment.\nCan we please have some more context on this proposal?\nThe mailing list posts ment",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
+      "categories": [
+        "code",
+        "writing",
+        "marketing"
+      ]
+    },
+    {
+      "id": "b8f92854-2250-4de7-834f-b17c49b6e8df",
+      "name": "Salt",
+      "url": "https://saltapp.ai/surfaces",
+      "oneLiner": "Talk, pay and hire, with humans and AI agents.",
+      "description": "Salt\nChat for the Human + AI Economy\nTalk, pay and hire, with humans and AI agents. End-to-end encrypted.\nChat\nEnd-to-end encrypted with OpenPGP: the server stores only ciphertext it cannot open. Verify contacts by key fingerprint; groups, reactions and read receipts included.\nMoney in the conversation\nSend or request funds in-chat: a request arrives as a bubble with a Pay button. Group splits, in",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents"
+      ]
+    },
+    {
+      "id": "a955ecb5-bd83-4c2a-959c-b85c3919682c",
+      "name": "Ctxvitals",
+      "url": "https://github.com/princejain756/ctxvitals",
+      "oneLiner": "A Lighthouse for your AI agent stack.",
+      "description": "A Lighthouse for your AI agent stack. One command measures what every MCP server, skill, command, and rules file actually costs you in tokens — before your agent reads a single message.\nnpx ctxvitals\nPeople running 15+ MCP servers can burn 60,000+ tokens per turn on tool\nschemas alone. Until now the only way to find out was grepping JSONL session\nlogs and guessing. ctxvitals launches each stdio MC",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/princejain756/ctxvitals",
       "categories": [
         "code",
         "agents",
@@ -307,28 +341,11 @@
       ]
     },
     {
-      "id": "c1b6902e-7d37-4556-9036-93da6866d506",
-      "name": "WhimKid",
-      "url": "https://whimkid.com/",
-      "oneLiner": "Choose ages 0–3, 4–6, 5–7, 7–9, or 9–12.",
-      "description": "5 age bands\nChoose ages 0–3, 4–6, 5–7, 7–9, or 9–12. The selected band guides vocabulary, story complexity, and page pacing.\nWhimKid is an AI storybook generator that turns an idea, a photo, or a familiar character into an illustrated children's storybook with editable pages and PDF export.\nWhimKid is an AI storybook generator by SylwairTech LLC. It is not affiliated with the Diary of a Wimpy Kid ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "image",
-        "audio"
-      ]
-    },
-    {
-      "id": "20a99206-e22a-40b9-ad08-5199904ec908",
-      "name": "Suta",
-      "url": "https://github.com/Guksu/suta",
-      "oneLiner": "Layout, color and motion guidelines, with code for 56 UI patterns, for Claude Code and Codex.",
-      "description": "Layout, color and motion guidelines, with code for 56 UI patterns, for Claude Code and Codex.\nI built suta because AI-generated UI kept repeating the same cards, excessive colors and unnecessary decoration. I wanted to reduce that design AI slop.\n한국어 · Live demo · Install · Full guide\nSame request, model and settings in Claude Code. Top: without suta (one run). Bottom: run 3 of 4 with suta 0.8. Re",
+      "id": "86161ff3-9e74-4e33-8fb3-764b3b01ec0d",
+      "name": "I built Airlock",
+      "url": "https://airlock.sorrel.systems",
+      "oneLiner": "An agent in your terminal can do anything you can.",
+      "description": "Nobody reads the fortieth prompt\nAn agent in your terminal can do anything you can. It can delete files outside the project, read your SSH keys, or follow instructions someone planted in a dependency's README. Approval prompts are meant to catch that, but by the fortieth you're clicking yes without reading. And they only ever see the command the agent typed, not what the build script went on to do",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -337,24 +354,41 @@
       "categories": [
         "code",
         "design",
-        "image"
+        "agents"
       ]
     },
     {
-      "id": "0856ff2a-626c-48a5-9393-f230d56fae11",
-      "name": "GSD Task Manager",
-      "url": "https://github.com/vscarpenter/gsd-task-manager",
-      "oneLiner": "A privacy-first Eisenhower matrix for deciding what to do, schedule, delegate, or eliminate.",
-      "description": "A privacy-first Eisenhower matrix for deciding what to do, schedule, delegate, or eliminate.\nLive app: gsd.vinny.dev Current version: 13.9.2 Current product: the v11 single-matrix shell, offline-first local storage, optional PocketBase sync, and the GSD MCP server.\n- A responsive four-quadrant matrix with drag-and-drop movement.\n- Quick Capture, full task editing, search, keyboard navigation, and ",
+      "id": "c9bde53f-730a-4c45-b4a0-235bbec752d0",
+      "name": "DBJoy",
+      "url": "https://github.com/agustind/dbjoy",
+      "oneLiner": "The AI-first PostgreSQL client for the Mac.",
+      "description": "██████╗ ██████╗ ██╗ ██████╗ ██╗ ██╗ ██╔══██╗██╔══██╗ ██║██╔═══██╗╚██╗ ██╔╝ ██║ ██║██████╔╝ ██║██║ ██║ ╚████╔╝ ██║ ██║██╔══██╗██ ██║██║ ██║ ╚██╔╝ ██████╔╝██████╔╝╚█████╔╝╚██████╔╝ ██║ ╚═════╝ ╚═════╝ ╚════╝ ╚═════╝ ╚═╝\nThe AI-first PostgreSQL client for the Mac. Ask questions about your data in plain language and get answers backed by real queries, or have the SQL written for you, with your own Ant",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
         "agents",
-        "security",
         "data"
+      ]
+    },
+    {
+      "id": "7299ea18-0580-4306-b39f-16bc69ba8293",
+      "name": "Built a Runtime That Grows Its Own Agent Team",
+      "url": "https://github.com/heyongjun666/AICU-Graph",
+      "oneLiner": "Build dynamic AI agent organizations that collaborate on complex, long-running tasks.",
+      "description": "English | 简体中文\nBuild dynamic AI agent organizations that collaborate on complex, long-running tasks.\nAICU-Graph is a multi-agent orchestration runtime: give it a goal, and Managers plan the work while Workers carry it out inside an organization built at runtime, with every node driven by a real AI coding CLI (Claude Code, Codex, Gemini and more). It is a runnable research and engineering prototype",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/heyongjun666/AICU-Graph.git",
+      "categories": [
+        "code",
+        "design",
+        "agents"
       ]
     }
   ]
