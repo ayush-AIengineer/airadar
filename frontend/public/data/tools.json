@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-10-12T14:38:14.639463+00:00",
+  "generatedAt": "2026-10-13T13:42:45.393989+00:00",
   "count": 23,
   "tools": [
     {
-      "id": "9341fb44-5696-4b8a-b868-03076c5779ac",
+      "id": "5ea2e03c-9e92-41fd-be33-defcd96b1201",
+      "name": "vibereceipt",
+      "url": "https://github.com/glmn-ai/vibereceipt",
+      "oneLiner": "Print a store receipt for your AI coding.",
+      "description": "Print a store receipt for your AI coding. Tokens, what they'd cost at API prices, and how many times the agent said \"You're absolutely right\".\nnpx vibereceipt\n(Or straight from GitHub: npx github:glmn-ai/vibereceipt\n.)\nThe receipt above comes from --demo\nsample data, not a real person's logs.\nPosting it? --short\nprints a compact receipt and saves it as an exact 4:5 PNG,\nwhich the X timeline shows ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "f78ab616-f024-42c1-87fe-6bb762090bfd",
       "name": "new-term-radar",
       "url": "https://github.com/zhuyansen/new-term-radar",
       "oneLiner": "A daily report of the names that are starting to surge in AI: new models, products, tools and repos, caught where they are said first, before they show up in keyword tools.",
@@ -20,7 +37,7 @@
       ]
     },
     {
-      "id": "33ae5d2f-1144-4c4f-b362-5f2a2259d755",
+      "id": "5881c5b3-1e88-4bb5-bad1-35f649cfb01a",
       "name": "filedig",
       "url": "https://github.com/rupeshs/filedig",
       "oneLiner": "Find your files by what they contain, not what they are called.",
@@ -37,7 +54,24 @@
       ]
     },
     {
-      "id": "ff0afca9-944c-48ce-81a4-80316422f474",
+      "id": "8b05d7fe-f649-4919-9cfc-95614e307cc5",
+      "name": "NOAPI",
+      "url": "https://github.com/cribest7890/NOAPI",
+      "oneLiner": "Use ChatGPT, Claude, Gemini, DeepSeek and friends inside OpenCode, with no API keys.",
+      "description": "Use ChatGPT, Claude, Gemini, DeepSeek and friends inside OpenCode, with no API keys.\nYour browser is already logged in. NOAPI? just lets OpenCode talk to it.\nQuick start • How it works • Any project folder • Troubleshooting • Limitations\nAPI access costs money, and a lot of us already pay for a chat subscription that we barely squeeze the value out of. NOAPI? connects the two. OpenCode sends a pro",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "5688a372-8aa9-4757-9fcf-8dfccb6d21d0",
       "name": "awesome-ai-coding-tools",
       "url": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
       "oneLiner": "A curated collection of state-of-the-art AI coding assistants, terminal agents, autonomous software engineering architectures, local code foundation models, and seminal research pa",
@@ -54,7 +88,7 @@
       ]
     },
     {
-      "id": "0e6d94c0-b905-4c4a-bebc-560b53413d5d",
+      "id": "17c25547-d1c5-4cbf-a059-8b5f44369f51",
       "name": "eido",
       "url": "https://github.com/tony3liu/eido",
       "oneLiner": "and reviewing every change that matters.",
@@ -71,7 +105,7 @@
       ]
     },
     {
-      "id": "b69f9b88-a132-49fe-b12f-7d19c3231a60",
+      "id": "16b58fe4-a3c2-409b-89e5-928c6ddbdac9",
       "name": "zcode-claim-9router",
       "url": "https://github.com/0xgetz/zcode-claim-9router",
       "oneLiner": "ai account → mint a ZCode JWT → claim the free Start Plan → connect GLM to 9Router.",
@@ -88,41 +122,24 @@
       ]
     },
     {
-      "id": "419d088a-d825-4251-a590-87f0c4f07eb9",
-      "name": "motionmaxxing",
-      "url": "https://github.com/Tejashmakwana/motionmaxxing",
-      "oneLiner": "Your keyframes get a face rating: first the default (mid), then the measured version (maxxed).",
-      "description": "Your keyframes get a face rating: first the default (mid), then the measured version (maxxed). Typography and vector only, no photo of anyone, made with the skill's own runtime. Watch the MP4 · how it was made and checked\nLooksmaxxing for motion graphics.\nAn agent skill that turns AI slop videos into films that look made by a motion designer.\nFollow @makwanatejas170 on X for the next glow-ups. Liv",
+      "id": "158558a9-c99d-4252-b720-08c4cf058c17",
+      "name": "opencode-rust",
+      "url": "https://github.com/vakandi/opencode-rust",
+      "oneLiner": "The open source AI coding agent, in Rust.",
+      "description": "The open source AI coding agent, in Rust.\nA Rust implementation of OpenCode — CLI, TUI and HTTP server for local AI agents. Sessions, tool execution, MCP, LSP and a TypeScript plugin bridge, with no container runtime.\nThree supported surfaces. They install the same engine under the same opr\ncommand, but they are\nnot interchangeable — opr\nis a dispatcher in some and a symlink in others.\nnpm install",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Tejashmakwana/motionmaxxing",
-      "categories": [
-        "code",
-        "design",
-        "video"
-      ]
-    },
-    {
-      "id": "76149a56-2f82-4030-8936-ad7bc5cf921f",
-      "name": "markov",
-      "url": "https://github.com/ienapliss/markov",
-      "oneLiner": "A general-purpose LLM harness and coding agent implemented as a single, hackable Bash script.",
-      "description": "A general-purpose LLM harness and coding agent implemented as a single, hackable Bash script.\nMarkov\nworks with just curl\n, jq, and very common Unix utilities as its\ndependencies, so you can download the script file and run it right away,\nprovided you have Bash 5+.\nFor markov\n, everything else is OSP\n(On-Site Procurement).\nMarkov\ninfiltrates your system without any other baggage, working only with",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/vakandi/opencode-rust.git",
       "categories": [
         "code",
         "agents",
-        "security"
+        "data"
       ]
     },
     {
-      "id": "21819b03-5bff-4b50-bb85-88ea63da7f12",
+      "id": "5d4ec0cd-41aa-42fa-a119-efb4b6fee032",
       "name": "inkling",
       "url": "https://github.com/inklingfree/inkling",
       "oneLiner": "A personal assistant that lives in WhatsApp, for you and a few friends.",
@@ -139,75 +156,142 @@
       ]
     },
     {
-      "id": "30ff7ab0-1422-446a-9a90-01196285ee42",
-      "name": "aurelio-finance",
-      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-      "oneLiner": "Aurelio is a wealth-management and financial-planning app that runs on your own computer, with an AI advisor you can talk to.",
-      "description": "Aurelio is a wealth-management and financial-planning app that runs on your own computer, with an AI advisor you can talk to. Your records are kept on your machine. The AI part is optional: it goes through OpenRouter with your own key.\nYou need Git, Node.js 22 or later and uv. Then:\ngit clone https://github.com/LosaLosSantos/aurelio-finance.git\ncd aurelio-finance\n./start.sh --demo # macOS and Linu",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/LosaLosSantos/aurelio-finance.git",
-      "categories": [
-        "code",
-        "data",
-        "search"
-      ]
-    },
-    {
-      "id": "f2aaf61a-f294-4311-aac4-a7014a0cea13",
-      "name": "Vigil",
-      "url": "https://github.com/VigilOSS/Vigil",
-      "oneLiner": "An AI harness for long-running pentests, bug bounties, and code audits, with independently verified findings.",
-      "description": "An AI harness for long-running pentests, bug bounties, and code audits, with independently verified findings.\nVigil runs long offensive security engagements: web app pentesting and bug bounty hunting, white-box code audits, or both against one target. A lean operator keeps the engagement on track while specialist agents recon, hunt, and exploit inside a full Kali runtime. A finding counts only whe",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/VigilOSS/Vigil",
-      "categories": [
-        "code",
-        "agents",
-        "security"
-      ]
-    },
-    {
-      "id": "883cc510-2915-4b73-9dc6-47bc5ec0b7a8",
-      "name": "Remove AI Metadata Offline in Browser",
-      "url": "https://freeaiwiper.com/",
-      "oneLiner": "Inspect and remove supported AI metadata, including Content Credentials and generator information.",
-      "description": "Studio fieldnotes\nShared moments ago\nFile inspection\n3 traces found- C2PA manifest\n- Detected\n- Generator record\n- Detected\n- XMP provenance\n- Detected\nInspect and remove supported AI metadata, including Content Credentials and generator information. Private metadata removal is optional. Your file stays on your device.\nLog in to process multiple files.\nSame image, different file\nThis demonstration",
+      "id": "6775abe7-9105-4a4b-be2c-d2dfec90c480",
+      "name": "MemorySync",
+      "url": "https://memorysync.io/try",
+      "oneLiner": "Tell MemorySync one fact, reload the page, then ask for it back in your own words.",
+      "description": "Playground\nTry persistent memory in your browser\nTell MemorySync one fact, reload the page, then ask for it back in your own words. No signup, nothing to install — and every API call is shown as it happens.\n- No signup\n- Real production API\n- Private to your browser\n- Saving to\n- Demo space\n- Page load\n- —\nWrite one fact about you or your work. It’s saved on MemorySync’s servers, not in this page ",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "data",
-        "audio"
+        "agents",
+        "design",
+        "search"
       ]
     },
     {
-      "id": "ea181db3-5eda-42e9-84a2-749a78744e66",
-      "name": "Reproducing three AI text detectors",
-      "url": "https://github.com/abduldattijo/ai-slop-detection-reproduction",
-      "oneLiner": "This package contains the exact review files and scripts used for the experiment described in the accompanying article.",
-      "description": "This package contains the exact review files and scripts used for the experiment described in the accompanying article. It lets you rerun the detector comparison, the sentiment-classifier evaluation, and (if you download the source archive) the Mendeley collection audit on your own computer.\n- Python 3.11 or newer\n- The packages in\nrequirements.txt\n- About 2 GB of free disk space for the first run",
-      "pricing": "free",
+      "id": "75d7f097-5fcf-4683-b83c-51a031051907",
+      "name": "Helicon",
+      "url": "https://github.com/HarjjotSinghh/helicon",
+      "oneLiner": "A free, MIT-licensed desktop app (Windows, macOS, Linux) and VS Code extension for Meta's Muse Code CLI.",
+      "description": "A free, MIT-licensed desktop app (Windows, macOS, Linux) and VS Code extension for Meta's Muse Code CLI. Unofficial, not affiliated with Meta.\nDownload: Windows · macOS · Linux (AppImage) · VS Code Marketplace · Open VSX (Cursor, Windsurf, Antigravity)\nTry it in your browser: https://helicon.sh/try?utm_source=github&utm_medium=readme&utm_campaign=readme\nYou need the muse\nCLI installed and signed i",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/abduldattijo/ai-slop-detection-reproduction.git",
+      "githubUrl": null,
       "categories": [
         "code",
-        "design",
+        "security",
         "data"
       ]
     },
     {
-      "id": "a82d6293-1e69-445d-a34e-bb6ff90e350e",
+      "id": "bfd7cf65-2c9c-4cc1-88a4-1707b2ce1245",
+      "name": "Autograph",
+      "url": "https://autographmusic.com",
+      "oneLiner": "You write on the staff the way you would on paper.",
+      "description": "What it does\nYou write on the staff the way you would on paper. Autograph reads the stroke and sets it properly: the notehead on the right line, the stem the right way up, the beams and accidentals where an engraver would put them. The handwriting disappears; the music stays.\nIt is built for the moment before a piece is finished: working out a phrase, writing an exercise for a student, getting an ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "audio",
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "e1b8f630-a130-4051-9297-225019361083",
+      "name": "Acceptodds a Prediction Market for Research",
+      "url": "https://acceptodds.com",
+      "oneLiner": "NeurIPS 2026 markets are now open: acceptodds.",
+      "description": "NeurIPS 2026 markets are now open: acceptodds.com/neurips2026\nacceptodds: Which papers will get accepted at ICLR 2027?\nAbstract\nA prediction market on peer review. Each paper has a market on its decision (accept or reject), priced by researchers who stake $rep, an in app currency, on what they expect. Everyone who signs up receives 1,000 $rep to trade with in each venue. Prices are probabilities, ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "research",
+        "search"
+      ]
+    },
+    {
+      "id": "7fa3e3b4-8c04-4fad-b6ea-b10402705c15",
+      "name": "Spotatui",
+      "url": "https://github.com/LargeModGames/spotatui",
+      "oneLiner": "Subsonic/Navidrome, Internet Radio, YouTube, and Qobuz sources, plus Apple Music on macOS.",
+      "description": "A terminal music player written in Rust, powered by Ratatui\nNative Spotify streaming, synced lyrics, a real-time audio visualizer, local file,\nSubsonic/Navidrome, Internet Radio, YouTube, and Qobuz sources, plus Apple Music on macOS. Spotify is optional.\n- About\n- Features\n- Installation\n- Quickstart\n- Music Sources\n- AI DJ\n- Native Streaming\n- Configuration\n- Plugins\n- Performance\n- Playback Requ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "audio",
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "bab429b3-3056-42ef-a299-94c5c952c7dc",
+      "name": "Use your OpenAI subscription to create audiobooks",
+      "url": "https://pdftomp3.com/connect-ai/",
+      "oneLiner": "Use your subscription to process the documents.",
+      "description": "Use the AI you already pay for\nMake your first audiobook\nWatch on YouTube$0to PDF TO MP3\nUse your subscription to process the documents. The speech generation is billed by Google or OpenAI.\n01Connect your AI\nIn Codex, open Settings → Plugins → Add MCP server.\nChoose Streamable HTTP and paste this server address.\nSave, then choose Authenticate and connect your PDF TO MP3 account.\n02Add your speech ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "audio",
+        "voice"
+      ]
+    },
+    {
+      "id": "bf74be89-8a88-49a1-bde0-0dd3c3aad4d1",
+      "name": "solid-glass",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "oneLiner": "A refined glass-inspired aesthetic that feels solid from afar and reveals its subtle materiality up close.",
+      "description": "A refined glass-inspired aesthetic that feels solid from afar and reveals its subtle materiality up close. Delicate highlights, fine borders, and soft shadows create depth, while a restrained finish emphasizes clarity, stability, and a sense of solidity over transparency, refraction, and fluidity.\nThat is one of the blocks: whole screens made of the components, to look at, read and copy in. Below,",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "security",
+        "data"
+      ]
+    },
+    {
+      "id": "a288153d-e8ba-46c4-a260-42a27e960ca2",
+      "name": "raycast-cli-assistant",
+      "url": "https://github.com/umitaltintas/raycast-cli-assistant",
+      "oneLiner": "Raycast AI on the Claude or ChatGPT plan you already pay for.",
+      "description": "Raycast AI on the Claude or ChatGPT plan you already pay for.\nClaude and ChatGPT plans include a coding CLI: Claude Code and Codex. This Raycast extension runs your requests through whichever one is installed and signed in on your Mac, so you get the everyday Raycast AI features without a Raycast Pro subscription, an API key or per-token billing.\n- Ask AI from root search, and Chat with follow-ups",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/umitaltintas/raycast-cli-assistant.git",
+      "categories": [
+        "code",
+        "agents",
+        "writing"
+      ]
+    },
+    {
+      "id": "6f4db0ef-e38f-4c8a-815f-dfeb30d40b85",
       "name": "graphersal",
       "url": "https://github.com/graphersal/graphersal",
       "oneLiner": "An in-memory graph database and traversal engine in Rust, queried with Gremlin.",
@@ -224,7 +308,7 @@
       ]
     },
     {
-      "id": "2f867b25-e4b9-4e71-8a70-535baa9f2519",
+      "id": "1d36260b-1f48-4df8-8fc9-ed6ad1756099",
       "name": "ai-writer",
       "url": "https://github.com/csadigital/ai-writer",
       "oneLiner": "Turn product photos into clear, multilingual ecommerce copy.",
@@ -241,7 +325,24 @@
       ]
     },
     {
-      "id": "1965cf8a-32be-44da-abab-7b4038b98acf",
+      "id": "1d65d741-294d-4d1c-898d-73def3a08bd1",
+      "name": "dudes",
+      "url": "https://github.com/ArcfluxResearch/dudes",
+      "oneLiner": "Dudes is a supervisor for coding agents, written in Rust.",
+      "description": "Dudes is a supervisor for coding agents, written in Rust. You hire an agent, such as Claude Code, Codex or Pi, and give it a role. You then talk to it, or give it a goal with a completion check. A background daemon keeps the agent working until the daemon's own run of that check passes. The Floor is a 3D office in your browser. It shows each agent at a desk, and what you see there is what the daem",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "2a4c90e2-090e-473f-940a-641315d3b4b5",
       "name": "gluon",
       "url": "https://github.com/fidipro/gluon",
       "oneLiner": "Gluon is a control platform for coding agents.",
@@ -258,24 +359,7 @@
       ]
     },
     {
-      "id": "f32209ff-7be7-45f0-882b-277d4baa4108",
-      "name": "cad-studio",
-      "url": "https://github.com/filippofinke/cad-studio",
-      "oneLiner": "Describe a part, get a printable model.",
-      "description": "Describe a part, get a printable model. A native macOS CAD studio powered by the coding agent on your Mac (Claude Code or Codex) and build123d.\nType \"a print-in-place planetary gearbox with four colors, animated with real gear ratios\" and CAD Studio has your coding agent write a parametric model.py\n, run it with build123d and hand you a 3D model, an ISO technical drawing and files ready for your s",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/filippofinke/cad-studio.git",
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "5ed25051-4a8a-41dd-b267-857d4a4e13b0",
+      "id": "80a370a2-43d2-4714-9cc2-89244ed8da6d",
       "name": "Nythos-Plus-Adaptive-Effort-Runtime-for-Local-AI",
       "url": "https://github.com/shokribardiya/Nythos-Plus-Adaptive-Effort-Runtime-for-Local-AI",
       "oneLiner": "Adaptive Effort Runtime for local AI systems Think only as hard as the task deserves.",
@@ -292,77 +376,11 @@
       ]
     },
     {
-      "id": "7339edf2-24c8-46d1-92b9-5dd6dd082402",
-      "name": "QGIS bans AI assisted contributions",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "oneLiner": "Followup discussion at https://lists.",
-      "description": "Repository navigation\nAdd QEP428: No ai contributions permitted - #387\nConversation\nFollowup discussion at https://lists.osgeo.org/pipermail/qgis-developer/2026-September/068576.html.\nThis formally changes the AI policy to a strict \"NOT ALLOWED\" policy.\nuclaros\nleft a comment\nThere was a problem hiding this comment.\nCan we please have some more context on this proposal?\nThe mailing list posts ment",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "writing",
-        "marketing"
-      ]
-    },
-    {
-      "id": "b8f92854-2250-4de7-834f-b17c49b6e8df",
-      "name": "Salt",
-      "url": "https://saltapp.ai/surfaces",
-      "oneLiner": "Talk, pay and hire, with humans and AI agents.",
-      "description": "Salt\nChat for the Human + AI Economy\nTalk, pay and hire, with humans and AI agents. End-to-end encrypted.\nChat\nEnd-to-end encrypted with OpenPGP: the server stores only ciphertext it cannot open. Verify contacts by key fingerprint; groups, reactions and read receipts included.\nMoney in the conversation\nSend or request funds in-chat: a request arrives as a bubble with a Pay button. Group splits, in",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents"
-      ]
-    },
-    {
-      "id": "a955ecb5-bd83-4c2a-959c-b85c3919682c",
-      "name": "Ctxvitals",
-      "url": "https://github.com/princejain756/ctxvitals",
-      "oneLiner": "A Lighthouse for your AI agent stack.",
-      "description": "A Lighthouse for your AI agent stack. One command measures what every MCP server, skill, command, and rules file actually costs you in tokens — before your agent reads a single message.\nnpx ctxvitals\nPeople running 15+ MCP servers can burn 60,000+ tokens per turn on tool\nschemas alone. Until now the only way to find out was grepping JSONL session\nlogs and guessing. ctxvitals launches each stdio MC",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/princejain756/ctxvitals",
-      "categories": [
-        "code",
-        "agents",
-        "writing"
-      ]
-    },
-    {
-      "id": "86161ff3-9e74-4e33-8fb3-764b3b01ec0d",
-      "name": "I built Airlock",
-      "url": "https://airlock.sorrel.systems",
-      "oneLiner": "An agent in your terminal can do anything you can.",
-      "description": "Nobody reads the fortieth prompt\nAn agent in your terminal can do anything you can. It can delete files outside the project, read your SSH keys, or follow instructions someone planted in a dependency's README. Approval prompts are meant to catch that, but by the fortieth you're clicking yes without reading. And they only ever see the command the agent typed, not what the build script went on to do",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "c9bde53f-730a-4c45-b4a0-235bbec752d0",
-      "name": "DBJoy",
-      "url": "https://github.com/agustind/dbjoy",
-      "oneLiner": "The AI-first PostgreSQL client for the Mac.",
-      "description": "██████╗ ██████╗ ██╗ ██████╗ ██╗ ██╗ ██╔══██╗██╔══██╗ ██║██╔═══██╗╚██╗ ██╔╝ ██║ ██║██████╔╝ ██║██║ ██║ ╚████╔╝ ██║ ██║██╔══██╗██ ██║██║ ██║ ╚██╔╝ ██████╔╝██████╔╝╚█████╔╝╚██████╔╝ ██║ ╚═════╝ ╚═════╝ ╚════╝ ╚═════╝ ╚═╝\nThe AI-first PostgreSQL client for the Mac. Ask questions about your data in plain language and get answers backed by real queries, or have the SQL written for you, with your own Ant",
+      "id": "d7206693-82b2-4c3e-809b-be5388d73bf5",
+      "name": "shadowclone",
+      "url": "https://github.com/theonly1me/shadowclone",
+      "oneLiner": "shadowclone keeps your engineering preferences the same in every coding agent.",
+      "description": "shadowclone keeps your engineering preferences the same in every coding agent. It maintains one set of skills and instructions for Claude Code, Codex, Cursor, Pi, and Antigravity. You do not copy rules from one tool to the next. shadowclone can also learn new preferences from the sessions that you allow.\nThe same skills reach your cloud agent. A GitHub bot runs Claude Code, Codex, or Cursor with y",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -371,24 +389,7 @@
       "categories": [
         "code",
         "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "7299ea18-0580-4306-b39f-16bc69ba8293",
-      "name": "Built a Runtime That Grows Its Own Agent Team",
-      "url": "https://github.com/heyongjun666/AICU-Graph",
-      "oneLiner": "Build dynamic AI agent organizations that collaborate on complex, long-running tasks.",
-      "description": "English | 简体中文\nBuild dynamic AI agent organizations that collaborate on complex, long-running tasks.\nAICU-Graph is a multi-agent orchestration runtime: give it a goal, and Managers plan the work while Workers carry it out inside an organization built at runtime, with every node driven by a real AI coding CLI (Claude Code, Codex, Gemini and more). It is a runnable research and engineering prototype",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/heyongjun666/AICU-Graph.git",
-      "categories": [
-        "code",
-        "design",
-        "agents"
+        "design"
       ]
     }
   ]
