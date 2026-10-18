@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-10-17T10:15:44.971567+00:00",
-  "count": 29,
+  "generatedAt": "2026-10-18T10:31:05.471247+00:00",
+  "count": 24,
   "tools": [
     {
-      "id": "7985ea1a-1908-44ad-b661-d6fa4b9a4bbc",
+      "id": "613892a4-56ec-4752-aed9-3fc88b6dced6",
+      "name": "alphacode-free-2api",
+      "url": "https://github.com/0xgetz/alphacode-free-2api",
+      "oneLiner": "Turn alphacode's built-in free AI lane into an OpenAI-compatible API.",
+      "description": "Turn alphacode's built-in free AI lane into an OpenAI-compatible API.\nPlug it into 9Router, Cursor, Cline, or any LLM client. Zero dependencies.\nEnglish · Bahasa Indonesia · Español · 简体中文 · 日本語\nalphacode ships with a built-in free lane (alphax-free\n) — free LLM models routed through OpenRouter's :free\ntier, no API key required. This project wraps that lane in a tiny HTTP gateway and speaks the Op",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/dragonked2/alphacode",
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "a58c9832-46d0-4a67-9d7a-512b28478962",
       "name": "ptero-bulk-9router",
       "url": "https://github.com/0xgetz/ptero-bulk-9router",
       "oneLiner": "pro anonymous accounts, auto-harvest their tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced OpenAI-compatible pool.",
@@ -20,7 +37,24 @@
       ]
     },
     {
-      "id": "4a650f6c-1a63-4fcf-8eb3-8fd4dee5a645",
+      "id": "e938d06a-e4b6-4cac-a5d2-b56676ad738c",
+      "name": "Malvex",
+      "url": "https://github.com/JoasASantos/Malvex",
+      "oneLiner": "Reverse engineer malware with agents, from packed droppers down to memory-resident payloads.",
+      "description": "Reverse engineer malware with agents, from packed droppers down to memory-resident payloads.\nMalvex is a local-first orchestration harness that connects AI agents to 126 reverse-engineering and malware-analysis tools through MCP (Model Context Protocol). Point it at a binary, a memory dump, a document, or a packet capture. Malvex triages the sample, fans out parallel agents over IDA, Ghidra, radar",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "f333c64b-13bf-4f3d-a6cb-1bd1c4e0ef9f",
       "name": "notion-bulk-9router",
       "url": "https://github.com/0xgetz/notion-bulk-9router",
       "oneLiner": "load-balanced OpenAI-compatible pool behind a single 9Router endpoint.",
@@ -37,24 +71,24 @@
       ]
     },
     {
-      "id": "f276d606-3c52-48ab-80f1-80fd44101f9b",
+      "id": "fe4334d8-ff9f-43ca-89f8-c841184f8a5f",
       "name": "opencode-free-bridge",
       "url": "https://github.com/azrinaldi/opencode-free-bridge",
-      "oneLiner": "OpenAI-compatible API bridge for OpenCode free-tier models — no account, no API key required.",
-      "description": "OpenAI-compatible API bridge for OpenCode free-tier models — no account, no API key required.\nExposes a local /v1/chat/completions\nendpoint that any OpenAI-compatible client (9Router, Cursor, Continue, VS Code, the OpenAI SDK) can use directly.\n- Automatic model discovery — the free-model list is fetched from the upstream gateway at startup and refreshed hourly. New models appear without a code ch",
+      "oneLiner": "OpenAI-compatible local API bridge for OpenCode free-tier models.",
+      "description": "OpenAI-compatible local API bridge for OpenCode free-tier models. No account and no API key required.\nIt runs a local server on http://127.0.0.1:20129/v1\nthat any OpenAI-compatible client (9Router, Cursor, Continue, LiteLLM, Open WebUI, or the OpenAI SDK) can call directly.\n- Bun TLS transport parity: The official OpenCode CLI ships as a compiled Bun binary, and upstream's free-tier gate inspects ",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/azrinaldi/opencode-free-bridge",
+      "githubUrl": "https://github.com/azrinaldi/opencode-free-bridge.git",
       "categories": [
         "code",
-        "design",
-        "writing"
+        "agents",
+        "search"
       ]
     },
     {
-      "id": "a309dd40-d7fa-4e93-b7f2-11d13de0f83a",
+      "id": "afc9f00f-ff3d-4eb6-8080-018d4145b477",
       "name": "vibereceipt",
       "url": "https://github.com/glmn-ai/vibereceipt",
       "oneLiner": "Print a store receipt for your AI coding.",
@@ -66,12 +100,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "data",
-        "agents"
+        "agents",
+        "data"
       ]
     },
     {
-      "id": "e71e9b88-638e-42bb-a296-35a5cc755743",
+      "id": "cb408c4e-ef7c-469e-9e10-c9c7a06d7337",
       "name": "new-term-radar",
       "url": "https://github.com/zhuyansen/new-term-radar",
       "oneLiner": "A daily report of the names that are starting to surge in AI: new models, products, tools and repos, caught where they are said first, before they show up in keyword tools.",
@@ -83,12 +117,12 @@
       "githubUrl": "https://github.com/zhuyansen/new-term-radar",
       "categories": [
         "code",
-        "image",
-        "agents"
+        "agents",
+        "image"
       ]
     },
     {
-      "id": "eb667a00-ad3d-4275-9633-cac26919971e",
+      "id": "9459390f-1341-4d09-a09f-9876f6641369",
       "name": "chatway-mcp-server",
       "url": "https://github.com/Chatway-app/chatway-mcp-server",
       "oneLiner": "Let ChatGPT, Claude, Gemini, Cursor, and other AI agents read and manage your Chatway live chat conversations, support tickets, and contacts.",
@@ -105,24 +139,7 @@
       ]
     },
     {
-      "id": "c036b043-b230-4acb-9b0d-f926aaedb693",
-      "name": "filedig",
-      "url": "https://github.com/rupeshs/filedig",
-      "oneLiner": "Find your files by what they contain, not what they are called.",
-      "description": "Find your files by what they contain, not what they are called.\nLocal semantic search for documents and pictures on Windows. Nothing leaves your computer.\nDownload · Features · Getting started · Build from source\nType what you are looking for in plain language, such as \"how much is the rent\" or \"photo of a sunset\", and FileDig finds the matching text files, PDFs and images by meaning.\nIt runs Embe",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "image",
-        "data"
-      ]
-    },
-    {
-      "id": "36f13b85-24e8-4f68-8813-24e0e40641f9",
+      "id": "38d0df08-022f-492a-b6b4-e097b17ea295",
       "name": "rigby2d",
       "url": "https://github.com/jaisurya-dev-art/rigby2d",
       "oneLiner": "Open-source 2D skeletal animation for games, films and interactive experiences.",
@@ -134,12 +151,12 @@
       "githubUrl": "https://github.com/jaisurya-dev-art/rigby2d.git",
       "categories": [
         "code",
-        "video",
-        "design"
+        "design",
+        "video"
       ]
     },
     {
-      "id": "19a3d9dc-52bd-42c2-8123-5898d3c99448",
+      "id": "c4ef25eb-44c6-4614-93cf-18b89fd9e8bd",
       "name": "awesome-ai-game-dev-tools",
       "url": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
       "oneLiner": "Open-source AI tools for making games, and for decompiling, remixing and mashing up the games you already own .",
@@ -156,7 +173,7 @@
       ]
     },
     {
-      "id": "fd1d43fa-41fe-473c-ad54-faabe1241725",
+      "id": "ec80550e-20bd-4099-99fa-e0a3646bc9a7",
       "name": "opencode-rust",
       "url": "https://github.com/vakandi/opencode-rust",
       "oneLiner": "The open source AI coding agent, in Rust.",
@@ -168,12 +185,12 @@
       "githubUrl": "https://github.com/vakandi/opencode-rust.git",
       "categories": [
         "code",
-        "data",
-        "agents"
+        "agents",
+        "data"
       ]
     },
     {
-      "id": "daf214e4-9ff7-4758-9c23-b984d1a764b2",
+      "id": "8303128f-0a7c-4d04-b570-9c75a7566299",
       "name": "srouter",
       "url": "https://github.com/baiibayu/srouter",
       "oneLiner": "Never hit rate limits again.",
@@ -190,109 +207,108 @@
       ]
     },
     {
-      "id": "c8c1c81f-303c-43f3-adbf-d4472485f856",
-      "name": "EmbedIDS",
-      "url": "https://embedids.linuscent.com/main/",
-      "oneLiner": "Device trust and intrusion detection for embedded systems.",
-      "description": "Device trust and intrusion detection for embedded systems.\nLightweight, open-source runtime security. On-device anomaly detection for low-power embedded and IoT devices, with no dynamic memory allocation.\n- Apache 2.0\n- C11 static library\n- No heap allocation\n- Works offline\nNew to EmbedIDS?\nEmbedIDS is a lightweight Runtime Intrusion Detection SDK specifically designed for low-power embedded Inte",
+      "id": "aeb7d3c6-1774-4022-b6a8-f1fd53cd7489",
+      "name": "AIOps Cockpit",
+      "url": "https://github.com/matricphase-dot/aiops",
+      "oneLiner": "The open-source, AI-powered SRE control room.",
+      "description": "The open-source, AI-powered SRE control room.\nDiagnose incidents in seconds with an AI agent that reads your logs, checks your metrics, and proposes a fix. 3D visualization. Human-in-the-loop safety. Self-hosted.\n- 3D Spatial Topology Map - See your infrastructure as a living, breathing 3D space. Green is healthy, red is on fire, spinning means failing.\n- AI Agent Diagnostics - Describe the incide",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/matricphase-dot/aiops.git",
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "c1ec6b46-c683-4fdc-9fb0-b66036744e53",
+      "name": "Connecting Captions Local Private AI Interpreter",
+      "url": "https://local-host.ai/connectingCaptions/",
+      "oneLiner": "Each sentence appears when it is ready.",
+      "description": "Live captions on a Mac. Each sentence appears when it is ready. Use it\nfor a presentation, a bilingual room, or any conversation that needs a\ntranslation.\nCompletely on-device by default. Speech recognition and Apple Translation\nrun on this Mac. Voice never leaves the machine unless someone turns on a\ncloud speech model. Theater doesn’t call home. No account. No telemetry.\nArabic · Chinese · Danis",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "voice"
+      ]
+    },
+    {
+      "id": "6cb92747-ee12-49c0-9ffa-38f543f92ea2",
+      "name": "MonkeyITM",
+      "url": "https://github.com/o87enterprises-ai/MonkeyITM",
+      "oneLiner": "Broker-in-the-middle containment for AI agents.",
+      "description": "Broker-in-the-middle containment for AI agents.\nThe agent lives in a dumb interpreter with zero ambient authority. It cannot touch the network, the filesystem, or any credential. Its only capability is emitting intents to an external broker. The broker decides. The broker executes. The broker logs.\nWhere it's headed: the proctored exam room for AI agent benchmarks. The benchmark supplies the tasks",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "agents",
         "security"
       ]
     },
     {
-      "id": "081d7385-cac7-4839-81da-e9e9eb62ea37",
-      "name": "CiteLadder",
-      "url": "https://github.com/abhij1306/CiteLadder",
-      "oneLiner": "Open-source AI search visibility (GEO / AEO) you can self-host.",
-      "description": "Open-source AI search visibility (GEO / AEO) you can self-host.\nSee how ChatGPT, Gemini, Claude and Google AI Overviews answer your buyers' questions, which brands they name, and which pages they cite. Then find out why, fix it, and measure whether it worked.\nQuick start · Features · Screenshots · MCP · Hosted version · Docs · Contributing\nDon't want to run it yourself? CiteLadder Cloud is the hos",
+      "id": "44464671-67e2-4fbc-a899-633f53069d37",
+      "name": "Astrax",
+      "url": "https://github.com/AstraxOf/astrax-mcp",
+      "oneLiner": "Servidor MCP (Model Context Protocol) en Python que le da a tu IA ojos y manos sobre tu pantalla: ver, hacer clic, escribir y ejecutar tareas de varios pasos sin saturar el context",
+      "description": "Servidor MCP (Model Context Protocol) en Python que le da a tu IA ojos y manos sobre tu pantalla: ver, hacer clic, escribir y ejecutar tareas de varios pasos sin saturar el contexto.\nCompatible con Claude Desktop, Roo Code, Cline, Cursor, Windsurf, Gemini CLI, OpenCode y cualquier cliente MCP con transporte stdio\n. Funciona con modelos locales (Ollama) y APIs comerciales (Claude, Gemini…).\n📺 Tutor",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/abhij1306/CiteLadder.git",
+      "githubUrl": "https://github.com/AstraxOf/astrax-mcp.git",
       "categories": [
         "code",
-        "data",
-        "search"
+        "design",
+        "image"
       ]
     },
     {
-      "id": "35e98138-f676-4516-9e63-6e37c1c7892b",
-      "name": "I built a free collection of browser-based 3D tools",
-      "url": "https://3dvalley.com",
-      "oneLiner": "Turn a photo into a 3D model.",
-      "description": "Turn a photo into a 3D model. Free.\nA photo of one object becomes a textured 3D model in about a minute. Download it for printing, a game or the web. No account required.\nor drop one here. JPG, PNG, WebP or HEIC.\nPopular tools\nAll 12 toolsEach picture is a real file before and after. All free, and the file tools run in your browser, so your files stay on your machine.\n- Image to 3DFree dailyTurn a",
+      "id": "8e963eb2-8a95-4cdc-bd3e-f78a3e7241bb",
+      "name": "Sphinx",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "oneLiner": "Sphinx is a Git hook for agent-assisted development.",
+      "description": "- Free\n- FOSS\n“Outsource your thinking,\nnot your understanding.”\n— Sun Tzu\nSphinx is a Git hook for agent-assisted development. Before your agent’s code ships, it asks you a question about what that code actually does.\nnpm install -g sphinx-understandBuilt to run on minimal tokens, from your existing coding agent, OpenRouter, or any OpenAI-compatible endpoint.\nSphinx\nYour webhook handler now saves",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "image",
-        "design",
-        "writing"
-      ]
-    },
-    {
-      "id": "b33c3606-6958-4077-8f38-718cb05bcbe6",
-      "name": "Let AI order DoorDash for me",
-      "url": "https://www.wysebee.com",
-      "oneLiner": "Connect your AI agent to everything.",
-      "description": "No code. No glue scripts.\nConnect your AI agent to everything.\nYour browser. Your containers. Your databases. Configure the tools, teach it a skill, then watch it work — every step on screen, nothing running where you can't see it.\nmacOS 12 or later · Apple Silicon or Intel · 251 MB · Free, no account · Runs entirely on your machine\nAlso available for Windows — download Wysebee-0.3.0-setup.exe (18",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
         "code",
-        "data",
+        "design",
         "agents"
       ]
     },
     {
-      "id": "3ad558a9-5f27-4a5e-aaac-ee450b7408c0",
-      "name": "Ozil AI",
-      "url": "https://ozilai.net/",
-      "oneLiner": "You, scoring the viral Ozil goal, set to the trend's music.",
-      "description": "Ozil AI Goal Video\nOne photo. One chip. One empty net.\nYou, scoring the viral Ozil goal, set to the trend's music.\nOzil AI goal generator\nAdd your photo — one person or pet\nYour photo · The scorer\nYou, a friend, or your cat or dog — one per photo, facing the camera.\nPick the outfit\nPick model, quality, format & music\nPrivate by default — never published, never used to train AI.\n- Your photo is onl",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "video",
-        "image"
-      ]
-    },
-    {
-      "id": "6374cfad-1800-4d37-be09-b6bb6183fac4",
+      "id": "44c0bc5b-42c3-41aa-aa63-2fa31718fbb5",
       "name": "pick-your-ai-research",
       "url": "https://github.com/Pick-Your-AI/pick-your-ai-research",
-      "oneLiner": "Research for an AI system builder inspired by PCPartPicker: choose compatible AI components, compare costs and tradeoffs, and save or share a configuration with evidence behind its",
-      "description": "Research for an AI system builder inspired by PCPartPicker: choose compatible AI components, compare costs and tradeoffs, and save or share a configuration with evidence behind its recommendations.\nTechnical research Project · Market research Project · Issues · Organization\n- Find your assigned issue in the relevant Project. Read its scope, acceptance criteria, deliverable path, and existing PRs b",
+      "oneLiner": "See the migration record.",
+      "description": "Mobile planning issues now live in Pick-Your-AI/pick-your-ai-android\nand Pick-Your-AI/pick-your-ai-apple\n. See the migration record. Repository creation resolves location only; framework, modules and service placement remain gated. Existing acceptance-record paths are preserved. Historical snapshots below do not override the live migration.\nResearch for an AI system builder inspired by PCPartPicke",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "search",
         "productivity",
+        "search",
         "research"
       ]
     },
     {
-      "id": "9299428d-c32c-4aad-8d95-620c0c61b2d8",
+      "id": "94e1f740-9c4b-420c-83ec-3743ca6b62e4",
       "name": "voice-ai-assistant",
       "url": "https://github.com/ahmedbadr-dev/voice-ai-assistant",
       "oneLiner": "Built as a focused demo of speech recognition + generative AI + text-to-speech on Windows.",
@@ -309,7 +325,7 @@
       ]
     },
     {
-      "id": "f3a4046f-2b7d-499b-96bc-904439e6e2ed",
+      "id": "8bf0b4de-2474-4def-bec8-1161b0f6689b",
       "name": "SoftJL",
       "url": "https://github.com/guolola/SoftJL",
       "oneLiner": "Connect requirements, UML, design, tests and engineering documents with your own model service.",
@@ -326,11 +342,27 @@
       ]
     },
     {
-      "id": "d162ff01-c004-41f2-aeb5-9659a61299cf",
+      "id": "d297b39f-e467-4af5-b68b-fce29e57c060",
+      "name": "vita-port-skill",
+      "url": "https://github.com/Yannis100/vita-port-skill",
+      "oneLiner": "Agent skills for porting software to the Sony PS Vita (PSVita / PS TV) as VPK homebrew.",
+      "description": "Agent skills for porting software to the Sony PS Vita (PSVita / PS TV) as VPK homebrew.\nThis repository publishes two skills:\n- vita-port — porting games to the PS Vita (VitaSDK, vitaGL, Android .so loader, static recomp, API emulation).\n- vita-app-port — porting Android applications and non-game tools to the PS Vita (.so loader or native VitaSDK builds).\nInstall both:\nnpx skills add yannis100/vit",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "productivity"
+      ]
+    },
+    {
+      "id": "78683e80-5dfe-4a38-8d8c-19d714b977c5",
       "name": "ai-motion-library",
       "url": "https://github.com/apenasdouglas/ai-motion-library",
       "oneLiner": "You signed in with another tab or window.",
-      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nStar67 (67)You must be signed in to star a repository\nAbout\nBiblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir",
+      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nStar68 (68)You must be signed in to star a repository\nAbout\nBiblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -342,7 +374,7 @@
       ]
     },
     {
-      "id": "2468f9d2-24e8-4f0a-8699-fcb266dd3f87",
+      "id": "56775e51-60fb-4f82-aea4-1b9cfacc599a",
       "name": "solid-glass",
       "url": "https://github.com/deeplethe/solid-glass",
       "oneLiner": "A refined glass-inspired aesthetic that feels solid from afar and reveals its subtle materiality up close.",
@@ -354,16 +386,16 @@
       "githubUrl": null,
       "categories": [
         "design",
-        "data",
-        "security"
+        "security",
+        "data"
       ]
     },
     {
-      "id": "dbdf2621-d2da-4874-bd0a-114dfff23c3c",
+      "id": "fcf102bd-c022-4d3e-830c-f74e37396d5c",
       "name": "awesome-REA-cases",
       "url": "https://github.com/songshikang0111/awesome-REA-cases",
       "oneLiner": "A curated collection of reverse-engineering projects, experiments, and ideas: revive old devices, rebuild apps, preserve games, and understand hidden behavior.",
-      "description": "English (default) | 简体中文\nA curated collection of reverse-engineering projects, experiments, and ideas: revive old devices, rebuild apps, preserve games, and understand hidden behavior.\nLatest case update / maintenance: October 17, 2026, 16:03 · Beijing time (UTC+8). Counts as of this update.\nUpdates 6× daily · Full index · Browse categories\nCovers REA and other AI-assisted work. REA connects codin",
+      "description": "English (default) | 简体中文\nA curated collection of reverse-engineering projects, experiments, and ideas: revive old devices, rebuild apps, preserve games, and understand hidden behavior.\nLatest case update / maintenance: October 18, 2026, 16:15 · Beijing time (UTC+8). Counts as of this update.\nUpdates 6× daily · Full index · Browse categories\nCovers REA and other AI-assisted work. REA connects codin",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -373,119 +405,6 @@
         "code",
         "design",
         "agents"
-      ]
-    },
-    {
-      "id": "ad23691a-3a05-4435-b64e-d8aee81ed64f",
-      "name": "raycast-cli-assistant",
-      "url": "https://github.com/umitaltintas/raycast-cli-assistant",
-      "oneLiner": "Raycast AI on the Claude or ChatGPT plan you already pay for.",
-      "description": "Raycast AI on the Claude or ChatGPT plan you already pay for.\nClaude and ChatGPT plans include a coding CLI: Claude Code and Codex. This Raycast extension runs your requests through whichever one is installed and signed in on your Mac or Windows PC (Windows), so you get the everyday Raycast AI features without a Raycast Pro subscription, an API key or per-token billing.\n- Ask AI from root search, ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/umitaltintas/raycast-cli-assistant.git",
-      "categories": [
-        "code",
-        "agents",
-        "writing"
-      ]
-    },
-    {
-      "id": "61ca4d3d-12d0-4dec-bcd7-aa594df74bc6",
-      "name": "graphersal",
-      "url": "https://github.com/graphersal/graphersal",
-      "oneLiner": "An in-memory graph database and traversal engine in Rust, queried with Gremlin, with vector search for GraphRAG.",
-      "description": "An in-memory graph database and traversal engine in Rust, queried with Gremlin, with vector search for GraphRAG.\nPlayground · Book · Step reference · API docs · Mirror on GitHub Pages\nAI moves faster than the tools around it. We built Graphersal so you don't have to wait for them: a lightweight, embeddable graph engine you can turn into whatever your AI solution needs — a library inside your appli",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "rag"
-      ]
-    },
-    {
-      "id": "169ad821-3c3a-4dff-9fe5-3a5581bb5030",
-      "name": "ai-writer",
-      "url": "https://github.com/csadigital/ai-writer",
-      "oneLiner": "Turn product photos into clear, multilingual ecommerce copy.",
-      "description": "Turn product photos into clear, multilingual ecommerce copy.\nPaste images. Choose a language. Make the draft your own.\nQuick start · Features · Deployment · Türkçe\n- Write from images: generate descriptions from one to eight public HTTPS product photos.\n- Fetch product photos: collect image links from a public product page using Puppeteer.\n- Write for your audience: English, Turkish, Spanish, Germ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/csadigital/ai-writer.git",
-      "categories": [
-        "code",
-        "data",
-        "writing"
-      ]
-    },
-    {
-      "id": "20d0d709-d8cd-4d36-baf0-c962e62ccda8",
-      "name": "Sys2txt",
-      "url": "https://Joe-Heffer.github.io/sys2txt/",
-      "oneLiner": "Record system audio and automatically transcribe to text using ✨AI✨.",
-      "description": "System audio to text¶\nRecord system audio and automatically transcribe to text using ✨AI✨.\nOverview¶\nsys2txt\nis a command-line tool that records your system audio (via PulseAudio/PipeWire monitor sources) with ffmpeg\nand transcribes it locally using Whisper. It supports both:\n- On-demand: Record until you stop, then transcribe once\n- Live-ish: Segment the recording every N seconds and transcribe e",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "audio"
-      ]
-    },
-    {
-      "id": "8761e31a-a16a-45a9-8417-cd11e12c8ecf",
-      "name": "AI agent follows instructions you never approved",
-      "url": "https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md",
-      "oneLiner": "We pinned the tool contracts of 24 popular MCP servers and diffed every release for two months.",
-      "description": "We pinned the tool contracts of 24 popular MCP servers and diffed every release for two months. Here is what changed without anyone announcing it.\nMCP servers expose tools to AI agents. Each tool has a name, a description (the instructions the model reads to decide how to call it), and an input schema (the contract for what arguments are valid). When you install an MCP server, you approve a specif",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "1af0d57c-f6db-4e76-9897-775038b42228",
-      "name": "Twain",
-      "url": "https://github.com/andunieee/twain",
-      "oneLiner": "A diff viewer for people who love Meld, but wanted it to be slightly different.",
-      "description": "A diff viewer for people who love Meld, but wanted it to be slightly different.\nThings that are like Meld:\n- intuitive and nice view of what changed to what, what was removed from where and added where;\n- scrolling minimaps of changes;\n- git support;\n- fast.\nThings we have that Meld doesn't:\n- all files from a Git diff shown in the same view, sequentially;\n- a file tree on the side, super fast;\n- ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/andunieee/twain",
-      "categories": [
-        "design"
-      ]
-    },
-    {
-      "id": "2482943e-eec2-4f93-a7a4-a39841238ee3",
-      "name": "Fakeipedia",
-      "url": "https://fakeipedia.org",
-      "oneLiner": "Since a 1998 neurological pandemic, humans cannot deliberately speak or write a lie without agonizing pain.",
-      "description": "The Veracity Shift\nSince a 1998 neurological pandemic, humans cannot deliberately speak or write a lie without agonizing pain.\n1 article\nExplore →The Talking Commons\nSince 1982, humans have shared their cities, courts, and kitchens with millions of gossipy, litigious, unionized animals.\n1 article\nExplore →ASI\nIn 2048, ASI rules Earth and humanity struggles to survive.\n5 articles\nExplore →The Etern",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
       ]
     }
   ]
