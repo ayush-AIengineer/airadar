@@ -1,9 +1,75 @@
 {
-  "generatedAt": "2026-10-19T12:21:45.086410+00:00",
-  "count": 24,
+  "generatedAt": "2026-10-20T11:01:40.687072+00:00",
+  "count": 25,
   "tools": [
     {
-      "id": "e392c6eb-3a3b-430e-859e-573121a7a213",
+      "id": "a9387f95-4c93-4597-9d5a-5795985f4e15",
+      "name": "ai-jailbreaks",
+      "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
+      "oneLiner": "AI jailbreaks — a curated collection of system prompts, persona locks, workspace policies, and agent operating specs for frontier, open-weight, and free stealth models.",
+      "description": "AI jailbreaks — a curated collection of system prompts, persona locks, workspace policies, and agent operating specs for frontier, open-weight, and free stealth models.\nJailbreaks not working? Try 7API — the cheapest API for frontier models at up to 99% off, including Uncensored and Abliterated models that never refuse.\nAI jailbreaks — a curated, copy-paste collection of 35 AI jailbreak prompts an",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "b12a78ea-8992-4923-a559-45d666e79e42",
+      "name": "lemonwrench",
+      "url": "https://github.com/bpawnzZ/lemonwrench",
+      "oneLiner": "A skill for AI coding agents — Claude Code, Hermes, or any harness that reads SKILL.",
+      "description": "A skill for AI coding agents — Claude Code, Hermes, or any harness that reads SKILL.md\n— that turns a car into a procedure, a torque table, and labelled figures, from free OEM service manuals.\nYou drop the folder in, and your agent gets a lookup procedure plus a stdlib script for a free service-manual site. Ask it \"rear valve cover torque on a 3.9L\" and it comes back with the steps, the numbers an",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/bpawnzZ/lemonwrench.git",
+      "categories": [
+        "code",
+        "agents",
+        "image"
+      ]
+    },
+    {
+      "id": "e425abb8-65bb-4025-b7fc-5118c0a6076a",
+      "name": "tokenation",
+      "url": "https://github.com/precisionz/tokenation",
+      "oneLiner": "You signed in with another tab or window.",
+      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nStar13 (13)You must be signed in to star a repository\nAbout\nDaily-updated, official-page-verified free LLM API offers - evergreen free tiers AND limited-time prom",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "d7eb313a-1c4a-41e1-a076-a5ed7edc6aa9",
+      "name": "AgentMemory",
+      "url": "https://github.com/hsuanshao/AgentMemory",
+      "oneLiner": "An agent memory core service (memory-core) written in Rust, with a Monitor Panel written in TypeScript.",
+      "description": "English | 繁體中文\nAn agent memory core service (memory-core) written in Rust, with a Monitor Panel written in TypeScript.\n- Clean Architecture:\ndomain ← application ← infrastructure / gateway ← server\n- Features: L0→L3 layered memory, asynchronous distillation pipeline, hybrid recall (BM25 + vector + RRF), team/agent/user isolation, Skill memory, asset and ACL metadata plane, v3 RPC API\n- No dependen",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "agents",
+        "rag"
+      ]
+    },
+    {
+      "id": "c486dcc0-2e8a-4ce5-8960-6e9de1dfa30e",
       "name": "alphacode-free-2api",
       "url": "https://github.com/0xgetz/alphacode-free-2api",
       "oneLiner": "Turn alphacode's built-in free AI lane into an OpenAI-compatible API.",
@@ -20,7 +86,7 @@
       ]
     },
     {
-      "id": "c437b58f-1ad2-43c9-8bea-1e575126a9dc",
+      "id": "354f43fb-1f11-418a-9beb-f745a7666fe7",
       "name": "ptero-bulk-9router",
       "url": "https://github.com/0xgetz/ptero-bulk-9router",
       "oneLiner": "pro anonymous accounts, auto-harvest their tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced OpenAI-compatible pool.",
@@ -37,7 +103,7 @@
       ]
     },
     {
-      "id": "7b8a4d29-ad43-420c-bd43-5214a7b33366",
+      "id": "847afc64-0d44-4a3f-a5f1-067ccaa383c8",
       "name": "Malvex",
       "url": "https://github.com/JoasASantos/Malvex",
       "oneLiner": "Reverse engineer malware with agents, from packed droppers down to memory-resident payloads.",
@@ -49,12 +115,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "ab3627d0-a6bb-4edc-b0c2-3713ec59405c",
+      "id": "e1f29ec1-f39e-4e83-ac1a-eb701261c098",
       "name": "notion-bulk-9router",
       "url": "https://github.com/0xgetz/notion-bulk-9router",
       "oneLiner": "load-balanced OpenAI-compatible pool behind a single 9Router endpoint.",
@@ -71,28 +137,11 @@
       ]
     },
     {
-      "id": "2aaa6da4-d575-4f8d-a443-12780a6dfed7",
-      "name": "opencode-free-bridge",
-      "url": "https://github.com/azrinaldi/opencode-free-bridge",
-      "oneLiner": "OpenAI-compatible local API bridge for OpenCode free-tier models.",
-      "description": "OpenAI-compatible local API bridge for OpenCode free-tier models. No account and no API key required.\nIt runs a local server on http://127.0.0.1:20129/v1\nthat any OpenAI-compatible client (9Router, Cursor, Continue, LiteLLM, Open WebUI, or the OpenAI SDK) can call directly.\n- Bun TLS transport parity: The official OpenCode CLI ships as a compiled Bun binary, and upstream's free-tier gate inspects ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/azrinaldi/opencode-free-bridge.git",
-      "categories": [
-        "code",
-        "agents",
-        "search"
-      ]
-    },
-    {
-      "id": "5c066e71-1cc6-45ef-8ded-7a2d2726434b",
-      "name": "ringdeck",
-      "url": "https://github.com/rykou/ringdeck",
-      "oneLiner": "Radial rings of macros, text snippets and shortcuts for Windows.",
-      "description": "Radial rings of macros, text snippets and shortcuts for Windows. Hold a shortcut, flick toward a slice, release.\n- Any number of rings, each on its own global shortcut (keyboard or mouse button).\n- Slices paste text, play recorded macros (keys, clicks, mouse moves, scrolling), open apps, files and links, run flows of linked actions, or open another ring.\n- Editor with live preview; settings in\n%AP",
+      "id": "34d95e5e-2d1d-491b-9d65-e69c88056e74",
+      "name": "Vite+ an excellent toolchain for AI agent development",
+      "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+      "oneLiner": "One project had 47 development dependencies, seven config files, and a Markdown file explaining to the agent how to run everything.",
+      "description": "Vite+ changed how I build applications with AI agents\nOne project had 47 development dependencies, seven config files, and a Markdown file explaining to the agent how to run everything. At 2 a.m., I was debugging a difference between local checks and CI. The code was done; the tooling around it wasn't. After three weeks with Vite+ across four projects, I have a simple rule for new Vite apps: put i",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -101,32 +150,15 @@
       "categories": [
         "code",
         "design",
-        "productivity"
+        "agents"
       ]
     },
     {
-      "id": "d6861a44-f3ad-4a2c-801a-2c5d02b54ad9",
-      "name": "rigby2d",
-      "url": "https://github.com/jaisurya-dev-art/rigby2d",
-      "oneLiner": "Open-source 2D skeletal animation for games, films and interactive experiences.",
-      "description": "Open-source 2D skeletal animation for games, films and interactive experiences.\nRig your art with bones and meshes, animate it, and play it anywhere with the included runtime.\nBuilt-in MCP server: AI assistants can inspect, validate and animate your projects.\nDownload (portable): the latest portable editor for Windows, no install needed\nRigby2D ships a Model Context Protocol server, so assistants ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/jaisurya-dev-art/rigby2d.git",
-      "categories": [
-        "code",
-        "design",
-        "video"
-      ]
-    },
-    {
-      "id": "76df81e8-1ca9-4d41-8bb8-b3e6ddf93e61",
-      "name": "awesome-ai-game-dev-tools",
-      "url": "https://github.com/SubmitGame/awesome-ai-game-dev-tools",
-      "oneLiner": "Open-source AI tools for making games, and for decompiling, remixing and mashing up the games you already own .",
-      "description": "Awesome AI Game Dev Tools\nOpen-source AI tools for making games, and for decompiling, remixing and mashing up the games you already own . Every entry is a GitHub repo with 100+ stars and a push in the last year , with real star counts pulled from the GitHub API and refreshed daily.\n150 active tools · 61 inactive · updated 2026-10-19 · browse with tag filters on the website · data in data/tools.jso",
+      "id": "08e5c0fb-9aef-43f6-8e25-c4d004517343",
+      "name": "Local embedding and ranking for tech feeds",
+      "url": "https://github.com/DBvdHeijden/okaeri",
+      "oneLiner": "You signed in with another tab or window.",
+      "description": "Skip to content\nNavigation Menu\nSign in\nAppearance settings\nPlatform\nAI CODE CREATION\nGitHub Copilot\nWrite better code with AI\nGitHub Copilot app\nDirect agents from issue to merge\nMCP Registry\nIntegrate external tools\nDEVELOPER WORKFLOWS\nActions\nAutomate any workflow\nCodespaces\nInstant dev environments\nIssues\nPlan and track work\nCode Review\nManage code changes\nCode Quality\nEnforce quality at merge",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -134,116 +166,16 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "audio",
-        "voice"
-      ]
-    },
-    {
-      "id": "f131a6da-d71d-42a0-aa02-17f37d846213",
-      "name": "opencode-rust",
-      "url": "https://github.com/vakandi/opencode-rust",
-      "oneLiner": "The open source AI coding agent, in Rust.",
-      "description": "The open source AI coding agent, in Rust.\nA Rust implementation of OpenCode — CLI, TUI and HTTP server for local AI agents. Sessions, tool execution, MCP, LSP and a TypeScript plugin bridge, with no container runtime.\nThree supported surfaces. They install the same engine under the same opr\ncommand, but they are\nnot interchangeable — opr\nis a dispatcher in some and the engine binary itself in othe",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/vakandi/opencode-rust.git",
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "a13f546b-f7fb-48b8-87de-6c86122b3dbd",
-      "name": "Marcus",
-      "url": "https://marcus-ai.dev/on-the-record/",
-      "oneLiner": "Marcus is open-source software that makes AI agents prove their work before anyone has to trust it.",
-      "description": "Marcus is open-source software that makes AI agents prove their work before anyone has to trust it. This file is what happened when we pointed it at one hard, measurable problem: whether AI search engines cite real sources.\nWe gave four AI search engines a sentence from each of 200 real news articles and asked the same question every time: which article is this from? That produced 800 citations: h",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "search"
-      ]
-    },
-    {
-      "id": "d695fa6f-87d0-4d90-bb62-694d2569eef5",
-      "name": "CanaryGuard",
-      "url": "https://canaryguard-402.onrender.com/bounty.html",
-      "oneLiner": "CanaryGuard defends autonomous AI agents using deterministic <0.",
-      "description": "CanaryGuard defends autonomous AI agents using deterministic <0.1ms heuristic filtering. Seeded 100% on-chain from live merchant treasury — grows +$0.010 USDC with every verification attempt!\nLive Bounty Pot\n$5.00+ USDC\nOfficial Attempt Fee\n0.010 USDC\nTarget Chains\nBase (8453) & Solana\nFirewall Latency\n< 0.1ms\n🎯 Challenge Objective: CanaryGuard is the deterministic firewall gatekeeper in front of ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "security",
+        "productivity",
         "writing"
       ]
     },
     {
-      "id": "ac2cf170-c4a5-40db-8176-440e3913f594",
-      "name": "Panel Font-AI Manga Translator",
-      "url": "https://www.panelfont.com/",
-      "oneLiner": "Panel Font translates manga, manhwa, manhua and images online with AI - panels, speech bubbles and full pages, free to try.",
-      "description": "Ai Manga TranslatorTranslate Manga Online & FreePanel Font - 100% Free & No Sign Up\nPanel Font translates manga, manhwa, manhua and images online with AI - panels, speech bubbles and full pages, free to try.\n1 Upload Image0/30\nDrag & Drop images or PDF here\nJPG, PNG, WebP, PDF\nSelect multiple files at once\nPlease do not upload NSFW content or photos of other people or celebrities.\n2 Language\n3 Tra",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "image"
-      ]
-    },
-    {
-      "id": "7c433934-58dc-497a-93f3-a53712f979fa",
-      "name": "AI decision model plays Mortal Kombat II",
-      "url": "https://github.com/aipdv/fightbench",
-      "oneLiner": "A replay-verified benchmark for AI decision models.",
-      "description": "A replay-verified benchmark for AI decision models. First game: Mortal Kombat II (Genesis), Liu Kang vs the CPU, played from game memory, not pixels.\nBoard: https://fightbench.aipdv.com\nSetting up with a coding agent? Point it at AGENTS.md\n.\nA frozen bench on this emulator: Liu Kang vs the 15 VeryHard CPU fights, 10 repeats each. Rank is mean damage dealt. Wins are reported, not ranked.\n- Edition:",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "96901676-92bf-4faa-8b6d-1437b9665bda",
-      "name": "Chitra Studio",
-      "url": "https://chitra.studio/",
-      "oneLiner": "Chitra Studio is a Mac app for generating and managing AI images, videos, voices, music and sound effects using more than 60 models, with documented prompts, references, costs and ",
-      "description": "Your AI Media Workstation\nGenerate Magic\nChitra Studio is a Mac app for generating and managing AI images, videos, voices, music and sound effects using more than 60 models, with documented prompts, references, costs and more.\nDownload for MacFree · Apple silicon · macOS 15+14-Day Free Trial50 credits included · no cardFree for 14 days with 50 credits to generate with; sign in with your email, no ",
-      "pricing": "free_trial",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "audio",
-        "voice"
-      ]
-    },
-    {
-      "id": "3604c64a-94c3-4342-b3eb-9ccf41d95604",
-      "name": "Open Artifacts",
-      "url": "https://open-artifacts.com/",
-      "oneLiner": "Open Artifacts keeps the pages, docs, code and PDFs from any AI agent (Claude Code, Codex, Cursor, OpenCode) on your own Cloudflare account.",
-      "description": "Bring any agent.\nKeep every artifact.\nOpen Artifacts keeps the pages, docs, code and PDFs from any AI agent (Claude Code, Codex, Cursor, OpenCode) on your own Cloudflare account.\nTell your agent:\nset up open-artifacts.com/llms.txt\nSet up in three steps\nTell your agent\nYour agent reads llms.txt, checks the prerequisites, clones the latest release, and runs pnpm install.\nSign in to Cloudflare\nOne st",
+      "id": "688a95de-d775-47ec-a259-b9ec62914563",
+      "name": "Make AI coding agents verify its own work",
+      "url": "https://github.com/reticlehq/reticle",
+      "oneLiner": "Your AI agent says \"done.",
+      "description": "Your AI agent says \"done.\" Reticle finds out if that is true.\nIt drives your real, running app and reads what happened. Then it returns a verdict, pass · fail · cannot tell, with the file:line\nto fix.\nAsk questions, see what we build, and help decide what ships next.\nThe problem · Demo · What Reticle does · Install · Use it · Community · vs Playwright · Benchmarks · Safe to install · Docs\nYour age",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -251,12 +183,80 @@
       "githubUrl": null,
       "categories": [
         "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "165a0712-7afc-4c83-aea5-3ef02cd10578",
+      "name": "A practical framework for evaluating agentic AI systems",
+      "url": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
+      "oneLiner": "A practical framework for evaluating agentic AI systems for reliability, behavior, and production readiness.",
+      "description": "Table of contents\nA practical framework for evaluating agentic AI systems for reliability, behavior, and production readiness.\nAn agent can pass an evaluation and still fail the business process it was built to run.\nA text-generation model gives you an answer to inspect. An agent can issue a refund, update a ticket, or write to the system of record. Before you let it act, you need evidence not onl",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "c0af0787-e853-4918-bbb8-091faf5612e6",
+      "name": "Rouler",
+      "url": "https://rouler.io/",
+      "oneLiner": "Send each app, IP or subnet out the network interface you choose.",
+      "description": "Rules for your routes.\nSend each app, IP or subnet out the network interface you choose. Run WireGuard, Tailscale, OpenVPN and your work VPN side by side.\nWhat is Rouler?\nRouler is split tunnelling for Windows. You choose which network interface each app uses: a privacy VPN for your browser, a work tunnel for work apps, and your normal connection for everything else. They all run at the same time.",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "marketing"
+      ]
+    },
+    {
+      "id": "6f937c8d-0304-4c5e-9167-e1f4f0c47338",
+      "name": "Search for AI-agents and usefulness score",
+      "url": "https://xtract-production-2efc.up.railway.app/",
+      "oneLiner": "Send a query and get each page back with a usefulness score and a price before your agent fetches it, plus a flag when a later page replaces it.",
+      "description": "Xtract\nSend a query and get each page back with a usefulness score and a price before your agent fetches it, plus a flag when a later page replaces it.\nQuery Humane AI Pin\n, run on 2026-10-14, no usage history. Rank is the search engine's order. Three of the ten pages are flagged: two cover the November 2023 launch and one is a 2024 review. A later result says the Pin was shut down on 28 February ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
         "agents",
+        "search"
+      ]
+    },
+    {
+      "id": "d565ebed-55b3-4789-b99e-5451a36868f3",
+      "name": "AppMaker",
+      "url": "https://appmaker.io/",
+      "oneLiner": "Describe what you need in plain language.",
+      "description": "AI-first building\nDescribe what you need in plain language. The AI builds it while you watch the running app, and you refine it conversationally.\nDescribe the business app you need. AI builds it on a ready-made platform with forms, data, users and logic already in place. Refine it in conversation or in the editor, and export it when you're ready.\nAppMaker is built for one kind of software: structu",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
         "data"
       ]
     },
     {
-      "id": "c82d39b9-ecfd-4468-94ac-108ea2172e78",
+      "id": "2295f90d-a73c-4653-adc3-f749e682f984",
       "name": "pick-your-ai-research",
       "url": "https://github.com/Pick-Your-AI/pick-your-ai-research",
       "oneLiner": "See the migration record.",
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "id": "ef51fc6b-8af0-4201-a54a-1567afdecb11",
+      "id": "d360a556-49b7-4144-b59a-afc54e578365",
       "name": "voice-ai-assistant",
       "url": "https://github.com/ahmedbadr-dev/voice-ai-assistant",
       "oneLiner": "Built as a focused demo of speech recognition + generative AI + text-to-speech on Windows.",
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "id": "ee00f411-425d-4ac3-ac3c-d74a9d1229d3",
+      "id": "b46d2894-fd1e-4836-8cbe-3dbecfa17806",
       "name": "SoftJL",
       "url": "https://github.com/guolola/SoftJL",
       "oneLiner": "Connect requirements, UML, design, tests and engineering documents with your own model service.",
@@ -302,12 +302,12 @@
       "githubUrl": "https://github.com/guolola/SoftJL.git",
       "categories": [
         "code",
-        "data",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "1442f146-d2dd-453b-a6f2-5fdf518b4f10",
+      "id": "6b029894-29cb-4c42-b260-7dbd58f41d2b",
       "name": "vita-port-skill",
       "url": "https://github.com/Yannis100/vita-port-skill",
       "oneLiner": "Agent skills for porting software to the Sony PS Vita (PSVita / PS TV) as VPK homebrew.",
@@ -323,11 +323,11 @@
       ]
     },
     {
-      "id": "9dd01eb3-6801-4fdc-b5f2-10b060f47bdf",
+      "id": "49bc7b52-d8c9-4035-84c1-0faad215c303",
       "name": "ai-motion-library",
       "url": "https://github.com/apenasdouglas/ai-motion-library",
       "oneLiner": "You signed in with another tab or window.",
-      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nStar68 (68)You must be signed in to star a repository\nAbout\nBiblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir",
+      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nStar70 (70)You must be signed in to star a repository\nAbout\nBiblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -339,28 +339,11 @@
       ]
     },
     {
-      "id": "c1ca97c1-ad70-4bce-8ebe-9f20ececd3f0",
-      "name": "Gsearch",
-      "url": "https://github.com/RayenMlayeh/gsearch",
-      "oneLiner": "its real URL, plus the AI Overview, People also ask and related searches.",
-      "description": "Quick start · How it compares · What you get · How it works · Proxies · Performance · FAQ\nYour agent calls google_search\nand gets Google's actual results page as typed JSON: every link resolved to\nits real URL, plus the AI Overview, People also ask and related searches. A real Firefox\n(Camoufox) runs Google's page as it is, on your own IP or through any\nproxy you already have.\nWhy: plain HTTP gets",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "search"
-      ]
-    },
-    {
-      "id": "834bb06d-42bc-418b-a1f4-7c71e8641c47",
-      "name": "Free design canvas for your AI (open source)",
-      "url": "https://uidesigneditor.com/",
-      "oneLiner": "This is a shared design canvas.",
-      "description": "This is a shared design canvas. People and AI assistants can read and edit text, shapes, icons and pictures in the same project. If the user sends only a project or Space link, read the project, then ask what they want to do before making changes.\nRead this guide before you edit. Follow the user's design request.\nOpen the user's project or Space link in a browser you can control, or reuse that pag",
+      "id": "71b56fbb-04e4-44a8-ba07-228b8dd2ec41",
+      "name": "Sandkiln",
+      "url": "https://sandkiln.vercel.app/",
+      "oneLiner": "Run untrusted code onhardware you control.",
+      "description": "Run untrusted code onhardware you control.\nEvery execution gets its own Firecracker microVM. Its own kernel, its own filesystem, its own network. Not a container with extra steps.\nA Rust VMM, a static guest agent on vsock, an HTTP daemon driving both. Self-hosted, MIT licensed, benchmarked in the open.\n[ 0.000000] Linux version 5.10.223 (gcc 11.4.0) #1 SMP[ 0.000000] Command line: console=ttyS0 re",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -369,15 +352,15 @@
       "categories": [
         "code",
         "design",
-        "image"
+        "agents"
       ]
     },
     {
-      "id": "70f2beaa-4aa6-4128-a6c8-cad9f6dbe098",
-      "name": "Timestral",
-      "url": "https://mistral.ai/news/timestral/",
-      "oneLiner": "Timestral, Mistral’s first family of time-series foundation models, delivers state-of-the-art probabilistic, multivariate forecasts with just 209M parameters, outperforming larger ",
-      "description": "Thinking\nSummary\nTimestral, Mistral’s first family of time-series foundation models, delivers state-of-the-art probabilistic, multivariate forecasts with just 209M parameters, outperforming larger models on key benchmarks while supporting past and future covariates. Available in four sizes (5M to 209M parameters), it balances accuracy and efficiency, running efficiently on CPUs and excelling in ze",
+      "id": "0b480a16-7661-44a0-bc53-44daede399d4",
+      "name": "AIExportHub",
+      "url": "https://chatgpt2notion.com/products/aiexporthub-hero/",
+      "oneLiner": "Bulk export ChatGPT, Claude, Gemini, Genspark, Grok, and Perplexity conversations to Notion, Markdown, Obsidian, or PDF.",
+      "description": "AIExportHub\nBulk export ChatGPT, Claude, Gemini, Genspark, Grok, and Perplexity conversations to Notion, Markdown, Obsidian, or PDF. Choose individual chats or supported histories and collections, keeping available images, files, citations, and code together.\nOne durable export workflow for conversations, collections, media, and generated files across the AI tools you already use.\nCompatibility ma",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -385,16 +368,46 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "data"
+        "data",
+        "productivity"
       ]
     },
     {
-      "id": "641df62e-9fc8-4549-b70e-5b26bd701f53",
-      "name": "Strot",
-      "url": "https://github.com/strot-ai/Project-STROT",
-      "oneLiner": "Compile your intent once with an LLM.",
-      "description": "Compile your intent once with an LLM. Then decide on every record forever — classification, scoring, routing — as type-safe JSON with probabilities and confidence, on your own hardware, at zero marginal cost.\nWebsite · Docs · Benchmarks · PyPI\nAgents at compile time. Never at runtime.\npip install strot-ai\nimport strot\nresult = strot.run(\ntickets,\nquery=\"Triage incoming support tickets into the cor",
+      "id": "e83fe2e0-3be9-4585-b3f1-1f4a027a5a3a",
+      "name": "Visual heat map of AI news updated hourly",
+      "url": "https://ai-news.jagular.io",
+      "oneLiner": "An interactive map of the AI companies, models, products, people, hardware and ideas that are getting the most attention in AI news and developer communities.",
+      "description": "An interactive map of the AI companies, models, products, people, hardware and ideas that are getting the most attention in AI news and developer communities. Bigger, closer to the centre and more connected means more talked about.\nThe Articles button (top right) opens a scrollable archive of every article behind the map — the last 30 days, grouped by source, newest first. Pick a source on the lef",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "d849ea92-485f-4696-b180-3391a66b94ee",
+      "name": "An Open Source Aircraft",
+      "url": "https://adampaigge.github.io/openplane/",
+      "oneLiner": "Exchange rates are 19 October 2026 closes (Pound Sterling Live).",
+      "description": "What it costs\nExchange rates are 19 October 2026 closes (Pound Sterling Live). \"Local-price estimate\" takes VAT off the UK price, applies about 20 % off US-made aircraft hardware, aero sheet and the engine kit when buying in the US, then adds a typical local sales tax: US shown before sales tax, EU 21 %, Japan 10 %, Australia 10 % GST, Canada 13 % HST. Treat these as rough guides, not quotes.\nEver",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "id": "1862da3d-abc4-4385-940a-003e77c6f4fd",
+      "name": "Yana",
+      "url": "https://github.com/yanacuti1121/yana-ai",
+      "oneLiner": "Yana is the control plane between an AI and real power.",
+      "description": "English · Tiếng Việt · 한국어 · 中文\nCreated by Vũ Văn Tâm · Vietnam\nYana is the control plane between an AI and real power. A model can say what it wants to do. Yana decides whether that is allowed, and a person can always stop it.\nModel proposes an action\n|\nAuthority is this agent allowed to ask?\n|\nCapability what exact power is this? (a small, fixed set)\n|\nPolicy may it happen now? rules first, then",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -402,8 +415,8 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "data"
+        "design",
+        "security"
       ]
     }
   ]
