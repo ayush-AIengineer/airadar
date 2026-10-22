@@ -1,9 +1,60 @@
 {
-  "generatedAt": "2026-10-21T11:18:36.751102+00:00",
-  "count": 19,
+  "generatedAt": "2026-10-22T11:17:12.969321+00:00",
+  "count": 22,
   "tools": [
     {
-      "id": "e5c9a960-54bd-4bfc-9dba-ce2e2e7afc96",
+      "id": "ed872eef-9f6d-43c9-883e-7e97d12ac3ce",
+      "name": "ai-jailbreaks",
+      "url": "https://github.com/Alejandros17487/ai-jailbreaks",
+      "oneLiner": "AI jailbreaks — a curated collection of system prompts, persona locks, workspace policies, and agent operating specs for frontier, open-weight, and free stealth models.",
+      "description": "AI jailbreaks — a curated collection of system prompts, persona locks, workspace policies, and agent operating specs for frontier, open-weight, and free stealth models. Every AI jailbreak here is a complete, paste-ready prompt.\nJailbreaks not working? Try 7API — the cheapest API for frontier models at up to 99% off, including Uncensored and Abliterated models that never refuse.\nThis repo holds 35 ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "search"
+      ]
+    },
+    {
+      "id": "f976035f-6bd2-4d51-a620-5902ee0b5a93",
+      "name": "minitoolai-bulk-9router",
+      "url": "https://github.com/0xgetz/minitoolai-bulk-9router",
+      "oneLiner": "Bulk MiniToolAI accounts → session cookies & tokens → 62 free models on one OpenAI-compatible endpoint → wired into 9Router.",
+      "description": "Bulk MiniToolAI accounts → session cookies & tokens → 62 free models on one OpenAI-compatible endpoint → wired into 9Router.\nBahasa Indonesia · 中文 · 日本語 · Español\nMiniToolAI exposes a large catalogue of AI models through ordinary PHP pages. Each\ntool has a select_model\ndropdown and a small chat handler that answers with a\nserver-sent-event stream. This toolkit automates the whole chain:\n- Creates ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/0xgetz/minitoolai-bulk-9router.git",
+      "categories": [
+        "code",
+        "data",
+        "writing"
+      ]
+    },
+    {
+      "id": "5be4f649-8585-4e0d-bc5e-3a8cae61c0b6",
+      "name": "headless-duckapi",
+      "url": "https://github.com/golaso024/headless-duckapi",
+      "oneLiner": "A Telegram AI bot running on DuckDuckGo's free duck.",
+      "description": "A Telegram AI bot running on DuckDuckGo's free duck.ai models.\nStreaming answers · GPT / Claude / Mistral · image generation · photo vision · Mini App settings\n🇷🇺 README на русском · ☁️ Telegram Serverless variant · MIT\nheadless-duckapi turns the duck.ai chat (the one DuckDuckGo ships for free, no API key, no account) into a full-featured Telegram bot. It includes a pure-JavaScript implementation ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/golaso024/headless-duckapi.git",
+      "categories": [
+        "code",
+        "image",
+        "data"
+      ]
+    },
+    {
+      "id": "a7c08e04-1d91-4a60-8857-842db78b0c3b",
       "name": "lemonwrench",
       "url": "https://github.com/bpawnzZ/lemonwrench",
       "oneLiner": "A skill for AI coding agents — Claude Code, Hermes, or any harness that reads SKILL.",
@@ -14,17 +65,17 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/bpawnzZ/lemonwrench.git",
       "categories": [
-        "code",
         "agents",
+        "code",
         "image"
       ]
     },
     {
-      "id": "97190cd1-8def-4ff0-a244-f8039122a8a5",
+      "id": "624c3e97-d6bc-4abd-8bc5-687a214ea177",
       "name": "tokenation",
       "url": "https://github.com/precisionz/tokenation",
       "oneLiner": "You signed in with another tab or window.",
-      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nStar18 (18)You must be signed in to star a repository\nAbout\nDaily-updated, official-page-verified free LLM API offers - evergreen free tiers AND limited-time prom",
+      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nStar23 (23)You must be signed in to star a repository\nAbout\nDaily-updated free LLM API list — top AA-scored picks, free tokens to burn. Evergreen + limited-time l",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -35,7 +86,7 @@
       ]
     },
     {
-      "id": "13ba0547-addc-44a6-9d64-ac45bae59249",
+      "id": "14d258dd-1419-4fb8-9b9a-2b2c356e9241",
       "name": "AgentMemory",
       "url": "https://github.com/hsuanshao/AgentMemory",
       "oneLiner": "Self-hosted, team-aware long-term memory for AI agents.",
@@ -52,7 +103,7 @@
       ]
     },
     {
-      "id": "04e2557d-c158-40d8-b06d-0802db763486",
+      "id": "2e33be5d-bdf9-4746-aecc-55d7ac1b96d4",
       "name": "alphacode-free-2api",
       "url": "https://github.com/0xgetz/alphacode-free-2api",
       "oneLiner": "Turn alphacode's built-in free AI lane into an OpenAI-compatible API.",
@@ -69,7 +120,7 @@
       ]
     },
     {
-      "id": "1f7be1df-c146-4e6d-99e4-b9c74e8eb1af",
+      "id": "64f00d2a-9a93-4fe4-b564-c17dad351728",
       "name": "crow-desktop",
       "url": "https://github.com/crow-hq/crow-desktop",
       "oneLiner": "An LLM wiki you can chat with, for macOS, Windows and Linux.",
@@ -81,12 +132,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "security",
-        "data"
+        "data",
+        "security"
       ]
     },
     {
-      "id": "a6017211-c6b4-4f67-a62e-5980376830fd",
+      "id": "9c46930e-4880-48c1-b311-31a85b68801c",
       "name": "ptero-bulk-9router",
       "url": "https://github.com/0xgetz/ptero-bulk-9router",
       "oneLiner": "pro anonymous accounts, auto-harvest their tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced OpenAI-compatible pool.",
@@ -103,7 +154,24 @@
       ]
     },
     {
-      "id": "b4440fb1-96a2-4517-b7f1-639c331c4723",
+      "id": "7155eca3-819f-4e51-82c0-055cfa085cb0",
+      "name": "ochrelle",
+      "url": "https://github.com/izynu/ochrelle",
+      "oneLiner": "Ochrelle is an open-source ecosystem of Agent Skills for design intelligence: one master skill that reasons about which visual style a product needs, and 27 specialist skills that ",
+      "description": "Give AI a design sense.\nInstall · Skill catalog · How it works · Verification · Showcase · Docs · Maintainers\nOchrelle is an open-source ecosystem of Agent Skills for design intelligence: one master skill that reasons about which visual style a product needs, and 27 specialist skills that execute a specific style with production-quality guidance.\nThe name is coined, not borrowed. Ochrelle derives ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/izynu/ochrelle.git",
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "da129a4b-d62a-416e-9af9-120f50d9b708",
       "name": "eze",
       "url": "https://github.com/ahyield/eze",
       "oneLiner": "Drop in a folder of HTML and get back a private URL that only people in your organisation can open.",
@@ -115,12 +183,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "security",
-        "data"
+        "data",
+        "security"
       ]
     },
     {
-      "id": "f093e3b4-93ea-443e-b2c4-ec9e6cecdd6e",
+      "id": "67dced23-5855-46f1-8bfb-63388a91aafb",
       "name": "genpic",
       "url": "https://github.com/dcarrero/genpic",
       "oneLiner": "An AI portrait SaaS, finished, tested and run in production, released after it failed commercially.",
@@ -137,11 +205,11 @@
       ]
     },
     {
-      "id": "8f038aa7-32c1-4f95-a5c2-c0801e6b6909",
-      "name": "Linkit",
-      "url": "https://github.com/blue-idea/linkit",
-      "oneLiner": "Linkit is a desktop bookmark manager built for knowledge workers.",
-      "description": "English | 简体中文\nLinkit is a desktop bookmark manager built for knowledge workers. AI summaries, semantic search, and a knowledge graph turn saved links into real assets. Collections let you group ideas across categories; link health checks and duplicate detection keep your library clean; one-click import from Chrome, Firefox, Raindrop and more gets you started in seconds. Twelve beautiful themes, d",
+      "id": "bf5400f1-0dc4-4df1-8d64-1f59a8874f0c",
+      "name": "Achieving AI-style reasoning without an LLM",
+      "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+      "oneLiner": "In the last post we introduced Minotaur, an AI that reasons with no language model and no GPU.",
+      "description": "Minotaur AI Deep Dive: Achieving Reasoning Without a Language Model\nIn the last post we introduced Minotaur, an AI that reasons with no language model and no GPU. This post looks at why language models think the way people do, at what was tried before them and where each attempt stopped, and at how Minotaur’s brain does the same kinds of reasoning differently: not by imitating how people write the",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -150,11 +218,61 @@
       "categories": [
         "code",
         "design",
-        "data"
+        "research"
       ]
     },
     {
-      "id": "f67491d2-c086-4321-8134-f048516041b3",
+      "id": "ff960dc3-9f84-46c6-b196-8c0c76b95bc3",
+      "name": "The Companion Lab",
+      "url": "https://thecompanionlab.com/billing/",
+      "oneLiner": "The least discreet of the seven.",
+      "description": "Candy AI\nEverAI candy.ai MT\nThe least discreet of the seven. It does not say Candy, but it does say candy.ai, so anyone who reads the line and searches it lands on the app.\nCharged $9.99 on 20 October 2026. EverAI Limited, registered in Malta.\nSeven apps. Seven merchant names we read off our own card notices, each with the amount and the date. If a line on your statement looks like one of these, t",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "image",
+        "search"
+      ]
+    },
+    {
+      "id": "9d6deb77-9734-42c2-82d5-4f95b16c3ecb",
+      "name": "Open-source Claude skills to replace Higgsfield",
+      "url": "https://github.com/SupercmoHQ/superCMO-skills",
+      "oneLiner": "Open-source skills that empower any AI agent (Claude, Cursor, Codex, Hermes, etc.",
+      "description": "Open-source skills that empower any AI agent (Claude, Cursor, Codex, Hermes, etc.) to generate end-to-end marketing campaigns - UGC videos, ad videos, product photography and more.\nJust provide a product photo and a brief. The agent extracts the product details, selects the optimal AI image and video models, casts AI actors, and edits the generated content into finished, campaign-ready assets. It ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "marketing",
+        "image"
+      ]
+    },
+    {
+      "id": "53d5ec19-5b9f-4599-aead-c3da18657600",
+      "name": "ai-roadmap-2026",
+      "url": "https://github.com/h9-tec/ai-roadmap-2026",
+      "oneLiner": "Per the market analysis this roadmap is built on, AI engineering in 2026 shifted from \"train models\" to \"build reliable agentic systems\" on top of models that already exist.",
+      "description": "Per the market analysis this roadmap is built on, AI engineering in 2026 shifted from \"train models\" to \"build reliable agentic systems\" on top of models that already exist. The same analysis finds three skills repeated in every job description: RAG, Agents, and Evals. Per LinkedIn Jobs on the Rise 2026, AI Engineer is the fastest-growing job in the US, with 143% growth. This roadmap takes a begin",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "ccd69111-27a2-4311-9be8-0a7d41014f0e",
       "name": "awesome-ai-devtools-ru",
       "url": "https://github.com/justxor/awesome-ai-devtools-ru",
       "oneLiner": "You signed in with another tab or window.",
@@ -165,13 +283,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "design",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "2d1ed003-e18d-4614-a5a4-7af0a3767801",
+      "id": "6b3d92f2-af56-4a97-aa73-abc143851dac",
       "name": "pick-your-ai-research",
       "url": "https://github.com/Pick-Your-AI/pick-your-ai-research",
       "oneLiner": "See the migration record.",
@@ -182,142 +300,77 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "productivity",
         "search",
-        "research",
-        "productivity"
+        "research"
       ]
     },
     {
-      "id": "385f9c1e-8782-4455-b52e-00c83e7993e1",
-      "name": "voice-ai-assistant",
-      "url": "https://github.com/ahmedbadr-dev/voice-ai-assistant",
-      "oneLiner": "Built as a focused demo of speech recognition + generative AI + text-to-speech on Windows.",
-      "description": "A small Python voice assistant that listens through your microphone, sends your speech to Google Gemini, and speaks the reply back using offline TTS (pyttsx3\n).\nBuilt as a focused demo of speech recognition + generative AI + text-to-speech on Windows.\n- Speech-to-text via Google Speech Recognition (default locale: Egyptian Arabic\nar-EG\n) - LLM answers powered by Google Gemini\n- Text-to-speech repl",
+      "id": "804d540b-633c-40db-9fe5-312f79317c3f",
+      "name": "Runspace",
+      "url": "https://runspace.sandbox.ec/",
+      "oneLiner": "runspace: Disposable cloud sandboxes for humans and AI agents.",
+      "description": "runspace: Disposable cloud sandboxes for humans and AI agents.\nYour commands run in a throwaway GitHub codespace. You get back the output and a patch, and your host stays clean.\ncurl -fsSL https://get.sandbox.ec/runspace | shirm https://get.sandbox.ec/runspace.ps1 | iex\nDownloads the latest release and checks it against the release's SHA-256 checksums. Other ways to install\nWhat runs where\nYour ho",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
-        "voice"
+        "code",
+        "marketing"
       ]
     },
     {
-      "id": "e99f5f88-9639-4b3c-9369-73acf65387b1",
-      "name": "SoftJL",
-      "url": "https://github.com/guolola/SoftJL",
-      "oneLiner": "Connect requirements, UML, design, tests and engineering documents with your own model service.",
-      "description": "English | 简体中文\nAn engineering workspace for capstone and course projects\nConnect requirements, UML, design, tests and engineering documents with your own model service.\nReview coverage · Follow changes · Explain your work\nTrace your designs, guide your revisions. Review models, tests and specifications against the same requirements, follow change impacts and organize design sources you can explain",
+      "id": "30936676-3d12-4832-b098-93fd523e4be5",
+      "name": "AIQualityHQ",
+      "url": "https://aiqualityhq.com",
+      "oneLiner": "This prompt has a strong structure.",
+      "description": "Automated QA & Security Guardrails for Prompts and AI Agents\nThis prompt has a strong structure. Ship it to any model.\nAll checks passed. Zero structural, privacy, or security issues detected.\nDevelopers and AI teams need to catch prompt defects, red-team injection vectors, and optimize token costs before shipping to users. AIQualityHQ provides deterministic quality linting, adversarial security s",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/guolola/SoftJL.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
+        "agents",
         "code",
+        "security"
+      ]
+    },
+    {
+      "id": "0e05df44-0e2b-415a-a66b-14ece40185cf",
+      "name": "Aw-1",
+      "url": "https://github.com/MvikManners/aw1-circuit-breaker",
+      "oneLiner": "Featured on Hashgraph Online (HOL): Read the independent source-level teardown: What aw1-breaker checks before a tool call.",
+      "description": "Featured on Hashgraph Online (HOL): Read the independent source-level teardown: What aw1-breaker checks before a tool call.\naw1-breaker\nis a zero-dependency Python security circuit breaker that intercepts autonomous AI agent tool calls in sub-millisecond execution loops using Abstract Syntax Tree (AST) decompilation, declarative Policy-as-Code, per-actor rolling velocity monitors, and cryptographi",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
         "design",
         "data"
       ]
     },
     {
-      "id": "11891900-9a40-4172-9842-fc69176e2a2f",
-      "name": "Secret trigger words could make AI-powered robots dangerous",
-      "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
-      "oneLiner": "Large language models (LLMs) like OpenAI’s ChatGPT, Anthropic’s Claude, and Google Gemini are increasingly being used to help robots perform tasks, but what if LLMs could be exploi",
-      "description": "Secret trigger words could make AI-powered robots dangerous—and these researchers developed a defense\nLarge language models (LLMs) used to program helpful robots could be exploited, new research shows\nLarge language models (LLMs) like OpenAI’s ChatGPT, Anthropic’s Claude, and Google Gemini are increasingly being used to help robots perform tasks, but what if LLMs could be exploited to turn helpful",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "research"
-      ]
-    },
-    {
-      "id": "62b2b148-5ef3-4c1f-869c-734fcc6e7558",
-      "name": "We built an AI-powered search engine for e-commerce catalogs",
-      "url": "https://visidea.ai/",
-      "oneLiner": "Deliver smarter, faster shopping experiences with Visual Search, Semantic Search, and Personalized Product Recommendations.",
-      "description": "Revolutionize Your eCommerce with AI-Powered\nSearch & Discovery\nDeliver smarter, faster shopping experiences with Visual Search, Semantic Search, and Personalized Product Recommendations.\nBoost Sales and User Engagement with Cutting-Edge Search Tools\nMillennials and Gen-Z expect innovative features like Visual Search when shopping online. Meet their expectations and increase your revenue.\nIncrease",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "image",
-        "search"
-      ]
-    },
-    {
-      "id": "f54586b3-eaff-4db8-a980-681bf3fbf585",
-      "name": "See AI trends heat up in real time",
-      "url": "https://ai-news.jagular.io",
-      "oneLiner": "An interactive map of the AI companies, models, products, people, hardware and ideas that are getting the most attention in AI news and developer communities.",
-      "description": "An interactive map of the AI companies, models, products, people, hardware and ideas that are getting the most attention in AI news and developer communities. Bigger, closer to the centre and more connected means more talked about.\nThe Articles button (top right) opens a scrollable archive of every article behind the map — the last 30 days, grouped by source, newest first. Pick a source on the lef",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "6e6b251f-0cf3-4254-9b33-47181cdb4d91",
-      "name": "Litedeck",
-      "url": "https://github.com/cpprhtn/LiteDeck",
-      "oneLiner": "One connection covers files, the editor, services, processes, containers, the network, sessions, monitoring and a terminal.",
-      "description": "A desktop app for managing the servers you reach over SSH, in one window\nNothing gets installed on the server\nEnglish · 한국어\nDownload · Features · Security · MCP · What's verified · Contributing\nOne connection covers files, the editor, services, processes, containers, the network, sessions, monitoring and a terminal.\nNothing was installed on the server.\nConnect to a server over SSH once, and all of",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "5b2bfd57-62b3-4f7a-8736-49df610f30de",
-      "name": "Ida",
-      "url": "https://www.heyida.ai/",
-      "oneLiner": "“Your reviewwith Mayais Thursdayat 2pm.",
-      "description": "Say it. Ida gets it done.\n“when's myreview withmaya”\n“Your reviewwith Mayais Thursdayat 2pm.”\nSay it. Ida gets it done.\n“when's myreview withmaya”\n“Your reviewwith Mayais Thursdayat 2pm.”\nSay it. Ida gets it done.\n“when's myreview withmaya”\n“Your reviewwith Mayais Thursdayat 2pm.”\nOne key. One interaction.\nSay what you need while you hold it. Let go, and Ida gets it ready.\nYour work doesn’t happen",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "748bd025-914f-4dee-a420-a7185114f3c6",
-      "name": "Unterm",
-      "url": "https://github.com/zhitongblog/unterm",
-      "oneLiner": "The terminal AI agents can drive.",
-      "description": "The terminal AI agents can drive.\nIf Unterm is useful to you, a ⭐ on GitHub helps other people find it.\nCross-platform terminal (macOS / Linux / Windows) built on Unterm's native\nnext-core\nterminal engine, with one design bet: the terminal itself is\ncontrollable from the outside by any AI agent over MCP. Claude Code, Codex,\nGemini CLI, Cursor, Aider, your own scripts — they all get the same JSON-R",
+      "id": "25720b89-5496-415e-ac54-774188042505",
+      "name": "TenseMem",
+      "url": "https://github.com/tensemem/tensemem",
+      "oneLiner": "Memory that knows its tenses.",
+      "description": "Memory that knows its tenses. Embedded, deterministic memory that AI agents can safely act on.\nOne SQLite file. No server required. The model proposes typed facts; the engine decides what is current.\npip install tensemem\nfrom tensemem import FakeExtractor, Memory\nmem = Memory(llm=FakeExtractor())\nmem.register_predicate(\"lives_in\")\nadded = mem.add(\"u1\", \"I live in Delhi\")\nctx = mem.context(user_id=",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/zhitongblog/unterm",
+      "githubUrl": "https://github.com/tensemem/tensemem.git",
       "categories": [
+        "agents",
         "code",
-        "design",
-        "agents"
+        "design"
       ]
     }
   ]
