@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-22T11:17:12.969321+00:00",
-  "count": 22,
+  "generatedAt": "2026-10-23T11:08:12.401354+00:00",
+  "count": 15,
   "tools": [
     {
-      "id": "ed872eef-9f6d-43c9-883e-7e97d12ac3ce",
+      "id": "7e99fefd-351c-473f-bf2f-5770b8578750",
       "name": "ai-jailbreaks",
       "url": "https://github.com/Alejandros17487/ai-jailbreaks",
       "oneLiner": "AI jailbreaks — a curated collection of system prompts, persona locks, workspace policies, and agent operating specs for frontier, open-weight, and free stealth models.",
@@ -20,24 +20,7 @@
       ]
     },
     {
-      "id": "f976035f-6bd2-4d51-a620-5902ee0b5a93",
-      "name": "minitoolai-bulk-9router",
-      "url": "https://github.com/0xgetz/minitoolai-bulk-9router",
-      "oneLiner": "Bulk MiniToolAI accounts → session cookies & tokens → 62 free models on one OpenAI-compatible endpoint → wired into 9Router.",
-      "description": "Bulk MiniToolAI accounts → session cookies & tokens → 62 free models on one OpenAI-compatible endpoint → wired into 9Router.\nBahasa Indonesia · 中文 · 日本語 · Español\nMiniToolAI exposes a large catalogue of AI models through ordinary PHP pages. Each\ntool has a select_model\ndropdown and a small chat handler that answers with a\nserver-sent-event stream. This toolkit automates the whole chain:\n- Creates ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/0xgetz/minitoolai-bulk-9router.git",
-      "categories": [
-        "code",
-        "data",
-        "writing"
-      ]
-    },
-    {
-      "id": "5be4f649-8585-4e0d-bc5e-3a8cae61c0b6",
+      "id": "63945ab6-3a4c-4c9b-afa3-5316dc69182c",
       "name": "headless-duckapi",
       "url": "https://github.com/golaso024/headless-duckapi",
       "oneLiner": "A Telegram AI bot running on DuckDuckGo's free duck.",
@@ -49,12 +32,12 @@
       "githubUrl": "https://github.com/golaso024/headless-duckapi.git",
       "categories": [
         "code",
-        "image",
-        "data"
+        "data",
+        "image"
       ]
     },
     {
-      "id": "a7c08e04-1d91-4a60-8857-842db78b0c3b",
+      "id": "3f9fd081-35fa-4c50-ba05-99aaa4d04fca",
       "name": "lemonwrench",
       "url": "https://github.com/bpawnzZ/lemonwrench",
       "oneLiner": "A skill for AI coding agents — Claude Code, Hermes, or any harness that reads SKILL.",
@@ -71,11 +54,28 @@
       ]
     },
     {
-      "id": "624c3e97-d6bc-4abd-8bc5-687a214ea177",
+      "id": "29eb3145-c1c5-482e-8552-dd62c3161cf4",
+      "name": "lograke",
+      "url": "https://github.com/Haimanot25/lograke",
+      "oneLiner": "Lograke is an enterprise-grade, open-source log analysis platform that automatically parses, analyzes, and visualizes log files from any system without requiring custom parsers.",
+      "description": "Lograke is an enterprise-grade, open-source log analysis platform that automatically parses, analyzes, and visualizes log files from any system without requiring custom parsers.\n- Adaptive Parsing: Automatically detects and parses any log format\n- Multiple Input Methods: Upload files, paste logs, or ingest from archives\n- Advanced Analysis:\n- Pattern detection\n- Anomaly detection\n- Entity trace co",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Haimanot25/lograke.git",
+      "categories": [
+        "code",
+        "data",
+        "security"
+      ]
+    },
+    {
+      "id": "e6bf2fdb-35e4-4c3f-8239-8adf322b6cff",
       "name": "tokenation",
-      "url": "https://github.com/precisionz/tokenation",
+      "url": "https://github.com/precis1onz/tokenation",
       "oneLiner": "You signed in with another tab or window.",
-      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nStar23 (23)You must be signed in to star a repository\nAbout\nDaily-updated free LLM API list — top AA-scored picks, free tokens to burn. Evergreen + limited-time l",
+      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nStar26 (26)You must be signed in to star a repository\nAbout\nDaily-updated free LLM API list — top AA-scored picks, free tokens to burn. Evergreen + limited-time l",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "id": "14d258dd-1419-4fb8-9b9a-2b2c356e9241",
+      "id": "6013cd7d-d47e-4919-a154-ff09688ef64d",
       "name": "AgentMemory",
       "url": "https://github.com/hsuanshao/AgentMemory",
       "oneLiner": "Self-hosted, team-aware long-term memory for AI agents.",
@@ -98,80 +98,12 @@
       "githubUrl": "https://github.com/hsuanshao/AgentMemory.git",
       "categories": [
         "agents",
-        "data",
-        "rag"
-      ]
-    },
-    {
-      "id": "2e33be5d-bdf9-4746-aecc-55d7ac1b96d4",
-      "name": "alphacode-free-2api",
-      "url": "https://github.com/0xgetz/alphacode-free-2api",
-      "oneLiner": "Turn alphacode's built-in free AI lane into an OpenAI-compatible API.",
-      "description": "Turn alphacode's built-in free AI lane into an OpenAI-compatible API.\nPlug it into 9Router, Cursor, Cline, or any LLM client. Zero dependencies.\nEnglish · Bahasa Indonesia · Español · 简体中文 · 日本語\nalphacode ships with a built-in free lane (alphax-free\n) — free LLM models routed through OpenRouter's :free\ntier, no API key required. This project wraps that lane in a tiny HTTP gateway and speaks the Op",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/dragonked2/alphacode",
-      "categories": [
-        "code",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "64f00d2a-9a93-4fe4-b564-c17dad351728",
-      "name": "crow-desktop",
-      "url": "https://github.com/crow-hq/crow-desktop",
-      "oneLiner": "An LLM wiki you can chat with, for macOS, Windows and Linux.",
-      "description": "An LLM wiki you can chat with, for macOS, Windows and Linux.\nCrow finds your PDFs, Word files, slides and spreadsheets by itself, files them into a wiki of linked Markdown notes,\nand answers your questions citing the notes it used.\nDownload Crow 0.1.3 · Install help for macOS and Windows · FAQ\nCrow is a free desktop app that turns the documents already on your computer into a second brain: a wiki ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "security"
-      ]
-    },
-    {
-      "id": "9c46930e-4880-48c1-b311-31a85b68801c",
-      "name": "ptero-bulk-9router",
-      "url": "https://github.com/0xgetz/ptero-bulk-9router",
-      "oneLiner": "pro anonymous accounts, auto-harvest their tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced OpenAI-compatible pool.",
-      "description": "Bulk-create ptero.pro anonymous accounts, auto-harvest their tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced OpenAI-compatible pool.\nZero dependencies · Node 18+ · MIT\nptero.pro is a free, fully anonymous AI chat site. A \"user\" is just a random 32-character hex token the browser generates locally — there is no signup, no email, no password, and the token is not",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "writing"
-      ]
-    },
-    {
-      "id": "7155eca3-819f-4e51-82c0-055cfa085cb0",
-      "name": "ochrelle",
-      "url": "https://github.com/izynu/ochrelle",
-      "oneLiner": "Ochrelle is an open-source ecosystem of Agent Skills for design intelligence: one master skill that reasons about which visual style a product needs, and 27 specialist skills that ",
-      "description": "Give AI a design sense.\nInstall · Skill catalog · How it works · Verification · Showcase · Docs · Maintainers\nOchrelle is an open-source ecosystem of Agent Skills for design intelligence: one master skill that reasons about which visual style a product needs, and 27 specialist skills that execute a specific style with production-quality guidance.\nThe name is coined, not borrowed. Ochrelle derives ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/izynu/ochrelle.git",
-      "categories": [
-        "code",
-        "design",
+        "rag",
         "data"
       ]
     },
     {
-      "id": "da129a4b-d62a-416e-9af9-120f50d9b708",
+      "id": "cc69d258-3d3d-42dc-b37f-6ff97ccb2708",
       "name": "eze",
       "url": "https://github.com/ahyield/eze",
       "oneLiner": "Drop in a folder of HTML and get back a private URL that only people in your organisation can open.",
@@ -188,7 +120,7 @@
       ]
     },
     {
-      "id": "67dced23-5855-46f1-8bfb-63388a91aafb",
+      "id": "6d0eaf5e-3e11-403b-930d-73a22142853c",
       "name": "genpic",
       "url": "https://github.com/dcarrero/genpic",
       "oneLiner": "An AI portrait SaaS, finished, tested and run in production, released after it failed commercially.",
@@ -200,50 +132,33 @@
       "githubUrl": "https://github.com/dcarrero/genpic.git",
       "categories": [
         "code",
-        "image",
-        "data"
+        "data",
+        "image"
       ]
     },
     {
-      "id": "bf5400f1-0dc4-4df1-8d64-1f59a8874f0c",
-      "name": "Achieving AI-style reasoning without an LLM",
-      "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
-      "oneLiner": "In the last post we introduced Minotaur, an AI that reasons with no language model and no GPU.",
-      "description": "Minotaur AI Deep Dive: Achieving Reasoning Without a Language Model\nIn the last post we introduced Minotaur, an AI that reasons with no language model and no GPU. This post looks at why language models think the way people do, at what was tried before them and where each attempt stopped, and at how Minotaur’s brain does the same kinds of reasoning differently: not by imitating how people write the",
+      "id": "f4ce8305-d7ef-42e9-a269-cc0ecbdda3ef",
+      "name": "Kucedr (was Friday)",
+      "url": "https://www.kucedr.com/",
+      "oneLiner": "I’m designing a poster for an exhibition of imagined worlds.",
+      "description": "I’m designing a poster for an exhibition of imagined worlds. Create a clockwork whale floating above a village at sunset. Keep the artwork free of text.\nDesktop AI assistant\nKucedr is a personal AI assistant that adapts to you and the task at hand. Write, research, code, or create images, audio, and video. Bring your files, choose your models, and make it work your way.\nmacOS · Linux · Windows · M",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "design",
-        "research"
+        "audio"
       ]
     },
     {
-      "id": "ff960dc3-9f84-46c6-b196-8c0c76b95bc3",
-      "name": "The Companion Lab",
-      "url": "https://thecompanionlab.com/billing/",
-      "oneLiner": "The least discreet of the seven.",
-      "description": "Candy AI\nEverAI candy.ai MT\nThe least discreet of the seven. It does not say Candy, but it does say candy.ai, so anyone who reads the line and searches it lands on the app.\nCharged $9.99 on 20 October 2026. EverAI Limited, registered in Malta.\nSeven apps. Seven merchant names we read off our own card notices, each with the amount and the date. If a line on your statement looks like one of these, t",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "image",
-        "search"
-      ]
-    },
-    {
-      "id": "9d6deb77-9734-42c2-82d5-4f95b16c3ecb",
-      "name": "Open-source Claude skills to replace Higgsfield",
-      "url": "https://github.com/SupercmoHQ/superCMO-skills",
-      "oneLiner": "Open-source skills that empower any AI agent (Claude, Cursor, Codex, Hermes, etc.",
-      "description": "Open-source skills that empower any AI agent (Claude, Cursor, Codex, Hermes, etc.) to generate end-to-end marketing campaigns - UGC videos, ad videos, product photography and more.\nJust provide a product photo and a brief. The agent extracts the product details, selects the optimal AI image and video models, casts AI actors, and edits the generated content into finished, campaign-ready assets. It ",
+      "id": "9da69b1e-d469-4baa-bbb9-e91cf900abb6",
+      "name": "Ordered list of open-source software with the No-AI policy",
+      "url": "https://gornak40.org/soulful-software",
+      "oneLiner": "Ordered list of open-source software with the No-AI policy.",
+      "description": "Soulful Software\nOrdered list of open-source software with the No-AI policy.\ncodeberg.org/Gornak40/soulful-software\nThis page contains only the list; see README.md for more details.\nChezmoi\nManage your dotfiles across multiple diverse machines, securely.\ngithub.com/twpayne/chezmoi/blob/master/.github/CODE_OF_CONDUCT.md\nThe developers have tightened the restrictions.\nChiPass\nRobust, secure and trus",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -251,12 +166,29 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "marketing",
-        "image"
+        "audio",
+        "design"
       ]
     },
     {
-      "id": "53d5ec19-5b9f-4599-aead-c3da18657600",
+      "id": "7846ece3-5374-413f-8e6b-a0e802d5e8be",
+      "name": "aseprite-mcp-live",
+      "url": "https://github.com/greenlogs/aseprite-mcp-live",
+      "oneLiner": "powershell -ExecutionPolicy ByPass -c \"irm https://astral.",
+      "description": "Aseprite MCP 将支持 MCP 的客户端如Codex\n，CluadeCode\n，DeepseekHarness\n等Agent与 Aseprite 连接起来，支持读取和编辑未保存画布、图片预览、撤销重做及可选基础动画，让你在同一文档中继续创作。同时保留 CLI 磁盘文件处理能力。\nPyPI 安装包 · Release 扩展下载 · 问题反馈\nWindows Aseprite 1.3+ 验证；Aseprite 需自行安装，不随项目分发。\n确保你已经安装了aseprite-扩展 然后可以使用你常用的ai agent工具输入以下内容：\n请帮我安装这个项目https://github.com/greenlogs/aseprite-mcp-live的Aseprite MCP扩展，我的Aseprite已经安装好在[输入你的aseprite.exe 安装路径]，且已经安装了扩展并启用。\n在 Po",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/greenlogs/aseprite-mcp-live的Aseprite",
+      "categories": [
+        "agents",
+        "code",
+        "video"
+      ]
+    },
+    {
+      "id": "df7da660-c14d-47a2-8b21-baea90eb37a2",
       "name": "ai-roadmap-2026",
       "url": "https://github.com/h9-tec/ai-roadmap-2026",
       "oneLiner": "Per the market analysis this roadmap is built on, AI engineering in 2026 shifted from \"train models\" to \"build reliable agentic systems\" on top of models that already exist.",
@@ -272,7 +204,7 @@
       ]
     },
     {
-      "id": "ccd69111-27a2-4311-9be8-0a7d41014f0e",
+      "id": "aea2a1c6-4216-4e94-aa7a-6ae5a4b70b76",
       "name": "awesome-ai-devtools-ru",
       "url": "https://github.com/justxor/awesome-ai-devtools-ru",
       "oneLiner": "You signed in with another tab or window.",
@@ -289,45 +221,28 @@
       ]
     },
     {
-      "id": "6b3d92f2-af56-4a97-aa73-abc143851dac",
-      "name": "pick-your-ai-research",
-      "url": "https://github.com/Pick-Your-AI/pick-your-ai-research",
-      "oneLiner": "See the migration record.",
-      "description": "Mobile planning issues now live in Pick-Your-AI/pick-your-ai-android\nand Pick-Your-AI/pick-your-ai-apple\n. See the migration record. Repository creation resolves location only; framework, modules and service placement remain gated. Existing acceptance-record paths are preserved. Historical snapshots below do not override the live migration.\nResearch for an AI system builder inspired by PCPartPicke",
+      "id": "4447c839-2e7d-42fa-a8c7-40a75427edc3",
+      "name": "Audimind",
+      "url": "https://www.audimind.ai",
+      "oneLiner": "Generate AI narration, record online, or upload existing recordings.",
+      "description": "Generate AI narration, record online, or upload existing recordings. Edit, mix, and collaborate\nto turn your manuscript into finished audio.\nSee how it works\nAI identifies characters and builds profiles, accurately recognizing speaking roles\nRecord by character online, with AI Voices available to support flexible production workflows.\nSmart Alignment: Faster Production, Less Manual Work\nCompare re",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "productivity",
-        "search",
-        "research"
-      ]
-    },
-    {
-      "id": "804d540b-633c-40db-9fe5-312f79317c3f",
-      "name": "Runspace",
-      "url": "https://runspace.sandbox.ec/",
-      "oneLiner": "runspace: Disposable cloud sandboxes for humans and AI agents.",
-      "description": "runspace: Disposable cloud sandboxes for humans and AI agents.\nYour commands run in a throwaway GitHub codespace. You get back the output and a patch, and your host stays clean.\ncurl -fsSL https://get.sandbox.ec/runspace | shirm https://get.sandbox.ec/runspace.ps1 | iex\nDownloads the latest release and checks it against the release's SHA-256 checksums. Other ways to install\nWhat runs where\nYour ho",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
         "code",
-        "marketing"
+        "audio",
+        "voice"
       ]
     },
     {
-      "id": "30936676-3d12-4832-b098-93fd523e4be5",
-      "name": "AIQualityHQ",
-      "url": "https://aiqualityhq.com",
-      "oneLiner": "This prompt has a strong structure.",
-      "description": "Automated QA & Security Guardrails for Prompts and AI Agents\nThis prompt has a strong structure. Ship it to any model.\nAll checks passed. Zero structural, privacy, or security issues detected.\nDevelopers and AI teams need to catch prompt defects, red-team injection vectors, and optimize token costs before shipping to users. AIQualityHQ provides deterministic quality linting, adversarial security s",
+      "id": "9114503f-52cd-4164-86d8-6af1521f1b29",
+      "name": "An automated news site Distribute Software",
+      "url": "https://distribute.software/",
+      "oneLiner": "- Is a job guarantee the solution to mass AI unemployment?",
+      "description": "Technology, day by day\nLatest\n- Is a job guarantee the solution to mass AI unemployment?\n- Anthropic strikes deal to launch European consultancy\n- The Indian workers filming their work to train AI\n- The same AI request emits 8.5 times more CO2 in Texas than in Sweden\n- Apple Watch Ultra 4 review: longer battery life but still awaiting new features\n- Winter arrives in markets\nBig Tech This week\n- A",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -335,42 +250,7 @@
       "githubUrl": null,
       "categories": [
         "agents",
-        "code",
-        "security"
-      ]
-    },
-    {
-      "id": "0e05df44-0e2b-415a-a66b-14ece40185cf",
-      "name": "Aw-1",
-      "url": "https://github.com/MvikManners/aw1-circuit-breaker",
-      "oneLiner": "Featured on Hashgraph Online (HOL): Read the independent source-level teardown: What aw1-breaker checks before a tool call.",
-      "description": "Featured on Hashgraph Online (HOL): Read the independent source-level teardown: What aw1-breaker checks before a tool call.\naw1-breaker\nis a zero-dependency Python security circuit breaker that intercepts autonomous AI agent tool calls in sub-millisecond execution loops using Abstract Syntax Tree (AST) decompilation, declarative Policy-as-Code, per-actor rolling velocity monitors, and cryptographi",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "25720b89-5496-415e-ac54-774188042505",
-      "name": "TenseMem",
-      "url": "https://github.com/tensemem/tensemem",
-      "oneLiner": "Memory that knows its tenses.",
-      "description": "Memory that knows its tenses. Embedded, deterministic memory that AI agents can safely act on.\nOne SQLite file. No server required. The model proposes typed facts; the engine decides what is current.\npip install tensemem\nfrom tensemem import FakeExtractor, Memory\nmem = Memory(llm=FakeExtractor())\nmem.register_predicate(\"lives_in\")\nadded = mem.add(\"u1\", \"I live in Delhi\")\nctx = mem.context(user_id=",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/tensemem/tensemem.git",
-      "categories": [
-        "agents",
-        "code",
-        "design"
+        "code"
       ]
     }
   ]
