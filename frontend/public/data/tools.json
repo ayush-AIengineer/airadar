@@ -1,9 +1,59 @@
 {
-  "generatedAt": "2026-10-23T11:08:12.401354+00:00",
-  "count": 15,
+  "generatedAt": "2026-10-24T10:25:17.608597+00:00",
+  "count": 26,
   "tools": [
     {
-      "id": "7e99fefd-351c-473f-bf2f-5770b8578750",
+      "id": "74bea661-423e-4fb6-8c3d-244a7488cd47",
+      "name": "awesome-ai-tools-for-game-dev",
+      "url": "https://github.com/aigamedevs/awesome-ai-tools-for-game-dev",
+      "oneLiner": "Originally created by Thomas Simonini (@simoninithomas) at simoninithomas/awesome-ai-tools-for-game-dev; refreshed and maintained by aigamedevs.",
+      "description": "Originally created by Thomas Simonini (@simoninithomas) at simoninithomas/awesome-ai-tools-for-game-dev; refreshed and maintained by aigamedevs. Released under CC0 1.0.\nThis is a curated collection of AI tools that speed up and improve game development: 3D models, sprites, textures, animation, voices, music, NPC dialogue, engine assistants, and automated playtesting.\nWhether you're an indie develo",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "voice",
+        "audio"
+      ]
+    },
+    {
+      "id": "7b2f7e62-fc8f-4127-83a8-bedf61d5659b",
+      "name": "verity-enhanced",
+      "url": "https://github.com/verity-mods/verity-enhanced",
+      "oneLiner": "The ultimate Verity experience, rebuilt for modern Minecraft.",
+      "description": "The ultimate Verity experience, rebuilt for modern Minecraft.\nThe original Verity mod is a masterpiece of psychological horror, but it hasn't been updated for newer versions and has several limitations. This is the Enhanced Edition — an unofficial community remaster designed to bring Verity to its full potential.\nWe've completely rewritten the AI behavior, added new terrifying models, and expanded",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "ba5829e3-8320-4a1a-aec6-e42d9459df61",
+      "name": "ai-voice-studio",
+      "url": "https://github.com/OutOfAmine/ai-voice-studio",
+      "oneLiner": "Turn your phone voice note into a studio-mic voice.",
+      "description": "Turn your phone voice note into a studio-mic voice. Free, local, one command.\nSame take, same phone. Turn the sound on 🔊\nbefore-after.mp4\nNo noise, no room echo, the treble lost to phone compression rebuilt, long pauses tightened, mixed to the loudness Instagram and TikTok expect. Made by Amine (@justbyamine): every Darija tech reel on the account is voiced this way.\nBefore / after audio only: dem",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "voice",
+        "audio"
+      ]
+    },
+    {
+      "id": "6411bec8-0616-4d3f-9e91-e307645eee53",
       "name": "ai-jailbreaks",
       "url": "https://github.com/Alejandros17487/ai-jailbreaks",
       "oneLiner": "AI jailbreaks — a curated collection of system prompts, persona locks, workspace policies, and agent operating specs for frontier, open-weight, and free stealth models.",
@@ -20,7 +70,7 @@
       ]
     },
     {
-      "id": "63945ab6-3a4c-4c9b-afa3-5316dc69182c",
+      "id": "b029a953-5782-4cd0-b5ef-61fe39994b82",
       "name": "headless-duckapi",
       "url": "https://github.com/golaso024/headless-duckapi",
       "oneLiner": "A Telegram AI bot running on DuckDuckGo's free duck.",
@@ -37,7 +87,7 @@
       ]
     },
     {
-      "id": "3f9fd081-35fa-4c50-ba05-99aaa4d04fca",
+      "id": "93835136-4f37-46e1-9ec2-0e06c9d94ef3",
       "name": "lemonwrench",
       "url": "https://github.com/bpawnzZ/lemonwrench",
       "oneLiner": "A skill for AI coding agents — Claude Code, Hermes, or any harness that reads SKILL.",
@@ -54,7 +104,7 @@
       ]
     },
     {
-      "id": "29eb3145-c1c5-482e-8552-dd62c3161cf4",
+      "id": "ef43a4bf-5ce7-4eba-ab70-31e1740d8fb5",
       "name": "lograke",
       "url": "https://github.com/Haimanot25/lograke",
       "oneLiner": "Lograke is an enterprise-grade, open-source log analysis platform that automatically parses, analyzes, and visualizes log files from any system without requiring custom parsers.",
@@ -71,11 +121,11 @@
       ]
     },
     {
-      "id": "e6bf2fdb-35e4-4c3f-8239-8adf322b6cff",
+      "id": "b5900ebd-50aa-470f-b285-182054be6b1d",
       "name": "tokenation",
       "url": "https://github.com/precis1onz/tokenation",
       "oneLiner": "You signed in with another tab or window.",
-      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nStar26 (26)You must be signed in to star a repository\nAbout\nDaily-updated free LLM API list — top AA-scored picks, free tokens to burn. Evergreen + limited-time l",
+      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nStar29 (29)You must be signed in to star a repository\nAbout\nDaily-updated free LLM API list — top AA-scored picks, free tokens to burn. Evergreen + limited-time l",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -86,7 +136,7 @@
       ]
     },
     {
-      "id": "6013cd7d-d47e-4919-a154-ff09688ef64d",
+      "id": "5924a1e8-6675-4c9f-8f06-566965fa0b2f",
       "name": "AgentMemory",
       "url": "https://github.com/hsuanshao/AgentMemory",
       "oneLiner": "Self-hosted, team-aware long-term memory for AI agents.",
@@ -98,12 +148,46 @@
       "githubUrl": "https://github.com/hsuanshao/AgentMemory.git",
       "categories": [
         "agents",
-        "rag",
+        "data",
+        "rag"
+      ]
+    },
+    {
+      "id": "910eb4c9-2b09-4609-b00c-c9cd4ba67d6b",
+      "name": "litpage",
+      "url": "https://github.com/litmers-dev/litpage",
+      "oneLiner": "Litpage is an open-source workspace you run yourself.",
+      "description": "Live demo | Quick start | Feature tour | AI | API | Architecture | 한국어\nLitpage is an open-source workspace you run yourself. Write in a block editor, organize pages and teams, track work in databases with a dozen views, share with fine-grained permissions, and bring your own AI key for chat, agents and writing help. The whole app is one Node.js process with one SQLite file, small enough for a lapt",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "cc69d258-3d3d-42dc-b37f-6ff97ccb2708",
+      "id": "31fa820e-34d7-4b5b-b7d9-1d8814edfebf",
+      "name": "37studio",
+      "url": "https://github.com/Shaitrish/37studio",
+      "oneLiner": "An AI video studio and social media desk that runs on your own computer.",
+      "description": "An AI video studio and social media desk that runs on your own computer.\nVideos made, posted and answered, with your own keys and no monthly bill.\n▶ Watch the intro video · Setup guide · Issues · Donate\n37Studio makes videos for a business and runs its social accounts, from one app on your own computer. Add a company from its website and it builds a brand library and a knowledge base. Brief a vide",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Shaitrish/37studio.git",
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "f131f45e-3ca1-4e0e-813e-a57ccf7699ce",
       "name": "eze",
       "url": "https://github.com/ahyield/eze",
       "oneLiner": "Drop in a folder of HTML and get back a private URL that only people in your organisation can open.",
@@ -120,7 +204,7 @@
       ]
     },
     {
-      "id": "6d0eaf5e-3e11-403b-930d-73a22142853c",
+      "id": "2c4d4d9f-eef8-4871-9377-348a8df3adf6",
       "name": "genpic",
       "url": "https://github.com/dcarrero/genpic",
       "oneLiner": "An AI portrait SaaS, finished, tested and run in production, released after it failed commercially.",
@@ -137,11 +221,45 @@
       ]
     },
     {
-      "id": "f4ce8305-d7ef-42e9-a269-cc0ecbdda3ef",
-      "name": "Kucedr (was Friday)",
-      "url": "https://www.kucedr.com/",
-      "oneLiner": "I’m designing a poster for an exhibition of imagined worlds.",
-      "description": "I’m designing a poster for an exhibition of imagined worlds. Create a clockwork whale floating above a village at sunset. Keep the artwork free of text.\nDesktop AI assistant\nKucedr is a personal AI assistant that adapts to you and the task at hand. Write, research, code, or create images, audio, and video. Bring your files, choose your models, and make it work your way.\nmacOS · Linux · Windows · M",
+      "id": "64634678-b510-4f7c-aa72-ab4c06be422f",
+      "name": "ThinkRail from JetBrains",
+      "url": "https://thinkrail.ai/",
+      "oneLiner": "The agentic IDE that gets better every time you use it.",
+      "description": "<!-- README.md -->\nJetBrains InnovationHub Apache-2.0 open source\nThinkRail\nThe agentic IDE that gets better every time you use it.\nOpen a repo as a project. Cut isolated git-worktree workspaces. Pair with a real agent across Monaco tabs, terminals, and diffs — while your project's intent lives in a spec graph the agent actually reads.\nThinkRail runs on macOS, Windows, and Linux.\nmacOS\nBrowser UI ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "48c55b3f-8716-4807-9b32-a39e04041ea9",
+      "name": "AI in UX",
+      "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
+      "oneLiner": "We surveyed 521 UX practitioners about how they use AI at work and how it’s affecting them.",
+      "description": "We surveyed 521 UX practitioners about how they use AI at work and how it’s affecting them. The short answer: AI use is widespread and saves time, but practitioners are far from enthusiastic, and the benefits depend heavily on role, task, and workplace.\nTL;DR\n- Access was nearly universal (99%), but use of agentic AI ranged from 85% at startups to 36% at nonprofits.\n- Output quality (54%) and data",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "0e7b4841-bf43-4af5-b0bf-3d347a08aaf9",
+      "name": "Local AI for dictation",
+      "url": "https://sideos.ai",
+      "oneLiner": "It actually does the work and tells no one.",
+      "description": "Talk to your Mac. It actually does the work and tells no one.\nHold Control Option, say what you want, let go. sideOS reads your screen,\ndecides what to do, opens apps, clicks, types — and tells you when it’s done.\nSee it in 45 seconds.\nSeven things,\nevery single day.\nThe core of sideOS, playing itself. Pick any of them — or let it run.\nTalk to it\nSay what you want. It reads your screen and does it",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -150,15 +268,15 @@
       "categories": [
         "agents",
         "code",
-        "audio"
+        "voice"
       ]
     },
     {
-      "id": "9da69b1e-d469-4baa-bbb9-e91cf900abb6",
-      "name": "Ordered list of open-source software with the No-AI policy",
-      "url": "https://gornak40.org/soulful-software",
-      "oneLiner": "Ordered list of open-source software with the No-AI policy.",
-      "description": "Soulful Software\nOrdered list of open-source software with the No-AI policy.\ncodeberg.org/Gornak40/soulful-software\nThis page contains only the list; see README.md for more details.\nChezmoi\nManage your dotfiles across multiple diverse machines, securely.\ngithub.com/twpayne/chezmoi/blob/master/.github/CODE_OF_CONDUCT.md\nThe developers have tightened the restrictions.\nChiPass\nRobust, secure and trus",
+      "id": "8a6b5dd3-356a-4693-925f-3acc657f2738",
+      "name": "The attack chain behind the v1.107.0 LiteLLM release",
+      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026-attack-chain",
+      "oneLiner": "The attack chain behind the v1.",
+      "description": "The attack chain behind the v1.107.0 LiteLLM release\nOn October 21, our release pipeline published a compromised litellm==1.107.0\nto PyPI and to our container registries. The incident post covers the affected artifacts and what to do if you ran them. We have completed our investigation into the actions taken by the threat actor, and can confidently assert the timeline and sequence of events that l",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -166,12 +284,78 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "audio",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "3cf25b7e-a7e5-47b2-a9ed-277e272a77ad",
+      "name": "Latch",
+      "url": "https://latch.tools/",
+      "oneLiner": "AI agents are already clicking through your site — and failing on your buttons and forms.",
+      "description": "AI agents are already clicking through your site — and failing on your buttons and forms. Latch exposes your search, cart, and contact forms as WebMCP tools an agent can actually use. No server. No rewrite.\n<script src=\"https://latch.tools/latch.js\" defer></script>\nDrop it before </body>. Zero dependencies · ~6 KB · degrades silently where WebMCP isn't present.\nIt reads your page (read-only) and r",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "data",
+        "search"
+      ]
+    },
+    {
+      "id": "a894194c-2298-4126-84a0-20bd0c7f2454",
+      "name": "Inference Cooperative",
+      "url": "https://inference.coop/",
+      "oneLiner": "We don't have to accept the choices Big Tech gives us.",
+      "description": "AI, governed together.\nWe don't have to accept the choices Big Tech gives us. We can make our own.\nThe models shaping how we work, learn, and talk are owned by a handful of companies — and governed first for their shareholders' profit.\nWe think that's backwards. A tool this consequential should answer to the people who use it. So we're enabling access to AI on the users' terms.\nEveryone joins the ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "a507a8a9-fb81-458d-8f22-cdf465125024",
+      "name": "CowAgent",
+      "url": "https://cowagent.ai/en/",
+      "oneLiner": "Open-source super AI assistant & Agent Harness.",
+      "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, autonomously grows with memory and knowledge. Multi-model, multi-channel, multi-agent. Lightweight, extensible, one-line install — runs 24/7 on your laptop or server.\nOne command to install, configure, and launch — for developers and 24/7 servers\n# Install and run CowAgent\n$ bash <(curl -fsSL https://cdn.link-ai.te",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
         "design"
       ]
     },
     {
-      "id": "7846ece3-5374-413f-8e6b-a0e802d5e8be",
+      "id": "562cae24-7a61-4c3f-aaec-31e45c3cc882",
+      "name": "AnythingLLM-Desktop",
+      "url": "https://github.com/QuickButlerPace65/AnythingLLM-Desktop",
+      "oneLiner": "The ultimate all-in-one AI workspace, supercharged and fully portable.",
+      "description": "The ultimate all-in-one AI workspace, supercharged and fully portable.\nYour fully private, customizable, and locally-hosted AI assistant. Chat with your documents, connect to any LLM, and manage your AI workspace without limits.\nThis is a customized, enhanced fork of the original AnythingLLM Desktop application, specifically optimized and packaged as a Portable Windows Application.\nIt transforms y",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "dd633fa3-145e-482b-8215-bea94e1feeaf",
       "name": "aseprite-mcp-live",
       "url": "https://github.com/greenlogs/aseprite-mcp-live",
       "oneLiner": "powershell -ExecutionPolicy ByPass -c \"irm https://astral.",
@@ -188,7 +372,7 @@
       ]
     },
     {
-      "id": "df7da660-c14d-47a2-8b21-baea90eb37a2",
+      "id": "e22f0d79-830a-4430-9cb1-14f419d9d253",
       "name": "ai-roadmap-2026",
       "url": "https://github.com/h9-tec/ai-roadmap-2026",
       "oneLiner": "Per the market analysis this roadmap is built on, AI engineering in 2026 shifted from \"train models\" to \"build reliable agentic systems\" on top of models that already exist.",
@@ -204,7 +388,7 @@
       ]
     },
     {
-      "id": "aea2a1c6-4216-4e94-aa7a-6ae5a4b70b76",
+      "id": "7a1518b1-93da-4838-afdc-c0b43fa0cbc5",
       "name": "awesome-ai-devtools-ru",
       "url": "https://github.com/justxor/awesome-ai-devtools-ru",
       "oneLiner": "You signed in with another tab or window.",
@@ -221,28 +405,28 @@
       ]
     },
     {
-      "id": "4447c839-2e7d-42fa-a8c7-40a75427edc3",
-      "name": "Audimind",
-      "url": "https://www.audimind.ai",
-      "oneLiner": "Generate AI narration, record online, or upload existing recordings.",
-      "description": "Generate AI narration, record online, or upload existing recordings. Edit, mix, and collaborate\nto turn your manuscript into finished audio.\nSee how it works\nAI identifies characters and builds profiles, accurately recognizing speaking roles\nRecord by character online, with AI Voices available to support flexible production workflows.\nSmart Alignment: Faster Production, Less Manual Work\nCompare re",
+      "id": "e37b80f0-9901-446d-a3eb-443d01c47fe7",
+      "name": "XmaxSDK-MacOS",
+      "url": "https://github.com/Xmax-AI/XmaxSDK-MacOS",
+      "oneLiner": "We introduce XmaxSDK, a native macOS SDK designed for real-time interactive video generation via Xmax models.",
+      "description": "We introduce XmaxSDK, a native macOS SDK designed for real-time interactive video generation via Xmax models. XmaxSDK implements an end-to-end pipeline covering media acquisition, video streaming, frame-by-frame generation, and on-device rendering, enabling developers to seamlessly integrate low-latency, high-fidelity video transformations into creative applications at a much lower cost than alter",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/XingMai/XmaxSDK-MacOS.git",
       "categories": [
         "code",
-        "audio",
-        "voice"
+        "design",
+        "image"
       ]
     },
     {
-      "id": "9114503f-52cd-4164-86d8-6af1521f1b29",
-      "name": "An automated news site Distribute Software",
-      "url": "https://distribute.software/",
-      "oneLiner": "- Is a job guarantee the solution to mass AI unemployment?",
-      "description": "Technology, day by day\nLatest\n- Is a job guarantee the solution to mass AI unemployment?\n- Anthropic strikes deal to launch European consultancy\n- The Indian workers filming their work to train AI\n- The same AI request emits 8.5 times more CO2 in Texas than in Sweden\n- Apple Watch Ultra 4 review: longer battery life but still awaiting new features\n- Winter arrives in markets\nBig Tech This week\n- A",
+      "id": "b3781052-7ac7-4b7e-9797-d8b07e947186",
+      "name": "Meta says if its AI makes a mistake",
+      "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+      "oneLiner": "The new terms, scheduled to take effect October 30, also expand enterprise liability to content the customer uses from its partners.",
+      "description": "The new terms, scheduled to take effect October 30, also expand enterprise liability to content the customer uses from its partners.\nendif; ?>In Meta commercial terms changes slated to kick in on October 30, the company will shift the liability for any mistakes made by its AI models to its enterprise customers. The new language also makes those IT executives responsible for anything done by a part",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -250,7 +434,8 @@
       "githubUrl": null,
       "categories": [
         "agents",
-        "code"
+        "marketing",
+        "image"
       ]
     }
   ]
