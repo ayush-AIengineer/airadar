@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T12:23:49.822877+00:00",
-  "count": 27,
+  "generatedAt": "2026-10-27T11:42:50.489373+00:00",
+  "count": 20,
   "tools": [
     {
-      "id": "98e3563e-ea60-4bc7-b7dc-3c334e9819e6",
+      "id": "d97000fc-9eb4-446e-9a75-9a6f665f43cd",
       "name": "CVEngine",
       "url": "https://github.com/hevnsnt/CVEngine",
       "oneLiner": "cvENGINE automatically discovers and maps your internet-facing assets, fingerprints every service and version it finds, and tells you which of today's exploited CVEs actually hit y",
@@ -14,13 +14,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/hevnsnt/CVEngine.git",
       "categories": [
-        "code",
         "search",
+        "code",
         "data"
       ]
     },
     {
-      "id": "3897e41a-8d3e-4b4e-902b-011a4884f5bb",
+      "id": "4643005e-157a-448a-b1ce-145172b5d9a2",
       "name": "ludra",
       "url": "https://github.com/ersingvn/ludra",
       "oneLiner": "The game engine built for AI agents.",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "id": "f7c7399c-510f-4285-8468-54102f4ff6c2",
+      "id": "8b79f93b-76fe-400f-a5b8-18e95722ff4f",
       "name": "verity-enhanced",
       "url": "https://github.com/verity-mods/verity-enhanced",
       "oneLiner": "The ultimate Verity experience, rebuilt for modern Minecraft.",
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "id": "1e664327-b648-440f-98de-76c52c73b93b",
+      "id": "d7807bbb-dd9d-40b2-82b8-4296312ee5a1",
       "name": "kubic",
       "url": "https://github.com/konic-labs/kubic",
       "oneLiner": "Kubic is Konic's open-source coding agent.",
@@ -65,12 +65,12 @@
       "githubUrl": null,
       "categories": [
         "design",
-        "code",
-        "agents"
+        "agents",
+        "code"
       ]
     },
     {
-      "id": "3cd79182-8892-45dd-9ed8-b27018811fef",
+      "id": "7f06d92d-ab75-489f-abd8-5443922e5dff",
       "name": "cutvii",
       "url": "https://github.com/zidniryi/cutvii",
       "oneLiner": "An open-source, cross-platform desktop video editor: import → edit on a multi-track timeline → preview → export MP4.",
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "id": "6a72a59e-71a8-4055-8f91-e3e3c31dac7f",
+      "id": "df428d7f-aa07-4731-8f1a-c43eab758c4d",
       "name": "ai-voice-studio",
       "url": "https://github.com/OutOfAmine/ai-voice-studio",
       "oneLiner": "Turn your phone voice note into a studio-mic voice.",
@@ -99,12 +99,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "audio",
-        "voice"
+        "voice",
+        "audio"
       ]
     },
     {
-      "id": "5a72820e-ffb8-416c-9cba-5f831dc85e6c",
+      "id": "c14c86c6-769b-40b8-bd61-b5e2240f9489",
       "name": "ai-jailbreaks",
       "url": "https://github.com/Alejandros17487/ai-jailbreaks",
       "oneLiner": "AI jailbreaks — a curated collection of system prompts, persona locks, workspace policies, and agent operating specs for frontier, open-weight, and free stealth models.",
@@ -115,30 +115,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
-        "search"
+        "search",
+        "code"
       ]
     },
     {
-      "id": "8c7aa879-fdb6-4c0a-a6ea-224e8169637c",
-      "name": "nlp-for-machine-learning-bootcamp",
-      "url": "https://github.com/somastllc/nlp-for-machine-learning-bootcamp",
-      "oneLiner": "Welcome to the Natural Language Processing (NLP) for Machine Learning Bootcamp repository!",
-      "description": "Welcome to the Natural Language Processing (NLP) for Machine Learning Bootcamp repository! 🚀\nThis repo contains all the lessons, code examples, projects, and resources used throughout our NLP bootcamp.\nThe program is designed for participants who already understand Data Science & Machine Learning fundamentals and want to learn how machines process, understand, and analyze human language.\nWe'll exp",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "d0aa64c1-7df0-48b4-8a5d-2fa98e1b44b6",
+      "id": "5b343d4d-7eab-4c98-983c-d5c0df33be71",
       "name": "TokenBar",
       "url": "https://github.com/lwh0630/TokenBar",
       "oneLiner": "Every AI quota, one glance away.",
@@ -155,7 +138,7 @@
       ]
     },
     {
-      "id": "d7ed6062-296a-4214-985f-4e33a42c9701",
+      "id": "56f9bbbf-2328-4b2a-9d4b-34595a64ba8d",
       "name": "arkdraw",
       "url": "https://github.com/gabe-santana/arkdraw",
       "oneLiner": "using your own model and keeping your files on your disk.",
@@ -172,7 +155,7 @@
       ]
     },
     {
-      "id": "341b757a-2c40-46db-ab7f-2284241d82d5",
+      "id": "0eff29ad-ec7d-4587-9381-a23dfa5bf335",
       "name": "litpage",
       "url": "https://github.com/litmers-dev/litpage",
       "oneLiner": "Litpage is an open-source workspace you run yourself.",
@@ -183,17 +166,17 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "data"
       ]
     },
     {
-      "id": "41c0aaf2-df07-41e3-8c06-8f69171bd192",
+      "id": "002160f9-f923-484a-8b12-1e863dd61633",
       "name": "37studio",
       "url": "https://github.com/Shaitrish/37studio",
       "oneLiner": "An AI video studio and social media desk that runs on your own computer.",
-      "description": "An AI video studio and social media desk that runs on your own computer.\nVideos made, posted and answered, with your own keys and no monthly bill.\n▶ Watch the 2-minute intro (English · বাংলা) · Setup guide · Issues · Donate\n37Studio makes videos for a business and runs its social accounts, from one app on your own computer. Add a brand from its website and it builds a brand library and a knowledge",
+      "description": "An AI video studio and social media desk that runs on your own computer.\nVideos made, posted and answered, with your own keys and no monthly bill.\n▶ Watch the 2-minute intro (English · বাংলা) · Setup guide · Changelog · Issues · Donate\n37Studio makes videos for a business and runs its social accounts, from one app on your own computer. Add a brand from its website and it builds a brand library and",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -206,92 +189,7 @@
       ]
     },
     {
-      "id": "89bbec81-b83e-4f45-951c-c3f149c6a628",
-      "name": "eze",
-      "url": "https://github.com/ahyield/eze",
-      "oneLiner": "Drop in a folder of HTML and get back a private URL that only people in your organisation can open.",
-      "description": "Drop in a folder of HTML and get back a private URL that only people in your organisation can open. No frameworks, pipelines or config files. Need data? Every site gets a database, realtime updates, file uploads, multiplayer rooms, AI and the viewer's identity through a tiny browser SDK, with nothing to set up.\nAn open-source take on the idea behind Shopify's internal Quick platform.\neze login htt",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "security"
-      ]
-    },
-    {
-      "id": "3be6a1d1-3693-438c-8ce9-0a44065e5b2f",
-      "name": "Cognitive Mercantilism",
-      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-      "oneLiner": "I’ve been reading Joyce Appleby’s The Relentless Revolution: A History of Capitalism (2010), and it has me circling a rather delicious thought: AI panic is really a form of cogniti",
-      "description": "I’ve been reading Joyce Appleby’s The Relentless Revolution: A History of Capitalism (2010), and it has me circling a rather delicious thought: AI panic is really a form of cognitive mercantilism. If we regard the market capitalism as the first planetary intelligence, as many (including me) do, the parallels are closer than you might think.\nAppleby’s book is a sweeping history of capitalism, from ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "f4b44841-ee50-49ba-9e0b-813032c5aa0a",
-      "name": "AI Watermark Scrambler",
-      "url": "https://github.com/novatechflow/ai-watermark-scrambler",
-      "oneLiner": "An agent skill whose job is to scramble and blur statistical text watermarks: the token-sampling signal (green-list, SynthID-Text, Claude's embedded text watermark, and the same cl",
-      "description": "An agent skill whose job is to scramble and blur statistical text watermarks: the token-sampling signal (green-list, SynthID-Text, Claude's embedded text watermark, and the same class). The signal lives in word choice. A rewrite changes that choice. It does not certify that a detector with the vendor key will miss it.\nThe same tools also strip marks that ride along with the text:\n- Layer A: invisi",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "writing"
-      ]
-    },
-    {
-      "id": "acabfbc3-8c4e-4155-a5d3-4c9a123f09dc",
-      "name": "pw-repl",
-      "url": "https://github.com/arcanemachine/pw-repl",
-      "oneLiner": "A Playwright REPL for driving Chromium from the command line, made to be shared by you and your AI agents.",
-      "description": "A Playwright REPL for driving Chromium from the command line, made to be shared by you and your AI agents.\npw-repl connects to a Chromium over CDP (the Chrome DevTools Protocol), in the browser you already use or\nin one it starts itself. You type commands at a pw>\nprompt. Agents send the same commands from a shell\nwith pw-repl send\n. Every command shows in the REPL, whoever sent it, so you always ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "video"
-      ]
-    },
-    {
-      "id": "7a86bcc8-805e-4b7d-a8e9-441936e02e91",
-      "name": "Quill Desktop; Lightweight AI harness",
-      "url": "https://github.com/alshlabs/quill",
-      "oneLiner": "Download from Github releases and run.",
-      "description": "- Native Desktop UI APIs (No Electron)\n- Minimal resource footprint, under 70mb of ram\n- Extremely fast Rust core\n- Supports every LLM provider, no lock down\nDownload from Github releases and run. Uses portable executables so no install is required.\nTo uninstall delete the executable and the config under $HOME/.config/quill\n.\nNote: the MacOS build is unsigned because I am not spending US$99/year f",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "50cda57f-50e2-4378-a9b8-846d0c3f15ce",
+      "id": "c744ec34-6c66-4118-b727-439c503997e9",
       "name": "skills",
       "url": "https://github.com/larchanka/skills",
       "oneLiner": "This repository is a collection of independent skills and tools for software development and automation.",
@@ -303,12 +201,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "security",
-        "productivity"
+        "productivity",
+        "security"
       ]
     },
     {
-      "id": "d06669a0-2e1a-4841-836b-b6c2f9a0b1a9",
+      "id": "e0bd65cd-ff8b-4fc5-b5ce-3d77a5d1700a",
       "name": "AnythingLLM-Desktop",
       "url": "https://github.com/QuickButlerPace65/AnythingLLM-Desktop",
       "oneLiner": "The ultimate all-in-one AI workspace, supercharged and fully portable.",
@@ -325,22 +223,7 @@
       ]
     },
     {
-      "id": "216c31e1-4f98-4368-aa96-6c257a359bf5",
-      "name": "ai-native",
-      "url": "https://github.com/hollobit/ai-native",
-      "oneLiner": "You signed in with another tab or window.",
-      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\n이 책은 새 소식이 나오면 계속 고쳐 펴내는 살아 있는 문서(living document)입니다. 판마다 버전과 고친 날을 아래 판 이력과 책의 판권면에 적습니다.\n이 책은 CC BY-NC-ND 4.0(저작자표시-비영리-변경금지) 조건으로 공개합니다. 저자를 밝히고 비영리 목적으로만, 내용",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "other"
-      ]
-    },
-    {
-      "id": "b189bc37-ba37-46ae-bc1a-58f28498b47f",
+      "id": "8c8bb637-820c-4d8e-9b19-ec6a90f60228",
       "name": "ai-startup-skills",
       "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
       "oneLiner": "Seven agent skills for building an AI product as a one-person company, from idea validation to registration, in one install.",
@@ -352,12 +235,29 @@
       "githubUrl": "https://github.com/huaxialucaicaizi/ai-startup-skills.git",
       "categories": [
         "design",
-        "code",
-        "agents"
+        "agents",
+        "code"
       ]
     },
     {
-      "id": "c4e39b74-8b74-4a3f-9c8c-d0e3ad2de739",
+      "id": "e3bfde16-79e9-40ba-a7d0-f4dd2b011f11",
+      "name": "aseprite-mcp-live",
+      "url": "https://github.com/greenlogs/aseprite-mcp-live",
+      "oneLiner": "powershell -ExecutionPolicy ByPass -c \"irm https://astral.",
+      "description": "Aseprite MCP 将支持 MCP 的客户端如Codex\n，CluadeCode\n，DeepseekHarness\n等Agent与 Aseprite 连接起来，支持读取和编辑未保存画布、图片预览、撤销重做及可选基础动画，让你在同一文档中继续创作。同时保留 CLI 磁盘文件处理能力。\nPyPI 安装包 · Release 扩展下载 · 问题反馈\nWindows Aseprite 1.3+ 验证；Aseprite 需自行安装，不随项目分发。\n确保你已经安装了aseprite-扩展 然后可以使用你常用的ai agent工具输入以下内容：\n请帮我安装这个项目https://github.com/greenlogs/aseprite-mcp-live的Aseprite MCP扩展，我的Aseprite已经安装好在[输入你的aseprite.exe 安装路径]，且已经安装了扩展并启用。\n在 Po",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/greenlogs/aseprite-mcp-live的Aseprite",
+      "categories": [
+        "agents",
+        "code",
+        "video"
+      ]
+    },
+    {
+      "id": "c93341ba-e339-430e-85f0-e437b67d5ebe",
       "name": "ai-roadmap-2026",
       "url": "https://github.com/h9-tec/ai-roadmap-2026",
       "oneLiner": "Per the market analysis this roadmap is built on, AI engineering in 2026 shifted from \"train models\" to \"build reliable agentic systems\" on top of models that already exist.",
@@ -373,28 +273,11 @@
       ]
     },
     {
-      "id": "cf2a8a42-0f4c-4226-967b-c14196ae5d1c",
-      "name": "wuch-ai",
-      "url": "https://github.com/CCharlie-xiu/wuch-ai",
-      "oneLiner": "Say what you want — the UI grows on the canvas.",
-      "description": "English | 中文\nSay what you want — the UI grows on the canvas.\nNo drag-and-drop builder, no hand-written frontend. One message in the chat pane; the left canvas streams and renders as it goes. Sliders, checkboxes, and options update in place—no extra model round-trip. Sessions, memory, and knowledge stay on your side.\nTry it → https://wuch-ai.net · Demo replay (no model key required) · Intro\nLogin →",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/CCharlie-xiu/wuch-ai",
-      "categories": [
-        "design",
-        "code",
-        "security"
-      ]
-    },
-    {
-      "id": "63b211bf-ad7b-4a4d-9a8f-eda7b27b4553",
-      "name": "Render your Windows desktop GUI on the NPU",
-      "url": "https://github.com/labscommunity/npu-render",
-      "oneLiner": "Your Windows desktop, rendered by the NPU.",
-      "description": "Your Windows desktop, rendered by the NPU.\nnpu-render is a research display driver for Windows 11 that takes the draws the Desktop Window Manager sends to its graphics card and executes them on an Intel NPU instead. The compositor keeps speaking Direct3D. A user-mode driver records its draws into frame batches, a worker runs them in hand-written SHAVE kernels through OpenVINO, and an indirect disp",
+      "id": "34610595-8c2e-4c23-aefd-101741828130",
+      "name": "AI is ruining haunted houses",
+      "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
+      "oneLiner": "In 2005, I launched two major projects.",
+      "description": "AI is Ruining Haunted Attractions\nIn 2005, I launched two major projects. The first was Plagiarism Today, the site you’re reading this on right now. The second was Bernie Baxter’s Traveling Sideshow, a home haunted attraction I run with my partner, Crystal. Both projects are still going on to this day.\nIn many ways, the two projects are polar opposites to one another. Plagiarism Today is a digital",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -403,55 +286,55 @@
       "categories": [
         "design",
         "code",
-        "rag"
+        "writing"
       ]
     },
     {
-      "id": "d8e98d7d-a726-4de0-8de6-20c8fbfdf381",
-      "name": "Ankita v2.7.1",
-      "url": "https://github.com/akyourowngames/A.N.K.I.T.A/releases/tag/v2.7.1",
-      "oneLiner": "You signed in with another tab or window.",
-      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nDesktop 2.7.0 failed to start after updating. The packaged ASAR shipped\nthe ChatGPT bridge but excluded the companion runtime modules it imports, so\nthe main proc",
+      "id": "19026bb8-fd90-4830-9f5b-38447588491b",
+      "name": "“AI Skills” are worthless in 2026",
+      "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+      "oneLiner": ", which meant stashing a copy of that value before performing the increment.",
+      "description": "When I was first learning the C programming language, in my early 20s, it was common knowledge that of the two ways to increment a variable, i++\nwas slower than ++i\n. The post-increment function returned the original value of i\n, which meant stashing a copy of that value before performing the increment. Pre-increment avoided this wasteful operation.\nAnd by “common knowledge” I really mean folklore",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "e27cdfc2-f039-4ae8-b77b-e7f4d4e63902",
+      "name": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "oneLiner": "Last weekend I watched four people desperately trying to get a laptop to connect to a screen.",
+      "description": "The Mythical Man-Month in the age of AI\nLast weekend I watched four people desperately trying to get a laptop to connect to a screen. I was happily observing their efforts, with zero intent to join in.\nBut someone nudged me: can't you have a look at it?\nMy reply: \"Haha sorry no! My experience is that adding more people will not solve this problem any quicker\".\nI was of course -- indirectly -- refe",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "agents",
+        "code"
+      ]
+    },
+    {
+      "id": "04638564-f447-471c-82fd-43379912670d",
+      "name": "HypeSeoul",
+      "url": "https://hypeseoul.xyz/?s=hn",
+      "oneLiner": "An isometric, AI-painted living map of all of Seoul.",
+      "description": "HypeSeoul — Seoul, painted by AI\nAn isometric, AI-painted living map of all of Seoul. The city is built in 3D from OpenStreetMap, Overture Maps and the Korean building register, then repainted tile by tile by an image model fine-tuned on our painting style. On top, day and night follow Seoul time; cars, buses, boats and people move; subway trains on lines 1, 2, 3 and Gyeongui–Jungang follow Seoul'",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "marketing",
         "design"
-      ]
-    },
-    {
-      "id": "5f51ab34-0f84-4e8d-a39e-34e692ee31c4",
-      "name": "Load-lock",
-      "url": "https://github.com/aron98/load-lock",
-      "oneLiner": "A machine-wide heavy-work budget for parallel coding agents.",
-      "description": "A machine-wide heavy-work budget for parallel coding agents.\nWhen several agents work side by side on one machine — separate sessions, repos, git worktrees, or harnesses (OpenCode, Codex CLI, Claude Code, ...) — their builds and test suites stomp on each other, thrash the caches, and starve each other's cores. load-lock gives them one shared counting semaphore: acquire a permit before heavy work, ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "608e90fd-9958-4f83-b903-45811b1e0208",
-      "name": "Continue Your Google AI Mode Chats in Gemini/Claude",
-      "url": "https://chromewebstore.google.com/detail/relay-continue-google-sea/fjjfadgooapnegipjocinojjhaajghag",
-      "oneLiner": "Ever started a chat with Google Search's AI Mode and wanted to handoff to a different agent (either for a different model, or just keeping the chat for posterity)?",
-      "description": "Overview\nContinue a Google AI Mode chat in Gemini/Claude (ChatGPT support coming soon)\nEver started a chat with Google Search's AI Mode and wanted to handoff to a different agent (either for a different model, or just keeping the chat for posterity)? Relay helps with just that. Simply Google search like you would, click the AI Mode tab (to the left of the \"All\" tab), chat away without worrying abo",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "search"
       ]
     }
   ]
