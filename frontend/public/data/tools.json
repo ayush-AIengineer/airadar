@@ -1,9 +1,43 @@
 {
-  "generatedAt": "2026-10-28T12:15:04.348530+00:00",
-  "count": 22,
+  "generatedAt": "2026-10-29T12:25:10.491055+00:00",
+  "count": 17,
   "tools": [
     {
-      "id": "3c8870ef-72cd-473e-ae55-4e49c298a75f",
+      "id": "9ebed458-36ca-451b-a99c-fd8ef285a986",
+      "name": "shipwords",
+      "url": "https://github.com/shipwords-dev/shipwords",
+      "oneLiner": "An open-source framework for new-keyword site fleets: a new site in an afternoon, taking payments the day it launches.",
+      "description": "An open-source framework for new-keyword site fleets: a new site in an afternoon, taking payments the day it launches.\nEnglish · 中文\nshipwords is a free, MIT-licensed framework for running a fleet of new-keyword AI image and video sites on Cloudflare, one site per keyword. What stays the same is shared: accounts, payments, credits and AI generation are written once. What changes is each site's own:",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "image"
+      ]
+    },
+    {
+      "id": "5081030f-4795-4838-a1aa-231935677cc5",
+      "name": "AI-PhD.SKILL",
+      "url": "https://github.com/AlbertTan404/AI-PhD.SKILL",
+      "oneLiner": "My name is Albert Wenhui Tan.",
+      "description": "我叫 Albert Wenhui Tan，是人大高瓴人工智能学院的博士生，主要研究 LLMs、Embodied AI。\n我相信开源是该领域（甚至是人类社会）发展的重要动力。因此，我想把我在读博/科研期间的经验，和一些个人看法开源，所以有了这个 repo：AI-PhD.SKILL\nAI-PhD.SKILL 是一份面向 AI 博士生和研究者的开放笔记：从选题、读论文、做实验，到写作、交流、研究判断，以及 RL 和软件工程。既有个人经历与观察，也有可以跟着推导的技术内容。希望它能帮助你进入一个领域，把问题想清楚，把研究做扎实，也让别人更容易理解你的工作。\n这里的 SKILL 指研究者可以学习和练习的能力。每篇文章都可以独立阅读，也可以沿着目录串起来读。\n文中包含大量主观观点。\nMy name is Albert Wenhui Tan. I'm a PhD candidate at RUC-GSA",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "research",
+        "writing"
+      ]
+    },
+    {
+      "id": "b88ee426-e3ca-4f55-8daf-97e5747cc273",
       "name": "CVEngine",
       "url": "https://github.com/hevnsnt/CVEngine",
       "oneLiner": "cvENGINE finds everything you expose, then tells you which of today's exploited CVEs can actually hit you, with proof.",
@@ -14,13 +48,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/hevnsnt/CVEngine.git",
       "categories": [
-        "data",
         "code",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "b37de0e1-7dea-4862-9d23-2c5d9cdb1971",
+      "id": "7183c2d8-6c0e-4924-8772-ed12fa2e4b27",
       "name": "ludra",
       "url": "https://github.com/ersingvn/ludra",
       "oneLiner": "The game engine built for AI agents.",
@@ -37,7 +71,7 @@
       ]
     },
     {
-      "id": "d9bc24a1-5773-46e8-bb2e-b374958cb9b7",
+      "id": "e15c83cb-fdaa-4788-a1a0-71da41088ffc",
       "name": "verity-enhanced",
       "url": "https://github.com/verity-mods/verity-enhanced",
       "oneLiner": "The ultimate Verity experience, rebuilt for modern Minecraft.",
@@ -53,41 +87,7 @@
       ]
     },
     {
-      "id": "f833c22c-783c-47dd-a425-b88228fc8710",
-      "name": "kubic",
-      "url": "https://github.com/konic-labs/kubic",
-      "oneLiner": "Kubic is Konic's open-source coding agent.",
-      "description": "Kubic is Konic's open-source coding agent. It runs in your terminal with the model you choose, records every file change in a journal you can review and undo, and asks before anything risky runs. Teams get managed policy, an audit ledger and spend caps on top.\nKubic needs Node 22.19 or later:\nnpm install -g kubic\nexport ANTHROPIC_API_KEY=... # or OPENAI_API_KEY, GEMINI_API_KEY, ...\nkubic # the fir",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "e7898402-ee03-4049-b42e-cf1679a25ee9",
-      "name": "cutvii",
-      "url": "https://github.com/zidniryi/cutvii",
-      "oneLiner": "An open-source, cross-platform desktop video editor: import → edit on a multi-track timeline → preview → export MP4.",
-      "description": "Creative editing. Flexible workflow. On-device AI.\nAn open-source, cross-platform desktop video editor: import → edit on a multi-track timeline → preview → export MP4. Local-first and offline: no account, no analytics, your media is never modified or uploaded. The one thing CutVii can download, and only when you ask and confirm, is a speech model for auto subtitles.\nText is drawn with 38 bundled f",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "voice"
-      ]
-    },
-    {
-      "id": "964fa663-4a1a-4a93-92a7-42d301b33be0",
+      "id": "13a23d4e-bcd3-4d11-a248-7f762f8a79b7",
       "name": "TokenBar",
       "url": "https://github.com/lwh0630/TokenBar",
       "oneLiner": "Every AI quota, one glance away.",
@@ -98,13 +98,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/lwh0630/TokenBar.git",
       "categories": [
-        "data",
         "code",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "c3e916c1-f4fa-4945-803a-28e21de16f39",
+      "id": "7f5d9d9f-690b-46ba-bd99-4fea0be73d1e",
       "name": "arkdraw",
       "url": "https://github.com/gabe-santana/arkdraw",
       "oneLiner": "using your own model and keeping your files on your disk.",
@@ -115,13 +115,13 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/gabe-santana/arkdraw.git",
       "categories": [
-        "data",
         "code",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "d7fb2ea1-f833-40fd-9c3f-d88aa18e5cfe",
+      "id": "370d6a7e-734c-454a-88d3-9b6c63d7059b",
       "name": "litpage",
       "url": "https://github.com/litmers-dev/litpage",
       "oneLiner": "Litpage is an open-source workspace you run yourself.",
@@ -132,13 +132,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "data",
         "code",
-        "agents"
+        "agents",
+        "data"
       ]
     },
     {
-      "id": "7283cedc-e120-420c-b506-57c725670704",
+      "id": "29505b50-e3c1-4e0c-8aae-4f20957cc050",
       "name": "37studio",
       "url": "https://github.com/Shaitrish/37studio",
       "oneLiner": "An AI video studio and social media desk that runs on your own computer.",
@@ -149,81 +149,79 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/Shaitrish/37studio.git",
       "categories": [
-        "data",
         "code",
-        "design"
+        "design",
+        "data"
       ]
     },
     {
-      "id": "8c290f5e-a867-4789-979a-e8a44e79da4a",
-      "name": "Nuvrail",
-      "url": "https://github.com/agens-field/nuvrail",
-      "oneLiner": "The approval layer between AI agents and your inbox.",
-      "description": "The approval layer between AI agents and your inbox.\nAn agent tries to delete 38 emails at 3am. Nothing happens until a human says yes.\nThe agent's EXPUNGE\ngets OK Noted\nand is never forwarded; the staged delete is rejected with one tap.\nRecorded in CI against a local test mail server; the \"agent\" is a short script, and any IMAP client behaves the same through the proxy.\nReproduce it yourself · MP",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/agens-field/nuvrail.git",
-      "categories": [
-        "data",
-        "agents",
-        "security"
-      ]
-    },
-    {
-      "id": "1b217eb8-94ef-4eef-858c-6892d2365e5b",
-      "name": "Ballast",
-      "url": "https://github.com/linearza/ballast",
-      "oneLiner": "A menu bar app for macOS that finds the disk space developer tools leave behind, and gives it back safely.",
-      "description": "A menu bar app for macOS that finds the disk space developer tools leave behind, and gives it back safely.\nOld Ruby and Node versions, node_modules\nin projects you forgot about, simulator runtimes, Docker images, package caches, AI models you tried once. Developer tools leave tens of gigabytes behind, and most clean-up apps either can't see them or can't tell what's still in use. Ballast knows whi",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/linearza/ballast.git",
-      "categories": [
-        "data",
-        "code",
-        "security"
-      ]
-    },
-    {
-      "id": "19944d09-c383-46e4-84aa-0e4dfcd7dfd4",
-      "name": "Curate. free",
-      "url": "https://apps.apple.com/us/app/curate-photo/id6825514911",
-      "oneLiner": "Free · Designed for iPad.",
-      "description": "Curate Photo\nSwipe to keep or delete\nFree · Designed for iPad. Not verified for macOS.\nCurate makes cleaning up your photo library fast and a little bit fun. Photos appear one at a time: swipe right to keep, swipe left to put it in your delete pile. Nothing is deleted until you review the pile and confirm.\nSWIPE THROUGH YOUR LIBRARY\n• Keep or delete with a swipe, or with the buttons and keyboard s",
+      "id": "5a1194e9-c1c0-4311-80b9-65d6076a3d8f",
+      "name": "Google translate replacement for language learners",
+      "url": "https://manalect.com/",
+      "oneLiner": "Practise words and grammar right before you forget.",
+      "description": "Stop forgetting\nthe foreign words\nyou translate.\nPractise words and grammar right before you forget.\nGet Manalect on Android\nManalect is in a closed test on Google Play for now. Getting in takes three taps and about a minute.\n-\nThe group isn't open yet. Check back soon.\n- Become a tester\nOpens Google Play. Tap Become a tester.\n- Install\nOpens Google Play. Tap Install. On a computer, Play installs ",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "other"
+      ]
+    },
+    {
+      "id": "f973f5bf-af4a-411e-a4d5-4ebd6059c442",
+      "name": "Open Source or Custom in Enterprise AI Systems?",
+      "url": "https://deepsense.ai/blog/when-code-gets-cheaper-judgment-gets-more-precious-quality-bottlenecks-in-enterprise-ai-systems/",
+      "oneLiner": "In applied AI delivery, teams are now producing more code than they can meaningfully evaluate.",
+      "description": "Table of contents\nIn applied AI delivery, teams are now producing more code than they can meaningfully evaluate. Code assistants are excellent at scaffolding, refactoring, test generation, boilerplate removal, and filling in the mechanical parts. That is real leverage.\nAt the same time, the ecosystem is already showing where this leads.\nTake this case as an example: tools like OpenClaw are evolvin",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
         "code",
-        "design",
+        "agents",
+        "security"
+      ]
+    },
+    {
+      "id": "de29785e-7f7b-4ae6-81b4-c83d46aa40d5",
+      "name": "Endlesstokens",
+      "url": "https://endlesstokens.ai/",
+      "oneLiner": "Unlimited AI tokens Pay for time, not tokens!",
+      "description": "Unlimited AI tokens Pay for time, not tokens!\nUnlimited tokens for the length of your pass: no token cap, no request cap. Open the tap for a day or three and let your agents think as long as they need to.\nIllustration, not a quote.\nOPENAI_BASE_URL=https://api.endlesstokens.ai/v1 OPENAI_API_KEY=<your-key>\nANTHROPIC_BASE_URL=https://api.endlesstokens.ai ANTHROPIC_AUTH_TOKEN=<your-key>\ncurl https://a",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
         "image"
       ]
     },
     {
-      "id": "111beb65-65c0-40ce-99f0-913de9db88e5",
-      "name": "AetherGrid",
-      "url": "https://github.com/wycliffRotich-dev/aethergrid",
-      "oneLiner": "A distributed AI workload orchestrator built around the problems that make scheduling hard at scale: exclusive execution ownership under failure, reconciliation after partial failu",
-      "description": "A distributed AI workload orchestrator built around the problems that make scheduling hard at scale: exclusive execution ownership under failure, reconciliation after partial failures, and enforced resource limits. Not a CRUD tutorial with a scheduler theme.\nAetherGrid takes workloads, matches them against available compute nodes based on resource requirements and constraints, and manages the full",
-      "pricing": "free",
+      "id": "55fe4885-8bc3-417c-ad90-6937881349dd",
+      "name": "topopt",
+      "url": "https://github.com/chartergroup/topopt",
+      "oneLiner": "topopt is an MCP server for topology optimization that works with Claude, Codex, Cursor and other AI agents.",
+      "description": "Install | Use | Examples | Documentation | License\ntopopt is an MCP server for topology optimization that works with Claude, Codex, Cursor and other AI agents.\nIt gives your AI agent a topology optimizer that sets itself up and runs on your own computer. The start part can be an STL file you already have, a sketch, a description in words, or a shape you work out with the agent in the chat: the rou",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
+      "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/wycliffRotich-dev/aethergrid.git",
+      "githubUrl": "https://github.com/chartergroup/topopt",
       "categories": [
-        "data",
         "code",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "b9249f59-8806-4625-b443-383a2994199c",
+      "id": "5ff2d5fa-74eb-4a8a-8679-e3d74881ff03",
       "name": "skills",
       "url": "https://github.com/larchanka/skills",
       "oneLiner": "This repository is a collection of independent skills and tools for software development and automation.",
@@ -240,7 +238,7 @@
       ]
     },
     {
-      "id": "057406d3-e49c-4957-b198-82eec790f3c1",
+      "id": "dfa94500-1051-4504-8bb7-81637234afeb",
       "name": "AnythingLLM-Desktop",
       "url": "https://github.com/QuickButlerPace65/AnythingLLM-Desktop",
       "oneLiner": "The ultimate all-in-one AI workspace, supercharged and fully portable.",
@@ -251,68 +249,33 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "0dbbd10a-674a-4a1b-a329-50e1e6c4b893",
+      "name": "AI social media interview platform",
+      "url": "https://www.spotlytt.com/",
+      "oneLiner": "Backend developer focused on reliable APIs.",
+      "description": "Backend developer focused on reliable APIs.\nGet discovered for\nwhat you can actually do.\nTake one role-specific AI interview. Spotlytt turns your strongest answers into verified skill evidence recruiters can trust.\nBuild your verified profileThe hiring process is broken\nResumes don’t show real skills\nA piece of paper can't capture your creativity, communication, or problem-solving abilities.\nCandi",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
         "code",
         "design"
       ]
     },
     {
-      "id": "a8db4b37-eea1-4ada-b4ec-c15bda3504f9",
-      "name": "aidget",
-      "url": "https://github.com/aidget-ai/aidget",
-      "oneLiner": "If your desktop feels lifeless and you already use a desktop agent such as ChatGPT, Claude, or Grok Bot, aidget can help your agent bring it to life.",
-      "description": "Hand desktop creativity over to your AI agent\nQuick start | Cross-platform support | Development | Data directory | Permission controls\nEnglish | 简体中文\nIf your desktop feels lifeless and you already use a desktop agent such as ChatGPT, Claude, or Grok Bot, aidget can help your agent bring it to life.\nConnect aidget to your agent, describe your ideas in natural language, and give your desktop a fres",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/aidget-ai/aidget.git",
-      "categories": [
-        "code",
-        "agents",
-        "security"
-      ]
-    },
-    {
-      "id": "8e45d735-f847-4a97-aee1-2373f93bc567",
-      "name": "ai-startup-skills",
-      "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
-      "oneLiner": "Seven agent skills for building an AI product as a one-person company, from idea validation to registration, in one install.",
-      "description": "从验证想法到注册公司，一人公司做 AI 产品的 7 步 Agent Skill，一次装全套。\nSeven agent skills for building an AI product as a one-person company, from idea validation to registration, in one install.\n「一人公司工具包」的合集仓库：把 7 个独立的 Agent Skill 打包在一起，再加一个总入口 skill。你只要说清楚在做什么、做到哪一步，它会判断你处在创业的哪个阶段，然后调用对应的子 skill。\n痛点\n- 一个人做 AI 产品，验证、写 BP、申请政策、路演、获客、定价、注册，每件事都得自己摸索\n- 7 个 skill 分开装太麻烦，也不知道先用哪个\n- 每一步的产出（验证证据、BP、定价）需要串起来用，而不是各写各的\n每一步也是一个可以单",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/huaxialucaicaizi/ai-startup-skills.git",
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "3441f2f5-6829-484a-80b9-77a231190bec",
-      "name": "aseprite-mcp-live",
-      "url": "https://github.com/greenlogs/aseprite-mcp-live",
-      "oneLiner": "powershell -ExecutionPolicy ByPass -c \"irm https://astral.",
-      "description": "Aseprite MCP 将支持 MCP 的客户端如Codex\n，CluadeCode\n，DeepseekHarness\n等Agent与 Aseprite 连接起来，支持读取和编辑未保存画布、图片预览、撤销重做及可选基础动画，让你在同一文档中继续创作。同时保留 CLI 磁盘文件处理能力。\nPyPI 安装包 · Release 扩展下载 · 问题反馈\nWindows Aseprite 1.3+ 验证；Aseprite 需自行安装，不随项目分发。\n确保你已经安装了aseprite-扩展 然后可以使用你常用的ai agent工具输入以下内容：\n请帮我安装这个项目https://github.com/greenlogs/aseprite-mcp-live的Aseprite MCP扩展，我的Aseprite已经安装好在[输入你的aseprite.exe 安装路径]，且已经安装了扩展并启用。\n在 Po",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/greenlogs/aseprite-mcp-live的Aseprite",
-      "categories": [
-        "code",
-        "agents",
-        "video"
-      ]
-    },
-    {
-      "id": "f22ac716-e6a5-4301-b3d0-90f9b970b666",
-      "name": "AI Workflows",
-      "url": "https://aiworkflows.tools/workflows",
-      "oneLiner": "Curated AI workflows for video production, brand design, content creation, coding, and more.",
-      "description": "AI Workflows — Step-by-Step Guides for Every Creative Goal\nCurated AI workflows for video production, brand design, content creation, coding, and more.\n- AI Podcast Production — Produce professional podcasts from topic research to audio publishing using AI for scripting, voi...\n- Academic Thesis Assistant — Streamline your research and writing process.\n- AI 3D Asset Creation — Generate production-",
+      "id": "a4ccd358-1266-43ef-b73f-67d61e213e4b",
+      "name": "Wishcode",
+      "url": "https://wishcode-ai.vercel.app",
+      "oneLiner": "You do not need an account.",
+      "description": "I wish there was an app that\nFinish the sentence. You do not need an account. Developers see how many people want each wish, and build the ones they like.\n3 wishes so far.\n1 came true.\nHow a wish comes true\n- 1\nWrite one sentence.\nSay what the app should do. No account, no form. Leave an email if you want to hear when it is built.\n- 2\nOthers tap Me too.\nEvery me-too tells developers how many peopl",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -320,57 +283,7 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "productivity"
-      ]
-    },
-    {
-      "id": "d2ceba3d-ad08-4b27-b4d0-0da91e147b3d",
-      "name": "New prize launches for books co-written with AI",
-      "url": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
-      "oneLiner": "A prize for AI-written books has launched this week.",
-      "description": "A prize for AI-written books has launched this week.\nThe Prix Pascal de Littérature IA invites submissions of manuscripts co-written with AI tools, with the winner promised publication.\nEntrants are asked to submit an unpublished manuscript of between 10,000 and 50,000 words, along with information about which AI model and prompt were used to generate the text. All major language models are allowe",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
         "design"
-      ]
-    },
-    {
-      "id": "f08dd62c-ee6c-4822-9e9f-873a57805dd6",
-      "name": "KI Song erstellen",
-      "url": "https://kisongerstellen.com",
-      "oneLiner": "Baue deinen Stil aus fünf Bausteinen: Genre, Stimmung, Tempo, Instrumente und Art des Gesangs.",
-      "description": "Baue deinen Stil aus fünf Bausteinen: Genre, Stimmung, Tempo, Instrumente und Art des Gesangs. Beispiel: „Indie-Pop, nostalgisch, mittleres Tempo, warme Gitarren, sanfte Frauenstimme“.\nKI Song & Musik kostenlos auf Deutsch erstellen\nErstelle kostenlos einen vollständigen Song auf Deutsch, auch ohne eigenen Songtext. Beschreibe deine Idee und KlangKI erstellt dazu den Text und die Musik mit Gesang ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "writing",
-        "audio",
-        "video"
-      ]
-    },
-    {
-      "id": "3371989f-a4bf-4194-8418-db70c7eeff4c",
-      "name": "Hackerscad",
-      "url": "https://hackerscad.com/",
-      "oneLiner": "hackerscad is a parametric CAD where the model is code.",
-      "description": "hackerscad is a parametric CAD where the model is code. Type and the 3D view follows; round an edge with the mouse and the code is written for you. Exact solids, real threads, files for every printer.\nDownloadall systemsMake your first partPaste this to it: it installs hackerscad's skill, then hackerscad itself if it's missing (asking you first) and the MCP server. Then it reads the language from ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "marketing"
       ]
     }
   ]
