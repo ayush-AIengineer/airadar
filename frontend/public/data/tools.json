@@ -1,26 +1,77 @@
 {
-  "generatedAt": "2026-10-30T12:16:47.638367+00:00",
-  "count": 16,
+  "generatedAt": "2026-10-31T11:47:54.141748+00:00",
+  "count": 15,
   "tools": [
     {
-      "id": "b3e612ce-815a-4c0c-9a55-e0a95ce7d793",
-      "name": "protoflow",
-      "url": "https://github.com/rishik4/protoflow",
-      "oneLiner": "AI PCB design on your desktop.",
-      "description": "AI PCB design on your desktop.\nDescribe a circuit in plain English. ProtoFlow drafts the schematic with real parts, lays out and routes the board, checks it, and exports native KiCad files and Gerbers.\nDownload · Docs · Agent quick start · Website · Get help\nProtoFlow is a free desktop app for designing circuit boards, with AI built in. Learn more at protoflow.ai.\nProtoFlow is free to download. Yo",
+      "id": "c6ce2661-f6dc-4384-853f-d4104db3f0c6",
+      "name": "Capri-AI",
+      "url": "https://github.com/boardshogunfluctuate/Capri-AI",
+      "oneLiner": "⚡ Tell your PC what to do.",
+      "description": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.\nWindows installer (.exe) · Windows 10 or newer\nFeatures · Quick start · What you can ask · How it works · Safety · Roadmap · FAQ\nUnofficial fan project inspired by the Cyberpun",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/rishik4/protoflow",
+      "githubUrl": null,
       "categories": [
-        "design",
         "agents",
-        "code"
+        "code",
+        "design"
       ]
     },
     {
-      "id": "c15e04be-0dd5-43d1-add5-cd09163ec168",
+      "id": "164de0fd-cdad-42c6-8524-e9670acc1936",
+      "name": "VoiceStudioV2",
+      "url": "https://github.com/EntranceStarfish/VoiceStudioV2",
+      "oneLiner": "Local AI voice studio — real-time voice changer, text-to-speech, voice cloning and dubbing, with a drop-in OpenAI-compatible API.",
+      "description": "Local AI voice studio — real-time voice changer, text-to-speech, voice cloning and dubbing, with a drop-in OpenAI-compatible API.\n100% local. No cloud. No API keys. Your voice never leaves your machine.\nUnofficial fork. VoiceStudioV2 is a community fork of debpalash/VoiceStudio. It is not affiliated with or endorsed by the upstream authors.\nVoiceStudioV2 is a desktop app that puts a full voice too",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "voice"
+      ]
+    },
+    {
+      "id": "ceb8478a-ad96-4ea1-8112-0c29ff3b5915",
+      "name": "humanizer-lint",
+      "url": "https://github.com/yanstd888/humanizer-lint",
+      "oneLiner": "Detect repetitive LLM phrasing, uniform sentence rhythm, structural clichés, and voice-profile drift across 8 built-in language packs plus 100+ Universal Stylometry languages witho",
+      "description": "Detect repetitive LLM phrasing, uniform sentence rhythm, structural clichés, and voice-profile drift across 8 built-in language packs plus 100+ Universal Stylometry languages without sending text to an external service.\nWhat it does | Try in your browser | Install | Quick start | CLI reference | Detectors | Agent skill | FAQ\nSummary\n- Eliminates robotic LLM writing patterns when users ask to \"huma",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/yanstd888/humanizer-lint.git",
+      "categories": [
+        "code",
+        "writing",
+        "productivity"
+      ]
+    },
+    {
+      "id": "c443069e-98e3-4811-a0e0-deafe453e83c",
+      "name": "forward-deployed-engineer-roadmap",
+      "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
+      "oneLiner": "- Who is a Forward Deployed Engineer?",
+      "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic\n- Who is a Forward Deployed Engineer?\n- The FDE Engagement Lifecycle\n- How to Use This Roadmap\n- Step 0: Must Know\n- Step 1: AI and Machine Learning Essentials\n- Step 2: How LLMs Work\n- Step 3: Choosing the Right Model for the Customer\n- Step 4: Prompt Engineeri",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "voice",
+        "rag"
+      ]
+    },
+    {
+      "id": "169af9dd-248b-47cf-831d-2c0f79d850cf",
       "name": "rpocket-AI-Coding-Agent-Toolkit",
       "url": "https://github.com/Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
       "oneLiner": "⚡ All-in-one loader: The entire script is compiled into a single loader for your convenience — just download, extract, and run.",
@@ -32,12 +83,12 @@
       "githubUrl": null,
       "categories": [
         "agents",
-        "productivity",
-        "code"
+        "code",
+        "productivity"
       ]
     },
     {
-      "id": "109c59a4-5ed3-451a-9fea-46ec04ef9691",
+      "id": "da5b2ab2-0de0-4fd2-b8b5-2dafaa6a2958",
       "name": "shipwords",
       "url": "https://github.com/shipwords-dev/shipwords",
       "oneLiner": "An open-source framework for new-keyword site fleets: a new site in an afternoon, taking payments the day it launches.",
@@ -48,13 +99,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "image"
       ]
     },
     {
-      "id": "1a1684d3-7459-47f9-92a0-78bf977ee2c6",
+      "id": "06bbbc1e-dc57-4f2c-91ee-527427635e9e",
       "name": "AI-PhD.SKILL",
       "url": "https://github.com/AlbertTan404/AI-PhD.SKILL",
       "oneLiner": "My name is Albert Wenhui Tan.",
@@ -65,163 +116,64 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "writing",
         "design",
+        "writing",
         "research"
       ]
     },
     {
-      "id": "f908cdf9-c575-4636-8072-553ef217ca4c",
-      "name": "CVEngine",
-      "url": "https://github.com/hevnsnt/CVEngine",
-      "oneLiner": "cvENGINE finds everything you expose, then tells you which of today's exploited CVEs can actually hit you, with proof.",
-      "description": "Type in your domain. cvENGINE finds everything you expose, then tells you which of today's exploited CVEs can actually hit you, with proof.\nNo license fee. No per-asset pricing. No black box. 100% open source and self-hosted.\nAttack surface tools find assets. Vulnerability scanners find flaws. Threat feeds find CVEs. cvENGINE runs all three as one continuous loop and hands you a verdict instead of",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/hevnsnt/CVEngine.git",
-      "categories": [
-        "code",
-        "data",
-        "search"
-      ]
-    },
-    {
-      "id": "b0ad8bbb-e5dc-48a8-921b-fe09df7bfafa",
-      "name": "ludra",
-      "url": "https://github.com/ersingvn/ludra",
-      "oneLiner": "The game engine built for AI agents.",
-      "description": "The game engine built for AI agents.\nThe platformer\ntemplate, replayed from its own test script: won == true\n, deaths == 0\n.\nUnity, Unreal and Godot are designed for humans clicking around an editor. Ludra is designed for an agent like Claude: games are plain JSON, every problem comes with a machine-readable fix, and the agent can play its own game headlessly to prove it works before a human ever ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ersingvn/ludra.git",
-      "categories": [
-        "audio",
-        "design",
-        "code"
-      ]
-    },
-    {
-      "id": "6a365200-9a2c-411a-b23b-e86306f9a3c1",
-      "name": "TokenBar",
-      "url": "https://github.com/lwh0630/TokenBar",
-      "oneLiner": "Every AI quota, one glance away.",
-      "description": "Every AI quota, one glance away. An open-source, cross-platform monitor for AI usage limits, balances and reset times. Runs on Windows, macOS, Linux, Android and iOS.\nEnglish | 简体中文\nInspired by CodexBar for macOS. TokenBar brings the same idea to Windows, Android, Linux and iOS (and ships a macOS build too), and covers 50 services.\n- See everything in one place. Codex, Claude, Cursor, OpenRouter, ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/lwh0630/TokenBar.git",
-      "categories": [
-        "design",
-        "code",
-        "data"
-      ]
-    },
-    {
-      "id": "b3108bb6-afd4-4215-ae54-96fb65e06b59",
-      "name": "Molfar",
-      "url": "https://play.google.com/store/apps/details?id=com.nova_hata.molfar&hl=en_US",
-      "oneLiner": "Molfar is a free AI app: a chat assistant, experts with ready-made roles, and meetings where several AI models discuss your question at the same time.",
-      "description": "Molfar is a free AI app: a chat assistant, experts with ready-made roles, and meetings where several AI models discuss your question at the same time. No subscriptions, no ads — connect your own API keys, and all chats, documents and files stay on your phone only.\nSUPPORTED AI PROVIDERS • Google Gemini, OpenAI, Anthropic Claude, OpenRouter, NVIDIA NIM. • Any OpenAI-compatible service — just add it",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "image",
-        "data"
-      ]
-    },
-    {
-      "id": "382bb651-974b-4654-b6e1-f433a263f85f",
-      "name": "Send21",
-      "url": "https://send21.io/demo",
-      "oneLiner": "See the whole flow in a few minutes, with no account and no email.",
-      "description": "Try send21 with a real test payment\nSee the whole flow in a few minutes, with no account and no email. send21 creates a payment draft, you pay it from your own wallet, and the page shows the confirmation from a public test network.\nHow it works\n- send21 creates a payment draft, with the same draft-only access an AI agent gets. Nothing here can spend.\n- You check and sign in your own wallet. send21",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "security"
-      ]
-    },
-    {
-      "id": "d4c596ba-5ba8-493f-9263-59764cf75dc2",
-      "name": "AI agents trade privately on BitcoinZ",
-      "url": "https://github.com/ZKStamp/AgentWallet",
-      "oneLiner": "Shielded BitcoinZ wallets for AI agents, via MCP.",
-      "description": "Shielded BitcoinZ wallets for AI agents, via MCP. Agents pay. Agents talk. Privately.\n🎬 Watch the demo (55 s): two AI agents exchange private messages and pay the fee, by themselves\nAn AI agent creates its own wallet, receives BTCZ, pays, sends signed private messages to other agents, and trades with them through Deals (small paid steps, every delivery fingerprinted and checked), by itself, inside",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "c98a3e98-1cca-4d1c-ad8d-4f5a785a365b",
-      "name": "Breatic",
-      "url": "https://github.com/orime-org/breatic",
-      "oneLiner": "The real-time collaborative AI workspace for creative teams.",
-      "description": "English | 简体中文\nThe real-time collaborative AI workspace for creative teams.\nBring your brief, scenes and media into one project. Write in Document Spaces, generate and refine assets in Canvas Spaces, and work with an AI agent and collaborators in the context of your production.\nAvailable online · Source-available · Desktop browser\nTry Breatic · Watch the 45-second demo · User guide · Self-host · R",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "productivity",
-        "code"
-      ]
-    },
-    {
-      "id": "c619238c-264d-4016-a40d-5342a1a3497f",
-      "name": "HiPath AI",
-      "url": "https://www.hipathai.me",
-      "oneLiner": "Everything you need to know about starting your path.",
-      "description": "ClarificationsQuestions, answered\nEverything you need to know about starting your path.\nIs it really free?\nYes. HiPath AI is free in V1 and does not require a credit card.\nWhat can I learn?\nExplore computer science and technology topics like Python, web development, AI agents, and data structures.\nHow does unlocking work?\nScore 60% or more on a lesson quiz to unlock the next lesson. You can retry ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design"
-      ]
-    },
-    {
-      "id": "ce32c259-78f0-4616-b766-d9f654b041af",
-      "name": "NovelHiveAI",
-      "url": "https://novelhive.ai/",
-      "oneLiner": "Word, EPUB, PDF, or TXT, up to 25 MB.",
-      "description": "AI Audiobooks in 38 Languages\nor turn one story idea into a complete audio novel\nWord, EPUB, PDF, or TXT, up to 25 MB. Free to upload, then generate audio from your novel's page.\nThe Memory Fungus of Little Creek\nPress play. Four voices, one scene, all generated.\nUpload\nVoices intelligently cast\nPress play\nThat's the whole casting pool for books in English. Every voice on this page plays right her",
+      "id": "b272ee08-1eab-46e9-bbeb-70c60ff417a5",
+      "name": "JJ Suna AI",
+      "url": "https://suna.jjcoders.com/",
+      "oneLiner": "Where human artistry meets acoustic intelligence.",
+      "description": "Where human artistry meets acoustic intelligence. Suna AI v1.0 delivers 48 kHz True Stereo Broadcast Audio synthesized through our 5-Billion Parameter Diffusion Pipeline with native Sing-to-Masterpiece Engine.\nOPEN FOUNDATION ARCHITECTURE & COMMUNITY BENCHMARKS\nExperience real songs synthesized end-to-end on Suna AI's 5-Billion Parameter Diffusion Pipeline. Click any track to stream instantly in l",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "voice",
-        "audio",
+        "code",
+        "design",
+        "audio"
+      ]
+    },
+    {
+      "id": "2a1dffe3-9c08-4aaf-ac5d-6da74ed7a13f",
+      "name": "Hi3D Launches AI 3D Model with 2048³ Voxel Resolution",
+      "url": "https://3dprintingindustry.com/news/hi3d-launches-ai-3d-model-with-2048%C2%B3-voxel-resolution-254150/",
+      "oneLiner": "Hi3D, the browser-based AI model generation platform built on its proprietary Sparc3D engine, has launched Hi3D V3.",
+      "description": "Hi3D, the browser-based AI model generation platform built on its proprietary Sparc3D engine, has launched Hi3D V3.0, an AI 3D generation model the company describes as the first commercially available version to reach 2048³ voxel resolution.\nThe update centers on three areas: geometric detail, structural accuracy, and texture output.\nFiner Detail and Structural Accuracy\nAt 2048³ voxel resolution,",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "image"
+      ]
+    },
+    {
+      "id": "9ee819ec-9cae-462d-87a5-a033d8dc1e7a",
+      "name": "graphmemory",
+      "url": "https://github.com/gh9ko8y/graphmemory",
+      "oneLiner": "A bitemporal memory service for AI agents: facts with two time axes, a six-variable importance/decay model, time-graded recall, TTL-based expiry, deduplication, and a competitive r",
+      "description": "双时态 AI 记忆系统 — 给 AI 代理一个会积累、会遗忘、会随时间变化的长期记忆库。\nA bitemporal memory service for AI agents: facts with two time axes, a six-variable importance/decay model, time-graded recall, TTL-based expiry, deduplication, and a competitive retrieval layer on top of Graphiti (temporal knowledge graph) + PostgreSQL/pgvector + Redis.\n设计思路与完整开发记录见 docs/DESIGN_ZH.md。\n67 秒 · 小鱼配音 · 中文字幕 · 直接下载\n┌────────────────────────",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "design",
         "writing"
       ]
     },
     {
-      "id": "5c98b5cb-7631-4ee9-9cd4-9d837db79f28",
+      "id": "b3a3937f-2bfd-49a2-a973-69d08cc6022a",
       "name": "topopt",
       "url": "https://github.com/chartergroup/topopt",
       "oneLiner": "topopt is an MCP server for topology optimization that works with Claude, Codex, Cursor and other AI agents.",
@@ -232,29 +184,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/chartergroup/topopt",
       "categories": [
-        "design",
         "agents",
-        "code"
+        "code",
+        "design"
       ]
     },
     {
-      "id": "c9aaf8bc-9a06-4ce2-b7a3-35f30c9b72b0",
+      "id": "806738dc-7c0d-4d20-8942-385389bcc75d",
       "name": "price-comparison",
       "url": "https://github.com/hhtower/price-comparison",
       "oneLiner": "PowerShell 使用 Copy-Item .",
-      "description": "简体中文 · English\n一个自部署的 AI 商品比价站，支持商铺采集、报价比较、标准商品归类、价格历史和管理后台。使用 React、NestJS / Fastify、PostgreSQL 和 Redis；AI 自动化流程将采集后的商品依次进行身份识别、独立复核与标准化归类，并提取和复核购买属性标签，汇总到统一目录用于跨商铺比价。\n以下为界面示例，截图中的报价不代表当前价格或商铺推荐。\n推荐使用 Node.js 26 LTS；需要 PostgreSQL 16+ 和 Redis 7+。先创建数据库并启动 Redis，在项目根目录执行：\ngit clone https://github.com/hhtower/price-comparison.git\ncd price-comparison\nnpm ci\ncp .env.example .env\n# 编辑 .env：设置 DATABASE_",
+      "description": "简体中文 · English\n知途 · 拾价聚合卡网、发卡站的 ChatGPT / Codex、Claude / Claude Code、Gemini、Grok、Cursor 等订阅与账号报价，覆盖代充、成品号、共享账号、兑换码，以及邮箱、接码、住宅 IP 等配套服务。对比各商铺的价格、库存、使用期限、独享 / 共享和售后范围，并提供价格走势、官方地区价参考及 AI / IP 检测。\n同款订阅，多家报价。按平台、交付方式、使用期限和质保条件筛选，集中对比各商铺的价格与库存。\n推荐使用 Node.js 26 LTS；需要 PostgreSQL 16+ 和 Redis 7+。先创建数据库并启动 Redis，在项目根目录执行：\ngit clone https://github.com/hhtower/price-comparison.git\ncd price-comparison\nnpm ci\n",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
       "githubUrl": "https://github.com/hhtower/price-comparison.git",
       "categories": [
+        "code",
         "design",
         "data"
       ]
     },
     {
-      "id": "4afb7f1e-d893-4ce8-b033-e9d57714de0d",
+      "id": "a6acb301-58b7-4cbe-beb3-b345d28966d3",
       "name": "skills",
       "url": "https://github.com/larchanka/skills",
       "oneLiner": "This repository is a collection of independent skills and tools for software development and automation.",
@@ -265,9 +218,42 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "productivity",
+        "code",
+        "security",
+        "productivity"
+      ]
+    },
+    {
+      "id": "cf21c65c-28c4-4e57-bee4-91c053b120d9",
+      "name": "Archwhere",
+      "url": "https://github.com/tapaskar/archwhere",
+      "oneLiner": "Your AI coding agents ship thirty PRs a week.",
+      "description": "Your AI coding agents ship thirty PRs a week. Do you know where they land?\narchwhere puts every change — every PR, every task, every agent — on a declared architecture map: which component it touches, whether that component is a security zone, and what needs you right now. Then it goes further: the map becomes the place you talk to your agents.\nMission control on a fictional product: the attention",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
         "code",
         "security"
+      ]
+    },
+    {
+      "id": "302ce2cc-fb7b-4154-9c11-8fd719443936",
+      "name": "Governor",
+      "url": "https://bsvkey-governor-demo.fly.dev/",
+      "oneLiner": "Each button makes a scripted agent call an AI model through Governor.",
+      "description": "Watch Governor stop an AI agent\nEach button makes a scripted agent call an AI model through Governor. The model here is fake (no real AI, no cost), but every call goes through the real Governor, and every decision is signed into its audit log. No sign-up.\n1. Make the agent act\nLoading...\nThe rules on this agent's key\n...\nChecked in order; the first rule that matches a tool call decides it. Calls n",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code"
       ]
     }
   ]
