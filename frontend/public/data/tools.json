@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-31T11:47:54.141748+00:00",
-  "count": 15,
+  "generatedAt": "2026-11-01T12:47:22.190122+00:00",
+  "count": 18,
   "tools": [
     {
-      "id": "c6ce2661-f6dc-4384-853f-d4104db3f0c6",
+      "id": "1e4e31cb-fb8b-4222-964b-ab7246c5033f",
       "name": "Capri-AI",
       "url": "https://github.com/boardshogunfluctuate/Capri-AI",
       "oneLiner": "⚡ Tell your PC what to do.",
@@ -14,13 +14,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "design"
       ]
     },
     {
-      "id": "164de0fd-cdad-42c6-8524-e9670acc1936",
+      "id": "5cc69c22-246d-42cb-b4f0-a66e6bffe804",
       "name": "VoiceStudioV2",
       "url": "https://github.com/EntranceStarfish/VoiceStudioV2",
       "oneLiner": "Local AI voice studio — real-time voice changer, text-to-speech, voice cloning and dubbing, with a drop-in OpenAI-compatible API.",
@@ -37,24 +37,7 @@
       ]
     },
     {
-      "id": "ceb8478a-ad96-4ea1-8112-0c29ff3b5915",
-      "name": "humanizer-lint",
-      "url": "https://github.com/yanstd888/humanizer-lint",
-      "oneLiner": "Detect repetitive LLM phrasing, uniform sentence rhythm, structural clichés, and voice-profile drift across 8 built-in language packs plus 100+ Universal Stylometry languages witho",
-      "description": "Detect repetitive LLM phrasing, uniform sentence rhythm, structural clichés, and voice-profile drift across 8 built-in language packs plus 100+ Universal Stylometry languages without sending text to an external service.\nWhat it does | Try in your browser | Install | Quick start | CLI reference | Detectors | Agent skill | FAQ\nSummary\n- Eliminates robotic LLM writing patterns when users ask to \"huma",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/yanstd888/humanizer-lint.git",
-      "categories": [
-        "code",
-        "writing",
-        "productivity"
-      ]
-    },
-    {
-      "id": "c443069e-98e3-4811-a0e0-deafe453e83c",
+      "id": "a9c0d456-9f08-44d2-ac38-9ed288d42939",
       "name": "forward-deployed-engineer-roadmap",
       "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
       "oneLiner": "- Who is a Forward Deployed Engineer?",
@@ -66,12 +49,29 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "voice",
-        "rag"
+        "rag",
+        "voice"
       ]
     },
     {
-      "id": "169af9dd-248b-47cf-831d-2c0f79d850cf",
+      "id": "56624d1d-f758-4233-b994-57adbd06d514",
+      "name": "baiagent-director",
+      "url": "https://github.com/Balanov/baiagent-director",
+      "oneLiner": "A free AI advisor that turns a company website, market evidence and local business documents into sourced hypotheses and a measurable pilot plan.",
+      "description": "A free AI advisor that turns a company website, market evidence and local business documents into sourced hypotheses and a measurable pilot plan.\nBAIagent first investigates what the company sells, customer feedback, competitors and market signals. It then helps define a hypothesis, actions, owners, timing, budget assumptions, a success metric and a stop condition. The Windows app also supports se",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "security",
+        "agents"
+      ]
+    },
+    {
+      "id": "68528035-981b-4541-9c5d-27547cf5e470",
       "name": "rpocket-AI-Coding-Agent-Toolkit",
       "url": "https://github.com/Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
       "oneLiner": "⚡ All-in-one loader: The entire script is compiled into a single loader for your convenience — just download, extract, and run.",
@@ -82,13 +82,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
-        "productivity"
+        "productivity",
+        "agents"
       ]
     },
     {
-      "id": "da5b2ab2-0de0-4fd2-b8b5-2dafaa6a2958",
+      "id": "eb2d1abb-90dc-4bfa-a5ee-87d164429ec3",
+      "name": "ai-design-check",
+      "url": "https://github.com/enmerasoftware/ai-design-check",
+      "oneLiner": "Finds and fixes what makes interfaces built with AI coding agents (Claude Code, Cursor, Codex) look generated: 76 design rules, a zero-dependency checker that marks every finding, ",
+      "description": "Finds and fixes what makes interfaces built with AI coding agents (Claude Code, Cursor, Codex) look generated: 76 design rules, a zero-dependency checker that marks every finding, and an agent skill that fixes the screen and proves it by checking again. For dashboards, admin panels, SaaS screens and landing pages, and for SwiftUI and Jetpack Compose apps.\nnpx @enmera/ai-design-check # check the pr",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "marketing"
+      ]
+    },
+    {
+      "id": "f8ecbc16-d660-46fb-9e0a-b58c4d2819c7",
       "name": "shipwords",
       "url": "https://github.com/shipwords-dev/shipwords",
       "oneLiner": "An open-source framework for new-keyword site fleets: a new site in an afternoon, taking payments the day it launches.",
@@ -105,7 +122,7 @@
       ]
     },
     {
-      "id": "06bbbc1e-dc57-4f2c-91ee-527427635e9e",
+      "id": "7ca54abb-b7dc-40b2-943c-90943240c44d",
       "name": "AI-PhD.SKILL",
       "url": "https://github.com/AlbertTan404/AI-PhD.SKILL",
       "oneLiner": "My name is Albert Wenhui Tan.",
@@ -117,16 +134,33 @@
       "githubUrl": null,
       "categories": [
         "design",
-        "writing",
-        "research"
+        "research",
+        "writing"
       ]
     },
     {
-      "id": "b272ee08-1eab-46e9-bbeb-70c60ff417a5",
-      "name": "JJ Suna AI",
-      "url": "https://suna.jjcoders.com/",
-      "oneLiner": "Where human artistry meets acoustic intelligence.",
-      "description": "Where human artistry meets acoustic intelligence. Suna AI v1.0 delivers 48 kHz True Stereo Broadcast Audio synthesized through our 5-Billion Parameter Diffusion Pipeline with native Sing-to-Masterpiece Engine.\nOPEN FOUNDATION ARCHITECTURE & COMMUNITY BENCHMARKS\nExperience real songs synthesized end-to-end on Suna AI's 5-Billion Parameter Diffusion Pipeline. Click any track to stream instantly in l",
+      "id": "f804f2dd-5d99-48c3-87a9-ef05d2b89106",
+      "name": "forge-agent",
+      "url": "https://github.com/Currentliunderpass/forge-agent",
+      "oneLiner": "Open-source, local-first AI coding agent.",
+      "description": "Open-source, local-first AI coding agent. Build, share, and install skills. Runs on your machine. Your keys, your data. No cloud. No subscription. Built for developers who ship.\nOpen-source, local-first AI coding agent. Build skills. Ship faster.\nForge is a local-first AI coding agent. It runs on your machine, uses your LLM keys, and never sends data to the cloud.\nBuild skills — reusable plugins t",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "2d91b71c-8da8-4d72-be3c-75824902fa0c",
+      "name": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "oneLiner": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based.",
+      "description": "The AI cost of JavaScript frameworks\nOne of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will “supercharge” your development, the right abstraction will benefit both you and your users (DX and UX all in one!). All of this breathless boasting is usually offered with zero evidence. Alex Russell has cal",
       "pricing": "paid",
       "country": null,
       "quality": 25,
@@ -135,28 +169,79 @@
       "categories": [
         "code",
         "design",
-        "audio"
+        "writing"
       ]
     },
     {
-      "id": "2a1dffe3-9c08-4aaf-ac5d-6da74ed7a13f",
-      "name": "Hi3D Launches AI 3D Model with 2048³ Voxel Resolution",
-      "url": "https://3dprintingindustry.com/news/hi3d-launches-ai-3d-model-with-2048%C2%B3-voxel-resolution-254150/",
-      "oneLiner": "Hi3D, the browser-based AI model generation platform built on its proprietary Sparc3D engine, has launched Hi3D V3.",
-      "description": "Hi3D, the browser-based AI model generation platform built on its proprietary Sparc3D engine, has launched Hi3D V3.0, an AI 3D generation model the company describes as the first commercially available version to reach 2048³ voxel resolution.\nThe update centers on three areas: geometric detail, structural accuracy, and texture output.\nFiner Detail and Structural Accuracy\nAt 2048³ voxel resolution,",
-      "pricing": "paid",
+      "id": "345e3ee0-09bc-4604-8832-5551d7c1cdbb",
+      "name": "Context Mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "oneLiner": "The other half of the context problem.",
+      "description": "The other half of the context problem.\nEvery MCP tool call dumps raw data into your context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues cost 59 KB. One access log — 45 KB. After 30 minutes, 40% of your context is gone. And when the agent compacts the conversation to free space, it forgets which files it was editing, what tasks are in progress, and what you last asked for. On to",
+      "pricing": "free",
       "country": null,
       "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/mksglu/context-mode.git",
+      "categories": [
+        "code",
+        "data",
+        "rag"
+      ]
+    },
+    {
+      "id": "d9cd551d-98f4-4c1d-b9b6-a971fd5d750f",
+      "name": "AIOps Cockpit",
+      "url": "https://github.com/matricphase-dot/aiops",
+      "oneLiner": "The open-source, AI-powered SRE control room.",
+      "description": "The open-source, AI-powered SRE control room.\nDiagnose incidents in seconds with an AI agent that reads your logs, checks your metrics, and proposes a fix. 3D visualization. Human-in-the-loop safety. Self-hosted.\n- 3D Spatial Topology Map - See your infrastructure as a living, breathing 3D space. Green is healthy, red is on fire, spinning means failing.\n- AI Agent Diagnostics - Describe the incide",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/matricphase-dot/aiops.git",
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "9b648599-1096-493d-9198-66c7e3c7c901",
+      "name": "LinkedIn-ops",
+      "url": "https://github.com/shashtag-ventures/linkedin-ops",
+      "oneLiner": "High-reliability, multi-agent-safe LinkedIn automation engine and CLI built on Chrome DevTools Protocol (CDP).",
+      "description": "High-reliability, multi-agent-safe LinkedIn automation engine and CLI built on Chrome DevTools Protocol (CDP).\nDisclaimer & Responsible Use:\nlinkedin-ops\nis an independent open-source tool built for developer automation research, testing, and workflow automation via local Chrome DevTools Protocol (CDP). This project is not affiliated with, endorsed by, or sponsored by LinkedIn Corporation. Automat",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "productivity",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "9e046ddc-084e-4618-b4e9-90dff3572702",
+      "name": "persona-ai-sdk",
+      "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
+      "oneLiner": "Pick a persona, wire a model, and ship a character that remembers.",
+      "description": "Pick a persona, wire a model, and ship a character that remembers. The package combines the Tavern Labs persona catalog with a provider-neutral memory and response runtime.\nQuick start · Personas · Choose your stack · Documentation · API reference · Contributing\n[!NOTE]\npersona-ai-sdk\nis published to npm aspersona-ai-sdk\n. One install includes the memory runtime, the persona catalog, and the provi",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "design",
-        "image"
+        "data",
+        "voice",
+        "writing"
       ]
     },
     {
-      "id": "9ee819ec-9cae-462d-87a5-a033d8dc1e7a",
+      "id": "09ff7191-125b-4589-904b-82cf6de58b2b",
       "name": "graphmemory",
       "url": "https://github.com/gh9ko8y/graphmemory",
       "oneLiner": "A bitemporal memory service for AI agents: facts with two time axes, a six-variable importance/decay model, time-graded recall, TTL-based expiry, deduplication, and a competitive r",
@@ -173,7 +258,7 @@
       ]
     },
     {
-      "id": "b3a3937f-2bfd-49a2-a973-69d08cc6022a",
+      "id": "ccfd94af-26bf-4494-bd04-ba8c44bb3c86",
       "name": "topopt",
       "url": "https://github.com/chartergroup/topopt",
       "oneLiner": "topopt is an MCP server for topology optimization that works with Claude, Codex, Cursor and other AI agents.",
@@ -184,17 +269,17 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/chartergroup/topopt",
       "categories": [
-        "agents",
         "code",
+        "agents",
         "design"
       ]
     },
     {
-      "id": "806738dc-7c0d-4d20-8942-385389bcc75d",
+      "id": "d7899ce0-a775-40a0-b4af-319547b9579b",
       "name": "price-comparison",
       "url": "https://github.com/hhtower/price-comparison",
       "oneLiner": "PowerShell 使用 Copy-Item .",
-      "description": "简体中文 · English\n知途 · 拾价聚合卡网、发卡站的 ChatGPT / Codex、Claude / Claude Code、Gemini、Grok、Cursor 等订阅与账号报价，覆盖代充、成品号、共享账号、兑换码，以及邮箱、接码、住宅 IP 等配套服务。对比各商铺的价格、库存、使用期限、独享 / 共享和售后范围，并提供价格走势、官方地区价参考及 AI / IP 检测。\n同款订阅，多家报价。按平台、交付方式、使用期限和质保条件筛选，集中对比各商铺的价格与库存。\n推荐使用 Node.js 26 LTS；需要 PostgreSQL 16+ 和 Redis 7+。先创建数据库并启动 Redis，在项目根目录执行：\ngit clone https://github.com/hhtower/price-comparison.git\ncd price-comparison\nnpm ci\n",
+      "description": "简体中文 · English\n用一句话描述需求，让 AI 帮你挑选和比较报价。\n知途 · 拾价是一个带有 AI 导购助手的订阅与账号比价平台，聚合卡网、发卡站的 ChatGPT / Codex、Claude / Claude Code、Gemini、Grok、Cursor 等报价，覆盖代充、成品号、共享账号、兑换码，以及邮箱、接码、住宅 IP 等配套服务。支持对话式选购、跨商铺比价、价格走势、官方地区价参考及 AI / IP 检测。\n说出需求与预算，AI 导购助手帮你筛选、比较站内商家报价，并说明充值渠道、质保和购买条件。你可以继续追问，逐步找到适合自己的商品。\n已有 GPT 账号，想找 Plus 代充，每月预算 100 元以内，优先有质保的。\n同款订阅，多家报价。按平台、交付方式、使用期限和质保条件筛选，集中对比各商铺的价格与库存。\n推荐使用 Node.js 26 LTS；需要 Post",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -207,53 +292,19 @@
       ]
     },
     {
-      "id": "a6acb301-58b7-4cbe-beb3-b345d28966d3",
-      "name": "skills",
-      "url": "https://github.com/larchanka/skills",
-      "oneLiner": "This repository is a collection of independent skills and tools for software development and automation.",
-      "description": "This repository is a collection of independent skills and tools for software development and automation. Each skill is a self-contained project with its own purpose, implementation, and documentation.\n1. agent-loop\nCoordinates a multi-agent loop involving planning, development, review, and publishing sub-agents to implement and publish features test-first and with high standards compliance. The wo",
+      "id": "0f4963a8-6666-4fab-82ab-314ee24f985d",
+      "name": "BBRouter",
+      "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+      "oneLiner": "Claude, or another AI app, can open, change and run your projects with you, through BBRouter’s MCP server.",
+      "description": "A text, a divider (a click a corner; Enter ends it)\n⌘H\nThe sheets, to go to one\n⇟ · ⇞\nThe next sheet, the previous one (Page Down, Page Up)\n⌥⌫\nBack up to the sheet it's in\nClaude, or another AI app, can open, change and run your projects with you, through BBRouter’s MCP server. Connect it once: it asks you to sign in, then works as you, on your projects only.\nMCP server address\nClaude Code\nThen ty",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "security",
-        "productivity"
-      ]
-    },
-    {
-      "id": "cf21c65c-28c4-4e57-bee4-91c053b120d9",
-      "name": "Archwhere",
-      "url": "https://github.com/tapaskar/archwhere",
-      "oneLiner": "Your AI coding agents ship thirty PRs a week.",
-      "description": "Your AI coding agents ship thirty PRs a week. Do you know where they land?\narchwhere puts every change — every PR, every task, every agent — on a declared architecture map: which component it touches, whether that component is a security zone, and what needs you right now. Then it goes further: the map becomes the place you talk to your agents.\nMission control on a fictional product: the attention",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
         "code",
         "security"
-      ]
-    },
-    {
-      "id": "302ce2cc-fb7b-4154-9c11-8fd719443936",
-      "name": "Governor",
-      "url": "https://bsvkey-governor-demo.fly.dev/",
-      "oneLiner": "Each button makes a scripted agent call an AI model through Governor.",
-      "description": "Watch Governor stop an AI agent\nEach button makes a scripted agent call an AI model through Governor. The model here is fake (no real AI, no cost), but every call goes through the real Governor, and every decision is signed into its audit log. No sign-up.\n1. Make the agent act\nLoading...\nThe rules on this agent's key\n...\nChecked in order; the first rule that matches a tool call decides it. Calls n",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code"
       ]
     }
   ]
