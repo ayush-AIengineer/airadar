@@ -1,43 +1,9 @@
 {
-  "generatedAt": "2026-11-01T12:47:22.190122+00:00",
-  "count": 18,
+  "generatedAt": "2026-11-02T14:56:31.745307+00:00",
+  "count": 16,
   "tools": [
     {
-      "id": "1e4e31cb-fb8b-4222-964b-ab7246c5033f",
-      "name": "Capri-AI",
-      "url": "https://github.com/boardshogunfluctuate/Capri-AI",
-      "oneLiner": "⚡ Tell your PC what to do.",
-      "description": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.\nWindows installer (.exe) · Windows 10 or newer\nFeatures · Quick start · What you can ask · How it works · Safety · Roadmap · FAQ\nUnofficial fan project inspired by the Cyberpun",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "5cc69c22-246d-42cb-b4f0-a66e6bffe804",
-      "name": "VoiceStudioV2",
-      "url": "https://github.com/EntranceStarfish/VoiceStudioV2",
-      "oneLiner": "Local AI voice studio — real-time voice changer, text-to-speech, voice cloning and dubbing, with a drop-in OpenAI-compatible API.",
-      "description": "Local AI voice studio — real-time voice changer, text-to-speech, voice cloning and dubbing, with a drop-in OpenAI-compatible API.\n100% local. No cloud. No API keys. Your voice never leaves your machine.\nUnofficial fork. VoiceStudioV2 is a community fork of debpalash/VoiceStudio. It is not affiliated with or endorsed by the upstream authors.\nVoiceStudioV2 is a desktop app that puts a full voice too",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "voice"
-      ]
-    },
-    {
-      "id": "a9c0d456-9f08-44d2-ac38-9ed288d42939",
+      "id": "3b8efbd7-966d-4ea9-9508-3555626602a9",
       "name": "forward-deployed-engineer-roadmap",
       "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
       "oneLiner": "- Who is a Forward Deployed Engineer?",
@@ -54,7 +20,7 @@
       ]
     },
     {
-      "id": "56624d1d-f758-4233-b994-57adbd06d514",
+      "id": "fde4f359-4911-481b-82b0-38cdd9316e8e",
       "name": "baiagent-director",
       "url": "https://github.com/Balanov/baiagent-director",
       "oneLiner": "A free AI advisor that turns a company website, market evidence and local business documents into sourced hypotheses and a measurable pilot plan.",
@@ -65,13 +31,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "security",
-        "agents"
+        "security"
       ]
     },
     {
-      "id": "68528035-981b-4541-9c5d-27547cf5e470",
+      "id": "c2b8d21e-e3ea-4f33-89cf-ec7fc379c023",
       "name": "rpocket-AI-Coding-Agent-Toolkit",
       "url": "https://github.com/Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
       "oneLiner": "⚡ All-in-one loader: The entire script is compiled into a single loader for your convenience — just download, extract, and run.",
@@ -82,30 +48,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "productivity",
-        "agents"
+        "productivity"
       ]
     },
     {
-      "id": "eb2d1abb-90dc-4bfa-a5ee-87d164429ec3",
-      "name": "ai-design-check",
-      "url": "https://github.com/enmerasoftware/ai-design-check",
-      "oneLiner": "Finds and fixes what makes interfaces built with AI coding agents (Claude Code, Cursor, Codex) look generated: 76 design rules, a zero-dependency checker that marks every finding, ",
-      "description": "Finds and fixes what makes interfaces built with AI coding agents (Claude Code, Cursor, Codex) look generated: 76 design rules, a zero-dependency checker that marks every finding, and an agent skill that fixes the screen and proves it by checking again. For dashboards, admin panels, SaaS screens and landing pages, and for SwiftUI and Jetpack Compose apps.\nnpx @enmera/ai-design-check # check the pr",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "marketing"
-      ]
-    },
-    {
-      "id": "f8ecbc16-d660-46fb-9e0a-b58c4d2819c7",
+      "id": "211516ba-8114-4c4c-901a-78a9fb6991f1",
       "name": "shipwords",
       "url": "https://github.com/shipwords-dev/shipwords",
       "oneLiner": "An open-source framework for new-keyword site fleets: a new site in an afternoon, taking payments the day it launches.",
@@ -116,13 +65,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "image"
       ]
     },
     {
-      "id": "7ca54abb-b7dc-40b2-943c-90943240c44d",
+      "id": "1c00e824-4fe9-4c69-a174-a92fc6ae789e",
       "name": "AI-PhD.SKILL",
       "url": "https://github.com/AlbertTan404/AI-PhD.SKILL",
       "oneLiner": "My name is Albert Wenhui Tan.",
@@ -139,7 +88,7 @@
       ]
     },
     {
-      "id": "f804f2dd-5d99-48c3-87a9-ef05d2b89106",
+      "id": "113b4390-c676-4e76-b3ed-abf53af5239c",
       "name": "forge-agent",
       "url": "https://github.com/Currentliunderpass/forge-agent",
       "oneLiner": "Open-source, local-first AI coding agent.",
@@ -150,81 +99,80 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
-        "design"
+        "design",
+        "code"
       ]
     },
     {
-      "id": "2d91b71c-8da8-4d72-be3c-75824902fa0c",
-      "name": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "oneLiner": "One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based.",
-      "description": "The AI cost of JavaScript frameworks\nOne of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will “supercharge” your development, the right abstraction will benefit both you and your users (DX and UX all in one!). All of this breathless boasting is usually offered with zero evidence. Alex Russell has cal",
-      "pricing": "paid",
+      "id": "25d26a2a-36be-469c-8868-1d37ff75dc14",
+      "name": "Mediroute",
+      "url": "https://github.com/54jo3vmp/mediroute",
+      "oneLiner": "Making life-saving medication accessible and affordable for everyone, everywhere.",
+      "description": "Compare global drug prices · Check import legality · AI Medicine Agent\nMaking life-saving medication accessible and affordable for everyone, everywhere.\nMediRoute is an open-source HealthTech + RegTech + AI Agent platform that helps patients:\n- 💊 Compare real drug prices across 5 core markets (US, Canada, India, Singapore, UK)\n- ⚖️ Check import legality — green/yellow/red compliance light for ever",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "b06b1a24-47f7-4a13-9435-0ac006fbf909",
+      "name": "AgentTrafficCop",
+      "url": "https://agenttrafficcop.com",
+      "oneLiner": "AgentTrafficCop is a runtime circuit breaker for multi-agent systems.",
+      "description": "AgentTrafficCop is a runtime circuit breaker for multi-agent systems. It validates every handoff, fingerprints every payload, and trips before a loop empties your API budget.\nEvery handoff validated against a strict Pydantic v2 contract before it reaches the next agent. Malformed payloads are rejected at the door.\nSHA-256 fingerprinting on every payload. Identical repeats and A↔B ping-pongs trip t",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code"
+      ]
+    },
+    {
+      "id": "3d40d962-31ed-4f8e-8e04-d35154f61210",
+      "name": "AI portfolio with RAG",
+      "url": "https://venkatpabolu.onrender.com/",
+      "oneLiner": "Ask my AI Assistant about my projects, skills, experience, or future vision.",
+      "description": "Ask my AI Assistant about my projects, skills, experience, or future vision.\nFounder & Developer of CodeBugX, an AI-powered platform built to simplify code generation, debugging, and software development workflows through modern AI technologies.\nViews\nActive Users\nCountries\nGoogle Clicks\nBuilding AI-powered solutions for real-world problems.\nI am a Computer Science graduate and aspiring Generative",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "writing"
-      ]
-    },
-    {
-      "id": "345e3ee0-09bc-4604-8832-5551d7c1cdbb",
-      "name": "Context Mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "oneLiner": "The other half of the context problem.",
-      "description": "The other half of the context problem.\nEvery MCP tool call dumps raw data into your context window. A Playwright snapshot costs 56 KB. Twenty GitHub issues cost 59 KB. One access log — 45 KB. After 30 minutes, 40% of your context is gone. And when the agent compacts the conversation to free space, it forgets which files it was editing, what tasks are in progress, and what you last asked for. On to",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/mksglu/context-mode.git",
-      "categories": [
-        "code",
-        "data",
+        "productivity",
         "rag"
       ]
     },
     {
-      "id": "d9cd551d-98f4-4c1d-b9b6-a971fd5d750f",
-      "name": "AIOps Cockpit",
-      "url": "https://github.com/matricphase-dot/aiops",
-      "oneLiner": "The open-source, AI-powered SRE control room.",
-      "description": "The open-source, AI-powered SRE control room.\nDiagnose incidents in seconds with an AI agent that reads your logs, checks your metrics, and proposes a fix. 3D visualization. Human-in-the-loop safety. Self-hosted.\n- 3D Spatial Topology Map - See your infrastructure as a living, breathing 3D space. Green is healthy, red is on fire, spinning means failing.\n- AI Agent Diagnostics - Describe the incide",
+      "id": "b4c540e3-7144-43c2-a6a3-a664081ee5d1",
+      "name": "Maat",
+      "url": "https://github.com/bolesawny7/maat",
+      "oneLiner": "Let AI agents troubleshoot Ubuntu machines, with permissions enforced by the kernel instead of the prompt.",
+      "description": "Let AI agents troubleshoot Ubuntu machines, with permissions enforced by the kernel instead of the prompt.\nA plan written the way a hijacked model would, as maatctl\nshows it to the person reviewing it: the hidden escape codes appear as text, and the invented evidence ID is flagged.\nmaat-demo.mp4\nThe name: Ma'at was the ancient Egyptian principle of truth and balance — the standard a life was weigh",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/matricphase-dot/aiops.git",
+      "githubUrl": "https://github.com/bolesawny7/maat",
       "categories": [
-        "code",
         "agents",
-        "design"
+        "design",
+        "code"
       ]
     },
     {
-      "id": "9b648599-1096-493d-9198-66c7e3c7c901",
-      "name": "LinkedIn-ops",
-      "url": "https://github.com/shashtag-ventures/linkedin-ops",
-      "oneLiner": "High-reliability, multi-agent-safe LinkedIn automation engine and CLI built on Chrome DevTools Protocol (CDP).",
-      "description": "High-reliability, multi-agent-safe LinkedIn automation engine and CLI built on Chrome DevTools Protocol (CDP).\nDisclaimer & Responsible Use:\nlinkedin-ops\nis an independent open-source tool built for developer automation research, testing, and workflow automation via local Chrome DevTools Protocol (CDP). This project is not affiliated with, endorsed by, or sponsored by LinkedIn Corporation. Automat",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "productivity",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "9e046ddc-084e-4618-b4e9-90dff3572702",
+      "id": "c9ee8d46-bc18-4461-a6a6-56bd790d21a1",
       "name": "persona-ai-sdk",
       "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
       "oneLiner": "Pick a persona, wire a model, and ship a character that remembers.",
@@ -236,12 +184,12 @@
       "githubUrl": null,
       "categories": [
         "data",
-        "voice",
-        "writing"
+        "writing",
+        "voice"
       ]
     },
     {
-      "id": "09ff7191-125b-4589-904b-82cf6de58b2b",
+      "id": "9351e4a1-f7e0-4aae-8426-2099cac67d2f",
       "name": "graphmemory",
       "url": "https://github.com/gh9ko8y/graphmemory",
       "oneLiner": "A bitemporal memory service for AI agents: facts with two time axes, a six-variable importance/decay model, time-graded recall, TTL-based expiry, deduplication, and a competitive r",
@@ -258,7 +206,7 @@
       ]
     },
     {
-      "id": "ccfd94af-26bf-4494-bd04-ba8c44bb3c86",
+      "id": "b2906780-7337-468a-8a80-6db5cfa7edff",
       "name": "topopt",
       "url": "https://github.com/chartergroup/topopt",
       "oneLiner": "topopt is an MCP server for topology optimization that works with Claude, Codex, Cursor and other AI agents.",
@@ -269,13 +217,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/chartergroup/topopt",
       "categories": [
-        "code",
         "agents",
-        "design"
+        "design",
+        "code"
       ]
     },
     {
-      "id": "d7899ce0-a775-40a0-b4af-319547b9579b",
+      "id": "1142d251-075d-4d4c-8b12-895b137c65a7",
+      "name": "ai-design-check",
+      "url": "https://github.com/enmerasoftware/ai-design-check",
+      "oneLiner": "Find what makes an AI-built interface look generated, fix it, and keep it from coming back.",
+      "description": "Find what makes an AI-built interface look generated, fix it, and keep it from coming back.\nFor anyone building with Claude Code, Cursor or Codex: 87 design rules, a checker with no dependencies and no API key, and an agent skill that repairs the screen. It reads web projects and SwiftUI and Jetpack Compose apps.\n1. Check your project.\nnpx @enmera/ai-design-check\nAccessibility (1)\nsrc/pages/dashbo",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "marketing"
+      ]
+    },
+    {
+      "id": "ecaa1a6b-9b3e-4e3c-8c27-4daf059cdb6c",
       "name": "price-comparison",
       "url": "https://github.com/hhtower/price-comparison",
       "oneLiner": "PowerShell 使用 Copy-Item .",
@@ -286,25 +251,26 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/hhtower/price-comparison.git",
       "categories": [
-        "code",
         "design",
-        "data"
+        "data",
+        "code"
       ]
     },
     {
-      "id": "0f4963a8-6666-4fab-82ab-314ee24f985d",
-      "name": "BBRouter",
-      "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
-      "oneLiner": "Claude, or another AI app, can open, change and run your projects with you, through BBRouter’s MCP server.",
-      "description": "A text, a divider (a click a corner; Enter ends it)\n⌘H\nThe sheets, to go to one\n⇟ · ⇞\nThe next sheet, the previous one (Page Down, Page Up)\n⌥⌫\nBack up to the sheet it's in\nClaude, or another AI app, can open, change and run your projects with you, through BBRouter’s MCP server. Connect it once: it asks you to sign in, then works as you, on your projects only.\nMCP server address\nClaude Code\nThen ty",
+      "id": "30acf47c-3cdd-4924-86b6-5adc68d1d2ef",
+      "name": "Taghash launches AI assistant Brain for investment funds",
+      "url": "https://entrackr.com/snippets/taghash-launches-ai-assistant-brain-for-investment-funds-12776701",
+      "oneLiner": "Fund management software platform Taghash has launched Brain, an artificial intelligence (AI) assistant that enables investment teams to analyse fund data, prepare reports and carr",
+      "description": "Fund management software platform Taghash has launched Brain, an artificial intelligence (AI) assistant that enables investment teams to analyse fund data, prepare reports and carry out tasks within the platform.\nBrain uses a fund’s existing data to analyse portfolio performance, generate reports, build dashboards with live data and execute tasks, Taghash said in a press release.\nThe assistant is ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "security"
+        "agents",
+        "design",
+        "data"
       ]
     }
   ]
