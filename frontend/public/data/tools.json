@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-02T14:56:31.745307+00:00",
-  "count": 16,
+  "generatedAt": "2026-11-03T13:44:34.642381+00:00",
+  "count": 19,
   "tools": [
     {
-      "id": "3b8efbd7-966d-4ea9-9508-3555626602a9",
+      "id": "70c07a75-e1e4-42dc-934a-d6ff3b90c67a",
       "name": "forward-deployed-engineer-roadmap",
       "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
       "oneLiner": "- Who is a Forward Deployed Engineer?",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "id": "fde4f359-4911-481b-82b0-38cdd9316e8e",
+      "id": "71b2b6a4-5556-4080-ad2f-c9ff59d1d180",
       "name": "baiagent-director",
       "url": "https://github.com/Balanov/baiagent-director",
       "oneLiner": "A free AI advisor that turns a company website, market evidence and local business documents into sourced hypotheses and a measurable pilot plan.",
@@ -31,30 +31,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "security"
       ]
     },
     {
-      "id": "c2b8d21e-e3ea-4f33-89cf-ec7fc379c023",
-      "name": "rpocket-AI-Coding-Agent-Toolkit",
-      "url": "https://github.com/Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
-      "oneLiner": "⚡ All-in-one loader: The entire script is compiled into a single loader for your convenience — just download, extract, and run.",
-      "description": "⚡ All-in-one loader: The entire script is compiled into a single loader for your convenience — just download, extract, and run. No extra setup required.\n- ⬇️ Download the tool from the button above.\n- 📦 Extract the archive (password:\nrespocket\n). - 🖱️ Run as Administrator – right‑click the executable and select Run as Administrator.\n- ✅ Follow the setup wizard – complete the installation.\n- 🚀 Laun",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "productivity"
-      ]
-    },
-    {
-      "id": "211516ba-8114-4c4c-901a-78a9fb6991f1",
+      "id": "001da034-ae48-41fa-864c-fcd4b49b109d",
       "name": "shipwords",
       "url": "https://github.com/shipwords-dev/shipwords",
       "oneLiner": "An open-source framework for new-keyword site fleets: a new site in an afternoon, taking payments the day it launches.",
@@ -65,13 +48,13 @@
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "design",
+        "image",
         "code",
-        "image"
+        "design"
       ]
     },
     {
-      "id": "1c00e824-4fe9-4c69-a174-a92fc6ae789e",
+      "id": "d0cfc474-3cd1-4a4d-8e9d-0a76eaded0f0",
       "name": "AI-PhD.SKILL",
       "url": "https://github.com/AlbertTan404/AI-PhD.SKILL",
       "oneLiner": "My name is Albert Wenhui Tan.",
@@ -88,61 +71,79 @@
       ]
     },
     {
-      "id": "113b4390-c676-4e76-b3ed-abf53af5239c",
-      "name": "forge-agent",
-      "url": "https://github.com/Currentliunderpass/forge-agent",
-      "oneLiner": "Open-source, local-first AI coding agent.",
-      "description": "Open-source, local-first AI coding agent. Build, share, and install skills. Runs on your machine. Your keys, your data. No cloud. No subscription. Built for developers who ship.\nOpen-source, local-first AI coding agent. Build skills. Ship faster.\nForge is a local-first AI coding agent. It runs on your machine, uses your LLM keys, and never sends data to the cloud.\nBuild skills — reusable plugins t",
+      "id": "3d36b80b-dbbc-47aa-a72e-f2e0fcaeefe1",
+      "name": "AI agents hallucinate prices",
+      "url": "https://blog.apify.com/llm-grounding-with-live-data/",
+      "oneLiner": "Ask an AI agent with no tools what a Kindle Paperwhite costs, and it can answer $159.",
+      "description": "Ask an AI agent with no tools what a Kindle Paperwhite costs, and it can answer $159.99, the old launch price. The live price at the time of testing was $199.99. In tests, GPT-6 Luna and Claude Opus 5.5 each matched the live price exactly for 2 of 15 products from memory. With built-in web search, they gave more exact prices, but every run still had wrong prices, each with a source link.\nLarge lan",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "design",
-        "code"
+        "code",
+        "data",
+        "agents"
       ]
     },
     {
-      "id": "25d26a2a-36be-469c-8868-1d37ff75dc14",
-      "name": "Mediroute",
-      "url": "https://github.com/54jo3vmp/mediroute",
-      "oneLiner": "Making life-saving medication accessible and affordable for everyone, everywhere.",
-      "description": "Compare global drug prices · Check import legality · AI Medicine Agent\nMaking life-saving medication accessible and affordable for everyone, everywhere.\nMediRoute is an open-source HealthTech + RegTech + AI Agent platform that helps patients:\n- 💊 Compare real drug prices across 5 core markets (US, Canada, India, Singapore, UK)\n- ⚖️ Check import legality — green/yellow/red compliance light for ever",
+      "id": "315c4e43-42c9-4605-9410-6c0d9978526d",
+      "name": "Remene",
+      "url": "https://remene.si",
+      "oneLiner": "The whole study, not a snapshot.",
+      "description": "The whole study, not a snapshot.\nScroll slice by slice, adjust the contrast and zoom in, right in your browser, on a computer or a phone.\nUpload the folder you got from radiology and find out what your images show, what your report says and what to ask your doctor.\nViewing your images is free. Nothing to install.\nYou got a CD, a report full of words you’ve never heard and an appointment three week",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "image",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "5d5695b8-9b67-494c-9c21-2ea6051bea80",
+      "name": "Hardcount",
+      "url": "https://github.com/gethardcount/hardcount",
+      "oneLiner": "Usage billing for AI products, on your own servers.",
+      "description": "Usage billing for AI products, on your own servers.\nPrice tokens per model, sell prepaid credit, and see what each customer costs you. Hardcount makes the invoices, and Stripe charges the card. Your billing data stays in your own Postgres.\nAn open-source alternative to Stripe Billing and Lago: no Stripe Billing fee, no paid edition, and light enough to run yourself. Why Hardcount →\nOne month of AI",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/gethardcount/hardcount.git",
       "categories": [
-        "design",
         "code",
+        "data",
         "security"
       ]
     },
     {
-      "id": "b06b1a24-47f7-4a13-9435-0ac006fbf909",
-      "name": "AgentTrafficCop",
-      "url": "https://agenttrafficcop.com",
-      "oneLiner": "AgentTrafficCop is a runtime circuit breaker for multi-agent systems.",
-      "description": "AgentTrafficCop is a runtime circuit breaker for multi-agent systems. It validates every handoff, fingerprints every payload, and trips before a loop empties your API budget.\nEvery handoff validated against a strict Pydantic v2 contract before it reaches the next agent. Malformed payloads are rejected at the door.\nSHA-256 fingerprinting on every payload. Identical repeats and A↔B ping-pongs trip t",
+      "id": "df41ed01-9c63-40f3-a86e-4c5a8f3f2a5f",
+      "name": "Rigorix",
+      "url": "https://rigorix.eu/",
+      "oneLiner": "Governed execution and local evidence, inside one process.",
+      "description": "Engine only\nThe open-source engine. Governed execution and local evidence, inside one process.\n- Execution engineOSS\n- CLI + TUIOSS\n- MCP serverOSS\n- Signed evidenceOSS / local\n- Capacity ledgerOSS / one process\nExecution governance\nRigorix executes the consequential operation, revalidates authority at the moment of consequence, and records a signed decision any third party can verify.\nControl con",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "code"
+        "code",
+        "data",
+        "agents"
       ]
     },
     {
-      "id": "3d40d962-31ed-4f8e-8e04-d35154f61210",
-      "name": "AI portfolio with RAG",
-      "url": "https://venkatpabolu.onrender.com/",
-      "oneLiner": "Ask my AI Assistant about my projects, skills, experience, or future vision.",
-      "description": "Ask my AI Assistant about my projects, skills, experience, or future vision.\nFounder & Developer of CodeBugX, an AI-powered platform built to simplify code generation, debugging, and software development workflows through modern AI technologies.\nViews\nActive Users\nCountries\nGoogle Clicks\nBuilding AI-powered solutions for real-world problems.\nI am a Computer Science graduate and aspiring Generative",
+      "id": "6ecf775d-1a9a-4b11-a6fb-fd8932c9fa26",
+      "name": "Duckity",
+      "url": "https://duckity.com/",
+      "oneLiner": "Duckity protects your app's APIs from automated abuse using verifiable computational work, rate limiting, and network-level signals, without ever prompting your users.",
+      "description": "Bot Protection that Doesn't Kill UX\nDuckity protects your app's APIs from automated abuse using verifiable computational work, rate limiting, and network-level signals, without ever prompting your users.\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nK",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -150,33 +151,67 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "productivity",
-        "rag"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "b4c540e3-7144-43c2-a6a3-a664081ee5d1",
-      "name": "Maat",
-      "url": "https://github.com/bolesawny7/maat",
-      "oneLiner": "Let AI agents troubleshoot Ubuntu machines, with permissions enforced by the kernel instead of the prompt.",
-      "description": "Let AI agents troubleshoot Ubuntu machines, with permissions enforced by the kernel instead of the prompt.\nA plan written the way a hijacked model would, as maatctl\nshows it to the person reviewing it: the hidden escape codes appear as text, and the invented evidence ID is flagged.\nmaat-demo.mp4\nThe name: Ma'at was the ancient Egyptian principle of truth and balance — the standard a life was weigh",
+      "id": "a8426366-3700-4927-8846-425db88b9636",
+      "name": "Onira Self Hypnosis App",
+      "url": "https://play.google.com/store/apps/details?id=com.oytaub.mindease&hl=en_US",
+      "oneLiner": "confidence, focus and more.",
+      "description": "Self-hypnosis sessions written around what you tell them: sleep, anxiety,\nconfidence, focus and more.\nOnira is a self-hypnosis app. Pick a theme and start\nat once with a ready-made session, or add a few words about what is on your mind\nand Onira's on-device AI writes a session just for you, then narrates it aloud\nwhile you close your eyes. Beginners welcome.\nSELF-HYPNOSIS FOR SLEEP, ANXIETY AND MO",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "audio"
+      ]
+    },
+    {
+      "id": "ed211420-5e6b-425b-a167-0ed691842544",
+      "name": "Ship AI features without losing sleep",
+      "url": "https://sentrint.com/",
+      "oneLiner": "Sentrint helped me detect several key security vulnerabilities in a vibe coded personal agent I had built for myself.",
+      "description": "Sentrint helped me detect several key security vulnerabilities in a vibe coded personal agent I had built for myself. The agent’s vulnerabilities had the potential to leak a lot of private and sensitive data, which were quickly resolved. I’m glad I found this product!!\nShip AI features\nwithout losing sleep\nSentrint scans the GitHub repo behind an app you built with Claude, Cursor, Bolt, v0 or any ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "ed6d2a75-8549-4c9d-a731-e8a4f467c2b7",
+      "name": "AI Red Team Academy",
+      "url": "https://0x4d31.github.io/airt/",
+      "oneLiner": "A free, open-source course covering offensive security testing of AI systems — from prompt injection to supply chain attacks.",
+      "description": "Master AI Security. Break AI Systems. Defend What Matters.\nA free, open-source course covering offensive security testing of AI systems — from prompt injection to supply chain attacks. 60+ hours of content with hands-on Docker labs.\nA comprehensive, hands-on curriculum covering offensive security testing of AI systems — LLMs, RAG pipelines, multi-agent systems, and AI infrastructure. Every module ",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/bolesawny7/maat",
+      "githubUrl": null,
       "categories": [
-        "agents",
+        "code",
         "design",
-        "code"
+        "rag"
       ]
     },
     {
-      "id": "c9ee8d46-bc18-4461-a6a6-56bd790d21a1",
+      "id": "2e633f7c-047e-4b3f-8944-d395c07de72c",
       "name": "persona-ai-sdk",
       "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
       "oneLiner": "Pick a persona, wire a model, and ship a character that remembers.",
-      "description": "Pick a persona, wire a model, and ship a character that remembers. The package combines the Tavern Labs persona catalog with a provider-neutral memory and response runtime.\nQuick start · Personas · Choose your stack · Documentation · API reference · Contributing\n[!NOTE]\npersona-ai-sdk\nis published to npm aspersona-ai-sdk\n. One install includes the memory runtime, the persona catalog, and the provi",
+      "description": "Pick a persona, wire a model, and ship a character that remembers. The package combines the Tavern Labs persona catalog with a provider-neutral memory and response runtime.\nQuick start · Personas · Choose your stack · Documentation · API reference · Contributing\n[!NOTE]\nai-persona-sdk\nis published to npm asai-persona-sdk\n. One install includes the memory runtime, the persona catalog, and the provi",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -189,7 +224,7 @@
       ]
     },
     {
-      "id": "9351e4a1-f7e0-4aae-8426-2099cac67d2f",
+      "id": "0964d05c-55cf-4497-8e84-df03e7692c64",
       "name": "graphmemory",
       "url": "https://github.com/gh9ko8y/graphmemory",
       "oneLiner": "A bitemporal memory service for AI agents: facts with two time axes, a six-variable importance/decay model, time-graded recall, TTL-based expiry, deduplication, and a competitive r",
@@ -200,13 +235,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "design",
+        "agents",
         "writing"
       ]
     },
     {
-      "id": "b2906780-7337-468a-8a80-6db5cfa7edff",
+      "id": "3590e8aa-57a7-4f19-b233-80f3c135d689",
       "name": "topopt",
       "url": "https://github.com/chartergroup/topopt",
       "oneLiner": "topopt is an MCP server for topology optimization that works with Claude, Codex, Cursor and other AI agents.",
@@ -217,30 +252,30 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/chartergroup/topopt",
       "categories": [
-        "agents",
+        "code",
         "design",
-        "code"
+        "agents"
       ]
     },
     {
-      "id": "1142d251-075d-4d4c-8b12-895b137c65a7",
+      "id": "4b9c3688-a972-4603-bbd1-46f08cffa5f5",
       "name": "ai-design-check",
       "url": "https://github.com/enmerasoftware/ai-design-check",
       "oneLiner": "Find what makes an AI-built interface look generated, fix it, and keep it from coming back.",
-      "description": "Find what makes an AI-built interface look generated, fix it, and keep it from coming back.\nFor anyone building with Claude Code, Cursor or Codex: 87 design rules, a checker with no dependencies and no API key, and an agent skill that repairs the screen. It reads web projects and SwiftUI and Jetpack Compose apps.\n1. Check your project.\nnpx @enmera/ai-design-check\nAccessibility (1)\nsrc/pages/dashbo",
+      "description": "Find what makes an AI-built interface look generated, fix it, and keep it from coming back.\nFor anyone building with Claude Code, Cursor or Codex: 137 design rules, a checker with no dependencies and no API key, and an agent skill that repairs the screen. It reads web projects (React, Vue, Svelte, Laravel Blade, HTML) and SwiftUI, Jetpack Compose, Flutter and React Native apps. Finding needs no ag",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "code",
+        "design",
         "marketing"
       ]
     },
     {
-      "id": "ecaa1a6b-9b3e-4e3c-8c27-4daf059cdb6c",
+      "id": "91b93600-5d89-419e-a180-86211e7e21b4",
       "name": "price-comparison",
       "url": "https://github.com/hhtower/price-comparison",
       "oneLiner": "PowerShell 使用 Copy-Item .",
@@ -251,26 +286,43 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/hhtower/price-comparison.git",
       "categories": [
+        "code",
         "design",
-        "data",
-        "code"
+        "data"
       ]
     },
     {
-      "id": "30acf47c-3cdd-4924-86b6-5adc68d1d2ef",
-      "name": "Taghash launches AI assistant Brain for investment funds",
-      "url": "https://entrackr.com/snippets/taghash-launches-ai-assistant-brain-for-investment-funds-12776701",
-      "oneLiner": "Fund management software platform Taghash has launched Brain, an artificial intelligence (AI) assistant that enables investment teams to analyse fund data, prepare reports and carr",
-      "description": "Fund management software platform Taghash has launched Brain, an artificial intelligence (AI) assistant that enables investment teams to analyse fund data, prepare reports and carry out tasks within the platform.\nBrain uses a fund’s existing data to analyse portfolio performance, generate reports, build dashboards with live data and execute tasks, Taghash said in a press release.\nThe assistant is ",
+      "id": "7d9a86f0-41e5-4dc3-a9c4-a5626361e6e9",
+      "name": "AI Nutrition Labels",
+      "url": "https://www.media.mit.edu/posts/researchers-launch-ai/",
+      "oneLiner": "Nutrition labels tell people what’s inside the food they eat, yet the AI systems increasingly shaping how people think, decide, and connect come with no equivalent.",
+      "description": "Researchers Launch AI Nutrition Labels, A New Tool Measuring AI’s Impact on Human Wellbeing\nNutrition labels tell people what’s inside the food they eat, yet the AI systems increasingly shaping how people think, decide, and connect come with no equivalent.\nDrawing on the MIT Media Lab’s 40 years of work at the intersection of technology and human experience, and on more than 80 experts across more",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "code",
         "design",
-        "data"
+        "search"
+      ]
+    },
+    {
+      "id": "d1f94757-6e45-4502-9033-03ecc92d32c2",
+      "name": "Count Anything using AI",
+      "url": "https://pixoate.com/count-objects",
+      "oneLiner": "Counting a shelf, tray or pallet by hand means losing your place and starting over.",
+      "description": "Count Objects in Image — AI Object Counter from a Photo\nWorks with JPG, PNG, WEBP\nCounting a shelf, tray or pallet by hand means losing your place and starting over. Upload the photo, enter what to count, and check every marker before you trust the total.\n- Upload a photo, optionally name what to count, then review the markers\n- Automatic counting without drawing example boxes\n- Review the markers",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "image",
+        "code",
+        "design"
       ]
     }
   ]
