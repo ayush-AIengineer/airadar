@@ -1,9 +1,25 @@
 {
-  "generatedAt": "2026-11-03T13:44:34.642381+00:00",
-  "count": 19,
+  "generatedAt": "2026-11-04T13:53:13.917646+00:00",
+  "count": 14,
   "tools": [
     {
-      "id": "70c07a75-e1e4-42dc-934a-d6ff3b90c67a",
+      "id": "fc9ccb06-04a9-4e04-9824-908d53be73cc",
+      "name": "computer-use-agent-vault",
+      "url": "https://github.com/davidcitahernandez-debug/computer-use-agent-vault",
+      "oneLiner": "computer-use-agent-vault",
+      "description": "🤖 敢让 AI 自己操作电脑？先给你的 Agent 挂上一道“支付沙箱\n随着 Claude 3.7 Computer Use 和各类自动化 Operator 跑通，越来越多的开发者开始让 AI 真正接管浏览器去注册服务、自动化下单、测试海外支付网关。\n但最致命的隐患直接摆在眼前：你敢把绑着自己大额信用卡的浏览器交给自主 Agent 吗？\n一旦 Agent 逻辑发生幻觉、误入钓鱼结算页、或者死循环重复提交表单，实体信用卡几万刀额度会在几秒内被彻底穿透。拿 CoreGold 给每个 Agent 派发一张一次性限额卡，才是自动化时代的唯一合规解法。\n- 对抗执行幻觉（Hallucination Loop）：自动化脚本跑飞时可能连续触发并发扣款，给 Agent 注入的虚拟卡预先锁死额度（如限额 $15），超出直接卡台底层拒付，损失上限完全可控。\n- 规避第三方拖库与凭证泄露：Agent 跑在远程无",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code"
+      ]
+    },
+    {
+      "id": "f5a959e4-e7a7-4d7a-92ec-d2fe18a836d1",
       "name": "forward-deployed-engineer-roadmap",
       "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
       "oneLiner": "- Who is a Forward Deployed Engineer?",
@@ -20,92 +36,58 @@
       ]
     },
     {
-      "id": "71b2b6a4-5556-4080-ad2f-c9ff59d1d180",
-      "name": "baiagent-director",
-      "url": "https://github.com/Balanov/baiagent-director",
-      "oneLiner": "A free AI advisor that turns a company website, market evidence and local business documents into sourced hypotheses and a measurable pilot plan.",
-      "description": "A free AI advisor that turns a company website, market evidence and local business documents into sourced hypotheses and a measurable pilot plan.\nBAIagent first investigates what the company sells, customer feedback, competitors and market signals. It then helps define a hypothesis, actions, owners, timing, budget assumptions, a success metric and a stop condition. The Windows app also supports se",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "security"
-      ]
-    },
-    {
-      "id": "001da034-ae48-41fa-864c-fcd4b49b109d",
-      "name": "shipwords",
-      "url": "https://github.com/shipwords-dev/shipwords",
-      "oneLiner": "An open-source framework for new-keyword site fleets: a new site in an afternoon, taking payments the day it launches.",
-      "description": "An open-source framework for new-keyword site fleets: a new site in an afternoon, taking payments the day it launches.\nEnglish · 中文\nshipwords is a free, MIT-licensed framework for running a fleet of new-keyword AI image and video sites on Cloudflare, one site per keyword. What stays the same is shared: accounts, payments, credits and AI generation are written once. What changes is each site's own:",
+      "id": "b76bb8b0-7408-429b-805c-f28d07678ce0",
+      "name": "ClawGod_Y",
+      "url": "https://github.com/do-whilefor/ClawGod_Y",
+      "oneLiner": "ClawGod_Y is a runtime patch for the official Claude Code CLI that turns it into a tool dedicated to authorized penetration testing and security audits.",
+      "description": "Claude Code god mode.\nOverview · Usage · Usage Limits and Security · License and Related Files\nClawGod_Y is a runtime patch for the official Claude Code CLI that turns it into a tool dedicated to authorized penetration testing and security audits. It is not a third-party client: the installer extracts the official binary, applies AST-level patches, and runs the patched build with the Bun runtime.\n",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "image",
+        "code",
+        "security",
+        "design"
+      ]
+    },
+    {
+      "id": "c00f2816-0f87-462b-8c33-bcde67b882cd",
+      "name": "forge-agent",
+      "url": "https://github.com/Currentliunderpass/forge-agent",
+      "oneLiner": "Open-source, local-first AI coding agent.",
+      "description": "Open-source, local-first AI coding agent. Build, share, and install skills. Runs on your machine. Your keys, your data. No cloud. No subscription. Built for developers who ship.\nOpen-source, local-first AI coding agent. Build skills. Ship faster.\nForge is a local-first AI coding agent. It runs on your machine, uses your LLM keys, and never sends data to the cloud.\nBuild skills — reusable plugins t",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
         "code",
         "design"
       ]
     },
     {
-      "id": "d0cfc474-3cd1-4a4d-8e9d-0a76eaded0f0",
-      "name": "AI-PhD.SKILL",
-      "url": "https://github.com/AlbertTan404/AI-PhD.SKILL",
-      "oneLiner": "My name is Albert Wenhui Tan.",
-      "description": "我叫 Albert Wenhui Tan，是人大高瓴人工智能学院的博士生，主要研究 LLMs、Embodied AI。\n我相信开源是该领域（甚至是人类社会）发展的重要动力。因此，我想把我在读博/科研期间的经验，和一些个人看法开源，所以有了这个 repo：AI-PhD.SKILL\nAI-PhD.SKILL 是一份面向 AI 博士生和研究者的开放笔记：从选题、读论文、做实验，到写作、交流、研究判断，以及 RL 和软件工程。既有个人经历与观察，也有可以跟着推导的技术内容。希望它能帮助你进入一个领域，把问题想清楚，把研究做扎实，也让别人更容易理解你的工作。\n这里的 SKILL 指研究者可以学习和练习的能力。每篇文章都可以独立阅读，也可以沿着目录串起来读。\n文中包含大量主观观点。\nMy name is Albert Wenhui Tan. I'm a PhD candidate at RUC-GSA",
+      "id": "904e19ee-ba29-492c-a5e0-8544d406d1dd",
+      "name": "Shield KYA",
+      "url": "https://github.com/The-Pixel-Boys/shield-kya",
+      "oneLiner": "Audit trail and traceability for AI agents.",
+      "description": "Audit trail and traceability for AI agents. See what every coding agent did and check each tool call against policy. KYA records every tool call your coding agents make, on a local dashboard, and by default denies a short list of destructive commands, secret reads and exfiltration (list below). Everything else is recorded, not blocked. Local hooks fail open. Real blocking and human approval run on",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "research",
-        "writing"
-      ]
-    },
-    {
-      "id": "3d36b80b-dbbc-47aa-a72e-f2e0fcaeefe1",
-      "name": "AI agents hallucinate prices",
-      "url": "https://blog.apify.com/llm-grounding-with-live-data/",
-      "oneLiner": "Ask an AI agent with no tools what a Kindle Paperwhite costs, and it can answer $159.",
-      "description": "Ask an AI agent with no tools what a Kindle Paperwhite costs, and it can answer $159.99, the old launch price. The live price at the time of testing was $199.99. In tests, GPT-6 Luna and Claude Opus 5.5 each matched the live price exactly for 2 of 15 products from memory. With built-in web search, they gave more exact prices, but every run still had wrong prices, each with a source link.\nLarge lan",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/The-Pixel-Boys/scoop-bucket.git",
       "categories": [
         "code",
-        "data",
-        "agents"
-      ]
-    },
-    {
-      "id": "315c4e43-42c9-4605-9410-6c0d9978526d",
-      "name": "Remene",
-      "url": "https://remene.si",
-      "oneLiner": "The whole study, not a snapshot.",
-      "description": "The whole study, not a snapshot.\nScroll slice by slice, adjust the contrast and zoom in, right in your browser, on a computer or a phone.\nUpload the folder you got from radiology and find out what your images show, what your report says and what to ask your doctor.\nViewing your images is free. Nothing to install.\nYou got a CD, a report full of words you’ve never heard and an appointment three week",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "image",
-        "code",
+        "security",
         "data"
       ]
     },
     {
-      "id": "5d5695b8-9b67-494c-9c21-2ea6051bea80",
+      "id": "3f047417-3fc2-47f3-9360-c0c2b1b3e5b1",
       "name": "Hardcount",
       "url": "https://github.com/gethardcount/hardcount",
       "oneLiner": "Usage billing for AI products, on your own servers.",
@@ -117,97 +99,29 @@
       "githubUrl": "https://github.com/gethardcount/hardcount.git",
       "categories": [
         "code",
-        "data",
-        "security"
-      ]
-    },
-    {
-      "id": "df41ed01-9c63-40f3-a86e-4c5a8f3f2a5f",
-      "name": "Rigorix",
-      "url": "https://rigorix.eu/",
-      "oneLiner": "Governed execution and local evidence, inside one process.",
-      "description": "Engine only\nThe open-source engine. Governed execution and local evidence, inside one process.\n- Execution engineOSS\n- CLI + TUIOSS\n- MCP serverOSS\n- Signed evidenceOSS / local\n- Capacity ledgerOSS / one process\nExecution governance\nRigorix executes the consequential operation, revalidates authority at the moment of consequence, and records a signed decision any third party can verify.\nControl con",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "agents"
-      ]
-    },
-    {
-      "id": "6ecf775d-1a9a-4b11-a6fb-fd8932c9fa26",
-      "name": "Duckity",
-      "url": "https://duckity.com/",
-      "oneLiner": "Duckity protects your app's APIs from automated abuse using verifiable computational work, rate limiting, and network-level signals, without ever prompting your users.",
-      "description": "Bot Protection that Doesn't Kill UX\nDuckity protects your app's APIs from automated abuse using verifiable computational work, rate limiting, and network-level signals, without ever prompting your users.\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nKeep scrolling\nK",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "a8426366-3700-4927-8846-425db88b9636",
-      "name": "Onira Self Hypnosis App",
-      "url": "https://play.google.com/store/apps/details?id=com.oytaub.mindease&hl=en_US",
-      "oneLiner": "confidence, focus and more.",
-      "description": "Self-hypnosis sessions written around what you tell them: sleep, anxiety,\nconfidence, focus and more.\nOnira is a self-hypnosis app. Pick a theme and start\nat once with a ready-made session, or add a few words about what is on your mind\nand Onira's on-device AI writes a session just for you, then narrates it aloud\nwhile you close your eyes. Beginners welcome.\nSELF-HYPNOSIS FOR SLEEP, ANXIETY AND MO",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "audio"
-      ]
-    },
-    {
-      "id": "ed211420-5e6b-425b-a167-0ed691842544",
-      "name": "Ship AI features without losing sleep",
-      "url": "https://sentrint.com/",
-      "oneLiner": "Sentrint helped me detect several key security vulnerabilities in a vibe coded personal agent I had built for myself.",
-      "description": "Sentrint helped me detect several key security vulnerabilities in a vibe coded personal agent I had built for myself. The agent’s vulnerabilities had the potential to leak a lot of private and sensitive data, which were quickly resolved. I’m glad I found this product!!\nShip AI features\nwithout losing sleep\nSentrint scans the GitHub repo behind an app you built with Claude, Cursor, Bolt, v0 or any ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
+        "security",
         "data"
       ]
     },
     {
-      "id": "ed6d2a75-8549-4c9d-a731-e8a4f467c2b7",
-      "name": "AI Red Team Academy",
-      "url": "https://0x4d31.github.io/airt/",
-      "oneLiner": "A free, open-source course covering offensive security testing of AI systems — from prompt injection to supply chain attacks.",
-      "description": "Master AI Security. Break AI Systems. Defend What Matters.\nA free, open-source course covering offensive security testing of AI systems — from prompt injection to supply chain attacks. 60+ hours of content with hands-on Docker labs.\nA comprehensive, hands-on curriculum covering offensive security testing of AI systems — LLMs, RAG pipelines, multi-agent systems, and AI infrastructure. Every module ",
-      "pricing": "open_source",
+      "id": "76abcf22-24be-4a69-8615-3293ba4dead6",
+      "name": "Umbra",
+      "url": "https://github.com/chengmatt416/umbra",
+      "oneLiner": "An autonomous agent that lives on your Android phone.",
+      "description": "An autonomous agent that lives on your Android phone. Tell it what to do; it works in the background, operates apps for you, writes and builds code in a real Linux environment on the same device, checks its own work, and asks before anything risky.\n-\nOperates the phone. It reads the screen (accessibility tree first, screenshots when needed), taps, types, scrolls, opens apps, reads notifications an",
+      "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
+      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "design",
-        "rag"
+        "security"
       ]
     },
     {
-      "id": "2e633f7c-047e-4b3f-8944-d395c07de72c",
+      "id": "38233d0b-b7e5-4262-a3f4-e16ef4b1bf19",
       "name": "persona-ai-sdk",
       "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
       "oneLiner": "Pick a persona, wire a model, and ship a character that remembers.",
@@ -224,7 +138,7 @@
       ]
     },
     {
-      "id": "0964d05c-55cf-4497-8e84-df03e7692c64",
+      "id": "35285105-df65-4d25-9625-2292835e6cf0",
       "name": "graphmemory",
       "url": "https://github.com/gh9ko8y/graphmemory",
       "oneLiner": "A bitemporal memory service for AI agents: facts with two time axes, a six-variable importance/decay model, time-graded recall, TTL-based expiry, deduplication, and a competitive r",
@@ -235,13 +149,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
         "agents",
+        "design",
         "writing"
       ]
     },
     {
-      "id": "3590e8aa-57a7-4f19-b233-80f3c135d689",
+      "id": "f1fc0f8f-17c1-4c52-b310-f1f9584cb6a9",
       "name": "topopt",
       "url": "https://github.com/chartergroup/topopt",
       "oneLiner": "topopt is an MCP server for topology optimization that works with Claude, Codex, Cursor and other AI agents.",
@@ -252,77 +166,76 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/chartergroup/topopt",
       "categories": [
+        "agents",
         "code",
-        "design",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "4b9c3688-a972-4603-bbd1-46f08cffa5f5",
-      "name": "ai-design-check",
-      "url": "https://github.com/enmerasoftware/ai-design-check",
-      "oneLiner": "Find what makes an AI-built interface look generated, fix it, and keep it from coming back.",
-      "description": "Find what makes an AI-built interface look generated, fix it, and keep it from coming back.\nFor anyone building with Claude Code, Cursor or Codex: 137 design rules, a checker with no dependencies and no API key, and an agent skill that repairs the screen. It reads web projects (React, Vue, Svelte, Laravel Blade, HTML) and SwiftUI, Jetpack Compose, Flutter and React Native apps. Finding needs no ag",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "marketing"
-      ]
-    },
-    {
-      "id": "91b93600-5d89-419e-a180-86211e7e21b4",
-      "name": "price-comparison",
-      "url": "https://github.com/hhtower/price-comparison",
-      "oneLiner": "PowerShell 使用 Copy-Item .",
-      "description": "简体中文 · English\n用一句话描述需求，让 AI 帮你挑选和比较报价。\n知途 · 拾价是一个带有 AI 导购助手的订阅与账号比价平台，聚合卡网、发卡站的 ChatGPT / Codex、Claude / Claude Code、Gemini、Grok、Cursor 等报价，覆盖代充、成品号、共享账号、兑换码，以及邮箱、接码、住宅 IP 等配套服务。支持对话式选购、跨商铺比价、价格走势、官方地区价参考及 AI / IP 检测。\n说出需求与预算，AI 导购助手帮你筛选、比较站内商家报价，并说明充值渠道、质保和购买条件。你可以继续追问，逐步找到适合自己的商品。\n已有 GPT 账号，想找 Plus 代充，每月预算 100 元以内，优先有质保的。\n同款订阅，多家报价。按平台、交付方式、使用期限和质保条件筛选，集中对比各商铺的价格与库存。\n推荐使用 Node.js 26 LTS；需要 Post",
+      "id": "c642a7d9-9d9d-4ef8-8a42-d8b03495cccb",
+      "name": "axion1_0",
+      "url": "https://github.com/bytedance/axion1_0",
+      "oneLiner": "Two stages of supervised fine-tuning (SFT) followed by reinforcement learning (RL), without dedicated mid-training, DPO, or on-policy distillation.",
+      "description": "Yuqi Jia1 · Yunjie Tian2,† · Jiayu Zheng2 · Yijun Liang3 · Jingchen Sun4 · Mengyu Zhao2 · Di Fu2\n1 Duke University 2 ByteDance 3 University of Maryland, College Park 4 University at Buffalo\n† Project Lead\n- Three-stage training. Two stages of supervised fine-tuning (SFT) followed by reinforcement learning (RL), without dedicated mid-training, DPO, or on-policy distillation.\n- Scientific reasoning ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/hhtower/price-comparison.git",
+      "githubUrl": "https://github.com/bytedance/axion1_0.git",
+      "categories": [
+        "code",
+        "research",
+        "rag"
+      ]
+    },
+    {
+      "id": "44d9142b-77fd-497b-92b4-3219bd108097",
+      "name": "Geoffrey Hinton",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "oneLiner": "One of the “godfathers of AI”, Geoffrey Hinton, has said it could turn out that humans would have been better off never developing the technology as he warned it could trigger a la",
+      "description": "One of the “godfathers of AI”, Geoffrey Hinton, has said it could turn out that humans would have been better off never developing the technology as he warned it could trigger a large-scale incident this year or next, such as a temporary blackout of financial or power systems.\nThe Nobel prize-winning computer scientist told the Guardian he is not a “doomer” about the technology that is underpinned",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "4a1e6dd6-24f1-4cae-88a5-177b5fc65115",
+      "name": "Rivermark",
+      "url": "https://rivermark.ai/",
+      "oneLiner": "that works as your partner.",
+      "description": "Stunning visual content\nthat looks like yours\nRivermark is an AI design tool for creatives\nthat works as your partner.\nRivermark keeps up\nwith your ideas.\nWe know that inspiration comes in waves, and that when you sit down to create, imagination can quickly pull you in different ways.\nThis is why we have put a lot of care into ensuring that Rivermark follows you, understands what you’re pointing a",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "fe0d69ff-ef1c-4550-b3c7-f10a812ed787",
+      "name": "Show HN",
+      "url": "https://play.google.com/store/apps/details?id=com.caloi.app&hl=en_US",
+      "oneLiner": "Caloi AI is an AI-powered calorie counter, food scanner, and macro tracker designed to help you log meals in seconds.",
+      "description": "Caloi AI is an AI-powered calorie counter, food scanner, and macro tracker designed to help you log meals in seconds. Snap a photo of your plate to instantly calculate calories, protein, carbs, fat, and fiber—from homemade Indian meals like roti, dal, and biryani to global cuisines and packaged foods.\nWhether your goal is weight loss, muscle gain, a calorie deficit, or clean eating, Caloi AI acts ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
         "code",
         "design",
         "data"
-      ]
-    },
-    {
-      "id": "7d9a86f0-41e5-4dc3-a9c4-a5626361e6e9",
-      "name": "AI Nutrition Labels",
-      "url": "https://www.media.mit.edu/posts/researchers-launch-ai/",
-      "oneLiner": "Nutrition labels tell people what’s inside the food they eat, yet the AI systems increasingly shaping how people think, decide, and connect come with no equivalent.",
-      "description": "Researchers Launch AI Nutrition Labels, A New Tool Measuring AI’s Impact on Human Wellbeing\nNutrition labels tell people what’s inside the food they eat, yet the AI systems increasingly shaping how people think, decide, and connect come with no equivalent.\nDrawing on the MIT Media Lab’s 40 years of work at the intersection of technology and human experience, and on more than 80 experts across more",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "search"
-      ]
-    },
-    {
-      "id": "d1f94757-6e45-4502-9033-03ecc92d32c2",
-      "name": "Count Anything using AI",
-      "url": "https://pixoate.com/count-objects",
-      "oneLiner": "Counting a shelf, tray or pallet by hand means losing your place and starting over.",
-      "description": "Count Objects in Image — AI Object Counter from a Photo\nWorks with JPG, PNG, WEBP\nCounting a shelf, tray or pallet by hand means losing your place and starting over. Upload the photo, enter what to count, and check every marker before you trust the total.\n- Upload a photo, optionally name what to count, then review the markers\n- Automatic counting without drawing example boxes\n- Review the markers",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "image",
-        "code",
-        "design"
       ]
     }
   ]
