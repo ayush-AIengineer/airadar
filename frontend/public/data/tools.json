@@ -1,25 +1,26 @@
 {
-  "generatedAt": "2026-11-04T13:53:13.917646+00:00",
-  "count": 14,
+  "generatedAt": "2026-11-05T14:11:19.356797+00:00",
+  "count": 12,
   "tools": [
     {
-      "id": "fc9ccb06-04a9-4e04-9824-908d53be73cc",
-      "name": "computer-use-agent-vault",
-      "url": "https://github.com/davidcitahernandez-debug/computer-use-agent-vault",
-      "oneLiner": "computer-use-agent-vault",
-      "description": "🤖 敢让 AI 自己操作电脑？先给你的 Agent 挂上一道“支付沙箱\n随着 Claude 3.7 Computer Use 和各类自动化 Operator 跑通，越来越多的开发者开始让 AI 真正接管浏览器去注册服务、自动化下单、测试海外支付网关。\n但最致命的隐患直接摆在眼前：你敢把绑着自己大额信用卡的浏览器交给自主 Agent 吗？\n一旦 Agent 逻辑发生幻觉、误入钓鱼结算页、或者死循环重复提交表单，实体信用卡几万刀额度会在几秒内被彻底穿透。拿 CoreGold 给每个 Agent 派发一张一次性限额卡，才是自动化时代的唯一合规解法。\n- 对抗执行幻觉（Hallucination Loop）：自动化脚本跑飞时可能连续触发并发扣款，给 Agent 注入的虚拟卡预先锁死额度（如限额 $15），超出直接卡台底层拒付，损失上限完全可控。\n- 规避第三方拖库与凭证泄露：Agent 跑在远程无",
-      "pricing": "paid",
+      "id": "1fac95fc-e71c-48f7-a100-01df4d2756f9",
+      "name": "swift-language-models",
+      "url": "https://github.com/ironsparrows/swift-language-models",
+      "oneLiner": "One Foundation Models API for every provider's language models.",
+      "description": "One Foundation Models API for every provider's language models.\nApple's LanguageModelSession\n, with Claude, GPT, Gemini and more in the same session as the on-device model.\nQuick start · Installation · Usage · OpenRouter · OpenAI · Testing · Docs\nTip\nTwo provider modules. OpenRouter's one API key reaches hundreds of models from Anthropic, OpenAI, Google, DeepSeek, Qwen, Meta and Mistral. OpenAI's ",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/ironsparrows/swift-language-models",
       "categories": [
-        "agents",
-        "code"
+        "code",
+        "writing",
+        "agents"
       ]
     },
     {
-      "id": "f5a959e4-e7a7-4d7a-92ec-d2fe18a836d1",
+      "id": "bc5ef790-01df-49f6-8c08-8787537a53ea",
       "name": "forward-deployed-engineer-roadmap",
       "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
       "oneLiner": "- Who is a Forward Deployed Engineer?",
@@ -31,114 +32,129 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "rag",
-        "voice"
+        "voice",
+        "rag"
       ]
     },
     {
-      "id": "b76bb8b0-7408-429b-805c-f28d07678ce0",
-      "name": "ClawGod_Y",
-      "url": "https://github.com/do-whilefor/ClawGod_Y",
-      "oneLiner": "ClawGod_Y is a runtime patch for the official Claude Code CLI that turns it into a tool dedicated to authorized penetration testing and security audits.",
-      "description": "Claude Code god mode.\nOverview · Usage · Usage Limits and Security · License and Related Files\nClawGod_Y is a runtime patch for the official Claude Code CLI that turns it into a tool dedicated to authorized penetration testing and security audits. It is not a third-party client: the installer extracts the official binary, applies AST-level patches, and runs the patched build with the Bun runtime.\n",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "security",
-        "design"
-      ]
-    },
-    {
-      "id": "c00f2816-0f87-462b-8c33-bcde67b882cd",
-      "name": "forge-agent",
-      "url": "https://github.com/Currentliunderpass/forge-agent",
-      "oneLiner": "Open-source, local-first AI coding agent.",
-      "description": "Open-source, local-first AI coding agent. Build, share, and install skills. Runs on your machine. Your keys, your data. No cloud. No subscription. Built for developers who ship.\nOpen-source, local-first AI coding agent. Build skills. Ship faster.\nForge is a local-first AI coding agent. It runs on your machine, uses your LLM keys, and never sends data to the cloud.\nBuild skills — reusable plugins t",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "904e19ee-ba29-492c-a5e0-8544d406d1dd",
-      "name": "Shield KYA",
-      "url": "https://github.com/The-Pixel-Boys/shield-kya",
-      "oneLiner": "Audit trail and traceability for AI agents.",
-      "description": "Audit trail and traceability for AI agents. See what every coding agent did and check each tool call against policy. KYA records every tool call your coding agents make, on a local dashboard, and by default denies a short list of destructive commands, secret reads and exfiltration (list below). Everything else is recorded, not blocked. Local hooks fail open. Real blocking and human approval run on",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/The-Pixel-Boys/scoop-bucket.git",
-      "categories": [
-        "code",
-        "security",
-        "data"
-      ]
-    },
-    {
-      "id": "3f047417-3fc2-47f3-9360-c0c2b1b3e5b1",
-      "name": "Hardcount",
-      "url": "https://github.com/gethardcount/hardcount",
-      "oneLiner": "Usage billing for AI products, on your own servers.",
-      "description": "Usage billing for AI products, on your own servers.\nPrice tokens per model, sell prepaid credit, and see what each customer costs you. Hardcount makes the invoices, and Stripe charges the card. Your billing data stays in your own Postgres.\nAn open-source alternative to Stripe Billing and Lago: no Stripe Billing fee, no paid edition, and light enough to run yourself. Why Hardcount →\nOne month of AI",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/gethardcount/hardcount.git",
-      "categories": [
-        "code",
-        "security",
-        "data"
-      ]
-    },
-    {
-      "id": "76abcf22-24be-4a69-8615-3293ba4dead6",
-      "name": "Umbra",
-      "url": "https://github.com/chengmatt416/umbra",
-      "oneLiner": "An autonomous agent that lives on your Android phone.",
-      "description": "An autonomous agent that lives on your Android phone. Tell it what to do; it works in the background, operates apps for you, writes and builds code in a real Linux environment on the same device, checks its own work, and asks before anything risky.\n-\nOperates the phone. It reads the screen (accessibility tree first, screenshots when needed), taps, types, scrolls, opens apps, reads notifications an",
+      "id": "6f2b92fb-6531-4dd7-aaac-928685a4db0e",
+      "name": "Ferry",
+      "url": "https://ferry.indus3.org/",
+      "oneLiner": "Two folders side by side.",
+      "description": "Two panels\nTwo folders side by side. Copy, compare and sort without juggling Finder windows.\n- Two folders in one window, each with its own history, view, sorting and zoom\n- List, tree, icon or column view, chosen for each panel\n- Copy or move between them in one step, with the keyboard or by dragging\n- Swap the sides, show one folder in both, or close a panel when you want the room\n- Free space a",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "code",
-        "security"
+        "code"
       ]
     },
     {
-      "id": "38233d0b-b7e5-4262-a3f4-e16ef4b1bf19",
-      "name": "persona-ai-sdk",
-      "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
-      "oneLiner": "Pick a persona, wire a model, and ship a character that remembers.",
-      "description": "Pick a persona, wire a model, and ship a character that remembers. The package combines the Tavern Labs persona catalog with a provider-neutral memory and response runtime.\nQuick start · Personas · Choose your stack · Documentation · API reference · Contributing\n[!NOTE]\nai-persona-sdk\nis published to npm asai-persona-sdk\n. One install includes the memory runtime, the persona catalog, and the provi",
-      "pricing": "unknown",
+      "id": "b96ec4a2-cc90-4e77-a6ed-371cf0a7a170",
+      "name": "Ergon",
+      "url": "https://github.com/shipitamit/ergon",
+      "oneLiner": "A toolkit for building AI agent harnesses — a Python SDK (the engine) and a drag-and-drop visual Studio (the builder) that generates code against it.",
+      "description": "A toolkit for building AI agent harnesses — a Python SDK (the engine) and a drag-and-drop visual Studio (the builder) that generates code against it.\nThis is a monorepo: both halves live here because they move together. The Studio generates Python for the SDK, the SDK's bridge runs Studio-designed harnesses headless, and most features (browser control, spend budgets, custom tools…) land in both at",
+      "pricing": "open_source",
       "country": null,
-      "quality": 10,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "b6dd098b-7e96-403f-a181-32a9a24026b3",
+      "name": "Maho 26.11",
+      "url": "https://mahocommerce.com/blog/2026/11/01/maho-26110-is-out-today/",
+      "oneLiner": "0 is another huge one: an AI assistant on every admin page, a drag-and-drop page builder, a filesystem abstraction with S3, Google Cloud Storage and Azure for all media, a redesign",
+      "description": "Maho 26.11.0 is out today!\n26.11.0 is another huge one: an AI assistant on every admin page, a drag-and-drop page builder, a filesystem abstraction with S3, Google Cloud Storage and Azure for all media, a redesigned admin, product gallery layouts and SLSA Build Level 3 signed release packages. And under all of it, the foundation moves one major version up: PHP 8.5, Symfony 8.1 and API Platform 5.0",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "design",
         "data",
-        "writing",
+        "agents"
+      ]
+    },
+    {
+      "id": "2523809c-b537-46f1-9028-b2ae4f825af0",
+      "name": "Nico",
+      "url": "https://nico.app/",
+      "oneLiner": "Drop a PDF on her and say what you want.",
+      "description": "Drop a PDF on her and say what you want. A spreadsheet comes back as a file.\nNico is a different kind of personal agent.\nShe lives on your screen, hears what you ask, sees what you see, gets things done, and keeps your secrets.\nNo cloud computer.\nEverything she does, she does on your Mac.\nFree to download. Runs on the ChatGPT or Claude subscription you already have. See every provider you can use\n",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "voice",
+        "agents"
+      ]
+    },
+    {
+      "id": "e84dac8d-b667-4585-b47a-1f0216ee09b4",
+      "name": "Mooring",
+      "url": "https://mooring.sh/download",
+      "oneLiner": "A notarized direct download, free to use.",
+      "description": "Download\nFree for Mac.\nA notarized direct download, free to use. More features arrive with each release.\nOr install with Homebrew\nAlready using Mooring? Send feedback\nRequirements\n- macOS\n- 26 (Tahoe) or later\n- Architecture\n- Apple silicon\n- Size\n- 19.0 MB\n- License\n- Free\nMooring updates itself, so every new release arrives automatically.\nQuestions\n- Is Mooring free?\n- Yes. The standard version ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "26aafce6-e4fe-49bd-80c7-bf82d71b9904",
+      "name": "Telegram AI assistant with projects",
+      "url": "https://github.com/watscho/chat-gpt-telegram-bot",
+      "oneLiner": "A private TypeScript Telegram assistant with text and voice conversations, photo analysis and editing, image generation, web search with sources, document questions, projects, name",
+      "description": "A private TypeScript Telegram assistant with text and voice conversations, photo analysis and editing, image generation, web search with sources, document questions, projects, named conversations, explicit saved memory, usage controls, streaming replies and durable background jobs. MIT licensed.\n“Pro” names this repository's feature set. It does not grant a ChatGPT subscription or provider account",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "image",
+        "data",
         "voice"
       ]
     },
     {
-      "id": "35285105-df65-4d25-9625-2292835e6cf0",
+      "id": "de3a82e9-e833-4834-a769-0dd5ffefdd7f",
+      "name": "Kinference",
+      "url": "https://vllm.ai/blog/2026-11-04-introducing-kinference",
+      "oneLiner": "We’re excited to announce Kinference [kay-inference], a new open source project for building scalable inference platforms with vLLM.",
+      "description": "Introducing Kinference: An Open Source Inference Control Plane for vLLM and Kubernetes\nWe’re excited to announce Kinference [kay-inference], a new open source project for building scalable inference platforms with vLLM.\nWe created Kinference at Buoyant after watching our customers struggle to run open weight models in their environments. We designed Kinference to be the control plane layer for the",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "e835254e-3dd2-4e01-9293-7044bd7e99ee",
       "name": "graphmemory",
       "url": "https://github.com/gh9ko8y/graphmemory",
       "oneLiner": "A bitemporal memory service for AI agents: facts with two time axes, a six-variable importance/decay model, time-graded recall, TTL-based expiry, deduplication, and a competitive r",
@@ -149,30 +165,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "design",
-        "writing"
+        "writing",
+        "agents"
       ]
     },
     {
-      "id": "f1fc0f8f-17c1-4c52-b310-f1f9584cb6a9",
-      "name": "topopt",
-      "url": "https://github.com/chartergroup/topopt",
-      "oneLiner": "topopt is an MCP server for topology optimization that works with Claude, Codex, Cursor and other AI agents.",
-      "description": "Install | Use | Examples | Documentation | License\ntopopt is an MCP server for topology optimization that works with Claude, Codex, Cursor and other AI agents.\nIt gives your AI agent a topology optimizer that sets itself up and runs on your own computer. The start part can be an STL file you already have, a sketch, a description in words, or a shape you work out with the agent in the chat: the rou",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/chartergroup/topopt",
-      "categories": [
-        "agents",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "c642a7d9-9d9d-4ef8-8a42-d8b03495cccb",
+      "id": "9405c863-73e2-428c-9166-199c92a35ec9",
       "name": "axion1_0",
       "url": "https://github.com/bytedance/axion1_0",
       "oneLiner": "Two stages of supervised fine-tuning (SFT) followed by reinforcement learning (RL), without dedicated mid-training, DPO, or on-policy distillation.",
@@ -189,53 +188,20 @@
       ]
     },
     {
-      "id": "44d9142b-77fd-497b-92b4-3219bd108097",
-      "name": "Geoffrey Hinton",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "oneLiner": "One of the “godfathers of AI”, Geoffrey Hinton, has said it could turn out that humans would have been better off never developing the technology as he warned it could trigger a la",
-      "description": "One of the “godfathers of AI”, Geoffrey Hinton, has said it could turn out that humans would have been better off never developing the technology as he warned it could trigger a large-scale incident this year or next, such as a temporary blackout of financial or power systems.\nThe Nobel prize-winning computer scientist told the Guardian he is not a “doomer” about the technology that is underpinned",
+      "id": "3672353c-54b6-4a9b-899c-16df2c98e763",
+      "name": "Synaps",
+      "url": "https://github.com/HaseebKhalid1507/SynapsCLI",
+      "oneLiner": "Run a crew of AI agents in your terminal, on any model, from one ~32 MB binary.",
+      "description": "Run a crew of AI agents in your terminal, on any model, from one ~32 MB binary.\nLinux, macOS and Windows 10/11 (x64).\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/HaseebKhalid1507/SynapsCLI/releases/latest/download/synaps-installer.sh | sh\n# or\nbrew install HaseebKhalid1507/tap/synaps\nsynaps --version # check it worked\nOn Windows:\npowershell -ExecutionPolicy Bypass -c \"irm https://gith",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/HaseebKhalid1507/SynapsCLI",
       "categories": [
         "code",
-        "design"
-      ]
-    },
-    {
-      "id": "4a1e6dd6-24f1-4cae-88a5-177b5fc65115",
-      "name": "Rivermark",
-      "url": "https://rivermark.ai/",
-      "oneLiner": "that works as your partner.",
-      "description": "Stunning visual content\nthat looks like yours\nRivermark is an AI design tool for creatives\nthat works as your partner.\nRivermark keeps up\nwith your ideas.\nWe know that inspiration comes in waves, and that when you sit down to create, imagination can quickly pull you in different ways.\nThis is why we have put a lot of care into ensuring that Rivermark follows you, understands what you’re pointing a",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "writing"
-      ]
-    },
-    {
-      "id": "fe0d69ff-ef1c-4550-b3c7-f10a812ed787",
-      "name": "Show HN",
-      "url": "https://play.google.com/store/apps/details?id=com.caloi.app&hl=en_US",
-      "oneLiner": "Caloi AI is an AI-powered calorie counter, food scanner, and macro tracker designed to help you log meals in seconds.",
-      "description": "Caloi AI is an AI-powered calorie counter, food scanner, and macro tracker designed to help you log meals in seconds. Snap a photo of your plate to instantly calculate calories, protein, carbs, fat, and fiber—from homemade Indian meals like roti, dal, and biryani to global cuisines and packaged foods.\nWhether your goal is weight loss, muscle gain, a calorie deficit, or clean eating, Caloi AI acts ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
+        "agents",
+        "security"
       ]
     }
   ]
