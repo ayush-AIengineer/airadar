@@ -1,130 +1,63 @@
 {
-  "generatedAt": "2026-11-05T14:11:19.356797+00:00",
-  "count": 12,
+  "generatedAt": "2026-11-06T13:50:57.947166+00:00",
+  "count": 9,
   "tools": [
     {
-      "id": "1fac95fc-e71c-48f7-a100-01df4d2756f9",
-      "name": "swift-language-models",
-      "url": "https://github.com/ironsparrows/swift-language-models",
-      "oneLiner": "One Foundation Models API for every provider's language models.",
-      "description": "One Foundation Models API for every provider's language models.\nApple's LanguageModelSession\n, with Claude, GPT, Gemini and more in the same session as the on-device model.\nQuick start · Installation · Usage · OpenRouter · OpenAI · Testing · Docs\nTip\nTwo provider modules. OpenRouter's one API key reaches hundreds of models from Anthropic, OpenAI, Google, DeepSeek, Qwen, Meta and Mistral. OpenAI's ",
+      "id": "d4943964-f2fc-407e-8720-5583fb9d26de",
+      "name": "chatGPT-shell-cli",
+      "url": "https://github.com/kennydamobd/chatGPT-shell-cli",
+      "oneLiner": "A simple, lightweight shell script to use OpenAI's chatGPT and DALL-E from the terminal without installing python or node.",
+      "description": "A simple, lightweight shell script to use OpenAI's chatGPT and DALL-E from the terminal without installing python or node.js. The script uses the official ChatGPT model gpt-3.5-turbo\nwith the OpenAI API endpoint /chat/completions\n. You can also use the new gpt-4\nmodel, if you have access.\nThe script supports the use of all other OpenAI models with the completions\nendpoint and the images/generation",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "image",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "3d993242-658f-42d0-bf6e-9c93ce9c0d27",
+      "name": "computer-use-agent-vault",
+      "url": "https://github.com/davidcitahernandez-debug/computer-use-agent-vault",
+      "oneLiner": "computer-use-agent-vault",
+      "description": "🤖 敢让 AI 自己操作电脑？先给你的 Agent 挂上一道“支付沙箱\n随着 Claude 3.7 Computer Use 和各类自动化 Operator 跑通，越来越多的开发者开始让 AI 真正接管浏览器去注册服务、自动化下单、测试海外支付网关。\n但最致命的隐患直接摆在眼前：你敢把绑着自己大额信用卡的浏览器交给自主 Agent 吗？\n一旦 Agent 逻辑发生幻觉、误入钓鱼结算页、或者死循环重复提交表单，实体信用卡几万刀额度会在几秒内被彻底穿透。拿 CoreGold 给每个 Agent 派发一张一次性限额卡，才是自动化时代的唯一合规解法。\n- 对抗执行幻觉（Hallucination Loop）：自动化脚本跑飞时可能连续触发并发扣款，给 Agent 注入的虚拟卡预先锁死额度（如限额 $15），超出直接卡台底层拒付，损失上限完全可控。\n- 规避第三方拖库与凭证泄露：Agent 跑在远程无",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "4ad48de9-9ca0-440a-81a5-acbf8d341fe3",
+      "name": "Antidraw",
+      "url": "https://github.com/AntidrawHQ/antidraw",
+      "oneLiner": "Download for Apple Silicon · All releases · antidraw.",
+      "description": "Download for Apple Silicon · All releases · antidraw.com · Issues\nAntidraw is a design canvas for your coding agents. Describe what you want and it appears on a Figma-like canvas, where every frame is real React code: components that actually work, built from the libraries and design systems your team already uses, ready to hand to your developer as they are.\nIt runs on your machine, not somewhere",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/ironsparrows/swift-language-models",
-      "categories": [
-        "code",
-        "writing",
-        "agents"
-      ]
-    },
-    {
-      "id": "bc5ef790-01df-49f6-8c08-8787537a53ea",
-      "name": "forward-deployed-engineer-roadmap",
-      "url": "https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap",
-      "oneLiner": "- Who is a Forward Deployed Engineer?",
-      "description": "Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with a blog for every topic\n- Who is a Forward Deployed Engineer?\n- The FDE Engagement Lifecycle\n- How to Use This Roadmap\n- Step 0: Must Know\n- Step 1: AI and Machine Learning Essentials\n- Step 2: How LLMs Work\n- Step 3: Choosing the Right Model for the Customer\n- Step 4: Prompt Engineeri",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "voice",
-        "rag"
-      ]
-    },
-    {
-      "id": "6f2b92fb-6531-4dd7-aaac-928685a4db0e",
-      "name": "Ferry",
-      "url": "https://ferry.indus3.org/",
-      "oneLiner": "Two folders side by side.",
-      "description": "Two panels\nTwo folders side by side. Copy, compare and sort without juggling Finder windows.\n- Two folders in one window, each with its own history, view, sorting and zoom\n- List, tree, icon or column view, chosen for each panel\n- Copy or move between them in one step, with the keyboard or by dragging\n- Swap the sides, show one folder in both, or close a panel when you want the room\n- Free space a",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "b96ec4a2-cc90-4e77-a6ed-371cf0a7a170",
-      "name": "Ergon",
-      "url": "https://github.com/shipitamit/ergon",
-      "oneLiner": "A toolkit for building AI agent harnesses — a Python SDK (the engine) and a drag-and-drop visual Studio (the builder) that generates code against it.",
-      "description": "A toolkit for building AI agent harnesses — a Python SDK (the engine) and a drag-and-drop visual Studio (the builder) that generates code against it.\nThis is a monorepo: both halves live here because they move together. The Studio generates Python for the SDK, the SDK's bridge runs Studio-designed harnesses headless, and most features (browser control, spend budgets, custom tools…) land in both at",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/AntidrawHQ/antidraw",
       "categories": [
         "code",
         "design",
-        "agents"
+        "video"
       ]
     },
     {
-      "id": "b6dd098b-7e96-403f-a181-32a9a24026b3",
-      "name": "Maho 26.11",
-      "url": "https://mahocommerce.com/blog/2026/11/01/maho-26110-is-out-today/",
-      "oneLiner": "0 is another huge one: an AI assistant on every admin page, a drag-and-drop page builder, a filesystem abstraction with S3, Google Cloud Storage and Azure for all media, a redesign",
-      "description": "Maho 26.11.0 is out today!\n26.11.0 is another huge one: an AI assistant on every admin page, a drag-and-drop page builder, a filesystem abstraction with S3, Google Cloud Storage and Azure for all media, a redesigned admin, product gallery layouts and SLSA Build Level 3 signed release packages. And under all of it, the foundation moves one major version up: PHP 8.5, Symfony 8.1 and API Platform 5.0",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "data",
-        "agents"
-      ]
-    },
-    {
-      "id": "2523809c-b537-46f1-9028-b2ae4f825af0",
-      "name": "Nico",
-      "url": "https://nico.app/",
-      "oneLiner": "Drop a PDF on her and say what you want.",
-      "description": "Drop a PDF on her and say what you want. A spreadsheet comes back as a file.\nNico is a different kind of personal agent.\nShe lives on your screen, hears what you ask, sees what you see, gets things done, and keeps your secrets.\nNo cloud computer.\nEverything she does, she does on your Mac.\nFree to download. Runs on the ChatGPT or Claude subscription you already have. See every provider you can use\n",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "voice",
-        "agents"
-      ]
-    },
-    {
-      "id": "e84dac8d-b667-4585-b47a-1f0216ee09b4",
-      "name": "Mooring",
-      "url": "https://mooring.sh/download",
-      "oneLiner": "A notarized direct download, free to use.",
-      "description": "Download\nFree for Mac.\nA notarized direct download, free to use. More features arrive with each release.\nOr install with Homebrew\nAlready using Mooring? Send feedback\nRequirements\n- macOS\n- 26 (Tahoe) or later\n- Architecture\n- Apple silicon\n- Size\n- 19.0 MB\n- License\n- Free\nMooring updates itself, so every new release arrives automatically.\nQuestions\n- Is Mooring free?\n- Yes. The standard version ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "26aafce6-e4fe-49bd-80c7-bf82d71b9904",
-      "name": "Telegram AI assistant with projects",
-      "url": "https://github.com/watscho/chat-gpt-telegram-bot",
-      "oneLiner": "A private TypeScript Telegram assistant with text and voice conversations, photo analysis and editing, image generation, web search with sources, document questions, projects, name",
-      "description": "A private TypeScript Telegram assistant with text and voice conversations, photo analysis and editing, image generation, web search with sources, document questions, projects, named conversations, explicit saved memory, usage controls, streaming replies and durable background jobs. MIT licensed.\n“Pro” names this repository's feature set. It does not grant a ChatGPT subscription or provider account",
+      "id": "e9f25f6d-bdd5-4c3b-ac3b-c59cb1691745",
+      "name": "Overhead",
+      "url": "https://github.com/dmellok/tesserae-widget-overhead",
+      "oneLiner": "The planes flying over your house right now, each one painted from a photograph of that exact aircraft, on an e-paper frame on your wall.",
+      "description": "The planes flying over your house right now, each one painted from a photograph of that exact aircraft, on an e-paper frame on your wall.\nRuns on Tesserae, the self-hosted server that draws dashboards for e-paper panels: install Tesserae, then add Overhead from its widget catalog.\nAbove: a Seeed reTerminal E1004 (Spectra 6, 1200x1600) showing everything that passed within 80 km in the last twenty ",
       "pricing": "paid",
       "country": null,
       "quality": 25,
@@ -132,46 +65,80 @@
       "githubUrl": null,
       "categories": [
         "image",
-        "data",
-        "voice"
-      ]
-    },
-    {
-      "id": "de3a82e9-e833-4834-a769-0dd5ffefdd7f",
-      "name": "Kinference",
-      "url": "https://vllm.ai/blog/2026-11-04-introducing-kinference",
-      "oneLiner": "We’re excited to announce Kinference [kay-inference], a new open source project for building scalable inference platforms with vLLM.",
-      "description": "Introducing Kinference: An Open Source Inference Control Plane for vLLM and Kubernetes\nWe’re excited to announce Kinference [kay-inference], a new open source project for building scalable inference platforms with vLLM.\nWe created Kinference at Buoyant after watching our customers struggle to run open weight models in their environments. We designed Kinference to be the control plane layer for the",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
         "code",
-        "design",
-        "writing"
+        "design"
       ]
     },
     {
-      "id": "e835254e-3dd2-4e01-9293-7044bd7e99ee",
-      "name": "graphmemory",
-      "url": "https://github.com/gh9ko8y/graphmemory",
-      "oneLiner": "A bitemporal memory service for AI agents: facts with two time axes, a six-variable importance/decay model, time-graded recall, TTL-based expiry, deduplication, and a competitive r",
-      "description": "双时态 AI 记忆系统 — 给 AI 代理一个会积累、会遗忘、会随时间变化的长期记忆库。\nA bitemporal memory service for AI agents: facts with two time axes, a six-variable importance/decay model, time-graded recall, TTL-based expiry, deduplication, and a competitive retrieval layer on top of Graphiti (temporal knowledge graph) + PostgreSQL/pgvector + Redis.\n设计思路与完整开发记录见 docs/DESIGN_ZH.md。\n67 秒 · 小鱼配音 · 中文字幕 · 直接下载\n┌────────────────────────",
+      "id": "4a85267f-7fa6-461c-b866-26a9edc3067b",
+      "name": "prompt-poet",
+      "url": "https://github.com/fieldpincocknxxc/prompt-poet",
+      "oneLiner": "Prompt Poet streamlines and simplifies prompt design for both developers and non-technical users with its low code approach.",
+      "description": "Prompt Poet streamlines and simplifies prompt design for both developers and non-technical users with its low code approach. Using a mix of YAML and Jinja2, Prompt Poet allows for flexible, dynamic prompt creation, enhancing the efficiency and quality of interactions with AI models. It saves time on engineering string manipulations, enabling everyone to focus more on crafting the optimal prompts f",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
         "design",
-        "writing",
         "agents"
       ]
     },
     {
-      "id": "9405c863-73e2-428c-9166-199c92a35ec9",
+      "id": "99eeb32f-855d-43d8-a2bc-0a9faec09c67",
+      "name": "BlendClone",
+      "url": "https://github.com/blixvip/BlendClone",
+      "oneLiner": "Turn a reference video into an editable Blender project.",
+      "description": "Turn a reference video into an editable Blender project.\nImport a clip, let an AI planner describe the scene, compile it into native Blender objects,\ncompare the render side by side, refine it in plain English, and export the .blend\n.\nFour scenes compiled from scene JSON into native Blender objects and rendered in Cycles. Every frame is editable in the exported .blend\n.\n- What it does\n- Gallery\n- ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "image",
+        "code",
+        "video"
+      ]
+    },
+    {
+      "id": "864e1e2c-10bb-4cf0-ba58-473a4950f997",
+      "name": "WebsiteBench",
+      "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+      "oneLiner": "Given a production-level website they can explore through a browser, agents must reverse-engineer a full-stack version that matches its appearance and behavior as closely as possib",
+      "description": "Given a production-level website they can explore through a browser, agents must reverse-engineer a full-stack version that matches its appearance and behavior as closely as possible.\ngit clone https://github.com/TIGER-AI-Lab/WebsiteBench.git\ncd WebsiteBench\nuv sync\nuv run python scripts/download_tasks.py --task medium\nOr install the PyPI package without cloning (requires Python 3.12–3.14); it inc",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/TIGER-AI-Lab/WebsiteBench.git",
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "542a52c0-e934-4fb8-98df-9352727e92d2",
+      "name": "persona-ai-sdk",
+      "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
+      "oneLiner": "Pick a persona, wire a model, and ship a character that remembers.",
+      "description": "Pick a persona, wire a model, and ship a character that remembers. The package combines the Tavern Labs persona catalog with a provider-neutral memory and response runtime.\nQuick start · Personas · Choose your stack · Documentation · API reference · Contributing\n[!NOTE]\nai-persona-sdk\nis published to npm asai-persona-sdk\n. One install includes the memory runtime, the persona catalog, and the provi",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "voice",
+        "writing"
+      ]
+    },
+    {
+      "id": "afdbdd1e-53e1-4458-b72d-dbb7e31338d9",
       "name": "axion1_0",
       "url": "https://github.com/bytedance/axion1_0",
       "oneLiner": "Two stages of supervised fine-tuning (SFT) followed by reinforcement learning (RL), without dedicated mid-training, DPO, or on-policy distillation.",
@@ -185,23 +152,6 @@
         "code",
         "research",
         "rag"
-      ]
-    },
-    {
-      "id": "3672353c-54b6-4a9b-899c-16df2c98e763",
-      "name": "Synaps",
-      "url": "https://github.com/HaseebKhalid1507/SynapsCLI",
-      "oneLiner": "Run a crew of AI agents in your terminal, on any model, from one ~32 MB binary.",
-      "description": "Run a crew of AI agents in your terminal, on any model, from one ~32 MB binary.\nLinux, macOS and Windows 10/11 (x64).\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/HaseebKhalid1507/SynapsCLI/releases/latest/download/synaps-installer.sh | sh\n# or\nbrew install HaseebKhalid1507/tap/synaps\nsynaps --version # check it worked\nOn Windows:\npowershell -ExecutionPolicy Bypass -c \"irm https://gith",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/HaseebKhalid1507/SynapsCLI",
-      "categories": [
-        "code",
-        "agents",
-        "security"
       ]
     }
   ]
