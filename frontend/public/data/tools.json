@@ -1,80 +1,30 @@
 {
-  "generatedAt": "2026-11-06T13:50:57.947166+00:00",
-  "count": 9,
+  "generatedAt": "2026-11-07T12:35:01.717039+00:00",
+  "count": 6,
   "tools": [
     {
-      "id": "d4943964-f2fc-407e-8720-5583fb9d26de",
-      "name": "chatGPT-shell-cli",
-      "url": "https://github.com/kennydamobd/chatGPT-shell-cli",
-      "oneLiner": "A simple, lightweight shell script to use OpenAI's chatGPT and DALL-E from the terminal without installing python or node.",
-      "description": "A simple, lightweight shell script to use OpenAI's chatGPT and DALL-E from the terminal without installing python or node.js. The script uses the official ChatGPT model gpt-3.5-turbo\nwith the OpenAI API endpoint /chat/completions\n. You can also use the new gpt-4\nmodel, if you have access.\nThe script supports the use of all other OpenAI models with the completions\nendpoint and the images/generation",
-      "pricing": "free",
+      "id": "e3684188-dc58-442e-a6a7-eff2a85eceb0",
+      "name": "I built an AI photo editor powered by GPT-Image-2.6",
+      "url": "https://getaiphotoeditor.com/",
+      "oneLiner": "Change the background or other details while keeping the main subject's shape, colors, and defining features as close to the original as possible.",
+      "description": "Change What You Want, Keep What Matters\nChange the background or other details while keeping the main subject's shape, colors, and defining features as close to the original as possible.\nUpload a photo and describe the edit — 10 free credits, no signup.\nClick to upload or drag your image here\nYour photo stays in your browser until you generate.\n10 free trial credits · Model: GPT Image 2.6 · Medium",
+      "pricing": "free_trial",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "image",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "3d993242-658f-42d0-bf6e-9c93ce9c0d27",
-      "name": "computer-use-agent-vault",
-      "url": "https://github.com/davidcitahernandez-debug/computer-use-agent-vault",
-      "oneLiner": "computer-use-agent-vault",
-      "description": "🤖 敢让 AI 自己操作电脑？先给你的 Agent 挂上一道“支付沙箱\n随着 Claude 3.7 Computer Use 和各类自动化 Operator 跑通，越来越多的开发者开始让 AI 真正接管浏览器去注册服务、自动化下单、测试海外支付网关。\n但最致命的隐患直接摆在眼前：你敢把绑着自己大额信用卡的浏览器交给自主 Agent 吗？\n一旦 Agent 逻辑发生幻觉、误入钓鱼结算页、或者死循环重复提交表单，实体信用卡几万刀额度会在几秒内被彻底穿透。拿 CoreGold 给每个 Agent 派发一张一次性限额卡，才是自动化时代的唯一合规解法。\n- 对抗执行幻觉（Hallucination Loop）：自动化脚本跑飞时可能连续触发并发扣款，给 Agent 注入的虚拟卡预先锁死额度（如限额 $15），超出直接卡台底层拒付，损失上限完全可控。\n- 规避第三方拖库与凭证泄露：Agent 跑在远程无",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "4ad48de9-9ca0-440a-81a5-acbf8d341fe3",
-      "name": "Antidraw",
-      "url": "https://github.com/AntidrawHQ/antidraw",
-      "oneLiner": "Download for Apple Silicon · All releases · antidraw.",
-      "description": "Download for Apple Silicon · All releases · antidraw.com · Issues\nAntidraw is a design canvas for your coding agents. Describe what you want and it appears on a Figma-like canvas, where every frame is real React code: components that actually work, built from the libraries and design systems your team already uses, ready to hand to your developer as they are.\nIt runs on your machine, not somewhere",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/AntidrawHQ/antidraw",
-      "categories": [
-        "code",
         "design",
-        "video"
+        "data",
+        "image"
       ]
     },
     {
-      "id": "e9f25f6d-bdd5-4c3b-ac3b-c59cb1691745",
-      "name": "Overhead",
-      "url": "https://github.com/dmellok/tesserae-widget-overhead",
-      "oneLiner": "The planes flying over your house right now, each one painted from a photograph of that exact aircraft, on an e-paper frame on your wall.",
-      "description": "The planes flying over your house right now, each one painted from a photograph of that exact aircraft, on an e-paper frame on your wall.\nRuns on Tesserae, the self-hosted server that draws dashboards for e-paper panels: install Tesserae, then add Overhead from its widget catalog.\nAbove: a Seeed reTerminal E1004 (Spectra 6, 1200x1600) showing everything that passed within 80 km in the last twenty ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "image",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "4a85267f-7fa6-461c-b866-26a9edc3067b",
-      "name": "prompt-poet",
-      "url": "https://github.com/fieldpincocknxxc/prompt-poet",
-      "oneLiner": "Prompt Poet streamlines and simplifies prompt design for both developers and non-technical users with its low code approach.",
-      "description": "Prompt Poet streamlines and simplifies prompt design for both developers and non-technical users with its low code approach. Using a mix of YAML and Jinja2, Prompt Poet allows for flexible, dynamic prompt creation, enhancing the efficiency and quality of interactions with AI models. It saves time on engineering string manipulations, enabling everyone to focus more on crafting the optimal prompts f",
+      "id": "82be9861-4dc3-4eb0-9e9f-0a22f8553f42",
+      "name": "ai-manus",
+      "url": "https://github.com/Gigachad-byte/ai-manus",
+      "oneLiner": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
+      "description": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.\n- Browser Control Made Simple: Manus browser control lets the agent navigate websites, fill forms, and gather information without you manually clicking through every page.\n- Task Automation For Daily Life: Manus autonomous tasks handle small ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -82,38 +32,21 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "agents"
+        "agents",
+        "productivity"
       ]
     },
     {
-      "id": "99eeb32f-855d-43d8-a2bc-0a9faec09c67",
-      "name": "BlendClone",
-      "url": "https://github.com/blixvip/BlendClone",
-      "oneLiner": "Turn a reference video into an editable Blender project.",
-      "description": "Turn a reference video into an editable Blender project.\nImport a clip, let an AI planner describe the scene, compile it into native Blender objects,\ncompare the render side by side, refine it in plain English, and export the .blend\n.\nFour scenes compiled from scene JSON into native Blender objects and rendered in Cycles. Every frame is editable in the exported .blend\n.\n- What it does\n- Gallery\n- ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "image",
-        "code",
-        "video"
-      ]
-    },
-    {
-      "id": "864e1e2c-10bb-4cf0-ba58-473a4950f997",
+      "id": "1fcef486-0021-47fa-a75b-8bdeef2678b9",
       "name": "WebsiteBench",
       "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
       "oneLiner": "Given a production-level website they can explore through a browser, agents must reverse-engineer a full-stack version that matches its appearance and behavior as closely as possib",
-      "description": "Given a production-level website they can explore through a browser, agents must reverse-engineer a full-stack version that matches its appearance and behavior as closely as possible.\ngit clone https://github.com/TIGER-AI-Lab/WebsiteBench.git\ncd WebsiteBench\nuv sync\nuv run python scripts/download_tasks.py --task medium\nOr install the PyPI package without cloning (requires Python 3.12–3.14); it inc",
+      "description": "Given a production-level website they can explore through a browser, agents must reverse-engineer a full-stack version that matches its appearance and behavior as closely as possible.\n70 websites and 46,916 hidden test cases, on Harbor Hub and Hugging Face. See the task list.\nDownload them with the PyPI package:\npip install websitebench\nwebsitebench download --task medium\nuv tool install harbor==0",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/TIGER-AI-Lab/WebsiteBench.git",
+      "githubUrl": "https://github.com/TIGER-AI-Lab/WebsiteBench",
       "categories": [
         "code",
         "design",
@@ -121,37 +54,54 @@
       ]
     },
     {
-      "id": "542a52c0-e934-4fb8-98df-9352727e92d2",
-      "name": "persona-ai-sdk",
-      "url": "https://github.com/tavern-labs-ai/persona-ai-sdk",
-      "oneLiner": "Pick a persona, wire a model, and ship a character that remembers.",
-      "description": "Pick a persona, wire a model, and ship a character that remembers. The package combines the Tavern Labs persona catalog with a provider-neutral memory and response runtime.\nQuick start · Personas · Choose your stack · Documentation · API reference · Contributing\n[!NOTE]\nai-persona-sdk\nis published to npm asai-persona-sdk\n. One install includes the memory runtime, the persona catalog, and the provi",
+      "id": "a5ba6db6-d053-4030-9817-e1e6f619aa72",
+      "name": "Brave Sells Its Search Index to AI",
+      "url": "https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/",
+      "oneLiner": "You’ve probably never used Brave Search.",
+      "description": "You’ve probably never used Brave Search. Well, not directly. But the AI you ask questions might have, and it might have found your website there. On Nov. 2, the New York Times sued Brave, the company behind the Brave browser and Brave Search. The Times says Brave copied more than 30 billion webpages “without identifying itself or providing website owners with any mechanism to block its crawler,” t",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
-        "voice",
-        "writing"
+        "code",
+        "agents",
+        "search"
       ]
     },
     {
-      "id": "afdbdd1e-53e1-4458-b72d-dbb7e31338d9",
-      "name": "axion1_0",
-      "url": "https://github.com/bytedance/axion1_0",
-      "oneLiner": "Two stages of supervised fine-tuning (SFT) followed by reinforcement learning (RL), without dedicated mid-training, DPO, or on-policy distillation.",
-      "description": "Yuqi Jia1 · Yunjie Tian2,† · Jiayu Zheng2 · Yijun Liang3 · Jingchen Sun4 · Mengyu Zhao2 · Di Fu2\n1 Duke University 2 ByteDance 3 University of Maryland, College Park 4 University at Buffalo\n† Project Lead\n- Three-stage training. Two stages of supervised fine-tuning (SFT) followed by reinforcement learning (RL), without dedicated mid-training, DPO, or on-policy distillation.\n- Scientific reasoning ",
+      "id": "8ccac791-c850-4bc0-a6d0-3df0bd542363",
+      "name": "Select",
+      "url": "https://github.com/Kirby54/Select",
+      "oneLiner": "Run your company with AI agents that earn their autonomy.",
+      "description": "Run your company with AI agents that earn their autonomy.\nAgents of any kind — developers, marketers, support, sales — work in an organization you design. Every result is checked by code against a delivery contract, and an agent stops needing your approval only once its verified record shows it can — per task type, revocable at any time.\nTry Select without an API key: Start locally, create the fir",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/bytedance/axion1_0.git",
+      "githubUrl": "https://github.com/Kirby54/Select.git",
       "categories": [
         "code",
-        "research",
-        "rag"
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "fdc73b09-9a34-485c-9b68-3745caf1923a",
+      "name": "Goethe",
+      "url": "https://github.com/meshapplied/Goethe",
+      "oneLiner": "Run and share your models on your own infra in 3 steps, and run them fast.",
+      "description": "Run and share your models on your own infra in 3 steps, and run them fast.\nIf Goethe is useful to you, a ⭐ on GitHub helps others find it.\nGoethe turns a Linux machine into your own API, compatible with OpenAI, Anthropic and LiteLLM clients. Install it, add a model, and point your apps, your team or your other machines at one address. Your prompts, your data and your models stay on hardware you co",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "writing"
       ]
     }
   ]
