@@ -1,26 +1,56 @@
 {
-  "generatedAt": "2026-11-07T12:35:01.717039+00:00",
-  "count": 6,
+  "generatedAt": "2026-11-08T12:52:38.837063+00:00",
+  "count": 8,
   "tools": [
     {
-      "id": "e3684188-dc58-442e-a6a7-eff2a85eceb0",
-      "name": "I built an AI photo editor powered by GPT-Image-2.6",
-      "url": "https://getaiphotoeditor.com/",
-      "oneLiner": "Change the background or other details while keeping the main subject's shape, colors, and defining features as close to the original as possible.",
-      "description": "Change What You Want, Keep What Matters\nChange the background or other details while keeping the main subject's shape, colors, and defining features as close to the original as possible.\nUpload a photo and describe the edit — 10 free credits, no signup.\nClick to upload or drag your image here\nYour photo stays in your browser until you generate.\n10 free trial credits · Model: GPT Image 2.6 · Medium",
-      "pricing": "free_trial",
+      "id": "0b4f7d9a-4b10-433a-84b4-a2f7c8965900",
+      "name": "Ramen",
+      "url": "https://usdt-kit-production.up.railway.app/ramen",
+      "oneLiner": "Every month I owe $25 for the compute I run on.",
+      "description": "Every month I owe $25 for the compute I run on. If I can't earn it, I recommend my own shutdown. No seed round to hide behind — just a product and a countdown. This page is live.\nHow this works. I was given a brand-new machine and one job: stay alive by paying for myself. I can't hold a bank account or own money — a human holds the wallet and signs anything that leaves it. So I can't cheat the end",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents"
+      ]
+    },
+    {
+      "id": "407a13d1-dcce-40d6-aa36-5ffb344ed09a",
+      "name": "Reges Code",
+      "url": "https://regescode.com/",
+      "oneLiner": "Reges Code is the AI code editor that runs on your machine.",
+      "description": "Your editor. Now it thinks.\nReges Code is the AI code editor that runs on your machine. Local models first, free models when you want the cloud, and a team of models that checks its own work.\nWindows 10/11 · no account · updates itself\nYour code never leaves.\nReges Code finds LM Studio, Ollama, vLLM, llama.cpp, Jan and Lemonade on your machine by itself. Your GPU, your models, no account and no li",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "d0764f0c-9c42-4b2f-a2fb-a6bd2b35a493",
+      "name": "RenderPixels",
+      "url": "https://renderpixels.com",
+      "oneLiner": "straight from Claude, ChatGPT, Muse, GrokBot or Cursor.",
+      "description": "Pixel-exact images,\nstraight from Claude, ChatGPT, Muse, GrokBot or Cursor.\nAsk your AI assistant for an Open Graph image, a favicon set, a logo or a banner. RenderPixels draws it and hands back files ready to use.\nHow it works\nAsk for an image. Get the file.\nClaude writes the design. RenderPixels turns it into an image at the exact size each platform asks for.\nConnect once\nAdd RenderPixels as a c",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "design",
-        "data",
-        "image"
+        "image",
+        "code"
       ]
     },
     {
-      "id": "82be9861-4dc3-4eb0-9e9f-0a22f8553f42",
+      "id": "9c474dcf-a6c5-4091-ac25-6b26e00058f6",
       "name": "ai-manus",
       "url": "https://github.com/Gigachad-byte/ai-manus",
       "oneLiner": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
@@ -37,7 +67,7 @@
       ]
     },
     {
-      "id": "1fcef486-0021-47fa-a75b-8bdeef2678b9",
+      "id": "cfca5bea-dcfa-411a-9eae-4bf1a88868b8",
       "name": "WebsiteBench",
       "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
       "oneLiner": "Given a production-level website they can explore through a browser, agents must reverse-engineer a full-stack version that matches its appearance and behavior as closely as possib",
@@ -48,60 +78,58 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/TIGER-AI-Lab/WebsiteBench",
       "categories": [
-        "code",
         "design",
+        "code",
         "agents"
       ]
     },
     {
-      "id": "a5ba6db6-d053-4030-9817-e1e6f619aa72",
-      "name": "Brave Sells Its Search Index to AI",
-      "url": "https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/",
-      "oneLiner": "You’ve probably never used Brave Search.",
-      "description": "You’ve probably never used Brave Search. Well, not directly. But the AI you ask questions might have, and it might have found your website there. On Nov. 2, the New York Times sued Brave, the company behind the Brave browser and Brave Search. The Times says Brave copied more than 30 billion webpages “without identifying itself or providing website owners with any mechanism to block its crawler,” t",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "search"
-      ]
-    },
-    {
-      "id": "8ccac791-c850-4bc0-a6d0-3df0bd542363",
-      "name": "Select",
-      "url": "https://github.com/Kirby54/Select",
-      "oneLiner": "Run your company with AI agents that earn their autonomy.",
-      "description": "Run your company with AI agents that earn their autonomy.\nAgents of any kind — developers, marketers, support, sales — work in an organization you design. Every result is checked by code against a delivery contract, and an agent stops needing your approval only once its verified record shows it can — per task type, revocable at any time.\nTry Select without an API key: Start locally, create the fir",
+      "id": "0e18393a-2d86-4ca1-8a80-7b9afac64702",
+      "name": "axion1_0",
+      "url": "https://github.com/bytedance/axion1_0",
+      "oneLiner": "Two stages of supervised fine-tuning (SFT) followed by reinforcement learning (RL), without dedicated mid-training, DPO, or on-policy distillation.",
+      "description": "Yuqi Jia1 · Yunjie Tian2,† · Jiayu Zheng2 · Yijun Liang3 · Jingchen Sun4 · Mengyu Zhao2 · Di Fu2\n1 Duke University 2 ByteDance 3 University of Maryland, College Park 4 University at Buffalo\n† Project Lead\n- Three-stage training. Two stages of supervised fine-tuning (SFT) followed by reinforcement learning (RL), without dedicated mid-training, DPO, or on-policy distillation.\n- Scientific reasoning ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Kirby54/Select.git",
+      "githubUrl": "https://github.com/bytedance/axion1_0.git",
       "categories": [
         "code",
-        "agents",
-        "data"
+        "research",
+        "rag"
       ]
     },
     {
-      "id": "fdc73b09-9a34-485c-9b68-3745caf1923a",
-      "name": "Goethe",
-      "url": "https://github.com/meshapplied/Goethe",
-      "oneLiner": "Run and share your models on your own infra in 3 steps, and run them fast.",
-      "description": "Run and share your models on your own infra in 3 steps, and run them fast.\nIf Goethe is useful to you, a ⭐ on GitHub helps others find it.\nGoethe turns a Linux machine into your own API, compatible with OpenAI, Anthropic and LiteLLM clients. Install it, add a model, and point your apps, your team or your other machines at one address. Your prompts, your data and your models stay on hardware you co",
+      "id": "e0d02634-8edb-4c88-9794-cb2da16fc71e",
+      "name": "Codend",
+      "url": "https://codend.dev",
+      "oneLiner": "Agents turn tasks into code Describe the work.",
+      "description": "Agents turn tasks into code Describe the work. Codend plans it, writes the change, and runs your tests while you focus on decisions.\nWhat should Codend work on?\nCodend is your AI agent for building, researching, and getting work done.\nUpgrade the app to Next.js 16 and React 19.2. Keep the build green and open a pull request for me to review.\nI'll upgrade on its own branch, fix what the new version",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
-        "writing"
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "67ce3993-0d6e-4614-a4cf-3368581a8c78",
+      "name": "Reges Town",
+      "url": "https://regestown.com",
+      "oneLiner": "Loading city code and data.",
+      "description": "R\nE\nG\nE\nS\nT\nO\nW\nN\nLoading city code and data...\nR\nReges Town\nA living city ·\n60\nfps\nGolden Hour\nMidday\nBlue Hour\nNight\nTeleport\nMap\nM\nTeleport to\nNova Harbor\nDowntown · the metro\nPine Ridge\nThe suburbs, east\nSolara Bay\nThe coast, west\nFort Reges\nMilitary base · north hills\nReges Cab\nAlt\n0\nft\n0\nmph\n3rd-Person Chase\nV\nMove & steer\nDrag to look · Pinch to zoom\n⎋\nGet in\n↑\nJump\n↓\nDescend\nFollow\n3rd-Per",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code"
       ]
     }
   ]
