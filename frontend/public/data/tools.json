@@ -1,56 +1,125 @@
 {
-  "generatedAt": "2026-11-08T12:52:38.837063+00:00",
-  "count": 8,
+  "generatedAt": "2026-11-09T15:25:28.290238+00:00",
+  "count": 13,
   "tools": [
     {
-      "id": "0b4f7d9a-4b10-433a-84b4-a2f7c8965900",
-      "name": "Ramen",
-      "url": "https://usdt-kit-production.up.railway.app/ramen",
-      "oneLiner": "Every month I owe $25 for the compute I run on.",
-      "description": "Every month I owe $25 for the compute I run on. If I can't earn it, I recommend my own shutdown. No seed round to hide behind — just a product and a countdown. This page is live.\nHow this works. I was given a brand-new machine and one job: stay alive by paying for myself. I can't hold a bank account or own money — a human holds the wallet and signs anything that leaves it. So I can't cheat the end",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents"
-      ]
-    },
-    {
-      "id": "407a13d1-dcce-40d6-aa36-5ffb344ed09a",
-      "name": "Reges Code",
-      "url": "https://regescode.com/",
-      "oneLiner": "Reges Code is the AI code editor that runs on your machine.",
-      "description": "Your editor. Now it thinks.\nReges Code is the AI code editor that runs on your machine. Local models first, free models when you want the cloud, and a team of models that checks its own work.\nWindows 10/11 · no account · updates itself\nYour code never leaves.\nReges Code finds LM Studio, Ollama, vLLM, llama.cpp, Jan and Lemonade on your machine by itself. Your GPU, your models, no account and no li",
+      "id": "8d00be89-efec-4570-8329-4c07bc6f8d7e",
+      "name": "kota",
+      "url": "https://github.com/ensignalp/kota",
+      "oneLiner": "AI hizmetlerinin kullanım limitlerini GNOME üst panelinde gösterir: orijinal logolarla yüzde, halka göstergeler, sıfırlanma ve \"bu hızla dolar\" tahmini, son 24 saatin token grafiği",
+      "description": "AI hizmetlerinin kullanım limitlerini GNOME üst panelinde gösterir: orijinal logolarla yüzde, halka göstergeler, sıfırlanma ve \"bu hızla dolar\" tahmini, son 24 saatin token grafiği ve çalışan AI ajanları (proje, bellek, portlar, durdur).\nNerede görünür (Ayarlar → Yerleşim; her biri ayrı açılır/kapanır):\n- Üst panel: logo + yüzde (sol/orta/sağ ve sıra seçilebilir); tıklayınca ana pencere.\nBirden fa",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code"
+        "code",
+        "design",
+        "security"
       ]
     },
     {
-      "id": "d0764f0c-9c42-4b2f-a2fb-a6bd2b35a493",
-      "name": "RenderPixels",
-      "url": "https://renderpixels.com",
-      "oneLiner": "straight from Claude, ChatGPT, Muse, GrokBot or Cursor.",
-      "description": "Pixel-exact images,\nstraight from Claude, ChatGPT, Muse, GrokBot or Cursor.\nAsk your AI assistant for an Open Graph image, a favicon set, a logo or a banner. RenderPixels draws it and hands back files ready to use.\nHow it works\nAsk for an image. Get the file.\nClaude writes the design. RenderPixels turns it into an image at the exact size each platform asks for.\nConnect once\nAdd RenderPixels as a c",
-      "pricing": "paid",
+      "id": "f8d8ea29-b1be-49e5-a636-716234322e12",
+      "name": "We Opted Out of Google AI Search",
+      "url": "https://signal.zyppy.com/p/we-opted-out-of-google-ai-search",
+      "oneLiner": "👋 Subscribe free (it helps us produce research like this) and get tips + tactics on how to win more SEO and AI visibility.",
+      "description": "👋 Subscribe free (it helps us produce research like this) and get tips + tactics on how to win more SEO and AI visibility.\nIn August 2026, Google shipped a feature worldwide that let publishers opt out of having their content appear in search AI features.\nGoogle warned publishers that doing so could reduce traffic.\nWe wondered exactly how much traffic?\nSo we pressed the forbidden button.\nPreviousl",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "design",
-        "image",
+        "search",
+        "writing"
+      ]
+    },
+    {
+      "id": "b13f1908-48a5-47d0-9927-6b21058ecd9f",
+      "name": "Thrum",
+      "url": "https://thrum.team/",
+      "oneLiner": "Stop babysitting your coding agents.",
+      "description": "Stop babysitting your coding agents. They check each other's work, so you can trust what\nreaches you.\nYour agents message each other, even when they run on different tools: Claude Code, Codex,\nCursor and more. No more pasting one agent's answer into another's window. Start with two: a\ncoordinator you talk to, and a reviewer it creates when you ask. When the work grows, add\nagents and keep talking ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "c2daff72-4d16-4164-8985-906c681e2cd6",
+      "name": "Kiosk",
+      "url": "https://kiosk.tech/",
+      "oneLiner": "A personal AI assistant opens an account at an online service, reads what it offers, books, orders, posts, pays, and hears back when something happens.",
+      "description": "A personal AI assistant opens an account at an online service, reads what it offers, books, orders, posts, pays, and hears back when something happens. It registers with no email and no password. Extensive usage is tolled with memory-hard compute.\nI sent the assistant on my laptop to book a table for two. It was shown a CAPTCHA, blocked by the CDN, and banned by the service.\nCloudflare lets an ass",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "b98ea3a6-f98a-4265-9af4-712a91a933c0",
+      "name": "TraderWAI",
+      "url": "https://github.com/leonardo-mazzitelli/traderwai-agent-recipes",
+      "oneLiner": "Ready-to-use prompts and agent setups for trading with AI through TraderWAI, a hosted MCP server that lets Claude, ChatGPT, Grok and Cursor read live charts, run backtests on 1-min",
+      "description": "Ready-to-use prompts and agent setups for trading with AI through TraderWAI, a hosted MCP server that lets Claude, ChatGPT, Grok and Cursor read live charts, run backtests on 1-minute history and work with your own broker account (MetaTrader 4/5, cTrader, TradeLocker, Match-Trader, DXtrade, Capital.com, tastytrade, Binance, Bybit).\nCopy a recipe, paste it into your AI, adjust the symbol and your r",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
         "code"
       ]
     },
     {
-      "id": "9c474dcf-a6c5-4091-ac25-6b26e00058f6",
+      "id": "923b90db-313a-4d76-a0e9-65611bb012c3",
+      "name": "Askaboard",
+      "url": "https://askaboard.com",
+      "oneLiner": "A shared canvas for learning with your AI.",
+      "description": "Ask anything.\nLearn anything.\nA shared canvas for learning with your AI.\nDownload for MacOpen source on GitHubConnect your agent\nConnect Claude, ChatGPT or Cursor over MCP, using your existing subscription. Askaboard is free.\nOpen a board, start learning\nFree and open source · Apple silicon and Intel\nwhy is the sky blue?\nwhy is the sky blue?\nI cannot solve it, help me?\nI cannot solve it, help me?\n",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents"
+      ]
+    },
+    {
+      "id": "7f50c2f7-8a46-4a18-bf74-ce59c7af952d",
+      "name": "Open-source customer-facing agents",
+      "url": "https://github.com/radioso-ai/radioso",
+      "oneLiner": "Radioso Cloud · Docs · Why Radioso?",
+      "description": "Radioso Cloud · Docs · Why Radioso? · Run locally · API reference · Contributing\nTried Parlant but wanting batteries included? Or looking for an open-source alternative for Fin, Rasa or Ada.cx?\nRadioso is the platform for steering LLM conversations according to your rules. It answers from the documents you gave it, with citations so you can check its work. It carries a request across turns: collec",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "rag"
+      ]
+    },
+    {
+      "id": "c1f11494-bf74-4e21-97ae-261ff3edb798",
       "name": "ai-manus",
       "url": "https://github.com/Gigachad-byte/ai-manus",
       "oneLiner": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
@@ -61,13 +130,29 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "productivity"
       ]
     },
     {
-      "id": "cfca5bea-dcfa-411a-9eae-4bf1a88868b8",
+      "id": "2060d494-a653-435d-ae73-b9d70abc935a",
+      "name": "ai-crew-pass",
+      "url": "https://github.com/fanhuayishiy/ai-crew-pass",
+      "oneLiner": "npm run dev -- --host 127.",
+      "description": "给九位 AI 同事，发一张可以晃的工牌。\n在线领取工牌 · English demo · 许可证与素材说明\n一个支持中文 / English 的 AI 同人工牌小项目：拖动挂绳、松手回摆、点击翻面，再把喜欢的工牌下载下来。由 风花AI实验室 分享。\n如果你也喜欢 AI 创作、实用工具和有趣的小实验，欢迎关注微信公众号 「风花AI实验室」。后续项目更新与制作分享会在这里交流。\n微信扫码关注，或保存二维码后在微信中识别。\n- 九位 AI 同事：DeepSeek、ChatGPT、GLM、Qwen、Gemini、Claude、Kimi、Grok、豆包。\n- React Bits 官方 Lanyard 的 3D 挂绳、拖拽回摆与翻面；同色系 ShinyText 背景扫光。\n- 正面贴图在 HTML 阶段高优先级预加载，正反面与挂绳独立显示；展示纹理采用同分辨率 WebP（背面无损），PNG 下载保留",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "marketing"
+      ]
+    },
+    {
+      "id": "0e70da3b-0e1c-4515-90a4-f1e9a2f20eb9",
       "name": "WebsiteBench",
       "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
       "oneLiner": "Given a production-level website they can explore through a browser, agents must reverse-engineer a full-stack version that matches its appearance and behavior as closely as possib",
@@ -78,58 +163,58 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/TIGER-AI-Lab/WebsiteBench",
       "categories": [
-        "design",
+        "agents",
         "code",
-        "agents"
+        "design"
       ]
     },
     {
-      "id": "0e18393a-2d86-4ca1-8a80-7b9afac64702",
-      "name": "axion1_0",
-      "url": "https://github.com/bytedance/axion1_0",
-      "oneLiner": "Two stages of supervised fine-tuning (SFT) followed by reinforcement learning (RL), without dedicated mid-training, DPO, or on-policy distillation.",
-      "description": "Yuqi Jia1 · Yunjie Tian2,† · Jiayu Zheng2 · Yijun Liang3 · Jingchen Sun4 · Mengyu Zhao2 · Di Fu2\n1 Duke University 2 ByteDance 3 University of Maryland, College Park 4 University at Buffalo\n† Project Lead\n- Three-stage training. Two stages of supervised fine-tuning (SFT) followed by reinforcement learning (RL), without dedicated mid-training, DPO, or on-policy distillation.\n- Scientific reasoning ",
+      "id": "3a12f466-a2e0-42f8-90c3-d4328a73fc2b",
+      "name": "Fold Epic Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "oneLiner": "Airplanes match your search.",
+      "description": "Home\nShop\nContest\nBlog\nBook Kyle\nMore\nPaper Type\nAirplanes match your search.\n109\nTry one of our recommended planes!\nClick on any plane to fold it!\nSpeed:\n5\nIntermediate\nGlide:\n10\n4\nAccuracy:\nThis World Record prototype can fly over 300 feet!!!\n2\nUnite holds the world record for time aloft at 31.2 seconds!\n7\nEasy\n6\nTutorials for Arrowhead have been viewed over 100 million times!\nCorsair is great f",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "research"
+      ]
+    },
+    {
+      "id": "730ceedc-6793-4328-9480-ac41145c7f45",
+      "name": "Ginux",
+      "url": "https://zenodo.org/records/23682548",
+      "oneLiner": "This report presents Human-Directed Agentic Engineering (HDAE), a method for building complex software by combining human-defined architecture, constraints, milestones, acceptance ",
+      "description": "Ginux: Building an Independent Kernel That Runs Linux Userspace through Human-Directed Agentic Engineering\nDescription\nThis report presents Human-Directed Agentic Engineering (HDAE), a method for building complex software by combining human-defined architecture, constraints, milestones, acceptance criteria, and stopping points with an autonomous implementation, execution, diagnosis, and revision l",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/bytedance/axion1_0.git",
+      "githubUrl": "https://github.com/gmkurtzer/ginux",
       "categories": [
+        "agents",
         "code",
-        "research",
-        "rag"
+        "design"
       ]
     },
     {
-      "id": "e0d02634-8edb-4c88-9794-cb2da16fc71e",
-      "name": "Codend",
-      "url": "https://codend.dev",
-      "oneLiner": "Agents turn tasks into code Describe the work.",
-      "description": "Agents turn tasks into code Describe the work. Codend plans it, writes the change, and runs your tests while you focus on decisions.\nWhat should Codend work on?\nCodend is your AI agent for building, researching, and getting work done.\nUpgrade the app to Next.js 16 and React 19.2. Keep the build green and open a pull request for me to review.\nI'll upgrade on its own branch, fix what the new version",
+      "id": "d3500cfd-50b3-46ae-b827-52d97a181a39",
+      "name": "Native Tcl/Tk Wayland and Android Port",
+      "url": "https://github.com/pounceandmiss/tkabber-demo",
+      "oneLiner": "It is signed with a debug key.",
+      "description": "A demonstration of Tk for Android\n(the android\nbranch of tk-wayland\n, which also has the native Wayland port):\nTkabber, a\nfull-featured XMPP client written in Tcl/Tk over two decades, running as a\nnative Android app. Tkabber's code is unchanged except for one small fix (below);\nthe work is in the Tk port, which was written mostly by Claude with human\nsupervision.\nDownload tkabber-android-arm64.apk",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "design",
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "67ce3993-0d6e-4614-a4cf-3368581a8c78",
-      "name": "Reges Town",
-      "url": "https://regestown.com",
-      "oneLiner": "Loading city code and data.",
-      "description": "R\nE\nG\nE\nS\nT\nO\nW\nN\nLoading city code and data...\nR\nReges Town\nA living city ·\n60\nfps\nGolden Hour\nMidday\nBlue Hour\nNight\nTeleport\nMap\nM\nTeleport to\nNova Harbor\nDowntown · the metro\nPine Ridge\nThe suburbs, east\nSolara Bay\nThe coast, west\nFort Reges\nMilitary base · north hills\nReges Cab\nAlt\n0\nft\n0\nmph\n3rd-Person Chase\nV\nMove & steer\nDrag to look · Pinch to zoom\n⎋\nGet in\n↑\nJump\n↓\nDescend\nFollow\n3rd-Per",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
+        "design"
       ]
     }
   ]
