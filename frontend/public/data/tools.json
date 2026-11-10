@@ -1,9 +1,26 @@
 {
-  "generatedAt": "2026-11-09T15:25:28.290238+00:00",
-  "count": 13,
+  "generatedAt": "2026-11-10T14:27:47.900832+00:00",
+  "count": 19,
   "tools": [
     {
-      "id": "8d00be89-efec-4570-8329-4c07bc6f8d7e",
+      "id": "86384c6b-d3c1-4246-8073-aa7f85b45e7a",
+      "name": "project-lighthouse",
+      "url": "https://github.com/professorsolderin/project-lighthouse",
+      "oneLiner": "Famous scientists left behind huge piles of handwritten pages that are digitized but essentially unread.",
+      "description": "Famous scientists left behind huge piles of handwritten pages that are digitized but essentially unread. This is an open, shared effort to read them at scale with AI, look for anything the record missed — unfinished threads, finished results nobody credited, missed connections — and then try very hard to kill every candidate before calling it a find. Anyone can contribute pages, translations, read",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "voice",
+        "image"
+      ]
+    },
+    {
+      "id": "bfee7525-becc-4a32-b8c9-97abac0479f0",
       "name": "kota",
       "url": "https://github.com/ensignalp/kota",
       "oneLiner": "AI hizmetlerinin kullanım limitlerini GNOME üst panelinde gösterir: orijinal logolarla yüzde, halka göstergeler, sıfırlanma ve \"bu hızla dolar\" tahmini, son 24 saatin token grafiği",
@@ -20,106 +37,143 @@
       ]
     },
     {
-      "id": "f8d8ea29-b1be-49e5-a636-716234322e12",
-      "name": "We Opted Out of Google AI Search",
-      "url": "https://signal.zyppy.com/p/we-opted-out-of-google-ai-search",
-      "oneLiner": "👋 Subscribe free (it helps us produce research like this) and get tips + tactics on how to win more SEO and AI visibility.",
-      "description": "👋 Subscribe free (it helps us produce research like this) and get tips + tactics on how to win more SEO and AI visibility.\nIn August 2026, Google shipped a feature worldwide that let publishers opt out of having their content appear in search AI features.\nGoogle warned publishers that doing so could reduce traffic.\nWe wondered exactly how much traffic?\nSo we pressed the forbidden button.\nPreviousl",
+      "id": "d98a7dda-63c2-4bbc-a1b1-46eff8412981",
+      "name": "We checked 312 AI-built apps",
+      "url": "https://launchpal.app/guides/vibe-coded-app-statistics",
+      "oneLiner": "Building an app with Lovable, Bolt, Base44 or Cursor now takes a weekend.",
+      "description": "Building an app with Lovable, Bolt, Base44 or Cursor now takes a weekend. Getting strangers to find it and sign up is harder. We wanted to see how ready the apps people actually ship are for that part.\nSo in the first days of November 2026 we ran our launch check on 312 apps that their makers had shared in public: showcase sites like Made with Lovable and Made with Bolt, and launch posts in Reddit",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
         "design",
-        "search",
-        "writing"
+        "marketing"
       ]
     },
     {
-      "id": "b13f1908-48a5-47d0-9927-6b21058ecd9f",
-      "name": "Thrum",
-      "url": "https://thrum.team/",
-      "oneLiner": "Stop babysitting your coding agents.",
-      "description": "Stop babysitting your coding agents. They check each other's work, so you can trust what\nreaches you.\nYour agents message each other, even when they run on different tools: Claude Code, Codex,\nCursor and more. No more pasting one agent's answer into another's window. Start with two: a\ncoordinator you talk to, and a reviewer it creates when you ask. When the work grows, add\nagents and keep talking ",
+      "id": "ab41f7be-6e4b-4da3-8016-48d927fefd7c",
+      "name": "Is AI code rotting open source? 450 repos",
+      "url": "https://coderot.ai/blog/ai-code-rot-in-open-source",
+      "oneLiner": "Is AI code rotting open source?",
+      "description": "Is AI code rotting open source? 450 repos, 12 months\nIn September 2026, the average one of 450 of GitHub’s most popular repos had 11.5% of its merged pull requests signed by an AI agent. In October 2025 it was 2.3%.\nThat month, 265 of the 450 merged at least one such PR; a year earlier, 84 did. In a few repos agents now write most of the code: 81% of VS Code’s merged PRs from 1 to 25 October, 47% ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "9cb09c09-29a0-47c0-af0f-850a811bad7c",
+      "name": "TeamOnly",
+      "url": "https://teamonly.dev/",
+      "oneLiner": "You built something useful with Claude Code or Cursor.",
+      "description": "Dana Okafor\ndana\nPrivate hosting for internal tools built with AI\nYou built something useful with Claude Code or Cursor. Type one command and it is online at a private link that only your coworkers can open, with their work Google or Microsoft account or a code sent to their work email. We take care of the security. You don’t write any of it.\nNo card needed for the trial. Then from $19 a month. Yo",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "data",
         "code",
         "design"
       ]
     },
     {
-      "id": "c2daff72-4d16-4164-8985-906c681e2cd6",
-      "name": "Kiosk",
-      "url": "https://kiosk.tech/",
-      "oneLiner": "A personal AI assistant opens an account at an online service, reads what it offers, books, orders, posts, pays, and hears back when something happens.",
-      "description": "A personal AI assistant opens an account at an online service, reads what it offers, books, orders, posts, pays, and hears back when something happens. It registers with no email and no password. Extensive usage is tolled with memory-hard compute.\nI sent the assistant on my laptop to book a table for two. It was shown a CAPTCHA, blocked by the CDN, and banned by the service.\nCloudflare lets an ass",
+      "id": "c75b3c74-a1d0-4fb8-95ab-70fb72f33446",
+      "name": "Simstim",
+      "url": "https://github.com/pgrekovich/simstim",
+      "oneLiner": "A local call recorder for macOS.",
+      "description": "A local call recorder for macOS. It transcribes on your Mac and writes\neach call to a Markdown file you own.\nDownload · Website · Install · How it works · Privacy\nmacOS 14.2+ · Apple Silicon · Free · MIT license · Signed and notarized\nSimstim records your microphone and system audio as two channels, transcribes them with local speech models and saves the call as a Markdown file, with the audio bes",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
+        "data",
         "code",
-        "design"
+        "voice"
       ]
     },
     {
-      "id": "b98ea3a6-f98a-4265-9af4-712a91a933c0",
-      "name": "TraderWAI",
-      "url": "https://github.com/leonardo-mazzitelli/traderwai-agent-recipes",
-      "oneLiner": "Ready-to-use prompts and agent setups for trading with AI through TraderWAI, a hosted MCP server that lets Claude, ChatGPT, Grok and Cursor read live charts, run backtests on 1-min",
-      "description": "Ready-to-use prompts and agent setups for trading with AI through TraderWAI, a hosted MCP server that lets Claude, ChatGPT, Grok and Cursor read live charts, run backtests on 1-minute history and work with your own broker account (MetaTrader 4/5, cTrader, TradeLocker, Match-Trader, DXtrade, Capital.com, tastytrade, Binance, Bybit).\nCopy a recipe, paste it into your AI, adjust the symbol and your r",
-      "pricing": "free",
+      "id": "972ba971-bb1a-47ce-b40f-b450e1067811",
+      "name": "AI Hustle Team",
+      "url": "https://aihustleteam.com/",
+      "oneLiner": "“In a lot of ways, the IT department of every company is going to be the HR department of AI agents in the future,” said Huang during the keynote.",
+      "description": "NVIDIA’s Jensen Huang says that IT will ‘become the HR of AI agents’\n“In a lot of ways, the IT department of every company is going to be the HR department of AI agents in the future,” said Huang during the keynote.\nRead the sourceStop working alone. Get an AI team that works for you 24/7.\nTry It 100% FREE — No Card Required\nThe real app, recorded with a demo business. Your AI team does the work —",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "923b90db-313a-4d76-a0e9-65611bb012c3",
-      "name": "Askaboard",
-      "url": "https://askaboard.com",
-      "oneLiner": "A shared canvas for learning with your AI.",
-      "description": "Ask anything.\nLearn anything.\nA shared canvas for learning with your AI.\nDownload for MacOpen source on GitHubConnect your agent\nConnect Claude, ChatGPT or Cursor over MCP, using your existing subscription. Askaboard is free.\nOpen a board, start learning\nFree and open source · Apple silicon and Intel\nwhy is the sky blue?\nwhy is the sky blue?\nI cannot solve it, help me?\nI cannot solve it, help me?\n",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
+        "design",
+        "writing",
         "agents"
       ]
     },
     {
-      "id": "7f50c2f7-8a46-4a18-bf74-ce59c7af952d",
-      "name": "Open-source customer-facing agents",
-      "url": "https://github.com/radioso-ai/radioso",
-      "oneLiner": "Radioso Cloud · Docs · Why Radioso?",
-      "description": "Radioso Cloud · Docs · Why Radioso? · Run locally · API reference · Contributing\nTried Parlant but wanting batteries included? Or looking for an open-source alternative for Fin, Rasa or Ada.cx?\nRadioso is the platform for steering LLM conversations according to your rules. It answers from the documents you gave it, with citations so you can check its work. It carries a request across turns: collec",
+      "id": "fb3311e5-2879-40bb-9e6f-c5c2c4270b23",
+      "name": "Eigin. Local-first and no-shell personal AI for iOS",
+      "url": "https://github.com/Eigin-AI/Eigin",
+      "oneLiner": "Eigin is a personal AI agent built to be private, safe and under your control.",
+      "description": "Eigin is a personal AI agent built to be private, safe and under your control.\nOur places for reflection used to be private. Now we think out loud with AI, and every word lands on a corporate server.\nTechnology this personal should belong to the people who use it. That's why we're building Eigin.\nAvailable on iOS. See what's new in the changelog.\n- Personal context. An on-device knowledge graph of",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
-        "rag"
+        "voice",
+        "agents"
       ]
     },
     {
-      "id": "c1f11494-bf74-4e21-97ae-261ff3edb798",
+      "id": "17dffd33-e242-420b-a682-719f867221fb",
+      "name": "Chatty",
+      "url": "https://github.com/PersonaliAI/chatty",
+      "oneLiner": "Open-source AI agent trained on your store and content.",
+      "description": "English · 简体中文 · 日本語 · Español\nOpen-source AI agent trained on your store and content.\nAnswers customer questions, captures leads, and books meetings on website, WhatsApp & Slack.\n🚀 Live Demo · ☁️ Chatty Cloud (Free 14-day trial) · ⚡ Quickstart (5 min) · 📖 Documentation\nChatty is an open-source, self-hostable Zendesk and Intercom alternative for stores and modern businesses that need autonomous AI",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/PersonaliAI/chatty.git",
+      "categories": [
+        "data",
+        "code",
+        "voice"
+      ]
+    },
+    {
+      "id": "e9c61655-d78c-48ea-896a-2a13c9999d97",
+      "name": "Grai",
+      "url": "https://grai.page/#test",
+      "oneLiner": "Vague style adjectives like \"witty\" or \"authoritative\" mean nothing to a machine.",
+      "description": "Voice DNA Extraction\nVague style adjectives like \"witty\" or \"authoritative\" mean nothing to a machine. grai ingests 5 to 20 of your past posts and extracts your mathematical fingerprint: median sentence length, burstiness (CV), and rhythm floor.\nSolo from $79/yr Local-first HTML5 workbench Instant launch\nYour draft goes out under your name, to a client, an investor, a board. One generic line and i",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "writing",
+        "security"
+      ]
+    },
+    {
+      "id": "f6bd2b1c-2d2a-4eb8-b891-426b8266c12f",
       "name": "ai-manus",
       "url": "https://github.com/Gigachad-byte/ai-manus",
       "oneLiner": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
@@ -130,17 +184,17 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "productivity"
       ]
     },
     {
-      "id": "2060d494-a653-435d-ae73-b9d70abc935a",
+      "id": "649264f2-70d4-4fff-b817-3907f704ae7c",
       "name": "ai-crew-pass",
       "url": "https://github.com/fanhuayishiy/ai-crew-pass",
       "oneLiner": "npm run dev -- --host 127.",
-      "description": "给九位 AI 同事，发一张可以晃的工牌。\n在线领取工牌 · English demo · 许可证与素材说明\n一个支持中文 / English 的 AI 同人工牌小项目：拖动挂绳、松手回摆、点击翻面，再把喜欢的工牌下载下来。由 风花AI实验室 分享。\n如果你也喜欢 AI 创作、实用工具和有趣的小实验，欢迎关注微信公众号 「风花AI实验室」。后续项目更新与制作分享会在这里交流。\n微信扫码关注，或保存二维码后在微信中识别。\n- 九位 AI 同事：DeepSeek、ChatGPT、GLM、Qwen、Gemini、Claude、Kimi、Grok、豆包。\n- React Bits 官方 Lanyard 的 3D 挂绳、拖拽回摆与翻面；同色系 ShinyText 背景扫光。\n- 正面贴图在 HTML 阶段高优先级预加载，正反面与挂绳独立显示；展示纹理采用同分辨率 WebP（背面无损），PNG 下载保留",
+      "description": "给九位 AI 同事，发一张可以晃的工牌。\n在线领取工牌 · English demo · 许可证与素材说明\n一个支持中文 / English 的 AI 同人工牌小项目：拖动挂绳、松手回摆、点击翻面，再把喜欢的工牌下载下来。由 风花AI实验室 分享。\n如果你也喜欢 AI 创作、实用工具和有趣的小实验，欢迎关注微信公众号 「风花AI实验室」。后续项目更新与制作分享会在这里交流。\n微信扫码关注，或保存二维码后在微信中识别。\n- 九位 AI 同事：DeepSeek、ChatGPT、GLM、Qwen、Gemini、Claude、Kimi、Grok、豆包。\n- 九位角色均可在原版和 Q 版形象之间切换，展示与下载同步更新；选择保存在当前浏览器。\n- React Bits 官方 Lanyard 的 3D 挂绳、拖拽回摆与翻面；同色系 ShinyText 背景扫光。\n- 正面贴图在 HTML 阶段高优先级",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -152,7 +206,7 @@
       ]
     },
     {
-      "id": "0e70da3b-0e1c-4515-90a4-f1e9a2f20eb9",
+      "id": "5f21b42e-bb6b-44c7-a197-6df19b3f6b5a",
       "name": "WebsiteBench",
       "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
       "oneLiner": "Given a production-level website they can explore through a browser, agents must reverse-engineer a full-stack version that matches its appearance and behavior as closely as possib",
@@ -163,17 +217,101 @@
       "isOpenSource": true,
       "githubUrl": "https://github.com/TIGER-AI-Lab/WebsiteBench",
       "categories": [
-        "agents",
         "code",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "3a12f466-a2e0-42f8-90c3-d4328a73fc2b",
-      "name": "Fold Epic Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "oneLiner": "Airplanes match your search.",
-      "description": "Home\nShop\nContest\nBlog\nBook Kyle\nMore\nPaper Type\nAirplanes match your search.\n109\nTry one of our recommended planes!\nClick on any plane to fold it!\nSpeed:\n5\nIntermediate\nGlide:\n10\n4\nAccuracy:\nThis World Record prototype can fly over 300 feet!!!\n2\nUnite holds the world record for time aloft at 31.2 seconds!\n7\nEasy\n6\nTutorials for Arrowhead have been viewed over 100 million times!\nCorsair is great f",
+      "id": "271fc522-30a8-4de6-869b-a442b8a579c9",
+      "name": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "oneLiner": "I can only speculate as to the reasons why I was laid off from Meta in May, but I suspect that one of the reasons is that I was a little bit more resistant to adopting AI/LLMs as c",
+      "description": "AI usage generates a fragile codebase\nI can only speculate as to the reasons why I was laid off from Meta in May, but I suspect that one of the reasons is that I was a little bit more resistant to adopting AI/LLMs as coding tools than some of my peers. Don't get me wrong, I generated at least 90% of my code using AI in my last few months there, which was the minimum for a decent rating. But AI did",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "marketing",
+        "rag"
+      ]
+    },
+    {
+      "id": "64b90e19-d101-49bc-a2c8-098b283aae79",
+      "name": "Padwan AI",
+      "url": "https://polarsen-io.github.io/padwan-ai/",
+      "oneLiner": "Lightweight async client for OpenAI, Gemini, Mistral, Grok, Anthropic, ElevenLabs (experimental), Gradium (experimental), TypeSafe (JEV, experimental), and any OpenAI-compatible AP",
+      "description": "Padwan AI\nLightweight async client for OpenAI, Gemini, Mistral, Grok, Anthropic, ElevenLabs (experimental), Gradium (experimental), TypeSafe (JEV, experimental), and any OpenAI-compatible API.\nWhy\nMost LLM client libraries pull in a stack of dependencies and lock you into a single provider's SDK. Padwan AI takes a different approach:\n- One dependency — niquests, nothing else. No provider SDKs: Pad",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "voice",
+        "audio"
+      ]
+    },
+    {
+      "id": "462eaca8-32aa-44fd-89b7-f8629f4033d6",
+      "name": "pvewarden",
+      "url": "https://github.com/matousfiser/pvewarden",
+      "oneLiner": "Agent-safe patching of Proxmox VE guests over MCP.",
+      "description": "Agent-safe patching of Proxmox VE guests over MCP.\npvewarden lets an AI agent keep your Proxmox VMs and containers up to date. It works with Claude Code or any other MCP client. The agent checks pending updates, takes a snapshot, installs, reboots and verifies services. It never gets a shell or root. It can only call a small set of tools, and Proxmox and the server decide what it may do, not the p",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/matousfiser/pvewarden",
+      "categories": [
+        "code",
+        "security",
+        "agents"
+      ]
+    },
+    {
+      "id": "7a4808af-e96b-4f1f-be25-c19dfb4af627",
+      "name": "AI Vision Index",
+      "url": "https://aivisionindex.com/",
+      "oneLiner": "Independent, private tests of how well AI actually sees.",
+      "description": "Independent tests of AI vision\nIndependent, private tests of how well AI actually sees.\nCan an AI model read a pressure gauge, or count the boxes on a pallet? We check with pictures and clips we make ourselves and never publish, so no model has seen them before.\nUpdated 36 models29 tests70,000+ answers scored\nLeaderboard\nThe AI Vision Index\nEach score is a model’s average across six skill categori",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "video"
+      ]
+    },
+    {
+      "id": "9ab1207c-1d9b-44ee-950b-fed336b6f660",
+      "name": "VoxaDub",
+      "url": "https://github.com/kadirb4rut/voxadub",
+      "oneLiner": "Your video, in another language — with a voice that stays familiar.",
+      "description": "Your video, in another language — with a voice that stays familiar.\nLocal-first offline dubbing · Experimental live broadcast dubbing\n🌟 Listed in OpenBMB/VoxCPM — Ecosystem & Community · PR #389\n🎬 Watch the film · Features · Quick Start · Documentation · v0.1.0 release\nFrom source video to dubbed video: dialogue is transcribed, translated with Hy-MT2, and voiced with speaker-aware VoxCPM2 referenc",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/kadirb4rut/voxadub.git",
+      "categories": [
+        "code",
+        "voice",
+        "video"
+      ]
+    },
+    {
+      "id": "7eedd3ef-dd3e-4e4f-963d-cb8017114e01",
+      "name": "Cosh",
+      "url": "https://github.com/DiegoZaluski/co-sh",
+      "oneLiner": "Cosh is a general-purpose coding agent for the terminal, with software engineering tools and computer tools that let it interact with graphical applications.",
+      "description": "English | Português | Español | Русский | 中文 | 日本語\nCosh is a general-purpose coding agent for the terminal, with software engineering tools and computer tools that let it interact with graphical applications.\nHighlights:\n- Multi-agent mode (\n/agents\n) — run external agents (Gemini, Claude, Codex, Cline, …) alongside the main agent in split panes, all reachable from the same prompt. Each agent keep",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -182,39 +320,7 @@
       "categories": [
         "code",
         "design",
-        "research"
-      ]
-    },
-    {
-      "id": "730ceedc-6793-4328-9480-ac41145c7f45",
-      "name": "Ginux",
-      "url": "https://zenodo.org/records/23682548",
-      "oneLiner": "This report presents Human-Directed Agentic Engineering (HDAE), a method for building complex software by combining human-defined architecture, constraints, milestones, acceptance ",
-      "description": "Ginux: Building an Independent Kernel That Runs Linux Userspace through Human-Directed Agentic Engineering\nDescription\nThis report presents Human-Directed Agentic Engineering (HDAE), a method for building complex software by combining human-defined architecture, constraints, milestones, acceptance criteria, and stopping points with an autonomous implementation, execution, diagnosis, and revision l",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/gmkurtzer/ginux",
-      "categories": [
-        "agents",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "d3500cfd-50b3-46ae-b827-52d97a181a39",
-      "name": "Native Tcl/Tk Wayland and Android Port",
-      "url": "https://github.com/pounceandmiss/tkabber-demo",
-      "oneLiner": "It is signed with a debug key.",
-      "description": "A demonstration of Tk for Android\n(the android\nbranch of tk-wayland\n, which also has the native Wayland port):\nTkabber, a\nfull-featured XMPP client written in Tcl/Tk over two decades, running as a\nnative Android app. Tkabber's code is unchanged except for one small fix (below);\nthe work is in the Tk port, which was written mostly by Claude with human\nsupervision.\nDownload tkabber-android-arm64.apk",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design"
+        "agents"
       ]
     }
   ]
