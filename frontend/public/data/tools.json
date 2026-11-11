@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T14:27:47.900832+00:00",
-  "count": 19,
+  "generatedAt": "2026-11-11T13:41:37.449211+00:00",
+  "count": 18,
   "tools": [
     {
-      "id": "86384c6b-d3c1-4246-8073-aa7f85b45e7a",
+      "id": "3cfaf151-79d3-425d-a819-7b7f6d88ecef",
       "name": "project-lighthouse",
       "url": "https://github.com/professorsolderin/project-lighthouse",
       "oneLiner": "Famous scientists left behind huge piles of handwritten pages that are digitized but essentially unread.",
@@ -15,16 +15,33 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "voice",
+        "image",
+        "voice"
+      ]
+    },
+    {
+      "id": "96149775-2119-43bd-9638-24ee1eb8190b",
+      "name": "OSS projects banning AI-generated contributions",
+      "url": "https://osssaysno.com",
+      "oneLiner": "High performance self-hosted photo and video management solution.",
+      "description": "immich\nBannedimmich-app/immich\nHigh performance self-hosted photo and video management solution.\nWe ask you not to open PRs generated with an LLM.\n- Platform\n- GitHub\n- Category\n- Other\n- Scope\n- code, docs, issues\nOSS projects banning AI-generated contributions, and a broader catalogue of AI contribution policies across the industry.\nLast refreshed\nPaste a GitHub repository link. It opens a prefi",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/owner/repo",
+      "categories": [
+        "code",
+        "agents",
         "image"
       ]
     },
     {
-      "id": "bfee7525-becc-4a32-b8c9-97abac0479f0",
-      "name": "kota",
-      "url": "https://github.com/ensignalp/kota",
-      "oneLiner": "AI hizmetlerinin kullanım limitlerini GNOME üst panelinde gösterir: orijinal logolarla yüzde, halka göstergeler, sıfırlanma ve \"bu hızla dolar\" tahmini, son 24 saatin token grafiği",
-      "description": "AI hizmetlerinin kullanım limitlerini GNOME üst panelinde gösterir: orijinal logolarla yüzde, halka göstergeler, sıfırlanma ve \"bu hızla dolar\" tahmini, son 24 saatin token grafiği ve çalışan AI ajanları (proje, bellek, portlar, durdur).\nNerede görünür (Ayarlar → Yerleşim; her biri ayrı açılır/kapanır):\n- Üst panel: logo + yüzde (sol/orta/sağ ve sıra seçilebilir); tıklayınca ana pencere.\nBirden fa",
+      "id": "ab862c34-a9a3-4dae-8673-5dee2a75a0f6",
+      "name": "Beam",
+      "url": "https://github.com/notaharness/beam",
+      "oneLiner": "Run shells, commands and agents across the machines you own.",
+      "description": "Run shells, commands and agents across the machines you own.\nbeam connects your laptop, workstation and headless boxes with one passkey. Open a remote shell, run a build on another machine, or queue a durable message until it comes online. A single Go binary provides the daemon and CLI, with no SSH keys to manage or Tailscale account required. Built on Tailcat from Tailscale.\nPair beam with tmux t",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -32,16 +49,84 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
+        "agents",
         "security"
       ]
     },
     {
-      "id": "d98a7dda-63c2-4bbc-a1b1-46eff8412981",
-      "name": "We checked 312 AI-built apps",
-      "url": "https://launchpal.app/guides/vibe-coded-app-statistics",
-      "oneLiner": "Building an app with Lovable, Bolt, Base44 or Cursor now takes a weekend.",
-      "description": "Building an app with Lovable, Bolt, Base44 or Cursor now takes a weekend. Getting strangers to find it and sign up is harder. We wanted to see how ready the apps people actually ship are for that part.\nSo in the first days of November 2026 we ran our launch check on 312 apps that their makers had shared in public: showcase sites like Made with Lovable and Made with Bolt, and launch posts in Reddit",
+      "id": "94f251c9-4420-4534-a7bf-5b307c2479db",
+      "name": "Editmamei",
+      "url": "https://github.com/editmamei/editmamei",
+      "oneLiner": "AI photo editing in Photoshop and GIMP.",
+      "description": "AI photo editing in Photoshop and GIMP.\nLet AI do the parts of the edit you don't want to, and keep your favorite parts for yourself. It works in Photoshop or GIMP with real tools, layer by layer, so every step stays editable and the final touches are yours. A desktop MCP server for Claude and other MCP-compatible AI apps.\nFor photographers, retouchers and designers who want AI to speed up the wor",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/editmamei/editmamei.git",
+      "categories": [
+        "code",
+        "agents",
+        "image"
+      ]
+    },
+    {
+      "id": "31984f9e-805f-415e-8542-51a93e0728d0",
+      "name": "Episteme AI",
+      "url": "https://github.com/SreeNaresh1/episteme-ai",
+      "oneLiner": "Live Demo (no login required): episteme-ai-one.",
+      "description": "╔══════════════════════════════════════════════════════════════════════════════╗\n║ ║\n║ ███████╗██████╗ ██╗███████╗████████╗███████╗███╗ ███╗███████╗ ║\n║ ██╔════╝██╔══██╗██║██╔════╝╚══██╔══╝██╔════╝████╗ ████║██╔════╝ ║\n║ █████╗ ██████╔╝██║███████╗ ██║ █████╗ ██╔████╔██║█████╗ ║\n║ ██╔══╝ ██╔═══╝ ██║╚════██║ ██║ ██╔══╝ ██║╚██╔╝██║██╔══╝ ║\n║ ███████╗██║ ██║███████║ ██║ ███████╗██║ ╚═╝ ██║███████╗ ║\n║",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/SreeNaresh1/episteme-ai.git",
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "41ab0291-4ef2-4f8d-a639-f56ad151b08c",
+      "name": "I checked 10 AI-written patches to real C++ projects",
+      "url": "https://unfix.dev/",
+      "oneLiner": "Your AI agent says it's fixed.",
+      "description": "The second key for AI-written C/C++ and firmware\nWe unfix your fix —\nto prove it.\nYour AI agent says it's fixed. Unfix doesn't write code — it reproduces the bug, applies the fix, re-runs the evidence, then pulls the fix back out and checks the bug returns. Then it gives one deterministic verdict: VERIFIED, REJECTED or NOT VERIFIABLE (when the evidence can't decide).\nWatch it on real hardware\nAI w",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "f2eb9f03-f139-4836-be32-e53722da6c8b",
+      "name": "Outlier",
+      "url": "https://outlier.host/",
+      "oneLiner": "Outlier runs the model on your own Mac, so by default your code and chats stay on it.",
+      "description": "Outlier runs the model on your own Mac, so by default your code and chats stay on it. Pull the plug on the internet and it keeps answering.\nIt’s built for the work you’d rather not send to a cloud AI. With Pro it can read your codebase, edit files, run your tests and search the web. Your chats and files stay on your Mac, and there is no usage cap. Nothing you type leaves your Mac unless you turn o",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "b72aee28-8039-44a8-8c1c-6642a5545d67",
+      "name": "Kodelyth ECC",
+      "url": "https://ecc.kodelyth.com",
+      "oneLiner": "AI coding toolkit that already knows your intent.",
+      "description": "AI coding toolkit that already knows your intent.\n71 specialist AI agents · 196 skills · 104 slash commands · MCP server · RTK input compression · Terse output compression · codebase graph across 158 languages. All local. Zero telemetry.\nnpm i -g kodelyth-ecc\nEvery layer local. Every layer real.\nMost \"AI agent kits\" are folders of markdown files you have to remember the names of. ECC is infrastruc",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -49,131 +134,63 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
+        "agents",
         "marketing"
       ]
     },
     {
-      "id": "ab41f7be-6e4b-4da3-8016-48d927fefd7c",
-      "name": "Is AI code rotting open source? 450 repos",
-      "url": "https://coderot.ai/blog/ai-code-rot-in-open-source",
-      "oneLiner": "Is AI code rotting open source?",
-      "description": "Is AI code rotting open source? 450 repos, 12 months\nIn September 2026, the average one of 450 of GitHub’s most popular repos had 11.5% of its merged pull requests signed by an AI agent. In October 2025 it was 2.3%.\nThat month, 265 of the 450 merged at least one such PR; a year earlier, 84 did. In a few repos agents now write most of the code: 81% of VS Code’s merged PRs from 1 to 25 October, 47% ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "data",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "9cb09c09-29a0-47c0-af0f-850a811bad7c",
-      "name": "TeamOnly",
-      "url": "https://teamonly.dev/",
-      "oneLiner": "You built something useful with Claude Code or Cursor.",
-      "description": "Dana Okafor\ndana\nPrivate hosting for internal tools built with AI\nYou built something useful with Claude Code or Cursor. Type one command and it is online at a private link that only your coworkers can open, with their work Google or Microsoft account or a code sent to their work email. We take care of the security. You don’t write any of it.\nNo card needed for the trial. Then from $19 a month. Yo",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "data",
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "c75b3c74-a1d0-4fb8-95ab-70fb72f33446",
-      "name": "Simstim",
-      "url": "https://github.com/pgrekovich/simstim",
-      "oneLiner": "A local call recorder for macOS.",
-      "description": "A local call recorder for macOS. It transcribes on your Mac and writes\neach call to a Markdown file you own.\nDownload · Website · Install · How it works · Privacy\nmacOS 14.2+ · Apple Silicon · Free · MIT license · Signed and notarized\nSimstim records your microphone and system audio as two channels, transcribes them with local speech models and saves the call as a Markdown file, with the audio bes",
+      "id": "90dd0ddc-6ea9-4782-9758-a1712ec4d3a0",
+      "name": "Aiproxy",
+      "url": "https://github.com/cucooOnGithub/aiproxy",
+      "oneLiner": "aiproxy is free and keeps your data on your machine.",
+      "description": "aiproxy is free and keeps your data on your machine. If it saves you from leaking PII to an LLM provider, buy me a coffee ☕ — it funds the time that keeps the project maintained.\nAnonymizing reverse proxy for LLM APIs. Point Claude Code (or any AI tool) at aiproxy; it scrubs people/company names and other sensitive content with a local LLM before forwarding to Anthropic, then restores the original",
       "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/cucooOnGithub/aiproxy.git",
       "categories": [
-        "data",
         "code",
-        "voice"
-      ]
-    },
-    {
-      "id": "972ba971-bb1a-47ce-b40f-b450e1067811",
-      "name": "AI Hustle Team",
-      "url": "https://aihustleteam.com/",
-      "oneLiner": "“In a lot of ways, the IT department of every company is going to be the HR department of AI agents in the future,” said Huang during the keynote.",
-      "description": "NVIDIA’s Jensen Huang says that IT will ‘become the HR of AI agents’\n“In a lot of ways, the IT department of every company is going to be the HR department of AI agents in the future,” said Huang during the keynote.\nRead the sourceStop working alone. Get an AI team that works for you 24/7.\nTry It 100% FREE — No Card Required\nThe real app, recorded with a demo business. Your AI team does the work —",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
         "design",
-        "writing",
-        "agents"
+        "data"
       ]
     },
     {
-      "id": "fb3311e5-2879-40bb-9e6f-c5c2c4270b23",
-      "name": "Eigin. Local-first and no-shell personal AI for iOS",
-      "url": "https://github.com/Eigin-AI/Eigin",
-      "oneLiner": "Eigin is a personal AI agent built to be private, safe and under your control.",
-      "description": "Eigin is a personal AI agent built to be private, safe and under your control.\nOur places for reflection used to be private. Now we think out loud with AI, and every word lands on a corporate server.\nTechnology this personal should belong to the people who use it. That's why we're building Eigin.\nAvailable on iOS. See what's new in the changelog.\n- Personal context. An on-device knowledge graph of",
+      "id": "8d685903-37b4-466a-a84a-aa15db54f0d8",
+      "name": "Pots",
+      "url": "https://github.com/Crokily/pi-durable-bot",
+      "oneLiner": "The open-source Grok Bot alternative: an AI coworker that acts on its own.",
+      "description": "The open-source Grok Bot alternative: an AI coworker that acts on its own.\nIt reads every channel, email and event you give it, decides what matters,\ndoes the work on its own computer, and speaks up when it should.\nDemo · Compare · Quick start · How it decides · How it works\n⭐ If Pots is useful to you, a star helps other people find it.\nTip\nSetting this up with an AI agent, such as Claude Code, Co",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/Crokily/pi-durable-bot",
       "categories": [
         "code",
-        "voice",
-        "agents"
-      ]
-    },
-    {
-      "id": "17dffd33-e242-420b-a682-719f867221fb",
-      "name": "Chatty",
-      "url": "https://github.com/PersonaliAI/chatty",
-      "oneLiner": "Open-source AI agent trained on your store and content.",
-      "description": "English · 简体中文 · 日本語 · Español\nOpen-source AI agent trained on your store and content.\nAnswers customer questions, captures leads, and books meetings on website, WhatsApp & Slack.\n🚀 Live Demo · ☁️ Chatty Cloud (Free 14-day trial) · ⚡ Quickstart (5 min) · 📖 Documentation\nChatty is an open-source, self-hostable Zendesk and Intercom alternative for stores and modern businesses that need autonomous AI",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/PersonaliAI/chatty.git",
-      "categories": [
         "data",
-        "code",
-        "voice"
+        "image"
       ]
     },
     {
-      "id": "e9c61655-d78c-48ea-896a-2a13c9999d97",
-      "name": "Grai",
-      "url": "https://grai.page/#test",
-      "oneLiner": "Vague style adjectives like \"witty\" or \"authoritative\" mean nothing to a machine.",
-      "description": "Voice DNA Extraction\nVague style adjectives like \"witty\" or \"authoritative\" mean nothing to a machine. grai ingests 5 to 20 of your past posts and extracts your mathematical fingerprint: median sentence length, burstiness (CV), and rhythm floor.\nSolo from $79/yr Local-first HTML5 workbench Instant launch\nYour draft goes out under your name, to a client, an investor, a board. One generic line and i",
-      "pricing": "paid",
+      "id": "e614e9fe-6fa3-4d8c-8d9a-453f2f0250d6",
+      "name": "Obeya",
+      "url": "https://github.com/sadilek/obeya",
+      "oneLiner": "A spatial workspace for directing AI coding agents the way an engineering director directs a team.",
+      "description": "A spatial workspace for directing AI coding agents the way an engineering director directs a team. Every task and every project is a card on one canvas. Agents do the work in the background; you keep every essential decision — made by voice, from a narrated demo of the finished work, without reading code or cycling through terminals. At your desk or from your phone.\nObeya is Japanese for \"big room",
+      "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/sadilek/obeya.git",
       "categories": [
         "code",
-        "writing",
-        "security"
+        "agents",
+        "design"
       ]
     },
     {
-      "id": "f6bd2b1c-2d2a-4eb8-b891-426b8266c12f",
+      "id": "3930825c-5ddc-4b77-a186-8e978b899c63",
       "name": "ai-manus",
       "url": "https://github.com/Gigachad-byte/ai-manus",
       "oneLiner": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
@@ -190,7 +207,7 @@
       ]
     },
     {
-      "id": "649264f2-70d4-4fff-b817-3907f704ae7c",
+      "id": "61999691-bf56-4bee-8d6d-516471720ca7",
       "name": "ai-crew-pass",
       "url": "https://github.com/fanhuayishiy/ai-crew-pass",
       "oneLiner": "npm run dev -- --host 127.",
@@ -206,112 +223,28 @@
       ]
     },
     {
-      "id": "5f21b42e-bb6b-44c7-a197-6df19b3f6b5a",
-      "name": "WebsiteBench",
-      "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
-      "oneLiner": "Given a production-level website they can explore through a browser, agents must reverse-engineer a full-stack version that matches its appearance and behavior as closely as possib",
-      "description": "Given a production-level website they can explore through a browser, agents must reverse-engineer a full-stack version that matches its appearance and behavior as closely as possible.\n70 websites and 46,916 hidden test cases, on Harbor Hub and Hugging Face. See the task list.\nDownload them with the PyPI package:\npip install websitebench\nwebsitebench download --task medium\nuv tool install harbor==0",
+      "id": "46e61193-4c99-441c-bfe9-d150f8be5e99",
+      "name": "xnews",
+      "url": "https://github.com/joeseesun/xnews",
+      "oneLiner": "python -m pip install -r requirements.",
+      "description": "海外创始人长帖 / X Articles / 爆款 AI 视频 → 完整、自然的中文改写（含原媒体），附原文链接。\n- Live: https://xnews.qiaomu.ai\n- RSS: https://xnews.qiaomu.ai/feed.xml\n- UI: D「影像刊」visual journal; design contract:\nDESIGN.md\n- Hosting: Nginx static files on\nqiaomu-hostinger\n; Workerxnews\nis a fallback. SeeDEPLOYMENT.md\n.\npython3 -m venv .venv\nsource .venv/bin/activate\npython -m pip install -r requirements.txt\nnpm install\nnpm test\nnpm ru",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
         "code",
         "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "271fc522-30a8-4de6-869b-a442b8a579c9",
-      "name": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-      "oneLiner": "I can only speculate as to the reasons why I was laid off from Meta in May, but I suspect that one of the reasons is that I was a little bit more resistant to adopting AI/LLMs as c",
-      "description": "AI usage generates a fragile codebase\nI can only speculate as to the reasons why I was laid off from Meta in May, but I suspect that one of the reasons is that I was a little bit more resistant to adopting AI/LLMs as coding tools than some of my peers. Don't get me wrong, I generated at least 90% of my code using AI in my last few months there, which was the minimum for a decent rating. But AI did",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "marketing",
-        "rag"
-      ]
-    },
-    {
-      "id": "64b90e19-d101-49bc-a2c8-098b283aae79",
-      "name": "Padwan AI",
-      "url": "https://polarsen-io.github.io/padwan-ai/",
-      "oneLiner": "Lightweight async client for OpenAI, Gemini, Mistral, Grok, Anthropic, ElevenLabs (experimental), Gradium (experimental), TypeSafe (JEV, experimental), and any OpenAI-compatible AP",
-      "description": "Padwan AI\nLightweight async client for OpenAI, Gemini, Mistral, Grok, Anthropic, ElevenLabs (experimental), Gradium (experimental), TypeSafe (JEV, experimental), and any OpenAI-compatible API.\nWhy\nMost LLM client libraries pull in a stack of dependencies and lock you into a single provider's SDK. Padwan AI takes a different approach:\n- One dependency — niquests, nothing else. No provider SDKs: Pad",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "voice",
-        "audio"
-      ]
-    },
-    {
-      "id": "462eaca8-32aa-44fd-89b7-f8629f4033d6",
-      "name": "pvewarden",
-      "url": "https://github.com/matousfiser/pvewarden",
-      "oneLiner": "Agent-safe patching of Proxmox VE guests over MCP.",
-      "description": "Agent-safe patching of Proxmox VE guests over MCP.\npvewarden lets an AI agent keep your Proxmox VMs and containers up to date. It works with Claude Code or any other MCP client. The agent checks pending updates, takes a snapshot, installs, reboots and verifies services. It never gets a shell or root. It can only call a small set of tools, and Proxmox and the server decide what it may do, not the p",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/matousfiser/pvewarden",
-      "categories": [
-        "code",
-        "security",
-        "agents"
-      ]
-    },
-    {
-      "id": "7a4808af-e96b-4f1f-be25-c19dfb4af627",
-      "name": "AI Vision Index",
-      "url": "https://aivisionindex.com/",
-      "oneLiner": "Independent, private tests of how well AI actually sees.",
-      "description": "Independent tests of AI vision\nIndependent, private tests of how well AI actually sees.\nCan an AI model read a pressure gauge, or count the boxes on a pallet? We check with pictures and clips we make ourselves and never publish, so no model has seen them before.\nUpdated 36 models29 tests70,000+ answers scored\nLeaderboard\nThe AI Vision Index\nEach score is a model’s average across six skill categori",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "video"
       ]
     },
     {
-      "id": "9ab1207c-1d9b-44ee-950b-fed336b6f660",
-      "name": "VoxaDub",
-      "url": "https://github.com/kadirb4rut/voxadub",
-      "oneLiner": "Your video, in another language — with a voice that stays familiar.",
-      "description": "Your video, in another language — with a voice that stays familiar.\nLocal-first offline dubbing · Experimental live broadcast dubbing\n🌟 Listed in OpenBMB/VoxCPM — Ecosystem & Community · PR #389\n🎬 Watch the film · Features · Quick Start · Documentation · v0.1.0 release\nFrom source video to dubbed video: dialogue is transcribed, translated with Hy-MT2, and voiced with speaker-aware VoxCPM2 referenc",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/kadirb4rut/voxadub.git",
-      "categories": [
-        "code",
-        "voice",
-        "video"
-      ]
-    },
-    {
-      "id": "7eedd3ef-dd3e-4e4f-963d-cb8017114e01",
-      "name": "Cosh",
-      "url": "https://github.com/DiegoZaluski/co-sh",
-      "oneLiner": "Cosh is a general-purpose coding agent for the terminal, with software engineering tools and computer tools that let it interact with graphical applications.",
-      "description": "English | Português | Español | Русский | 中文 | 日本語\nCosh is a general-purpose coding agent for the terminal, with software engineering tools and computer tools that let it interact with graphical applications.\nHighlights:\n- Multi-agent mode (\n/agents\n) — run external agents (Gemini, Claude, Codex, Cline, …) alongside the main agent in split panes, all reachable from the same prompt. Each agent keep",
+      "id": "2ad44cca-3251-478d-a71f-d40f1be55471",
+      "name": "Google SWE points 48 AI agents at NASA Lidar",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "oneLiner": "By analyzing NASA lidar data, my AI agents discovered a Maya site in Mexico that, as far as anyone can tell, no one had reported before.",
+      "description": "My AI Agents Found an Unmapped Maya Site\nBy analyzing NASA lidar data, my AI agents discovered a Maya site in Mexico that, as far as anyone can tell, no one had reported before. It took less than 72 hours to go from a random thought while traveling to an official reply from the Mexican government. This is by far the best time ever to be alive.\nDisclaimer: I'm not an archaeologist.\nI'm going to tel",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -319,8 +252,57 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "agents"
+        "agents",
+        "search"
+      ]
+    },
+    {
+      "id": "63a090a7-c9bf-4af7-ab81-2c525c55d3fb",
+      "name": "Agent Buddies",
+      "url": "https://izr8809.github.io/agent-buddies/",
+      "oneLiner": "A growing cast of tiny companions that think, work, talk, and wait alongside your AI.",
+      "description": "Your agent has a job.\nLet your users pick\nits buddy.\nA growing cast of tiny companions that think, work, talk, and wait alongside your AI. One state set. Any buddy. Your users choose.\nPutting the pieces together…\nCharacter expressions you can understand at a glance.\nNo API calls. A deterministic event stream drives every buddy.\nDifferent faces.\nThe same little language.\nTen original buddies to sta",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "ac64c90e-d061-4b4e-8b17-963ff17666ea",
+      "name": "Ember.js",
+      "url": "https://auric.spa",
+      "oneLiner": "js inspired Rust framework for developing single page applications that compile to WASM.",
+      "description": "Auric is an Ember.js inspired Rust framework for developing single page applications that compile to WASM.\nFully typed, fully async, and based on Handlebars and JSON:API.\nDevelop your application using templates and controllers, for superior MVC maintainability.\nThen sit back and relax while the Auric build combines your routes, templates, and controllers into Leptos components, complete with all ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "id": "716dab22-988b-460f-9504-34025100c85a",
+      "name": "Halyard",
+      "url": "https://apps.apple.com/us/app/halyard-ai-agent-terminal/id6809046638",
+      "oneLiner": "Your AI agents, in your pocket.",
+      "description": "Your AI agents, in your pocket. Check on Claude Code, Codex and Gemini running on your servers, see which one needs you, and approve or answer from anywhere.\nHalyard is a terminal for work that outlives the connection.\nEvery session you open is a tmux session on your own server, reached over SSH. Close the lid, lose Wi-Fi, get on a plane - the command keeps running. When you come back, the session",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
       ]
     }
   ]
