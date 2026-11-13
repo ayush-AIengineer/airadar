@@ -1,9 +1,72 @@
 {
-  "generatedAt": "2026-11-12T14:45:03.864237+00:00",
-  "count": 12,
+  "generatedAt": "2026-11-13T14:02:09.265550+00:00",
+  "count": 18,
   "tools": [
     {
-      "id": "cfebbc61-0d43-4049-b194-8cfc2a57a9c1",
+      "id": "fc4e0381-4d5e-4b28-93a6-545c65e17b3e",
+      "name": "finops-token-drain-containment-for-extended-reasoning-workloads",
+      "url": "https://github.com/ConchaKoeshall8565/finops-token-drain-containment-for-extended-reasoning-workloads",
+      "oneLiner": "A systemic FinOps framework to eliminate capital drain during long-horizon reasoning loops (o3/Claude 3.",
+      "description": "A systemic FinOps framework to eliminate capital drain during long-horizon reasoning loops (o3/Claude 3.7) by enforcing issuer-level hardware quotas using isolated USDT-funded virtual cards. Modern frontier models rely heavily on dynamic reasoning tokens (e.g., extended thought chains in Claude 3.7 Sonnet, OpenAI o3, and DeepSeek-R1). A single complex debugging or migration session can quickly con",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "marketing"
+      ]
+    },
+    {
+      "id": "28b43bfd-43d2-41f8-9d0b-8426272bd8a5",
+      "name": "github-models-copilot-workspace-vcc",
+      "url": "https://github.com/ObiGeorgette0043/github-models-copilot-workspace-vcc",
+      "oneLiner": "github-models-copilot-workspace-vcc",
+      "description": "⚡ 2026 实战指南：手把手教你用 CoreGold 商业 VCC 搞定 GitHub Copilot & Models 结算\n随着 GitHub 深度整合 GitHub Models（支持在平台原生直接调用主流前沿大模型进行原型实验）并全面推开面向全代码库调度的 Copilot Workspace，技术团队批量采购 Copilot Business / Enterprise 席位（$19~$39/人/月）已成为标准工程流程。然而，企业在 GitHub Organization 结算后台绑定支付凭证时，经常遭遇由于发卡行属性不符或跨境交易触发风控导致的扣款失败。\n更为棘手的是，团队成员在月中频繁变动时会产生“按比例弹性划扣（Prorated Billing）”，国内发卡行对这种周期不固定的异地外币扣划极其敏感，极易被系统判定为高危交易直接锁卡，从而导致全公司开发团队的 Copilot 权",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "id": "3d07984d-d432-4a5a-a7b2-591f2c68017a",
+      "name": "runway-sora-video-ai-applepay-pipeline",
+      "url": "https://github.com/pawsdaniyal488-oss/runway-sora-video-ai-applepay-pipeline",
+      "oneLiner": "runway-sora-video-ai-applepay-pipeline",
+      "description": "⚡ 2026 实战指南：手把手教你用 CoreGold 商业 VCC 挂载 Apple Pay 秒级拿下 Runway / Sora\n随着商业短剧出海、TikTok 爆款短视频以及影视级特效全面拥抱 Runway Gen-3、Sora 等前沿视频生成模型，制作团队在工具端的采购预算大幅提升。然而，与普通文本模型的 $20/月门槛不同，主流商业视频生成工具的高阶套餐（如 Runway Unlimited、Sora Pro）月费普遍在 $76 到 $100 以上，属于典型的海外高客单价数字商品。\n在结算环节，国内发行的双币借记卡/信用卡在面对近百美元的跨境数字商品扣款时，极易直接触发收单网关的大额反欺诈阻断，弹出冰冷的 Card Declined\n；此外，出海工作室为了提高批量渲染效率通常多开账号，若所有账号共用同一张实体卡，一旦某个账号因生成违规内容被封，整批矩阵账号会瞬间遭遇连锁停权。通过",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "video"
+      ]
+    },
+    {
+      "id": "f581e09b-0866-43fd-91f7-7c8ca94d599b",
+      "name": "google-gemini-vertex-ai-billing-fix",
+      "url": "https://github.com/ismavetedessbessel746-web/google-gemini-vertex-ai-billing-fix",
+      "oneLiner": "google-gemini-vertex-ai-billing-fix",
+      "description": "⚡ 2026 实战指南：手把手教你用 CoreGold 商业 VCC 搞定 Google Cloud / Gemini API 绑卡\n在 Google Cloud Platform (GCP) 上调用 Vertex AI 运行 Gemini 系列超长上下文分析、多模态视频帧切片以及代码辅助流水线，是很多出海团队与开发者的底层基座。然而，在开启高吞吐生产配额前，绑定 GCP 结算账号（Billing Account）往往是阻力最大的一关。国内普通双币卡在提交时极易被系统判定为高风险，直接弹出令开发者头疼的 OR_CCCHS_01\n或 OR_BACR2_34\n拒付报错代码。\n更具破坏性的是，云端多模态 API 普遍采用弹性按量划扣模式。如果直接绑定国内无硬限额的实体信用卡，一旦线上并发失控、自动化解析脚本陷入死循环，次月账单可能会在无声无息中产生数千美元的透支；而找代充又面临组织账号因黑产料卡",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "id": "ed7428ea-d23d-409d-b1c5-9aa319d01ca3",
       "name": "project-lighthouse",
       "url": "https://github.com/professorsolderin/project-lighthouse",
       "oneLiner": "Famous scientists left behind huge piles of handwritten pages that are digitized but essentially unread.",
@@ -15,12 +78,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "image",
-        "voice"
+        "voice",
+        "image"
       ]
     },
     {
-      "id": "87a7a555-34f0-4e24-9545-de74ca0206df",
+      "id": "c4f977aa-adcb-4153-8ab0-5c4bdf03fe91",
       "name": "kota",
       "url": "https://github.com/ensignalp/kota",
       "oneLiner": "AI hizmetlerinin kullanım limitlerini GNOME üst panelinde gösterir: orijinal logolarla yüzde, halka göstergeler, sıfırlanma ve \"bu hızla dolar\" tahmini, son 24 saatin token grafiği",
@@ -31,34 +94,67 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "security",
+        "design",
         "code",
-        "design"
+        "security"
       ]
     },
     {
-      "id": "91be6360-67ef-4efb-a811-0971428dcfac",
-      "name": "AI Red Lines",
-      "url": "https://yourairedlines.com",
-      "oneLiner": "What would your AI red lines be?",
-      "description": "What would your AI red lines be?\nDecide now what would make you act on AI, and what you'd do. Then share it.\nHold to it\nMake it stick\nWriting a red line down is a start. These steps make it more likely you'll keep it. Do each one, or skip it, and the next one opens.\n-\nIn 138 trials, keeping track of a goal helped nearly three times as much when other people could see it. Where this comes from\nSend",
-      "pricing": "free",
+      "id": "72490d2f-2fad-4b46-8116-adc652410515",
+      "name": "Is there a 'right amount' of AI?",
+      "url": "https://coyotetracks.org/blog/right-amount-of-ai/",
+      "oneLiner": "Gonna go have a panic attack now.",
+      "description": "Gonna go have a panic attack now.\nIs there a ‘right amount’ of AI?\nWhile I’ve made my skepticism of AI clear by now, I’m not an anti-AI purist fighting against “no apps with any hint of AI coding allowed on my machine.” For one thing, it’s almost certainly a lost battle. Microsoft and Apple are both using coding agents for OS development, and while I can’t prove that most people running Linux have",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "83521973-e6c3-443e-bb56-ea9a19bf6f9a",
+      "name": "Practice coding with AI on real tickets",
+      "url": "https://algocademy.com/ai-coding-practice/",
+      "oneLiner": "with AI on real tickets.",
+      "description": "FREE ACCOUNT\n1ticket, Lakeside Wheels’ first, with 25 AI teammate repliesPractice coding\nwith AI on real tickets.\nFive codebases in Python and JavaScript. Find out what the client needs, direct your AI teammate, and deliver. If something’s wrong, it comes back.\nHOW A TICKET GOES.\nAsk. Direct.\nCheck. Deliver.\nIt’s how teams work with AI now. The hard part isn’t typing the code: it’s knowing what to",
+      "pricing": "free_trial",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
-        "writing"
+        "code"
       ]
     },
     {
-      "id": "c5f41d58-9f4b-48b5-8307-a14d0cac1d5b",
-      "name": "Datatomcp",
-      "url": "https://datatomcp.com/",
-      "oneLiner": "> datatomcp is the AI-native data layer for teams without a data team.",
-      "description": "# datatomcp: your team's data, ready for every AI agent\n> datatomcp is the AI-native data layer for teams without a data team. It makes a team's Google Sheets, CSV and Excel files, databases (PostgreSQL, MySQL) and apps (Stripe, HubSpot, Airtable) AI-ready: one governed place every AI agent can ask, with exact answers computed by a database, shared definitions of what each number means, a full aud",
+      "id": "9655b9e2-0b4b-4468-b14a-b01e4b9cfe92",
+      "name": "Webcrawl",
+      "url": "https://github.com/brainfish-ai/webcrawl-anything",
+      "oneLiner": "Give your AI agent the whole web.",
+      "description": "Give your AI agent the whole web. Free, local, no API key.\nSearch, scrape, map, crawl and monitor any website, SPA, PDF, YouTube video, GitHub repo, ArXiv paper, product page or CVE, from Claude Code, Cursor, Codex or your terminal.\nEvery frame above is real output, recorded with node scripts/record-demo.mjs\n. No API key, no account.\nnpx skills add brainfish-ai/webcrawl-anything\nThat installs all ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/torvalds/linux",
+      "categories": [
+        "code",
+        "research",
+        "agents"
+      ]
+    },
+    {
+      "id": "d76f9d5c-64f7-4b9b-b51a-bc68d94f7582",
+      "name": "CloudHike",
+      "url": "https://cloudhike.dev",
+      "oneLiner": "Create your first project.",
+      "description": "Make it yours.\nCreate your first project.\nDatabase, auth, storage, email, jobs, and 100+ AI models. One platform.\nCloudHike Pro$10/movsSupabase & othersPlus Redis and email included, which you'd pay for elsewhere.\nWORKS WITH YOUR TOOLS\nYour app talks to CloudHike. CloudHike talks to Postgres, storage, Redis, auth, email, 100+ AI models and cloud computers.\nLive requests · one API key\ndb.query()\n1.",
       "pricing": "paid",
       "country": null,
       "quality": 25,
@@ -71,45 +167,61 @@
       ]
     },
     {
-      "id": "1e5d81ab-a610-4a00-bf8c-0061a5a593ee",
-      "name": "A free course from engineer to AI engineer",
-      "url": "https://github.com/AiFirstDevelopment/engineer-to-ai-engineer",
-      "oneLiner": "The code for the YouTube series From engineer to AI engineer: eight episodes that take an experienced software engineer with no generative-AI background from conventional software ",
-      "description": "The code for the YouTube series From engineer to AI engineer: eight episodes that take an experienced software engineer with no generative-AI background from conventional software to a first retrieval pipeline (RAG), built across the series one piece per episode. Its second series, Prove it works, builds the evaluation harness that tells you whether that pipeline answers right, on the same reposit",
-      "pricing": "paid",
+      "id": "25462dc2-93dc-42a7-bded-1cb35358a647",
+      "name": "1Helm",
+      "url": "https://github.com/gitcommit90/1Helm",
+      "oneLiner": "Your personal AI workspace.",
+      "description": "Your personal AI workspace. Your Cloudflare account. Your AI provider.\nGet started · Configuration · Backup & restore · Explore the source\n1Helm is a personal AI workspace on Cloudflare. This repository contains the Worker, web app, channel computer image, and optional phone and desktop clients. You can deploy the core product to your own Cloudflare account and use your own AI provider key. Your a",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
+      "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/AiFirstDevelopment/engineer-to-ai-engineer.git",
+      "githubUrl": "https://github.com/gitcommit90/1Helm.git",
       "categories": [
         "code",
-        "data",
-        "rag"
+        "agents",
+        "data"
       ]
     },
     {
-      "id": "35d63d75-7c6c-492b-9553-7a3ed593998d",
-      "name": "EtherPK",
-      "url": "https://www.etherpk.com/home",
-      "oneLiner": "Write, think, link your ideas, manage tasks, hand work to AI agents, publish to the web.",
-      "description": "Ether Personal Knowledge\nOne Markdown Notes App For Everything\nFast, Private, Secure Knowledge Management\nWrite, think, link your ideas, manage tasks, hand work to AI agents, publish to the web. Your data stays yours.\n- Markdown + [[Wikilinks]]\n- Mobile and Desktop\n- Agent MCP Server\n- Local + Sync\n- E2E Encryption\nFree for folder graphs in Chrome or Edge. Sync+ works in every browser and on your ",
-      "pricing": "free",
+      "id": "390a16dc-f095-488a-ae1d-188f1fa32e63",
+      "name": "ai-portfolio",
+      "url": "https://github.com/8hjkkwikl8/ai-portfolio",
+      "oneLiner": "python -m pip install -r requirements.",
+      "description": "中文 | English\n面向 AI 应用工程师求职的作品集：1 个检索增强生成旗舰项目 + 2 个轻量工程切面项目。每个项目都有完整源码、确定性演示数据、自动化测试和可查看产物；默认不需要 API Key，也不把规则模拟包装成“智能”。\n不是截图或概念稿。仓库里的指标都能用下面的命令复现，限制也会在文档和界面里明确写出来。\n要求 Python 3.13。三个离线演示只使用标准库；Web UI 与 API 需要 FastAPI、uvicorn 和 httpx。\npython -m pip install -r requirements.txt\n# 一键启动两个 Web 服务并打开展示页：\n# InsightRAG http://127.0.0.1:8001\n# DataChat BI http://127.0.0.1:8002\npython start_all.py\n# 127 项自动化测",
+      "pricing": "unknown",
       "country": null,
-      "quality": 25,
+      "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "design",
-        "agents",
-        "productivity"
+        "code",
+        "data"
       ]
     },
     {
-      "id": "2ce0b155-63c5-425b-9055-ee26a6e3c2a8",
-      "name": "ai-portfolio",
-      "url": "https://github.com/8hjkkwikl8/ai-portfolio",
-      "oneLiner": "python -m pip install -r requirements.",
-      "description": "中文 | English\n面向 AI 应用工程师求职的作品集：1 个检索增强生成旗舰项目 + 2 个轻量工程切面项目。每个项目都有完整源码、确定性演示数据、自动化测试和可查看产物；默认不需要 API Key，也不把规则模拟包装成“智能”。\n不是截图或概念稿。仓库里的指标都能用下面的命令复现，限制也会在文档和界面里明确写出来。\n要求 Python 3.13。三个离线演示只使用标准库；Web UI 与 API 需要 FastAPI、uvicorn 和 httpx。\npython -m pip install -r requirements.txt\n# 一键启动两个 Web 服务并打开展示页：\n# InsightRAG http://127.0.0.1:8001\n# DataChat BI http://127.0.0.1:8002\npython start_all.py\n# 106 项自动化测",
+      "id": "61d1d1d9-64b2-4ac9-91e9-24d875b9b1fa",
+      "name": "flowdown",
+      "url": "https://github.com/localixai/flowdown",
+      "oneLiner": "GitHub Markdown, plus the forms a model can write and a reader can scan: steps, tabs, headline figures, pros and cons, callouts, folded sections, sources, file trees, titled code, ",
+      "description": "Ultrafast, lightweight streaming Markdown for React and AI replies\nIts own parser · 0 dependencies · 32 KB gzipped · 17× faster on a long stream\nflowdown.dev · Get started · Syntax · API · Comparison\nOne reply, streamed twice: by <Markdown>\non a page and by @localix-ai/flowdown/tui\nin a terminal.\nGitHub Markdown, plus the forms a model can write and a reader can scan: steps, tabs, headline figures",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code"
+      ]
+    },
+    {
+      "id": "08b358eb-bed9-4f09-9aef-606fa7288c44",
+      "name": "Spider",
+      "url": "https://github.com/xdisform/Spider",
+      "oneLiner": "A fleet of senior AI pentest agents that ships proven exploits — zero false positives, zero fluff.",
+      "description": "Claude, weaponized. A fleet of senior AI pentest agents that ships proven exploits — zero false positives, zero fluff.\nSpider turns Claude Code into an autonomous red-team lead. No scanner, no Docker, no glue code — the whole engine is prompts and skills. A fleet of senior agents runs reconnaissance, exploitation and OSINT under frontier control, and only oracle-proven impact survives. The payoff:",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -117,14 +229,14 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
+        "agents",
         "data"
       ]
     },
     {
-      "id": "8aac5a89-5a5a-4733-bdcc-297177a52361",
-      "name": "ai-manus",
-      "url": "https://github.com/Gigachad-byte/ai-manus",
+      "id": "d0ddfe80-1b20-4b05-8319-89288c387575",
+      "name": "ai_manus",
+      "url": "https://github.com/thecoderrrer/ai_manus",
       "oneLiner": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
       "description": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.\n- Browser Control Made Simple: Manus browser control lets the agent navigate websites, fill forms, and gather information without you manually clicking through every page.\n- Task Automation For Daily Life: Manus autonomous tasks handle small ",
       "pricing": "unknown",
@@ -139,70 +251,53 @@
       ]
     },
     {
-      "id": "560c5095-7c01-4bd7-ab7e-0f3c23699691",
-      "name": "ai-crew-pass",
-      "url": "https://github.com/fanhuayishiy/ai-crew-pass",
-      "oneLiner": "npm run dev -- --host 127.",
-      "description": "给九位 AI 同事，发一张可以晃的工牌。\n在线领取工牌 · English demo · 许可证与素材说明\n一个支持中文 / English 的 AI 同人工牌小项目：拖动挂绳、松手回摆、点击翻面，再把喜欢的工牌下载下来。由 风花AI实验室 分享。\n如果你也喜欢 AI 创作、实用工具和有趣的小实验，欢迎关注微信公众号 「风花AI实验室」。后续项目更新与制作分享会在这里交流。\n微信扫码关注，或保存二维码后在微信中识别。\n- 九位 AI 同事：DeepSeek、ChatGPT、GLM、Qwen、Gemini、Claude、Kimi、Grok、豆包。\n- 九位角色均可在原版和 Q 版形象之间切换，展示与下载同步更新；选择保存在当前浏览器。\n- React Bits 官方 Lanyard 的 3D 挂绳、拖拽回摆与翻面；同色系 ShinyText 背景扫光。\n- 正面贴图在 HTML 阶段高优先级",
+      "id": "10ac9978-a82b-44cb-b2c9-bfe459f76b34",
+      "name": "Deccy",
+      "url": "https://edawise.com/deccy-framework/",
+      "oneLiner": "deccy is a decision management framework we developed, from first principles, to perform software engineering with AI.",
+      "description": "What is deccy?\ndeccy is a decision management framework we developed, from first principles, to perform software engineering with AI. It is a pre-alpha version of the system we are building to reshape the way engineering is done.\nWe have made it in three parts:\ndeccy-cli\nprovides a CLI tool which encodes most of the frameworkdeccy-agent\nis a set of custom agents that we usedeccy-viewer\nvisualises ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
-        "marketing"
-      ]
-    },
-    {
-      "id": "a9890bd5-b161-4dc2-83b9-3eb478414520",
-      "name": "Closed,Mechanical Mould Design AI Agent",
-      "url": "https://closed.sh",
-      "oneLiner": "01Upload a STEP file or a photo.",
-      "description": "closed: from a STEP file to a mould you approve\n01Upload a STEP file or a photo.\nSend the customer’s STEP file, or a photo of the part when that’s all you have. closed reads the geometry, keeps the customer’s part locked, and starts on the mould.\n02The agent drafts every stage.\nParting, core and cavity, layout, mould base, feed, side actions and ejection. Each stage is logged with what it did and ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "image",
         "design",
+        "code",
         "agents"
       ]
     },
     {
-      "id": "21722b1a-d846-4b99-a4c5-b57f0687ee7f",
-      "name": "Vibetime",
-      "url": "https://github.com/iamnotstatic/vibetime",
-      "oneLiner": "Track what you actually ship with AI.",
-      "description": "Track what you actually ship with AI.\nVibetime wraps Claude Code, Codex, Gemini, Aster, and Opencode and prints a session summary every time you're done. Cursor Desktop and ZCode are tracked through session hooks. No config, no daemon, no account by default.\nnpm install -g vibetime-cli\nvibe\nsource ~/.zshrc # or ~/.bashrc / ~/.config/fish/config.fish\nRunning vibe\nwith nothing after it sets up every",
+      "id": "dcdf45f8-2ea4-421f-98ef-c6b8ff30d142",
+      "name": "Carton Clock",
+      "url": "https://www.niklasroy.com/carton-clock/",
+      "oneLiner": "“Carton Clock” is a purist experiment in trash bin horology.",
+      "description": "Carton Clock\nMechanical Clockwork\n“Carton Clock” is a purist experiment in trash bin horology. The experiment culminates in the successful build of a clock, made out of empty drink cartons, plus a few BBQ skewers, paper straws, a piece of string, and some random metal nuts as weights. Everything is held together by tons of hot glue. The clockwork contains all the gear stages needed to display seco",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
-        "agents"
+        "code",
+        "research"
       ]
     },
     {
-      "id": "78b5b122-61b8-4d46-a320-05387349837a",
-      "name": "Wings",
-      "url": "https://aiwings.app",
-      "oneLiner": "Wings is a window that docks to the right of Claude, ChatGPT and other AI apps.",
-      "description": "AI is thinking\nMy mind is racing\nWings is a window that docks to the right of Claude, ChatGPT and other AI apps. No need to wait for the AI to finish: keep typing your plans and ideas.\nWhile the AI works,\nwhere do your ideas go?\nLong tasks run for ten minutes or more. Ideas don't wait, and the usual places to put them aren't great.\nThree steps, no thinking required\nWrite as usual\nType your next me",
+      "id": "cd67ac46-9e7c-46f3-b967-a32b1547a25d",
+      "name": "MuzeGen AI",
+      "url": "https://muzegen.ai",
+      "oneLiner": "La plateforme d'élite pour la création musicale par IA.",
+      "description": "Muzegen.ai\nGénérateur de Chansons par IA\nCréez la musique de vos rêves en un instant\nLa plateforme d'élite pour la création musicale par IA. Transformez facilement vos paroles et vos inspirations en morceaux de haute qualité.\nAppuyez sur ⌘/Ctrl + Entrée ou cliquez sur le bouton pour commencer. Cliquez dans la zone de texte pour voir nos suggestions de paroles.\nÉcoutez les créations réalisées avec ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "security",
-        "code",
-        "image"
+        "audio",
+        "design"
       ]
     }
   ]
