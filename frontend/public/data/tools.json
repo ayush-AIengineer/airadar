@@ -1,30 +1,13 @@
 {
-  "generatedAt": "2026-11-14T13:04:34.847393+00:00",
-  "count": 9,
+  "generatedAt": "2026-11-15T13:33:14.040228+00:00",
+  "count": 6,
   "tools": [
     {
-      "id": "7d7d1ebd-1c21-4ab9-a949-90500fb4c2b9",
-      "name": "Shotoku",
-      "url": "https://www.shotoku.dev/",
-      "oneLiner": "Give your agents a budget, not your card.",
-      "description": "Give your agents a budget, not your card.\nBudgets, approvals, and a tamper-evident audit trail for AI agent spending — enforced before the payment happens, entirely on your machine. Deterministic. No custody.\nAgents spend.\nShotoku checks first.\nEvery autonomous action\nneeds a decision.\nLocal-first by design.\nEvery spending decision stays on your machine.\nPolicies decide.\nBudgets and rules, in one ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "94b4ac3e-bcb6-47a5-95fb-1bf1af8f288e",
-      "name": "Timon",
-      "url": "https://github.com/ai-timon/timon",
-      "oneLiner": "Your AI agent team, running on your own machine.",
-      "description": "Your AI agent team, running on your own machine.\nThey work through the CLI subscriptions you already pay for, ship code that has been reviewed, and ask you before anything that matters.\nDownload for Windows, macOS or Linux »\nDocs\n·\nWebsite\n·\nDiscord\n·\nChangelog\n·\nWrite a plugin\nYour agents run on the CLI you already sign in to:\nyour subscription, never a token-billed API · any ACP agent · add your",
+      "id": "4a63de83-f376-4af6-ab59-edc703672be2",
+      "name": "GitHub-Copilot-app",
+      "url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
+      "oneLiner": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.\ngithub-app-hero-2.mp4\nThe GitHub Copilot app is an agent-native desktop experience for managing software work from idea to pull request. It gives you a single control center for finding the right work to pick up, starting and steering agents, revie",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -33,113 +16,30 @@
       "categories": [
         "code",
         "agents",
-        "design"
+        "productivity"
       ]
     },
     {
-      "id": "3d34f2a0-b2a8-4137-8e5b-5daf4415c3cf",
-      "name": "Open-source AI without Jensen",
-      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-      "oneLiner": "The resignation of Nvidia CEO Jensen Huang is a major setback for the US development of an open model ecosystem.",
-      "description": "The resignation of Nvidia CEO Jensen Huang is a major setback for the US development of an open model ecosystem. Nvidia still has the financial interests in supporting open models, which are to avoid concentration in power among a few customers who would develop their own chips and reduce Nvidia’s profits, but supporting the open ecosystem is a tricky puzzle more than an engineering problem to gri",
+      "id": "17f368c5-6bfa-4bbb-ba0e-dff47b65a771",
+      "name": "Vantage-V-AI",
+      "url": "https://github.com/khoadev-vn/VANTAGE-V-AI",
+      "oneLiner": "0) is an open-source, bounded-memory inference runtime and streaming data processing engine designed to solve KV-cache memory explosion and enable constant-complexity autoregressiv",
+      "description": "Vantage V-AI: Bounded-Memory Streaming Engine, 2-Bit Packed Ternary KV-Cache & HDC Associative Memory\nVantage V-AI (v8.2.0) is an open-source, bounded-memory inference runtime and streaming data processing engine designed to solve KV-cache memory explosion and enable constant-complexity autoregressive generation across CPU, edge devices, and multi-GPU accelerators.\n- 📄 Technical Report (Peer-Revie",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/khoadev-vn/VANTAGE-V-AI",
       "categories": [
         "code",
         "design",
-        "data"
+        "rag"
       ]
     },
     {
-      "id": "1c7fb010-7bab-4ba5-92b2-37a3ec8fb598",
-      "name": "Orty",
-      "url": "https://getorty.work",
-      "oneLiner": "Drop a profile screenshot, paste the text, or add a short screen recording.",
-      "description": "A screenshot goes in.\nDrop a profile screenshot, paste the text, or add a short screen recording. Orty never opens a link or crawls a profile.\nOrty reads a client's profile from your screenshot, scores the opportunity, and drafts the first email. No scraping, no links.\nThe cost\nMost outreach dies before the email. You spend an hour working out whether someone can hire you, and you are still guessi",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "dd73e07f-0230-4a07-9daa-f31981f44428",
-      "name": "FieldRook",
-      "url": "https://github.com/Rookweld/FieldRook",
-      "oneLiner": "A native Windows diagnostic workstation for technicians who want evidence, not guesswork.",
-      "description": "LESS GUESSING. MORE EVIDENCE.\nA native Windows diagnostic workstation for technicians who want evidence, not guesswork.\nBuilt by ROOKWELD · Open source · Designed for real investigations\nSee the workstation · How it works · Get started · Safety · Field Kit\nAn actual WPF + WebView2 Windows application. Not a browser tab.\nFieldRook turns an unfamiliar Windows problem into a structured investigation.",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "12addad1-1d2e-491e-b7d2-86f69f35137a",
-      "name": "Gamma PDF",
-      "url": "https://gammapdf.com/",
-      "oneLiner": "Microsoft StoreOr the standalone installer (SmartScreen: More info → Run anyway).",
-      "description": "Windows\nMicrosoft StoreOr the standalone installer (SmartScreen: More info → Run anyway).\nOpen source · self-hosted\nfor people who read papers\nA PDF annotator with outliner notes, live math and an AI that reads along — on your own machine.\nHighlight, annotate & draw\nHighlight, draw or type on the page. Each mark lands in your notes, and a click jumps back to the passage.\nTake notes\nAn outliner rig",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "security"
-      ]
-    },
-    {
-      "id": "3657b816-925e-4e41-a79a-3cc78df07bda",
-      "name": "Browserr",
-      "url": "https://browserr.dev",
-      "oneLiner": "01 / 05Everything an agent needs.",
-      "description": "Scope\n01 / 05Everything an agent needs.\nBuilt agent-first: extraction over pixels, stable refs over coordinates, failures you can catch instead of hangs. Three commitments shape the whole engine: it blocks when unsure, it hands the page to a human when a human is needed, and it leaves evidence for everything it did.\nProtocol\n02 / 05The entire protocol, in full.\nJSON over loopback. One client, no h",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "agents"
-      ]
-    },
-    {
-      "id": "dbfa13fc-c4ed-4962-b5fb-2942a0d44118",
-      "name": "Open-Source Version of Cyclon",
-      "url": "https://opencyclone.vercel.app/",
-      "oneLiner": "OpenCyclone is a free, open-source version that converts your Android phone into an AI phone.",
-      "description": "OpenCyclone is a free, open-source version that converts your Android phone into an AI phone.\nInstall it now! →Not backed by anyone. Seriously. It was easy to build this.\nWe live in an era of transient software! This literally took a couple hrs to build.\nIt works in your apps on a hidden screen while you keep using your phone. Before anything is sent, paid, or deleted, it stops and shows you exact",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "579fd20d-d62a-4425-9717-66bf4f341760",
-      "name": "ai--manus",
-      "url": "https://github.com/ClampOverlord46/ai--manus",
+      "id": "61ba3077-9708-4ddd-8f1b-a112f5ad9fa6",
+      "name": "ai--manus2.0",
+      "url": "https://github.com/Topkiflare74/ai--manus2.0",
       "oneLiner": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
       "description": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.\n- Browser Control Made Simple: Manus browser control lets the agent navigate websites, fill forms, and gather information without you manually clicking through every page.\n- Task Automation For Daily Life: Manus autonomous tasks handle small ",
       "pricing": "unknown",
@@ -151,6 +51,57 @@
         "code",
         "agents",
         "productivity"
+      ]
+    },
+    {
+      "id": "e1c55061-0896-4c20-bd52-6ea2165cb31f",
+      "name": "Aurora GeoXAI",
+      "url": "https://github.com/felipetjmg1-bit/aurora-geointelligence-xai",
+      "oneLiner": "An open, experimental Python MVP for geospatial image inspection, remote-sensing exploration and traceable analysis reports.",
+      "description": "An open, experimental Python MVP for geospatial image inspection, remote-sensing exploration and traceable analysis reports. The current baseline uses NumPy, Rasterio, Pillow and scikit-learn; it is not a PyTorch deep-learning engine and is not a production or forensic system.\nA press release is not sovereign infrastructure. Code that people can inspect, run, challenge and maintain is.\nDigital-sov",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "image",
+        "design"
+      ]
+    },
+    {
+      "id": "ed591e75-8de9-4071-b160-946c5f51a9e7",
+      "name": "ShadowDiff",
+      "url": "https://github.com/vishalrajofficial/ShadowDiff",
+      "oneLiner": "Eliminating the 5% risk that stops enterprise CTOs from deploying AI-modernized backends to production.",
+      "description": "Eliminating the 5% risk that stops enterprise CTOs from deploying AI-modernized backends to production.\n🌐 Interactive Live Cloud Sandbox: https://shadowdiff-demo.fly.dev (Self-driving dual-traffic simulator active)\nEnterprises are actively modernizing mission-critical legacy backends (Java 7/8 Spring monoliths, Python 2 Django, PHP 5.6 backends) into modern cloud-native services (Go, TypeScript/No",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/vishalrajofficial/ShadowDiff.git",
+      "categories": [
+        "code",
+        "data",
+        "design"
+      ]
+    },
+    {
+      "id": "bdae898e-d3a6-4e4f-98d6-f12e1f32c068",
+      "name": "A blog on how computers work from scratch (1)",
+      "url": "https://dinank.dev/posts/between-wall-and-first-fetch.html",
+      "oneLiner": "Alright so let's start from the point when you press the power on button on your computer.",
+      "description": "Alright so let's start from the point when you press the power on button on your computer. But hold on, this is not the point where the computer gets the electric power. Your computer never really loses power, it is always having some. Even when you shut it down completely. And even when you pull out the plug on a desktop computer. Without this constant power you get the classic symptom: after unp",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "writing",
+        "code",
+        "image"
       ]
     }
   ]
