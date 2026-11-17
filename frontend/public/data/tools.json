@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-16T15:00:21.315150+00:00",
-  "count": 13,
+  "generatedAt": "2026-11-17T15:37:08.342033+00:00",
+  "count": 10,
   "tools": [
     {
-      "id": "c64e1d7b-f30c-48dd-9b17-368b9d807531",
+      "id": "a3159879-7f91-41fc-a091-47b2d929bc1b",
       "name": "Gemini-Config-Checker-",
       "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
       "oneLiner": "Find proxy configs that actually get you into Google AI Studio and Gemini, by testing each one the way a person would: in a signed-in browser, through the route you will really use",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "id": "69f228b8-8389-4b63-97f9-369775001e84",
+      "id": "f09c9499-1a93-44dd-abcc-d8e35c33aa0c",
       "name": "GitHub-Copilot-app",
       "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
       "oneLiner": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
@@ -37,143 +37,62 @@
       ]
     },
     {
-      "id": "c2dd9b25-d63d-42d5-8f7d-e1a7161444da",
-      "name": "Nobody blocks a keyboard",
-      "url": "https://github.com/mr-anjaneyam/Emittr",
-      "oneLiner": "Turn any rooted Android or NetHunter phone into an unapologetic hardware-grade USB keyboard, precision trackpad, and continuous scrolling deck.",
-      "description": "Turn any rooted Android or NetHunter phone into an unapologetic hardware-grade USB keyboard, precision trackpad, and continuous scrolling deck.\nPlug your rooted phone into anything with a USB port. Then type directly from its screen, or open Emittr in your browser on any laptop or phone on your local Wi-Fi. Keystrokes stream over the air and strike the host as real electrical signals: no drivers, ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/mr-anjaneyam/Emittr",
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "1c9edc4e-7903-450d-be08-7e874a185b52",
-      "name": "Tencent launches Hy4 flash",
-      "url": "https://technode.com/2026/11/16/tencent-launches-hy4-flash-cutting-ai-task-costs-by-95-in-internal-tests/",
-      "oneLiner": "Tencent on Monday launched Hy4 flash, a lower-cost AI model for everyday work such as research, slide creation and spreadsheet editing.",
-      "description": "Tencent on Monday launched Hy4 flash, a lower-cost AI model for everyday work such as research, slide creation and spreadsheet editing. On Tencent’s internal WorkIndex benchmark, Hy4 flash cost one-twentieth as much per task as the full Hy4 model. API list prices are $0.07 per million input tokens, $0.281 per million output tokens and $0.003 per million cached input tokens.\nHy4 flash supports mult",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "28425277-ecd5-4b93-8ef4-3c08ddc79e13",
-      "name": "LGTM",
-      "url": "https://lgtm-flame.vercel.app/en/",
-      "oneLiner": "Your AI coworker tries really hard.",
-      "description": "LGTM\nYour AI coworker tries really hard.Hard enough to make you smash your keyboard.\nSwipe left to request changes, right to LGTM. Watch the four meters: if any one hits zero or maxes out, this job is over.\nLGTM is a free browser swipe game about vibe coding. Your AI coworker hands you a diff; swipe left to request changes, right to LGTM, while keeping code quality, progress, AI quota, and sanity ",
+      "id": "0a0ec12d-b90a-46f1-8034-8a2fcc8bbdb7",
+      "name": "Atli",
+      "url": "https://heyatli.com/mcp",
+      "oneLiner": "Add Atli to Claude, ChatGPT or another AI assistant.",
+      "description": "YOUR eSIM, IN YOUR AI CHAT\nAdd Atli to Claude, ChatGPT or another AI assistant. Then just ask: it finds plans for your trip, helps you buy one and walks you through installing it.\nADD ATLI IN A MINUTE\nCopy the address, then follow the steps for your assistant. You can start without an account.\nhttps://mcp.heyatli.com\n- 1\nOpen Customize, then Connectors.\n- 2\nChoose Add custom connector.\n- 3\nName it",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code"
+        "code",
+        "agents",
+        "security"
       ]
     },
     {
-      "id": "433ac9f7-3fa6-4833-8182-465dfb873a99",
-      "name": "Cinnamon AI",
-      "url": "https://getcinnamon.ai/",
-      "oneLiner": "Cinnamon plans, books, watches and reminds, for you and up to five people you trust.",
-      "description": "Cinnamon plans, books, watches and reminds, for you and up to five people you trust. It always asks before it acts.\nEverything in the household space is visible to the household: the ski trip, the chore rota, the Sunday digest. Everything in your personal space is yours alone. Cinnamon never mixes them, and it tells you which one you're in.\nCinnamon doesn't build a hidden profile from your chats. ",
-      "pricing": "free_trial",
+      "id": "61c84bf8-7853-4fe2-a467-d1bfedbf36de",
+      "name": "If Conductor and Cursor Had a Baby (Open Source",
+      "url": "https://github.com/bestboyhq/malini",
+      "oneLiner": "Agentic development environment for builders moving fast.",
+      "description": "Agentic development environment for builders moving fast.\nRun as many Claude Code agents as you want, each in its own worktree.\nMalini does the git, the pull requests and the red checks. You read reports and press Merge.\nFree and open source macOS app.\nAsk for options and pick one. The rest never touch your code.\nEverything else Malini does is in docs/features.md\nand the docs.\n- Start a task. Pres",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/bestboyhq/malini",
       "categories": [
-        "agents",
-        "data",
-        "design"
+        "code",
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "83eb19cb-72c9-4add-84e9-aa309c3b979a",
-      "name": "HN",
-      "url": "https://github.com/GuruProduction/GURUbyUnusLumen",
-      "oneLiner": "DISCLAIMER: this is not another helpful assistant app.",
-      "description": "DISCLAIMER: this is not another helpful assistant app. It is powerful software that has not existed in this form before, and it does exactly what you ask it to. Read this page in full before you install anything from the latest release.\nGURU reaches your phone, your television, your console, your lights, your speakers, your router and the machines in the cupboard, and it does the work. Not by desc",
+      "id": "70d47b2a-f709-4f5a-83c7-d9bc3aa75acf",
+      "name": "Agav",
+      "url": "https://github.com/prapaa-ai/agav",
+      "oneLiner": "⚠️ Experimental Beta — Agav is under active development.",
+      "description": "Terminal-native autonomous agent for real repositories and projects\nDocumentation: https://docs.agav.dev\n⚠️ Experimental Beta — Agav is under active development. Expect breaking changes, rough edges, and rapid iteration. Feedback and bug reports are welcome!\nNo Node.js required. One command, self-contained binary:\ncurl -fsSL https://agav.dev/install.sh | bash\nWindows PowerShell:\nirm https://www.ag",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "data",
-        "security"
-      ]
-    },
-    {
-      "id": "da95fb99-05b3-4ac4-8df0-cec61aaef06e",
-      "name": "Show HN",
-      "url": "https://apps.apple.com/us/app/ai-lab-race/id6824641689",
-      "oneLiner": "Start in a garage with two founders, race three parody rival labs to AGI and keep P(doom) under 100%.",
-      "description": "AI Lab Race\nBuild AGI. Try not to end it.\n$4.99 · Designed for iPad. Not verified for macOS.\nStart in a garage with two founders, race three parody rival labs to AGI and keep P(doom) under 100%. Your AI is very sweet about it. For now.\nBuild the smartest AI on Earth. Try not to end it.\nAI Lab Race is a pixel-art management sim about running an AI lab. Start in a garage with two founders and just e",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "2a2ff562-1693-4a93-a8d9-d7fe554273a3",
-      "name": "Otus",
-      "url": "https://otusanalytics.com/",
-      "oneLiner": "Otus Analytics gives you clear, actionable insight into how people use your product, with an EU-hosted AI analyst and no trade-off between privacy and what you can measure.",
-      "description": "Otus Analytics gives you clear, actionable insight into how people use your product, with an EU-hosted AI analyst and no trade-off between privacy and what you can measure.\nMost website owners have been told they have to choose. You either keep the tracking you need and put up with cookie banners, third-party pixels and visitor data sent to the US, or you switch to a privacy-friendly tool and lose",
-      "pricing": "free_trial",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "data",
-        "design",
-        "marketing"
-      ]
-    },
-    {
-      "id": "d00876cb-c9d5-4440-8651-769f2dd3500a",
-      "name": "AI Infra Finance tracker (Data-vis project)",
-      "url": "https://artificialliabilities.com/",
-      "oneLiner": "Is the AI build-out running ahead of itself?",
-      "description": "Is the AI build-out running ahead of itself?\nArtificial intelligence runs on data centers packed with specialized chips called GPUs. Building them has become one of the largest investment waves in modern history. The five biggest tech companies alone spent $691 billion on buildings and equipment in the past year, much of it for AI.\nRailways in the 1800s and fiber-optic networks in the 1990s change",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
         "code",
-        "data",
-        "design"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "bed5c18f-93c0-4808-8bbc-88b71664b633",
-      "name": "Coral",
-      "url": "https://github.com/withcoral/coral",
-      "oneLiner": "Execution rails for agents.",
-      "description": "Execution rails for agents.\nCoral is an open-source, self-hosted gateway that sits between your agents and the systems they work on. Agents call tools by writing short TypeScript programs, and save the ones that work as custom tools to reuse. Coral checks every call against your policy before it adds credentials and forwards the call.\nQuickstart · Download · Demo video\nIn this example, an agent po",
+      "id": "1b78a5ab-4368-42e0-b396-9f86a2ac6e9e",
+      "name": "Solipsist",
+      "url": "https://solipsist.sh/",
+      "oneLiner": "We open the second shop on 14 August.",
+      "description": "Q3 launch plan\nWe open the second shop on 14 August. The trial ran for six weeks with 212 customers, and repeat orders rose from 18% to 31%.\nSolipsist is a markdown editor for planning, research and writing. Your agents work inside the page, on your machine, with the models you already use.\n$ curl -fsSL https://solipsist.sh/install | sh\nWe open the second shop on 14 August. The trial ran for six w",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -182,11 +101,11 @@
       "categories": [
         "code",
         "agents",
-        "data"
+        "productivity"
       ]
     },
     {
-      "id": "ec7f2733-0b54-4c0c-ac4e-6df5c5bca7a9",
+      "id": "b19357a5-c5ed-4e2d-8e85-b2aecf572af4",
       "name": "ai--manus2.0",
       "url": "https://github.com/topapothecarycanal/ai--manus2.0",
       "oneLiner": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
@@ -203,11 +122,11 @@
       ]
     },
     {
-      "id": "fc465464-0578-4b73-9f7c-57f641d69ee2",
-      "name": "Furnish",
-      "url": "https://github.com/Joystonm/furnish/",
-      "oneLiner": "Describe a plot and what you need; get a real, editable 2D floor plan; walk the building in 3D; check it against geometric constraints; and let a language model propose changes tha",
-      "description": "AI Home Design Studio. Describe a plot and what you need; get a real, editable 2D floor plan; walk the building in 3D; check it against geometric constraints; and let a language model propose changes that are validated and applied through the same code the mouse uses.\nFurnish is not a viewer. Every room, wall, opening and piece of furniture is project data, editable by hand or by the assistant, in",
+      "id": "99f916d6-c68b-457b-ba47-af6538562c4b",
+      "name": "Russian-Speaking Hackers Launched First Automated AI Cyberattack",
+      "url": "https://united24media.com/world/russian-speaking-hackers-launched-first-fully-automated-ai-cyberattack-google-says-24451",
+      "oneLiner": "Russian-speaking hackers used artificial intelligence to carry out what may be the first fully automated cyberattack without human intervention, Politico reported, citing Google, o",
+      "description": "- Category\n- World\nRussian-Speaking Hackers Launched First Fully Automated AI Cyberattack, Google Says\nRussian-speaking hackers used artificial intelligence to carry out what may be the first fully automated cyberattack without human intervention, Politico reported, citing Google, on November 16.\nGoogle’s cyber threat intelligence division detected attackers using AI to “fully automate vulnerabili",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -216,7 +135,41 @@
       "categories": [
         "code",
         "agents",
-        "design"
+        "security"
+      ]
+    },
+    {
+      "id": "8691c9e4-c2f0-48de-b9bb-0b73bf306063",
+      "name": "We built Jarvis",
+      "url": "https://www.searchagora.com/blog/how-we-built-jarvis-our-ai-team-member-for-every-department",
+      "oneLiner": ", before anyone at Agora is online, one member of our team opens our live site and starts searching for products the way a shopper would.",
+      "description": "Every weekday at 5 a.m., before anyone at Agora is online, one member of our team opens our live site and starts searching for products the way a shopper would. It logs each result to a shared spreadsheet, grades it, and posts a short bug report in Slack. By 6:40 it has checked whether last night's model training went as planned. For the rest of the day, until 11 p.m., it answers requests from the",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "7c782859-c346-4f77-bf35-b7808216b9b4",
+      "name": "AI Data Brokerage",
+      "url": "https://mainstreetwealth.ai/ai-data-brokerage",
+      "oneLiner": "AI data brokerage is the practice of licensing a cleaned, de-identified copy of an operating business’s historical records to AI companies that need real-world examples of how work",
+      "description": "AI data brokerage is the practice of licensing a cleaned, de-identified copy of an operating business’s historical records to AI companies that need real-world examples of how work gets done. The business owner retains every original record, every customer relationship, and the company itself. Only defined use rights are transferred, for a defined time, for a defined purpose. Main Street Wealth re",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "data",
+        "rag",
+        "code"
       ]
     }
   ]
