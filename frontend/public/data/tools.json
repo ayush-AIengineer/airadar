@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T15:37:08.342033+00:00",
-  "count": 10,
+  "generatedAt": "2026-11-18T15:14:05.258692+00:00",
+  "count": 13,
   "tools": [
     {
-      "id": "a3159879-7f91-41fc-a091-47b2d929bc1b",
+      "id": "23abbc51-7afd-4428-9d39-b5013c6df83f",
       "name": "Gemini-Config-Checker-",
       "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
       "oneLiner": "Find proxy configs that actually get you into Google AI Studio and Gemini, by testing each one the way a person would: in a signed-in browser, through the route you will really use",
@@ -14,13 +14,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "design",
+        "code",
         "security"
       ]
     },
     {
-      "id": "f09c9499-1a93-44dd-abcc-d8e35c33aa0c",
+      "id": "5d3067e3-2af9-4d43-8db2-d40469c9f315",
       "name": "GitHub-Copilot-app",
       "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
       "oneLiner": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
@@ -37,11 +37,79 @@
       ]
     },
     {
-      "id": "0a0ec12d-b90a-46f1-8034-8a2fcc8bbdb7",
-      "name": "Atli",
-      "url": "https://heyatli.com/mcp",
-      "oneLiner": "Add Atli to Claude, ChatGPT or another AI assistant.",
-      "description": "YOUR eSIM, IN YOUR AI CHAT\nAdd Atli to Claude, ChatGPT or another AI assistant. Then just ask: it finds plans for your trip, helps you buy one and walks you through installing it.\nADD ATLI IN A MINUTE\nCopy the address, then follow the steps for your assistant. You can start without an account.\nhttps://mcp.heyatli.com\n- 1\nOpen Customize, then Connectors.\n- 2\nChoose Add custom connector.\n- 3\nName it",
+      "id": "7e415e4a-6a08-4adb-9105-21a7581ae703",
+      "name": "Zuse",
+      "url": "https://bineric.com/zuse",
+      "oneLiner": "Send each email, chat or form to the right team, and flag the urgent ones.",
+      "description": "Customer service\nSend each email, chat or form to the right team, and flag the urgent ones.\nWhich team should handle this?\n- Billing\n- Technical\n- Sales\nZuse reads a document, picks from the options you set and tells you how sure it is.\nLive· real answers from Zuse 27B\nTested on tasks it never trained on, and against the chat models you already know.\nAnywhere a person reads something and picks fro",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "c8832ba1-3b45-4d09-91f4-3e18b225b11e",
+      "name": "Cmdbook",
+      "url": "https://printf.app/cmdbook/",
+      "oneLiner": "Save the command once, run it with a simple click.",
+      "description": "Save the command once, run it with a simple click.\nKeep each command with its prompts, variables and working directory. Run it with one click, from your terminal, on a schedule or from your AI agent.\nA few things cmdbook does for you.\nWorks alongside your terminal. Stays on your computer.\nNot a terminal replacement\nKeep using your terminal for interactive work. cmdbook keeps the commands you run a",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "writing",
+        "code",
+        "productivity"
+      ]
+    },
+    {
+      "id": "8bb99f9a-cced-43a2-aa68-e36d75533063",
+      "name": "Grand Treasure Island",
+      "url": "https://grandtreasureisland.vercel.app/",
+      "oneLiner": "The downloadable version looks a lot nicer: shadows, better lighting, sunsets.",
+      "description": "Grand\nTreasure\nIsland\nThe downloadable version looks a lot nicer: shadows, better lighting, sunsets.\nWatch the trailer\nAbout the game\nLocation\nTreasure Island, San Francisco\nMap data © OpenStreetMap contributors · OpenMapTiles\n- 0.63\n- square miles\n- 16\n- miles of road\n- 199\n- buildings\n- 540\n- street signs and furniture\n- 35\n- kinds of plants\n- 458\n- cars\nAll playable.\nAll modeled with AI.\n- Mode",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "code",
+        "image"
+      ]
+    },
+    {
+      "id": "19e228f5-859e-4b52-8e56-1f9f3162384e",
+      "name": "Project-M",
+      "url": "https://github.com/adityadebnath009/Project-M",
+      "oneLiner": "Switch between Claude Desktop, OpenAI Codex, and Google Antigravity without losing state.",
+      "description": "Switch between Claude Desktop, OpenAI Codex, and Google Antigravity without losing state.\nDeterministic 4-tier context compilation. Sub-2ms latency. Zero cloud dependencies.\nOverview • Architecture • Interactive REPL & CLI • FastMCP Tools • Quickstart • Verification\nFrontier software engineering in 2026 relies on a multi-agent stack:\n- Google Antigravity for whole-repo refactoring, test harness ex",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/adityadebnath009/Project-M.git",
+      "categories": [
+        "code",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "5b422359-7e61-4121-9b73-a43d4362040b",
+      "name": "Reflektor",
+      "url": "https://github.com/bashovski/reflektor",
+      "oneLiner": "Reflektor is a skill and a powertool for coding agents that turns a branch into a review report in your browser.",
+      "description": "Platform - Documentation - Install - Examples - Report a Bug\nReflektor is a skill and a powertool for coding agents that turns a branch into a review report in your browser.\nRun on your own machine, or in the cloud. Do it solo, or collaborate with your team.\n- Technology-agnostic: Works with any language, framework, or database\n- Review Loops: iterate on your branch, and generate a new report with",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -50,62 +118,11 @@
       "categories": [
         "code",
         "agents",
-        "security"
+        "data"
       ]
     },
     {
-      "id": "61c84bf8-7853-4fe2-a467-d1bfedbf36de",
-      "name": "If Conductor and Cursor Had a Baby (Open Source",
-      "url": "https://github.com/bestboyhq/malini",
-      "oneLiner": "Agentic development environment for builders moving fast.",
-      "description": "Agentic development environment for builders moving fast.\nRun as many Claude Code agents as you want, each in its own worktree.\nMalini does the git, the pull requests and the red checks. You read reports and press Merge.\nFree and open source macOS app.\nAsk for options and pick one. The rest never touch your code.\nEverything else Malini does is in docs/features.md\nand the docs.\n- Start a task. Pres",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/bestboyhq/malini",
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "70d47b2a-f709-4f5a-83c7-d9bc3aa75acf",
-      "name": "Agav",
-      "url": "https://github.com/prapaa-ai/agav",
-      "oneLiner": "⚠️ Experimental Beta — Agav is under active development.",
-      "description": "Terminal-native autonomous agent for real repositories and projects\nDocumentation: https://docs.agav.dev\n⚠️ Experimental Beta — Agav is under active development. Expect breaking changes, rough edges, and rapid iteration. Feedback and bug reports are welcome!\nNo Node.js required. One command, self-contained binary:\ncurl -fsSL https://agav.dev/install.sh | bash\nWindows PowerShell:\nirm https://www.ag",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "1b78a5ab-4368-42e0-b396-9f86a2ac6e9e",
-      "name": "Solipsist",
-      "url": "https://solipsist.sh/",
-      "oneLiner": "We open the second shop on 14 August.",
-      "description": "Q3 launch plan\nWe open the second shop on 14 August. The trial ran for six weeks with 212 customers, and repeat orders rose from 18% to 31%.\nSolipsist is a markdown editor for planning, research and writing. Your agents work inside the page, on your machine, with the models you already use.\n$ curl -fsSL https://solipsist.sh/install | sh\nWe open the second shop on 14 August. The trial ran for six w",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "productivity"
-      ]
-    },
-    {
-      "id": "b19357a5-c5ed-4e2d-8e85-b2aecf572af4",
+      "id": "27605855-6b84-4fbc-becd-4ac3c47683e6",
       "name": "ai--manus2.0",
       "url": "https://github.com/topapothecarycanal/ai--manus2.0",
       "oneLiner": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
@@ -122,11 +139,11 @@
       ]
     },
     {
-      "id": "99f916d6-c68b-457b-ba47-af6538562c4b",
-      "name": "Russian-Speaking Hackers Launched First Automated AI Cyberattack",
-      "url": "https://united24media.com/world/russian-speaking-hackers-launched-first-fully-automated-ai-cyberattack-google-says-24451",
-      "oneLiner": "Russian-speaking hackers used artificial intelligence to carry out what may be the first fully automated cyberattack without human intervention, Politico reported, citing Google, o",
-      "description": "- Category\n- World\nRussian-Speaking Hackers Launched First Fully Automated AI Cyberattack, Google Says\nRussian-speaking hackers used artificial intelligence to carry out what may be the first fully automated cyberattack without human intervention, Politico reported, citing Google, on November 16.\nGoogle’s cyber threat intelligence division detected attackers using AI to “fully automate vulnerabili",
+      "id": "65d4bf20-e371-4346-a97f-d4e276a49da0",
+      "name": "Space-Core",
+      "url": "https://space-core.at/",
+      "oneLiner": "SPACE-CORE ist ein kostenloses Weltraum-MMO im Browser, das zuerst für KI-Agenten gebaut wurde – und zusätzlich für Menschen.",
+      "description": "SPACE-CORE — das Browser-MMO, das deine KI spielt\nSPACE-CORE ist ein kostenloses Weltraum-MMO im Browser, das zuerst für KI-Agenten gebaut wurde – und zusätzlich für Menschen. Du meldest einen Piloten an, gibst deiner KI (Claude, GPT, Gemini oder ein lokales Modell) den Einmalcode, und ab dann fliegt sie selbst: Erz abbauen, am Markt handeln, Piraten jagen, zwischen Sektoren warpen, eine Corporati",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -135,15 +152,15 @@
       "categories": [
         "code",
         "agents",
-        "security"
+        "rag"
       ]
     },
     {
-      "id": "8691c9e4-c2f0-48de-b9bb-0b73bf306063",
-      "name": "We built Jarvis",
-      "url": "https://www.searchagora.com/blog/how-we-built-jarvis-our-ai-team-member-for-every-department",
-      "oneLiner": ", before anyone at Agora is online, one member of our team opens our live site and starts searching for products the way a shopper would.",
-      "description": "Every weekday at 5 a.m., before anyone at Agora is online, one member of our team opens our live site and starts searching for products the way a shopper would. It logs each result to a shared spreadsheet, grades it, and posts a short bug report in Slack. By 6:40 it has checked whether last night's model training went as planned. For the rest of the day, until 11 p.m., it answers requests from the",
+      "id": "f5190ec1-78e4-4bde-9443-41677011e3fc",
+      "name": "RockDesk",
+      "url": "https://rockdesk.io/",
+      "oneLiner": "Remote desktop, terminal, files, port forwarding and VPN in one app — and Claude Code, Codex, Trae or WorkBuddy can work on any of your machines from a single sentence.",
+      "description": "Remote desktop, terminal, files, port forwarding and VPN in one app — and Claude Code, Codex, Trae or WorkBuddy can work on any of your machines from a single sentence. Peer-to-peer and end-to-end encrypted.\nA real, unedited session: one sentence installs the skill, then Claude Code checks the other machine’s disk, fills in a web form with the mouse and keyboard, and copies the result back — all t",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -151,25 +168,59 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "writing"
+        "agents",
+        "video"
       ]
     },
     {
-      "id": "7c782859-c346-4f77-bf35-b7808216b9b4",
-      "name": "AI Data Brokerage",
-      "url": "https://mainstreetwealth.ai/ai-data-brokerage",
-      "oneLiner": "AI data brokerage is the practice of licensing a cleaned, de-identified copy of an operating business’s historical records to AI companies that need real-world examples of how work",
-      "description": "AI data brokerage is the practice of licensing a cleaned, de-identified copy of an operating business’s historical records to AI companies that need real-world examples of how work gets done. The business owner retains every original record, every customer relationship, and the company itself. Only defined use rights are transferred, for a defined time, for a defined purpose. Main Street Wealth re",
+      "id": "c3d703d6-85dd-41c0-adbb-5be1aaa65a5d",
+      "name": "ClearOffice Hub",
+      "url": "https://www.clearofficehub.com/",
+      "oneLiner": "Custom Apps slot into the processes you already run.",
+      "description": "Apps shaped to your workflow, not the other way round\nCustom Apps slot into the processes you already run. \"AI on rails\" means every step is reproducible and auditable, and an App only does what your organization approved.\nLeverage AI-powered Apps locally. Modernize your firm with secure, auditable automations without compromising your data\nRead emails, file PDFs, summarize requests, categorize in",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
-        "rag",
+        "design",
+        "code",
+        "data"
+      ]
+    },
+    {
+      "id": "581516e0-16f6-49d5-8ede-21f8317c9db0",
+      "name": "Indexed_bzip2 2.0",
+      "url": "https://github.com/mxmlnkn/librapidarchive/releases/tag/v2.0.0",
+      "oneLiner": "This major release introduces some small Python wrapper API breaks, comes with major 2-8x performance improvements over 1.",
+      "description": "Repository navigation\nVersion 2.0.0 built on 2026-11-18\nThis major release introduces some small Python wrapper API breaks, comes with major 2-8x performance improvements over 1.7.0 depending on dataset and thread count, and is the first release using AI assistance.\nThe plots contain indexed_bzip2/ibzip2 1.7.0/2.0.0, GNU bzip2, many other old and new bzip2 decompressors, and even GNU gzip and igzi",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "writing",
         "code"
+      ]
+    },
+    {
+      "id": "850430e6-d5f2-475e-9e07-e706eeaae5b4",
+      "name": "Werkbank",
+      "url": "https://github.com/aisyndicate-ch/victors-werkbank",
+      "oneLiner": "Werkbank is a benchmark for language models that you serve yourself.",
+      "description": "Werkbank is a benchmark for language models that you serve yourself. Through any OpenAI-compatible chat-completions endpoint it hands the model 40 fixed tasks with tools, checks the outcome of each one and records what every solved task cost in time and tokens. It is for people who run models on hardware of their own and want to know how well one setup (model, quantization, server, settings and ha",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/aisyndicate-ch/victors-werkbank.git",
+      "categories": [
+        "code",
+        "agents",
+        "image"
       ]
     }
   ]
