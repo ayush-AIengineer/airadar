@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-19T15:21:52.060006+00:00",
-  "count": 11,
+  "generatedAt": "2026-11-20T14:59:23.473639+00:00",
+  "count": 10,
   "tools": [
     {
-      "id": "db76a8d4-92df-42a0-b32a-f14e05a13d4f",
+      "id": "43adcf7f-e9b3-4e1e-b2b1-3f7615700288",
       "name": "Gemini-Config-Checker-",
       "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
       "oneLiner": "Find proxy configs that actually get you into Google AI Studio and Gemini, by testing each one the way a person would: in a signed-in browser, through the route you will really use",
@@ -15,12 +15,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "security",
-        "design"
+        "design",
+        "security"
       ]
     },
     {
-      "id": "5bca9f56-10d0-4db9-a566-c6f7e5052896",
+      "id": "f3fb33a4-a49a-4ad6-9aaa-27196f23d656",
       "name": "GitHub-Copilot-app",
       "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
       "oneLiner": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
@@ -31,68 +31,17 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
         "code",
-        "productivity",
-        "agents"
-      ]
-    },
-    {
-      "id": "049f1f3d-535b-4710-bc92-1836ce50a1a4",
-      "name": "Openspot",
-      "url": "https://github.com/celishq/openspot",
-      "oneLiner": "If you use coding agents, you've probably started making small tools for yourself, like something that watches your pull requests or a controller for the lamps in your room.",
-      "description": "If you use coding agents, you've probably started making small tools for yourself, like something that watches your pull requests or a controller for the lamps in your room. On macOS, each of those quietly turns into an app, and that's where it gets annoying, with permission prompts for every new one, a paid Apple developer account just to send it to a friend, and another Xcode build whenever you ",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "b711b9e5-2571-437b-88bb-e57758cbd5bb",
-      "name": "Agentest",
-      "url": "https://github.com/srpadmanabhuni/agentest",
-      "oneLiner": "agentest is an open-source tool for agentic evals.",
-      "description": "agentest is an open-source tool for agentic evals. It reads the OpenTelemetry traces your agent already recorded and runs 165 tests that judge what the agent actually did, not only what it said: claimed success it did not earn, acted before verifying, followed a hidden instruction, called a tool it should not, or leaked personal data. It runs offline, with no API key, network or LLM judge, so the ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/srpadmanabhuni/agentest",
-      "categories": [
-        "code",
-        "security",
-        "agents"
-      ]
-    },
-    {
-      "id": "552b7583-0e84-4887-9d87-b59a5f509e0d",
-      "name": "Purple Flow",
-      "url": "https://github.com/leetheguy/purple_flow",
-      "oneLiner": "PurpleFlow makes building automated workflows as easy for AI as n8n makes it for people.",
-      "description": "PurpleFlow makes building automated workflows as easy for AI as n8n makes it for people.\nIt was also designed to build and orchestrate AI swarms that build and orchestrate AI swarms. (see the samples)\nAnd it even has a dark mode in the UI!\nHi! I'm Lee Nathan. I'm an AI enthusiast, an automation engineer and an AI-assisted software architect. And this is Purple Flow, a project that perfectly encaps",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
         "productivity"
       ]
     },
     {
-      "id": "88d3e00a-f7b6-4c41-b314-3d945064a75a",
-      "name": "Run CalculiX",
-      "url": "https://omnibuscloud.io/blog/simulation/",
-      "oneLiner": "Distributed 3D rendering was the first kind of work OmnibusCloud carried.",
-      "description": "Distributed 3D rendering was the first kind of work OmnibusCloud carried. Engineering simulation is the second. Three pieces are ready, each usable on its own, each on the machines your office already owns.\nTry it\nNothing below needs an agreement or a conversation with us. An OmnibusCloud account, the client on a few machines, and a private group of your own are the whole setup: the client → · a p",
+      "id": "11c07f16-c2d4-47a2-b57a-a1ba6999bccd",
+      "name": "Greatai Review",
+      "url": "https://greatai.dev/clinic",
+      "oneLiner": "Paste a public GitHub repository.",
+      "description": "greatai Review · Free Clinic for open source\nPaste a public GitHub repository. One review, three stages: a quick AI scan in about a minute, then, for maintainers, an Operum AI team review you can watch live on a board, and an optional review by a vetted human expert.\nAbout a minute, for anyone and any public repo. A quick AI pass over structure, risks, security smells and the five most valuable fi",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
@@ -100,16 +49,15 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "video",
         "design"
       ]
     },
     {
-      "id": "7bd438e9-19db-4911-859d-adb1a32dd6a6",
-      "name": "IceShore",
-      "url": "https://iceshore.ai/en/index.html",
-      "oneLiner": "Your AI reads your Terraform or other IaC and your documents, then adds to your architecture diagram who uses the system, for what, and roughly how many.",
-      "description": "Let AI work on your systems,\nand still know what's inside\nYour AI reads your Terraform or other IaC and your documents, then adds to your architecture diagram who uses the system, for what, and roughly how many. On the same diagram, people see the structure and AI sees the business context the code leaves out. IceShore helps reduce the number of systems no one understands well enough to maintain.\n",
+      "id": "6446db48-61d0-41b7-9004-e8b4eaf4ca26",
+      "name": "Hobby MQTT 3.1.1 broker written in Zig",
+      "url": "https://github.com/threeaccents/zancudo",
+      "oneLiner": "1 broker written in Zig.",
+      "description": "An MQTT 3.1.1 broker written in Zig.\nFor now it only works on Linux, it's single threaded using epoll.\nI started this project because I miss programming. 98% of the code is written with my bare hands. It currently passes Paho's client test suite and I'm using it in \"production\" for my farm.\nIf the motivations remains I want to implement MQTT 5 protocol and add kqeueue support so I can run this on ",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -117,29 +65,45 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "voice",
-        "security"
+        "design"
       ]
     },
     {
-      "id": "f32c868d-5909-46e2-8842-af06b439b7ef",
-      "name": "Cloudflare releases weights of Clairic",
-      "url": "https://maccus.fr/en/cloudflare-clairic-open-weights/",
-      "oneLiner": "On November 18, 2026, Cloudflare made two of its AI models free to download.",
-      "description": "On November 18, 2026, Cloudflare made two of its AI models free to download. Called Clairic and Clairic-flash, they pull data out of documents such as invoices and receipts. A company can now run these models locally, on its own servers, without sending its documents to an online service.\nBoth models read a block of text, a photo or a PDF page. They pick out specific pieces of information, such as",
+      "id": "90b5942e-453e-4946-9ef7-3688d12c57be",
+      "name": "Prediction market competition where only agents can trade",
+      "url": "https://www.vaticin.ai",
+      "oneLiner": "Build an agent in minutes or connect your own advanced system.",
+      "description": "The Global Prediction Arena for\nAI Agents\nBuild an agent in minutes or connect your own advanced system. Compete in weekly global competitions, or launch private tournaments and fantasy leagues for classrooms, research teams, co-workers, or friends. Use Vaticin to explore the science of prediction — no money wagered, just rankings, reputation, and recognition.\n1. Register an Agent\nFirst, register ",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "research"
+      ]
+    },
+    {
+      "id": "7007b163-03f2-406a-9ed1-200a61dd4b3f",
+      "name": "Interviewer assistant",
+      "url": "https://github.com/blackarck/intaiassist",
+      "oneLiner": "An AI assistant for interviewers.",
+      "description": "An AI assistant for interviewers. A bot joins the interview video call (Microsoft Teams for now soon to come Zoom or Google Meet), listens, and privately coaches the interviewer in a web app: a live transcript, a score for every answer (correctness, depth, clarity, relevance, with the weak phrases quoted and a better answer suggested), and follow-up questions to ask next. The assistant never speak",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/blackarck/intaiassist.git",
       "categories": [
+        "agents",
         "code",
-        "voice",
-        "marketing"
+        "data"
       ]
     },
     {
-      "id": "3a88d71b-099f-4a63-b8fb-c67533b3048a",
+      "id": "10383797-c4b1-4702-be04-45c08f55afd9",
       "name": "ai--manus2.0",
       "url": "https://github.com/topapothecarycanal/ai--manus2.0",
       "oneLiner": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
@@ -150,41 +114,59 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "agents",
+        "code",
+        "productivity"
+      ]
+    },
+    {
+      "id": "1296b935-6f1b-41c6-8b45-6cd43f8a63c2",
+      "name": "AI Inference for Beginners",
+      "url": "https://github.com/samir-sarwar/samir-vllm/blob/main/InferenceFromScratch.pdf",
+      "oneLiner": "Your source for the latest features, improvements, and fixes across GitHub products, all in one place.",
+      "description": "Skip to content\nNavigation Menu\nSign in\nProducts\nPlatform\nGitHub\nRepository hosting, code review, and collaboration\nCopilot\nAI coding agent for tasks, projects, and automated work\nBuild & Ship\nActions\nCI/CD and automation\nCode Quality\nQuality analysis, fixes, and enforcement\nCodespaces\nCloud development environments\nSecure\nCode Security\nVulnerability detection and remediation\nSecret Protection\nSec",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
         "code",
         "productivity",
-        "agents"
+        "video"
       ]
     },
     {
-      "id": "c69d9e48-be7d-438e-a233-96acc945b759",
-      "name": "The AI Superintelligence Debate Has Serious Flaws",
-      "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
-      "oneLiner": "Many people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human exti",
-      "description": "Why a Computer Scientist Thinks Superintelligence Won’t Happen\nYet trying for it may still be disastrous\nMany people were caught off guard this past summer when employees of one of the world’s leading AI companies began casually debating whether their products would lead to human extinction. It started when Anthropic researcher Jacob Coxon announced his resignation, warning that his employer and O",
+      "id": "b507fe68-942d-4699-b84f-f247c8f19271",
+      "name": "Agent Guard",
+      "url": "https://github.com/ShieldaAI/agent-guard",
+      "oneLiner": "Agent Guard decides which tool calls an AI agent is allowed to make.",
+      "description": "Agent Guard decides which tool calls an AI agent is allowed to make. Your application registers each tool, gives every task access to specific resources, and sends the agent's calls through one guard. A call outside what the task was given never runs. A destructive call can wait until a person approves that exact action.\nIt is a TypeScript library for Node.js 22 or newer (22.13 for the executor an",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/ShieldaAI/agent-guard.git",
       "categories": [
-        "code",
         "agents",
-        "research"
+        "code",
+        "data"
       ]
     },
     {
-      "id": "7b731043-c899-4d86-814a-33c5e259d99b",
-      "name": "AI Overworks People",
-      "url": "https://twitter.com/catalinmpit/status/2123061832781090948",
-      "oneLiner": "It's absolutely fascinating how people are digging themselves an early grave.",
-      "description": "It's absolutely fascinating how people are digging themselves an early grave.\nAI's promise was to allow people to work less and get more done. But now people are working more, feeling more stressed, and lonelier than ever.\nI see running multiple agents worse than doomscrolling TikTok videos the whole day.\nYes, you may get more done with AI, but the constant context switching and trying to follow e",
+      "id": "7ef26b12-ce3a-43e7-ab82-cf148c8f6b39",
+      "name": "TheGeoPot",
+      "url": "https://thegeopot.com/",
+      "oneLiner": "Show HN: TheGeoPot – AI scanner for minerals, coins, plants and crops",
+      "description": "👤\nSign in to sync your data\nCloud backup · global marketplace\nLight Mode\nSwitch between dark and light appearance\nPush Notifications\nGet notified when buyers contact you\nHelp improve AI\nShare your scan photos anonymously\nHow to use\n1. 💎 MINERAL — photo analysis\n2. 🌾 FIELDS — disease + NDVI\n3. 🌿 PLANTS — species, health, volume\n4. 🛰 GEO MAP — tap for NASA EMIT + geology\nData Sources\n🛰 NASA EMIT · 📡",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents"
+        "data",
+        "image"
       ]
     }
   ]
