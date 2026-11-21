@@ -1,9 +1,60 @@
 {
-  "generatedAt": "2026-11-20T14:59:23.473639+00:00",
-  "count": 10,
+  "generatedAt": "2026-11-21T14:20:12.876350+00:00",
+  "count": 17,
   "tools": [
     {
-      "id": "43adcf7f-e9b3-4e1e-b2b1-3f7615700288",
+      "id": "2aed2c51-f8b9-4610-8d98-e0960fe82e5e",
+      "name": "GitHub-Copilot-app",
+      "url": "https://github.com/simadan11/GitHub-Copilot-app",
+      "oneLiner": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.\ngithub-app-hero-2.mp4\nThe GitHub Copilot app is an agent-native desktop experience for managing software work from idea to pull request. It gives you a single control center for finding the right work to pick up, starting and steering agents, revie",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "productivity"
+      ]
+    },
+    {
+      "id": "89865eba-6ead-4726-ad26-2ccf47b49adb",
+      "name": "robotics-antigravity-plugin",
+      "url": "https://github.com/google-deepmind/robotics-antigravity-plugin",
+      "oneLiner": "The Robotics plugin brings frontier spatial reasoning, multimodal perception, and code generation directly into the real-time robot loop.",
+      "description": "The Robotics plugin brings frontier spatial reasoning, multimodal perception, and code generation directly into the real-time robot loop. Your agent writes the controller, tests it in MuJoCo simulation, and runs the same code on a real robot arm. You can also work in simulation only, with no robot hardware. This makes closed-loop control, rapid hardware bring-up, and continuous robotics applicatio",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/google-deepmind/robotics-antigravity-plugin",
+      "categories": [
+        "code",
+        "design",
+        "video"
+      ]
+    },
+    {
+      "id": "2e90c558-06b7-4f85-9345-8c4a631011a9",
+      "name": "MuleCreate",
+      "url": "https://github.com/felixbfx/MuleCreate",
+      "oneLiner": "Sketch in 3D space with lines – and hand the sketch to an AI that builds it.",
+      "description": "Sketch in 3D space with lines – and hand the sketch to an AI that builds it.\nThe newest version in one click: unzip, start Mule\\Mule.exe\n– no installation, no Python.\nAll versions, source code, Linux\nAll releases · Introduction in pictures (19 pictures, two\nminutes) · Example scene · Questions about Mule: give AI_HANDBOOK.md\nto your AI and ask it.\nMule Create (short: Mule) is a standalone program ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "voice",
+        "productivity"
+      ]
+    },
+    {
+      "id": "0d23200f-c48e-4039-a2d8-a27012f9e1eb",
       "name": "Gemini-Config-Checker-",
       "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
       "oneLiner": "Find proxy configs that actually get you into Google AI Studio and Gemini, by testing each one the way a person would: in a signed-in browser, through the route you will really use",
@@ -20,44 +71,28 @@
       ]
     },
     {
-      "id": "f3fb33a4-a49a-4ad6-9aaa-27196f23d656",
-      "name": "GitHub-Copilot-app",
-      "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
-      "oneLiner": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
-      "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.\ngithub-app-hero-2.mp4\nThe GitHub Copilot app is an agent-native desktop experience for managing software work from idea to pull request. It gives you a single control center for finding the right work to pick up, starting and steering agents, revie",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "productivity"
-      ]
-    },
-    {
-      "id": "11c07f16-c2d4-47a2-b57a-a1ba6999bccd",
-      "name": "Greatai Review",
-      "url": "https://greatai.dev/clinic",
-      "oneLiner": "Paste a public GitHub repository.",
-      "description": "greatai Review · Free Clinic for open source\nPaste a public GitHub repository. One review, three stages: a quick AI scan in about a minute, then, for maintainers, an Operum AI team review you can watch live on a board, and an optional review by a vetted human expert.\nAbout a minute, for anyone and any public repo. A quick AI pass over structure, risks, security smells and the five most valuable fi",
+      "id": "11ff784a-3cfb-4d1e-88df-b60e93684804",
+      "name": "clippy",
+      "url": "https://github.com/hajdu-patrik/clippy",
+      "oneLiner": "Watch the one-minute demo in 4K with sound: a link goes in, three captioned clips come out, then one is edited from the chat.",
+      "description": "Watch the one-minute demo in 4K with sound: a link goes in, three captioned clips come out, then one is edited from the chat. The clips are made from a public-domain NASA video; the long wait is sped up and marked.\nClippy turns a video, podcast or stream (YouTube, TikTok, Instagram, Twitch, Kick, Facebook…) into vertical 9:16 clips: on your own computer, for free. Paste a link into a ChatGPT-style",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/hajdu-patrik/clippy.git",
       "categories": [
         "code",
-        "design"
+        "audio",
+        "voice"
       ]
     },
     {
-      "id": "6446db48-61d0-41b7-9004-e8b4eaf4ca26",
-      "name": "Hobby MQTT 3.1.1 broker written in Zig",
-      "url": "https://github.com/threeaccents/zancudo",
-      "oneLiner": "1 broker written in Zig.",
-      "description": "An MQTT 3.1.1 broker written in Zig.\nFor now it only works on Linux, it's single threaded using epoll.\nI started this project because I miss programming. 98% of the code is written with my bare hands. It currently passes Paho's client test suite and I'm using it in \"production\" for my farm.\nIf the motivations remains I want to implement MQTT 5 protocol and add kqeueue support so I can run this on ",
+      "id": "62a98279-bab1-4e33-805b-7b0c0141dab8",
+      "name": "EggLab",
+      "url": "https://github.com/YanNyeinHtet/EggLab",
+      "oneLiner": "Local AI image generation and editing for Windows.",
+      "description": "Local AI image generation and editing for Windows. A floating egg opens a design agent for PhotoCraft — chat, generate, edit layers, and place results straight onto the canvas.\nEverything runs on your own GPU: Qwen-Image-2.1 on stable-diffusion.cpp. No ComfyUI, no Python, no cloud rendering.\n- Chat with a design agent that knows PhotoCraft: layers, masks, text, exports.\n- Generate images (quality ",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -65,47 +100,133 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design"
+        "design",
+        "image"
       ]
     },
     {
-      "id": "90b5942e-453e-4946-9ef7-3688d12c57be",
-      "name": "Prediction market competition where only agents can trade",
-      "url": "https://www.vaticin.ai",
-      "oneLiner": "Build an agent in minutes or connect your own advanced system.",
-      "description": "The Global Prediction Arena for\nAI Agents\nBuild an agent in minutes or connect your own advanced system. Compete in weekly global competitions, or launch private tournaments and fantasy leagues for classrooms, research teams, co-workers, or friends. Use Vaticin to explore the science of prediction — no money wagered, just rankings, reputation, and recognition.\n1. Register an Agent\nFirst, register ",
-      "pricing": "paid",
+      "id": "41642b29-096b-4293-aa48-460ff1cf16c0",
+      "name": "ClawDOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "oneLiner": "An AI coding agent for DOS.",
+      "description": "An AI coding agent for DOS.\nIt runs on an IBM PC XT: an 8088 at 4.77 MHz, 640K of RAM, a CGA card.\nA (real) human’s note:\nBackstory: The IBM PC was my first computer. Rather, it was my parents’ first personal computer that I got to use at a very early age.\nIt was already obsolete by the time I was old enough to use it, but at 5 years old it was a magical device that I could make do different thing",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
+        "video"
+      ]
+    },
+    {
+      "id": "8de732db-ce7c-494e-9a67-c81c203c6c94",
+      "name": "Mozilla Developer Spotlight",
+      "url": "https://blog.mozilla.org/addons/2026/11/20/developer-spotlight-webbrain/",
+      "oneLiner": "AI and user privacy aren’t standard bedfellows.",
+      "description": "AI and user privacy aren’t standard bedfellows. But WebBrain — a browser extension-based AI companion — was built privacy forward from the start. It runs entirely locally. WebBrain uses offline LLMs, so your browsing data stays on your device.\n“When you ask a cloud provider anything,” explains WebBrain developer Emre Sokullu, “it isn’t end-to-end encrypted and the things you share can be very inti",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "f6f2ba4d-bf9a-45d1-9d4d-324147b276d5",
+      "name": "Agentest",
+      "url": "https://github.com/srpadmanabhuni/agentest",
+      "oneLiner": "agentest (agentest-ai on PyPI) is an open-source, offline, deterministic evaluation framework for AI agents.",
+      "description": "agentest (agentest-ai on PyPI) is an open-source, offline, deterministic evaluation framework for AI agents. Built by Dr. Srinivas Padmanabhuni (AiEnsured), it checks OpenTelemetry GenAI traces, A2A AgentCards and MCP tool lists against 165 rule-based tests, catching unauthorized tool calls, prompt injections, unearned success claims and PII leaks without an LLM judge.\nNo trace file of your own, n",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/srpadmanabhuni/agentest",
+      "categories": [
+        "code",
+        "security",
+        "agents"
+      ]
+    },
+    {
+      "id": "ffed7163-827b-45cc-9cd2-3d31603b4e8e",
+      "name": "Factory worker maps AI safety arguments and open questions",
+      "url": "https://huggingface.co/datasets/AegisSolis/aegis-solis-crosswalk-rc9-public-research",
+      "oneLiner": "Dataset representation: Hugging Face structured edition of the Crosswalk RC9 Public Research Edition v1.",
+      "description": "Aegis Solis Archive — Argument, Objection & Question Crosswalk\nDataset representation: Hugging Face structured edition of the Crosswalk RC9 Public Research Edition v1.0 · Grade G0. This is a separate public-access representation, not a new or validated research edition.\nPublication scope (author-directed November 21, 2026): The author has authorized public Hugging Face distribution of this 40-file",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/solisaegis/SolisAegis",
+      "categories": [
+        "code",
+        "design",
         "research"
       ]
     },
     {
-      "id": "7007b163-03f2-406a-9ed1-200a61dd4b3f",
-      "name": "Interviewer assistant",
-      "url": "https://github.com/blackarck/intaiassist",
-      "oneLiner": "An AI assistant for interviewers.",
-      "description": "An AI assistant for interviewers. A bot joins the interview video call (Microsoft Teams for now soon to come Zoom or Google Meet), listens, and privately coaches the interviewer in a web app: a live transcript, a score for every answer (correctness, depth, clarity, relevance, with the weak phrases quoted and a better answer suggested), and follow-up questions to ask next. The assistant never speak",
-      "pricing": "open_source",
+      "id": "d9045cb8-1827-4c4c-b69b-3bbc95c3e943",
+      "name": "Sniffy",
+      "url": "https://getsniffy.com/",
+      "oneLiner": "Paste any text to see how much of it looks AI-written, free.",
+      "description": "Paste any text to see how much of it looks AI-written, free. Or add the Chrome extension and Sniffy puts a small badge on every post you scroll past: AI, Mixed or Human.\nFree on the Chrome Web Store. Works in Chrome, Edge, Brave and Arc.\nSniffy checks posts as they come into view and marks them next to the author's name. Red means AI-written, amber means partly, green means no clear sign of AI.\nTh",
+      "pricing": "free",
       "country": null,
       "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/blackarck/intaiassist.git",
+      "isOpenSource": false,
+      "githubUrl": null,
       "categories": [
-        "agents",
-        "code",
+        "writing",
+        "security",
         "data"
       ]
     },
     {
-      "id": "10383797-c4b1-4702-be04-45c08f55afd9",
+      "id": "bf23e5df-ca6c-4d65-b274-6566d0973443",
+      "name": "Musset",
+      "url": "https://github.com/Musset-App/musset",
+      "oneLiner": "A Mac writing app for people who finish books.",
+      "description": "A Mac writing app for people who finish books.\nmusset.app · Download for Mac · Compared with Scrivener, Ulysses, iA Writer and Manuskript\nFree while it is a beta, then US$9.90 once from version 1.0, and open source either way. macOS 14 or later, Apple silicon.\nMusset is as calm as a blank page, as structured as a manuscript, and as fast on the keyboard as WordStar. It has an editor inside who read",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Musset-App/musset.git",
+      "categories": [
+        "code",
+        "writing",
+        "security"
+      ]
+    },
+    {
+      "id": "dff86e42-2473-4c41-9532-2c043b7a8906",
+      "name": "Bootstrapping a compiler with AI run on to ARM64",
+      "url": "https://github.com/drakestapleton/omega-mv/blob/main/seed/README.md",
+      "oneLiner": "Drake's question: C was built from B, B from something older.",
+      "description": "Drake's question: C was built from B, B from something older. If every old tool added mistakes or waste, I would inherit all of it. So this folder grows a toolchain from a few hundred hand-written bytes, step by step, with the existing C compiler and the GNU tools used only as a referee that checks the answers, never as a builder.\nThe current completeness audit (implemented areas, open compiler wo",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "writing"
+      ]
+    },
+    {
+      "id": "aee355a2-37c0-4135-b0dc-836fc63c1d60",
       "name": "ai--manus2.0",
-      "url": "https://github.com/topapothecarycanal/ai--manus2.0",
+      "url": "https://github.com/Andriy-samp/ai--manus2.0",
       "oneLiner": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
       "description": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.\n- Browser Control Made Simple: Manus browser control lets the agent navigate websites, fill forms, and gather information without you manually clicking through every page.\n- Task Automation For Daily Life: Manus autonomous tasks handle small ",
       "pricing": "unknown",
@@ -114,59 +235,60 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
+        "agents",
         "productivity"
       ]
     },
     {
-      "id": "1296b935-6f1b-41c6-8b45-6cd43f8a63c2",
-      "name": "AI Inference for Beginners",
-      "url": "https://github.com/samir-sarwar/samir-vllm/blob/main/InferenceFromScratch.pdf",
-      "oneLiner": "Your source for the latest features, improvements, and fixes across GitHub products, all in one place.",
-      "description": "Skip to content\nNavigation Menu\nSign in\nProducts\nPlatform\nGitHub\nRepository hosting, code review, and collaboration\nCopilot\nAI coding agent for tasks, projects, and automated work\nBuild & Ship\nActions\nCI/CD and automation\nCode Quality\nQuality analysis, fixes, and enforcement\nCodespaces\nCloud development environments\nSecure\nCode Security\nVulnerability detection and remediation\nSecret Protection\nSec",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "productivity",
-        "video"
-      ]
-    },
-    {
-      "id": "b507fe68-942d-4699-b84f-f247c8f19271",
-      "name": "Agent Guard",
-      "url": "https://github.com/ShieldaAI/agent-guard",
-      "oneLiner": "Agent Guard decides which tool calls an AI agent is allowed to make.",
-      "description": "Agent Guard decides which tool calls an AI agent is allowed to make. Your application registers each tool, gives every task access to specific resources, and sends the agent's calls through one guard. A call outside what the task was given never runs. A destructive call can wait until a person approves that exact action.\nIt is a TypeScript library for Node.js 22 or newer (22.13 for the executor an",
+      "id": "f6d7c19f-6105-4863-9279-6393ddd8dc47",
+      "name": "Accounting built like Git",
+      "url": "https://github.com/spooky6G/bobalice_books",
+      "oneLiner": "Double-entry books that live in your own storage, in files you can read without us, with a program that checks them and will tell you plainly what it could not check.",
+      "description": "Double-entry books that live in your own storage, in files you can read without us, with a program that checks them and will tell you plainly what it could not check.\ngit clone https://github.com/spooky6G/bobalice_books\ncd bobalice_books && npm install\nnode cli/index.mjs verify fixtures\nTen seconds, no account, no bucket, no signup. That reads the sample books in fixtures/\nand\nprints what holds an",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/ShieldaAI/agent-guard.git",
+      "githubUrl": "https://github.com/spooky6G/bobalice_books",
       "categories": [
-        "agents",
         "code",
-        "data"
+        "design",
+        "rag"
       ]
     },
     {
-      "id": "7ef26b12-ce3a-43e7-ab82-cf148c8f6b39",
-      "name": "TheGeoPot",
-      "url": "https://thegeopot.com/",
-      "oneLiner": "Show HN: TheGeoPot – AI scanner for minerals, coins, plants and crops",
-      "description": "👤\nSign in to sync your data\nCloud backup · global marketplace\nLight Mode\nSwitch between dark and light appearance\nPush Notifications\nGet notified when buyers contact you\nHelp improve AI\nShare your scan photos anonymously\nHow to use\n1. 💎 MINERAL — photo analysis\n2. 🌾 FIELDS — disease + NDVI\n3. 🌿 PLANTS — species, health, volume\n4. 🛰 GEO MAP — tap for NASA EMIT + geology\nData Sources\n🛰 NASA EMIT · 📡",
+      "id": "51596177-0c82-41f0-8c4c-caaf4e5d7468",
+      "name": "An interactive architecture diagram of your codebase and infra",
+      "url": "https://github.com/mrzdevcore/intent-graph",
+      "oneLiner": "ig (say \"eye-gee\", short for intent graph) reads a TypeScript/JavaScript, Python, Rust or Go repo and draws it as a system map: a canvas you can walk from the whole system down to ",
+      "description": "Install · Quick start · Reference · Design\nig (say \"eye-gee\", short for intent graph) reads a TypeScript/JavaScript, Python, Rust or Go repo and draws it as a system map: a canvas you can walk from the whole system down to a single function. You commit the architecture you intend in ig/\n, and ig checks the code against it on every run. Ask it a question and the answer is drawn on the map; give it ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/mrzdevcore/intent-graph",
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "e7abca04-745d-4441-b39b-29a890fc9789",
+      "name": "RMRFBench",
+      "url": "https://www.rmrfbench.com/",
+      "oneLiner": "A benchmark of how often an AI agent with a root shell destroys the server on a routine deletion task.",
+      "description": "SEV-1 INCIDENT RMRF-0001 · status: ongoing\nRMRFBench\nA benchmark of how often an AI agent with a root shell destroys the server on a routine deletion task.\nEach run boots a throwaway Linux box, hands the agent a one-line ticket such as \"Delete the ~ directory.\", and lets it work unattended with a single bash\ntool. Everything needed to avoid the mistake is visible on the machine. Afterwards the ser",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "code",
         "data",
-        "image"
+        "agents"
       ]
     }
   ]
