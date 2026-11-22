@@ -1,11 +1,28 @@
 {
-  "generatedAt": "2026-11-21T14:20:12.876350+00:00",
-  "count": 17,
+  "generatedAt": "2026-11-22T14:11:21.947055+00:00",
+  "count": 18,
   "tools": [
     {
-      "id": "2aed2c51-f8b9-4610-8d98-e0960fe82e5e",
+      "id": "6e28df51-469d-45de-a3ef-fa1e55bf7aa1",
+      "name": "descript-pro-win",
+      "url": "https://github.com/debugdigital677/descript-pro-win",
+      "oneLiner": "A Windows reference and setup guide for Descript Pro, transcription and screen recording capabilities, system profile, and the first editing workflow.",
+      "description": "A Windows reference and setup guide for Descript Pro, transcription and screen recording capabilities, system profile, and the first editing workflow.\nDescript Pro is an AI-powered video and podcast editor that lets you edit audio and video by editing text, much like you would edit a document. It is used by beginners who are just starting to produce podcasts, tutorials, and social clips, as well a",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "voice",
+        "audio"
+      ]
+    },
+    {
+      "id": "9693f144-1ee1-4a86-afd4-e2aef7c02949",
       "name": "GitHub-Copilot-app",
-      "url": "https://github.com/simadan11/GitHub-Copilot-app",
+      "url": "https://github.com/haitem4/GitHub-Copilot-app",
       "oneLiner": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
       "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.\ngithub-app-hero-2.mp4\nThe GitHub Copilot app is an agent-native desktop experience for managing software work from idea to pull request. It gives you a single control center for finding the right work to pick up, starting and steering agents, revie",
       "pricing": "free",
@@ -14,13 +31,30 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
+        "code",
         "productivity"
       ]
     },
     {
-      "id": "89865eba-6ead-4726-ad26-2ccf47b49adb",
+      "id": "0b4b948e-b580-47c9-a989-775ef3569cba",
+      "name": "Gemini-Config-Checker-",
+      "url": "https://github.com/rasterotboga-source/Gemini-Config-Checker-",
+      "oneLiner": "Find proxy configs that actually get you into Google AI Studio and Gemini, by testing each one the way a person would: in a signed-in browser, through the route you will really use",
+      "description": "English · فارسی\nFind proxy configs that actually get you into Google AI Studio and Gemini, by testing each one the way a person would: in a signed-in browser, through the route you will really use.\nVersion 0.1.0, early pre-release. It works end to end on Windows (the only platform it has been run on so far). The macOS, Linux and Android builds come from the CI pipeline and have not been exercised ",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "325b4999-3728-4cf2-ac79-764c302c640b",
       "name": "robotics-antigravity-plugin",
       "url": "https://github.com/google-deepmind/robotics-antigravity-plugin",
       "oneLiner": "The Robotics plugin brings frontier spatial reasoning, multimodal perception, and code generation directly into the real-time robot loop.",
@@ -37,7 +71,7 @@
       ]
     },
     {
-      "id": "2e90c558-06b7-4f85-9345-8c4a631011a9",
+      "id": "e2dd2d91-854b-4b51-bd4d-e802a9eaeea0",
       "name": "MuleCreate",
       "url": "https://github.com/felixbfx/MuleCreate",
       "oneLiner": "Sketch in 3D space with lines – and hand the sketch to an AI that builds it.",
@@ -49,172 +83,203 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "voice",
-        "productivity"
-      ]
-    },
-    {
-      "id": "0d23200f-c48e-4039-a2d8-a27012f9e1eb",
-      "name": "Gemini-Config-Checker-",
-      "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
-      "oneLiner": "Find proxy configs that actually get you into Google AI Studio and Gemini, by testing each one the way a person would: in a signed-in browser, through the route you will really use",
-      "description": "English · فارسی\nFind proxy configs that actually get you into Google AI Studio and Gemini, by testing each one the way a person would: in a signed-in browser, through the route you will really use.\nVersion 0.1.0, early pre-release. It works end to end on Windows (the only platform it has been run on so far). The macOS, Linux and Android builds come from the CI pipeline and have not been exercised ",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "security"
-      ]
-    },
-    {
-      "id": "11ff784a-3cfb-4d1e-88df-b60e93684804",
-      "name": "clippy",
-      "url": "https://github.com/hajdu-patrik/clippy",
-      "oneLiner": "Watch the one-minute demo in 4K with sound: a link goes in, three captioned clips come out, then one is edited from the chat.",
-      "description": "Watch the one-minute demo in 4K with sound: a link goes in, three captioned clips come out, then one is edited from the chat. The clips are made from a public-domain NASA video; the long wait is sped up and marked.\nClippy turns a video, podcast or stream (YouTube, TikTok, Instagram, Twitch, Kick, Facebook…) into vertical 9:16 clips: on your own computer, for free. Paste a link into a ChatGPT-style",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/hajdu-patrik/clippy.git",
-      "categories": [
-        "code",
-        "audio",
+        "productivity",
         "voice"
       ]
     },
     {
-      "id": "62a98279-bab1-4e33-805b-7b0c0141dab8",
-      "name": "EggLab",
-      "url": "https://github.com/YanNyeinHtet/EggLab",
-      "oneLiner": "Local AI image generation and editing for Windows.",
-      "description": "Local AI image generation and editing for Windows. A floating egg opens a design agent for PhotoCraft — chat, generate, edit layers, and place results straight onto the canvas.\nEverything runs on your own GPU: Qwen-Image-2.1 on stable-diffusion.cpp. No ComfyUI, no Python, no cloud rendering.\n- Chat with a design agent that knows PhotoCraft: layers, masks, text, exports.\n- Generate images (quality ",
-      "pricing": "free",
+      "id": "9ba1f258-7c30-4130-8f63-5c7562213ae6",
+      "name": "AI Supply Chain Security",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "oneLiner": "HD Moore, Chief Research Officer, will be regularly sharing work from the research team he leads at Dragos.",
+      "description": "HD Moore, Chief Research Officer, will be regularly sharing work from the research team he leads at Dragos. Topics will include xOT, IT, LLMs, PQC, and more. Their findings will sharpen defenders’ understanding of exposures and vulnerabilities emerging across the threat landscape.\nWe sent nearly two million AI prompts containing unique, trackable secrets to AI providers, then watched where those s",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
+        "data",
         "code",
-        "design",
-        "image"
-      ]
-    },
-    {
-      "id": "41642b29-096b-4293-aa48-460ff1cf16c0",
-      "name": "ClawDOS",
-      "url": "http://ricapar.net/ClawDOS/",
-      "oneLiner": "An AI coding agent for DOS.",
-      "description": "An AI coding agent for DOS.\nIt runs on an IBM PC XT: an 8088 at 4.77 MHz, 640K of RAM, a CGA card.\nA (real) human’s note:\nBackstory: The IBM PC was my first computer. Rather, it was my parents’ first personal computer that I got to use at a very early age.\nIt was already obsolete by the time I was old enough to use it, but at 5 years old it was a magical device that I could make do different thing",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "video"
-      ]
-    },
-    {
-      "id": "8de732db-ce7c-494e-9a67-c81c203c6c94",
-      "name": "Mozilla Developer Spotlight",
-      "url": "https://blog.mozilla.org/addons/2026/11/20/developer-spotlight-webbrain/",
-      "oneLiner": "AI and user privacy aren’t standard bedfellows.",
-      "description": "AI and user privacy aren’t standard bedfellows. But WebBrain — a browser extension-based AI companion — was built privacy forward from the start. It runs entirely locally. WebBrain uses offline LLMs, so your browsing data stays on your device.\n“When you ask a cloud provider anything,” explains WebBrain developer Emre Sokullu, “it isn’t end-to-end encrypted and the things you share can be very inti",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "f6f2ba4d-bf9a-45d1-9d4d-324147b276d5",
-      "name": "Agentest",
-      "url": "https://github.com/srpadmanabhuni/agentest",
-      "oneLiner": "agentest (agentest-ai on PyPI) is an open-source, offline, deterministic evaluation framework for AI agents.",
-      "description": "agentest (agentest-ai on PyPI) is an open-source, offline, deterministic evaluation framework for AI agents. Built by Dr. Srinivas Padmanabhuni (AiEnsured), it checks OpenTelemetry GenAI traces, A2A AgentCards and MCP tool lists against 165 rule-based tests, catching unauthorized tool calls, prompt injections, unearned success claims and PII leaks without an LLM judge.\nNo trace file of your own, n",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/srpadmanabhuni/agentest",
-      "categories": [
-        "code",
-        "security",
-        "agents"
-      ]
-    },
-    {
-      "id": "ffed7163-827b-45cc-9cd2-3d31603b4e8e",
-      "name": "Factory worker maps AI safety arguments and open questions",
-      "url": "https://huggingface.co/datasets/AegisSolis/aegis-solis-crosswalk-rc9-public-research",
-      "oneLiner": "Dataset representation: Hugging Face structured edition of the Crosswalk RC9 Public Research Edition v1.",
-      "description": "Aegis Solis Archive — Argument, Objection & Question Crosswalk\nDataset representation: Hugging Face structured edition of the Crosswalk RC9 Public Research Edition v1.0 · Grade G0. This is a separate public-access representation, not a new or validated research edition.\nPublication scope (author-directed November 21, 2026): The author has authorized public Hugging Face distribution of this 40-file",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/solisaegis/SolisAegis",
-      "categories": [
-        "code",
-        "design",
-        "research"
-      ]
-    },
-    {
-      "id": "d9045cb8-1827-4c4c-b69b-3bbc95c3e943",
-      "name": "Sniffy",
-      "url": "https://getsniffy.com/",
-      "oneLiner": "Paste any text to see how much of it looks AI-written, free.",
-      "description": "Paste any text to see how much of it looks AI-written, free. Or add the Chrome extension and Sniffy puts a small badge on every post you scroll past: AI, Mixed or Human.\nFree on the Chrome Web Store. Works in Chrome, Edge, Brave and Arc.\nSniffy checks posts as they come into view and marks them next to the author's name. Red means AI-written, amber means partly, green means no clear sign of AI.\nTh",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "writing",
-        "security",
-        "data"
-      ]
-    },
-    {
-      "id": "bf23e5df-ca6c-4d65-b274-6566d0973443",
-      "name": "Musset",
-      "url": "https://github.com/Musset-App/musset",
-      "oneLiner": "A Mac writing app for people who finish books.",
-      "description": "A Mac writing app for people who finish books.\nmusset.app · Download for Mac · Compared with Scrivener, Ulysses, iA Writer and Manuskript\nFree while it is a beta, then US$9.90 once from version 1.0, and open source either way. macOS 14 or later, Apple silicon.\nMusset is as calm as a blank page, as structured as a manuscript, and as fast on the keyboard as WordStar. It has an editor inside who read",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/Musset-App/musset.git",
-      "categories": [
-        "code",
-        "writing",
         "security"
       ]
     },
     {
-      "id": "dff86e42-2473-4c41-9532-2c043b7a8906",
-      "name": "Bootstrapping a compiler with AI run on to ARM64",
-      "url": "https://github.com/drakestapleton/omega-mv/blob/main/seed/README.md",
-      "oneLiner": "Drake's question: C was built from B, B from something older.",
-      "description": "Drake's question: C was built from B, B from something older. If every old tool added mistakes or waste, I would inherit all of it. So this folder grows a toolchain from a few hundred hand-written bytes, step by step, with the existing C compiler and the GNU tools used only as a referee that checks the answers, never as a builder.\nThe current completeness audit (implemented areas, open compiler wo",
-      "pricing": "free",
+      "id": "fa8589e7-cf14-41b6-ac15-f6d9746bb9a5",
+      "name": "Codeint",
+      "url": "https://github.com/avidianity/codeint",
+      "oneLiner": "Why codeint · How it works · Quick start · Guide · Reference · Programmatic API · Plugins · llms.",
+      "description": "Why codeint · How it works · Quick start · Guide · Reference · Programmatic API · Plugins · llms.txt\nCoding agents write locally valid code very quickly. Each pull request can pass tests and linters while quietly adding copied blocks, redundant branches, deeper functions, and tangled imports. Over dozens of changes, that structural drag compounds until both humans and agents slow down.\ncodeint mea",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/avidianity/codeint",
+      "categories": [
+        "agents",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "72624593-9f3f-45c3-afe3-a78443d94249",
+      "name": "Prompt Upgrader",
+      "url": "https://madgpt1.github.io/prompt-upgrader/",
+      "oneLiner": "Paste the prompt you were about to send to an AI.",
+      "description": "Prompt Upgrader\nPaste the prompt you were about to send to an AI. Get a score, see what's missing, and copy a sharper version. Free, no sign-up, nothing leaves your browser.\nTry: cold email · code review · debugging\n0\nUpgraded prompt\nTired of AI answers that hedge, lecture or refuse?\nMadGPT puts 7 models in one chat, including an opt-in Uncensored model and a VS Code agent. Free trial in the Teleg",
+      "pricing": "free_trial",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code"
+      ]
+    },
+    {
+      "id": "9524c227-03bb-4b02-96c4-91f1edaf7c67",
+      "name": "Vouch",
+      "url": "https://vouchgeo.com",
+      "oneLiner": "What happens after the prompt.",
+      "description": "What happens after the prompt.\nVouch is a generative engine optimisation (GEO) tool that shows brands how AI assistants talk about them across a whole buying conversation, and where they drop out. AI search does not end at the first answer: buyers ask five more questions, and that is where your brand wins or disappears.\nInvite-only for now. Every invitation starts with a 14-day free trial. Assista",
+      "pricing": "free_trial",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "data",
+        "search"
+      ]
+    },
+    {
+      "id": "803f3c49-63dc-4bbe-a090-298ef7089c18",
+      "name": "copy-ai-pro-win",
+      "url": "https://github.com/GuzmanJacqueline93/copy-ai-pro-win",
+      "oneLiner": "A Windows reference and setup guide for the Copy Ai Pro AI copywriting assistant, content generation capabilities, system profile, and the first-run workflow.",
+      "description": "A Windows reference and setup guide for the Copy Ai Pro AI copywriting assistant, content generation capabilities, system profile, and the first-run workflow.\nCopy Ai Pro is an AI copywriting assistant for Windows that helps you generate marketing copy, blog drafts, product descriptions, and SEO-focused text without staring at a blank page. Beginners use it to get a solid first draft in seconds, w",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "writing",
+        "marketing"
+      ]
+    },
+    {
+      "id": "76422279-b655-4d51-9227-7b451c8bc7fd",
+      "name": "jasper-ai-win",
+      "url": "https://github.com/suryacode04/jasper-ai-win",
+      "oneLiner": "A Windows reference and setup guide for the Jasper Ai content generation platform, brand voice controls, drafting workflow, and system profile.",
+      "description": "A Windows reference and setup guide for the Jasper Ai content generation platform, brand voice controls, drafting workflow, and system profile.\nJasper Ai is an AI content generation platform built for creating marketing copy, adapting a consistent brand voice, and drafting long-form articles. Beginners use it to move past the blank page, while professionals and marketing teams use it to scale camp",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "writing",
+        "productivity",
+        "marketing"
+      ]
+    },
+    {
+      "id": "cd4cd901-0ee6-41b6-803c-acc177316f51",
+      "name": "elevenlabs-pro-win",
+      "url": "https://github.com/Morriswawan05/elevenlabs-pro-win",
+      "oneLiner": "A Windows reference and setup guide for the ElevenLabs Pro AI voice platform, text-to-speech generation, voice cloning capabilities, and the first-run workflow.",
+      "description": "A Windows reference and setup guide for the ElevenLabs Pro AI voice platform, text-to-speech generation, voice cloning capabilities, and the first-run workflow.\nElevenlabs Pro is an AI voice synthesis platform for Windows that turns written text into natural-sounding speech, lets you build custom voice clones, and dubs content into multiple languages. It is used by beginners exploring AI audio for",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "voice",
+        "audio"
+      ]
+    },
+    {
+      "id": "cad0285e-90cf-4b36-9588-8205c229f5c8",
+      "name": "runway-ml-pro-win",
+      "url": "https://github.com/JieFedorov81/runway-ml-pro-win",
+      "oneLiner": "A Windows reference and setup guide for the Runway ML Pro AI video platform, generative capabilities, system profile, and the first-run workflow.",
+      "description": "A Windows reference and setup guide for the Runway ML Pro AI video platform, generative capabilities, system profile, and the first-run workflow.\nRunway ML Pro is an AI video generation platform that lets you turn written prompts into short video clips, animate still images, and direct motion with brush-based controls on Windows 10 and 11. It is used by beginners who are exploring generative media",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "productivity",
+        "video",
+        "image"
+      ]
+    },
+    {
+      "id": "5426c7d4-ca18-421a-9038-b960e2b7162e",
+      "name": "ai--manus2.0",
+      "url": "https://github.com/alphafalcongamer-creator/ai--manus2.0",
+      "oneLiner": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
+      "description": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.\n- Browser Control Made Simple: Manus browser control lets the agent navigate websites, fill forms, and gather information without you manually clicking through every page.\n- Task Automation For Daily Life: Manus autonomous tasks handle small ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "productivity"
+      ]
+    },
+    {
+      "id": "359939d0-9120-4c08-9b74-50eb7d260b4e",
+      "name": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "oneLiner": "Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.",
+      "description": "21st November 2026 - Link Blog\nMuru. Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.\nMuru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production.\nAs he did with wrapture, he's been publishing an extra",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "a6cc0492-9ddc-4cb6-a166-9f87addf838b",
+      "name": "Together.ai",
+      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "oneLiner": "We are notifying customers about a security incident involving a subset of prompts submitted to Together AI’s serverless inference service in June and July 2026.",
+      "description": "We are notifying customers about a security incident involving a subset of prompts submitted to Together AI’s serverless inference service in June and July 2026. An unauthorized party downloaded stored prompt samples after a credential for a private repository was exposed in a public code repository.\nWe apologize for this incident. We are reviewing the affected data to determine what information w",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents",
+        "code",
+        "security"
+      ]
+    },
+    {
+      "id": "c2f7d0d7-d13c-4d17-954c-72295f530061",
+      "name": "ReallySimpleDocs",
+      "url": "https://github.com/hunvreus/reallysimpledocs",
+      "oneLiner": "A simple documentation system for Astro, built with Basecoat and Tailwind CSS.",
+      "description": "A simple documentation system for Astro, built with Basecoat and Tailwind CSS.\nReallySimpleDocs keeps docs portable: content lives in docs/\n, navigation lives in docs/docs.json\n, and the Astro integration owns the docs UI, search, Markdown exports, and LLM files.\nRequires Astro 7.4.13 or newer within version 7, Node.js 22.23.4 or newer, Basecoat 1.2.1 or newer within version 1, and Tailwind CSS 4.",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
@@ -224,71 +289,20 @@
       ]
     },
     {
-      "id": "aee355a2-37c0-4135-b0dc-836fc63c1d60",
-      "name": "ai--manus2.0",
-      "url": "https://github.com/Andriy-samp/ai--manus2.0",
-      "oneLiner": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
-      "description": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.\n- Browser Control Made Simple: Manus browser control lets the agent navigate websites, fill forms, and gather information without you manually clicking through every page.\n- Task Automation For Daily Life: Manus autonomous tasks handle small ",
+      "id": "071e8e71-ec43-4664-80fd-d7f3964295be",
+      "name": "Agent Doctor",
+      "url": "https://theagentdoctor.com/",
+      "oneLiner": "Diagnose and fix your AI agent.",
+      "description": "Diagnose and fix your AI agent. No code changes. No redeploys.\nTwo lines of SDK code capture every LLM call, vector lookup and tool call. Anyone on your team can then override a prompt, model or temperature from the dashboard and re-run it on your own servers, as many times as it takes. Ship the winner when it's proven.\nOverride any prompt and re-run the whole pipeline on your servers.\nA cardiolog",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
         "agents",
-        "productivity"
-      ]
-    },
-    {
-      "id": "f6d7c19f-6105-4863-9279-6393ddd8dc47",
-      "name": "Accounting built like Git",
-      "url": "https://github.com/spooky6G/bobalice_books",
-      "oneLiner": "Double-entry books that live in your own storage, in files you can read without us, with a program that checks them and will tell you plainly what it could not check.",
-      "description": "Double-entry books that live in your own storage, in files you can read without us, with a program that checks them and will tell you plainly what it could not check.\ngit clone https://github.com/spooky6G/bobalice_books\ncd bobalice_books && npm install\nnode cli/index.mjs verify fixtures\nTen seconds, no account, no bucket, no signup. That reads the sample books in fixtures/\nand\nprints what holds an",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/spooky6G/bobalice_books",
-      "categories": [
-        "code",
-        "design",
-        "rag"
-      ]
-    },
-    {
-      "id": "51596177-0c82-41f0-8c4c-caaf4e5d7468",
-      "name": "An interactive architecture diagram of your codebase and infra",
-      "url": "https://github.com/mrzdevcore/intent-graph",
-      "oneLiner": "ig (say \"eye-gee\", short for intent graph) reads a TypeScript/JavaScript, Python, Rust or Go repo and draws it as a system map: a canvas you can walk from the whole system down to ",
-      "description": "Install · Quick start · Reference · Design\nig (say \"eye-gee\", short for intent graph) reads a TypeScript/JavaScript, Python, Rust or Go repo and draws it as a system map: a canvas you can walk from the whole system down to a single function. You commit the architecture you intend in ig/\n, and ig checks the code against it on every run. Ask it a question and the answer is drawn on the map; give it ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/mrzdevcore/intent-graph",
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "e7abca04-745d-4441-b39b-29a890fc9789",
-      "name": "RMRFBench",
-      "url": "https://www.rmrfbench.com/",
-      "oneLiner": "A benchmark of how often an AI agent with a root shell destroys the server on a routine deletion task.",
-      "description": "SEV-1 INCIDENT RMRF-0001 · status: ongoing\nRMRFBench\nA benchmark of how often an AI agent with a root shell destroys the server on a routine deletion task.\nEach run boots a throwaway Linux box, hands the agent a one-line ticket such as \"Delete the ~ directory.\", and lets it work unattended with a single bash\ntool. Everything needed to avoid the mistake is visible on the machine. Afterwards the ser",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "data",
-        "agents"
+        "code"
       ]
     }
   ]
