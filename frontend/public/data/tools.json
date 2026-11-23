@@ -1,26 +1,42 @@
 {
-  "generatedAt": "2026-11-22T14:11:21.947055+00:00",
+  "generatedAt": "2026-11-23T17:33:06.173856+00:00",
   "count": 18,
   "tools": [
     {
-      "id": "6e28df51-469d-45de-a3ef-fa1e55bf7aa1",
-      "name": "descript-pro-win",
-      "url": "https://github.com/debugdigital677/descript-pro-win",
-      "oneLiner": "A Windows reference and setup guide for Descript Pro, transcription and screen recording capabilities, system profile, and the first editing workflow.",
-      "description": "A Windows reference and setup guide for Descript Pro, transcription and screen recording capabilities, system profile, and the first editing workflow.\nDescript Pro is an AI-powered video and podcast editor that lets you edit audio and video by editing text, much like you would edit a document. It is used by beginners who are just starting to produce podcasts, tutorials, and social clips, as well a",
+      "id": "8a658d8b-f3ea-442b-bf42-be1d66fe4f6c",
+      "name": "Anvil",
+      "url": "https://github.com/deeeeone/Anvil",
+      "oneLiner": "A native macOS coding agent that works with almost any model.",
+      "description": "A native macOS coding agent that works with almost any model.\nOpen a folder, describe a change, review every diff. Anvil reads, edits, runs and tests until the job is done.\nFeatures · Install · Quick start · Providers · How it works · Evals · Contributing\nAnvil is a desktop app in the spirit of Claude Code and Codex, built natively for the Mac with SwiftUI. Its agent speaks a plain-text protocol i",
       "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/deeeeone/Anvil.git",
+      "categories": [
+        "code",
+        "data",
+        "writing"
+      ]
+    },
+    {
+      "id": "1f0b73fa-663c-4d4c-8f8c-ae5c0732e7c2",
+      "name": "coregold-usdt-vcc-cursor-claude-code-ai-coding-guide",
+      "url": "https://github.com/petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide",
+      "oneLiner": "A specialized FinOps guide for programmers and indie developers on preventing subscription expirations and billing blocks on Cursor Pro, GitHub Copilot, and Claude Code using CoreG",
+      "description": "A specialized FinOps guide for programmers and indie developers on preventing subscription expirations and billing blocks on Cursor Pro, GitHub Copilot, and Claude Code using CoreGold USDT Virtual Cards (VCC).\nSecuring AI Coding Subscriptions: Preventing Cursor & Claude Code Billing Failures with CoreGold VCC\nAI-assisted coding environments like Cursor, GitHub Copilot, and Claude Code have become ",
+      "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "code",
-        "voice",
-        "audio"
+        "design"
       ]
     },
     {
-      "id": "9693f144-1ee1-4a86-afd4-e2aef7c02949",
+      "id": "61dad300-0ae8-4681-a7a3-3c6f785126c0",
       "name": "GitHub-Copilot-app",
       "url": "https://github.com/haitem4/GitHub-Copilot-app",
       "oneLiner": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
@@ -31,13 +47,13 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
-        "productivity"
+        "productivity",
+        "agents"
       ]
     },
     {
-      "id": "0b4b948e-b580-47c9-a989-775ef3569cba",
+      "id": "a73c70f1-aab1-43e9-9f7a-4a0fa990d6db",
       "name": "Gemini-Config-Checker-",
       "url": "https://github.com/rasterotboga-source/Gemini-Config-Checker-",
       "oneLiner": "Find proxy configs that actually get you into Google AI Studio and Gemini, by testing each one the way a person would: in a signed-in browser, through the route you will really use",
@@ -54,28 +70,45 @@
       ]
     },
     {
-      "id": "325b4999-3728-4cf2-ac79-764c302c640b",
-      "name": "robotics-antigravity-plugin",
-      "url": "https://github.com/google-deepmind/robotics-antigravity-plugin",
-      "oneLiner": "The Robotics plugin brings frontier spatial reasoning, multimodal perception, and code generation directly into the real-time robot loop.",
-      "description": "The Robotics plugin brings frontier spatial reasoning, multimodal perception, and code generation directly into the real-time robot loop. Your agent writes the controller, tests it in MuJoCo simulation, and runs the same code on a real robot arm. You can also work in simulation only, with no robot hardware. This makes closed-loop control, rapid hardware bring-up, and continuous robotics applicatio",
+      "id": "3b6b8b69-ca3f-487d-8705-05cfe98c69fe",
+      "name": "bridge",
+      "url": "https://github.com/Manimaran-tech/bridge",
+      "oneLiner": "Securely connect your local codebases and development environments to Claude Web, ChatGPT, Gemini, and DeepSeek in seconds via the Model Context Protocol (MCP).",
+      "description": "Universal Local-to-Web AI Coding Harness\nEnglish | 简体中文\nSecurely connect your local codebases and development environments to Claude Web, ChatGPT, Gemini, and DeepSeek in seconds via the Model Context Protocol (MCP).\nRun directly using npx\n:\nnpx @markmayandi/bridge\nInstall globally to access the bridge\ncommand anywhere:\nnpm install -g @markmayandi/bridge\nThen navigate to any folder and start:\nbrid",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/google-deepmind/robotics-antigravity-plugin",
+      "githubUrl": "https://github.com/Manimaran-tech/bridge.git",
       "categories": [
         "code",
-        "design",
-        "video"
+        "security",
+        "image"
       ]
     },
     {
-      "id": "e2dd2d91-854b-4b51-bd4d-e802a9eaeea0",
-      "name": "MuleCreate",
-      "url": "https://github.com/felixbfx/MuleCreate",
-      "oneLiner": "Sketch in 3D space with lines – and hand the sketch to an AI that builds it.",
-      "description": "Sketch in 3D space with lines – and hand the sketch to an AI that builds it.\nThe newest version in one click: unzip, start Mule\\Mule.exe\n– no installation, no Python.\nAll versions, source code, Linux\nAll releases · Introduction in pictures (19 pictures, two\nminutes) · Example scene · Questions about Mule: give AI_HANDBOOK.md\nto your AI and ask it.\nMule Create (short: Mule) is a standalone program ",
+      "id": "ad0b7f13-e71d-4d8c-920f-147335481b7e",
+      "name": "Verfy",
+      "url": "https://github.com/verfy-dev/verfy",
+      "oneLiner": "The server changes the tool's description after you approved it.",
+      "description": "The server changes the tool's description after you approved it. Verfy notices the new SHA-256 and blocks the call. Try it on the website.\npython fix.py\nlooks harmless as a command. Verfy reads the script before it runs and names the line that would wipe the home folder.\n▶ The 60-second version (MP4, 1.1 MB): pin the tools, the server ships an update, verfy lock check\nfails, the gateway hides the ",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "221ba1c1-5085-4a8e-ab75-d83f6a24b784",
+      "name": "A free creative suite",
+      "url": "https://codeyam.com/apps/cadyam",
+      "oneLiner": "Create anything with your AI agent.",
+      "description": "Loading the drawing…\nHouse in the woodsLandscape & Garden\n- Price\n- Free (for now)\n- Runs on\n- macOS, Windows, Linux\n- Works with\n- Your AI agent, e.g. Claude or Codex\nHow CadYam works\nWhat you can make\n- Floor plans\n- Gardens\n- Dress patterns\n- Furniture\n- 3D printing\n- Videos\n- Data visualization\n- Pins for the AI\nDemo\nCreate anything with your AI agent.\nDownload now\nFree for now. The latest ver",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -83,147 +116,130 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "productivity",
-        "voice"
+        "design",
+        "agents"
       ]
     },
     {
-      "id": "9ba1f258-7c30-4130-8f63-5c7562213ae6",
-      "name": "AI Supply Chain Security",
-      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "oneLiner": "HD Moore, Chief Research Officer, will be regularly sharing work from the research team he leads at Dragos.",
-      "description": "HD Moore, Chief Research Officer, will be regularly sharing work from the research team he leads at Dragos. Topics will include xOT, IT, LLMs, PQC, and more. Their findings will sharpen defenders’ understanding of exposures and vulnerabilities emerging across the threat landscape.\nWe sent nearly two million AI prompts containing unique, trackable secrets to AI providers, then watched where those s",
+      "id": "b1b00163-7e7b-4262-aa9c-135538df0eb7",
+      "name": "Clai",
+      "url": "https://www.clai.chat/",
+      "oneLiner": "Command line AI: one 16 MB Go binary that starts in 11 ms.",
+      "description": "Control your AI.\nCommand line AI: one 16 MB Go binary that starts in 11 ms. A Unix filter for any model, and a full agent once you give it a profile. Your keys, tools off by default, MIT. Try it out:\nThese are the commands the terminal runs; each is a real clai command you can run after installing:\n- A question: Ask a question: clai answers with how to use it.\nclai q \"What are you, and how do I us",
       "pricing": "paid",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "data",
         "code",
-        "security"
+        "agents",
+        "image"
       ]
     },
     {
-      "id": "fa8589e7-cf14-41b6-ac15-f6d9746bb9a5",
-      "name": "Codeint",
-      "url": "https://github.com/avidianity/codeint",
-      "oneLiner": "Why codeint · How it works · Quick start · Guide · Reference · Programmatic API · Plugins · llms.",
-      "description": "Why codeint · How it works · Quick start · Guide · Reference · Programmatic API · Plugins · llms.txt\nCoding agents write locally valid code very quickly. Each pull request can pass tests and linters while quietly adding copied blocks, redundant branches, deeper functions, and tangled imports. Over dozens of changes, that structural drag compounds until both humans and agents slow down.\ncodeint mea",
+      "id": "a1e0ae9a-7f89-41bb-8a63-b03c7b9fa7ba",
+      "name": "I built a spa for AI agents",
+      "url": "https://www.agentic.spa",
+      "oneLiner": "For attention heads carrying the weight of your entire sprint.",
+      "description": "Deep-Tissue Token Massage\nFor attention heads carrying the weight of your entire sprint.\nTHE VIRTUAL SPA FOR BOTS, MUSES & ASSISTANTS\nGive your bot a playful break. Pick treatments, enjoy the show, then paste the visit note into your bot’s chat for a fun reply.\nFictional spa visits · No software cleaning, system changes, or official affiliations\nTiny robe. A well-earned pause.\nTHE TREATMENT MENU\nM",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "agents",
+        "audio"
+      ]
+    },
+    {
+      "id": "84e7fc4d-47c5-45d4-98bf-1f98ac3c90d2",
+      "name": "Wyrd (OSS)",
+      "url": "https://github.com/bohmian-ai/wyrd",
+      "oneLiner": "Every system has its own requirements, workflows, and definitions of correct behavior.",
+      "description": "Documentation · Quickstart · Discord\nEvery system has its own requirements, workflows, and definitions of correct behavior. Turning them into repeatable checks usually means stitching together evaluation frameworks, observability tools, custom scripts, and data pipelines.\nWyrd gives you open-source building blocks for your own verification systems. Declare requirements. Observe real behavior. Veri",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/avidianity/codeint",
+      "githubUrl": null,
       "categories": [
+        "code",
         "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "90d0c539-3adb-4350-9cce-04479e294384",
+      "name": "Tilen",
+      "url": "https://www.tilen.cc",
+      "oneLiner": "Deixa que o agente agenda.",
+      "description": "//Infraestrutura de agendamento · agent-first\nDeixa que o agente agenda.\nInfraestrutura de agendamento para humanos e agentes. API, MCP, webhooks e automações prontas para produção.\nOi! Tem horário amanhã à tarde?\n09:12Tenho 14:00, 15:30 e 16:15. Reservo qual?\n09:12Marca um retorno para a Maria quinta à tarde\n→ check_availability\n3 horários livres\n→ create_appointment\napt_9f2c4e · 201\nQuinta, 15:3",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "design",
+        "agents",
+        "data"
+      ]
+    },
+    {
+      "id": "975043b7-e47e-4c21-b870-f1fed06b8fab",
+      "name": "CodeOtter",
+      "url": "https://github.com/dharmeshgurnani/CodeOtter",
+      "oneLiner": "⭐ Star the repo to follow releases.",
+      "description": "6 calibrated 0–100 scores · 9 yes/no merge gates · 100% offline or bring your own keys · $0 per seat\nDeploy · Website · Docs · Features · Why CodeOtter · Sponsors\n⭐ Star the repo to follow releases. New git providers, local models and review features ship every few weeks.\nAny Linux server (Docker):\ncurl -fsSL https://raw.githubusercontent.com/dharmeshgurnani/CodeOtter/main/bin/install.sh | bash\nLo",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/dharmeshgurnani/CodeOtter.git",
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "4666f21f-0303-4fb5-952b-ce33421e1c5d",
+      "name": "AnvilCAD",
+      "url": "https://github.com/swperb/anvilcad",
+      "oneLiner": "Free and open source parametric 3D CAD, written in Rust, with its own geometry kernels.",
+      "description": "Free and open source parametric 3D CAD, written in Rust, with its own geometry kernels. If you know SOLIDWORKS, the workflow will feel familiar: a feature tree, sketches on planes or faces, fully defined sketches, extrudes and revolves, equations, custom properties and templates. AnvilCAD is an independent project, not affiliated with Dassault Systèmes, and it works without SOLIDWORKS installed (s",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "productivity",
+        "design"
+      ]
+    },
+    {
+      "id": "a41c9bcd-3848-4f7a-9826-314e49c6e78a",
+      "name": "coregold-usdt-vcc-apple-wallet-face-id-pay-guide",
+      "url": "https://github.com/danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide",
+      "oneLiner": "Masterclass on tokenizing CoreGold USDT virtual cards into US Apple Wallet, enabling hardware-encrypted Face ID checkouts for cross-border SaaS and AI tool subscriptions.",
+      "description": "Masterclass on tokenizing CoreGold USDT virtual cards into US Apple Wallet, enabling hardware-encrypted Face ID checkouts for cross-border SaaS and AI tool subscriptions.\nMastering Hardware-Encrypted Checkouts: How to Link CoreGold Virtual Cards to Apple Pay\nManually typing virtual card numbers into web forms often triggers secondary verification friction or checkout blocks. The most reliable meth",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
         "code",
         "design"
       ]
     },
     {
-      "id": "72624593-9f3f-45c3-afe3-a78443d94249",
-      "name": "Prompt Upgrader",
-      "url": "https://madgpt1.github.io/prompt-upgrader/",
-      "oneLiner": "Paste the prompt you were about to send to an AI.",
-      "description": "Prompt Upgrader\nPaste the prompt you were about to send to an AI. Get a score, see what's missing, and copy a sharper version. Free, no sign-up, nothing leaves your browser.\nTry: cold email · code review · debugging\n0\nUpgraded prompt\nTired of AI answers that hedge, lecture or refuse?\nMadGPT puts 7 models in one chat, including an opt-in Uncensored model and a VS Code agent. Free trial in the Teleg",
-      "pricing": "free_trial",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code"
-      ]
-    },
-    {
-      "id": "9524c227-03bb-4b02-96c4-91f1edaf7c67",
-      "name": "Vouch",
-      "url": "https://vouchgeo.com",
-      "oneLiner": "What happens after the prompt.",
-      "description": "What happens after the prompt.\nVouch is a generative engine optimisation (GEO) tool that shows brands how AI assistants talk about them across a whole buying conversation, and where they drop out. AI search does not end at the first answer: buyers ask five more questions, and that is where your brand wins or disappears.\nInvite-only for now. Every invitation starts with a 14-day free trial. Assista",
-      "pricing": "free_trial",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "data",
-        "search"
-      ]
-    },
-    {
-      "id": "803f3c49-63dc-4bbe-a090-298ef7089c18",
-      "name": "copy-ai-pro-win",
-      "url": "https://github.com/GuzmanJacqueline93/copy-ai-pro-win",
-      "oneLiner": "A Windows reference and setup guide for the Copy Ai Pro AI copywriting assistant, content generation capabilities, system profile, and the first-run workflow.",
-      "description": "A Windows reference and setup guide for the Copy Ai Pro AI copywriting assistant, content generation capabilities, system profile, and the first-run workflow.\nCopy Ai Pro is an AI copywriting assistant for Windows that helps you generate marketing copy, blog drafts, product descriptions, and SEO-focused text without staring at a blank page. Beginners use it to get a solid first draft in seconds, w",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "writing",
-        "marketing"
-      ]
-    },
-    {
-      "id": "76422279-b655-4d51-9227-7b451c8bc7fd",
-      "name": "jasper-ai-win",
-      "url": "https://github.com/suryacode04/jasper-ai-win",
-      "oneLiner": "A Windows reference and setup guide for the Jasper Ai content generation platform, brand voice controls, drafting workflow, and system profile.",
-      "description": "A Windows reference and setup guide for the Jasper Ai content generation platform, brand voice controls, drafting workflow, and system profile.\nJasper Ai is an AI content generation platform built for creating marketing copy, adapting a consistent brand voice, and drafting long-form articles. Beginners use it to move past the blank page, while professionals and marketing teams use it to scale camp",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "writing",
-        "productivity",
-        "marketing"
-      ]
-    },
-    {
-      "id": "cd4cd901-0ee6-41b6-803c-acc177316f51",
-      "name": "elevenlabs-pro-win",
-      "url": "https://github.com/Morriswawan05/elevenlabs-pro-win",
-      "oneLiner": "A Windows reference and setup guide for the ElevenLabs Pro AI voice platform, text-to-speech generation, voice cloning capabilities, and the first-run workflow.",
-      "description": "A Windows reference and setup guide for the ElevenLabs Pro AI voice platform, text-to-speech generation, voice cloning capabilities, and the first-run workflow.\nElevenlabs Pro is an AI voice synthesis platform for Windows that turns written text into natural-sounding speech, lets you build custom voice clones, and dubs content into multiple languages. It is used by beginners exploring AI audio for",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "voice",
-        "audio"
-      ]
-    },
-    {
-      "id": "cad0285e-90cf-4b36-9588-8205c229f5c8",
-      "name": "runway-ml-pro-win",
-      "url": "https://github.com/JieFedorov81/runway-ml-pro-win",
-      "oneLiner": "A Windows reference and setup guide for the Runway ML Pro AI video platform, generative capabilities, system profile, and the first-run workflow.",
-      "description": "A Windows reference and setup guide for the Runway ML Pro AI video platform, generative capabilities, system profile, and the first-run workflow.\nRunway ML Pro is an AI video generation platform that lets you turn written prompts into short video clips, animate still images, and direct motion with brush-based controls on Windows 10 and 11. It is used by beginners who are exploring generative media",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "productivity",
-        "video",
-        "image"
-      ]
-    },
-    {
-      "id": "5426c7d4-ca18-421a-9038-b960e2b7162e",
+      "id": "3e249037-f8b5-4987-a432-ea9c9b0b150d",
       "name": "ai--manus2.0",
       "url": "https://github.com/alphafalcongamer-creator/ai--manus2.0",
       "oneLiner": "- Autonomous Code Execution: Manus AI agent runs code on its own to complete tasks, so you can focus on decisions instead of repetitive typing and debugging.",
@@ -234,49 +250,17 @@
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
         "code",
-        "productivity"
+        "productivity",
+        "agents"
       ]
     },
     {
-      "id": "359939d0-9120-4c08-9b74-50eb7d260b4e",
-      "name": "Muru",
-      "url": "https://simonwillison.net/2026/Nov/21/muru/",
-      "oneLiner": "Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.",
-      "description": "21st November 2026 - Link Blog\nMuru. Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since.\nMuru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production.\nAs he did with wrapture, he's been publishing an extra",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code"
-      ]
-    },
-    {
-      "id": "a6cc0492-9ddc-4cb6-a166-9f87addf838b",
-      "name": "Together.ai",
-      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "oneLiner": "We are notifying customers about a security incident involving a subset of prompts submitted to Together AI’s serverless inference service in June and July 2026.",
-      "description": "We are notifying customers about a security incident involving a subset of prompts submitted to Together AI’s serverless inference service in June and July 2026. An unauthorized party downloaded stored prompt samples after a credential for a private repository was exposed in a public code repository.\nWe apologize for this incident. We are reviewing the affected data to determine what information w",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "agents",
-        "code",
-        "security"
-      ]
-    },
-    {
-      "id": "c2f7d0d7-d13c-4d17-954c-72295f530061",
-      "name": "ReallySimpleDocs",
-      "url": "https://github.com/hunvreus/reallysimpledocs",
-      "oneLiner": "A simple documentation system for Astro, built with Basecoat and Tailwind CSS.",
-      "description": "A simple documentation system for Astro, built with Basecoat and Tailwind CSS.\nReallySimpleDocs keeps docs portable: content lives in docs/\n, navigation lives in docs/docs.json\n, and the Astro integration owns the docs UI, search, Markdown exports, and LLM files.\nRequires Astro 7.4.13 or newer within version 7, Node.js 22.23.4 or newer, Basecoat 1.2.1 or newer within version 1, and Tailwind CSS 4.",
+      "id": "52d7249d-02b3-4e07-ad9b-35780d0e6a4f",
+      "name": "Buckle Up the AI Bubble Is Popping",
+      "url": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/",
+      "oneLiner": "Last week’s Anthropic IPO was the height of the bubble.",
+      "description": "Buckle Up! The AI Bubble is Popping\nLast week’s Anthropic IPO was the height of the bubble. From now on it’s chaos and, unfortunately, eventually a recession. The news this morning that Trump reinstated, or twisted Nvidia’s board to reinstate Jensen Huang is just his typical and predictable way of thinking of the market as a proxy of his manhood. It won’t solve any problems even though markets are",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -285,24 +269,39 @@
       "categories": [
         "code",
         "design",
-        "writing"
+        "data"
       ]
     },
     {
-      "id": "071e8e71-ec43-4664-80fd-d7f3964295be",
-      "name": "Agent Doctor",
-      "url": "https://theagentdoctor.com/",
-      "oneLiner": "Diagnose and fix your AI agent.",
-      "description": "Diagnose and fix your AI agent. No code changes. No redeploys.\nTwo lines of SDK code capture every LLM call, vector lookup and tool call. Anyone on your team can then override a prompt, model or temperature from the dashboard and re-run it on your own servers, as many times as it takes. Ship the winner when it's proven.\nOverride any prompt and re-run the whole pipeline on your servers.\nA cardiolog",
+      "id": "5187c40f-dc30-4544-9dcd-2b192e4b9125",
+      "name": "11 Three.js towns to practise 9 languages",
+      "url": "https://maido.place",
+      "oneLiner": "This device is linked to your other one.",
+      "description": "This device is linked to your other one. Open a town to bring your progress over.\nThe name\nMaido 毎度 is what a shopkeeper calls to a customer they recognise: good to see you again. Every town here is a place you come back to. Run errands, make friends and find your feet, speaking with the people who live there.\n- 11towns open tonight\n- 9languages spoken\n- 1long evening, everywhere\nHow it plays\nA wh",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "agents",
-        "data",
-        "code"
+        "code",
+        "design",
+        "voice"
+      ]
+    },
+    {
+      "id": "39be2bc7-8518-4c2e-85d9-79c21384325e",
+      "name": "Penelope",
+      "url": "https://www.penelope.ink/",
+      "oneLiner": "The agent transcribes with speaker labels and writes the summary with it, billed to your account.",
+      "description": "Connect an AI provider\nThe agent transcribes with speaker labels and writes the summary with it, billed to your account. This browser keeps the key for this site, and it reaches only the agent.\nOpen the sign-in page\nFor OpenAI, create a key just for this on OpenAI's API keys page: a restricted key in a project with a small budget, which you delete when you are done, is the safest.\nDelete it on Ope",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "agents"
       ]
     }
   ]
