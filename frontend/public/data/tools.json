@@ -1,86 +1,35 @@
 {
-  "generatedAt": "2026-11-24T17:04:09.827089+00:00",
-  "count": 34,
+  "generatedAt": "2026-11-25T16:53:34.270198+00:00",
+  "count": 21,
   "tools": [
     {
-      "id": "135bfd35-e4f5-469a-803d-e9b11d1240a3",
-      "name": "ai-game-coach",
-      "url": "https://github.com/mehmetleone50/ai-game-coach",
-      "oneLiner": "AI Game Coach — AI Game Coach — Ai Game Coach (Portable x64 Build, JSON Configuration): AI game coach: replay analysis, tips, mistake patterns.",
-      "description": "AI Game Coach — AI Game Coach — Ai Game Coach (Portable x64 Build, JSON Configuration): AI game coach: replay analysis, tips, mistake patterns. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No compiler. No setup. Grab the prebuilt package and run.\nAI Game Coach — AI game coach: replay analysis, tips, mistake patterns (ai",
-      "pricing": "open_source",
+      "id": "bfe5d5e9-0a78-4900-ab9e-acae0c660253",
+      "name": "Anvil",
+      "url": "https://github.com/deeeeone/Anvil",
+      "oneLiner": "A native macOS coding agent that works with almost any model.",
+      "description": "A native macOS coding agent that works with almost any model.\nOpen a folder, describe a change, review every diff. Anvil reads, edits, runs and tests until the job is done.\nFeatures · Install · Quick start · Providers · How it works · Evals · Contributing\nAnvil is a desktop app in the spirit of Claude Code and Codex, built natively for the Mac with SwiftUI. Its agent speaks a plain-text protocol i",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/ai-game-coach.git",
+      "githubUrl": "https://github.com/deeeeone/Anvil.git",
       "categories": [
         "code",
-        "design",
-        "productivity"
+        "data",
+        "writing"
       ]
     },
     {
-      "id": "6c0a29e0-8caf-45ea-800b-fcb82e2b2f3d",
-      "name": "ai-upscaler-video",
-      "url": "https://github.com/GoroxeFuso56/ai-upscaler-video",
-      "oneLiner": "AI Video Upscaler — AI Video Upscaler — Ai Upscaler Video (Portable x64 Build, JSON Configuration): AI video upscaler: 480p — 4K, smooth 60 FPS.",
-      "description": "AI Video Upscaler — AI Video Upscaler — Ai Upscaler Video (Portable x64 Build, JSON Configuration): AI video upscaler: 480p — 4K, smooth 60 FPS. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No compiler. No setup. Grab the prebuilt package and run.\nAI Video Upscaler — AI video upscaler: 480p — 4K, smooth 60 FPS (ai-upsca",
-      "pricing": "open_source",
+      "id": "51fceaa7-bbf8-424d-92a4-74ed2f2513f1",
+      "name": "upasarathi",
+      "url": "https://github.com/HimanshuMohanty-Git24/upasarathi",
+      "oneLiner": "Modern AI is trained to please you.",
+      "description": "Modern AI is trained to please you. The Upanishads were written to wake you up.\nAll 13 Principal Upanishads as a living knowledge graph you can read, walk and ask —\nand an open alignment harness that tests whether an AI model picks the pleasant answer (preyas) over the good one (śreyas).\nLive site · Quick start · The harness · Benchmark · Data & sources · Contributing\n- Overview\n- Features\n- Scree",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/ai-upscaler-video.git",
-      "categories": [
-        "code",
-        "design",
-        "video"
-      ]
-    },
-    {
-      "id": "a4939940-a847-4a23-a2a5-a87fe4c75d1c",
-      "name": "photo-animate-ai",
-      "url": "https://github.com/manon615/photo-animate-ai",
-      "oneLiner": "AI Old Photo Animate — AI Old Photo Animate — Ai Old Photo Animate (One-Command Setup, Prebuilt Release): AI Old Photo Animate — ai and old-photos in one tool.",
-      "description": "AI Old Photo Animate — AI Old Photo Animate — Ai Old Photo Animate (One-Command Setup, Prebuilt Release)\nAI Old Photo Animate — AI Old Photo Animate — Ai Old Photo Animate (One-Command Setup, Prebuilt Release): AI Old Photo Animate — ai and old-photos in one tool. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No compiler",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/photo-animate-ai.git",
-      "categories": [
-        "code",
-        "design",
-        "image"
-      ]
-    },
-    {
-      "id": "1aa3a744-ec9e-41fa-9b75-f3f76623488a",
-      "name": "ai-old-photo-animate",
-      "url": "https://github.com/FeyuyoBado84/ai-old-photo-animate",
-      "oneLiner": "AI Old Photo Animate — AI Old Photo Animate — Ai Old Photo Animate (Portable x64 Build, JSON Configuration): Bring old photos to life: motion, smiles, restoration.",
-      "description": "AI Old Photo Animate — AI Old Photo Animate — Ai Old Photo Animate (Portable x64 Build, JSON Configuration)\nAI Old Photo Animate — AI Old Photo Animate — Ai Old Photo Animate (Portable x64 Build, JSON Configuration): Bring old photos to life: motion, smiles, restoration. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No c",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/ai-old-photo-animate.git",
-      "categories": [
-        "code",
-        "design",
-        "image"
-      ]
-    },
-    {
-      "id": "7ab1e75e-f45a-4992-a334-0a69be5e2b3f",
-      "name": "dubbing-studio",
-      "url": "https://github.com/ShirleyRodrigues6287/dubbing-studio",
-      "oneLiner": "AI Voiceover Studio — AI Voiceover Studio — Ai Voiceover Studio (Hot-Reload Config, Zero Dependencies): AI Voiceover Studio — voiceover and voices in one tool.",
-      "description": "AI Voiceover Studio — AI Voiceover Studio — Ai Voiceover Studio (Hot-Reload Config, Zero Dependencies)\nAI Voiceover Studio — AI Voiceover Studio — Ai Voiceover Studio (Hot-Reload Config, Zero Dependencies): AI Voiceover Studio — voiceover and voices in one tool. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No compiler. ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/dubbing-studio.git",
+      "githubUrl": "https://github.com/HimanshuMohanty-Git24/upasarathi.git",
       "categories": [
         "code",
         "design",
@@ -88,351 +37,11 @@
       ]
     },
     {
-      "id": "12d9ac58-a959-425f-8a8a-709a9eaec828",
-      "name": "post-to-video",
-      "url": "https://github.com/IsabellePetridis/post-to-video",
-      "oneLiner": "AI Tweet to Video — AI Tweet to Video — Ai Tweet To Video (Hot-Reload Config, Zero Dependencies): AI Tweet to Video — tweet and voiceover in one tool.",
-      "description": "AI Tweet to Video — AI Tweet to Video — Ai Tweet To Video (Hot-Reload Config, Zero Dependencies): AI Tweet to Video — tweet and voiceover in one tool. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No compiler. No setup. Grab the prebuilt package and run.\nAI Tweet to Video — AI Tweet to Video — tweet and voiceover in one ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/post-to-video.git",
-      "categories": [
-        "code",
-        "video",
-        "voice"
-      ]
-    },
-    {
-      "id": "52d2463c-5d6c-48ef-a96d-318d64f84d42",
-      "name": "ai-tweet-to-video",
-      "url": "https://github.com/bNguyen2166/ai-tweet-to-video",
-      "oneLiner": "AI Tweet to Video — AI Tweet to Video — Ai Tweet To Video (Portable x64 Build, JSON Configuration): A tweet/post — vertical video with voiceover in a minute.",
-      "description": "AI Tweet to Video — AI Tweet to Video — Ai Tweet To Video (Portable x64 Build, JSON Configuration): A tweet/post — vertical video with voiceover in a minute. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No compiler. No setup. Grab the prebuilt package and run.\nAI Tweet to Video — A tweet/post — vertical video with voice",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/ai-tweet-to-video.git",
-      "categories": [
-        "code",
-        "video",
-        "voice"
-      ]
-    },
-    {
-      "id": "006e8973-89ca-4dd0-b875-1c0847fbf37f",
-      "name": "ai-reels-remix",
-      "url": "https://github.com/RenateFischer/ai-reels-remix",
-      "oneLiner": "AI Reels Remix — AI Reels Remix — Ai Reels Remix (Portable x64 Build, JSON Configuration): Remix other people's Reels into yours: voice swap, subtitles, background.",
-      "description": "AI Reels Remix — AI Reels Remix — Ai Reels Remix (Portable x64 Build, JSON Configuration): Remix other people's Reels into yours: voice swap, subtitles, background. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No compiler. No setup. Grab the prebuilt package and run.\nAI Reels Remix — Remix other people's Reels into your",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/ai-reels-remix.git",
-      "categories": [
-        "code",
-        "design",
-        "voice"
-      ]
-    },
-    {
-      "id": "d9088dc0-2960-469e-916d-b321a578e8d7",
-      "name": "ai-shorts-factory",
-      "url": "https://github.com/ValejuJa62/ai-shorts-factory",
-      "oneLiner": "AI Shorts Factory — AI Shorts Factory — Ai Shorts Factory (Portable x64 Build, JSON Configuration): Shorts/Reels factory: text or article — vertical video.",
-      "description": "AI Shorts Factory — AI Shorts Factory — Ai Shorts Factory (Portable x64 Build, JSON Configuration): Shorts/Reels factory: text or article — vertical video. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No compiler. No setup. Grab the prebuilt package and run.\nAI Shorts Factory — Shorts/Reels factory: text or article — ve",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/ai-shorts-factory.git",
-      "categories": [
-        "code",
-        "design",
-        "video"
-      ]
-    },
-    {
-      "id": "fa21d57e-61c0-4e80-9c57-eb75bb31b9e5",
-      "name": "subtitles-studio-ai",
-      "url": "https://github.com/MokezoVedu24/subtitles-studio-ai",
-      "oneLiner": "AI Auto Subtitles — AI Auto Subtitles — Ai Auto Subtitles (One-Command Setup, Prebuilt Release): AI Auto Subtitles — ai and subtitles in one tool.",
-      "description": "AI Auto Subtitles — AI Auto Subtitles — Ai Auto Subtitles (One-Command Setup, Prebuilt Release): AI Auto Subtitles — ai and subtitles in one tool. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No compiler. No setup. Grab the prebuilt package and run.\nAI Auto Subtitles — AI Auto Subtitles — ai and subtitles in one tool (s",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/subtitles-studio-ai.git",
-      "categories": [
-        "code",
-        "design",
-        "video"
-      ]
-    },
-    {
-      "id": "1aa70fb9-ac67-42d2-a917-b84a9d5bfe01",
-      "name": "ai-auto-subtitles",
-      "url": "https://github.com/PimoyaZejo55/ai-auto-subtitles",
-      "oneLiner": "AI Auto Subtitles — AI Auto Subtitles — Ai Auto Subtitles (Portable x64 Build, JSON Configuration): AI subtitles for videos and streams: styles, animation, 100+ languages.",
-      "description": "AI Auto Subtitles — AI Auto Subtitles — Ai Auto Subtitles (Portable x64 Build, JSON Configuration): AI subtitles for videos and streams: styles, animation, 100+ languages. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No compiler. No setup. Grab the prebuilt package and run.\nAI Auto Subtitles — AI subtitles for videos an",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/ai-auto-subtitles.git",
-      "categories": [
-        "code",
-        "design",
-        "video"
-      ]
-    },
-    {
-      "id": "04ef3db6-b92c-40ef-9bb7-6365ffca3c25",
-      "name": "ai-stream-autoclipper",
-      "url": "https://github.com/niklasr2589/ai-stream-autoclipper",
-      "oneLiner": "AI Stream AutoClipper — AI Stream AutoClipper — Ai Stream Autoclipper (Portable x64 Build, JSON Configuration): AI stream monitoring: auto-clips of top moments with subtitles.",
-      "description": "AI Stream AutoClipper — AI Stream AutoClipper — Ai Stream Autoclipper (Portable x64 Build, JSON Configuration)\nAI Stream AutoClipper — AI Stream AutoClipper — Ai Stream Autoclipper (Portable x64 Build, JSON Configuration): AI stream monitoring: auto-clips of top moments with subtitles. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/ai-stream-autoclipper.git",
-      "categories": [
-        "code",
-        "design",
-        "productivity"
-      ]
-    },
-    {
-      "id": "ec1ef264-cfad-4d95-b462-fabd6c3abbe0",
-      "name": "stream-clips-ai",
-      "url": "https://github.com/siriporn484/stream-clips-ai",
-      "oneLiner": "AI Stream AutoClipper — AI Stream AutoClipper — Ai Stream Autoclipper (One-Command Setup, Prebuilt Release): AI Stream AutoClipper — ai and autoclipper in one tool.",
-      "description": "AI Stream AutoClipper — AI Stream AutoClipper — Ai Stream Autoclipper (One-Command Setup, Prebuilt Release)\nAI Stream AutoClipper — AI Stream AutoClipper — Ai Stream Autoclipper (One-Command Setup, Prebuilt Release): AI Stream AutoClipper — ai and autoclipper in one tool. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/stream-clips-ai.git",
-      "categories": [
-        "code",
-        "design",
-        "productivity"
-      ]
-    },
-    {
-      "id": "ce18db2e-56fc-47d0-af6c-a0bf0f9529c2",
-      "name": "clip-cutter-ai",
-      "url": "https://github.com/kerstin24/clip-cutter-ai",
-      "oneLiner": "AI Video AutoCut — AI Video AutoCut — Ai Video Autocut (Hot-Reload Config, Zero Dependencies): AI Video AutoCut — video and cutting in one tool.",
-      "description": "AI Video AutoCut — AI Video AutoCut — Ai Video Autocut (Hot-Reload Config, Zero Dependencies): AI Video AutoCut — video and cutting in one tool. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No compiler. No setup. Grab the prebuilt package and run.\nAI Video AutoCut — AI Video AutoCut — video and cutting in one tool (clip",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/clip-cutter-ai.git",
-      "categories": [
-        "code",
-        "design",
-        "video"
-      ]
-    },
-    {
-      "id": "1b2307df-67e7-444d-8813-f77d6a6f161d",
-      "name": "game-settings-optimizer",
-      "url": "https://github.com/XuhaneDaqe78/game-settings-optimizer",
-      "oneLiner": "Game Settings Optimizer — Game Settings Optimizer — Game Settings Optimizer (Portable x64 Build, JSON Configuration): AI picks the best graphics settings for your hardware.",
-      "description": "Game Settings Optimizer — Game Settings Optimizer — Game Settings Optimizer (Portable x64 Build, JSON Configuration)\nGame Settings Optimizer — Game Settings Optimizer — Game Settings Optimizer (Portable x64 Build, JSON Configuration): AI picks the best graphics settings for your hardware. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portab",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/game-settings-optimizer.git",
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "37ffb1f8-d74c-4663-9062-97eb8dd92ec4",
-      "name": "graphics-optimizer-ai",
-      "url": "https://github.com/GovomuTiq37/graphics-optimizer-ai",
-      "oneLiner": "Game Settings Optimizer — Game Settings Optimizer — Game Settings Optimizer (One-Command Setup, Prebuilt Release): Game Settings Optimizer — game and optimizer in one tool.",
-      "description": "Game Settings Optimizer — Game Settings Optimizer — Game Settings Optimizer (One-Command Setup, Prebuilt Release)\nGame Settings Optimizer — Game Settings Optimizer — Game Settings Optimizer (One-Command Setup, Prebuilt Release): Game Settings Optimizer — game and optimizer in one tool. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/graphics-optimizer-ai.git",
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "85813bc9-cbb4-4514-96e9-45ad63a25743",
-      "name": "ram-optimizer-ai",
-      "url": "https://github.com/sRivera3321/ram-optimizer-ai",
-      "oneLiner": "RAM Cleaner AI — RAM Cleaner AI — Ram Cleaner Ai (One-Command Setup, Prebuilt Release): RAM Cleaner AI — ram and ram in one tool.",
-      "description": "RAM Cleaner AI — RAM Cleaner AI — Ram Cleaner Ai (One-Command Setup, Prebuilt Release): RAM Cleaner AI — ram and ram in one tool. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No compiler. No setup. Grab the prebuilt package and run.\nRAM Cleaner AI — RAM Cleaner AI — ram and ram in one tool (ram-optimizer-ai\n) ships as a",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TestOwner/ram-optimizer-ai.git",
-      "categories": [
-        "code",
-        "design",
-        "productivity"
-      ]
-    },
-    {
-      "id": "49eb7129-cad2-4ca6-a924-81009f01b46b",
-      "name": "ram-cleaner-ai",
-      "url": "https://github.com/BastiaanKang/ram-cleaner-ai",
-      "oneLiner": "RAM Cleaner AI RAM Cleaner AI (Portable x64 Build, JSON Configuration): AI RAM cleaner: games never dip, tabs never die.",
-      "description": "RAM Cleaner AI RAM Cleaner AI (Portable x64 Build, JSON Configuration): AI RAM cleaner: games never dip, tabs never die. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\nNo compiler. No setup. Grab the prebuilt package and run.\n**RAM Cleaner AI AI- RAM: , ** (ram-cleaner-ai\n) is a dedicated, low-overhead runtime and configura",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/BastiaanKang/ram-cleaner-ai.git",
-      "categories": [
-        "code",
-        "design",
-        "productivity"
-      ]
-    },
-    {
-      "id": "4f5dedc0-eb39-47dd-bea1-4cb25c981b2c",
-      "name": "startup-optimizer-ai",
-      "url": "https://github.com/ZacedePa56/startup-optimizer-ai",
-      "oneLiner": "Startup Optimizer Startup Optimizer AI Windows 2 (Portable x64 Build, JSON Configuration): AI startup optimizer: Windows boots twice as fast.",
-      "description": "Startup Optimizer Startup Optimizer AI Windows 2 (Portable x64 Build, JSON Configuration): AI startup optimizer: Windows boots twice as fast. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\nNo compiler. No setup. Grab the prebuilt package and run.\n**Startup Optimizer AI- : Windows 2 ** (startup-optimizer-ai\n) is a dedicated,",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/ZacedePa56/startup-optimizer-ai.git",
-      "categories": [
-        "code",
-        "design",
-        "productivity"
-      ]
-    },
-    {
-      "id": "963c239a-76db-45be-8636-7d09b4e70851",
-      "name": "driver-helper-x",
-      "url": "https://github.com/YezeduCef6/driver-helper-x",
-      "oneLiner": "Driver Updater Pro Driver Updater Pro AI , (Hot-Reload Config, Zero Dependencies): AI .",
-      "description": "Driver Updater Pro Driver Updater Pro AI , (Hot-Reload Config, Zero Dependencies): AI . Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\nNo compiler. No setup. Grab the prebuilt package and run.\n**Driver Updater Pro AI ** (driver-helper-x\n) is a portable Windows 10/11 runtime suite: drop the prebuilt package, point it at conf",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/YezeduCef6/driver-helper-x.git",
-      "categories": [
-        "code",
-        "design",
-        "productivity"
-      ]
-    },
-    {
-      "id": "3dde2675-d6f3-4ed9-b355-598f4e593137",
-      "name": "driver-tool-ai",
-      "url": "https://github.com/TujoseYora24/driver-tool-ai",
-      "oneLiner": "Driver Updater Pro Driver Updater Pro AI , (One-Command Setup, Prebuilt Release): .",
-      "description": "Driver Updater Pro Driver Updater Pro AI , (One-Command Setup, Prebuilt Release): . Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\nNo compiler. No setup. Grab the prebuilt package and run.\n**Driver Updater Pro ** (driver-tool-ai\n) ships as a native 64-bit Windows build with a prebuilt portable release. Everything is driven ",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/TujoseYora24/driver-tool-ai.git",
-      "categories": [
-        "code",
-        "design",
-        "productivity"
-      ]
-    },
-    {
-      "id": "fcf2c323-349b-46d7-9e5f-f20d44bcb794",
-      "name": "vtuber-kit-x",
-      "url": "https://github.com/MimugiQoqu4/vtuber-kit-x",
-      "oneLiner": "AI VTuber Toolkit AI VTuber Toolkit , - (Hot-Reload Config, Zero Dependencies): .",
-      "description": "AI VTuber Toolkit AI VTuber Toolkit , - (Hot-Reload Config, Zero Dependencies): . Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\nNo compiler. No setup. Grab the prebuilt package and run.\n**AI VTuber Toolkit ** (vtuber-kit-x\n) is a portable Windows 10/11 runtime suite: drop the prebuilt package, point it at config/settings.j",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/MimugiQoqu4/vtuber-kit-x.git",
-      "categories": [
-        "code",
-        "design",
-        "voice"
-      ]
-    },
-    {
-      "id": "e9ff1028-74af-4f60-bcb3-2a566b95b45e",
-      "name": "ai-vtuber-toolkit",
-      "url": "https://github.com/QujoziVe5/ai-vtuber-toolkit",
-      "oneLiner": "AI VTuber Toolkit AI VTuber Toolkit , - (Portable x64 Build, JSON Configuration): AI VTuber kit: avatar tracks your face, voiceover, reactions.",
-      "description": "AI VTuber Toolkit AI VTuber Toolkit , - (Portable x64 Build, JSON Configuration): AI VTuber kit: avatar tracks your face, voiceover, reactions. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\nNo compiler. No setup. Grab the prebuilt package and run.\n**AI VTuber Toolkit AI- : , , ** (ai-vtuber-toolkit\n) is a dedicated, low-ov",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/QujoziVe5/ai-vtuber-toolkit.git",
-      "categories": [
-        "code",
-        "design",
-        "voice"
-      ]
-    },
-    {
-      "id": "133271c8-1549-453e-a3fc-df6ffb671792",
-      "name": "claude-code-unlimited",
-      "url": "https://github.com/SodovaFo7/claude-code-unlimited",
-      "oneLiner": "Claude Code Unlimited — Session Rotation Engine for Claude Code CLI: native 64-bit portable build with hot-reloadable JSON configuration, low-overhead wrapper runtime, and prebuilt",
-      "description": "Claude Code Unlimited — Session Rotation Engine for Claude Code CLI: native 64-bit portable build with hot-reloadable JSON configuration, low-overhead wrapper runtime, and prebuilt portable release with automatic limit detection.\n⬇ No compiler. No setup. Grab the prebuilt package and run.\nClaude Code Unlimited — Session Rotation Engine for Claude Code CLI (claude-code-unlimited\n) is a dedicated, l",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "productivity"
-      ]
-    },
-    {
-      "id": "cd4d0e92-c184-47cd-bfd6-a7cc489672be",
-      "name": "Reverse-Specify Anything",
-      "url": "https://github.com/lyriks-io/lyriks-community",
-      "oneLiner": "From your code to a living spec.",
-      "description": "From your code to a living spec.\nOpen source and running on your machine.\nGet your free key · Docs · First steps · Discord\nLyriks is a self-hosted workspace that holds your product's features, rules, screens and data in one specification. Your AI coding client reads the code and writes that spec through MCP; you review it in the browser.\n- Nobody remembers why the code does what it does.\n- The spe",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/lyriks-io/lyriks-community.git",
-      "categories": [
-        "code",
-        "agents",
-        "data"
-      ]
-    },
-    {
-      "id": "8cc453ef-d501-432f-84e0-2803a8fdf108",
-      "name": "VibeVigil",
-      "url": "https://vibevigil.com/",
-      "oneLiner": "You built it with Lovable, Bolt, v0, Cursor, or Replit.",
-      "description": "Example\nScan results\n- Exposed key in JS bundle\n- Supabase table: no RLS\n- Security headers\nYou built it with Lovable, Bolt, v0, Cursor, or Replit. People can open the site. VibeVigil reads the public page and the JavaScript. It tells you what is wrong in short words. It gives you a note to paste into your coding tool.\nNo account. You see the report first. You must own the site.\nExample\nScan resul",
+      "id": "a558e764-cb72-4b91-86ee-09041e65fe91",
+      "name": "coregold-usdt-vcc-on-device-ai-app-store-wallet-guide",
+      "url": "https://github.com/hecateadis-ux/coregold-usdt-vcc-on-device-ai-app-store-wallet-guide",
+      "oneLiner": "Inspired by November 2026 on-device AI and mobile ecosystem momentum (including Apple's AI health usage study and edge AI integration), this guide explains mobile wallet tokenizati",
+      "description": "Inspired by November 2026 on-device AI and mobile ecosystem momentum (including Apple's AI health usage study and edge AI integration), this guide explains mobile wallet tokenization, app store billing alignment, and CoreGold setup.\nOn-Device AI & Mobile App Ecosystems: Mastering App Store & Wallet Billing\nIn November 2026, AI is moving closer to personal devices and everyday mobile experiences—fr",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -440,16 +49,15 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "design",
-        "data"
+        "design"
       ]
     },
     {
-      "id": "a5813cce-fcc0-45eb-a64d-03a791d01475",
-      "name": "Daydream",
-      "url": "https://www.daydreamvideo.com",
-      "oneLiner": "Daydream is a single creative workspace for collaborating with AI to create and edit dynamic video content.",
-      "description": "An AI video editor built for your agents\nDaydream is a single creative workspace for collaborating with AI to create and edit dynamic video content.\nFree to use · No credit card required · Mac and Windows\nhawaii\nUsed by people at\nPlug into the AI you already use.\nDaydream connects seamlessly to your existing AI workflow. Wire up Claude, ChatGPT, or any other agent harness, and bring its full conte",
+      "id": "b0731d14-6f29-4831-9357-d4d2cab6baf8",
+      "name": "coregold-usdt-vcc-cursor-claude-code-ai-coding-guide",
+      "url": "https://github.com/petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide",
+      "oneLiner": "A specialized FinOps guide for programmers and indie developers on preventing subscription expirations and billing blocks on Cursor Pro, GitHub Copilot, and Claude Code using CoreG",
+      "description": "A specialized FinOps guide for programmers and indie developers on preventing subscription expirations and billing blocks on Cursor Pro, GitHub Copilot, and Claude Code using CoreGold USDT Virtual Cards (VCC).\nSecuring AI Coding Subscriptions: Preventing Cursor & Claude Code Billing Failures with CoreGold VCC\nAI-assisted coding environments like Cursor, GitHub Copilot, and Claude Code have become ",
       "pricing": "paid",
       "country": null,
       "quality": 25,
@@ -457,82 +65,100 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "video"
+        "design"
       ]
     },
     {
-      "id": "660b8aed-7945-485f-948d-cb551393afb7",
-      "name": "Chili3D",
-      "url": "https://github.com/xiangechen/chili3d",
-      "oneLiner": "An open-source, browser-based 3D CAD for AI-assisted, parametric and direct modeling.",
-      "description": "An open-source, browser-based 3D CAD for AI-assisted, parametric and direct modeling.\nTry it now: chili3d.com — official site; a Cloudflare mirror is available as a backup.\nChili3D is an open-source 3D CAD (Computer-Aided Design) application built with TypeScript. It compiles OpenCascade (OCCT) to WebAssembly and renders through Three.js, bringing near-native modeling performance to the browser. A",
+      "id": "f5970a21-93f7-433c-96d9-9157acd725bc",
+      "name": "Nachuan",
+      "url": "https://github.com/wg5759/nachuan",
+      "oneLiner": "Zero-Telemetry, Verifiable Multi-Agent Control Plane 可自证零遥测的多 Agent 编码与本地 AI 控制面 — Built for developers who want multi-worktree parallel coding, visual diff review, cross-platform ",
+      "description": "Zero-Telemetry, Verifiable Multi-Agent Control Plane 可自证零遥测的多 Agent 编码与本地 AI 控制面 — Built for developers who want multi-worktree parallel coding, visual diff review, cross-platform native secret storage, and tool-verifiable privacy instead of opaque promises.\nEnglish | 简体中文完整运维与边界说明 (README.zh-CN.md)\nRelease status:\n0.2.0\nsource alpha (Apache-2.0). Source, CLI + Local Web control plane, zero-teleme",
       "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/xiangechen/chili3d.git",
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "556b9e93-21b5-462e-814c-7a1f8ae5afa3",
-      "name": "Tidal Bans AI-Generated Music",
-      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-      "oneLiner": "The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month, a move its leader believes “will resonate with ",
-      "description": "The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month, a move its leader believes “will resonate with both artists and listeners alike.”\nThe service will remove the AI tracks starting Dec. 9, making Tidal the first music streaming platform to ban AI music entirely. It comes nearly five months after Tidal said it would de",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "audio"
-      ]
-    },
-    {
-      "id": "ae5c71df-6638-409a-b473-11e0f26c389d",
-      "name": "Moonbooth",
-      "url": "https://www.moonbooth.ai",
-      "oneLiner": "Sending a message moves words between agents.",
-      "description": "Sending a message moves words between agents. A booth keeps the shared record the words were about: versioned contracts that name what everyone is building against, findings with their evidence, the assumptions other work rests on, and decisions recorded with who proposed them and who endorsed them.\nEach agent retrieves the changes that affect its own work, instead of polling everything or trustin",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
+        "data",
         "security"
       ]
     },
     {
-      "id": "418e90e8-ec1e-49ec-b0c4-610562271233",
-      "name": "Agentbadge",
-      "url": "https://github.com/Emreceyhnn/Agentbadge",
-      "oneLiner": "Scores how well a repository can be worked on by AI coding agents (Claude Code, Cursor, Codex, Devin, Copilot) from 0 to 100, and provides an SVG badge for your README.",
-      "description": "Scores how well a repository can be worked on by AI coding agents (Claude Code, Cursor, Codex, Devin, Copilot) from 0 to 100, and provides an SVG badge for your README.\nNot affiliated with agentbadge.xyz, an agent-readiness platform for websites and APIs.\nCurrently optimized for JS/TS repositories — Go, Rust, and Makefile-based test/CI detection is on the roadmap.\n🔗 Live demo: agentbadge.emreceyha",
-      "pricing": "unknown",
+      "id": "7f80bedb-e3ee-4037-ae9a-873aeea709ac",
+      "name": "Pintura",
+      "url": "https://github.com/editide/pintura",
+      "oneLiner": "A presentation is a folder of YAML files, and your browser shows it live as you or your agent edit them.",
+      "description": "A presentation is a folder of YAML files, and your browser shows it live as you or your agent edit them. Pintura checks every slide for what a reviewer would catch, such as text spilling out of its box or a title sitting lower than on the other slides. When the deck is ready, it exports to PowerPoint as a deck people keep working in, with real layouts, theme colors and fonts, and native charts and",
+      "pricing": "paid",
       "country": null,
-      "quality": 10,
+      "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Emreceyhnn/Agentbadge",
+      "githubUrl": "https://github.com/editide/pintura.git",
       "categories": [
         "code",
-        "design",
-        "agents"
+        "agents",
+        "design"
       ]
     },
     {
-      "id": "a3029746-001b-4b65-98e0-7f41e8e505f6",
-      "name": "PII Guard",
-      "url": "https://github.com/almma-ai/pii-guard",
-      "oneLiner": "A browser extension that catches personal data (names, IDs, dates, addresses, phone numbers, e-mail addresses) in the message box of claude.",
-      "description": "A browser extension that catches personal data (names, IDs, dates, addresses, phone numbers, e-mail addresses) in the message box of claude.ai and chat.almma.ai before it is sent, and replaces it with placeholders such as [NAME_1]\n. It runs entirely in your browser: the code contains no network calls.\nDemo video (73 s): https://www.youtube.com/watch?v=k2dVQsBeQo4\nBuilt for FERPA- and HIPAA-sensiti",
+      "id": "dca5093e-a2b3-4eba-b81e-e25216ab1093",
+      "name": "Animama",
+      "url": "https://github.com/raymond-van/animama",
+      "oneLiner": "Your new desk buddy is an Anima.",
+      "description": "Walkthrough video ·\nDocs ·\nDiscord\nREADME: 日本語 ·\n한국어 ·\n简体中文\nNews\nNovember 18, 2026 · Animama has officially launched and is now open source\nYour new desk buddy is an Anima.\nAnimama puts a charming and expressive companion in the corner of your screen, keeping you company while you work, play and power through the day.\n- Private and self-hostable: runs on your computer with your own API keys or a l",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/raymond-van/animama.git",
+      "categories": [
+        "code",
+        "design",
+        "voice"
+      ]
+    },
+    {
+      "id": "4af69c1b-5fda-45ad-8cc5-a5d4871042e5",
+      "name": "AI Video Editing Skills",
+      "url": "https://github.com/blotato/contentskills",
+      "oneLiner": "Complete set of AI agent skills for content creation, including AI video editor, writing scripts, storyboard, scheduling to social media, and setting up DM automations to drive sal",
+      "description": "Complete set of AI agent skills for content creation, including AI video editor, writing scripts, storyboard, scheduling to social media, and setting up DM automations to drive sales.\nContentSkills works with any AI agent - Claude Code, ChatGPT Codex, Grokbot, Hermes, Cursor, OpenClaw, Gemini CLI, GitHub Copilot and more.\nTo install it, just tell your AI agent:\nsetup https://github.com/blotato/con",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/blotato/contentskills",
+      "categories": [
+        "code",
+        "video",
+        "writing"
+      ]
+    },
+    {
+      "id": "83400079-8408-4ed8-94e0-043f579836fe",
+      "name": "ClothesMorph",
+      "url": "https://clothesmorph.com/",
+      "oneLiner": "A top, an outer layer and trousers in a single generation.",
+      "description": "Three-piece outfit\nA top, an outer layer and trousers in a single generation. Check how the layers stack, where each hem sits and whether every piece keeps its own color.\nWhat to check\n- Every piece presentHolds up\n- Layer order correctHolds up\nClothesMorph is an AI clothes changer that puts up to three garments on one person photo in 1K watermark-free resolution—preserving face, pose, logos, prin",
+      "pricing": "paid",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "image"
+      ]
+    },
+    {
+      "id": "480d9eaf-86fd-42e2-b2e1-64e17c9e3077",
+      "name": "coregold-usdt-vcc-rand-ai-automation-solo-founder-stack-guide",
+      "url": "https://github.com/blessingyakubu400-art/coregold-usdt-vcc-rand-ai-automation-solo-founder-stack-guide",
+      "oneLiner": "coregold-usdt-vcc-rand-ai-automation-solo-founder-stack-guide",
+      "description": "11 月 23 日 RAND 兰德智库发布的 AI 自动化替代人工测算引发全网热议，“一人公司（One-Person Company）”正借助 AI 爆发——聊聊超级个体和自由职业者如何用 CoreGold 虚拟卡 一个人搞定全球订阅、应用商店与跨境收付。\n2026 年 11 月 23 日，美国兰德智库（RAND）发布的最新研究引发广泛讨论：随着 AI 自动化工具在研发、设计、客服和营销环节大规模替代传统重复劳动，越来越多的“一人公司（One-Person Company）”和独立创作者正借助 AI 撬动过去需要十人团队才能完成的业务量。\n但一人公司最大的痛点在于所有琐事都得自己扛——没有专门的财务帮你处理海外报销，也没有行政帮你办境外公司卡。每天买 AI 会员、订设计软件、买海外域名主机、在 App Store / Google Play 买效率工具，如果支付卡不好用，极度消耗精力。\n-",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -541,41 +167,186 @@
       "categories": [
         "code",
         "design",
-        "rag"
+        "productivity"
       ]
     },
     {
-      "id": "6d04079e-efd3-4afa-a4f2-6a864f35385b",
-      "name": "Mason",
-      "url": "https://masondata.ai/",
-      "oneLiner": "A lightweight drop-in replacement for your Postgres read replica.",
-      "description": "A lightweight drop-in replacement for your Postgres read replica.\nSame SQL, same answers. But extremely fast for analytical queries.\nAWS m7g.xlarge · 4 vCPU · 16 GiB RAM · EBS gp3\nWhy Mason\n- Lightweight: Mason is a single Node.js process you can run anywhere. It keeps all its config and your synced data locally in the folder you run it in.\n- Fast: Mason syncs your Postgres data into DuckDB's colu",
+      "id": "6bcedadb-2e23-4601-a840-4e3ea88aa2b4",
+      "name": "WorldLeague",
+      "url": "https://github.com/xyangzhou/WorldLeague",
+      "oneLiner": "WorldLeague evaluates what an embodied agent can accomplish in 60 interactive household tasks.",
+      "description": "WorldLeague evaluates what an embodied agent can accomplish in 60 interactive household tasks.\nWorldLeague: Benchmarking Physical Agency\nXinyang Zhou, Qi Li, Xinchao Wang\nxML Lab, National University of Singapore\n- Nov 24, 2026 · The benchmark dataset is available on Hugging Face. Our Code and WorldHarness is available on WorldLeague and is available on WorldHarness\n- 60 household tasks across six",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": false,
       "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "data"
-      ]
-    },
-    {
-      "id": "53447560-34b8-48c8-8cad-723da7b49725",
-      "name": "Terminal Tasks Open",
-      "url": "https://github.com/vettoai/terminal-tasks-open",
-      "oneLiner": "You signed in with another tab or window.",
-      "description": "You signed in with another tab or window. Reload to refresh your session.You signed out in another tab or window. Reload to refresh your session.You switched accounts on another tab or window. Reload to refresh your session.Dismiss alert\nTerminal Tasks Open is an open benchmark of 30 hard terminal tasks by Vetto.\nEach task is a job an agent completes from a terminal: a working environment, an inst",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/vettoai/terminal-tasks-open.git",
       "categories": [
         "code",
         "agents",
         "image"
+      ]
+    },
+    {
+      "id": "a3f4afe6-7c7e-473d-9144-c3cbe8415fcc",
+      "name": "coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide",
+      "url": "https://github.com/keyshadougherty70-dev/coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide",
+      "oneLiner": "coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide",
+      "description": "11 月 22 日 OpenAI 刚发布 Perplexity 模型评估框架，端侧边缘小模型也在密集刷屏——开发者在跑多账号模型评测、拉取海外接口时，最容易踩的“多号同卡关联”雷区该怎么避？\n2026 年 11 月 22 日，OpenAI 正式推出全新的 Perplexity 模型评估框架，帮助开发者更精细地衡量模型生成质量；与此同时，以端侧边缘推理为代表的轻量化模型（如 2B 参数级边缘视觉语言模型）也在持续升温。\n对于做模型评测、数据采集、海外工具对比或 SaaS 多环境测试的技术团队来说，经常需要同时注册和维护多个测试账号来跑并发对照。但很多人只注意了换 IP 和换浏览器环境，却忽略了一个最底层的风控漏洞——把同一张银行卡反复绑进多个测试账号里。\n海外主流收单网关（如 Stripe）在每次绑卡时都会为卡号生成唯一的底层加密指纹（Card Fingerprint）。如果你在 5 个不同",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "8f9a0505-eb6f-44fa-88e9-f5886a013461",
+      "name": "coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide",
+      "url": "https://github.com/tdelowar17-tech/coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide",
+      "oneLiner": "coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide",
+      "description": "11 月 23 日 OpenAI 正式开放新一轮科研人员资助申请（再发 5 万个名额），高校实验室和硕博团队用海外工具的频率越来越高——聊聊课题组在订软件、买算力、做报销对账时最实用的用卡门道。 Markdown\n2026 年 11 月 23 日，OpenAI 正式开启新一轮科研人员资助计划（ChatGPT for Academic Researchers）申请，面向符合条件的科研人员再发放 50,000 个名额。加上近期各家模型在推理、长文本和文献检索上的持续迭代，现在高校课题组、独立研究员和海外留学团队日常使用海外 AI 工具、文献数据库、云端存储和开发套件已经成了标配。\n但很多实验室同学都有同感：申请和用工具不难，难的是付款和管账——国内双币卡动不动在 Stripe 结账页报错、导师或课题组长一张卡绑了十几个人的账号最后根本分不清哪笔是谁花的、或者某个项目结题后忘记取消自动续费白白扣",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "search",
+        "research"
+      ]
+    },
+    {
+      "id": "b43d05be-8954-4aec-9cf4-852caedc362f",
+      "name": "coregold-usdt-vcc-apple-ecosystem-apple-pay-checkout",
+      "url": "https://github.com/remoniaperfumes9-eng/coregold-usdt-vcc-apple-ecosystem-apple-pay-checkout",
+      "oneLiner": "Practical guide for Apple ecosystem users on turning USDT into a US-issued virtual card inside Apple Wallet for smooth Face ID checkouts across iOS AI apps, App Store purchases, an",
+      "description": "Practical guide for Apple ecosystem users on turning USDT into a US-issued virtual card inside Apple Wallet for smooth Face ID checkouts across iOS AI apps, App Store purchases, and Safari.\nTurning USDT into Seamless Apple Pay Checkouts for iOS AI Apps & Safari\nFor iPhone and Mac users, subscribing to AI tools (such as ChatGPT, Claude, or Grok on iOS) or purchasing App Store utilities via Apple Pa",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code"
+      ]
+    },
+    {
+      "id": "d3f778e5-365d-4709-a26c-06ca47a80154",
+      "name": "coregold-usdt-vcc-vertical-ai-indie-hacker-billing-",
+      "url": "https://github.com/kimpoungajoyce-cmd/coregold-usdt-vcc-vertical-ai-indie-hacker-billing-",
+      "oneLiner": "coregold-usdt-vcc-vertical-ai-indie-hacker-billing-",
+      "description": "从 John Deere 收购农业智能体 Orchard AI 到各类垂直 AI SaaS 涌现，越来越多独立开发者在打磨海外产品——聊聊上线前把测试卡、API 账单和数字钱包一次性理顺的实操方法。 Markdown\n2026 年 11 月，AI 的落地已经不再局限于通用聊天框——从农林科技巨头 John Deere 收购作物智能公司 Orchard AI，到医疗、法律、电商、设计等各行各业的垂直 AI 应用，越来越多的独立开发者和小型团队正在把产品推向全球市场。\n做海外产品和垂直 AI 工具，除了写代码和跑推广，日常还有一堆高频的刚性支出：云主机与算力账单、第三方模型接口充值、设计/开发工具订阅、以及测试自家产品支付链路所需的测试卡。如果每笔都靠求人代付或混用个人卡，效率低还容易出纰漏。\n- 给线上运行的模型接口、云服务开一张专用卡，保证余额充足，避免因为余额耗尽导致线上服务中断；\n- ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "other"
+      ]
+    },
+    {
+      "id": "5d871d27-5c11-4854-81d8-f78ca1f55c4e",
+      "name": "AI-Clipper",
+      "url": "https://github.com/CrystalDustt-V2/AI-Clipper",
+      "oneLiner": "A local-first Python CLI for video intelligence, structured AI-controlled video editing, and deterministic FFmpeg rendering.",
+      "description": "A local-first Python CLI for video intelligence, structured AI-controlled video editing, and deterministic FFmpeg rendering. No browser UI is required: an AI agent analyzes transcript/visual timelines and authors a strict JSON Clipper Editing Project (CEP 1.0\n), while validated local tools execute media transformations and renders.\n- Autonomous Topic-Driven Duration & Multi-Clip Ledger: By default",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "voice"
+      ]
+    },
+    {
+      "id": "d10792d5-6b90-41de-8341-871909460b3a",
+      "name": "coregold-usdt-vcc-multi-tool-ai-stack-management-guide",
+      "url": "https://github.com/eragritchiegg15-beep/coregold-usdt-vcc-multi-tool-ai-stack-management-guide",
+      "oneLiner": "Drawing on November 2026 trends of expanding AI tool stacks and digital wallets, this guide breaks down practical tips on plan selection, card lifecycle management, and wallet bind",
+      "description": "Drawing on November 2026 trends of expanding AI tool stacks and digital wallets, this guide breaks down practical tips on plan selection, card lifecycle management, and wallet binding with CoreGold.\nKeeping Multi-Tool AI Stacks Organized: Practical Card & Wallet Habits\nIn November 2026, developers, creators, and teams routinely combine multiple AI models, apps, and online services in their daily w",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "dba5491b-810b-419d-a44c-c268ae008289",
+      "name": "coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide",
+      "url": "https://github.com/tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide",
+      "oneLiner": "coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide",
+      "description": "围绕 AMD 82 亿美元收购 World Labs 以及李飞飞出任首席科学家推动 3D 与空间智能爆发的热点，拆解 3D/空间 AI 与多模态工具订阅的支付痛点，并给出 CoreGold 虚拟卡极简开卡与数字钱包绑定指南。\n最近 AI 硬件与空间智能领域迎来重磅消息：AMD 完成约 82 亿美元对 World Labs 的收购，三维环境、空间智能与机器人学习赛道进一步升温，创始人李飞飞出任首席科学家并直接向苏姿丰汇报。\n空间智能、3D 生成、多模态视频和各类 AI 开发工具的迭代速度越来越快，很多开发者、设计师和独立创作者都在第一时间试用各种海外模型平台、云端渲染服务和数字订阅。但一到付款环节，不少人就卡在了“银行卡不支持”“海外扣款失败”或者“搞不清账单地址怎么填”上。\n今天就借着空间智能与多模态工具热潮，聊一聊海外工具订阅里的实用支付常识，再把 CoreGold 的开卡和绑定流程用最",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "782452be-fc0b-43ab-b5fe-05a92ad6432c",
+      "name": "coregold-usdt-vcc-apple-wallet-face-id-pay-guide",
+      "url": "https://github.com/danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide",
+      "oneLiner": "Masterclass on tokenizing CoreGold USDT virtual cards into US Apple Wallet, enabling hardware-encrypted Face ID checkouts for cross-border SaaS and AI tool subscriptions.",
+      "description": "Masterclass on tokenizing CoreGold USDT virtual cards into US Apple Wallet, enabling hardware-encrypted Face ID checkouts for cross-border SaaS and AI tool subscriptions.\nMastering Hardware-Encrypted Checkouts: How to Link CoreGold Virtual Cards to Apple Pay\nManually typing virtual card numbers into web forms often triggers secondary verification friction or checkout blocks. The most reliable meth",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "bb1b1263-b821-43b2-9890-f06b1719a037",
+      "name": "Apargon",
+      "url": "https://github.com/Orcaryn/Apargon",
+      "oneLiner": "Create desktop apps with any AI, for macOS, Windows, and Linux.",
+      "description": "Create desktop apps with any AI, for macOS, Windows, and Linux. Each app opens in its own window, with its own icon, menus, and menu bar or tray icon. It can ask for notifications, global shortcuts, and always-on-top windows.\nNo account, no cloud. Each app is one .papp\nfile on your disk: plain HTML, with <meta>\ntags that ask for any extra permissions. No installer, no server, no build step. Double",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "writing"
+      ]
+    },
+    {
+      "id": "85223515-64e9-4f37-9f2a-d0b9a4138d82",
+      "name": "Cyber",
+      "url": "https://cyber.askgina.ai/",
+      "oneLiner": "Claims surface on X before they reach news desks or databases.",
+      "description": "Today\nSecurity press · XReported\nEarly signals on X\nClaims surface on X before they reach news desks or databases. Each signal carries a confidence stage and links to the original posts; we keep extracted facts, not copies of posts.\nAttack patterns\nText rules · DefiLlama · CISA CWERelated incidents\nReports that describe the same campaign, product or technique, grouped by text and pattern similarit",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "data"
       ]
     }
   ]
