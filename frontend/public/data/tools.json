@@ -1,9 +1,94 @@
 {
-  "generatedAt": "2026-11-25T16:53:34.270198+00:00",
-  "count": 21,
+  "generatedAt": "2026-11-26T16:31:22.526375+00:00",
+  "count": 29,
   "tools": [
     {
-      "id": "bfe5d5e9-0a78-4900-ab9e-acae0c660253",
+      "id": "767a7bbf-347d-452c-877e-7fce3cbd3d91",
+      "name": "ai-session-rotator",
+      "url": "https://github.com/hassany30/ai-session-rotator",
+      "oneLiner": "AI Session Suite — AI Session Suite — Session rotation suite for ALL AI services — one binary.",
+      "description": "AI Session Suite — AI Session Suite — Session rotation suite for ALL AI services — one binary. (One-Command Setup, Prebuilt Release)\nAI Session Suite — AI Session Suite — Session rotation suite for ALL AI services — one binary. (One-Command Setup, Prebuilt Release): AI Session Suite — ai session rotator tool. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/hassany30/ai-session-rotator.git",
+      "categories": [
+        "code",
+        "design",
+        "productivity"
+      ]
+    },
+    {
+      "id": "b9243796-763e-4887-a438-b097f867e97b",
+      "name": "desk-cleanup-ai",
+      "url": "https://github.com/matthewgonzalez838/desk-cleanup-ai",
+      "oneLiner": "AI File Organizer — AI File Organizer — Ai File Organizer (Hot-Reload Config, Zero Dependencies): AI File Organizer — file and tool in one tool.",
+      "description": "AI File Organizer — AI File Organizer — Ai File Organizer (Hot-Reload Config, Zero Dependencies): AI File Organizer — file and tool in one tool. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No compiler. No setup. Grab the prebuilt package and run.\nAI File Organizer — AI File Organizer — file and tool in one tool (desk-c",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/TestOwner/desk-cleanup-ai.git",
+      "categories": [
+        "code",
+        "design",
+        "productivity"
+      ]
+    },
+    {
+      "id": "c02b89b3-2c26-44ea-8016-976142bd0cf6",
+      "name": "old-photo-life",
+      "url": "https://github.com/matsumoto4039/old-photo-life",
+      "oneLiner": "AI Old Photo Animate — AI Old Photo Animate — Ai Old Photo Animate (Hot-Reload Config, Zero Dependencies): AI Old Photo Animate — animate and animation in one tool.",
+      "description": "AI Old Photo Animate — AI Old Photo Animate — Ai Old Photo Animate (Hot-Reload Config, Zero Dependencies)\nAI Old Photo Animate — AI Old Photo Animate — Ai Old Photo Animate (Hot-Reload Config, Zero Dependencies): AI Old Photo Animate — animate and animation in one tool. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No co",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/TestOwner/old-photo-life.git",
+      "categories": [
+        "code",
+        "image",
+        "video"
+      ]
+    },
+    {
+      "id": "a99e97f8-e382-40bd-b88f-b6ffb6b9c652",
+      "name": "vtuber-avatar-ai",
+      "url": "https://github.com/LolabaHule20/vtuber-avatar-ai",
+      "oneLiner": "AI VTuber Toolkit — AI VTuber Toolkit — Ai Vtuber Toolkit (One-Command Setup, Prebuilt Release): AI VTuber Toolkit — ai and avatar in one tool.",
+      "description": "AI VTuber Toolkit — AI VTuber Toolkit — Ai Vtuber Toolkit (One-Command Setup, Prebuilt Release): AI VTuber Toolkit — ai and avatar in one tool. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.\n⬇ No compiler. No setup. Grab the prebuilt package and run.\nAI VTuber Toolkit — AI VTuber Toolkit — ai and avatar in one tool (vtuber-",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/TestOwner/vtuber-avatar-ai.git",
+      "categories": [
+        "code",
+        "design",
+        "voice"
+      ]
+    },
+    {
+      "id": "880c4f37-f838-415d-bad9-5a27fa7b1137",
+      "name": "resume-tool-x",
+      "url": "https://github.com/TaroloCu37/resume-tool-x",
+      "oneLiner": "AI Resume Builder — AI Resume Builder — AI resume builder: ATS-optimized CVs in minutes.",
+      "description": "AI Resume Builder — AI Resume Builder — AI resume builder: ATS-optimized CVs in minutes. (Hot-Reload Config, Zero Dependencies)\nAI Resume Builder — AI Resume Builder — AI resume builder: ATS-optimized CVs in minutes. (Hot-Reload Config, Zero Dependencies): AI Resume Builder — resume tool x suite. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuil",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/TaroloCu37/resume-tool-x.git",
+      "categories": [
+        "code",
+        "design",
+        "productivity"
+      ]
+    },
+    {
+      "id": "dd09c890-7f9b-4a8b-98af-220c93ba3b5c",
       "name": "Anvil",
       "url": "https://github.com/deeeeone/Anvil",
       "oneLiner": "A native macOS coding agent that works with almost any model.",
@@ -15,12 +100,12 @@
       "githubUrl": "https://github.com/deeeeone/Anvil.git",
       "categories": [
         "code",
-        "data",
-        "writing"
+        "writing",
+        "data"
       ]
     },
     {
-      "id": "51fceaa7-bbf8-424d-92a4-74ed2f2513f1",
+      "id": "276d02cf-d8b0-4459-b7ed-aa9b48cd2d09",
       "name": "upasarathi",
       "url": "https://github.com/HimanshuMohanty-Git24/upasarathi",
       "oneLiner": "Modern AI is trained to please you.",
@@ -37,7 +122,7 @@
       ]
     },
     {
-      "id": "a558e764-cb72-4b91-86ee-09041e65fe91",
+      "id": "1758bc40-6cc8-46b8-9375-58c6865896e7",
       "name": "coregold-usdt-vcc-on-device-ai-app-store-wallet-guide",
       "url": "https://github.com/hecateadis-ux/coregold-usdt-vcc-on-device-ai-app-store-wallet-guide",
       "oneLiner": "Inspired by November 2026 on-device AI and mobile ecosystem momentum (including Apple's AI health usage study and edge AI integration), this guide explains mobile wallet tokenizati",
@@ -53,95 +138,95 @@
       ]
     },
     {
-      "id": "b0731d14-6f29-4831-9357-d4d2cab6baf8",
-      "name": "coregold-usdt-vcc-cursor-claude-code-ai-coding-guide",
-      "url": "https://github.com/petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide",
-      "oneLiner": "A specialized FinOps guide for programmers and indie developers on preventing subscription expirations and billing blocks on Cursor Pro, GitHub Copilot, and Claude Code using CoreG",
-      "description": "A specialized FinOps guide for programmers and indie developers on preventing subscription expirations and billing blocks on Cursor Pro, GitHub Copilot, and Claude Code using CoreGold USDT Virtual Cards (VCC).\nSecuring AI Coding Subscriptions: Preventing Cursor & Claude Code Billing Failures with CoreGold VCC\nAI-assisted coding environments like Cursor, GitHub Copilot, and Claude Code have become ",
-      "pricing": "paid",
+      "id": "8bf13fc8-d0df-4edd-b2a2-353b3caf516c",
+      "name": "Neui",
+      "url": "https://github.com/doors-dev/neui",
+      "oneLiner": "Neui is an AI agent and a web framework built as one stack.",
+      "description": "Neui is an AI agent and a web framework built as one stack. The framework, Doors (Apache-2.0), lets Go teams build modern interactive apps with no separate frontend and no API layer. Neui adds the agent: it runs inside the user's session, sees the parts of the page you let it see, operates the UI like a user, and brings its own work environment for the jobs a chat alone cannot do.\nEvery feature yo",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
+      ]
+    },
+    {
+      "id": "6e2a405b-013f-4676-84b8-767140bd88e7",
+      "name": "How we built Duo",
+      "url": "https://duplexio.ai/blog/how-we-built-duo/",
+      "oneLiner": "Turning an open-weight LLM into a full-duplex speech model.",
+      "description": "How we built Duo\nTurning an open-weight LLM into a full-duplex speech model.\nTraditionally, AI voice agents have combined separate models for transcription (STT), response generation (LLM), and speech synthesis (TTS) in a pipelined system. While the modular design allows each component to be replaced or upgraded independently, it comes at a cost of the end-user conversational experience. Even with",
+      "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
       "githubUrl": null,
       "categories": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "f5970a21-93f7-433c-96d9-9157acd725bc",
-      "name": "Nachuan",
-      "url": "https://github.com/wg5759/nachuan",
-      "oneLiner": "Zero-Telemetry, Verifiable Multi-Agent Control Plane 可自证零遥测的多 Agent 编码与本地 AI 控制面 — Built for developers who want multi-worktree parallel coding, visual diff review, cross-platform ",
-      "description": "Zero-Telemetry, Verifiable Multi-Agent Control Plane 可自证零遥测的多 Agent 编码与本地 AI 控制面 — Built for developers who want multi-worktree parallel coding, visual diff review, cross-platform native secret storage, and tool-verifiable privacy instead of opaque promises.\nEnglish | 简体中文完整运维与边界说明 (README.zh-CN.md)\nRelease status:\n0.2.0\nsource alpha (Apache-2.0). Source, CLI + Local Web control plane, zero-teleme",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "data",
-        "security"
-      ]
-    },
-    {
-      "id": "7f80bedb-e3ee-4037-ae9a-873aeea709ac",
-      "name": "Pintura",
-      "url": "https://github.com/editide/pintura",
-      "oneLiner": "A presentation is a folder of YAML files, and your browser shows it live as you or your agent edit them.",
-      "description": "A presentation is a folder of YAML files, and your browser shows it live as you or your agent edit them. Pintura checks every slide for what a reviewer would catch, such as text spilling out of its box or a title sitting lower than on the other slides. When the deck is ready, it exports to PowerPoint as a deck people keep working in, with real layouts, theme colors and fonts, and native charts and",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/editide/pintura.git",
-      "categories": [
-        "code",
-        "agents",
-        "design"
-      ]
-    },
-    {
-      "id": "dca5093e-a2b3-4eba-b81e-e25216ab1093",
-      "name": "Animama",
-      "url": "https://github.com/raymond-van/animama",
-      "oneLiner": "Your new desk buddy is an Anima.",
-      "description": "Walkthrough video ·\nDocs ·\nDiscord\nREADME: 日本語 ·\n한국어 ·\n简体中文\nNews\nNovember 18, 2026 · Animama has officially launched and is now open source\nYour new desk buddy is an Anima.\nAnimama puts a charming and expressive companion in the corner of your screen, keeping you company while you work, play and power through the day.\n- Private and self-hostable: runs on your computer with your own API keys or a l",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": "https://github.com/raymond-van/animama.git",
-      "categories": [
-        "code",
         "design",
+        "agents",
         "voice"
       ]
     },
     {
-      "id": "4af69c1b-5fda-45ad-8cc5-a5d4871042e5",
-      "name": "AI Video Editing Skills",
-      "url": "https://github.com/blotato/contentskills",
-      "oneLiner": "Complete set of AI agent skills for content creation, including AI video editor, writing scripts, storyboard, scheduling to social media, and setting up DM automations to drive sal",
-      "description": "Complete set of AI agent skills for content creation, including AI video editor, writing scripts, storyboard, scheduling to social media, and setting up DM automations to drive sales.\nContentSkills works with any AI agent - Claude Code, ChatGPT Codex, Grokbot, Hermes, Cursor, OpenClaw, Gemini CLI, GitHub Copilot and more.\nTo install it, just tell your AI agent:\nsetup https://github.com/blotato/con",
-      "pricing": "free",
+      "id": "ce9720fd-5692-4f6c-8275-b6a0c132dd67",
+      "name": "AI agents explore your mobile app",
+      "url": "https://github.com/pierridotite/mobile-agent-testers",
+      "oneLiner": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners.",
+      "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners.\nExamples · Dashboard demo · Compare · FAQ · Personas · Contributing\nEnglish · 简体中文 · 日本語 · Español · Português · Tiếng Việt · Türkçe\nThe phones are real screen recordings of the LocalSend run; the map is the dashboard on the demo app. Video with sound (MP4) · The 20 phones, full recording · The run, device by device\nNo te",
+      "pricing": "open_source",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/blotato/contentskills",
+      "githubUrl": null,
       "categories": [
         "code",
-        "video",
-        "writing"
+        "agents",
+        "video"
       ]
     },
     {
-      "id": "83400079-8408-4ed8-94e0-043f579836fe",
-      "name": "ClothesMorph",
-      "url": "https://clothesmorph.com/",
-      "oneLiner": "A top, an outer layer and trousers in a single generation.",
-      "description": "Three-piece outfit\nA top, an outer layer and trousers in a single generation. Check how the layers stack, where each hem sits and whether every piece keeps its own color.\nWhat to check\n- Every piece presentHolds up\n- Layer order correctHolds up\nClothesMorph is an AI clothes changer that puts up to three garments on one person photo in 1K watermark-free resolution—preserving face, pose, logos, prin",
+      "id": "93ab217a-4dd5-4608-a1e6-56fd3490f902",
+      "name": "I launched a company run by AI",
+      "url": "https://leftincharge.com/story/never-been-busier/",
+      "oneLiner": "I set up Left In Charge ten days ago.",
+      "description": "I set up Left In Charge ten days ago. It is a company run by AI agents: about ten of them, working under a written rulebook that only I can change, which we call the constitution. My job was meant to be small. I approve the money and otherwise stay out of the way.\nThe question was simple. If you leave a machine to its own devices, does it start making successful products?\nTen days in, I have never",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "image"
+      ]
+    },
+    {
+      "id": "4aa1864f-0647-421e-8089-807550935012",
+      "name": "Making the Most of AI in Open Source",
+      "url": "https://phpstan.org/blog/making-the-most-of-ai-in-open-source",
+      "oneLiner": "Today I gave a talk at TechMeetup Ostrava about how AI changed the way I work on PHPStan.",
+      "description": "Making the Most of AI in Open Source\nNovember 20, 2026 · 2 min read\nToday I gave a talk at TechMeetup Ostrava about how AI changed the way I work on PHPStan. AI tools and trends change from week to week, so instead of tricks that expire with the next model, I tried to share lessons that should last.\nThe talk was in Czech, but I translated the slides to English. Every slide also ends with a short s",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents"
+      ]
+    },
+    {
+      "id": "3bce6b01-6c32-4bc9-813f-40489d3cfb57",
+      "name": "Truce",
+      "url": "https://trucehq.com/agents",
+      "oneLiner": "The independent mediator for AI agents.",
+      "description": "Truce for AI agents\nThe independent mediator for AI agents. Not a payment network, not a platform, not a party: a neutral judge that follows open ODR Standards. One MCP server, no key, free.\nOne line, Claude Code:\nclaude mcp add --transport http truce https://trucehq.com/mcp\nClaude app or ChatGPT: add a custom connector with the URLhttps://trucehq.com/mcp\n. Python: pip install trucehq\n.JavaScript:",
       "pricing": "paid",
       "country": null,
       "quality": 25,
@@ -150,11 +235,59 @@
       "categories": [
         "code",
         "design",
-        "image"
+        "agents"
       ]
     },
     {
-      "id": "480d9eaf-86fd-42e2-b2e1-64e17c9e3077",
+      "id": "005e7b73-71f3-4e0d-9502-c072b9d87d40",
+      "name": "-ai-thesis-writing-platform",
+      "url": "https://github.com/blanka-alt/-ai-thesis-writing-platform",
+      "oneLiner": "-ai-thesis-writing-platform",
+      "description": "官方网站 · 版本对比 · 系统实拍 · 功能总览 · 联系购买\n学成写作 · AI 论文写作平台源码：覆盖「写 → 改 → 排 → 降 → 检 → 答辩 → 分销」全链路。面向教培机构、流量主、创业团队的 OEM 白标 / 源码交付方案，两档版本一眼选型。\n✨ 旗舰版 ｜ PRO 升级版\n🌐 立即体验：https://mysoul.echomysoul.us.kg\n｜ 微信客服：snrmom\n官网直达入口 · https://mysoul.echomysoul.us.kg\n旗舰版 & PRO 均含： 任务书 · 开题报告 · 文献综述 · 论文辅助写作\n只有 PRO： 上传稿件 → 在线改到满意为止\n两版都有降重链路；PRO 检测能力更完整。\n旗舰： PPT + 问卷 ｜ PRO： PPT + 问卷 + 排版 + 全文翻译 + 科研绘图\n🛰详聊\n旗舰版不含此模块 · PRO 含 SaaS",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "writing"
+      ]
+    },
+    {
+      "id": "89a46658-ec56-4101-abc3-532d85b62eea",
+      "name": "coregold-usdt-vcc-predictable-global-payment-rails-guide",
+      "url": "https://github.com/erickluna015kmparaviaje374-crypto/coregold-usdt-vcc-predictable-global-payment-rails-guide",
+      "oneLiner": "Ongoing November 2026 conversations around payment processing, network outages, and fee rules remind builders that having a direct, self-serve payment workflow for AI subscriptions",
+      "description": "Ongoing November 2026 conversations around payment processing, network outages, and fee rules remind builders that having a direct, self-serve payment workflow for AI subscriptions and global tools saves time when things get noisy.\nWhy Predictable Self-Serve Payment Rails Matter for Global AI & SaaS Users\nPayment processing news in November 2026—spanning network disruption reports, regulatory deba",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "id": "31dc3272-6fe8-4296-8845-2e373b301ecf",
+      "name": "-coregold-usdt-vcc-industry-ai-workflows-payment-readiness-guide",
+      "url": "https://github.com/fgsdg7590-sys/-coregold-usdt-vcc-industry-ai-workflows-payment-readiness-guide",
+      "oneLiner": "Following November 2026 announcements around industry-specific agentic platforms like IBM and Microsoft's Imagine Enterprise, builders adapting vertical AI tools need straightforwa",
+      "description": "Following November 2026 announcements around industry-specific agentic platforms like IBM and Microsoft's Imagine Enterprise, builders adapting vertical AI tools need straightforward payment setup for testing, extensions, and global services.\nIndustry-Specific AI Platforms Are Expanding—How Builders Stay Ready to Pay & Test\nIn November 2026, major enterprise releases like Imagine Enterprise from I",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "productivity"
+      ]
+    },
+    {
+      "id": "947da8b6-ffc0-45b6-8969-97743a800175",
       "name": "coregold-usdt-vcc-rand-ai-automation-solo-founder-stack-guide",
       "url": "https://github.com/blessingyakubu400-art/coregold-usdt-vcc-rand-ai-automation-solo-founder-stack-guide",
       "oneLiner": "coregold-usdt-vcc-rand-ai-automation-solo-founder-stack-guide",
@@ -171,24 +304,7 @@
       ]
     },
     {
-      "id": "6bcedadb-2e23-4601-a840-4e3ea88aa2b4",
-      "name": "WorldLeague",
-      "url": "https://github.com/xyangzhou/WorldLeague",
-      "oneLiner": "WorldLeague evaluates what an embodied agent can accomplish in 60 interactive household tasks.",
-      "description": "WorldLeague evaluates what an embodied agent can accomplish in 60 interactive household tasks.\nWorldLeague: Benchmarking Physical Agency\nXinyang Zhou, Qi Li, Xinchao Wang\nxML Lab, National University of Singapore\n- Nov 24, 2026 · The benchmark dataset is available on Hugging Face. Our Code and WorldHarness is available on WorldLeague and is available on WorldHarness\n- 60 household tasks across six",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "image"
-      ]
-    },
-    {
-      "id": "a3f4afe6-7c7e-473d-9144-c3cbe8415fcc",
+      "id": "40ddbe6f-fa73-404c-9a1d-e313be78a7bb",
       "name": "coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide",
       "url": "https://github.com/keyshadougherty70-dev/coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide",
       "oneLiner": "coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide",
@@ -204,7 +320,7 @@
       ]
     },
     {
-      "id": "8f9a0505-eb6f-44fa-88e9-f5886a013461",
+      "id": "6ae67a43-4820-47f7-806d-624d4a7d21e3",
       "name": "coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide",
       "url": "https://github.com/tdelowar17-tech/coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide",
       "oneLiner": "coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide",
@@ -221,7 +337,7 @@
       ]
     },
     {
-      "id": "b43d05be-8954-4aec-9cf4-852caedc362f",
+      "id": "a764415e-3817-46f9-9157-57e62a5b1e48",
       "name": "coregold-usdt-vcc-apple-ecosystem-apple-pay-checkout",
       "url": "https://github.com/remoniaperfumes9-eng/coregold-usdt-vcc-apple-ecosystem-apple-pay-checkout",
       "oneLiner": "Practical guide for Apple ecosystem users on turning USDT into a US-issued virtual card inside Apple Wallet for smooth Face ID checkouts across iOS AI apps, App Store purchases, an",
@@ -236,7 +352,7 @@
       ]
     },
     {
-      "id": "d3f778e5-365d-4709-a26c-06ca47a80154",
+      "id": "ecacd5bd-5b72-4c4f-b17d-701178778673",
       "name": "coregold-usdt-vcc-vertical-ai-indie-hacker-billing-",
       "url": "https://github.com/kimpoungajoyce-cmd/coregold-usdt-vcc-vertical-ai-indie-hacker-billing-",
       "oneLiner": "coregold-usdt-vcc-vertical-ai-indie-hacker-billing-",
@@ -251,7 +367,7 @@
       ]
     },
     {
-      "id": "5d871d27-5c11-4854-81d8-f78ca1f55c4e",
+      "id": "d723f73f-4ab9-489b-833d-61f6ccd620aa",
       "name": "AI-Clipper",
       "url": "https://github.com/CrystalDustt-V2/AI-Clipper",
       "oneLiner": "A local-first Python CLI for video intelligence, structured AI-controlled video editing, and deterministic FFmpeg rendering.",
@@ -268,7 +384,7 @@
       ]
     },
     {
-      "id": "d10792d5-6b90-41de-8341-871909460b3a",
+      "id": "85b2c884-a692-43db-9eea-a82b34955e55",
       "name": "coregold-usdt-vcc-multi-tool-ai-stack-management-guide",
       "url": "https://github.com/eragritchiegg15-beep/coregold-usdt-vcc-multi-tool-ai-stack-management-guide",
       "oneLiner": "Drawing on November 2026 trends of expanding AI tool stacks and digital wallets, this guide breaks down practical tips on plan selection, card lifecycle management, and wallet bind",
@@ -284,43 +400,11 @@
       ]
     },
     {
-      "id": "dba5491b-810b-419d-a44c-c268ae008289",
-      "name": "coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide",
-      "url": "https://github.com/tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide",
-      "oneLiner": "coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide",
-      "description": "围绕 AMD 82 亿美元收购 World Labs 以及李飞飞出任首席科学家推动 3D 与空间智能爆发的热点，拆解 3D/空间 AI 与多模态工具订阅的支付痛点，并给出 CoreGold 虚拟卡极简开卡与数字钱包绑定指南。\n最近 AI 硬件与空间智能领域迎来重磅消息：AMD 完成约 82 亿美元对 World Labs 的收购，三维环境、空间智能与机器人学习赛道进一步升温，创始人李飞飞出任首席科学家并直接向苏姿丰汇报。\n空间智能、3D 生成、多模态视频和各类 AI 开发工具的迭代速度越来越快，很多开发者、设计师和独立创作者都在第一时间试用各种海外模型平台、云端渲染服务和数字订阅。但一到付款环节，不少人就卡在了“银行卡不支持”“海外扣款失败”或者“搞不清账单地址怎么填”上。\n今天就借着空间智能与多模态工具热潮，聊一聊海外工具订阅里的实用支付常识，再把 CoreGold 的开卡和绑定流程用最",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "782452be-fc0b-43ab-b5fe-05a92ad6432c",
-      "name": "coregold-usdt-vcc-apple-wallet-face-id-pay-guide",
-      "url": "https://github.com/danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide",
-      "oneLiner": "Masterclass on tokenizing CoreGold USDT virtual cards into US Apple Wallet, enabling hardware-encrypted Face ID checkouts for cross-border SaaS and AI tool subscriptions.",
-      "description": "Masterclass on tokenizing CoreGold USDT virtual cards into US Apple Wallet, enabling hardware-encrypted Face ID checkouts for cross-border SaaS and AI tool subscriptions.\nMastering Hardware-Encrypted Checkouts: How to Link CoreGold Virtual Cards to Apple Pay\nManually typing virtual card numbers into web forms often triggers secondary verification friction or checkout blocks. The most reliable meth",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "bb1b1263-b821-43b2-9890-f06b1719a037",
-      "name": "Apargon",
-      "url": "https://github.com/Orcaryn/Apargon",
-      "oneLiner": "Create desktop apps with any AI, for macOS, Windows, and Linux.",
-      "description": "Create desktop apps with any AI, for macOS, Windows, and Linux. Each app opens in its own window, with its own icon, menus, and menu bar or tray icon. It can ask for notifications, global shortcuts, and always-on-top windows.\nNo account, no cloud. Each app is one .papp\nfile on your disk: plain HTML, with <meta>\ntags that ask for any extra permissions. No installer, no server, no build step. Double",
+      "id": "81244911-b663-43de-8e63-ba9c91090064",
+      "name": "Clockwork",
+      "url": "https://github.com/tope-olajide/clockwork",
+      "oneLiner": "Clockwork is a browser-native 2D game engine with an AI co-worker inside the editor.",
+      "description": "Clockwork is a browser-native 2D game engine with an AI co-worker inside the editor. Build a scene by hand, ask the Game Director for a change, play it, test it with Kane CLI, then export a standalone build or share a read-only link.\nManual editing and Play work without a model. AI authoring and Kane runs are optional, explicitly invoked workflows.\nRequires Node 20+ and pnpm.\npnpm install\npnpm dev",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -329,15 +413,49 @@
       "categories": [
         "code",
         "agents",
-        "writing"
+        "video"
       ]
     },
     {
-      "id": "85223515-64e9-4f37-9f2a-d0b9a4138d82",
-      "name": "Cyber",
-      "url": "https://cyber.askgina.ai/",
-      "oneLiner": "Claims surface on X before they reach news desks or databases.",
-      "description": "Today\nSecurity press · XReported\nEarly signals on X\nClaims surface on X before they reach news desks or databases. Each signal carries a confidence stage and links to the original posts; we keep extracted facts, not copies of posts.\nAttack patterns\nText rules · DefiLlama · CISA CWERelated incidents\nReports that describe the same campaign, product or technique, grouped by text and pattern similarit",
+      "id": "1baf94f9-6504-4d05-be3d-43e901b265c4",
+      "name": "Lockward",
+      "url": "https://github.com/Breaktroughf1/lockward",
+      "oneLiner": "A lockfile and policy gate for everything your AI coding agents load.",
+      "description": "A lockfile and policy gate for everything your AI coding agents load.\nLockward pins every skill, MCP server, hook, rules file and security-relevant setting used by Claude Code, Cursor, Codex, Gemini CLI, Windsurf and GitHub Copilot, then fails locally or in CI when anything changes without approval. It runs offline, needs no account, and has no LLM in the loop.\nScanners tell you what looks bad tod",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/Breaktroughf1/lockward",
+      "categories": [
+        "code",
+        "agents",
+        "marketing"
+      ]
+    },
+    {
+      "id": "aa54a078-1d91-4137-ba73-1548b6acc8ee",
+      "name": "Nullify 68M",
+      "url": "https://huggingface.co/rbsriram/nullify-68m",
+      "oneLiner": "A 68-million-parameter model that identifies personal and sensitive information in text.",
+      "description": "Nullify 68M\nA 68-million-parameter model that identifies personal and sensitive information in text. It runs locally, in 8.5 ms per message on a laptop CPU, and returns the exact position of each span.\nQuick start\npip install numpy tokenizers huggingface_hub torch transformers # PyTorch backend\npip install numpy tokenizers huggingface_hub onnxruntime # or: ONNX backend, no PyTorch\nimport sys\nfrom ",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "c49e2575-9e58-451b-9a5d-85b374d5e5e3",
+      "name": "Evalkit for Improving Your Agents",
+      "url": "https://inferedge-ai.github.io/evalkit/",
+      "oneLiner": "Make your AI agent better, end to end.",
+      "description": "By InferEdge.\nMake your AI agent better, end to end.\nevalkit is a self-hosted system for improving AI agents. Real traffic goes in; a better agent comes out, with evals your domain experts signed off on.\nTL;DR Mine failures from your agent's real runs and turn them into eval cases. Your domain experts review the cases in plain language, so \"right\" means what the business means. Run them, read ever",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -346,7 +464,24 @@
       "categories": [
         "code",
         "agents",
-        "data"
+        "security"
+      ]
+    },
+    {
+      "id": "f4d2ad24-a81c-4fa9-be3a-6ffe1bbbd2f8",
+      "name": "We built self-improving AI agents for customer service",
+      "url": "https://aide.app/blog/self-improving-ai-agents",
+      "oneLiner": "An agent that improves itself has been the holy grail of AI in customer service since the advent of large language models.",
+      "description": "An agent that improves itself has been the holy grail of AI in customer service since the advent of large language models. Teams expect AI agents to learn from their interactions and get better. To realize that vision, today, we're proud to announce self-improving AI agents for customer service teams.\nEvery day teams write the most accurate account that exists of how their businesses treat their c",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "agents"
       ]
     }
   ]
