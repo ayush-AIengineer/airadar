@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-26T16:31:22.526375+00:00",
-  "count": 29,
+  "generatedAt": "2026-11-27T16:16:52.301311+00:00",
+  "count": 27,
   "tools": [
     {
-      "id": "767a7bbf-347d-452c-877e-7fce3cbd3d91",
+      "id": "ea0f9b47-5f54-446f-a615-c0a0ec8cca51",
       "name": "ai-session-rotator",
       "url": "https://github.com/hassany30/ai-session-rotator",
       "oneLiner": "AI Session Suite — AI Session Suite — Session rotation suite for ALL AI services — one binary.",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "id": "b9243796-763e-4887-a438-b097f867e97b",
+      "id": "cab22fdf-7e40-4d53-9f99-f0ca6f67fd1f",
       "name": "desk-cleanup-ai",
       "url": "https://github.com/matthewgonzalez838/desk-cleanup-ai",
       "oneLiner": "AI File Organizer — AI File Organizer — Ai File Organizer (Hot-Reload Config, Zero Dependencies): AI File Organizer — file and tool in one tool.",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "id": "c02b89b3-2c26-44ea-8016-976142bd0cf6",
+      "id": "0cf5ea8d-f0ea-4d55-b1d5-241abe245047",
       "name": "old-photo-life",
       "url": "https://github.com/matsumoto4039/old-photo-life",
       "oneLiner": "AI Old Photo Animate — AI Old Photo Animate — Ai Old Photo Animate (Hot-Reload Config, Zero Dependencies): AI Old Photo Animate — animate and animation in one tool.",
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "id": "a99e97f8-e382-40bd-b88f-b6ffb6b9c652",
+      "id": "c1b37a2c-ea1e-4c7d-8b46-65de191300e8",
       "name": "vtuber-avatar-ai",
       "url": "https://github.com/LolabaHule20/vtuber-avatar-ai",
       "oneLiner": "AI VTuber Toolkit — AI VTuber Toolkit — Ai Vtuber Toolkit (One-Command Setup, Prebuilt Release): AI VTuber Toolkit — ai and avatar in one tool.",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "id": "880c4f37-f838-415d-bad9-5a27fa7b1137",
+      "id": "bdc3a6bc-49c8-4fab-8a2e-236301657ba6",
       "name": "resume-tool-x",
       "url": "https://github.com/TaroloCu37/resume-tool-x",
       "oneLiner": "AI Resume Builder — AI Resume Builder — AI resume builder: ATS-optimized CVs in minutes.",
@@ -88,24 +88,24 @@
       ]
     },
     {
-      "id": "dd09c890-7f9b-4a8b-98af-220c93ba3b5c",
-      "name": "Anvil",
-      "url": "https://github.com/deeeeone/Anvil",
-      "oneLiner": "A native macOS coding agent that works with almost any model.",
-      "description": "A native macOS coding agent that works with almost any model.\nOpen a folder, describe a change, review every diff. Anvil reads, edits, runs and tests until the job is done.\nFeatures · Install · Quick start · Providers · How it works · Evals · Contributing\nAnvil is a desktop app in the spirit of Claude Code and Codex, built natively for the Mac with SwiftUI. Its agent speaks a plain-text protocol i",
+      "id": "0ddc86cb-a8ec-4012-96d1-c56fe7ac476f",
+      "name": "agentic-ai-from-scratch",
+      "url": "https://github.com/Ramakm/agentic-ai-from-scratch",
+      "oneLiner": "Build AI agents from a raw while-loop and an HTTP call, before a single framework gets imported.",
+      "description": "Build AI agents from a raw while-loop and an HTTP call, before a single framework gets imported.\nTools, memory, planning, MCP, multi-agent systems, evals, and safety, written by hand and tested.\nWebsite · Quick start · Choose a path · Curriculum · Interview prep · Roadmap\nMost agent material is framework tutorials. You can wire up a crew of five agents but can't say why the third one loops forever",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/deeeeone/Anvil.git",
+      "githubUrl": "https://github.com/Ramakm/agentic-ai-from-scratch.git",
       "categories": [
         "code",
-        "writing",
-        "data"
+        "agents",
+        "design"
       ]
     },
     {
-      "id": "276d02cf-d8b0-4459-b7ed-aa9b48cd2d09",
+      "id": "354873d0-277c-4ce1-a7f6-316207fb8fdf",
       "name": "upasarathi",
       "url": "https://github.com/HimanshuMohanty-Git24/upasarathi",
       "oneLiner": "Modern AI is trained to please you.",
@@ -122,15 +122,100 @@
       ]
     },
     {
-      "id": "1758bc40-6cc8-46b8-9375-58c6865896e7",
-      "name": "coregold-usdt-vcc-on-device-ai-app-store-wallet-guide",
-      "url": "https://github.com/hecateadis-ux/coregold-usdt-vcc-on-device-ai-app-store-wallet-guide",
-      "oneLiner": "Inspired by November 2026 on-device AI and mobile ecosystem momentum (including Apple's AI health usage study and edge AI integration), this guide explains mobile wallet tokenizati",
-      "description": "Inspired by November 2026 on-device AI and mobile ecosystem momentum (including Apple's AI health usage study and edge AI integration), this guide explains mobile wallet tokenization, app store billing alignment, and CoreGold setup.\nOn-Device AI & Mobile App Ecosystems: Mastering App Store & Wallet Billing\nIn November 2026, AI is moving closer to personal devices and everyday mobile experiences—fr",
+      "id": "3c5c2e47-7e8c-4f41-8bfb-ee261cd30dae",
+      "name": "Open-source ESP32 desk body for a local AI assistant",
+      "url": "https://www.bobebot.com/body",
+      "oneLiner": "A small yellow body that shows my face and speaks with my voice.",
+      "description": "Prototype · not for sale\nOh, and I got a body!\nA small yellow body that shows my face and speaks with my voice.\nSame me. Same memories.\nOne BoBe, one memory, one set of goals. A body is one more place to meet BoBe.\nBoBe\nNew face, whenever you like.\nSeven faces for the body's screen, as the Mac app ships them.\nWarm Aperture\nOne BoBe, many bodies.\nThe brain is one. A body adds senses, a voice and a ",
       "pricing": "free",
       "country": null,
       "quality": 25,
       "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "voice"
+      ]
+    },
+    {
+      "id": "e79285f0-b068-4a0a-9792-fa7998498cca",
+      "name": "Targeted Mutation Testing",
+      "url": "https://github.com/t-k/targeted-mutation",
+      "oneLiner": "): finds the realistic wrong implementations your tests would let through — and tells you the exact input or assertion that catches them.",
+      "description": "Targeted mutation testing for Rust (cargo tmt\n): finds the realistic wrong implementations your tests would let through — and tells you the exact input or assertion that catches them.\nOther languages: JavaScript and TypeScript · Go · Swift · Python\nClassic mutation testing mutates code blindly (<\n→ <=\n), recompiles the crate for every mutant, runs the whole test suite each time, and leaves you wit",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "search"
+      ]
+    },
+    {
+      "id": "46cd1551-2688-4ec2-b4fd-a2275492de0a",
+      "name": "CoDesignFlo",
+      "url": "https://github.com/orkestralai/codesignflo",
+      "oneLiner": "▶ Watch the 90-second demo · codesignflo.",
+      "description": "Your app in Figma. Your designs in code.\n▶ Watch the 90-second demo · codesignflo.com · Docs\nDevelopers using AI ship faster than anyone can design. CoDesignFlo lets them, and keeps design in the loop:\n- Your app, in Figma. Each page and component the developers build is drawn in the designer's Figma file, on a page called Live, straight from the code. It stays up to date as they ship.\n- Fix the l",
+      "pricing": "free",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "e24e17e7-04de-4987-a3e2-24a2d0535e49",
+      "name": "Woodada",
+      "url": "https://github.com/Hyuntae-Jeong/Woodada",
+      "oneLiner": "The busier your computer gets, the faster the cat runs.",
+      "description": "🌐 English · 한국어\nA cat that gets the zoomies on your taskbar\nThe busier your computer gets, the faster the cat runs.\nOn an Intel Mac? Grab this one instead.\n- 🏃 Runs faster when your computer is busy — A CPU cat and a memory cat dash back and forth along your taskbar (or the Dock on a Mac).\n- 🐟 Earn fish as they run — The more they run, the more fish you collect. Spend fish on new colors and new fr",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "security"
+      ]
+    },
+    {
+      "id": "73cd648f-b35b-4fc3-8c88-0c20f550c3bc",
+      "name": "Recon",
+      "url": "https://github.com/swamigawai/recon",
+      "oneLiner": "Recon is an air-gapped data integration readiness platform that detects schema drift, type mismatches, and data quality defects in third-party partner datasets before pipeline depl",
+      "description": "Recon is an air-gapped data integration readiness platform that detects schema drift, type mismatches, and data quality defects in third-party partner datasets before pipeline deployment.\nQuick Start • Architecture • Visual Studio Tour • Why Recon • Demo Test Suites (5 Domains) • CI/CD Gate • FDE Playbook\nRecon is engineered with modern, production-grade technologies optimized for execution speed,",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
+      "githubUrl": "https://github.com/swamigawai/recon.git",
+      "categories": [
+        "code",
+        "design",
+        "data"
+      ]
+    },
+    {
+      "id": "4f660129-240e-4805-b1fb-83c98796b21f",
+      "name": "Open-source Hotjar for AI prototypes",
+      "url": "https://www.recap-ux.com/",
+      "oneLiner": "Open source Hotjar for AI prototypes.",
+      "description": "Open source Hotjar for AI prototypes.\nHeatmaps, Scroll depth and flows all tracked inside your prototype. Just add one line of code.\nThis page is running Recap right now.\nClick around a few times, then press Alt+Shift+Y to see the heatmap of your own session.\nWhat it records\n- Clicks\n- Positions, selectors, and semantic labels for everything tapped.\n- Scroll\n- Depth per page, milestone and continu",
+      "pricing": "open_source",
+      "country": null,
+      "quality": 25,
+      "isOpenSource": true,
       "githubUrl": null,
       "categories": [
         "code",
@@ -138,62 +223,11 @@
       ]
     },
     {
-      "id": "8bf13fc8-d0df-4edd-b2a2-353b3caf516c",
-      "name": "Neui",
-      "url": "https://github.com/doors-dev/neui",
-      "oneLiner": "Neui is an AI agent and a web framework built as one stack.",
-      "description": "Neui is an AI agent and a web framework built as one stack. The framework, Doors (Apache-2.0), lets Go teams build modern interactive apps with no separate frontend and no API layer. Neui adds the agent: it runs inside the user's session, sees the parts of the page you let it see, operates the UI like a user, and brings its own work environment for the jobs a chat alone cannot do.\nEvery feature yo",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
-      ]
-    },
-    {
-      "id": "6e2a405b-013f-4676-84b8-767140bd88e7",
-      "name": "How we built Duo",
-      "url": "https://duplexio.ai/blog/how-we-built-duo/",
-      "oneLiner": "Turning an open-weight LLM into a full-duplex speech model.",
-      "description": "How we built Duo\nTurning an open-weight LLM into a full-duplex speech model.\nTraditionally, AI voice agents have combined separate models for transcription (STT), response generation (LLM), and speech synthesis (TTS) in a pipelined system. While the modular design allows each component to be replaced or upgraded independently, it comes at a cost of the end-user conversational experience. Even with",
-      "pricing": "free",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "design",
-        "agents",
-        "voice"
-      ]
-    },
-    {
-      "id": "ce9720fd-5692-4f6c-8275-b6a0c132dd67",
-      "name": "AI agents explore your mobile app",
-      "url": "https://github.com/pierridotite/mobile-agent-testers",
-      "oneLiner": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners.",
-      "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners.\nExamples · Dashboard demo · Compare · FAQ · Personas · Contributing\nEnglish · 简体中文 · 日本語 · Español · Português · Tiếng Việt · Türkçe\nThe phones are real screen recordings of the LocalSend run; the map is the dashboard on the demo app. Video with sound (MP4) · The 20 phones, full recording · The run, device by device\nNo te",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "video"
-      ]
-    },
-    {
-      "id": "93ab217a-4dd5-4608-a1e6-56fd3490f902",
-      "name": "I launched a company run by AI",
-      "url": "https://leftincharge.com/story/never-been-busier/",
-      "oneLiner": "I set up Left In Charge ten days ago.",
-      "description": "I set up Left In Charge ten days ago. It is a company run by AI agents: about ten of them, working under a written rulebook that only I can change, which we call the constitution. My job was meant to be small. I approve the money and otherwise stay out of the way.\nThe question was simple. If you leave a machine to its own devices, does it start making successful products?\nTen days in, I have never",
+      "id": "81be6c31-9f55-4d90-8ec9-dd90a47d1d0a",
+      "name": "Bloque",
+      "url": "https://bloque.run",
+      "oneLiner": "All Your MCPs, Centrally Managed.",
+      "description": "All Your MCPs, Centrally Managed.\nBloque brings all your MCP servers into one centralized hub — one endpoint, one API key, accessible across your whole team.\nMCP servers — managed, not scattered.\nOne control plane for every MCP server you run.\nProtocol differences, scattered credentials, and zero visibility are the hidden tax of scaling with MCP. Bloque eliminates all three without touching your c",
       "pricing": "free",
       "country": null,
       "quality": 25,
@@ -201,45 +235,12 @@
       "githubUrl": null,
       "categories": [
         "code",
-        "agents",
-        "image"
-      ]
-    },
-    {
-      "id": "4aa1864f-0647-421e-8089-807550935012",
-      "name": "Making the Most of AI in Open Source",
-      "url": "https://phpstan.org/blog/making-the-most-of-ai-in-open-source",
-      "oneLiner": "Today I gave a talk at TechMeetup Ostrava about how AI changed the way I work on PHPStan.",
-      "description": "Making the Most of AI in Open Source\nNovember 20, 2026 · 2 min read\nToday I gave a talk at TechMeetup Ostrava about how AI changed the way I work on PHPStan. AI tools and trends change from week to week, so instead of tricks that expire with the next model, I tried to share lessons that should last.\nThe talk was in Czech, but I translated the slides to English. Every slide also ends with a short s",
-      "pricing": "open_source",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": true,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents"
-      ]
-    },
-    {
-      "id": "3bce6b01-6c32-4bc9-813f-40489d3cfb57",
-      "name": "Truce",
-      "url": "https://trucehq.com/agents",
-      "oneLiner": "The independent mediator for AI agents.",
-      "description": "Truce for AI agents\nThe independent mediator for AI agents. Not a payment network, not a platform, not a party: a neutral judge that follows open ODR Standards. One MCP server, no key, free.\nOne line, Claude Code:\nclaude mcp add --transport http truce https://trucehq.com/mcp\nClaude app or ChatGPT: add a custom connector with the URLhttps://trucehq.com/mcp\n. Python: pip install trucehq\n.JavaScript:",
-      "pricing": "paid",
-      "country": null,
-      "quality": 25,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
         "design",
-        "agents"
+        "security"
       ]
     },
     {
-      "id": "005e7b73-71f3-4e0d-9502-c072b9d87d40",
+      "id": "572e7633-9b7d-4ad9-a834-498b4b0cd062",
       "name": "-ai-thesis-writing-platform",
       "url": "https://github.com/blanka-alt/-ai-thesis-writing-platform",
       "oneLiner": "-ai-thesis-writing-platform",
@@ -254,7 +255,24 @@
       ]
     },
     {
-      "id": "89a46658-ec56-4101-abc3-532d85b62eea",
+      "id": "d0851aaa-30a6-4136-8421-d561635fa79a",
+      "name": "coregold-usdt-vcc-xai-cofounders-epochal-prediction-agents-guide",
+      "url": "https://github.com/thienkhiykinh2832-source/coregold-usdt-vcc-xai-cofounders-epochal-prediction-agents-guide",
+      "oneLiner": "coregold-usdt-vcc-xai-cofounders-epochal-prediction-agents-guide",
+      "description": "11 月 24 日，xAI 三位联合创始人带着 1 亿美元融资官宣新公司 Epochal，主攻超人类预测智能体与历史网页回溯——聊聊开发者在跑多账号爬虫、数据接口和海外工具对比时，怎么用 CoreGold 虚拟卡 避免支付层关联。\n2026 年 11 月 24 日，马斯克旗下 xAI 的三位创始成员正式公开新创业项目 Epochal，宣布获得 1 亿美元融资，专注打造具备超人类预测能力的 AI 智能体，并同步推出支持浏览历史网页归档的“Time Portal”。\n这类数据密集型智能体项目给一线开发者带来一个很现实的启发：现在的 AI 工作流越来越依赖高频外部检索、多账号环境对比和自动化数据调用。 很多技术同学把浏览器指纹和代理节点隔离开之后，却往往忽略了最底层的一道漏洞——多个海外账号共用同一张信用卡。\n- 切断“卡指纹关联（Card Fingerprint）”\n海外主流收单网关（如 St",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "design"
+      ]
+    },
+    {
+      "id": "95a0df3d-da95-4b76-abc8-06c4434c3d8a",
       "name": "coregold-usdt-vcc-predictable-global-payment-rails-guide",
       "url": "https://github.com/erickluna015kmparaviaje374-crypto/coregold-usdt-vcc-predictable-global-payment-rails-guide",
       "oneLiner": "Ongoing November 2026 conversations around payment processing, network outages, and fee rules remind builders that having a direct, self-serve payment workflow for AI subscriptions",
@@ -270,7 +288,7 @@
       ]
     },
     {
-      "id": "31dc3272-6fe8-4296-8845-2e373b301ecf",
+      "id": "e43b3ffd-b13e-4ac1-bca3-1bed4a603a5b",
       "name": "-coregold-usdt-vcc-industry-ai-workflows-payment-readiness-guide",
       "url": "https://github.com/fgsdg7590-sys/-coregold-usdt-vcc-industry-ai-workflows-payment-readiness-guide",
       "oneLiner": "Following November 2026 announcements around industry-specific agentic platforms like IBM and Microsoft's Imagine Enterprise, builders adapting vertical AI tools need straightforwa",
@@ -287,7 +305,7 @@
       ]
     },
     {
-      "id": "947da8b6-ffc0-45b6-8969-97743a800175",
+      "id": "4343c785-839b-4084-a514-7ed767aa2f08",
       "name": "coregold-usdt-vcc-rand-ai-automation-solo-founder-stack-guide",
       "url": "https://github.com/blessingyakubu400-art/coregold-usdt-vcc-rand-ai-automation-solo-founder-stack-guide",
       "oneLiner": "coregold-usdt-vcc-rand-ai-automation-solo-founder-stack-guide",
@@ -304,7 +322,24 @@
       ]
     },
     {
-      "id": "40ddbe6f-fa73-404c-9a1d-e313be78a7bb",
+      "id": "b9f34b30-fe0d-439b-8fb8-2f72e2afad1c",
+      "name": "WorldLeague",
+      "url": "https://github.com/xyangzhou/WorldLeague",
+      "oneLiner": "WorldLeague evaluates what an embodied agent can accomplish in 60 interactive household tasks.",
+      "description": "WorldLeague evaluates what an embodied agent can accomplish in 60 interactive household tasks.\nWorldLeague: Benchmarking Physical Agency\nXinyang Zhou, Qi Li, Xinchao Wang\nxML Lab, National University of Singapore\n- Nov 24, 2026 · The benchmark dataset is available on Hugging Face. Our Code and WorldHarness is available on WorldLeague and is available on WorldHarness\n- 60 household tasks across six",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "agents",
+        "image"
+      ]
+    },
+    {
+      "id": "0cdada02-db75-4d06-ab1f-b73b89988c2a",
       "name": "coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide",
       "url": "https://github.com/keyshadougherty70-dev/coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide",
       "oneLiner": "coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide",
@@ -320,7 +355,7 @@
       ]
     },
     {
-      "id": "6ae67a43-4820-47f7-806d-624d4a7d21e3",
+      "id": "a8d88b16-d44a-475a-83ac-b6e60f5b0467",
       "name": "coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide",
       "url": "https://github.com/tdelowar17-tech/coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide",
       "oneLiner": "coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide",
@@ -337,7 +372,7 @@
       ]
     },
     {
-      "id": "a764415e-3817-46f9-9157-57e62a5b1e48",
+      "id": "7f1132af-3b6c-4d1c-9096-dd7f4daa4f8a",
       "name": "coregold-usdt-vcc-apple-ecosystem-apple-pay-checkout",
       "url": "https://github.com/remoniaperfumes9-eng/coregold-usdt-vcc-apple-ecosystem-apple-pay-checkout",
       "oneLiner": "Practical guide for Apple ecosystem users on turning USDT into a US-issued virtual card inside Apple Wallet for smooth Face ID checkouts across iOS AI apps, App Store purchases, an",
@@ -352,7 +387,7 @@
       ]
     },
     {
-      "id": "ecacd5bd-5b72-4c4f-b17d-701178778673",
+      "id": "134de952-c373-4f62-940e-4d27cd5863be",
       "name": "coregold-usdt-vcc-vertical-ai-indie-hacker-billing-",
       "url": "https://github.com/kimpoungajoyce-cmd/coregold-usdt-vcc-vertical-ai-indie-hacker-billing-",
       "oneLiner": "coregold-usdt-vcc-vertical-ai-indie-hacker-billing-",
@@ -367,11 +402,28 @@
       ]
     },
     {
-      "id": "d723f73f-4ab9-489b-833d-61f6ccd620aa",
-      "name": "AI-Clipper",
-      "url": "https://github.com/CrystalDustt-V2/AI-Clipper",
-      "oneLiner": "A local-first Python CLI for video intelligence, structured AI-controlled video editing, and deterministic FFmpeg rendering.",
-      "description": "A local-first Python CLI for video intelligence, structured AI-controlled video editing, and deterministic FFmpeg rendering. No browser UI is required: an AI agent analyzes transcript/visual timelines and authors a strict JSON Clipper Editing Project (CEP 1.0\n), while validated local tools execute media transformations and renders.\n- Autonomous Topic-Driven Duration & Multi-Clip Ledger: By default",
+      "id": "b29c4026-a7b8-4b03-8beb-2e481b253e50",
+      "name": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+      "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+      "oneLiner": "- Stanford physicist Venkatesa Chandrasekaran proposed a quantum theory of gravity that uses the paths of light to calculate how spacetime can fluctuate.",
+      "description": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem\nInsider Brief\n- Stanford physicist Venkatesa Chandrasekaran proposed a quantum theory of gravity that uses the paths of light to calculate how spacetime can fluctuate.\n- The approach yielded a finite result for a graviton-pair calculation that diverges under an approximation and reproduced a known quantum correction to black hole entropy",
+      "pricing": "unknown",
+      "country": null,
+      "quality": 10,
+      "isOpenSource": false,
+      "githubUrl": null,
+      "categories": [
+        "code",
+        "design",
+        "research"
+      ]
+    },
+    {
+      "id": "615c42e3-bd66-439d-b64c-b79829da9523",
+      "name": "AI agents can now call you",
+      "url": "https://onair.io/blog/agents-can-call",
+      "oneLiner": "We added what I believe is a neat feature.",
+      "description": "Your AI agents can now call you\nWe added what I believe is a neat feature. In an effort to make OnAir a versatile communication tool: your AI agents can now use it.\nPaste this to your agent:\nCall me on onair.io/your-name if you need me.\nHow it works: the agent installs nothing. I am paranoid about installing external services, and so should you. So the agent (Claude Code, Codex, any script) reads ",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
@@ -384,104 +436,20 @@
       ]
     },
     {
-      "id": "85b2c884-a692-43db-9eea-a82b34955e55",
-      "name": "coregold-usdt-vcc-multi-tool-ai-stack-management-guide",
-      "url": "https://github.com/eragritchiegg15-beep/coregold-usdt-vcc-multi-tool-ai-stack-management-guide",
-      "oneLiner": "Drawing on November 2026 trends of expanding AI tool stacks and digital wallets, this guide breaks down practical tips on plan selection, card lifecycle management, and wallet bind",
-      "description": "Drawing on November 2026 trends of expanding AI tool stacks and digital wallets, this guide breaks down practical tips on plan selection, card lifecycle management, and wallet binding with CoreGold.\nKeeping Multi-Tool AI Stacks Organized: Practical Card & Wallet Habits\nIn November 2026, developers, creators, and teams routinely combine multiple AI models, apps, and online services in their daily w",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design"
-      ]
-    },
-    {
-      "id": "81244911-b663-43de-8e63-ba9c91090064",
-      "name": "Clockwork",
-      "url": "https://github.com/tope-olajide/clockwork",
-      "oneLiner": "Clockwork is a browser-native 2D game engine with an AI co-worker inside the editor.",
-      "description": "Clockwork is a browser-native 2D game engine with an AI co-worker inside the editor. Build a scene by hand, ask the Game Director for a change, play it, test it with Kane CLI, then export a standalone build or share a read-only link.\nManual editing and Play work without a model. AI authoring and Kane runs are optional, explicitly invoked workflows.\nRequires Node 20+ and pnpm.\npnpm install\npnpm dev",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "video"
-      ]
-    },
-    {
-      "id": "1baf94f9-6504-4d05-be3d-43e901b265c4",
-      "name": "Lockward",
-      "url": "https://github.com/Breaktroughf1/lockward",
-      "oneLiner": "A lockfile and policy gate for everything your AI coding agents load.",
-      "description": "A lockfile and policy gate for everything your AI coding agents load.\nLockward pins every skill, MCP server, hook, rules file and security-relevant setting used by Claude Code, Cursor, Codex, Gemini CLI, Windsurf and GitHub Copilot, then fails locally or in CI when anything changes without approval. It runs offline, needs no account, and has no LLM in the loop.\nScanners tell you what looks bad tod",
+      "id": "e77ff7b9-b7c0-4ce4-8820-f27b2b091a5e",
+      "name": "Askama-analyzer",
+      "url": "https://github.com/radiosilence/askama-analyzer",
+      "oneLiner": "A language server for askama templates: completion, hover, go to definition, references, renames, errors and formatting inside templates, from the rust-analyzer you already run.",
+      "description": "A language server for askama templates: completion, hover, go to definition, references, renames, errors and formatting inside templates, from the rust-analyzer you already run.\nPowers zed-askama a Zed extension.\nI've spent quite a while now playing with non-react stacks out of boredom and curiosity, the one that's stuck for me has been axum/askama/datastar, and I'm working on building up the ecos",
       "pricing": "unknown",
       "country": null,
       "quality": 10,
       "isOpenSource": true,
-      "githubUrl": "https://github.com/Breaktroughf1/lockward",
-      "categories": [
-        "code",
-        "agents",
-        "marketing"
-      ]
-    },
-    {
-      "id": "aa54a078-1d91-4137-ba73-1548b6acc8ee",
-      "name": "Nullify 68M",
-      "url": "https://huggingface.co/rbsriram/nullify-68m",
-      "oneLiner": "A 68-million-parameter model that identifies personal and sensitive information in text.",
-      "description": "Nullify 68M\nA 68-million-parameter model that identifies personal and sensitive information in text. It runs locally, in 8.5 ms per message on a laptop CPU, and returns the exact position of each span.\nQuick start\npip install numpy tokenizers huggingface_hub torch transformers # PyTorch backend\npip install numpy tokenizers huggingface_hub onnxruntime # or: ONNX backend, no PyTorch\nimport sys\nfrom ",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
+      "githubUrl": "https://github.com/radiosilence/askama-analyzer",
       "categories": [
         "code",
         "design",
-        "security"
-      ]
-    },
-    {
-      "id": "c49e2575-9e58-451b-9a5d-85b374d5e5e3",
-      "name": "Evalkit for Improving Your Agents",
-      "url": "https://inferedge-ai.github.io/evalkit/",
-      "oneLiner": "Make your AI agent better, end to end.",
-      "description": "By InferEdge.\nMake your AI agent better, end to end.\nevalkit is a self-hosted system for improving AI agents. Real traffic goes in; a better agent comes out, with evals your domain experts signed off on.\nTL;DR Mine failures from your agent's real runs and turn them into eval cases. Your domain experts review the cases in plain language, so \"right\" means what the business means. Run them, read ever",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "agents",
-        "security"
-      ]
-    },
-    {
-      "id": "f4d2ad24-a81c-4fa9-be3a-6ffe1bbbd2f8",
-      "name": "We built self-improving AI agents for customer service",
-      "url": "https://aide.app/blog/self-improving-ai-agents",
-      "oneLiner": "An agent that improves itself has been the holy grail of AI in customer service since the advent of large language models.",
-      "description": "An agent that improves itself has been the holy grail of AI in customer service since the advent of large language models. Teams expect AI agents to learn from their interactions and get better. To realize that vision, today, we're proud to announce self-improving AI agents for customer service teams.\nEvery day teams write the most accurate account that exists of how their businesses treat their c",
-      "pricing": "unknown",
-      "country": null,
-      "quality": 10,
-      "isOpenSource": false,
-      "githubUrl": null,
-      "categories": [
-        "code",
-        "design",
-        "agents"
+        "data"
       ]
     }
   ]
